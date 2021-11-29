@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllDeliveryOptions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all available Delivery Options.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

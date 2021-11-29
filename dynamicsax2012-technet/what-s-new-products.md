@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, new products can be defined and released to individual companies. Additionally, an item is now always based on a product definition. In Microsoft Dynamics AX 2009, you could create items without using a formalized definition process.

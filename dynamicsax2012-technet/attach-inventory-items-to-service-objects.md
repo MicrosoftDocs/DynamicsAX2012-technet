@@ -15,6 +15,9 @@ ms.search.region: Global
 # Attach inventory items to service objects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to attach an inventory item to a service object. When you attach an item to a service object, you can control and report the service activities that are performed for the item.

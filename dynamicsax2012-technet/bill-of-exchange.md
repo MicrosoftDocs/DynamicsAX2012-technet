@@ -13,6 +13,9 @@ f1_keywords:
 
 # bill of exchange
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents an unconditional request for a third-party to pay a second party on demand.
 
 ## See also

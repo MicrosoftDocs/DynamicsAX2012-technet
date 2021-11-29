@@ -17,6 +17,9 @@ dev_langs:
 
 # SerializeObjectToByteArray Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Serialize object to byte array.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CheckoutControl Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CheckoutControl](checkoutcontrol-class-microsoft-dynamics-retail-ecommerce-sdk-controls.md) type exposes the following members.
 
 ## Methods

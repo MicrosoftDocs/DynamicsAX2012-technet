@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Customizing Existing Microsoft Dynamics AX Reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you will customize the Balance control accounts report which is defined in the LedgerBalanceControlReport model project that is included with Microsoft Dynamics AX. The Balance control accounts report displays in the General ledger module. Model projects in Microsoft Dynamics AX adhere to layered development in the MorphX development environment. This allows model projects to be customized, upgraded, and patched using the built-in layering support. This walkthrough provides an example of how to customize existing reports in Microsoft Visual Studio and see those changes in Microsoft Dynamics AX.

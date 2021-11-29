@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Consuming Microsoft Dynamics AX Services from an External Client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can consume services that are hosted by Microsoft Dynamics AX from external clients that use .NET Framework languages such as C\#. For example, your C\# code can call a [document service](aif-document-services.md) or a [custom service](using-custom-services.md). Any service that is exposed by using an [integration port](integration-ports.md) in Microsoft Dynamics AX can be consumed by an external client. For more information about the different types of services in Microsoft Dynamics AX, see [Developing with Services and AIF](developing-with-services-and-aif.md).

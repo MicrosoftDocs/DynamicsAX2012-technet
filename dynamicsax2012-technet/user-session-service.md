@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # User Session Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, the user session service returns information about the calling user such as the user’s default language, default company, default company time zone, and so on. The user session service is:

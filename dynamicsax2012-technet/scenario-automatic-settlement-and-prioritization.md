@@ -14,6 +14,9 @@ ms.search.region: Global
 # Scenario: Automatic settlement and prioritization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You have two options when you settle payments with invoices and other transactions. You can manually select the transactions to settle, or Microsoft Dynamics AX can select the transactions automatically by using the automatic settlement functionality. This topic describes how transactions are settled if you select the **Automatic settlement** check box in the **Accounts receivable parameters** form. You can also customize how automatic settlements are processed by using the **Prioritize settlement** check box, the **Use priority for automatic settlements** check box, and the **Manage priority** link. For information about these options, see [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).

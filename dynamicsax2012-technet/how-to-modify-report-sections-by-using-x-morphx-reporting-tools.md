@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Modify Report Sections by Using X++ (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can override the executeSection method for a report section to modify the layout of the section and to modify how the section is printed. You can use the ReportSection class, the ReportControl class, and additional classes that extend the ReportControl class to modify a section and the controls in the section.

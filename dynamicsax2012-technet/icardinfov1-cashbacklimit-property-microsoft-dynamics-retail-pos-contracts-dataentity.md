@@ -17,6 +17,9 @@ dev_langs:
 
 # CashBackLimit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or set the cash back limit for a debit card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

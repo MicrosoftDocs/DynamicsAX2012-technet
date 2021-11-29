@@ -18,6 +18,9 @@ dev_langs:
 
 # BuildFromJoinPart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds FROM and JOIN's clauses to a string builder.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces](microsoft-dynamics-commerce-runtime-framework-data-interfaces-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # GetChannelCategoryAttributesResponse Constructor (IEnumerable(AttributeCategory))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetChannelCategoryAttributesResponse](getchannelcategoryattributesresponse-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

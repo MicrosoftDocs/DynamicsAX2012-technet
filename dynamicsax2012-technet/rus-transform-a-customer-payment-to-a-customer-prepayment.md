@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Transform a customer payment to a customer prepayment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If unsettled payment documents remain at the end of reporting period, the payment documents must be converted to prepayments and included in the sales book. You can also convert a payment into a prepayment by using the **Customer transactions** form.

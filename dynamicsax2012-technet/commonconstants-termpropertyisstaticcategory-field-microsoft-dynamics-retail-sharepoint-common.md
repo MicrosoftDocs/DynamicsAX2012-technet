@@ -17,6 +17,9 @@ dev_langs:
 
 # TermPropertyIsStaticCategory Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents name of the category's property which indicates whether the category is static (exists only in TermStore) or dynamic (came from AX).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsActive Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether the parameter that determines if only the most recently used needs to be retrieved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

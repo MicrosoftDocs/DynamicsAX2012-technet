@@ -14,6 +14,9 @@ f1_keywords:
 # (NOR) Payment control report (CustInPaymNO) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment control** report is used to print the details of import payments. The details that are included in the report depend on the import format that is specified as the method of payment in the **Methods of payment - customers** form:

@@ -19,6 +19,9 @@ ms.search.region: Global
 # About product builder items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can create a product model for an item, you must make the item configurable. This topic provides information about configurable items and how to make an item configurable.

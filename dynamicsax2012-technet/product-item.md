@@ -13,6 +13,9 @@ f1_keywords:
 
 # product item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An item that is a type of product.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Specifying overdelivery or underdelivery on transfer order lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you update a picking list registration, the item quantity must match the quantity that is registered in the **Transfer quantity** field on the transfer order line. To deliver a quantity that differs from the quantity given on the transfer order line, you must enable a percentage of overdelivery or underdelivery for the product. The overdelivery and underdelivery settings can be enabled directly on the product or they can be enabled for individual transfer order lines:

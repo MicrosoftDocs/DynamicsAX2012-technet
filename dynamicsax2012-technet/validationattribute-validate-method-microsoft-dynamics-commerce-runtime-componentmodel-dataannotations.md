@@ -17,6 +17,9 @@ dev_langs:
 
 # Validate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validate the property value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

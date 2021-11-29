@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create an expression constraint for a product component 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic describes how to create expression constraints for components in a product configuration model in Microsoft Dynamics AX. Constraints control the attribute values that are available for components when you configure a product for a sales quotation, purchase order, or production order. You can use the following types of constraints:

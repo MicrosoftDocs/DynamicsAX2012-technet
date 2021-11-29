@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CacheAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CacheAttribute](cacheattribute-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # Price Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the price from the collection of SalesLines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

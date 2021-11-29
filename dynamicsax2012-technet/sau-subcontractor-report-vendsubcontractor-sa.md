@@ -17,6 +17,9 @@ f1_keywords:
 # (SAU) Subcontractor report (VendSubContractor\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Subcontractor** report displays a summary of all subcontractor transaction details and includes the subcontractor name and address, contract value, Zakat file number, organization number, and total amounts of transactions. This report is typically used by accountants, collections managers, clerks, and sales managers.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateEntity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

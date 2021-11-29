@@ -18,6 +18,9 @@ ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 # (THA, SAU, GBR, IRL) Set up a withholding tax group and attach it to a vendor or customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Withholding tax groups** form to create a withholding tax group. After you create a group, you can assign multiple withholding tax codes and calculate multiple withholding tax rates for transactions. You can also attach a withholding tax group to a vendor or customer. For more information, see [Withholding tax groups (form)](https://technet.microsoft.com/library/aa591973\(v=ax.60\)).

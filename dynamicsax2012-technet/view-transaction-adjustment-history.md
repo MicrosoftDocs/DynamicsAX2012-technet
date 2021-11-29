@@ -18,6 +18,9 @@ ms.search.region: Global
 # View transaction adjustment history 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By using the adjustment trace feature, you can view the adjustment history of a transaction, including the original transaction and all adjustments that have been made to it. The transaction history tree also displays the details about what was changed in the transaction, when the change was made, and by whom.

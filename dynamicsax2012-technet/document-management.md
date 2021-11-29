@@ -14,6 +14,9 @@ ms.search.region: Global
 # Document management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic provides answers to common document management questions. You can use document management in Microsoft Dynamics AX to attach files to records. For example, you can attach PDF, Microsoft Word, or Microsoft Excel files to a purchase order or a sales order. You can also create Word and Excel templates from Microsoft Dynamics AX data.

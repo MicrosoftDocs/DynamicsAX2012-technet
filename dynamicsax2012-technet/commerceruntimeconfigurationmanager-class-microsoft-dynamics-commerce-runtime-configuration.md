@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntimeConfigurationManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates functionality for reading the Commerce Runtime configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

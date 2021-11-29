@@ -20,6 +20,9 @@ ms.search.region: Global
 # About inventory blocking 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Inventory blocking is part of the quality inspection process. During the quality inspection, items are automatically blocked from consumption or issue. Also, you can manually block items that you want to prevent from being issued or consumed.

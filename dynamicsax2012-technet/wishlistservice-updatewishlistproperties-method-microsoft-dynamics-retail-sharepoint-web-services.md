@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateWishListProperties Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the wish list properties.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

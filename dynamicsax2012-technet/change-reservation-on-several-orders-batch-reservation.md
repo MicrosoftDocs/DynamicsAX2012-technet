@@ -18,6 +18,9 @@ ms.search.region: Global
 # Change reservation on several orders (batch reservation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This procedure describes how to change reservations on several orders at the same time, independent of location.

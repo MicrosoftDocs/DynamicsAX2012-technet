@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintTenderDeclaration Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints the tender declaration receipt, triggered when a tender declaration transaction is made.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Data import/export framework administrator security role (DMFAdministrator) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Data import/export framework administrator security role represents a user who administers the Microsoft Dynamics AX Data Import/Export Framework.

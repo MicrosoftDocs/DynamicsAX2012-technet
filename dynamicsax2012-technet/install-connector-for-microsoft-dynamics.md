@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Connector for Microsoft Dynamics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to install Connector for Microsoft Dynamics by using the Microsoft Dynamics AX Setup wizard. Use Connector to integrate data between Microsoft Dynamics CRM and Microsoft Dynamics AX. For example, you can integrate Microsoft Dynamics AX customers with Microsoft Dynamics CRM accounts. This integration gives you access to up-to-date customer and account information in both systems. For more information about Connector, see [the Connector page](https://go.microsoft.com/fwlink/?linkid=324872) on CustomerSource (logon is required).

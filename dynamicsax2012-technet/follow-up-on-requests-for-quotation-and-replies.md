@@ -30,6 +30,9 @@ ms.search.region: Global
 # Follow up on requests for quotation and replies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to follow up on request for quotations (RFQs) and RFQ replies. For example, you might want to identify the RFQ replies that expire on a specific date and time, or identify RFQ lines for which you have not received replies (bids).

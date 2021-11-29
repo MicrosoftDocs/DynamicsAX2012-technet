@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HtmlUnorderedList Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HtmlUnorderedList](htmlunorderedlist-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) type exposes the following members.
 
 ## Methods

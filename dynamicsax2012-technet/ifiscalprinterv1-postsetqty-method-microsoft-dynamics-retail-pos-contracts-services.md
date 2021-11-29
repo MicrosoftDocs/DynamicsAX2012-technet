@@ -17,6 +17,9 @@ dev_langs:
 
 # PostSetQty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after setting the quantity of a sale line item at the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

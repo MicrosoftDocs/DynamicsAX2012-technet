@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Redeclare tender in the store (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to change a tender declaration after you have entered opening or closing amounts on a register. For example, a register’s opening amounts may have been entered incorrectly.

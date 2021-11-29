@@ -20,6 +20,9 @@ ms.search.region: Global
 # Setting up time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up **Time and attendance**, follow these steps in the sequential order. Some steps may not be relevant, depending on the **Time and attendance** functionality that your company uses. You may have to repeat some of the tasks during the setup process.

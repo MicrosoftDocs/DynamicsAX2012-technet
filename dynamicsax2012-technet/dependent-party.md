@@ -13,6 +13,9 @@ f1_keywords:
 
 # dependent party
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A party who assumes a dependent role when it participates in a relationship with another party.
 
 ## See also

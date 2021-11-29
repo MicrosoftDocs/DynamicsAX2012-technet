@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TenderDropAndDeclareDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TenderDropAndDeclareDataManager](tenderdropanddeclaredatamanager-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

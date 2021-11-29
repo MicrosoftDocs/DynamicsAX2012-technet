@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting distribution
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A distribution of the financial consequence of an economic transaction to ledger accounts.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define matching tolerances for charges codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your organization wants to plan for expected freight costs, employees can enter the expected freight costs as charges on purchase orders. To help monitor the actual freight costs, you can use charges matching. Users can make sure that the variance between the total expected and total actual charges is within the acceptable tolerances that have been set up for the legal entity or for individual charges codes.

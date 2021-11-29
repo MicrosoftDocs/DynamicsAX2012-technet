@@ -14,6 +14,9 @@ ms.search.region: United Kingdom
 # (GBR) Set up reverse charge VAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can account for reverse charge value added tax (VAT) that is required on sales and purchases of mobile telephones, computer chips, microprocessors, or central processing units for business purposes in the United Kingdom. Under reverse charge VAT rules, the purchaser of the goods, instead of the seller, is liable to account for VAT on the sale.

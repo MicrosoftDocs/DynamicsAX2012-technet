@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Deploying the Document Service in an Outbound Exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough illustrates the following tasks:

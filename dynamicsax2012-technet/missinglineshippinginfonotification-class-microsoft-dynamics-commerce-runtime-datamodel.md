@@ -17,6 +17,9 @@ dev_langs:
 
 # MissingLineShippingInfoNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that one or more lines are missing required shipping information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

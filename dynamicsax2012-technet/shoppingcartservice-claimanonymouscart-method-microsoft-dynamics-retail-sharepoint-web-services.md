@@ -17,6 +17,9 @@ dev_langs:
 
 # ClaimAnonymousCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 If a cart already exissd resolor the anonymous user, we need to claim the cart after a successful login. Attempting to claim a cart that has been claimed by another user will result in a security exception. If the cart has already been claimed by the current user, no error is thrown.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # AffiliationsTable Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the affiliations table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

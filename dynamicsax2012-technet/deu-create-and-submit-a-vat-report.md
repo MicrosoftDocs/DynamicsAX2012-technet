@@ -17,6 +17,9 @@ ms.search.region: Germany
 # (DEU) Create and submit a VAT report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Sales tax payment** form to create the VAT declaration as an .xml file. The declaration is also updated to the log in the **Electronic tax declaration log** form. Use the **Electronic tax declaration log** form to create and submit the **German VAT declaration** by using Elektronische Steuereklärungen (ELSTER).

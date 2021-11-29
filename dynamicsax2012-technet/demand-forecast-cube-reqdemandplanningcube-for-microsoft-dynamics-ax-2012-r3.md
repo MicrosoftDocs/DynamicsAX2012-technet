@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Demand forecast cube (ReqDemandPlanningCube) for Microsoft Dynamics AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Demand forecast cube for Microsoft Dynamics AX is used to store historical demand data and demand forecast data. This article provides details about the cube.

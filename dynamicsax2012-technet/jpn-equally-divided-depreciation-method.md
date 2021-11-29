@@ -17,6 +17,9 @@ ms.search.region: Japan
 # (JPN) Equally divided depreciation method 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can set up the **Equally divided** depreciation method in the **Depreciation profiles** form to depreciate a deferred, low value, or lump sum fixed asset equally over one or more fiscal periods within the useful life of a fixed asset.

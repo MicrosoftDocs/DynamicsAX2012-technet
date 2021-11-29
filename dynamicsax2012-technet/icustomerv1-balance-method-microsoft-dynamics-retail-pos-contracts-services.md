@@ -17,6 +17,9 @@ dev_langs:
 
 # Balance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the customer balance of the customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

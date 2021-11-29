@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Analytics in Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides online analytical processing (OLAP) functionality through the use of cubes. These cubes, built on the Microsoft SQL Server Analysis Services platform, enable you to analyze large amounts of data and identify trends that you might not otherwise discover when viewing data on traditional reports.

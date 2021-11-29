@@ -17,6 +17,9 @@ f1_keywords:
 # Schedule and run jobs in Retail Scheduler 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 To schedule and run the data transfer between Microsoft Dynamics AX and retail channels, Commerce Data Exchange uses Retail Scheduler jobs and distribution schedules.

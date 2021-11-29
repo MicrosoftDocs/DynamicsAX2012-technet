@@ -17,6 +17,9 @@ dev_langs:
 
 # SettleCustomerOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Settle sales order by invoicing the order for quantities picked-up.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

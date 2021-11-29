@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Metadata Service Class Diagrams 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The metadata service is one of the system services available in Microsoft Dynamics AX. The metadata service returns information about Application Object Tree (AOT) objects such as tables, services, extended data types (EDTs), enums, and so on. This topic contains class diagrams for some of the commonly used classes in the metadata service. These classes include:

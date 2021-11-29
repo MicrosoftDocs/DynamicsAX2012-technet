@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post excise tax transactions from the customer payment journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you post sales transactions that include excise duty from the customer payment journal, the excise amounts that are calculated for the invoice line are credited to the payable accounts as defined in the **Tax ledger posting group** form for the ECC number.

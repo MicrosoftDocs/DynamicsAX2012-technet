@@ -14,6 +14,9 @@ ms.search.region: Global
 # Change the disposition status of an inventory batch 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to change the disposition status for an inventory batch. The status of the batch disposition is defined by the batch disposition code that is associated to the inventory batch. The status of the batch disposition can be either **Available** or **Unavailable**.

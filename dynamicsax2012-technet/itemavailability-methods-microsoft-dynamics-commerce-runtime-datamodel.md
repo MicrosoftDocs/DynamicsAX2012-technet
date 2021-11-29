@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ItemAvailability Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ItemAvailability](itemavailability-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

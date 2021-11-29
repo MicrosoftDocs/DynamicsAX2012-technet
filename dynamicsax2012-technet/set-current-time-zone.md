@@ -15,6 +15,9 @@ f1_keywords:
 # Set current time zone 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you upgrade your data from Microsoft Dynamics AX 4.0, you must specify your local time zone. This task opens the **Current time zone** form so that you can enter this information.

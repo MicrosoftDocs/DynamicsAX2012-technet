@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create production pools 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Set up production pools as a way to group production orders into various useful categories. For example, these categories can be used in the following ways:

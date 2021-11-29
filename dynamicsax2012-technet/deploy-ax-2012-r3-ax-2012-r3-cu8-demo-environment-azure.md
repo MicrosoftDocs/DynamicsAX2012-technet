@@ -1,6 +1,9 @@
 ---
 # required metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 title: Deploy AX 2012 R3 or AX 2012 R3 CU8 demo environments on Azure
 description: This topic provides information about how to deploy an AX 2012 R3 or AX 2012 R3 CU8 demo environment on Microsoft Azure.
 author: kfend
@@ -13,17 +16,35 @@ ms.technology:
 
 # optional metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 # ms.search.form: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 # ROBOTS: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 audience: Developer, IT Pro
 # ms.devlang: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.reviewer: sericks
 ms.search.scope: AX 2012
 # ms.tgt_pltfrm: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.custom: 15561
 ms.assetid: b7f2e7b9-2627-4e8f-beab-a3cea8d79dc4
 ms.search.region: Global
 # ms.search.industry: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.author: kfend
 ms.search.validFrom: 
 ms.dyn365.ops.version: 2012
@@ -31,6 +52,9 @@ ms.dyn365.ops.version: 2012
 ---
 
 # Deploy AX 2012 R3 or AX 2012 R3 CU8 demo environments on Azure
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 
 Prerequisites
 -------------

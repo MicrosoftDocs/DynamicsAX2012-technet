@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPickingList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a picking list with lines from Ax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

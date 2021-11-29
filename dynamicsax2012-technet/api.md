@@ -14,6 +14,9 @@ f1_keywords:
 
 # API
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of routines that an application uses to request and carry out lower-level services performed by a computer's operating system. These routines usually carry out maintenance tasks such as managing files and displaying information.
 
 ## See also

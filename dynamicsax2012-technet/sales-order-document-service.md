@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sales Order Document Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX sales order service enables external systems to read, create, update, and delete sales orders. You can configure the sales order service on an inbound or an outbound port to expose the following service operations:

@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrentPrincipal Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current principal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

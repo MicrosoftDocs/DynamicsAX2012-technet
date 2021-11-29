@@ -17,6 +17,9 @@ dev_langs:
 
 # SetLoyaltyCardFromCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the loyalty card in the cart from the customer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

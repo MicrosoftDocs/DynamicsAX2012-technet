@@ -17,6 +17,9 @@ dev_langs:
 
 # AvailableShippingOptions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the availabe shipping options to choose from such as pick up from store, ship to saved addresses, etc.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

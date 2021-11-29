@@ -15,6 +15,9 @@ dev_langs:
 
 # SortColumn Constructor (String, Boolean)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [SortColumn](sortcolumn-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

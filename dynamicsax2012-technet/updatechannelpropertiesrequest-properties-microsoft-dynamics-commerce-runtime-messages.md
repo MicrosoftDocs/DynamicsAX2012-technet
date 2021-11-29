@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UpdateChannelPropertiesRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UpdateChannelPropertiesRequest](updatechannelpropertiesrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

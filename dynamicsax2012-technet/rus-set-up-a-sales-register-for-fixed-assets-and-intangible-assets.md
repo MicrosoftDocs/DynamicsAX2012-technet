@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a sales register for fixed assets and intangible assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The **FA/IA sale** register consolidates information about asset sales operations and calculates losses disposal of depreciable property and intangible assets that are recognized as deferrals for tax purposes.

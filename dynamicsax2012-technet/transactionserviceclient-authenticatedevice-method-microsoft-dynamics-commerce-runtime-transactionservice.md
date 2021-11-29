@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthenticateDevice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Authenticate a device in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

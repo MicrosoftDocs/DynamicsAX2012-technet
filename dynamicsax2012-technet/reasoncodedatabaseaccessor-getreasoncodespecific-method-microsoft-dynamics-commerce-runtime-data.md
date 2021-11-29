@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReasonCodeSpecific Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the entity specific reason code with given table information and keys.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

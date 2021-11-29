@@ -17,6 +17,9 @@ dev_langs:
 
 # CatalogId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the catalog identifier of this context.
 
 There are three values possible for Catalog id : a) 0 - all active catalogs, b) a specific catalog id or c) null - no catalog id passed (for sharepoint).

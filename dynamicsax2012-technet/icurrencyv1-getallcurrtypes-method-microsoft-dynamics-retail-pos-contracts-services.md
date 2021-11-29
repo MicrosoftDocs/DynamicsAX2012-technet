@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllCurrTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The current implementation fetches all currency codes available for the current DataareaId value.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

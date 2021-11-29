@@ -23,6 +23,9 @@ ms.search.region: Global
 # Define the look and feel of mobile device displays 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

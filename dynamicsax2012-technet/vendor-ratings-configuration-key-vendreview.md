@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Vendor ratings configuration key (VendReview) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor ratings** configuration key controls access to vendor rating features in both Microsoft Dynamics AX and Enterprise Portal for Microsoft Dynamics AX.

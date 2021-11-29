@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Resources license code (WrkCtr) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Resources** license code enables access to forms and features for working with operations resources in Microsoft Dynamics AX.

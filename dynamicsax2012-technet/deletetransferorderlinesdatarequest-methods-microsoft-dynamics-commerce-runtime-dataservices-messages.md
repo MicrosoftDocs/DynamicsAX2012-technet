@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DeleteTransferOrderLinesDataRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DeleteTransferOrderLinesDataRequest](deletetransferorderlinesdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

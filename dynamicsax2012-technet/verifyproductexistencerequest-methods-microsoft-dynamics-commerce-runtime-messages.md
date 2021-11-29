@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # VerifyProductExistenceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [VerifyProductExistenceRequest](verifyproductexistencerequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Change AOS ports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, an instance of Application Object Server (AOS) runs on TCP/IP port 2712, services WSDL port 8101, and services endpoint port 8201. You can change the TCP/IP port, provided that the new port number is not used by another AOS instance or another application. You cannot change the services port. If you want to specify different services ports, you must install a new instance of AOS and specify the port numbers of the services ports in Setup.

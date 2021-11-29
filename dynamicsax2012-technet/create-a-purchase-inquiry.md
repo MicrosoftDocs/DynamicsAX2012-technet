@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create a purchase inquiry 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use this procedure to validate a purchase with the vendor and generate a purchase inquiry before the purchase order is confirmed. For example, you can validate a vendor purchase with regard to product quality or delivery dates.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # taxable product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A product that is subject to taxation.
 
 ## See also

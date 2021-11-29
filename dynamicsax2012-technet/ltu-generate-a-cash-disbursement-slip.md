@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Generate a cash disbursement slip 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The cash book is used to track all company cash transactions. The book can be printed for a day or for a specified time period. The cash reimbursement slip is the vehicle that confirms cash expenditures.

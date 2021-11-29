@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting entity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A real or conceptual economic unit that uses ledger accounts to record and report on its financial and management performance.
 
 ## See also

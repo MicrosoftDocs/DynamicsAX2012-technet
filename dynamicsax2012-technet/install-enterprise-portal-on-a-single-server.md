@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Enterprise Portal on a single server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to install Enterprise Portal for Microsoft Dynamics AX on a single server. Businesses and organizations typically use a single-server deployment for development environments or testing.

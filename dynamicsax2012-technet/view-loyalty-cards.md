@@ -14,6 +14,9 @@ ms.search.region: Global
 # View loyalty cards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to view information about all the retail loyalty cards that have been issued and the transactions that are linked to those cards. The upper pane of the form displays card numbers, and the lower pane displays the transactions that are related to each card.

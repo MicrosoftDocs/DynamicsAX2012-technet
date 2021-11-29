@@ -17,6 +17,9 @@ dev_langs:
 
 # IndexedDimensions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the dimension properties of this product, grouped by value, along with the variant ids.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

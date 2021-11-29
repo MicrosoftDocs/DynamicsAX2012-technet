@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Work with users from Active Directory 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before users can be made Microsoft Dynamics AX users, they must be defined in Active Directory Domain Services (AD DS).

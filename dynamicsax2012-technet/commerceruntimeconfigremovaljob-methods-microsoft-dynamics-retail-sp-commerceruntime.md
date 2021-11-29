@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeConfigRemovalJob Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeConfigRemovalJob](commerceruntimeconfigremovaljob-class-microsoft-dynamics-retail-sp-commerceruntime.md) type exposes the following members.
 
 ## Methods

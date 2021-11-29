@@ -30,6 +30,9 @@ ms.search.region: Global
 # Set up catalog source codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Companies that produce printed catalogs can use source codes to track the customer response to particular catalogs. Source codes are often printed on the back of a catalog and are entered in the sales order when a customer makes a purchase. This topic describes how to set up a source code for a catalog.

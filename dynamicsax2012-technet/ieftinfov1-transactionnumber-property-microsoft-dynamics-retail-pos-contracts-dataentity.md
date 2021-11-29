@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 For a normal transaction, the transaction number can be read after the transaction.
 
 If this is a void transaction, this property must contain the transaction number to void.

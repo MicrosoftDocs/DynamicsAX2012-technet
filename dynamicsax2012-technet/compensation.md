@@ -13,6 +13,9 @@ f1_keywords:
 
 # compensation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Direct or indirect monetary and nonmonentary rewards in exchange for services rendered, or an award for damages sustained by an injury or by the violation of a contract.
 
 ## See also

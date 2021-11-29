@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up an intermediate bank account for a foreign vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Vendor bank accounts** form to set up a foreign bank account for a vendor, so that you can make payments by using payment orders or payment requests. This bank account is registered with the foreign bank that is linked to the vendor account. For more information, see [(RUS) Set up a foreign bank](rus-set-up-a-foreign-bank.md).

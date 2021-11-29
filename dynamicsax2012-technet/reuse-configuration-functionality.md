@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reuse configuration functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Bills of materials (BOMs) and routes that the system has previously generated can be reused in new configurations. You can set up the system to notify the user whenever previously configured products that have similar specifications are available. You can do this in the **Product builder parameters** form. For more information about how to set up the reuse functionality, see [Parameters setup](parameters-setup.md).

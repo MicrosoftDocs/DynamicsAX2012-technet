@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About multisite activation readiness 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The upgrade readiness check performs a series of configuration analysis tests to identify issues that could potentially affect data upgrade. These checks include verification that the multisite configuration is setup correctly. This includes verifying that the site and warehouse hierarchies are specified.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ResetCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reset customer on transaction to empty state.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

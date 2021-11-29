@@ -17,6 +17,9 @@ dev_langs:
 
 # InfocodeTriggers Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the infocode triggers collection.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

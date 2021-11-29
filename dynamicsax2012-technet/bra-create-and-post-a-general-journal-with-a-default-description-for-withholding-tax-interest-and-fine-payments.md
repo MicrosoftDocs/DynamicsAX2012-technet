@@ -23,6 +23,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a general journal with a default description for withholding tax, interest, and fine payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journal voucher** form to create and post a journal that has a default description for withholding tax, interest, and fine payments that are made to a customer.

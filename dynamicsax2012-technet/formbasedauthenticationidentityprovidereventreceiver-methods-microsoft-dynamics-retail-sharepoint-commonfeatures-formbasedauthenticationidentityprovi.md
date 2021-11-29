@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FormBasedAuthenticationIdentityProviderEventReceiver Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FormBasedAuthenticationIdentityProviderEventReceiver](formbasedauthenticationidentityprovidereventreceiver-class-microsoft-dynamics-retail-sharepoint-commonfeatures-formbasedauthenticationidentityprovide.md) type exposes the following members.
 
 ## Methods

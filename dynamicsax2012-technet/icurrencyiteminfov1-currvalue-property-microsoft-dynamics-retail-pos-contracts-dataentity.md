@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrValue Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The value of a currency item. For example, a 10 dollar bill.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

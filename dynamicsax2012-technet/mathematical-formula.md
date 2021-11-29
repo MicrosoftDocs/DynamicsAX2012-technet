@@ -13,6 +13,9 @@ f1_keywords:
 
 # mathematical formula
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A mathematical statement in a formal language that can be given a semantic meaning.
 
 ## See also

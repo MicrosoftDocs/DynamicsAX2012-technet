@@ -17,6 +17,9 @@ dev_langs:
 
 # ManualDiscountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the manual discount type.
 
 Maps to enum RetailManualDiscountType in AX.

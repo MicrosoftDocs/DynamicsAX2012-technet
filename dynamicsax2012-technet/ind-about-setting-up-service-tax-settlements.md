@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) About setting up service tax settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The service tax that is paid for input services is accumulated in the service tax recoverable accounts. The amounts of service tax that are calculated for the sales cycle are accumulated in the service tax payable accounts. The difference between the amounts in the recoverable accounts and the amounts in the payable accounts determines the amount of service tax that must be paid to the authorities.

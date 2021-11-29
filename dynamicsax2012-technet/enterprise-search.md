@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enterprise Search 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Enterprise Search in Microsoft Dynamics AX 2012 enables users to search through data, metadata, and documents that are attached to records by using either the Microsoft Dynamics AX client or Enterprise Portal for Microsoft Dynamics AX. Users can search for common nouns, such as 'customer' and 'cash flow report.' Users can also search for specific data, such as a customer name, product ID, or telephone number. The search box is prominently displayed in the Microsoft Dynamics AX client, and users can view recent search terms in a list.

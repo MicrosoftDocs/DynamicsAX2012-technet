@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow execution account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A user account that is granted the rights for executing workflows.
 
 ## See also

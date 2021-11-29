@@ -14,6 +14,9 @@ ms.search.region: Global
 # Batch processing overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how you can use batch processing to enable you to run specific tasks as batch jobs, which can be scheduled and run on a different computer (a batch server). Many tasks in Microsoft Dynamics AX can be run as part of batch jobs. For example, batch jobs can include tasks for printing reports, performing maintenance, or sending electronic documents. By using batch jobs, you can avoid slowing down your computer or the server during typical working hours.

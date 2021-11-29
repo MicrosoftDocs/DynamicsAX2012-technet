@@ -13,6 +13,9 @@ f1_keywords:
 
 # reconciliation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A practice of adjusting two or more accounts or statements so that the figures agree.
 
 ## See also

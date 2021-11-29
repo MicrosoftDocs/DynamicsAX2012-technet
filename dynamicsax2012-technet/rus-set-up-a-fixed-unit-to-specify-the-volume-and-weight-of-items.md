@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a fixed unit to specify the volume and weight of items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Units** form to set up a fixed unit that is used to specify the volume and weight of imported or exported items. To calculate customs payments for the customs journal, you must specify the volume and weight of items in the **Released product details** form.

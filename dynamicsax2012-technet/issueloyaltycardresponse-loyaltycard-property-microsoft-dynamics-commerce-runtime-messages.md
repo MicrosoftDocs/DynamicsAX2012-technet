@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyCard Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the loyalty card number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

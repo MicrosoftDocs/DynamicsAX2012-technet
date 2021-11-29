@@ -17,6 +17,9 @@ dev_langs:
 
 # IUtilityV3 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The IUtility public interface version 3.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

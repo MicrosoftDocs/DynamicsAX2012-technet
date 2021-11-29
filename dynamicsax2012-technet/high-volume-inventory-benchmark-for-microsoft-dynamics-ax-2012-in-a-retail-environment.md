@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Retail Environment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Microsoft Corporation conducted a benchmark to simulate an inventory workload with more than 4.96 million transaction lines. The goal of the benchmark was to simulate three types of core inventory transactions and demonstrate that Microsoft Dynamics AX 2012 can effectively handle very high volumes of transactions. The inventory transactions simulated the import of point of sale (POS) transactions for a large retail chain into Microsoft Dynamics AX.

@@ -14,6 +14,9 @@ dev_langs:
 # How to: Optimize a Model Store for Runtime 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to optimize a model store after changes have been made to the models that it contains. The optimization commands perform a series of steps that optimize the model store for run-time performance. As part of this process, the database that contains the model store is re-indexed and has a DBCC SHRINKDATABASE command performed on it.

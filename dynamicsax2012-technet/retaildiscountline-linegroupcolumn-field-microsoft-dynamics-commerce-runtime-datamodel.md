@@ -17,6 +17,9 @@ dev_langs:
 
 # LineGroupColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Line group column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

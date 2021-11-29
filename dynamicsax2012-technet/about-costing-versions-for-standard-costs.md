@@ -15,6 +15,9 @@ ms.search.region: Global
 # About costing versions for standard costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Costing versions for standard costs must be assigned to a type of standard cost, and they must allow content to include cost data. A costing version can contain a set of standard cost records about items, cost categories for routing operations, and calculation formulas for indirect costs.

@@ -18,6 +18,9 @@ ms.search.region: Spain
 # (ESP) Report 340 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 All Spanish legal entities can generate Report 340 for vendor invoices and customer invoices monthly. You can use the **Spanish VAT reports** form to generate Report 340.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Examples: Internal controls 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 These examples explain how to manually set up and use internal controls in the purchasing department of a global organization named Fabrikam. Specifically, the internal control is designed to show that the same user is not able to approve vendor invoices and then approve the corresponding vendor payments. Chris, an information technology engineer, and Phyllis, the accounting manager, work together to add information to the **Compliance** site.

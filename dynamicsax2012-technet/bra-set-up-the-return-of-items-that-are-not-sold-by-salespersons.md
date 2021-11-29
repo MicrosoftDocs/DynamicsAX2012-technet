@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up the return of items that are not sold by salespersons 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Legal entities that employ salespersons for door-to-door sales issue fiscal documents that have Imposto sobre Produtos Industrializados (IPI) and Imposto sobre Circulação de Mercadorias e Serviços (ICMS) taxes. When a salesperson sells items, you can create a new sales order.

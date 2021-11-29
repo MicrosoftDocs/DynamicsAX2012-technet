@@ -17,6 +17,9 @@ dev_langs:
 
 # PutRetailDiscountPriceGroups Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the result of a call to get the retail discount price groups.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PreLineDiscountPercent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before the line discount percent is added.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

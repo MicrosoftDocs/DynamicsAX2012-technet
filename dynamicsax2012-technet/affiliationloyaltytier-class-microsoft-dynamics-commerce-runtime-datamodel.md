@@ -18,6 +18,9 @@ dev_langs:
 
 # AffiliationLoyaltyTier Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the loyalty or affiliation identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

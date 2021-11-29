@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteTransferOrderLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets transfer order lines for a order saved in the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

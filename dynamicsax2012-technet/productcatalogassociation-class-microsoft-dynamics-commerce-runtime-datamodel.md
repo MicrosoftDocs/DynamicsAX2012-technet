@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductCatalogAssociation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an association of a product to a catalog.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

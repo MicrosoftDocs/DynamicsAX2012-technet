@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesTransactionSqlServerDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesTransactionSqlServerDataRequestHandler](salestransactionsqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices.md) type exposes the following members.
 
 ## Properties

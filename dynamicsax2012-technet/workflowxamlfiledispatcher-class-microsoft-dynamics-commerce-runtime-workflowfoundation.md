@@ -17,6 +17,9 @@ dev_langs:
 
 # WorkflowXamlFileDispatcher Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads workflow from xaml file in file system.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up payment types for vendor methods of payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can assign a system-defined payment type, such as **Check**, **Electronic payment**, or **Promissory note**, to any user-defined method of payment. Payment types are useful for validating electronic payments. For more information, see [About payment types](about-payment-types.md).

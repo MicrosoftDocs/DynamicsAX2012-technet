@@ -14,6 +14,9 @@ f1_keywords:
 # Category WIP (actual vs. budget) report (ProjWIPCateg2Column) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze work in progress transactions on projects, by category, for a specified date range. The actual and budgeted amounts for work in progress transactions are displayed on the report.

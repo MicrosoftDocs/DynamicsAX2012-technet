@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Define TINs for vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Specify the Tax Identification Numbers (TINs) for the address of the vendor. If the vendor has an alternate address, you can also specify the TIN for the alternate address of the vendor.

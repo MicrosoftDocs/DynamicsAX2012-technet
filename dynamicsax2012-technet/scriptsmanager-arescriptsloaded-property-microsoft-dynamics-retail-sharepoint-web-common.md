@@ -17,6 +17,9 @@ dev_langs:
 
 # AreScriptsLoaded Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether if scripts have already been loaded for the current page lifecycle.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

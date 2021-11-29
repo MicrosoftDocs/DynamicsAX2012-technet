@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Tools and services that support Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 There are a number of tools and services that support Microsoft Dynamics AX 2012. You can find tools and services on Microsoft.comMicrosoft.com, [Microsoft Dynamics InformationSource](https://go.microsoft.com/fwlink/?linkid=228145), [Lifecycle Services](http://lcs.dynamics.com), [PartnerSource](https://go.microsoft.com/fwlink/?linkid=210926), and [CustomerSource](https://go.microsoft.com/fwlink/?linkid=210925). This topic provides an overview of the topics that support Microsoft Dynamics AX 2012.

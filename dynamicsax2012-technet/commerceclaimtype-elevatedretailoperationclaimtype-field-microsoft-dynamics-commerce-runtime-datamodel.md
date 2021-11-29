@@ -17,6 +17,9 @@ dev_langs:
 
 # ElevatedRetailOperationClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retail Operation Id Claim - used when manager override (elevation) is in effect to prevent unauthorized elevated operations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

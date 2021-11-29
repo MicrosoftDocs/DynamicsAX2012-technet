@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up return locations for retail stores 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up return locations that are based on retail info codes and sales and marketing reason codes. Cashiers often identify the reason for a return when a customer returns a purchase. You can specify that returned products are assigned to different return locations in inventory based on the cashier’s response to info codes and reason codes that are displayed at the point of sale (POS) on the Retail POS register.

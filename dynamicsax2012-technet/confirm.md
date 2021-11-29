@@ -13,6 +13,9 @@ f1_keywords:
 
 # confirm
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To affirm the past occurrence of an event in a system.
 
 ## See also

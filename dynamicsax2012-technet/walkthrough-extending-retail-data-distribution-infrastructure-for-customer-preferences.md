@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Extending retail data distribution infrastructure for customer preferences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You include the new table fields in the configuration for data distribution to the channel database, the Commerce Runtime (CRT), and the channel. Then you update the schema, and generate classes by using the Microsoft Dynamics AX 2012 client. Next, you create a subjob for the new table to run under the **Customer** job, generate the classes needed, and run the initial data distribution.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Microsoft.Dynamics.Commerce.Runtime.Handlers Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Interfaces
 
 <table>

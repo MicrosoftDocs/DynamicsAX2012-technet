@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) About using delivery dates to calculate invoice due dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Due dates for sales invoices, purchase invoices, and project invoices are calculated based on the delivery dates or receipt dates of items and services. Private companies and public administration companies can specify the maximum number of days, known as due date limits, within which invoice payments must be made. You can specify due date limits in the **Due date limits** form. If a due date limit is specified in the **Terms of payment** and **Item groups** forms, the calculated invoice due date is checked against the effective due date limit and is adjusted, if required, to comply with it.

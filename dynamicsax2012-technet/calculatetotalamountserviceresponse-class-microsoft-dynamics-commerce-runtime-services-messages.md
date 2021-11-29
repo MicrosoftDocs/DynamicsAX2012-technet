@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateTotalAmountServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response containing the total currency amount converted to store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

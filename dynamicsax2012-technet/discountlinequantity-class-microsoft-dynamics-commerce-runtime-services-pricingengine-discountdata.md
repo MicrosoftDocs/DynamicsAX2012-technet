@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountLineQuantity Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class containing the discount line and the quantity of items required for that discount line for groups of line items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

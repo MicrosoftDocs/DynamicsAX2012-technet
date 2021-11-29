@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Credit card configuration key (CreditCard) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Credit card** configuration key controls access to credit card authorization forms and functions. For more information, see [About credit card authorizations](about-credit-card-authorizations.md). If the **Credit card** configuration key is enabled, the following fields, tabs, and buttons are available:

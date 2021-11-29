@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Setting up and maintaining Enterprise Portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information that helps system administrators perform common tasks in Enterprise Portal for Microsoft Dynamics AX. These tasks include creating Enterprise Portal sites, configuring user access, and updating Enterprise Portal pages or images.

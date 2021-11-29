@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up loyalty programs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up the components for a loyalty program. Loyalty programs identify the various loyalty opportunities that you offer. You can set up very simple loyalty programs that all customers can participate in and that offer basic rewards. You can also set up more complex loyalty programs that have multiple levels that enable you to reward your customers based on their shopping habits.

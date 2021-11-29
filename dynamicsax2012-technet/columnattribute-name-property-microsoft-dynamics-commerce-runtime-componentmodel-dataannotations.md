@@ -17,6 +17,9 @@ dev_langs:
 
 # Name Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the name of the column the property is mapped to.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations](microsoft-dynamics-commerce-runtime-componentmodel-dataannotations-namespace.md)  

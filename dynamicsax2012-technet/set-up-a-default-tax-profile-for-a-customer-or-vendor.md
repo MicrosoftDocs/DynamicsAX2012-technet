@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a default tax profile for a customer or vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a default tax profile for a customer or vendor. By default, the tax information is used when you create transactions for the customer or vendor. However, you can change the default information for individual transactions, if you have to.

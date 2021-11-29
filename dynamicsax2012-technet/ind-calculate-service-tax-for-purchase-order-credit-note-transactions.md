@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculate service tax for purchase order credit note transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If you create a credit note to record the return of goods to a vendor and select the **Tax as per original invoice** check box for the credit note, the service tax amount that was calculated for the original transaction is reversed.

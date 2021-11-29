@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltySchemeLineEarnDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data request to get the loyalty earn scheme lines that apply to the given channel and the given loyalty card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

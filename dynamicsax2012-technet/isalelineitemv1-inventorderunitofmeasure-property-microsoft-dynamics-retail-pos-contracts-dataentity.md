@@ -17,6 +17,9 @@ dev_langs:
 
 # InventOrderUnitOfMeasure Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 //The item unit comes from the InventTableModule
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

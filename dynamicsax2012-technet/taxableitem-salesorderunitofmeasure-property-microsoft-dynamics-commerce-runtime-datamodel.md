@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesOrderUnitOfMeasure Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 //The active item sale unit of measurement (based upon UOM set for the item by the user)
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

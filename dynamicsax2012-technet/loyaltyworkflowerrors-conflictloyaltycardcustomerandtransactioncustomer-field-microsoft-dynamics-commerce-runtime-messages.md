@@ -17,6 +17,9 @@ dev_langs:
 
 # ConflictLoyaltyCardCustomerAndTransactionCustomer Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the owner customer of the loyalty card conflicts with the current customer on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

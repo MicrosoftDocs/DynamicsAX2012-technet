@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create collective registration entries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A supervisor or manager can make a collective registration for several workers. For example, for a department meeting, the manager can select all workers for the same meeting activity, and the workers do not need to make individual registrations for that meeting.

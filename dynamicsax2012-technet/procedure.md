@@ -13,6 +13,9 @@ f1_keywords:
 
 # procedure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A repeatable sequence of steps that are followed in a specific order to meet the requirements of a task.
 
 ## See also

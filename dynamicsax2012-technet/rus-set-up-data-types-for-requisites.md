@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up data types for requisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the data type directory to store and manage a list of all possible data types for requisites that are available in the electronic reporting templates. Data from this directory is used to verify report data. Data types in a directory are created automatically when you refresh the structure in the **Document templates** form, or when you transfer settings from one template to another. You can also create a data type manually.

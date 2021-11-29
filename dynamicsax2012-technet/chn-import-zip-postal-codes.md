@@ -19,6 +19,9 @@ ms.search.region: China (PRC)
 # (CHN) Import ZIP/postal codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can import ZIP or postal codes when you set up addresses. When you import the codes, the existing postal codes are replaced with the new formats, and any new codes are added. The postal codes file download is no longer available on the China Post website [China Post](http://cpdc.chinapost.com.cn/web/), which still offers postcode search.

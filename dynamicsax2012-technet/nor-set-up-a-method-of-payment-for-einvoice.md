@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up a method of payment for eInvoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 eInvoice or eFaktura is an online business-to-consumer banking solution that lets you send electronic invoices to an online bank account for a customer, and receive payments together with other optical character recognition (OCR) payments. eInvoice is cost-efficient, because companies do not have to print and send invoices to customers by using postal mail.

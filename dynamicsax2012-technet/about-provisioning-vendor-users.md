@@ -15,6 +15,9 @@ ms.search.region: Global
 # About provisioning vendor users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic presents scenarios for user request provisioning and provides an overview of the difference between automatic and manual provisioning. It also provides an outline of the workflow for vendor requests and user requests.

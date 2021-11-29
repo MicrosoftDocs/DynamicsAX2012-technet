@@ -17,6 +17,9 @@ dev_langs:
 
 # BreakForLunch Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Constant to break for lunch defined in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

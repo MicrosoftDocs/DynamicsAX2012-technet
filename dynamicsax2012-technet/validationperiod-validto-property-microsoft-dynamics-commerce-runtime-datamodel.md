@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidTo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the ending date for this period.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Printer2 Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Printer peripheral device (2nd).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Add and update product attributes for retail channels 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to set up product attributes that can be applied to products that are offered in brick-and-mortar stores, online stores, and call centers. You can use product attributes to add merchandising details, such as rich text, images, and videos to the descriptions of products that you offer in your retail stores or in product catalogs. By adding merchandising details to products, you can provide the product information that your staff needs to better serve the customer. Product attributes can be applied to products even if they are not included in a retail product catalog.

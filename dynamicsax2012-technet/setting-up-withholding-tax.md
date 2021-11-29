@@ -18,6 +18,9 @@ ms.search.region: Global
 # Setting up withholding tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In many countries/regions, a buyer is legally responsible for paying withholding tax. Withholding tax is tax on non-inventory deliveries, or services, that are delivered by a supplier who is not an employee of the company. The supplier submits an invoice for services to the buying company, and then receives payment for this invoice.

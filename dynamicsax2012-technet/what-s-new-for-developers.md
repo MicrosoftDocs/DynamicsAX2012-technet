@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new for developers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, we added and changed several features that affect developers. These new and changed features are described in the What’s New topics for developers.

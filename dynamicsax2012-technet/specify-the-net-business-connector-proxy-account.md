@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Specify the .NET Business Connector proxy account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The .NET Business Connector for Microsoft Dynamics AX provides a set of managed classes that provide access to X++ functionality. As a result, applications can interact with Application Object Servers (AOS).

@@ -17,6 +17,9 @@ dev_langs:
 
 # ClaimProviderDisplayName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the display name of the claims provider.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.CommonGlobalModules.Features.CustomClaimsProviderFeature](microsoft-dynamics-retail-sharepoint-web-commonglobalmodules-features-customclaimsproviderfeature-namespace.md)  

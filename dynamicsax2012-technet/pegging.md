@@ -13,6 +13,9 @@ f1_keywords:
 
 # pegging
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of tracing the quantity of a required item to its source.
 
 ## See also

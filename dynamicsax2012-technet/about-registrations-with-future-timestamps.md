@@ -20,6 +20,9 @@ ms.search.region: Global
 # About registrations with future timestamps 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When workers clock in and clock out, Microsoft Dynamics AX checks the registration table for the most recent clock-in or clock-out registration. If the most recent registration is a clock-out, the application clocks in the worker. If the most recent registration is a clock-in, the application clocks out the worker.

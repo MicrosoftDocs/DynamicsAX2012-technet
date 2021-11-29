@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define inbound warehouse processes based on container types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 ## Create a container type
 
 By associating a container type – with a license plate, you can control the storage policies, based on the container type.

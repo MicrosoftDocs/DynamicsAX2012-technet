@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailLayoutPage Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the common base class for all Retail Storefront layout pages.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

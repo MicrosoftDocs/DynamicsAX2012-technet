@@ -14,6 +14,9 @@ dev_langs:
 # Query Criteria Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the \<QueryCriteria\> tag in inbound messages for Application Integration Framework (AIF). The \<QueryCriteria\> tag occurs in the \<Body\> tag section of an inbound message. The \<QueryCriteria\> tag never occurs in outbound messages. For more information, see [Message Body](message-body.md).

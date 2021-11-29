@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Extend a Retail Server OData Controller 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A controller is a mapping for a commerce entity that controls CRUD behaviors and actions for a commerce entity type. Each commerce entity must have a corresponding controller. You can extend a controller that comes with Microsoft Dynamics AX to add new business actions to fulfill business needs.

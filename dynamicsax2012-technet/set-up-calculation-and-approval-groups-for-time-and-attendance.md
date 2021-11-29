@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up calculation and approval groups for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 All workers who make registrations in **Time and attendance**, or **Manufacturing execution** if you are using it with **Time and attendance**, must to be connected to a calculation group, and to an approval group.

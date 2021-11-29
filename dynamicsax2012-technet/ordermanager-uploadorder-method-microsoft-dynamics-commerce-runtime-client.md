@@ -17,6 +17,9 @@ dev_langs:
 
 # UploadOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Upload a booked sales order with tender lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

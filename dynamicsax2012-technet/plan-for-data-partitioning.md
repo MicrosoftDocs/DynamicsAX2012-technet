@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan for data partitioning 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic provides information that you should consider before you implement the data partitioning feature of Microsoft Dynamics AX 2012 R2. You must be a member of the system administrator role to configure partitions.

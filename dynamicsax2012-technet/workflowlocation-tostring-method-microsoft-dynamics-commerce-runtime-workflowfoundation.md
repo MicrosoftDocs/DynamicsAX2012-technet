@@ -17,6 +17,9 @@ dev_langs:
 
 # ToString Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns a string that represents the current object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

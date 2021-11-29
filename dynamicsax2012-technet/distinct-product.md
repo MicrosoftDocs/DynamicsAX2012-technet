@@ -13,6 +13,9 @@ f1_keywords:
 
 # distinct product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A uniquely identifiable product.
 
 ## See also

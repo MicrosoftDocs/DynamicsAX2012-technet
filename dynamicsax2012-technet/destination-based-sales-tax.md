@@ -13,6 +13,9 @@ f1_keywords:
 
 # destination-based sales tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A sales tax levied in some states in the United States on a product based on the destination in which the buyer takes ownership or receives the product.
 
 ## See also

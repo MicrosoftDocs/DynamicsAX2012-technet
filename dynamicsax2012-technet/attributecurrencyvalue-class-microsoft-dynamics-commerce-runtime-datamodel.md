@@ -18,6 +18,9 @@ dev_langs:
 
 # AttributeCurrencyValue Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an attribute whose value is of type Currency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

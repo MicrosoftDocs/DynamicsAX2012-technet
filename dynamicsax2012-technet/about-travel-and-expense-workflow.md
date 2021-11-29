@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Travel and expense workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the workflow system in Microsoft Dynamics AX to set up a review process for expense reports in **Travel and expense**. You can set up a work flow to determine who approves expense reports based on any of the following criteria:

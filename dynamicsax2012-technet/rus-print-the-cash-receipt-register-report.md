@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Print the cash receipt register report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Reimbursement and disbursement orders are maintained and reported in the reimbursement and expense cash document registration journal (the cash receipt register).

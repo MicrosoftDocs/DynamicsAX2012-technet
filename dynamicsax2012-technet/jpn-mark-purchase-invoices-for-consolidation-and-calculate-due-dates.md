@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Mark purchase invoices for consolidation and calculate due dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can consolidate several purchase invoices each month. You must mark purchase invoices for consolidation, calculate due dates for payment, and post the consolidated invoice. The payment due date is based on the cutoff day that you specify, and on the holidays that you set up. If you specify the document date, which is the original transaction date, the due date is based on the document date instead of the invoice date.

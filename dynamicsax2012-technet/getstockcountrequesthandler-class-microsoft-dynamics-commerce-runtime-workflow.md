@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStockCountRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handler for retrieving StockCount journals and associated Transactions from RetailServer db.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

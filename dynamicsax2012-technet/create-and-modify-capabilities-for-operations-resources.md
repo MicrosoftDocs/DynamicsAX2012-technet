@@ -22,6 +22,9 @@ ms.search.region: Global
 # Create and modify capabilities for operations resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Define capabilities to organize the resources for your operation. Resource planning and production scheduling depend on correctly defined capabilities because the requirements of a production are matched with the capabilities of a resource.

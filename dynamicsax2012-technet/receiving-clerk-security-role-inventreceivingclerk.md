@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Receiving clerk security role (InventReceivingClerk) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Receiving clerk security role represents a user who documents receiving operation events and responds to warehouse receiving operation inquiries.

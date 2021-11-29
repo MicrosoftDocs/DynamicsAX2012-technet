@@ -17,6 +17,9 @@ ms.search.region: Global
 # Modify a project stage 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Project stages can serve as a guide to the project life cycle. You can define the project stages that you want to include in your projects in the **Project stage** area in the **Project management and accounting parameters** form. Microsoft Dynamics AX provides five predefined project stages and three user-defined stages.

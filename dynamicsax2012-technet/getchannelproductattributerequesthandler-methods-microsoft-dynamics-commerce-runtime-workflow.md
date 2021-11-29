@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelProductAttributeRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelProductAttributeRequestHandler](getchannelproductattributerequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

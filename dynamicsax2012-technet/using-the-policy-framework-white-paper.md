@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using the Policy Framework (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 introduces a policy framework that allows users to define rules in modules to help guide the flow of business.

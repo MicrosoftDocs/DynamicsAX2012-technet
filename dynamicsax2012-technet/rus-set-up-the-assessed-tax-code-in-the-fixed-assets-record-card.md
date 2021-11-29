@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the assessed tax code in the fixed assets record card 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Under Section 30 of the RF tax code on Company Property, movable and real property that is listed in the company account books as fixed assets is considered as assets of taxation.

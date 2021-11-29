@@ -17,6 +17,9 @@ dev_langs:
 
 # AddError Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates and instance of the [ResponseError](responseerror-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) and adds to Errors collection.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

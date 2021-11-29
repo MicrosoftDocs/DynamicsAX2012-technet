@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Export-AXModelStore
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Export-AXModelStore
 
 Exports a Microsoft Dynamics AX model store to an .axmodelstore file.

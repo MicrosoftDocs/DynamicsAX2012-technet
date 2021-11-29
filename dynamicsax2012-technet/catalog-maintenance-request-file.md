@@ -13,6 +13,9 @@ f1_keywords:
 
 # Catalog Maintenance Request file
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A data file of products, their descriptions and prices, and action codes that add, update, or delete product data in a vendor catalog.
 
 ## See also

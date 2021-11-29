@@ -18,6 +18,9 @@ ms.search.region: Global
 # Copy an existing operations resource 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create operations resources, you can save time by creating a copy of an existing resource and then modifying the copy.

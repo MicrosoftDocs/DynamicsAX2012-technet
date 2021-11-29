@@ -13,6 +13,9 @@ f1_keywords:
 
 # number
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A sequence of alphanumeric characters in a number system.
 
 ## See also

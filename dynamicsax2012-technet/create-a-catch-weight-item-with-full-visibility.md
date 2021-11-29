@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a catch weight item with full visibility 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a catch weight item with full visibility. A catch weight item with full visibility requires that each unit of inventory is assigned a unique serial number and that the specific weight of the inventory unit is recorded. A unique serial number is associated with the weight of the inventory unit.

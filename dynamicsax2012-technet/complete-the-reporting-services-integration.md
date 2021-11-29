@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Complete the Reporting Services integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To fully integrate Microsoft Dynamics AX and Microsoft SQL Server Reporting Services, you must complete additional configuration procedures. The procedures vary, depending on whether you are running Reporting Services in native mode or SharePoint integrated mode.

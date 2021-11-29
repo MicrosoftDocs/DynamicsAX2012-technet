@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the type of discount (mix and match, quantity, threshold, etc.).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

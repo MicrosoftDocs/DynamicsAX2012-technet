@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateShippingAddressServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ValidateAddressRequest class for shipping service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

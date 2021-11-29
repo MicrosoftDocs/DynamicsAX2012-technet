@@ -17,6 +17,9 @@ dev_langs:
 
 # RFIDTagId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The item's RFID tag
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

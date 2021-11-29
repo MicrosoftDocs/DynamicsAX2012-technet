@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade company accounts and virtual company accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Perform the **Virtual company accounts** task in the upgrade checklist to prepare the Microsoft Dynamics AX 2012 target system for upgrade. This task opens the **Virtual company accounts** form, where you can create virtual companies.

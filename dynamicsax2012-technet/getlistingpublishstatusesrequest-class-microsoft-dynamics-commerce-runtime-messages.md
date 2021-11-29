@@ -17,6 +17,9 @@ dev_langs:
 
 # GetListingPublishStatusesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request to retrieve a collection of listing publish statuses using the specified listing identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

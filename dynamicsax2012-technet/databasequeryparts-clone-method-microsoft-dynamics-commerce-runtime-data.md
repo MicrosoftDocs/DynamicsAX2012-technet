@@ -17,6 +17,9 @@ dev_langs:
 
 # Clone Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clones the query parts object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

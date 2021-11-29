@@ -18,6 +18,9 @@ dev_langs:
 
 # AffiliationDataService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Affiliation data services that contains methods to retrieve the information by calling views.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Common](microsoft-dynamics-commerce-runtime-dataservices-common-namespace.md)  

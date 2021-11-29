@@ -17,6 +17,9 @@ dev_langs:
 
 # SequenceId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Id of infocode sequence
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

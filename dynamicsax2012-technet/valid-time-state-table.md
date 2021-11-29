@@ -13,6 +13,9 @@ f1_keywords:
 
 # valid time state table
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A table that tracks the state of an entity over time using a valid-from and a valid-to column.
 
 ## See also

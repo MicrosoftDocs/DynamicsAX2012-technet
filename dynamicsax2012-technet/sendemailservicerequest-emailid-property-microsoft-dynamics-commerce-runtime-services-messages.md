@@ -17,6 +17,9 @@ dev_langs:
 
 # EmailId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the e-mail template identifier defined in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

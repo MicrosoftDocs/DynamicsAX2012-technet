@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelCashDeclarationResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelCashDeclarationResponse](getchannelcashdeclarationresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

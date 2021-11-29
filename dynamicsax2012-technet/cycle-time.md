@@ -13,6 +13,9 @@ f1_keywords:
 
 # cycle time
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The time taken to complete an activity.
 
 ## See also

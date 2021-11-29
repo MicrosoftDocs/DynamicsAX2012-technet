@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot a connection 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Connection profiles enable the components of Retail to communicate with each other. When you are setting up a connection profile and test the connection, you may receive an error, such as "Cannot connect to Synch Service," "Cannot connect to database," or "Error getting error message." Use the information in this topic to troubleshoot these errors.

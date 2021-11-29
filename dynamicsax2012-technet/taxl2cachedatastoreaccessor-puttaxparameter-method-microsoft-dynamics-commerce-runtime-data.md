@@ -17,6 +17,9 @@ dev_langs:
 
 # PutTaxParameter Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Puts the tax parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

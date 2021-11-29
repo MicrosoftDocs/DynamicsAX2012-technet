@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ListItemDictionary Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ListItemDictionary](listitemdictionary-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md) type exposes the following members.
 
 ## Methods

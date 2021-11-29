@@ -18,6 +18,9 @@ dev_langs:
 
 # CityInformation Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The city information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

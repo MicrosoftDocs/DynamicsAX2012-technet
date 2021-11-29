@@ -21,6 +21,9 @@ ms.search.region: Global
 # About working with routes in production 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Routes and route versions are required by the production functionality in Microsoft Dynamics AX. A route contains the set of operations that are required to produce a product or an item. This includes the sequence of operations, the site where the production occurs, the resource requirements that are involved, and the standard times that are required to set up and run the operations. The information that is required for scheduling the actual production is contained in the operations.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ToAttributeCategory Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts this channel category attribute to a category attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

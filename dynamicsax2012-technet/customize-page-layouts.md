@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customize page layouts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Microsoft Dynamics AX 2012 R2 Retail starter store is a site built by using the new site authoring and publishing model in Microsoft SharePoint Server 2013. You can use the Retail starter store as a basis for developing your own online store. You can customize individual site pages by modifying the page layout files.

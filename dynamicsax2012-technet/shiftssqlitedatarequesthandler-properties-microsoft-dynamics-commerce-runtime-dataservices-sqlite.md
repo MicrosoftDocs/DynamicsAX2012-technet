@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShiftsSqliteDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShiftsSqliteDataRequestHandler](shiftssqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Properties

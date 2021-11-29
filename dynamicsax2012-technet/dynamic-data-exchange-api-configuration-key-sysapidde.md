@@ -14,6 +14,9 @@ f1_keywords:
 # Dynamic Data Exchange API configuration key (SysAPIDDE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Dynamic data exchange api** configuration key controls access to the Dynamic Data Exchange (DDE) classes.

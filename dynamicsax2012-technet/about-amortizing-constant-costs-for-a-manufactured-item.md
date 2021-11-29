@@ -15,6 +15,9 @@ ms.search.region: Global
 # About amortizing constant costs for a manufactured item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A manufactured item’s constant costs reflect the operation setup times and the components that have a constant quantity or a constant scrap amount. The concept of a costing lot size is used to amortize these constant costs in the calculated cost of a manufactured item. This concept has several synonyms, one of which is accounting lot size. The concept of amortizing constant costs also has several synonyms, one of which is proportional constant costs.

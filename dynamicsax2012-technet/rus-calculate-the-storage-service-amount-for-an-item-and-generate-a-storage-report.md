@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate the storage service amount for an item and generate a storage report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Storage calculation operations** form to calculate the storage service amount for items that are in bailment. You can create storage transaction journals for each item, warehouse, owner, and contract. Each transaction journal contains details of the item that is stored, the storage period, the price agreement, and the calculation method. You can also generate a storage report in Microsoft Excel forma.

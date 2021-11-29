@@ -14,6 +14,9 @@ f1_keywords:
 
 # account balance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The difference between the sum of debit entries and the sum of credit entries entered into an account during a financial period.
 
 ## See also

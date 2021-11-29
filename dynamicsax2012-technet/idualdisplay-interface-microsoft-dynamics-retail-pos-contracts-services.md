@@ -17,6 +17,9 @@ dev_langs:
 
 # IDualDisplay Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDualDisplay is the interface for dual display device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

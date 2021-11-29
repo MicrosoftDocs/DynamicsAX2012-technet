@@ -17,6 +17,9 @@ dev_langs:
 
 # Amount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Payment amount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.Transaction.MemoryTables](microsoft-dynamics-retail-pos-contracts-dataentity-transaction-memorytables-namespace.md)  

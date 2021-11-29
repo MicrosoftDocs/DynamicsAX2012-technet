@@ -14,6 +14,9 @@ f1_keywords:
 # Category consumption (2 periods) report (ProjConsumCateg2Prd) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze transactions by project category for two separate ledger periods.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductExistenceCriteria Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductExistenceCriteria](productexistencecriteria-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

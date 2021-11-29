@@ -13,6 +13,9 @@ f1_keywords:
 
 # patch layer
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An application layer that is paired above an application layer, and used only for hotfixes and service packs. The name of each patch layer ends with the letter 'P', and one pair is named SYS and SYP.
 
 ## See also

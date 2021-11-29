@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultProductImageAltText Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the alternate text of the default product image.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

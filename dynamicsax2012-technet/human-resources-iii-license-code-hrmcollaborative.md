@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Human resources III license code (HRMCollaborative) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Human resource III** license code enables access to some of the functionality in the following Human resources areas:

@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Verify details about the technology upgrade for an EPCG license 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view details about the technology upgrade for a selected Export Promotion Capital Goods (EPCG) license.

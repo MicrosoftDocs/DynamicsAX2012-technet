@@ -17,6 +17,9 @@ dev_langs:
 
 # GetIndependentPriceDiscountServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request for calculating prices and discounts item-independently.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

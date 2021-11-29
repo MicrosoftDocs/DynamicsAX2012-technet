@@ -16,6 +16,9 @@ ms.search.region: China (PRC)
 # (CHN) Create a ledger account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Business enterprises can display accounts in a tree structure by setting up levels, the length, and control for the chart of accounts. Use the **Create a ledger account** form to complete the following tasks:

@@ -15,6 +15,9 @@ dev_langs:
 
 # CreateLabel Method (String, String, HtmlSelect)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a .NET Label control for a SELECT HTML control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

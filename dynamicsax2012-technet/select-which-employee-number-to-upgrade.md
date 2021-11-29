@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Select which employee number to upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you used virtual companies in Microsoft Dynamics AX 2009, you might have two or more employee records that are associated with the same Address book ID (partyId). Microsoft Dynamics AX 2012 does not support having employee records that share the same Address book ID (partyId). Before you upgrade to Microsoft Dynamics AX 2012, for each set of employee records that share the same Address book ID (partyId), you must select one of the employee records to upgrade.

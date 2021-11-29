@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAvailableStoresRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get available stores for device request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

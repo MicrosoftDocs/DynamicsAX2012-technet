@@ -17,6 +17,9 @@ ms.search.region: Global
 # View sales packing slips 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Packing slip** and **View packing slip** pages to view information about the packing slips that have been generated for a customer. You also can view copies of the packing slips.

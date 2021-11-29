@@ -17,6 +17,9 @@ ms.search.region: Global
 # Upload a catalog maintenance request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Your customers can add the products that you supply to their procurement catalog. To add your products, a customer imports a catalog maintenance request (CMR) file that you provide. A CMR file is an XML file that you create in the Vendor portal. To submit the CMR file to your customer, you can upload it from the Vendor portal. Alternatively, you can send the product data to your customer, and your customer can then upload the data by using Microsoft Dynamics AX.

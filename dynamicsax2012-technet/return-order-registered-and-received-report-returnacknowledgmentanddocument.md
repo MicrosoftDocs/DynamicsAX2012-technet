@@ -14,6 +14,9 @@ f1_keywords:
 # Return order registered and received report (ReturnAcknowledgmentAndDocument) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Return order registered and received** report as a return order that documents that the customer is authorized to return a specified quantity of purchased goods. When you generate and print the report, no changes in the status of the return order occur and the event is not journalized. The report can also be used as a return acknowledgement to document receipt of the returned items.

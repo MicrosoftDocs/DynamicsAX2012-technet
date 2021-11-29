@@ -15,6 +15,9 @@ dev_langs:
 
 # Get Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the set of product catalogs.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Specify inventory dimensions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 1.  Click **Sales and marketing** \> **Common** \> **Sales orders** \> **All sales orders**. On the **Action Pane**, in the **Maintain** group, click **Edit**. Click **Sales order line**, and then click **Dimensions**.

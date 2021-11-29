@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreProductAvailability Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Store product availability web control for displaying product availability in stores.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

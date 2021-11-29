@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Migrating Extended Data Type Relations (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper describes the migration process and the tools available to migrate extended data type (EDT) relations. Changes to the data model for table relationships in Microsoft Dynamics AX 2012 require that developers migrate table relationships that are currently defined in the Relations node under EDT nodes in the Application Object Tree (AOT) to the Relations node that is under the relevant table nodes.

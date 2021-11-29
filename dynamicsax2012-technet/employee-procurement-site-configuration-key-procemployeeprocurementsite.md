@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Employee procurement site configuration key (ProcEmployeeProcurementSite) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Employee procurement site** configuration key controls access to employee procurement features, such as the Purchase Requisition Wizard in the Employee services portal in Enterprise Portal for Microsoft Dynamics AX.

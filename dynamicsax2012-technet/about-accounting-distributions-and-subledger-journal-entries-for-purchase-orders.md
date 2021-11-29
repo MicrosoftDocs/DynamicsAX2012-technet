@@ -15,6 +15,9 @@ ms.search.region: Global
 # About accounting distributions and subledger journal entries for purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Accounting distributions are used to define how an amount will be accounted for, such as how the expense, asset, tax, or charges will be encumbered on the purchase order or accounted for on the product receipt or vendor invoice.

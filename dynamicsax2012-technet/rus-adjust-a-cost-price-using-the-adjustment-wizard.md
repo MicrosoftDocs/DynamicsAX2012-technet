@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Adjust a cost price using the adjustment wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use this wizard to create and run cost price adjustments for on-hand transactions.

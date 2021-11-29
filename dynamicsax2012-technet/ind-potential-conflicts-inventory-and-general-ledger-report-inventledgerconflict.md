@@ -17,6 +17,9 @@ f1_keywords:
 # (IND) Potential conflicts - inventory and general ledger report (InventLedgerConflict) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Potential conflicts – inventory and general ledger report displays the discrepancies between the inventory and general ledger transaction values for a selected period. If there are no discrepancies, the report displays matching values for the inventory transactions and the general ledger transactions. Accounting managers and supervisors use this report to reconcile physical inventory and financial inventory.

@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up the types of payment mode change for eInvoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 1.  Click **Accounts receivable** \> **Setup** \> **e-Invoice** \> **Payment mode change**.

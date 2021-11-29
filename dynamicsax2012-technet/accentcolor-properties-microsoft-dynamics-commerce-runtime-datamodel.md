@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AccentColor Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AccentColor](accentcolor-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

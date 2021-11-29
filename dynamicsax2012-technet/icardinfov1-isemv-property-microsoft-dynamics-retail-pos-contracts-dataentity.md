@@ -17,6 +17,9 @@ dev_langs:
 
 # IsEMV Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The standard IC card type is EMV (Europay, MasterCard, and Visa).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

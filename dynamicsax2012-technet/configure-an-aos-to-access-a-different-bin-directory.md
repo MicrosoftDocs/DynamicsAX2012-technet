@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure an AOS to access a different bin directory 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The text that is displayed in the user interface is contained in a kernel text data file, \*.ktd. By default, Microsoft Dynamics AX reads the text from the kernel text data file that is stored in the bin directory of the Application Object Server (AOS) directory. If you want Microsoft Dynamics AX to use a different kernel text data file, you can modify a copy of the kernel text data file, select a location, and point an AOS instance to the location.

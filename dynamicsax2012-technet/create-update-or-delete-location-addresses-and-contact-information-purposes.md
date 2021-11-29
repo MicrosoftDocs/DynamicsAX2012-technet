@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create, update, or delete location addresses and contact information purposes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create, update, or delete purposes and descriptions for address and contact information records. An address purpose could be, for example, delivery or service. A contact information purpose could be customer service or home. An address record and a contact information record can have the same purpose and description.

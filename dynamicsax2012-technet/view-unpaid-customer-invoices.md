@@ -16,6 +16,9 @@ ms.search.region: Global
 # View unpaid customer invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Unpaid customer invoices** page to view a list of customer invoices that have not yet been paid, or to export invoice data to Microsoft Excel.

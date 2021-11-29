@@ -13,6 +13,9 @@ f1_keywords:
 
 # pre-event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A synchronous event whose handler runs completely before the action that raised the event starts.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemOutOfStockException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the exception for item out of stock error which is thrown on item reservation when there are not enough items in stock to be reserved.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

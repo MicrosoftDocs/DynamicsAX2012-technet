@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveItemFromWishList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Remove item from wish list.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

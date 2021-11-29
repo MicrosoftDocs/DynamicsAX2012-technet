@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Amount difference factures for sales and purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can generate an amount difference facture, you must create and post a facture for a purchase order or sales order. After posting the facture, settle the facture transactions to generate the amount differences based on the exchange rates.

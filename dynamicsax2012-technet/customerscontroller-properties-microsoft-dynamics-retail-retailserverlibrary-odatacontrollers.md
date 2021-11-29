@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomersController Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomersController](customerscontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Properties

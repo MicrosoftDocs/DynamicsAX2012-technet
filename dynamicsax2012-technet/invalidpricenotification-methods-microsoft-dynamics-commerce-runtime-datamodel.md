@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # InvalidPriceNotification Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [InvalidPriceNotification](invalidpricenotification-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

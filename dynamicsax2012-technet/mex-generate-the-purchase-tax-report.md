@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Generate the purchase tax report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can generate purchase tax reports to prepare, verify, and reconcile VAT and income tax declarations.

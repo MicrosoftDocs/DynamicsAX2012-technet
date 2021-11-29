@@ -17,6 +17,9 @@ dev_langs:
 
 # Add Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the collection of columns to the set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

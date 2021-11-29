@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLineDeliveryOptions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the delivery line option of the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

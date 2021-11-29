@@ -13,6 +13,9 @@ f1_keywords:
 
 # liquidity ratio
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The proportion of a party's current assets that can be used to settle current liabilities.
 
 ## See also

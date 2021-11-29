@@ -13,6 +13,9 @@ f1_keywords:
 
 # statistical account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier of economic resource quantity used to classify debit or credit entries in an accounting system.
 
 ## See also

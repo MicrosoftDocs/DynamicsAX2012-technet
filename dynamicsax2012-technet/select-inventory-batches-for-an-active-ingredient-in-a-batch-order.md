@@ -14,6 +14,9 @@ ms.search.region: Global
 # Select inventory batches for an active ingredient in a batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to select inventory batches for the active ingredients in a batch order formula. When you select an available inventory batch, the balanced quantity is calculated based on the active quantity of the active ingredient in the batch order formula. You can remove a batch from reservation by clearing the **Mark** check box for that batch. After you select an active quantity for the active ingredient, you can select another active ingredient in the batch order formula.

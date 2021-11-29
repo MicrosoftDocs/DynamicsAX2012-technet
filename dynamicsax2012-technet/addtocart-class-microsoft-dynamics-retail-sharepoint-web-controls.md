@@ -18,6 +18,9 @@ dev_langs:
 
 # AddToCart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add To Cart web control for adding products to the shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

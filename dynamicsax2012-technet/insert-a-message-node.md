@@ -14,6 +14,9 @@ ms.search.region: Global
 # Insert a Message node 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Message node** can be used whenever you must inform the user about something during an item configuration. There are three different message types: **Information**, **Warning**, and **Error**. Message nodes can be inserted next to the other node types in the modeling tree—to provide context-specific information for the product model’s users.

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create a vendor invoice with VAT details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must record an invoice that you received from a vendor in the **Vendor invoice pool excluding posting details** form. (Click **Accounts payable** \> **Journals** \> **Invoices** \> **Vendor invoice pool excluding posting details**.)

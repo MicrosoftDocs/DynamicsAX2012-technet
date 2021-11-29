@@ -19,6 +19,9 @@ ms.search.region: Global
 # Setting up sales tax authorities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The authorities for sales tax in your country/region may require that you collect sales taxes on their behalf, and then pay the taxes regularly.

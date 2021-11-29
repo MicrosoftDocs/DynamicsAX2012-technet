@@ -17,6 +17,9 @@ dev_langs:
 
 # EdmModelFactory Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the EDM model factory object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration](microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md)  

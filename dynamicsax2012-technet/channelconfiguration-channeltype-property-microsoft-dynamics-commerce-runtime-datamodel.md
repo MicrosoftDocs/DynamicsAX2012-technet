@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

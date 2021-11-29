@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up the transport calendar 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This procedure can be used to specify available pick-up and transport days for the various modes of delivery.

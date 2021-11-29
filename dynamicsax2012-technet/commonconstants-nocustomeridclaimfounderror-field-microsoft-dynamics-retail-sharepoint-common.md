@@ -17,6 +17,9 @@ dev_langs:
 
 # NoCustomerIdClaimFoundError Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the error message that no claims were returned for the customer identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

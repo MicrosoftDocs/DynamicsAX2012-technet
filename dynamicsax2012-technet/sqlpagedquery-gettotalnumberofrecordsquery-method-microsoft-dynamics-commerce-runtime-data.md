@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTotalNumberOfRecordsQuery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a query which computes the total number of records.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # M
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [magnetic ink character recognition](magnetic-ink-character-recognition.md)
 
 [magnetic stripe reader](magnetic-stripe-reader.md)

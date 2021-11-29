@@ -14,6 +14,9 @@ f1_keywords:
 # (SWE) Payment slip report (Giro) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment slip** report is displayed when you use a Giro payment format to generate a payment for a customer invoice or vendor invoice. The details that are displayed in this report depend on the payment format that is used to generate a payment. You can generate a Giro payment by using the following payment formats:

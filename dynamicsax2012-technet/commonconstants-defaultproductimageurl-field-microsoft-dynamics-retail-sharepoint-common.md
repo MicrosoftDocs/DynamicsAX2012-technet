@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultProductImageUrl Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the url of the default product image.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

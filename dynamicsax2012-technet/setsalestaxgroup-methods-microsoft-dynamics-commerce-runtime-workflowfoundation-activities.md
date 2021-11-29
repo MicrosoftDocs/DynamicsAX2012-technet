@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SetSalesTaxGroup Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SetSalesTaxGroup](setsalestaxgroup-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # AddTenderLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

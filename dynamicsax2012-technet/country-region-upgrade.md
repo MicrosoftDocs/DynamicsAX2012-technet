@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Country/region upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Earlier in the process, you used the **Default country/region** form to specify for a company the default country/region to assign to address records that do not already have a specified country/region. For example, you selected a default country/region for Fabrikam, and that country/region will be assigned to any Fabrikam customer that does not already have a country/region selected for their address record. But Fabrikam has customers in multiple countries/regions, and the default country/region will not apply to all customers.

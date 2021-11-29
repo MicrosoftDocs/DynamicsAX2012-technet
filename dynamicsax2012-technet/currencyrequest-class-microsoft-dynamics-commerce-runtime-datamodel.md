@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a currency input amount to be converted.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

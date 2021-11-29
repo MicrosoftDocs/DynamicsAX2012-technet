@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Buying agent security role (TradeBuyingAgent) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Buying agent security role represents a user who documents purchase events and responds to purchase inquiries.

@@ -14,6 +14,9 @@ f1_keywords:
 # (MYS) Customer balance list with payments in transfer report (CustBalanceList\_MY) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer balance list with payments in transfer** report displays customer check transactions that have a future payment due date and checks that have a sent, approved, or rejected payment status. This report is used to review and inquire into the invoice and cash collections process. The report is typically used by accounts receivable managers, accountants, accounting managers, financial controllers, collections agents, and collections managers.

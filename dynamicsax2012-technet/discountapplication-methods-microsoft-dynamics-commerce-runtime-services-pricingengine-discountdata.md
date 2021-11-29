@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DiscountApplication Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DiscountApplication](discountapplication-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md) type exposes the following members.
 
 ## Methods

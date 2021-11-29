@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateModel Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates the commerce EDM model.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

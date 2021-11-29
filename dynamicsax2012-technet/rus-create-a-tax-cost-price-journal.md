@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a tax cost price journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a tax cost price journal for work in process (WIP) and finished products (FP), such as items that are in production, half-finished items, finished items in inventory, and shipped items.

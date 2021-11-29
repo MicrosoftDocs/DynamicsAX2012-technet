@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # OSHA 300A preparation report (HcmOSHA300APrepReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This report provides data that you can use to prepare OSHA 300A summary report. The OSHA 300A report is an annual summary of the incidents that are recorded in the OSHA 300 log. It must be posted in a visible location at each workplace to make employees aware of the work-related injuries and illnesses that have occurred in their workplace.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # output VAT
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tax on an organization’s sales, which is levied on the sales price.
 
 ## See also

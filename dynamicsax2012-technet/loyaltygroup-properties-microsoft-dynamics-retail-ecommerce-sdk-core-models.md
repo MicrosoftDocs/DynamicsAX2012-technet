@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltyGroup Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltyGroup](loyaltygroup-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md) type exposes the following members.
 
 ## Properties

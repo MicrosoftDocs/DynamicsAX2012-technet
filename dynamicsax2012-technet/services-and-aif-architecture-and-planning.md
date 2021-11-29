@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Services and AIF architecture and planning 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Successful implementation of services and Application Integration Framework (AIF) requires planning. The topics in this section explain the services and AIF architecture and help you plan the system topology.

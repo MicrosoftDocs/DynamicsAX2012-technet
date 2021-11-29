@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnBackgroundPictureAsBase64 Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the log on background picture as base64.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # FromSource Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a name of a source.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

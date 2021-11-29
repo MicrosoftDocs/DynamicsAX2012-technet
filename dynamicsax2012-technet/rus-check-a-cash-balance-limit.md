@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Check a cash balance limit 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Check balance limit** form to determine whether the set cash limit has been exceeded.

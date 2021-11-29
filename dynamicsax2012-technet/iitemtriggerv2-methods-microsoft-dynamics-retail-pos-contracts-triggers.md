@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IItemTriggerV2 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IItemTriggerV2](iitemtriggerv2-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Methods

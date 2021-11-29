@@ -17,6 +17,9 @@ dev_langs:
 
 # OfferPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the final adjusted price for "Price" method.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

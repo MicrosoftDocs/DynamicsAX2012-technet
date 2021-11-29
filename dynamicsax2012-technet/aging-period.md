@@ -14,6 +14,9 @@ f1_keywords:
 
 # aging period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The number of days in a time period used to report an overdue customer payment balance.
 
 ## See also

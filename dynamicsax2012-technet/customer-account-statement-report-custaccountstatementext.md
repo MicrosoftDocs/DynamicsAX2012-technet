@@ -15,6 +15,9 @@ f1_keywords:
 # Customer account statement report (CustAccountStatementExt) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer account statement** report displays external customer account statements that you can send to your customers.

@@ -28,6 +28,9 @@ ms.search.region: Austria, Belgium, Germany, Spain, Finland, Italy, Netherlands
 # (AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Single European Payment Area (SEPA) is an initiative in European Union (EU) countries/regions to provide a common electronic banking system to transfer payments within EU countries/regions. The process of sending payments electronically to a vendor is called credit transfer. The electronic file format for SEPA credit transfer is based on XML ISO 20022. The European Payment Council (EPC) has specified a general XML format that you can use to generate the SEPA credit transfer payment file.

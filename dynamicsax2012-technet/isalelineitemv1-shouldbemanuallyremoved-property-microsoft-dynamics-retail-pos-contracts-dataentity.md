@@ -17,6 +17,9 @@ dev_langs:
 
 # ShouldBeManuallyRemoved Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Notifies the cahier that this item should be removed in order to continue
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

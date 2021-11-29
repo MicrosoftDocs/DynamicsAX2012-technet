@@ -15,6 +15,9 @@ dev_langs:
 
 # CreateFieldPanel Method (HtmlLabel, HtmlControl, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a panel containing a label associated with an input control with label first.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

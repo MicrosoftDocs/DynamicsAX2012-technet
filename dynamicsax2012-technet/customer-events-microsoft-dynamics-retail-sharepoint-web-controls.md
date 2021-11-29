@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Customer Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Customer](customer-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Events

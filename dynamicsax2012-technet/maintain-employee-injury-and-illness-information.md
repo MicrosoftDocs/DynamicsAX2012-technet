@@ -21,6 +21,9 @@ ms.search.region: Global
 # Maintain employee injury and illness information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An occupational injury is an injury, such as a cut, fracture, burn, sprain, or amputation that results from a work-related accident or exposure to dangerous conditions that involves a single incident in the work environment. An occupational illness is a medical condition or disorder, other than one that is the result of an injury, caused by exposure to environmental factors associated with employment.

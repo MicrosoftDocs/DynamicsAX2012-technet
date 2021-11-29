@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Windows MorphX Development Suite license code (SysMorphX) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Windows MorphX Development Suite** license code enables access to development tools for the MorphX environment in Microsoft Dynamics AX.

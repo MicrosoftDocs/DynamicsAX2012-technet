@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailWebPart Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailWebPart](retailwebpart-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Properties

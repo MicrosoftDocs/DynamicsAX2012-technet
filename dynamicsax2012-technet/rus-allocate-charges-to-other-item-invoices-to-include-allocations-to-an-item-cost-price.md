@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Allocate charges to other item invoices to include allocations to an item cost price 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can allocate charges that are incurred from one vendor invoice to the cost of items in another vendor invoice. You can allocate expenses from a vendor invoice line to a non-stocked or category-based purchase order line. You can also allocate non-stocked or category-based vendor invoice lines to purchase items as expenses.

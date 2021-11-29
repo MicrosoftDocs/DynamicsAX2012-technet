@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create advanced account structures and rules for budget planning 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create budget planning rules that provide additional financial dimensions that are part of the account combination, but are not included in the account structure.

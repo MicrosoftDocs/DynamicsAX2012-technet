@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyToCurrency Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts a value from one currency to another.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

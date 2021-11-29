@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetTaxCodeIntervalsProcedure Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetTaxCodeIntervalsProcedure](gettaxcodeintervalsprocedure-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Methods

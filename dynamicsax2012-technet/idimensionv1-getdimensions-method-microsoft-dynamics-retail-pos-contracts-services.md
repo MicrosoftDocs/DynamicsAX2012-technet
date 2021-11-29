@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDimensions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all the variants and their dimensions for a given item ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

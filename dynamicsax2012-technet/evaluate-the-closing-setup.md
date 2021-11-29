@@ -14,6 +14,9 @@ ms.search.region: Global
 # Evaluate the closing setup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You should review the following settings before you close the fiscal year. You cannot change some of these settings after you start the year-end closing processes.

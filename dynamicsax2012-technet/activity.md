@@ -14,6 +14,9 @@ f1_keywords:
 
 # activity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A functional work structure in which one or more persons and pieces of equipment participate and in which resources are consumed, produced, and used. An activity can be decomposed into subactivities.
 
 ## See also

@@ -20,6 +20,9 @@ ms.search.region: Global
 # About hour registration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Workers can register hours in any of the project types that are available in the Project management and accounting.

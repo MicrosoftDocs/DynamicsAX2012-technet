@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReceiptResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The response class for GetReceiptRequest.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

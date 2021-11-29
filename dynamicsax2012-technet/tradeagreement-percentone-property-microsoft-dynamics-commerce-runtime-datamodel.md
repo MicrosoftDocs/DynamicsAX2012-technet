@@ -17,6 +17,9 @@ dev_langs:
 
 # PercentOne Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the first percentage from this rule.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

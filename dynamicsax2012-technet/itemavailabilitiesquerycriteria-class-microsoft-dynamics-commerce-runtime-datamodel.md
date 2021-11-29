@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemAvailabilitiesQueryCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents criteria for querying item availability information.
 
 Each constructor represents specific call to the data layer.

@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesInvoiceId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Id of the sales order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

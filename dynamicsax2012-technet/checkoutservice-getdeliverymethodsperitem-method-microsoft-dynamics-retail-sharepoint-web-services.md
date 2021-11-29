@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDeliveryMethodsPerItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the delivery methods for the line items.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

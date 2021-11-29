@@ -17,6 +17,9 @@ dev_langs:
 
 # Transaction Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transaction which will have the totals calculated on.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

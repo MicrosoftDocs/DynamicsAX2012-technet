@@ -17,6 +17,9 @@ dev_langs:
 
 # CapDisplay Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a flag to identify that device is able to display form or data entry screen.This property is initialized by the Load method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

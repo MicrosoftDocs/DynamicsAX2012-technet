@@ -13,6 +13,9 @@ f1_keywords:
 
 # financial dimension value constraint
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A hierarchical financial dimension relationship that restricts the set of all possible financial dimension value combinations to a set of valid financial dimension value combinations.
 
 ## See also

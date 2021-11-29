@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Debug code in a Retail online sample store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The sample online stores for Retail in Microsoft Dynamics AX 2012 R3 use SharePoint 2013 and code that is found in the Retail SDK. You can debug the sample online store code for the SharePoint pages in a browser window or by using Visual Studio. You use the F12 developer tools to debug code in a browser window. In Visual Studio, you can attach the worker process to debug your code.

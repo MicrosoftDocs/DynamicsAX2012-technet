@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Update the VAT register information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Polish tax law requires that companies report specific VAT information in their VAT registers. You can use the **Journal voucher** form to update the VAT register information from a tax line in another journal line when one of the fields is modified.

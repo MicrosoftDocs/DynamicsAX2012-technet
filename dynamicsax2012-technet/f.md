@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # F
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [face value](face-value.md)
 
 [feeder flow](feeder-flow.md)

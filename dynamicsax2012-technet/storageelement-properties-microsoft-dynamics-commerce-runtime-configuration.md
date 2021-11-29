@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StorageElement Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StorageElement](storageelement-class-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Properties

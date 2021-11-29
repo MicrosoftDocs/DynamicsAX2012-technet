@@ -17,6 +17,9 @@ ms.search.region: Global
 # Setting up and maintaining Sales and marketing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following table lists the forms that support setting up and maintaining Sales and marketing. The table entries are organized by task and then alphabetically by form name.

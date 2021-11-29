@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up the export format for a foreign customer payment transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Users in Lithuania can use the LITAS system to export foreign customer payments from their accounting systems to the Bank of Lithuania.

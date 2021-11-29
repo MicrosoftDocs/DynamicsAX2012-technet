@@ -34,6 +34,9 @@ ms.search.region: Russia
 # (RUS) Set up parameters for alcohol declarations and journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use Microsoft Dynamics AX to set up and generate an alcohol declaration that contains information about the sales of alcoholic items, purchases of alcoholic items, and movement of alcoholic items between separate company divisions for each vendor type, customer type, or alcohol production type.

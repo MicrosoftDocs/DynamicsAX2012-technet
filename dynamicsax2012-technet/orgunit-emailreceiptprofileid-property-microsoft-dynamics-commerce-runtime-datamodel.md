@@ -17,6 +17,9 @@ dev_langs:
 
 # EmailReceiptProfileId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the receipt profile identifier used for emailing the receipt for this store.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create template groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To use quotation templates, you must organize them into template groups. You must create the template groups before you can create quotation templates.

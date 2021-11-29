@@ -20,6 +20,9 @@ ms.search.region: Mexico
 # (MEX) Set up the inflation adjustment parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can update ledger account balances using the inflation adjustment method assigned to an account, you must set up the Índice nacional de precios al consumidor (INPC) inflation rates in the **INPC rates** form. After you set up the rates, use the **General ledger parameters** form to set up the inflation adjustment parameters for the inflation adjustment calculation. You can also select a revaluation account code and revaluation method for inflation adjustment.

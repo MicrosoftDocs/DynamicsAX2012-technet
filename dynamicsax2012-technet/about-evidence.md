@@ -15,6 +15,9 @@ ms.search.region: Global
 # About evidence 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the context of compliance, evidence provides proof that a control exists and is working correctly.

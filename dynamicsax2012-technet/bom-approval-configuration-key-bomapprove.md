@@ -14,6 +14,9 @@ f1_keywords:
 # BOM approval configuration key (BOMApprove) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **BOM approval** configuration key controls access to the forms and functions that you can use to maintain the active bill of materials (BOM) version. If you enable the **BOM approval** key, you can control whether a BOM version must be approved first before it can be activated.

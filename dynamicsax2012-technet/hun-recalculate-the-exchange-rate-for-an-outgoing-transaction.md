@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Recalculate the exchange rate for an outgoing transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The exchange rate is automatically updated when you record an incoming transaction, if a valid exchange rate is recorded in the **Exchange rate** form for the selected currency. When you record an outgoing transaction, you can recalculate the exchange rate by specifying a calculation method in the **Exchange rate calculation** form.

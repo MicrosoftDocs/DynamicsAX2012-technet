@@ -14,6 +14,9 @@ f1_keywords:
 # Balance control accounts report (LedgerBalanceControl) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the details of the main accounts that are displayed when you view balance control in a journal. These details include the main account, account structure, and account name.

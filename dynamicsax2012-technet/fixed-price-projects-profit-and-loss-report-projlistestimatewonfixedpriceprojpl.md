@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed-price projects - profit and loss report (ProjListEstimateWonFixedPriceProjPL) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze the profit or loss for fixed-price projects for a specified date range.

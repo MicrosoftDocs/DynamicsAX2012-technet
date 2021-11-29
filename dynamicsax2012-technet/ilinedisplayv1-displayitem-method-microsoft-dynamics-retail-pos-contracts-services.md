@@ -17,6 +17,9 @@ dev_langs:
 
 # DisplayItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Displays sale line item on the line display.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

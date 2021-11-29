@@ -14,6 +14,9 @@ f1_keywords:
 # Database Log configuration key (SysDatabaseLog) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Database log** configuration key controls access to database log forms and functions.

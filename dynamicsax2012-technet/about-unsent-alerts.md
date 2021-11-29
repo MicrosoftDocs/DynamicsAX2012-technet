@@ -15,6 +15,9 @@ ms.search.region: Global
 # About unsent alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There are several reasons why you might not receive an alert that you expect. For example, the data changed before the alert was sent, or the batch processing system was stopped to prevent an excessive number of alerts from being sent to users.

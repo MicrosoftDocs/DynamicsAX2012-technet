@@ -17,6 +17,9 @@ dev_langs:
 
 # PartyNumberColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The party number column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

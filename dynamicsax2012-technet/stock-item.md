@@ -13,6 +13,9 @@ f1_keywords:
 
 # stock item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product item that participates in a stock tracking process.
 
 ## See also

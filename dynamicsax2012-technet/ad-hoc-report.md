@@ -14,6 +14,9 @@ f1_keywords:
 
 # ad hoc report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of report that requires users to select the data that they want to display on the report and to design the layout of the report.
 
 ## See also

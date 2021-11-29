@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a New Model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Each layer in the AOS has a default model. Typically, you will create a new model for a layer, and then you will add resources for your application to the new model.

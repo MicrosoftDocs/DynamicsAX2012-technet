@@ -17,6 +17,9 @@ dev_langs:
 
 # GetButtonGridsServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the response of the GetButtonGridsServiceResponse class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChargesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the auto-charges, pricing charges, and shipping charges attached to the returned transaction and its lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

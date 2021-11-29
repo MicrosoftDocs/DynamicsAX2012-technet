@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up an outbound payment format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create electronic payments by using payment formats that work with Application Integration Framework (AIF) services. Use this procedure to set up an outbound payment format. The resulting payment format can be selected in the **Payment format** field in the **Generate payments** form when you create electronic payments.

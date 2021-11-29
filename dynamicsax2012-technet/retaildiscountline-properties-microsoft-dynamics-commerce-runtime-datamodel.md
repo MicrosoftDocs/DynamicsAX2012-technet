@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailDiscountLine Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailDiscountLine](retaildiscountline-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

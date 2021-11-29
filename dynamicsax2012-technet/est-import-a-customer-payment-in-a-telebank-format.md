@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Import a customer payment in a telebank format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you set up the import of telebank payments from customers, you can import a payment from a customer by using the telebank format.

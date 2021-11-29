@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveXmlNode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Removes the XML node.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

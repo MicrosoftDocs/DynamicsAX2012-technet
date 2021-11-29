@@ -17,6 +17,9 @@ dev_langs:
 
 # OfferIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Offer Id column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

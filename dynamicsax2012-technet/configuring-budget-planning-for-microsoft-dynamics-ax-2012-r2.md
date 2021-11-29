@@ -15,6 +15,9 @@ f1_keywords:
 # Configuring Budget Planning for Microsoft Dynamics AX 2012 R2 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 R2, budget planning features were added to the Budgeting module. To support this new functionality, budget planning was integrated with the general ledger, the chart of accounts, fixed assets, human resources, organization hierarchies, workflow, and budget control.

@@ -14,6 +14,9 @@ f1_keywords:
 
 # ABC code
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier that names categories in an ABC classification.
 
 ## See also

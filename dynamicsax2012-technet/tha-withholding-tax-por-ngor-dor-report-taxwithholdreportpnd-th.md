@@ -17,6 +17,9 @@ f1_keywords:
 # (THA) Withholding tax (Por Ngor Dor) report (TaxWithholdReportPND\_TH) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Withholding tax (Por Ngor Dor) report must be generated every month for withholding tax transactions. You can print this report in the following formats:

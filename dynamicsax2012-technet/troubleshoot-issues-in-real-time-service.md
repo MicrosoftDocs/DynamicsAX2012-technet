@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot issues in Real-time Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can view Commerce Data Exchange: Real-time Service messages in the following locations.

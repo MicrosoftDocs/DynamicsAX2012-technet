@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelCategoryAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a channel category attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

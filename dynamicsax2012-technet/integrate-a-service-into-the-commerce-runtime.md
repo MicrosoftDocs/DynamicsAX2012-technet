@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Integrate a Service into the Commerce Runtime 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The commerce runtime includes several services that represent particular areas of functionality for your online store. If one of these services does not meet the needs of your store, you can completely replace it with your own service and continue to use the other services that are installed with the commerce runtime. This topic describes how to create a new service and add it to the commerce runtime configuration. For a complete walkthrough about how to integrate a third party shipping service, see [Walkthrough: Integrating a new Shipping Service](walkthrough-integrating-a-new-shipping-service.md).

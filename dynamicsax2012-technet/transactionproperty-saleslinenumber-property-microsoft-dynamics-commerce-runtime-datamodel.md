@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesLineNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the sales line number related to the sales line that owns this property, or 0, if it's a header property.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

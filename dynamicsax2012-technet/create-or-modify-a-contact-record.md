@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create or modify a contact record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A contact is the person that you interact with in relation to prospect, lead, opportunity, customer, and vendor records.

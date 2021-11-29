@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) About posting and printing fiscal document texts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a fiscal document text, and attach the fiscal document text to a sales order, purchase order, or free text invoice. The fiscal document text is printed on the fiscal document or Documento Auxiliar da Nota Fiscal Eletrônica (DANFE). When you create or attach fiscal document texts, you can include fiscal document text placeholders in them. If a fiscal document text contains placeholders, the predefined tags of the placeholders are replaced by specific values. For more information, see [(BRA) About fiscal document text placeholders](bra-about-fiscal-document-text-placeholders.md).

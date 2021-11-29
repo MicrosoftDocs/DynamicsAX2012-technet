@@ -14,6 +14,9 @@ f1_keywords:
 # Customer self-service configuration key (CSS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer self-service** configuration key controls access to some elements of the Customer Self-Service (CSS) Web application in Enterprise Portal for Microsoft Dynamics AX. To access the full CSS functionality, you must also enable the **Enterprise Portal** configuration key. When both the **Customer self-service** configuration key and the **Enterprise Portal** configuration key are enabled, all elements of the CSS are available in the system, including setting up Customer Self-Service parameters, creating new customers, and updating the sales baskets.

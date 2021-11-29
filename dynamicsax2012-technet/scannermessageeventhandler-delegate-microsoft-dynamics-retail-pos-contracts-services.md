@@ -17,6 +17,9 @@ dev_langs:
 
 # ScannerMessageEventHandler Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Scanner device message event handler.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

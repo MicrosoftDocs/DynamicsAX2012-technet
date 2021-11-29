@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase agreement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents an agreement between two or more parties based on an understanding that a buying party will commit to purchasing a specific quantity or value of product over a period of time in exchange for favorable prices and discounts.
 
 ## See also

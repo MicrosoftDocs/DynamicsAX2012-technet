@@ -20,6 +20,9 @@ ms.search.region: Global
 # Key tasks: Recurring free text invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Recurring invoices are used to invoice customers regularly for the same amount.

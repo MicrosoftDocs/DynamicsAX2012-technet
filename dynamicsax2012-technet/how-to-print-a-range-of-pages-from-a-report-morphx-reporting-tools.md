@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Print a Range of Pages from a Report (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Print a specified range of pages from a report by using the PrintJobSettings.allPages, PrintJobSettings.from, and PrintJobSettings.to methods.

@@ -22,6 +22,9 @@ dev_langs:
 
 # ShiftStatus Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Status of the Shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The class containing additional required information about the receipt.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

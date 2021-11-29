@@ -17,6 +17,9 @@ dev_langs:
 
 # PublishedOn Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the date the catalog was published.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

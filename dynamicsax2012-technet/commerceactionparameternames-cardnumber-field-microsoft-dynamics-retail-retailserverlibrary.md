@@ -17,6 +17,9 @@ dev_langs:
 
 # CardNumber Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The card number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -20,6 +20,9 @@ f1_keywords:
 # Public sector 1099G configuration key (Tax1099G) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Public Sector 1099G** configuration key controls access to fields that can be used to record information for the U.S. Internal Revenue Service (IRS) 1099-G income tax form. That tax form is used to report income from government sources, such as state or local tax refunds, unemployment benefits, grants, or subsidies. These fields are available only to legal entities whose primary address is in the United States, and only if the configuration key is selected.

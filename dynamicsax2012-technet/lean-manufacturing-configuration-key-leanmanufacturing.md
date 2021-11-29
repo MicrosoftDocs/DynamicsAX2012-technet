@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Lean manufacturing configuration key (LeanManufacturing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Lean manufacturing** configuration key controls access to forms and functions that are used in Microsoft Dynamics AX lean manufacturing. If this configuration key is enabled, you can use the following feature sets:

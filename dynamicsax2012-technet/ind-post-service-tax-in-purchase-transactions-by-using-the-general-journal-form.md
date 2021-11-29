@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Post service tax in purchase transactions by using the General journal form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **General journal** form to create and post a journal to post service tax in purchase transactions. You can specify the service code and service category for each journal line before you post the journal.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create and maintain project contracts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about creating project contracts and maintaining them throughout the project cycle.

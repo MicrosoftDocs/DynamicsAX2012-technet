@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post receipt lists, product receipts and purchase order invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can post a receipt list, packing slip, or invoice only after the bill of entry is posted.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Maintain signing limit requests for your workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A signing limit defines the largest financial commitment that a worker is authorized to make on behalf of an employer. As a direct result of the worker's spending activity, and subsequent approval of the activity by the worker's manager, the organization may enter into a contractual relationship with a third party. For example, a purchase order may be issued to a vendor.

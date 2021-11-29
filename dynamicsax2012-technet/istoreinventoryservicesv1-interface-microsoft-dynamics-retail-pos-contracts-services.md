@@ -17,6 +17,9 @@ dev_langs:
 
 # IStoreInventoryServicesV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IStoreInventoryServicesV1 interface is version 1.0 for store inventory.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

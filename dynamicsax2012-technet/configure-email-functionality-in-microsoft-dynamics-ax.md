@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure email functionality in Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To configure email functionality in Microsoft Dynamics AX, complete the procedures in this topic. These procedures will help you connect Microsoft Dynamics AX to an SMTP mail server, configure email settings for users, set up a batch to send email messages, and create email templates.

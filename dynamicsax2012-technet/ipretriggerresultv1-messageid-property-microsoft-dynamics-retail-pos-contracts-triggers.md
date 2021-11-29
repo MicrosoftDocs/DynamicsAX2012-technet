@@ -17,6 +17,9 @@ dev_langs:
 
 # MessageId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the message ID for dialog boxes. No message box is shown if message ID is set to'0'.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

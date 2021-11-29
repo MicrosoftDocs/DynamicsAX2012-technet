@@ -17,6 +17,9 @@ dev_langs:
 
 # CommitStockCountJournalTransactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commits the list of Stock journal transactions to AX.
 
 After successfull commit, all the journal and transactions are deleted from the RetailServer Db.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up loyalty payment methods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to set up payment methods for loyalty schemes. You must set up a payment method before a loyalty card can be used at a register and loyalty points can be redeemed as part of a loyalty scheme. After you add the payment method to a store, or select it as a line rule on a loyalty scheme, customers can redeem their loyalty points.

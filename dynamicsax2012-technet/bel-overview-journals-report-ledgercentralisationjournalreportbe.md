@@ -16,6 +16,9 @@ f1_keywords:
 # (BEL) Overview journals report (LedgerCentralisationJournalReportBE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This **Overview journals** report displays and prints an overview of all the posting journals together with their balances. This report is typically used by chief executive officers, chief financial officers, compliance managers, accounting managers, accounting supervisors, and financial controllers to review the status of the general ledger process.

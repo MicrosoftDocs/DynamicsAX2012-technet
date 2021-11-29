@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateQuantityFromPriceServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CalculateQuantityFromPriceServiceRequest request object to get the barcode type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

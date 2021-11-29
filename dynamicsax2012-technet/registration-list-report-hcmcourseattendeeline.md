@@ -14,6 +14,9 @@ f1_keywords:
 # Registration list report (HcmCourseAttendeeLine) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print an overview of training course registration information including the course participants and the status of the participants. The results are sorted by course.

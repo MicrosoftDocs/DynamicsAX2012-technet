@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerSqlServerDatabaseAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer SQL database accessor class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-namespace.md)  

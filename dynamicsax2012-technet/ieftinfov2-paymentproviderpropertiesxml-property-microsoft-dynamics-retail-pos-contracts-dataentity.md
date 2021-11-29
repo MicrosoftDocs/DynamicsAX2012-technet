@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentProviderPropertiesXML Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or sets the Payment Provider Properties for this eft request
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

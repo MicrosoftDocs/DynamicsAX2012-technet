@@ -17,6 +17,9 @@ dev_langs:
 
 # EnableAnonymousSearch Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enables search for anonymous users
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

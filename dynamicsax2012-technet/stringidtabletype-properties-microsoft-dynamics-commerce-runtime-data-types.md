@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StringIdTableType Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StringIdTableType](stringidtabletype-class-microsoft-dynamics-commerce-runtime-data-types.md) type exposes the following members.
 
 ## Properties

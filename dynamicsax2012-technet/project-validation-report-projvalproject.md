@@ -14,6 +14,9 @@ f1_keywords:
 # Project validation report (ProjValProject) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To control how project transactions are recorded, you can limit the values that are available in journals and timesheets for workers, projects, and categories. You can also set up rules to prevent posting of transactions that violate the validation rules. Use this report to display a list of the categories and workers for which validation is enabled.

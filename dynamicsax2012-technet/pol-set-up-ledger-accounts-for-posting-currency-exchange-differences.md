@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up ledger accounts for posting currency exchange differences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up ledger accounts for posting gains and losses for currency exchange rate fluctuations.

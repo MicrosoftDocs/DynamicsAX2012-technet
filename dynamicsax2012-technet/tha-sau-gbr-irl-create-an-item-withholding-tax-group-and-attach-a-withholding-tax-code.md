@@ -17,6 +17,9 @@ ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 # (THA, SAU, GBR, IRL) Create an item withholding tax group and attach a withholding tax code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Item withholding tax groups** form to create an item withholding tax group. You can attach one or more withholding tax codes to an item withholding tax group and attach multiple withholding tax rates to accommodate partial payment transactions. You can also attach a withholding tax group to an item group or item.

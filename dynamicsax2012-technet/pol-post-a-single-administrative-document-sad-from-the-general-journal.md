@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Post a Single Administrative Document (SAD) from the general journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create a Single Administrative Document (SAD), and how to post the SAD transactions by using the general journal.

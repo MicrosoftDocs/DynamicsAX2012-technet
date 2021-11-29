@@ -17,6 +17,9 @@ dev_langs:
 
 # Latitude Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the location latitude.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

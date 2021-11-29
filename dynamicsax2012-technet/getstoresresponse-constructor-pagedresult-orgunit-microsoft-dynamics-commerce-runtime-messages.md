@@ -15,6 +15,9 @@ dev_langs:
 
 # GetStoresResponse Constructor (PagedResult(OrgUnit))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetStoresResponse](getstoresresponse-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

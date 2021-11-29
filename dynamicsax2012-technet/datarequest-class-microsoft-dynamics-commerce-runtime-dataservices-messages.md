@@ -17,6 +17,9 @@ dev_langs:
 
 # DataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base class for data request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

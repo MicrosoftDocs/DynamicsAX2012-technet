@@ -25,6 +25,9 @@ ms.search.region: Global
 # About integration with shipping carriers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Shipping carrier integration provides the appropriate information to shipping carrier software from Kewill ClipperShip, UPS WorldShip, and FedEx Ship Manager. The integration automatically moves information that is received from these carriers, such as freight charges and tracking numbers, into Microsoft Dynamics AX sales orders and invoices, which helps eliminate manual entry and improve tracking visibility. You can:

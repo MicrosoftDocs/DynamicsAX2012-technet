@@ -13,6 +13,9 @@ f1_keywords:
 
 # occupational illness
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An illness caused by exposure to environmental factors in the work environment.
 
 ## See also

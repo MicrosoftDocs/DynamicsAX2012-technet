@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) View and resolve exceptions for Sites Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view and resolve exceptions in Microsoft Dynamics AX that occur when you use Sites Services for Microsoft Dynamics ERP. The **Exceptions** form lists the errors that have occurred during Sites Services operations.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ActiveSalesLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the active (not voided) sales lines. Totaling and tax should include all the active lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

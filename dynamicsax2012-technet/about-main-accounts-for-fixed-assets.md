@@ -15,6 +15,9 @@ ms.search.region: Global
 # About main accounts for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can specify main accounts for the fixed asset transaction types in the **Fixed asset posting profiles** form, you must set up these main accounts in the **Main accounts - chart of accounts: %1** form. Only accounts that have a main account type of **Balance sheet** or **Profit and loss** must be set up.

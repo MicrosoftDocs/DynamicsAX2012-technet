@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up payment methods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up various methods of payment for expense transactions. Expense transactions can be owned by the organization, a customer, or a worker. You can also specify forms of payment, such as cash and credit.

@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailWebControl Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The base web control for all Retail web controls. All Retail web controls should be derived from this class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

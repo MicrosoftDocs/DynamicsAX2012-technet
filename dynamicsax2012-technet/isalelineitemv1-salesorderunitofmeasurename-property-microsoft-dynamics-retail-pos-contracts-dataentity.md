@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesOrderUnitOfMeasureName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 //The active item sale unit of measurement name (based upon UOM set for the item by the user)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

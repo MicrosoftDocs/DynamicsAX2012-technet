@@ -15,6 +15,9 @@ ms.search.region: Global
 # About sales order information for shipping carriers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a shipping carrier interface is set up, information about the sales order is transferred to the shipping carrier software. This transfer is based on the mode of delivery, carrier code, and other parameters that are specified for the sales order.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up dispatch teams 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to create a dispatch team. After you create a dispatch team, you can assign workers to the team. When you create a service order, you can then relate a member of a dispatch team to an activity in the service order.

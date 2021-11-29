@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionsReport Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prints customer transactions for customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

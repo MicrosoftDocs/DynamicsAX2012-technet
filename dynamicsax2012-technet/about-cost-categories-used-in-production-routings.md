@@ -15,6 +15,9 @@ ms.search.region: Global
 # About cost categories used in production routings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Cost categories apply to manufacturing environments that use routings. Cost categories are assigned to operations resources and routing operations to define hourly costs and segment cost contributions in a manufactured item’s calculated costs. That is, the cost groups that are assigned to cost categories classify manufacturing cost contributions by operation resources and type of activity, such as setup and run time. The specificity of cost group assignment provides the foundation for calculating manufacturing overheads based on routing information.

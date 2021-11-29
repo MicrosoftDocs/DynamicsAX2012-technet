@@ -14,6 +14,9 @@ f1_keywords:
 # Customer base data report (CustBasedata) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to review the account information about selected customers, such as contact information, credit rating, terms of payment, and so on.

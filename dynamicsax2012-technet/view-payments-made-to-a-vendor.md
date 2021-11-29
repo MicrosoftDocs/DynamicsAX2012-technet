@@ -23,6 +23,9 @@ ms.search.region: Global
 # View payments made to a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view payment history for any vendor by using the **Payment history** form. You can view a variety of vendor payment information, such as:

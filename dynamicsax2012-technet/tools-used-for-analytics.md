@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Tools used for analytics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft SQL Server Analysis Services provides online analytical processing (OLAP) functionality for Microsoft Dynamics AX. Analysis Services lets you analyze large quantities of data. You can use it to design, create, and manage cubes that contain detailed and aggregated data from multiple data sources.

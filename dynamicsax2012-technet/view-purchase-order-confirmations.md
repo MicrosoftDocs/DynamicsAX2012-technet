@@ -17,6 +17,9 @@ ms.search.region: Global
 # View purchase order confirmations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Purchase order confirmations** page to view a list of purchase orders that are confirmed. For information about how to view all orders which includes those that have not yet been confirmed, see [View or modify purchase orders](view-or-modify-purchase-orders.md).

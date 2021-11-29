@@ -13,6 +13,9 @@ f1_keywords:
 
 # reverse charge VAT
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A value-added tax (VAT) on products that is owed by the customer that receives the product, not by the vendor that delivers the product.
 
 ## See also

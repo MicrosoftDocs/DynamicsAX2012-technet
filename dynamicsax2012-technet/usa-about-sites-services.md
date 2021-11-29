@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) About Sites Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Organizations can use Sites Services for Microsoft Dynamics ERP to easily build web sites that extend their business processes to the Internet and integrate smoothly with Microsoft Dynamics AX, often with no need for IT support. Before you can use Sites Services, you need to sign up for an account. In many organizations, the IT department or a partner sets up, customizes, and maintains Sites Services.

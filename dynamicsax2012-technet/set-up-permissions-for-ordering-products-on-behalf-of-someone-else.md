@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up permissions for ordering products on behalf of someone else 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As an administrator of the purchasing process, you can grant permissions to workers to prepare purchase requisitions on behalf of other workers. You can also grant permissions for a worker to order items and services in one or more legal entities or operating units.

@@ -16,6 +16,9 @@ ms.search.region: Russia
 # (RUS) Assign an exchange format to a bank account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to assign an exchange format for a client bank to a bank account. For each type of exchange, you can create only one active exchange format for a bank account. The exchange types are export, import, and import of account balance.

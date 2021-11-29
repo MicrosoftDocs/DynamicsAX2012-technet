@@ -17,6 +17,9 @@ dev_langs:
 
 # Add Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the specified SalesLine object to the collection of lines included in this group.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

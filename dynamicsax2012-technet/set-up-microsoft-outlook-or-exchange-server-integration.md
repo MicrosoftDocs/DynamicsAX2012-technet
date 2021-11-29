@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up Microsoft Outlook or Exchange Server integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before users can integrate Microsoft Outlook or Microsoft Exchange Server with Microsoft Dynamics AX on a client computer, they must be granted access to the COM+ Service. When Microsoft Dynamics AX is installed on the client computer, the user who installed the program is automatically granted access to the COM+ Service, but other users must be added manually.

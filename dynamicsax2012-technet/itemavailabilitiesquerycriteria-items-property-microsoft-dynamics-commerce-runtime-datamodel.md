@@ -17,6 +17,9 @@ dev_langs:
 
 # Items Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the items. If DataLevel more than Standard query will return quantities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

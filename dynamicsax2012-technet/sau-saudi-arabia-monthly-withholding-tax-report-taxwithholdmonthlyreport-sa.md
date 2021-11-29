@@ -14,6 +14,9 @@ f1_keywords:
 # (SAU) Saudi Arabia monthly withholding tax report (TaxWithholdMonthlyReport\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Saudi Arabia monthly withholding tax report** prints the withholding transaction details for a specified month. Legal entities operating in Saudi Arabia must submit this report to the Department of Zakat and Income Tax (DZIT) within the first 10 days following the end of the month for which the report is generated.

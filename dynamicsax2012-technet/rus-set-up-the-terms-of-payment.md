@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the terms of payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up the terms of payment when you register the purchase of goods from a vendor through an advance holder. The advance holder makes the purchase.

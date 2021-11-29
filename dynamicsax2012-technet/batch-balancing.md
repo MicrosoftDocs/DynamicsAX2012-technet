@@ -13,6 +13,9 @@ f1_keywords:
 
 # batch balancing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A process that adjusts the required quantities of ingredients that are used in the production of a formula based on the level of potency of active ingredient of a specific inventory batch.
 
 ## See also

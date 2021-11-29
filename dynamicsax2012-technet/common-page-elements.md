@@ -14,6 +14,9 @@ ms.search.region: Global
 # Common page elements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information about the elements and common features that appear on pages in Enterprise Portal for Microsoft Dynamics AX.

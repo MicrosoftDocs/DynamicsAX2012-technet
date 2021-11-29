@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create and save process flow queries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create queries that include selected processes, substances, and substance categories. These queries can be used to display a graphical representation of processes, substances, and substance categories in the **Process map** form. The queries that you create can contain one or more processes, substances, or substance categories. You can define the appropriate information for each query by specifying criteria such as the type of process or substance category.

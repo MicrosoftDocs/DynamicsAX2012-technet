@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceContextHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price context builder.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

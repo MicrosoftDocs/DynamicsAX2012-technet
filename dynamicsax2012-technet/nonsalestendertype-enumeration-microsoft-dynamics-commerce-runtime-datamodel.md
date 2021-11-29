@@ -22,6 +22,9 @@ dev_langs:
 
 # NonSalesTenderType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the non-sale tender type operation - starting amount / tender removal / float entry.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

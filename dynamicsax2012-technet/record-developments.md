@@ -18,6 +18,9 @@ ms.search.region: Global
 # Record developments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create developments to record events or new conditions that might affect the progress or results of a recruitment project.

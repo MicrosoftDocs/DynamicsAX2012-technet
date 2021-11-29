@@ -14,6 +14,9 @@ f1_keywords:
 # Route card report (ProdRouteCard) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Route card** report to print a route card for a production order. The route card report is identical to the report printed when a production is released. If you work with a routing network, the route card is printed per branch.

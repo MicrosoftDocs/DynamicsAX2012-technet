@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The store Id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

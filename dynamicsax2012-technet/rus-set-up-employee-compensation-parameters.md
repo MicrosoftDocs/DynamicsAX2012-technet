@@ -36,6 +36,9 @@ ms.search.region: Russia
 # (RUS) Set up employee compensation parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes about how to set up types of incapacities and injuries, the scale of charges, and pay frequencies for employee compensation payments.

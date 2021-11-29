@@ -17,6 +17,9 @@ dev_langs:
 
 # AddLoyaltyDiscountAmount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add the loyalty discount amount granted on the total transaction amount using loyalty points
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

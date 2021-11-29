@@ -14,6 +14,9 @@ ms.search.region: Global
 # Import or export a product configuration model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can import and export a product configuration model as an XML file. This is useful, for example, when you want to share a product configuration model or save a backup. You can import a product configuration model only to the same version of Microsoft Dynamics AX that it was exported from.

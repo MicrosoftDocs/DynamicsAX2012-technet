@@ -17,6 +17,9 @@ dev_langs:
 
 # EntityCollection Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the entity read only collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up threshold discounts (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to create a threshold discount, which is also referred to as an amount-based discount. A threshold discount is a discount that is given to customers when the total for a transaction reaches one or more specified amounts. For example, you can create a discount that gives a 10 percent discount for purchases over 100.00 and a flat 25.00 discount for totals over 200.00.
 
 1.  Click **Retail essentials** \> **Merchandising** \> **Pricing and discounts** \> **Threshold discounts**.

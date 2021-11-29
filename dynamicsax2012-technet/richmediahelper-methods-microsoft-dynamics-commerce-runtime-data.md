@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RichMediaHelper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RichMediaHelper](richmediahelper-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

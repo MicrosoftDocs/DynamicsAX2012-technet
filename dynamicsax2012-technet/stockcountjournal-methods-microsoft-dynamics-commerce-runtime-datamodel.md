@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StockCountJournal Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StockCountJournal](stockcountjournal-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

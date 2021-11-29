@@ -23,6 +23,9 @@ ms.search.region: Global
 # Set up and transfer the transfer order transactions for Intrastat reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Follow the steps in this topic to set up and include the Intrastat transactions for the internal transfer of items for a European Union (EU) legal entity on the Intrastat report.

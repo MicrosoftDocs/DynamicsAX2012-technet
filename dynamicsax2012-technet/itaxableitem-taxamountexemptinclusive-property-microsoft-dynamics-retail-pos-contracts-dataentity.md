@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxAmountExemptInclusive Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The tax amount coming from inclusive tax codes that is exempt for a particular transaction. This can occur if the customer is a non-taxed organization.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

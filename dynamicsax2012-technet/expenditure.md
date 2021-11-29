@@ -13,6 +13,9 @@ f1_keywords:
 
 # expenditure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A cost or expense that is expended during an accounting period.
 
 ## See also

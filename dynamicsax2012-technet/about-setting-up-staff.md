@@ -15,6 +15,9 @@ ms.search.region: Global
 # About setting up staff 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Before a worker can perform job duties in a retail store, you must set up the worker in Microsoft Dynamics AX. You must also assign the worker appropriate privileges, so that the worker can log on and perform tasks by using the Microsoft Dynamics AX for Retail POS system.

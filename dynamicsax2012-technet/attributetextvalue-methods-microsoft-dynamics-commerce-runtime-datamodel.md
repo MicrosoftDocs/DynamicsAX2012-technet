@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AttributeTextValue Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AttributeTextValue](attributetextvalue-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

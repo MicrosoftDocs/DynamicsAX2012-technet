@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Customer payment journal report (CustPaymentJournal\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer payment journal** report displays the payment details and settlement details for a payment journal that is selected in the **Payment journal** form. This report is used to check the status of customer payments and to review the invoice and cash processes. This report is typically used by accountants, accounting managers, accounting supervisors, accounts clerks, collections managers, compliance managers, and financial controllers.

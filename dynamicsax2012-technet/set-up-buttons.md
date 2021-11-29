@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up buttons 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can customize various properties of individual buttons, such as the text, color, and operation. For information about how to customize groups of buttons that are included in grids on the Microsoft Dynamics AX for Retail POS screen, see [Set up a button grid](set-up-a-button-grid.md).

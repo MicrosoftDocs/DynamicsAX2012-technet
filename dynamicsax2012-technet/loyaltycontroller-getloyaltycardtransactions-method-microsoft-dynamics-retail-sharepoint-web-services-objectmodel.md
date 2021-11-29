@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCardTransactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all the transaction data specific to a a loyalty card number for a given points category
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

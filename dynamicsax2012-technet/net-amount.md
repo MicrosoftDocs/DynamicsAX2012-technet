@@ -13,6 +13,9 @@ f1_keywords:
 
 # net amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The amount including all deductions, charges, and adjustments.
 
 ## See also

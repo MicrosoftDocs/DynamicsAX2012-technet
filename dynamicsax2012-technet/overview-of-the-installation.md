@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Overview of the installation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of the components that you can install by using the Setup wizard. It also describes the installation types that are available in Setup. The following topics are included:

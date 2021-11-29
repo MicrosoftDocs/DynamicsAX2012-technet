@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesOrder Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sales order class
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

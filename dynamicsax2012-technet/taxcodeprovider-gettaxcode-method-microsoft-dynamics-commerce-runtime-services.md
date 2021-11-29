@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTaxCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tax code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

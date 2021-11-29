@@ -17,6 +17,9 @@ dev_langs:
 
 # DbElementCollection(T) Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

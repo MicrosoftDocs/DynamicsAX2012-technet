@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductAvailabilitySqlServerDataService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductAvailabilitySqlServerDataService](productavailabilitysqlserverdataservice-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Properties

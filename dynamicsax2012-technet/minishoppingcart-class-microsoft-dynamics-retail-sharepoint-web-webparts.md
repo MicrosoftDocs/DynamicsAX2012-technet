@@ -17,6 +17,9 @@ dev_langs:
 
 # MiniShoppingCart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The mini shopping cart represents a compact link to the full shopping cart view with an optional shopping cart items count.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateStockCountJournal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a stock count journal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Workflow participants performance report (WorkflowParticipantPerformanceReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Workflow participants performance** report shows information about specific workflow participants. For example, the report shows the average time it took for a specific participant to complete a work item. The report also shows the number of work items that the participant completed, approved, and rejected.

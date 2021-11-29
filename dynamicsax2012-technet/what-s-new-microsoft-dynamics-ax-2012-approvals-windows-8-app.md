@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's New: Microsoft Dynamics AX 2012 Approvals Windows 8 App 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Along with cumulative update 7 for Microsoft Dynamics AX 2012 R2, Microsoft is releasing the Windows 8 Approvals App that works with the product. This app is compatible only with installations of Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2.

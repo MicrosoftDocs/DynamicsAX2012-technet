@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Benchmark white papers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The papers in this section provide information about the benchmark results that are available for Microsoft Dynamics AX 2012.

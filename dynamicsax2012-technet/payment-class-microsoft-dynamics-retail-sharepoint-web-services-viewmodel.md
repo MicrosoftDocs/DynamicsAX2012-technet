@@ -17,6 +17,9 @@ dev_langs:
 
 # Payment Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The payment view model representation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

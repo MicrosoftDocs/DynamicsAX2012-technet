@@ -22,6 +22,9 @@ dev_langs:
 
 # KeyInPrices Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 KeyInPrices are used when items needs to be explicitely Keyed In during the Barcode scan operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

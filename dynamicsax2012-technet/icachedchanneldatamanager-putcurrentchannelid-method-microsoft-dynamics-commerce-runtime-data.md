@@ -17,6 +17,9 @@ dev_langs:
 
 # PutCurrentChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the identifier of the current channel, or 0 if no channel is found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

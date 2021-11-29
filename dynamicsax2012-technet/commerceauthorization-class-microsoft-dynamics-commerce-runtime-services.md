@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceAuthorization Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commerce Authorization Helper functions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

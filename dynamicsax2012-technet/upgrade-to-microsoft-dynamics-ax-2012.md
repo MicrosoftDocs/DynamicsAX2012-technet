@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade to Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this page to access links to the latest information about how to upgrade to Microsoft Dynamics AX 2012 (including Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012 R2, and Microsoft Dynamics AX 2012 R3) from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009.

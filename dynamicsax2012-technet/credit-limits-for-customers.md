@@ -14,6 +14,9 @@ ms.search.region: Global
 # Credit limits for customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Setting a credit limit lets you specify the maximum amount of credit to extend to your customers. If a credit limit is specified, it is checked automatically when a user attempts to update a document. If the credit limit is exceeded, a message is displayed to the user. This topic provides an overview of how credit limits work in Microsoft Dynamics AX and answers the following questions:

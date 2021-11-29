@@ -26,6 +26,9 @@ ms.search.region: Global
 # Delete requests for quotation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can delete requests for quotation (RFQs) and RFQ replies from Microsoft Dynamics AX 2012 R3. The corresponding RFQ journals are not deleted, but remain as a record in the system.

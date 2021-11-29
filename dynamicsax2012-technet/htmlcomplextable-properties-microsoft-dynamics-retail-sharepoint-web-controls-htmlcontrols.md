@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HtmlComplexTable Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HtmlComplexTable](htmlcomplextable-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # Process Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CardType workflow handler to process the incoming workflow requests.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

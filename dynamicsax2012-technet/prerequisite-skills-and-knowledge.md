@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Prerequisite skills and knowledge 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX is built on several other Microsoft products and technologies. To implement the Microsoft Dynamics AX program in a manner that takes full advantage of this technology platform, you must have advanced information technology skills and knowledge.

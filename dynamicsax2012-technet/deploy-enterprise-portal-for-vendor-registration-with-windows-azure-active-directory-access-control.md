@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy Enterprise Portal for vendor registration with Windows Azure Active Directory Access Control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to create a claims-aware Enterprise Portal site for vendor registration. The vendor registration process begins when a potential vendor requests registration by using a public Enterprise Portal site that is configured for anonymous authentication. After completing a series of steps in the registration workflow, the registered vendor can access Enterprise Portal outside of your Active Directory domain by using one of the following types of accounts: Microsoft Account, Google, Yahoo, or Facebook.

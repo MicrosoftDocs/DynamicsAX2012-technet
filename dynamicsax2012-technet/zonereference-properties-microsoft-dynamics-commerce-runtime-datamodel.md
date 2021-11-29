@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ZoneReference Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ZoneReference](zonereference-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderLine Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tender line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

@@ -40,6 +40,9 @@ ms.search.region: Russia
 # (RUS) Support the workforce management process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to support the workforce management process in the following ways:

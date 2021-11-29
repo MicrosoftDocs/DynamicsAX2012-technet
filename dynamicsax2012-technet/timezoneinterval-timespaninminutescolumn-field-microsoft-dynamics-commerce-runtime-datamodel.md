@@ -17,6 +17,9 @@ dev_langs:
 
 # TimeSpanInMinutesColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Time span in minutes column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploying Customizations and Solutions by using Models and the Model Store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, we recommend that you use models and the model store to deploy customizations and solutions.

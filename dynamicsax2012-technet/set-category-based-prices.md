@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set category-based prices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to manage the prices of many products at the same time by using price rules and price groups that affect entire categories of products. This is especially useful if your company has many retail products.

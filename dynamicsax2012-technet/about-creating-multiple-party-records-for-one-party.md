@@ -15,6 +15,9 @@ ms.search.region: Global
 # About creating multiple party records for one party 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some organizations have multiple locations, legal entities, or lines of business. In this situation, party records for an organization can have varying default values depending on agreements that the organization has with your organization. It can be difficult to know when to create a single party record for a customer that has multiple locations, for example, versus when to create a party record for each location for the customer.

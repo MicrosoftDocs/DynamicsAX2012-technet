@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up receipt profiles (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up receipt profiles. A receipt profile is a group of form layouts that can be assigned to point-of-sale (POS) printers via a hardware profile. A receipt profile provides a set of receipt templates for the printers at your registers. You must set up form layouts and receipt profiles to print receipts and other documents from Retail essentials. After you set up the receipt profiles, you must assign them to the hardware profile, so that the POS register can print the receipts.

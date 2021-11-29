@@ -15,6 +15,9 @@ f1_keywords:
 # Create databases for retail stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create and update retail store databases by using the Retail Store Database Utility. A store database can be created on either a shared database server or a point-of-sale (POS) register for offline use.

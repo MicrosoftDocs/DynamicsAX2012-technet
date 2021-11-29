@@ -17,6 +17,9 @@ dev_langs:
 
 # CommitOrderReceipt Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commits an order receipt document by sending it back to HQ.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

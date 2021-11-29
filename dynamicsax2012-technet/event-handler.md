@@ -13,6 +13,9 @@ f1_keywords:
 
 # event handler
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A software routine that executes in response to an event.
 
 ## See also

@@ -15,6 +15,9 @@ dev_langs:
 
 # Add Method (DataRow)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a new row to the collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

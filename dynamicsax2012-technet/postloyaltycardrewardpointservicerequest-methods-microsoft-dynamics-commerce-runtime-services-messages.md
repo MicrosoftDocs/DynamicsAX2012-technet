@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PostLoyaltyCardRewardPointServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PostLoyaltyCardRewardPointServiceRequest](postloyaltycardrewardpointservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

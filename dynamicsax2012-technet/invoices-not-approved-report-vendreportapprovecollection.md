@@ -14,6 +14,9 @@ f1_keywords:
 # Invoices not approved report (VendReportApproveCollection) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Invoices not approved** report to review the vendor invoices that have been entered but are not yet approved.

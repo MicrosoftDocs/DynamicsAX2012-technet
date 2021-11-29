@@ -17,6 +17,9 @@ ms.search.region: Global
 # View call lists 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Call list** page to view a list of call lists, and you can also view the details of a specific call list. Call lists are used in campaigns.

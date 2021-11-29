@@ -14,6 +14,9 @@ f1_keywords:
 # Ledger posting setup report (ProjListProjPosting) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view ledger postings by project category, and the setup criteria for posting to ledger accounts by category relation. You can select whether to include direct, indirect, and unspecified project category relations on the report. For more information about ledger posting setup by category relation, see [Ledger posting setup (form)](https://technet.microsoft.com/library/aa599270\(v=ax.60\)).

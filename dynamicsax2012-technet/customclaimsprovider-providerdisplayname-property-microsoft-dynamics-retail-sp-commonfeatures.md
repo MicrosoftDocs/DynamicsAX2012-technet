@@ -17,6 +17,9 @@ dev_langs:
 
 # ProviderDisplayName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the display name of the provider.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

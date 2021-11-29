@@ -26,6 +26,9 @@ ms.search.region: Global
 # Work with continuity programs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to work with continuity programs in a call center. In a continuity program, which is also known as a recurring order program, customers do not have to place a new order for each shipment. Instead, the customers receive regular product shipments according to a predefined schedule.

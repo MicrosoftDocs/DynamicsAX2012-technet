@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Developing on the Help server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can customize the Help system in Microsoft Dynamics AX in the following ways:

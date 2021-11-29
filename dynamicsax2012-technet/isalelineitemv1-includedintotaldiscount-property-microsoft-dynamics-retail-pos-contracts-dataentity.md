@@ -17,6 +17,9 @@ dev_langs:
 
 # IncludedInTotalDiscount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is true if the item included in the calculation of a combined total discount. Should be set when the item info is found.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

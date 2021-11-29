@@ -17,6 +17,9 @@ dev_langs:
 
 # IsWindowsIdentityProvider Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns bool based on if Identity Provider is Windows
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

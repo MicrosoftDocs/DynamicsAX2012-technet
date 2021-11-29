@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: MorphX features for developers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic lists the new and enhanced features and tools for the Microsoft MorphX development environment that is available in Microsoft Dynamics AX 2012.

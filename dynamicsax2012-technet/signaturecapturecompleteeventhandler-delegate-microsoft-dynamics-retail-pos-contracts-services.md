@@ -17,6 +17,9 @@ dev_langs:
 
 # SignatureCaptureCompleteEventHandler Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Signature capture device entry complete event handler.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

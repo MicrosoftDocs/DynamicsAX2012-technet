@@ -17,6 +17,9 @@ dev_langs:
 
 # ReleaseConnectionServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A data service request to release a connection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReleaseConnection](microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection-namespace.md)  

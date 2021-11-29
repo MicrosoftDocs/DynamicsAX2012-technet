@@ -15,6 +15,9 @@ ms.search.region: Global
 # About receiving partial deliveries of returned items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Partial deliveries are defined in terms of return order lines, not return order shipments.

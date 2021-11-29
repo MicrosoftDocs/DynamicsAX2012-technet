@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor balance list with credit limit report (VendBalanceList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print the balance for each vendor in the accounting currency. The balance is based on the value according to the most recent foreign currency revaluation. For each vendor, the vendor balance also shows the credit limit as specified in the **Vendors** form, the balance in the local currency, and any amount by which the credit limit has been exceeded.

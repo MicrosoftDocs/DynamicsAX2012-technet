@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITaxProviderV1 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITaxProviderV1](itaxproviderv1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Properties

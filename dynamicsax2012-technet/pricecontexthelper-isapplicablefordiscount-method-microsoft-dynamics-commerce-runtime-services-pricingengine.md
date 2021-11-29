@@ -17,6 +17,9 @@ dev_langs:
 
 # IsApplicableForDiscount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Check whether it is applicable for retail discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerServiceBase Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerServiceBase](customerservicebase-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Properties

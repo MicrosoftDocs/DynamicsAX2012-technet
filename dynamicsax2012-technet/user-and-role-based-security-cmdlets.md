@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # User and role-based security cmdlets
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [Add-AXSecurityRoleMember](add-axsecurityrolemember.md)
 
 [Disable-AXUser](disable-axuser.md)

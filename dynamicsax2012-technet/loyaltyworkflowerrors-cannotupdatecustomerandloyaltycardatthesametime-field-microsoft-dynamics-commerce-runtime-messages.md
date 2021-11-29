@@ -17,6 +17,9 @@ dev_langs:
 
 # CannotUpdateCustomerAndLoyaltyCardAtTheSameTime Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the cart cannot update the customer and the loyalty card at the same time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

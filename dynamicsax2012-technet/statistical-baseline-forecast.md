@@ -13,6 +13,9 @@ f1_keywords:
 
 # statistical baseline forecast
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An estimate of future demand that is created by applying a forecasting algorithm to historical transaction data.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemAvailabilitiesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetItemAvailabilitiesRequest class for the product availability service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

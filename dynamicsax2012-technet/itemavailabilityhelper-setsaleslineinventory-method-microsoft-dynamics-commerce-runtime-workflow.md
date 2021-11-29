@@ -17,6 +17,9 @@ dev_langs:
 
 # SetSalesLineInventory Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the sales line inventory for each sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

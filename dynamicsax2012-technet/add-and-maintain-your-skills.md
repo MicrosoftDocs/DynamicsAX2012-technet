@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add and maintain your skills 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Competencies** page to add or maintain information about skills that you possess or skills that you expect to achieve. Skills that you enter are available in broad skill searches in your company or organization. This is useful, for example, if your company or organization searches for someone who is qualified to perform a certain task, participate in a work group, or fill a specific position.

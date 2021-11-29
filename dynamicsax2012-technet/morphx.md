@@ -13,6 +13,9 @@ f1_keywords:
 
 # MorphX
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft Dynamics AX integrated development environment (IDE).
 
 ## See also

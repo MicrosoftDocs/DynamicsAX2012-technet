@@ -14,6 +14,9 @@ f1_keywords:
 # Purchases in the past periods chart report (VendPurchasePastXPeriods) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Purchases in the past periods** chart report to view the total purchases by a selected legal entity for the selected periods, in graphical form.

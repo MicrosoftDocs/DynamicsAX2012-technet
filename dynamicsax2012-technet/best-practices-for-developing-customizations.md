@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Best practices for developing customizations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This document describes best practices, and recommended patterns and practices, for developing customizations for Microsoft Dynamics AX 2012. The document lists common coding scenarios and describes best practices. The document also provides examples of common errors and explains how to avoid those errors.

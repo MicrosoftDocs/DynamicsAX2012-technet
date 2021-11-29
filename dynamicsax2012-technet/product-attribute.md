@@ -13,6 +13,9 @@ f1_keywords:
 
 # product attribute
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A representation of a product property.
 
 ## See also

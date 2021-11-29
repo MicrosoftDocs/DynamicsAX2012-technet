@@ -15,6 +15,9 @@ f1_keywords:
 # Set up hardware profiles (Retail Essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create hardware profiles. Hardware profiles are used to set preferences and properties for a register and the peripheral devices that are connected to the register. Hardware devices include receipt or document printers, customer displays, magnetic strip readers (MSRs), cash drawers, bar code scanners, scales, keylocks, keyboards, and the electronic funds transfer (EFT) setup.

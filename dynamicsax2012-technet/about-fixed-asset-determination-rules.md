@@ -20,6 +20,9 @@ ms.search.region: Global
 # About fixed asset determination rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the business rules for fixed asset determination to identify purchases that qualify as fixed assets. If you have been assigned the applicable role, you can set up rules to determine whether a product must be treated as a fixed asset when the purchase price of the product exceeds a monetary threshold. The monetary threshold for a legal entity can differ from the monetary threshold for the organization.

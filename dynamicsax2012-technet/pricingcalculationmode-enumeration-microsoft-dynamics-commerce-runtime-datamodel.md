@@ -19,6 +19,9 @@ dev_langs:
 
 # PricingCalculationMode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines how the pricing calculation should act on the set of lines passed into it.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

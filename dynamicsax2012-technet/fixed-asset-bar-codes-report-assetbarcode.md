@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed asset bar codes report (AssetBarcode) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this form to print a report that includes the bar codes for fixed assets. You can use the report to scan the bar codes for inventory purposes.

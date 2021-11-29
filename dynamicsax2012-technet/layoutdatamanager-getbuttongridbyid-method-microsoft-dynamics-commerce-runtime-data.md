@@ -17,6 +17,9 @@ dev_langs:
 
 # GetButtonGridById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a buttongrid by its identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

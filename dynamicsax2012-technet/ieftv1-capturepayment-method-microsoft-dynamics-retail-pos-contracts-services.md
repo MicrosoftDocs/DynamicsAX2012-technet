@@ -17,6 +17,9 @@ dev_langs:
 
 # CapturePayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Captures the card payment by establishing a connection with the configured payment processor.
 
 Once a connection to the broker is established, it attempts to capture the authorized card payment.

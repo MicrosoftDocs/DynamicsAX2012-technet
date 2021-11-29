@@ -17,6 +17,9 @@ dev_langs:
 
 # IsTimeBoundedForDay Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets whether the given day is valid within or outside its bounds.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

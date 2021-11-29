@@ -17,6 +17,9 @@ dev_langs:
 
 # Convert Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Uses conversion's previously set factor, numerator, and direction to convert a given quantity
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

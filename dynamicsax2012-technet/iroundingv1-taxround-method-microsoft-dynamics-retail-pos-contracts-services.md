@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxRound Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the standard round of the tax amount according to the tax code setup.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

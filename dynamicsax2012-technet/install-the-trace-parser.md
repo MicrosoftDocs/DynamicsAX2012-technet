@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the Trace Parser 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Trace Parser consolidates information from multiple sources, such as RPC and SQL, to provide an integrated view of the application’s performance at run time.

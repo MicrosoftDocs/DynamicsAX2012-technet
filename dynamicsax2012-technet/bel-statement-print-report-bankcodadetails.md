@@ -17,6 +17,9 @@ f1_keywords:
 # (BEL) Statement print report (BankCodaDetails) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Statement print** report displays the details of an imported coded statement of account (CODA) statement in a standard format. This report is typically used by accountants, treasurers, chief financial officers, accounts receivable managers, accounting managers, accounting supervisors, accounts payable managers, and financial controllers.

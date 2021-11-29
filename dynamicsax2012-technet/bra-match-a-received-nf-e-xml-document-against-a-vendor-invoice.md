@@ -24,6 +24,9 @@ ms.search.region: Brazil
 # (BRA) Match a received NF-e XML document against a vendor invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Follow the steps in this topic to automatically match a vendor’s Cadastro Nacional da Pessoa Jurídica (CNPJ) and Inscrição Estadual (IE) and the total amounts in the received Nota Fiscal electronica (NF-e) XML document against a vendor invoice. If you select the **Block NF-e posting if XML does not match** check box on the **NF-e federal** FastTab in the **Fiscal establishments** form, you can post only the electronic fiscal documents for which the XML document information matches the vendor invoice information.

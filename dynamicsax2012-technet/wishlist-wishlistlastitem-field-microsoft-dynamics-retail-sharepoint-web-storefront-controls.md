@@ -17,6 +17,9 @@ dev_langs:
 
 # WishListLastItem Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The wish list last item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

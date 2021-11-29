@@ -24,6 +24,9 @@ ms.search.region: Denmark, France
 # Set up general budget reservation workflows (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up one or more workflow configurations for general budget reservations. When workflow approval is set up for general budget reservations, additional controls appear at the top of the general budget reservation list and form. These include a yellow information bar, and either a **Submit** button or an **Actions** menu. For more information, see [Workflow actions](workflow-actions.md).

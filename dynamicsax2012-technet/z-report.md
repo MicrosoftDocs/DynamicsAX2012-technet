@@ -13,6 +13,9 @@ f1_keywords:
 
 # z-report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of report that is generated to record current sales totals for a specific cash register and to close the current work shift.
 
 ## See also

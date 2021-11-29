@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (IND) Percent exempt replaces load on inventory 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Indian installations, Microsoft Dynamics AX 2009 provides a country-specific feature that supports Indian requirements for load on inventory. Load on inventory enables a tax amount percentage that cannot be claimed as an input tax credit to be loaded into inventory, so that the correct value of the inventory can be reached.

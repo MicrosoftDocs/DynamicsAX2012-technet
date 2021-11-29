@@ -17,6 +17,9 @@ dev_langs:
 
 # IOrderService Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The order service interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

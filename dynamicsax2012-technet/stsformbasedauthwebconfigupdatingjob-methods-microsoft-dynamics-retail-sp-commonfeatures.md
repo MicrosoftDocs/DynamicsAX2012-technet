@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # STSFormBasedAuthWebConfigUpdatingJob Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [STSFormBasedAuthWebConfigUpdatingJob](stsformbasedauthwebconfigupdatingjob-class-microsoft-dynamics-retail-sp-commonfeatures.md) type exposes the following members.
 
 ## Methods

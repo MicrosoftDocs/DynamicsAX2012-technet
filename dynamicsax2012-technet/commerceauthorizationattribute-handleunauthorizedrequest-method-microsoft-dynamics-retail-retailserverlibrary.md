@@ -17,6 +17,9 @@ dev_langs:
 
 # HandleUnauthorizedRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles all unauthorized errors to return proper HttpCode to client.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

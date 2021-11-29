@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Register the transfer of property for a posted sales invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Passing of property** form to register the transfer of property for a sales invoice that was posted. Each invoice line in the form contains the quantities of items that the property transfer has to be registered for. To confirm the transfer of property, you specify a date and the quantity on the invoice line. The sales tax charges and other charges are recalculated based on the quantity, date of shipment, and date of the transfer of property.

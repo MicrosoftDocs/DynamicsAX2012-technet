@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create delivery charges groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this topic to create a charges group for modes of delivery. A delivery charges group is useful to group various modes of delivery in order to calculate and apply automatic charges, which are typically referred to as auto charges. After you create a delivery charges group, you can assign one or more modes of delivery to the group, and then you can define an auto charge and apply it to the group.

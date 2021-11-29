@@ -15,6 +15,9 @@ dev_langs:
 
 # GetProperties Method (Int64, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enumerates a product's properties for the specified variant id and language key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

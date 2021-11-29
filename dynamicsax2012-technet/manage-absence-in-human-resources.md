@@ -21,6 +21,9 @@ ms.search.region: Global
 # Manage absence in Human resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Topics in this section provide information about the tools in Human Resources that you can use to register, track, and manage time and attendance data according to the policies established in your organization.

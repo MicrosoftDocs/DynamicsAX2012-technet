@@ -17,6 +17,9 @@ dev_langs:
 
 # KitLineProductToVariantMap Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of kit Line products to kit variant association of the current kit, as a flat list.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

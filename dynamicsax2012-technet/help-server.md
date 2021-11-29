@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Help server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section explain the client-server architecture of the Microsoft Dynamics AX 2012 Help system and provide information for administrators responsible for installing, configuring, and maintaining the Help server. The Help system hosts fully customizable content on a standard Internet Information Services (IIS) web server. A Help viewer provides searchable access to the server content, as well as access to Internet Help resources.

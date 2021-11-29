@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a call list and call list targets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create call lists for campaigns that your organization is conducting. After you create the call list, you can add call list targets to the list. Call list targets are customers, prospects, or vendors that you created the campaign for.

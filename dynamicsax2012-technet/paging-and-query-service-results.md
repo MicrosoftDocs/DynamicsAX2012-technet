@@ -14,6 +14,9 @@ dev_langs:
 # Paging and Query Service Results 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX query service supports paging so that you can manage the amount of data returned by a query. Paging provides a mechanism to stop the query in order to limit the amount of data per request. This paging mechanism also allows for the query to restart from the position where it was stopped.

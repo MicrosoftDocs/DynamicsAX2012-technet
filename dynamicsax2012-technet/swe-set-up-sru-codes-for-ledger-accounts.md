@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Set up SRU codes for ledger accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can export financial data by using the formats specified by the Standard Import Export Group (SIE), the organization in Sweden that develops standard formats. You can set up a three-digit Standardiserad Räkenskaps Utdrag (SRU) code for each general ledger account. The SRU code is the Swedish tax authority’s code for standardized accounts extraction.

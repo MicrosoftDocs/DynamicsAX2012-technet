@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up default values 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Default values** form, you can set up values that apply to a specific customer, a group of customers, or all customers. It is also possible to apply these values to one item, a group of items, or all items.

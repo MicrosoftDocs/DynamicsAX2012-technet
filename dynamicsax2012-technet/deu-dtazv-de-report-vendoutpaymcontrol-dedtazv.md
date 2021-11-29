@@ -16,6 +16,9 @@ f1_keywords:
 # (DEU) DTAZV (DE) report (VendOutPaymControl\_DEDTAZV) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **DTAZV (DE)** report is a control report that displays the details of the vendor payments that are made by using the **DTAZV (DE)** export format. This report is used by the accounts clerks, accounting managers, and financial controllers to inquire into the status of vendor payments and to maintain vendor payments.

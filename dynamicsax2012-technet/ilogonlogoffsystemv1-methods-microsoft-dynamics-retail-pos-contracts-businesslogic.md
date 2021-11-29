@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ILogonLogoffSystemV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ILogonLogoffSystemV1](ilogonlogoffsystemv1-interface-microsoft-dynamics-retail-pos-contracts-businesslogic.md) type exposes the following members.
 
 ## Methods

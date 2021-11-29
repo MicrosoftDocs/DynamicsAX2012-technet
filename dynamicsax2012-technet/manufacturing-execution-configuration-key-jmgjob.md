@@ -14,6 +14,9 @@ f1_keywords:
 # Manufacturing execution configuration key (JmgJob) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Manufacturing execution** configuration key controls access to forms and functions for making job registrations on time and units, bundling jobs, performing team functions, collecting information about time spent on indirect activities, and integrating with the **Production control** and **Project management and accounting** modules.

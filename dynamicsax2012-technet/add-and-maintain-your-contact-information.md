@@ -18,6 +18,9 @@ ms.search.region: Global
 # Add and maintain your contact information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Your contact information is displayed on the **Contact details** FastTab on the **Personal information** page. Use the **Personal information** page to modify your contact information. Or, if you are a manager, you can use the **View employee – Person page** to modify an employee’s contact information. For more information about modifying an employee’s contact information, see [Add or maintain employee contact information](add-or-maintain-employee-contact-information.md).

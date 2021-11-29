@@ -14,6 +14,9 @@ ms.search.region: Global
 # Find out which version of Microsoft Dynamics AX you are using 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In some cases, the tasks that you can perform in Microsoft Dynamics AX depend on the version of the product that you are using.

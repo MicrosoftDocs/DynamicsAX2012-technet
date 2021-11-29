@@ -17,6 +17,9 @@ dev_langs:
 
 # MarkItemsReturned Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the RetailTransactionSalesTrans.returnQty for each returned item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetModifications Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This gets the modification that are supposed to be done or undone during activation/deactivation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceManagementTransactionService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Device Service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

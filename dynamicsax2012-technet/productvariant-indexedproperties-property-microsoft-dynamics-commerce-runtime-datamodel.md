@@ -17,6 +17,9 @@ dev_langs:
 
 # IndexedProperties Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the properties of a variant indexed by the translation language id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

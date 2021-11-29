@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft Dynamics AX Retail for IT pros and developers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Retail provides mid-market and large retailers a complete head-office and point of sale (POS) solution with support for online and brick-and-mortar stores. It can help retailers increase financial returns, improve service, manage growth, reach customers, and streamline efficiencies.

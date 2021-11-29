@@ -14,6 +14,9 @@ ms.search.region: Global
 # Post and print a journal or journal lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can post journals and journal lines to the general ledger. You can print journal lines as you prepare them or after they are posted.

@@ -14,6 +14,9 @@ f1_keywords:
 # Critical on-hand inventory report (InventSumCritical) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Critical on-hand inventory** report to print on-hand inventory that is lower than the minimum. The status of minimum is taken from the on-hand inventory and the product, tracking, and storage dimensions which are inserted on this report.

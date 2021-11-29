@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EntityDataServiceRequest(TRequestEntity, TResponseEntity) Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EntityDataServiceRequest\<TRequestEntity, TResponseEntity\>](entitydataservicerequest-trequestentity-tresponseentity-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

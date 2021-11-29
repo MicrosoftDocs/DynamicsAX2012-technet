@@ -18,6 +18,9 @@ dev_langs:
 
 # ApplicationPostAuthenticateRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Occurs when a security module has established the identity of the user and performs post authentication routine. Validates identity, and, if successful, writes the security token to the session cookie.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

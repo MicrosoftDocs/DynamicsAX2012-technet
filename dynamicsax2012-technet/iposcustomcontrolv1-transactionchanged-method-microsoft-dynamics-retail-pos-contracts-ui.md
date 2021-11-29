@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionChanged Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Method is called when transactions changes.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.UI](microsoft-dynamics-retail-pos-contracts-ui-namespace.md)  

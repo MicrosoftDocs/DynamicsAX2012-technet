@@ -14,6 +14,9 @@ ms.search.region: Global
 # Testing a user dialog box for a product model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The way that the **Product Builder configuration** form functions depends on the setup of the modeling variables, variable groups, validation rules, user profiles, and default values for the model. Together, these structures define the appearance and behavior of the user dialog box with its tabs, sections, and fields.

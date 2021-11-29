@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create categories and category groups for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Categories represent the types of costs or revenues that are defined for your organization. In Microsoft Dynamics AX, each category must be associated with a category group. Categories and category groups are organized by types. These types correspond to the transaction types that are available in **Project management and accounting**.

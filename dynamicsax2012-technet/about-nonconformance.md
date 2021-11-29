@@ -19,6 +19,9 @@ ms.search.region: Global
 # About nonconformance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A nonconformance describes an item that has a quality problem, where the descriptive information includes the source and type of problem. The problem source is termed a “nonconformance type.”

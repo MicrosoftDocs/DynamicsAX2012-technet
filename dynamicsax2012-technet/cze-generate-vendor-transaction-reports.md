@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Generate vendor transaction reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view the summary account that is set up for the vendor posting profile and the total amount per currency for each summary account used for posted vendor transactions.

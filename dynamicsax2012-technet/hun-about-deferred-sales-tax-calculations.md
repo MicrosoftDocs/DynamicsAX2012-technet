@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) About deferred sales tax calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Item sales tax groups** form to specify that value-added taxes (VAT) are posted to a deferred VAT account. These VAT amounts are transferred from the deferred VAT account to a regular sales tax account on the due date of the invoice.

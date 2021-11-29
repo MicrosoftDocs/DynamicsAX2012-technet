@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Test-AXReportServerConfiguration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Test-AXReportServerConfiguration
 
 Tests the availability of the Microsoft SQL Server Reporting Service instance and Report Manager URL specified in the configuration.

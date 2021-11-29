@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customize the functionality of an online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Microsoft Dynamics AX 2012 R2 Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. You can use the Retail starter store as a basis for developing your own online store by calling JavaScript methods for supported events. The starter store includes events that correspond to certain shopping activities such as *add item to shopping cart* and *remove item from shopping cart*. You can use these events to add functionality of your own, in a way that resembles using the [jQuery eventing model](https://go.microsoft.com/fwlink/?linkid=296268&clcid=0x409). You turn your custom functionality on and off by using methods such as OnAddToCart and OffAddToCart. For example, you can change the message that is displayed when an item is added to the shopping cart.

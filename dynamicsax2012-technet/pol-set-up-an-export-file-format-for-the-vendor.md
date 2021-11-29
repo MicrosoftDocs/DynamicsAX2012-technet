@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up an export file format for the vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Poland, each bank uses its own file format standards. You can define the file format for a vendor bank before you generate the export file.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Initialize Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Assures the composition defined on the configuration has been composed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

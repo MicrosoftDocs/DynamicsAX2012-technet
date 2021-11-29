@@ -18,6 +18,9 @@ ms.search.region: Global
 # About monitoring the progress of a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 During the course of a project, you can monitor various aspects of the project’s progress. For example, you can view the hour utilization of the project team members, or you can compare actual cash flow with the cash flow estimate that was made before the project started.

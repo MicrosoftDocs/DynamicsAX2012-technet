@@ -17,6 +17,9 @@ dev_langs:
 
 # Timeout Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The number of seconds to wait for the EFT Server.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

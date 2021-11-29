@@ -19,6 +19,9 @@ ms.search.region: Italy
 # (ITA) Attaching sales tax book sections and sales tax books 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Italy, every value-added tax (VAT) transaction must belong to a tax book. VAT books can be of the type **Sales**, **Purchase**, or **Summary**. After you set up Italian sales tax books and number sequence codes, you must attach the sales tax book to the sales tax book type. The sales tax book type is required to make sure that all sales and purchase transactions will be included in the Italian sales tax payment report. Then, you must create sales tax book sections to attach to the sales tax book. For more information about setting up Italian sales tax books and generating the Italian sales tax payment report, see the **Set up the Italian sales tax book** and **Generate the sales tax payment report** section in [(ITA) Reverse a conditional sales tax transaction and generate the sales tax payment report](ita-reverse-a-conditional-sales-tax-transaction-and-generate-the-sales-tax-payment-report.md). The sales tax book sections are visible in the following forms:

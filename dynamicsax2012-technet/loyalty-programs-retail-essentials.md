@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Loyalty programs (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 A loyalty program can help increase customer loyalty by rewarding customers for buying products in your retail stores. In Retail essentials, you can set up simple or complex loyalty programs that apply across your legal entities in any retail channel. You can set up the loyalty feature to include the following options:
 
   - Set up the types of rewards that you offer in your loyalty programs and track participation in your loyalty programs.

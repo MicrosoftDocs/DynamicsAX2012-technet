@@ -17,6 +17,9 @@ dev_langs:
 
 # ForeignCurrencyAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The amount in a foreign currency
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # NetAmountWithTax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The total net amount(grossamount minus discounts) including tax.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

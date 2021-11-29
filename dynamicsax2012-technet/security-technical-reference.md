@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security technical reference 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section contains miscellaneous technical information that relates to security in Microsoft Dynamics AX.

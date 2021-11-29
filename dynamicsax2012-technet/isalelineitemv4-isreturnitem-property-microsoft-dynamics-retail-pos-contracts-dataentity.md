@@ -17,6 +17,9 @@ dev_langs:
 
 # IsReturnItem Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True if the item is a returm item
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

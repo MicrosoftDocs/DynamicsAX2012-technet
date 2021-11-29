@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create user profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 User profiles can be created to match the different types of users who configure items with **Product Builder**. The user profiles are useful when you need to control which modeling variables a specific user can see, or change, during item configuration.

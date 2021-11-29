@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Specify cash round-off amounts for cash order lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create a cash order by using a slip journal, you can specify a cash round-off amount for the individual lines of the cash order.

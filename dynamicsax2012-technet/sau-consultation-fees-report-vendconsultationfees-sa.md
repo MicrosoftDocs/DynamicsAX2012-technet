@@ -17,6 +17,9 @@ f1_keywords:
 # (SAU) Consultation fees report (VendConsultationFees\_SA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Consultation fees** report displays a summary of all consultation fees paid to vendors and includes information such as the vendor name, address, Zakat file number, organization number, service type, and fee amount. This report is typically used by accountants, collections managers, accounting clerks, sales clerks, and sales managers to maintain and inquire into sales tax transactions.

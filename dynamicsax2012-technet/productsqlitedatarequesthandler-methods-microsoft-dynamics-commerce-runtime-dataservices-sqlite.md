@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductSqliteDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductSqliteDataRequestHandler](productsqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Methods

@@ -21,6 +21,9 @@ ms.search.region: Global
 # About maintaining estimates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Estimates are maintained on individual Estimate projects or on batches of Estimate projects. When Estimate projects are processed in batches by using periodic jobs, the Estimate projects that are selected for processing are grouped by period code.

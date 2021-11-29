@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetIndependentProductPriceDiscountRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetIndependentProductPriceDiscountRequest](getindependentproductpricediscountrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

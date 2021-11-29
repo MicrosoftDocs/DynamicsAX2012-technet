@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Define a Report Parameter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Parameters are used to specify the data to use in a report, connect related reports together, and control report presentation. This topic contains a section that describes the different kinds of report parameters that can be used on Microsoft Dynamics AX reports.

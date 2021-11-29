@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up Form I-9 document types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Companies in the United States are required to document the eligibility of workers by using Form I-9. However, before you can enter information from the Form I-9 for a worker, you must set up document types for Form I-9. An example of a document type for Form I-9 is the Certificate of US Citizenship (Form N-560 or N-561). This document is issued by the United States government as proof of US citizenship.

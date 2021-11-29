@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up subcodes for info codes (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up subcodes for info codes. Subcodes present the point-of-sale (POS) cashier with responses to an info code. Subcodes are displayed either in a list or as buttons. The actions that are triggered by a subcode depend on the setup criteria.

@@ -17,6 +17,9 @@ dev_langs:
 
 # TerminalNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The identification of the terminal that makes the transaction request.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

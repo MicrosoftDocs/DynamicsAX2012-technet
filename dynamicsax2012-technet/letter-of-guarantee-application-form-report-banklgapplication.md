@@ -14,6 +14,9 @@ f1_keywords:
 # Letter of guarantee application form report (BankLGApplication) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Letter of guarantee application form** report is used to print the letter of guarantee application to submit to the bank. The facility status of the letter of guarantee must be **Submitted to bank** to be able to print the letter of guarantee application. This report is typically used by chief financial officers, accounts receivable clerks, accounts receivable managers, accounting managers, financial controllers, and treasurers.

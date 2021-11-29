@@ -19,6 +19,9 @@ ms.search.region: Global
 # About configuration rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Configuration rules are applied to each new configuration variant that you select in the **Define new configurations or choose between existing configurations.** dialog box. Configuration rules prevent item number from being incorrectly selected. They also make it easier to define configurations, because an item number that is directly linked to another item number is automatically selected as a connected unit in system transactions.

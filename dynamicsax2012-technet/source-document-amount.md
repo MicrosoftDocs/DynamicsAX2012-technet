@@ -13,6 +13,9 @@ f1_keywords:
 
 # source document amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A monetary amount measurement that is documented on a source document.
 
 ## See also

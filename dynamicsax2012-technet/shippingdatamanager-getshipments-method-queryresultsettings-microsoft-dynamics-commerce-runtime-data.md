@@ -15,6 +15,9 @@ dev_langs:
 
 # GetShipments Method (QueryResultSettings)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

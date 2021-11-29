@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate the M-17 inventory item card 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The M-17 inventory item card is used to track movements of goods in the warehouse by product types, forms, and sizes. The warehouse manager or a warehouse employee completes a card for each inventory item. Entries are made in the cards based on the primary transaction documents for the day of the movement.

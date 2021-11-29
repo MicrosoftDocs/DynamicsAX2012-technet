@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create a project group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Every project must be associated with a project group. The project must be of the same type as the project group that it is associated with. The primary purpose for assigning projects to groups is to control how posting to general ledger accounts is set up. For Fixed-price and Investment projects, the project groups also specify a cost template, which controls estimate costs, and a period code, which determines how frequently estimates are calculated for projects that are associated with the project group.

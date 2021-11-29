@@ -30,6 +30,9 @@ ms.search.region: Global
 # Key tasks: Set up and maintain procurement category hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use a procurement category hierarchy to classify products that your organization purchases for its own use. You can set policies for ordering from categories in the hierarchy, create attributes for categories, and assign vendors as preferred suppliers in a procurement category. Only one active procurement category hierarchy can be defined for an organization.

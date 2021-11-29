@@ -17,6 +17,9 @@ dev_langs:
 
 # CaptureCompleteEvent Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Signature capture complete event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

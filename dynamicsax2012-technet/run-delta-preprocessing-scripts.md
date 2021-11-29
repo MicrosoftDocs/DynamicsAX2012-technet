@@ -17,6 +17,9 @@ f1_keywords:
 # Run delta preprocessing scripts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You run the delta preprocessing scripts after you complete the **Global address book country/region upgrade** task on the Microsoft Dynamics AX source system. The delta preprocessing scripts check for changes to the production data that have occurred since you started running the live preprocessing scripts. Then, like the live preprocessing scripts, the delta scripts process the updated data into the shadow and dictionary tables.

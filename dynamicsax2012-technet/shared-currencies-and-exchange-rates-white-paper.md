@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Shared Currencies and Exchange Rates (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, the currency and exchange rate framework has been enhanced to share information across multiple legal entities. As part of this work, the data model has been redesigned, the calculation engine has been rewritten, and the APIs have been updated.

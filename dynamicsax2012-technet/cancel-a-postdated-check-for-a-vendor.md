@@ -17,6 +17,9 @@ ms.search.region: Global
 # Cancel a postdated check for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Vendor postdated checks** form to cancel a postdated check issued to a vendor. For more information, see [Vendor postdated checks (form)](https://technet.microsoft.com/library/hh242868\(v=ax.60\)).

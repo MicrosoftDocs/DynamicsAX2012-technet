@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade scenarios 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This section describes the supported scenarios for Microsoft Dynamics AX upgrade. The procedures described in the scenarios assume that you have completed the appropriate steps in [Upgrade overview and preparation](upgrade-overview-and-preparation.md).

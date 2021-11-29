@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReasonCodeIdForReasonCodeSource Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the reason code id for reason code source.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

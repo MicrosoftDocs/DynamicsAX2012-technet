@@ -17,6 +17,9 @@ dev_langs:
 
 # IsPendingCustomerSignature Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the customer sign expectation flag If it is true, it will be necessary to ask the customer to sign off the bank slip
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

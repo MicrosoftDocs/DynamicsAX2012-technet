@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Allocate charges to purchase order lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this information to allocate a charge, such as freight, to the lines on a purchase order.

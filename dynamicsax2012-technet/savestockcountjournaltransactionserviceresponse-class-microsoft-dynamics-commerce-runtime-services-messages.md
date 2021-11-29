@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveStockCountJournalTransactionServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 SaveStockCountJournalTransactionResponse is the response class for Save stockcount journal transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

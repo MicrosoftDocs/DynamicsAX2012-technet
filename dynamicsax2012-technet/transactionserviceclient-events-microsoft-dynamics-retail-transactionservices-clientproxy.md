@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TransactionServiceClient Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Explicit Interface Implementations
 
 <table>

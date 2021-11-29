@@ -19,6 +19,9 @@ ms.search.region: Global
 # View notifications 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On the Vendor portal, you can view notifications from the customer. New notifications are displayed in bold font. You can view any attachments that are sent with notifications. You can also delete a notification from the list.

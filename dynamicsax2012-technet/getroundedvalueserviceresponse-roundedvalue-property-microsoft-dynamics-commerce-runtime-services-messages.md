@@ -17,6 +17,9 @@ dev_langs:
 
 # RoundedValue Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the rounded value which was calculated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

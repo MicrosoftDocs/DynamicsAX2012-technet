@@ -17,6 +17,9 @@ dev_langs:
 
 # LockedPosition Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks if the key is in the locked position.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

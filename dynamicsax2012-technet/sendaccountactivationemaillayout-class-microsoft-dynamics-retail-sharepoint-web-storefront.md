@@ -17,6 +17,9 @@ dev_langs:
 
 # SendAccountActivationEmailLayout Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The layout page sending account activation emails.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

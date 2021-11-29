@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SaveStockCountRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SaveStockCountRequest](savestockcountrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryDimensionId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the optional dimension identifier (for variant) that this listing price applies to.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

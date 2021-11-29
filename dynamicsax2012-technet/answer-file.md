@@ -14,6 +14,9 @@ f1_keywords:
 
 # answer file
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A text file that stores the information that a user provides through the Setup wizard, along with the command-line arguments for the actions performed by Setup. This file can be used later to run unattended installations with the same settings.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up production processes in a warehouse 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

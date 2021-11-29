@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Calculate service tax for a foreign vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Purchase order** form to create and post an import purchase order. You can calculate the service tax on goods of type **Service** that you import from a foreign vendor.

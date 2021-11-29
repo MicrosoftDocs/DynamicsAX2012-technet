@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelProductAttributeResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the response from the [GetChannelProductAttributeRequest](getchannelproductattributerequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

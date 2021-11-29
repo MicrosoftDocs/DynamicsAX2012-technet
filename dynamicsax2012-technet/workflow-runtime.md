@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow runtime
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A software component that activates and executes workflow instances using Microsoft Windows Workflow Foundation.
 
 ## See also

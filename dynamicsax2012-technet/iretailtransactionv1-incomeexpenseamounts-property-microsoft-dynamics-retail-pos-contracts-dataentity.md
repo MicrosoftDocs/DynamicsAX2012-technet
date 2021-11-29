@@ -17,6 +17,9 @@ dev_langs:
 
 # IncomeExpenseAmounts Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The total amount of income and expense accounts in the transaction
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

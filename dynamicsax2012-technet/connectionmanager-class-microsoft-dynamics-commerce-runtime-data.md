@@ -17,6 +17,9 @@ dev_langs:
 
 # ConnectionManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Responsible for managing the lifetime of current active connection and encapsulates the logic necessary to failover to the offline database if available.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

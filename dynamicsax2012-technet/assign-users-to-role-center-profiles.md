@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Assign users to Role Center profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A user profile corresponds to a specific role in an organization, such as the controller or chief financial officer. The profile that you assign a user determines the Role Center page that is displayed when the user opens the Microsoft Dynamics AX client or Enterprise Portal for Microsoft Dynamics AX. This topic describes how to add either a single user or multiple users to a profile.

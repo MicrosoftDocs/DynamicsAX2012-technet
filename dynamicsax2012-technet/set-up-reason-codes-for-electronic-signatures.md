@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up reason codes for electronic signatures 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A signer selects a reason code to indicate the purpose of an electronic signature. For example, a reason code could be used to indicate legal approval.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Prerequisites for questionnaire 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some prerequisites are required when you create questionnaires, answers, and questions, but not all prerequisites are required for full functionality. For more information, see [Using questionnaires](using-questionnaires.md).

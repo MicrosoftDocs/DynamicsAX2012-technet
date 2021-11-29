@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Copy a configuration (Lifecycle Services, LCS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/copy-a-configuration-lifecycle-services-lcs/) in the Dynamics AX Help wiki.
 
   

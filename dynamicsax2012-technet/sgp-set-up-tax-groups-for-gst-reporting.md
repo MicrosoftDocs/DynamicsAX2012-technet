@@ -14,6 +14,9 @@ ms.search.region: Singapore
 # (SGP) Set up tax groups for GST reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Sales tax groups** form to set up sales tax groups. The sales tax groups are assigned to companies, and taxes are calculated based on the tax codes that are in effect when transactions occur. For Singapore, set up at least the following three tax groups:

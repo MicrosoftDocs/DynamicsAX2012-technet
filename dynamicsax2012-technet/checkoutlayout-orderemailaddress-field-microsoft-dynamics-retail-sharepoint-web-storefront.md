@@ -17,6 +17,9 @@ dev_langs:
 
 # OrderEmailAddress Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The order email address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

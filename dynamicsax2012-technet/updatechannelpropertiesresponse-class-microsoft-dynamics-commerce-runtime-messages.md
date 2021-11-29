@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateChannelPropertiesResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The response of setting channel-specific properties.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

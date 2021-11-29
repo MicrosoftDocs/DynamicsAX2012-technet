@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Enterprise Portal Browser requirements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Information about browser requirements is described in the System requirements for Microsoft Dynamics AX 2012 document. Specifically, see the Enterprise Portal client requirements in the **Software requirements for the Microsoft Dynamics AX client** section.

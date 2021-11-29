@@ -17,6 +17,9 @@ dev_langs:
 
 # NavigationalCategory Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [NavigationalCategory](navigationalcategory-class-microsoft-dynamics-retail-sp-commonfeatures.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

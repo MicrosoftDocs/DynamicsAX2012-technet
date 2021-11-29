@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateCartLineForUpdate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validates whether a line can be updated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

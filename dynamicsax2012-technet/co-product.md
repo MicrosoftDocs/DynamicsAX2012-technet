@@ -13,6 +13,9 @@ f1_keywords:
 
 # co-product
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An item produced jointly with another item.
 
 ## See also

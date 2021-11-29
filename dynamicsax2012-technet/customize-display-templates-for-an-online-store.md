@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customize display templates for an online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Retail starter store is a site built by using the commerce runtime (CRT) and the new site authoring and publishing model in Microsoft SharePoint Server 2013. You can use the Retail starter store as a basis for developing your own online store. To customize the display of items from your catalog, you can modify the display templates for the search-driven Web Parts. For more information, see the section *Search-driven Web Parts and display templates* in [Overview of the SharePoint 2013 page model](https://go.microsoft.com/fwlink/?linkid=294931&clcid=0x409).

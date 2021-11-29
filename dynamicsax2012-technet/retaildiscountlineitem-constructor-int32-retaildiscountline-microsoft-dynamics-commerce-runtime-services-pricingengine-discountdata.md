@@ -15,6 +15,9 @@ dev_langs:
 
 # RetailDiscountLineItem Constructor (Int32, RetailDiscountLine)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the RetailDiscountLineItem class, with the values set to the specified parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

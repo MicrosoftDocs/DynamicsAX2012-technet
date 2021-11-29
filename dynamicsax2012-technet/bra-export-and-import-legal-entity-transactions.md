@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Export and import legal entity transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can export transactions of a subsidiary legal entity to a .txt file and import transactions of a consolidated legal entity to subsidiary legal entities. A consolidated legal entity can contain multiple subsidiary legal entities with different file names for each subsidiary legal entity. The consolidated legal entity and the subsidiary legal entities must use the same currency. Before you import transactions, you must select the **Use for financial consolidation process** check box on the **General** FastTab in the **Legal entities** form. You can also set up the export and import process to run periodically by clicking the **Batch** button.

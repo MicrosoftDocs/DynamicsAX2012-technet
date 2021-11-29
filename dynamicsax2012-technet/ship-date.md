@@ -13,6 +13,9 @@ f1_keywords:
 
 # ship date
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The date that items are shipped from a shipping location.
 
 ## See also

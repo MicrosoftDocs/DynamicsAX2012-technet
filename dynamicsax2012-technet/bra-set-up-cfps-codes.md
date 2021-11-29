@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up CFPS codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up fiscal operation of services (CFPS) codes. CFPS codes are used to identify the type of operation for service operations.

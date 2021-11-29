@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Post a paper sales invoice with a tax directive 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can print the paragraph for tax directives on a sales invoice.

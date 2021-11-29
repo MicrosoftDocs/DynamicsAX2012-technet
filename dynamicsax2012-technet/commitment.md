@@ -13,6 +13,9 @@ f1_keywords:
 
 # commitment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A promise or obligation to perform an activity in the future.
 
 ## See also

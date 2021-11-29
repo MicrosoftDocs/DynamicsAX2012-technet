@@ -20,6 +20,9 @@ ms.search.region: Global
 # Specify when a bank account is active or inactive 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Follow the steps in these procedures to specify when a bank account is active or inactive for transactions. When a bank is inactive for all transactions, no transactions are permitted for that bank.

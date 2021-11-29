@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Split purchase transactions based on delivery information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In a purchase transaction, you can split purchase orders, packing slips, and vendor invoices. These documents can be split based on delivery addresses and tax account numbers (TAN). If a purchase order, packing slip, or vendor invoice includes multiple delivery addresses and multiple registration numbers, you can split it into as many multiples of those same documents.

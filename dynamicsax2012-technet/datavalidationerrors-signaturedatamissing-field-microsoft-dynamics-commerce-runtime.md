@@ -17,6 +17,9 @@ dev_langs:
 
 # SignatureDataMissing Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that tender line does not have signature data but exceeds minimum amount that requires it.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OrgUnit Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OrgUnit](orgunit-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

@@ -22,6 +22,9 @@ ms.search.region: Global
 # Add direct debit mandate information to a customer account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can draw Single Euro Payment Area (SEPA) direct debit payments for customers who have a mandate, you must enter information about the mandate. This topic explains how to add information about a direct debit mandate to a customer account, and how to print, scan, or cancel a mandate, if you need to.

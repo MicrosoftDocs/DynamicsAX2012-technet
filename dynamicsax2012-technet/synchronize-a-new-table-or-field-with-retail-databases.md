@@ -14,6 +14,9 @@ dev_langs:
 # Synchronize a new table or field with retail databases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use the procedures in this topic if you have custom tables for which you want to synchronize data with Retail POS databases. This topic assumes that the tables that you plan to replicate are in Microsoft Dynamics AX and that the appropriate database profiles have been configured.

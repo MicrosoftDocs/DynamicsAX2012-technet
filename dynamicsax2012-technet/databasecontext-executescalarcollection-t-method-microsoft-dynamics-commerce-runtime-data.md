@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteScalarCollection(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes a query that returns a collection of single results.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # EffectiveAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the effective discount amount (per-unit discount amount \* quantity).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

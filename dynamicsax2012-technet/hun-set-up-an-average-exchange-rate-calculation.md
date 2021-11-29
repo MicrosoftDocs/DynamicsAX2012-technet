@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up an average exchange rate calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up the calculation of exchange rates for journal lines. For cash and bank transactions, you can use either the daily exchange rate or an average exchange rate. For petty cash and bank journal lines, the calculation of the average exchange rate uses the summarized amounts of the accounting currency and the foreign currency before the specified transaction date.

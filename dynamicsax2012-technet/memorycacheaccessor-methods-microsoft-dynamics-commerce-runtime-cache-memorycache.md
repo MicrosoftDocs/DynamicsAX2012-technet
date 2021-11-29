@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MemoryCacheAccessor Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MemoryCacheAccessor](memorycacheaccessor-class-microsoft-dynamics-commerce-runtime-cache-memorycache.md) type exposes the following members.
 
 ## Methods

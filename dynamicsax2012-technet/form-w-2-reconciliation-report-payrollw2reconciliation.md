@@ -20,6 +20,9 @@ f1_keywords:
 # Form W-2 reconciliation report (PayrollW2Reconciliation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to balance Form W-2s and to run validation before you issue Form W-2s to workers.

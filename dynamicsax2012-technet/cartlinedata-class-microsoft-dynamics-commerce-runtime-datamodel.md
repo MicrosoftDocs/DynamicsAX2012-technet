@@ -17,6 +17,9 @@ dev_langs:
 
 # CartLineData Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a single line item in a shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

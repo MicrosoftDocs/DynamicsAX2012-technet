@@ -17,6 +17,9 @@ dev_langs:
 
 # SetCustomerAffiliationsFromXmL Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set affiliations for customers for customer from a xml got from transaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

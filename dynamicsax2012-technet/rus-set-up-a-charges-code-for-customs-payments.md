@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a charges code for customs payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Charges code** form to set up a charges code that is used to calculate customs payments for import and export operations.

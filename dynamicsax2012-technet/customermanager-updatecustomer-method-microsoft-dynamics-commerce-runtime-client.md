@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the customer record.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

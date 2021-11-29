@@ -18,6 +18,9 @@ ms.search.region: Global
 # Specify the invoice frequency for an existing project contract 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The invoice frequency that is specified for a project contract is one of two factors that determine the sales payment date on a forecast. The other factor, for time-and-material projects only, is the number of buffer days that are allowed as a grace period. Buffer days are set up in the **Project management and accounting parameters** form.

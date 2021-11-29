@@ -17,6 +17,9 @@ f1_keywords:
 # (NLD) Instruction letter report (CustVendOutPaymNL) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Instruction letter** report is used to print payment advice for direct debits that use the **NL - ClieOp03 Incasso** export format. This payment advice is submitted to the bank along with the ClieOp3 Incasso payment file. This report is typically used by accountants and accounts receivable payments clerks.

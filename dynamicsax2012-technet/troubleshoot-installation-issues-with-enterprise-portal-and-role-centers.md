@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot installation issues with Enterprise Portal and Role Centers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following sections provide information to help you troubleshoot issues you may encounter when you install Enterprise Portal for Microsoft Dynamics AX and Role Centers.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # security model
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A structure that organizes application access control permissions by using privilege, duty, and business process classifiers and that grants permissions that are aggregated into duties to user role assignments.
 
 ## See also

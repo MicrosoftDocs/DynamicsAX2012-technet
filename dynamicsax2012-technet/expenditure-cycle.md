@@ -13,6 +13,9 @@ f1_keywords:
 
 # expenditure cycle
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A recurring set of procurement, receipt, payment, and transfer activities controlled by one or more parties that participate in exchange and nonexchange transactions.
 
 ## See also

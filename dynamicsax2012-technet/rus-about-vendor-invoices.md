@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) About vendor invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a new invoice, define the invoice account, and select the open purchase orders and purchase lines to invoice simultaneously. You can group invoices by using a common code. If a payment group is specified for a vendor invoice, the other invoices that use the payment group are included in a single settlement. You can update and post invoices that are grouped together by using references to invoice groups.

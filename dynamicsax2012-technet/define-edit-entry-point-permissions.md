@@ -11,6 +11,9 @@ mtps_version:
 
 # Define or edit entry point permissions
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note:** This is pre-release documentation of a preliminary nature and is subject to change at any time without notice. Microsoft cannot guarantee the accuracy of any information provided herein.
 
 ## Edit entry point permissions

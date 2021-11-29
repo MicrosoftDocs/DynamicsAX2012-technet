@@ -14,6 +14,9 @@ f1_keywords:
 # Country/Regional specific features configuration key (CRSECountry) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Country/Regional specific features** configuration keys have been deprecated in Microsoft Dynamics AX 2012. In Microsoft Dynamics AX 2012, country/region context has replaced country/region configuration keys as the method for enabling control over country/region feature availability. Country/region configuration keys are still found in the Application Object Tree (AOT) and in the **License configuration** form. However, if you enable or disable a country/region configuration key, Microsoft Dynamics AX features are not enabled or disabled. This behavior might vary in partner-provided solutions.

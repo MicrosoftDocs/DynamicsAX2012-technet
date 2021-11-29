@@ -15,6 +15,9 @@ dev_langs:
 
 # UpdateCartLines Method (String, IEnumerable(CartLine))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the specified items on the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

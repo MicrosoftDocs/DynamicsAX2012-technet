@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (HU) Sales tax declaration report (SalesTaxDeclarationInformation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to create the monthly value-added tax (VAT) statement. This report includes the details about the sales taxes collected and owed for a given tax settlement period. To view the report, you must first create the report for the selected settlement period, and then you can print the report. This report is typically used by accountants, accounting managers, accounting supervisors, accounts payable centralized payment clerks, accounts payable clerks, accounts payable managers, accounts payable payment clerks, chief financial officers, and financial controllers.

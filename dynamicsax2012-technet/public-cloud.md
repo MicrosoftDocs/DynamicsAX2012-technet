@@ -13,6 +13,9 @@ f1_keywords:
 
 # public cloud
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cloud infrastructure that is provisioned for open use by the general public. It may be owned, managed, and operated by a business, academic, or government organization, or some combination of them. It exists on the premises of the cloud provider.
 
 ## See also

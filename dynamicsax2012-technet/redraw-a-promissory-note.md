@@ -14,6 +14,9 @@ ms.search.region: Global
 # Redraw a promissory note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Redraw promissory note journal** form to redraw a promissory note that has already been honored by your bank. A new transaction is created that has a **Redrawn** status for the honored promissory note.

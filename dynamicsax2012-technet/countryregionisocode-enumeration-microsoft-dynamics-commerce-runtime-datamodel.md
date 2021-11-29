@@ -56,6 +56,9 @@ dev_langs:
 
 # CountryRegionISOCode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CountryRegionISOCode provides a list of enum values for a two-letter ISO country codes that we support in POS.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

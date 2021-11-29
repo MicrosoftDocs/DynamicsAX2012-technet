@@ -17,6 +17,9 @@ dev_langs:
 
 # OpenDrawer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Open the cash drawer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

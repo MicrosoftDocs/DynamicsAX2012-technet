@@ -13,6 +13,9 @@ f1_keywords:
 
 # kanban product quantity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The number of item requirements that are carried on a kanban based on a kanban rule.
 
 ## See also

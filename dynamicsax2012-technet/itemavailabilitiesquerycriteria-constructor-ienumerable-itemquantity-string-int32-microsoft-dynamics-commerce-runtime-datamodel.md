@@ -15,6 +15,9 @@ dev_langs:
 
 # ItemAvailabilitiesQueryCriteria Constructor (IEnumerable(ItemQuantity), String, Int32)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ItemAvailabilitiesQueryCriteria](itemavailabilitiesquerycriteria-class-microsoft-dynamics-commerce-runtime-datamodel.md) class for the GetItemAvailabilitiesByItemQuantities call.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

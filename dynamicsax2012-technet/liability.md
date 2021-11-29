@@ -13,6 +13,9 @@ f1_keywords:
 
 # liability
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier used to classify the value of economic resources that are owned by creditors.
 
 ## See also

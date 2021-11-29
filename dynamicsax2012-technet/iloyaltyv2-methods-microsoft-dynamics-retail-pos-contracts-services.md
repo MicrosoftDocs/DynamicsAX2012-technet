@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ILoyaltyV2 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ILoyaltyV2](iloyaltyv2-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

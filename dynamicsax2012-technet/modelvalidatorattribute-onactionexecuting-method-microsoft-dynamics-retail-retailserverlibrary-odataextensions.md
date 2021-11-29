@@ -17,6 +17,9 @@ dev_langs:
 
 # OnActionExecuting Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The action executing event handler.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

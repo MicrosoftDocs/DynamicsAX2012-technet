@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdatedCustomer Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the updated customer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

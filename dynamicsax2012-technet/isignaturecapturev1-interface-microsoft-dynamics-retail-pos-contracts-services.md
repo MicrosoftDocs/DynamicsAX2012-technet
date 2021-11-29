@@ -17,6 +17,9 @@ dev_langs:
 
 # ISignatureCaptureV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Version 1.0. Interface for signature capture device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

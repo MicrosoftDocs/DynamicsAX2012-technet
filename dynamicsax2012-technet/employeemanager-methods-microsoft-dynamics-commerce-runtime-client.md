@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EmployeeManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EmployeeManager](employeemanager-class-microsoft-dynamics-commerce-runtime-client.md) type exposes the following members.
 
 ## Methods

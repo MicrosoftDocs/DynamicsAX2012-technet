@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Set up the CFOP codes for transfer fiscal documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to map the Código Fiscal de Operações e Prestações (CFOP) codes for shipment transfer fiscal documents and receipt transfer fiscal documents.

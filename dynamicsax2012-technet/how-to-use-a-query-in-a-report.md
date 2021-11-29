@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Use a Query in a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to retrieve data for a Microsoft Dynamics AX report by using an AX Query. An AX Query is a query defined in the AOT. In a Visual Studio [reporting project](working-with-reporting-projects.md) for Microsoft Dynamics AX, you can define a report in a report model. You will define a dataset with properties that describe how the query will be used to access report data.

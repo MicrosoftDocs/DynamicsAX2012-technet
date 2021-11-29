@@ -17,6 +17,9 @@ dev_langs:
 
 # IsPropertyInSet Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checks whether a property is defined in this property set or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

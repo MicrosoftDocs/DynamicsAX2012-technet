@@ -13,6 +13,9 @@ f1_keywords:
 
 # opposite account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An account used to balance the gross amount in part or in whole of one or more referenced accounts in an accounting equation.
 
 ## See also

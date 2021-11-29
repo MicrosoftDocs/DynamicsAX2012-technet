@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Sales and marketing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about Sales and marketing.

@@ -17,6 +17,9 @@ dev_langs:
 
 # DebugSettingsFeatureEventReceiver Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This feature class provides functionality to make changes to web.config files in order to turn on debug output.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.DebugSettingsFeature](microsoft-dynamics-retail-sharepoint-commonfeatures-debugsettingsfeature-namespace.md)  

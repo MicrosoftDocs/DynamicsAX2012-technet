@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate the exchange rate difference for a bank account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 At the end of each financial reporting period, you must revalue the remaining cash balance in a bank account in currency. All of the receipt and write-off operations that are performed for the funds in the bank account are reflected in the **Bank transactions** form.

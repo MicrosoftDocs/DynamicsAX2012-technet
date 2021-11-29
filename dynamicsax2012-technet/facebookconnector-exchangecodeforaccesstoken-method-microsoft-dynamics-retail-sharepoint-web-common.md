@@ -17,6 +17,9 @@ dev_langs:
 
 # ExchangeCodeForAccessToken Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Exchange the Facebook "code" for an access token.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

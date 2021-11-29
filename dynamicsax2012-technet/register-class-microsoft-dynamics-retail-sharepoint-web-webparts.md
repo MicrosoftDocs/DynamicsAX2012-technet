@@ -17,6 +17,9 @@ dev_langs:
 
 # Register Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides simple registration functionality including user authentication.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

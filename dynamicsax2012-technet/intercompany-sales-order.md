@@ -13,6 +13,9 @@ f1_keywords:
 
 # intercompany sales order
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A sales order that one legal entity places with another legal entity that is part of the same organization that consolidates the accounts of both legal entities.
 
 ## See also

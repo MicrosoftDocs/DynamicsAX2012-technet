@@ -14,6 +14,9 @@ f1_keywords:
 # Sales tax by customer report (SalesTaxByCustomer) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Prepare a report that shows the posted sales tax by customer.

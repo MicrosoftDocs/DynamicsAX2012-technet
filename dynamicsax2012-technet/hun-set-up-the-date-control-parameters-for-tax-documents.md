@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up the date control parameters for tax documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

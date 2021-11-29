@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesInvoice Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a customer invoice journal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

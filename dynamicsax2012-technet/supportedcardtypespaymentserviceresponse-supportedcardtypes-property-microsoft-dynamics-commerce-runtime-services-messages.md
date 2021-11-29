@@ -17,6 +17,9 @@ dev_langs:
 
 # SupportedCardTypes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the supported card types for the connectors.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

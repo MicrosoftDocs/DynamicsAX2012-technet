@@ -17,6 +17,9 @@ dev_langs:
 
 # RemoveJournal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes the stock count journals from local.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

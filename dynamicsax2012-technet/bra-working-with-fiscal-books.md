@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Working with fiscal books 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section explain how to work with Fiscal books.

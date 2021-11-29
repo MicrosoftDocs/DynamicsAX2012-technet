@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called when a transaction is saved to the database.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Estimated versus actual expenses report (TrvEstimatedVsActualExpenses) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the estimated expense costs submitted in a travel requisition versus the actual expense costs submitted on the corresponding expense report.

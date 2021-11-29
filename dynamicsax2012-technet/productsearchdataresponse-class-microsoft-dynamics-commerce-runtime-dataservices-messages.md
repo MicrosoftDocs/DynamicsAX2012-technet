@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductSearchDataResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a data service response for searching products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

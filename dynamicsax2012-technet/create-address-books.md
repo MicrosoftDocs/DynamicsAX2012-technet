@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create address books 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to create address books and assign teams or grant privileges to address books by legal entity. Before you create address books for your organization, or import information for party records, we recommend that you determine the number and types of address books that your organization requires. You can then grant privileges to each address book.

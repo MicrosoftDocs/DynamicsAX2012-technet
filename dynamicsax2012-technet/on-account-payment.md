@@ -13,6 +13,9 @@ f1_keywords:
 
 # on-account payment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A fixed installment payment that is agreed to in a payment plan.
 
 ## See also

@@ -13,6 +13,9 @@ f1_keywords:
 
 # depreciation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The expiration of a portion of the original cost of a fixed asset during a specific time period.
 
 ## See also

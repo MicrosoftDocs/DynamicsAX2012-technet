@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnKeyHash Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets logOn key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

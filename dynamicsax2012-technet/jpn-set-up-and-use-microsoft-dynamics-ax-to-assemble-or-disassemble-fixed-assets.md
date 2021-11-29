@@ -22,6 +22,9 @@ ms.search.region: Japan
 # (JPN) Set up and use Microsoft Dynamics AX to assemble or disassemble fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up Microsoft Dynamics AX to allow the assembly or disassembly of a fixed asset using on-hand inventory items. You can then perform the following tasks:

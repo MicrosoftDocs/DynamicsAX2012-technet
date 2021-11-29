@@ -17,6 +17,9 @@ dev_langs:
 
 # Comment Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the comment added by the operator.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

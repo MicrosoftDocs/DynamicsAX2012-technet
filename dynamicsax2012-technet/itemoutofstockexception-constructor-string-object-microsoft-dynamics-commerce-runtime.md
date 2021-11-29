@@ -15,6 +15,9 @@ dev_langs:
 
 # ItemOutOfStockException Constructor (String, Object[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes an instance of the [DataValidationException](datavalidationexception-class-microsoft-dynamics-commerce-runtime.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

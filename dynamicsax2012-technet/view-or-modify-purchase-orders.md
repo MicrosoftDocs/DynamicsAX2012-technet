@@ -19,6 +19,9 @@ ms.search.region: Global
 # View or modify purchase orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **All purchase orders**, **View purchase order**, and **Order line information** pages to view information about the purchase orders created for items that are ordered. Purchase orders indicate the type, quantities, and prices for products or services that you order from vendors.

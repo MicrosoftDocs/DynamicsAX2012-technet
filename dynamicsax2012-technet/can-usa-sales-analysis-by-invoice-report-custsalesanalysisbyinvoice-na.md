@@ -14,6 +14,9 @@ f1_keywords:
 # (CAN, USA) Sales analysis by invoice report (CustSalesAnalysisByInvoice\_NA) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales analysis by invoice** report displays customer invoice details such as the invoice number, invoice date, invoice amount, and total miscellaneous charges. This report is used to analyze customer invoices. This report is typically used by the chief executive officers, chief financial officers, compliance managers, accounting managers, and financial controllers.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICollectionExtensions Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICollectionExtensions](icollectionextensions-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

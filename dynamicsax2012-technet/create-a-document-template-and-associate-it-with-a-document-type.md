@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a document template and associate it with a document type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a new document, you can transfer data from tables in Microsoft Dynamics AX to bookmarks in the new document. To do this, you create a template that contains some standard text and some bookmarks where the data is to be inserted. For example, you can transfer the address and contact information for a customer to the letter header in a Microsoft Word document when you create a new letter for that customer.

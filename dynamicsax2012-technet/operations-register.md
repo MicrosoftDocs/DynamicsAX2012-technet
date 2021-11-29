@@ -13,6 +13,9 @@ f1_keywords:
 
 # operations register
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A register that is used to record the operational and legal consequences of resource flow events in an accounting system.
 
 ## See also

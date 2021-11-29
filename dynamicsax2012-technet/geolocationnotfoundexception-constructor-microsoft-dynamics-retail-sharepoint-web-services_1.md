@@ -15,6 +15,9 @@ dev_langs:
 
 # GeoLocationNotFoundException Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GeoLocationNotFoundException](geolocationnotfoundexception-class-microsoft-dynamics-retail-sharepoint-web-services.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # budget control
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A practice of authorizing expenditure only when budget funds can be reserved to meet future payment commitments.
 
 ## See also

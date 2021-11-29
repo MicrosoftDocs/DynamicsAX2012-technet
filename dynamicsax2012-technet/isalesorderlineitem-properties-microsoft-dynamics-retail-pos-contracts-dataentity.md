@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISalesOrderLineItem Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISalesOrderLineItem](isalesorderlineitem-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailServerQueryableAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailServerQueryableAttribute](retailserverqueryableattribute-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Properties

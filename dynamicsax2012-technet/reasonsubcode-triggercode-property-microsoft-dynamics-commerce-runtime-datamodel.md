@@ -17,6 +17,9 @@ dev_langs:
 
 # TriggerCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the trigger code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

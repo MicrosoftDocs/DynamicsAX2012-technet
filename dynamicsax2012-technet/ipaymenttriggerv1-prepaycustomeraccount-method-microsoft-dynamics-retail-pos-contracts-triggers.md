@@ -17,6 +17,9 @@ dev_langs:
 
 # PrePayCustomerAccount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called before a customer account payment is made.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # IndexOf Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches for the specified object and returns the zero-based index of the first occurrence within the entire collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About question types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Question types are required. When you create a new question, you must assign a question type to it. For more information, see [Prerequisites for questionnaire](prerequisites-for-questionnaire.md).

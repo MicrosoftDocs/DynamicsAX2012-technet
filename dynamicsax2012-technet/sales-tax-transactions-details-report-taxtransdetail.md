@@ -14,6 +14,9 @@ f1_keywords:
 # Sales tax transactions - Details report (TaxTransDetail) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to show and print information about posted sales tax transactions for a specified time interval and sales tax code interval.

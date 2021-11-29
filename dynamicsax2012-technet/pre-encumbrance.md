@@ -13,6 +13,9 @@ f1_keywords:
 
 # pre-encumbrance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A commitment made by management to reserve budget funds for expenditure requests.
 
 ## See also

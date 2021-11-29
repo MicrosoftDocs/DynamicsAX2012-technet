@@ -13,6 +13,9 @@ f1_keywords:
 
 # SKU
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An item and its assigned inventory dimensions.
 
 ## See also

@@ -18,6 +18,9 @@ ms.search.region: Global
 # About using the Time and material project type for a fixed-price project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Projects that are sold at a fixed price are usually set up as Fixed-price projects. However, in some cases you might benefit from setting up a project as a Time and material project even though the project is sold at a fixed price. Time and material projects are generally easier to set up and execute because they do not require the use of the estimate system.

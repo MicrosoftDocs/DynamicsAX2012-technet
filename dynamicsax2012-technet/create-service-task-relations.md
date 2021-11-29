@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create service task relations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can associate service tasks with service agreements or service orders in order to describe the service task to be completed for the agreement or order. This information is available to service technicians and customers.

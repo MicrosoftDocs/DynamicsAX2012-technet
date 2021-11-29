@@ -20,6 +20,9 @@ ms.search.region: Poland
 # (POL) Create and manage an overdue vendor debt VAT journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create an overdue vendor debt VAT journal to identify vendor invoice transactions for a reporting period. You can then correct overdue vendor VAT payment transactions or reverse the corrected VAT transactions, if necessary. For more information, see [(POL) Overdue payments for VAT transactions](pol-overdue-payments-for-vat-transactions.md).

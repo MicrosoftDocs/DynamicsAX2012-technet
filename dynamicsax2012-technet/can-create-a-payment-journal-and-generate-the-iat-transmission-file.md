@@ -18,6 +18,9 @@ ms.search.region: Canada
 # (CAN) Create a payment journal and generate the IAT transmission file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To comply with the National Automated Clearing House Association (NACHA) operating rules, the RBC Electronic Fund Transfer (EFT) format includes new address records for both the originator of a payment and the customer or recipient of the payment. If the payment transaction originates from or is transmitted to a financial agency outside the territorial jurisdiction of the U.S., it is classified as an International ACH Transaction (IAT) by the RBC.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Associate contact information with a contact 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can associate existing contact information for a person or organization party record with the contact for the party. Information that you can associate with the contact includes telephone numbers, email addresses, and URLs. For example, if Palle Petersen is the contact for Fabrikam Denmark, you can select existing contact records for Fabrikam Denmark and associate those records with Palle Petersen.

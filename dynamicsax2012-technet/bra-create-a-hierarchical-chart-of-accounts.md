@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Create a hierarchical chart of accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up a hierarchy of the charts of accounts for a legal entity to generate legal reports. You can specify an account as a parent main account and add other main accounts as children to the parent main account. You cannot delete an account after it is specified as a parent account.

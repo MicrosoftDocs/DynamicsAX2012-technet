@@ -17,6 +17,9 @@ ms.search.region: USA
 # Payroll beginning balance tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 If you change from a different payroll system to Microsoft Dynamics AX in the middle of the calendar year, you must enter beginning balances for earnings, deductions, contributions, benefits, and taxes so that you can complete W-2s and other year-end tasks.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RequestHandler](requesthandler-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) type exposes the following members.
 
 ## Properties

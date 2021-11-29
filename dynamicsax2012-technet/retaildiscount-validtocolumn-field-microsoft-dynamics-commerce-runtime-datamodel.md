@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidToColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Valid to column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Print a report from the archive 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you saved a report to the print archive, you can use the following steps to print the report from the archive.

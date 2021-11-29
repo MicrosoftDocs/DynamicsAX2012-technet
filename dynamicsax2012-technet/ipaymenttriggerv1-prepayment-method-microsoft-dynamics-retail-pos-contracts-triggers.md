@@ -17,6 +17,9 @@ dev_langs:
 
 # PrePayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called for each payment operation, before an amount is set, any cards are swiped, any input is entered, or any dialogs are displayed.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

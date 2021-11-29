@@ -20,6 +20,9 @@ dev_langs:
 
 # CardEntryTypes Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.CardEntryTypes interface specifies whether the card has been read with a stripe card reader or has been manually entered.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

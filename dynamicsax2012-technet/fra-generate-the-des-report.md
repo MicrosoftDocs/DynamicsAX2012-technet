@@ -17,6 +17,9 @@ ms.search.region: France
 # (FRA) Generate the DES report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A VAT-registered entity in the European Union (EU) can generate a periodic list that includes the details of all of the sales transactions with other VAT-registered entities in the EU. This list is referred to as the European Sales List (ESL). For VAT-registered entities in France, you can generate the Déclaration Européenne de Services, or European Declaration of Services (DES), which is similar to the EU sales list. However, the DES report contains only the details about the service item transactions.

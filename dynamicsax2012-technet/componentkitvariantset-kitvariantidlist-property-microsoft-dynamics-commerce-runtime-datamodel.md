@@ -17,6 +17,9 @@ dev_langs:
 
 # KitVariantIdList Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of Kit variant product Ids of a kit, containing the specified kit line product (component).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

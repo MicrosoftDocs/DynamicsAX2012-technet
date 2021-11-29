@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up offline profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 An *offline profile* defines which data is synchronized between a store database and the offline databases at the registers. Each offline profile consists of several *offline scopes*. Offline scopes define the order in which data is synchronized, and which database tables are synchronized. Microsoft Dynamics AX includes a default offline profile that is named "Default pr." The offline scopes that are included in the default offline profile reflect the organization of jobs in **Retail scheduler**.

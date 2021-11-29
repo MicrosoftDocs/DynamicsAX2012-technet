@@ -13,6 +13,9 @@ f1_keywords:
 
 # policy processing sequence
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The order in which conflicts between policy rules are resolved. Policy rules defined at a lower level of the sequence always override conflicting policy rules at higher levels of the sequence.
 
 ## See also

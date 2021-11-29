@@ -19,6 +19,9 @@ ms.search.region: Mexico
 # (MEX) Create and post a sales order and a project sales order as electronic invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Sales order** form to create and post a sales order as an electronic invoice. You can create and post multiple sales orders as electronic invoices and send the .pdf and .xml files as email attachments to customers.

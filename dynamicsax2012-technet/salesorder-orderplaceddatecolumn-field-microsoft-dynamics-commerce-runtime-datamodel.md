@@ -17,6 +17,9 @@ dev_langs:
 
 # OrderPlacedDateColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Order placed date database column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

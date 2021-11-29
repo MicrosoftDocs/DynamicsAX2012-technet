@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Diagnostic Framework for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Diagnostic Framework for Microsoft Dynamics AX, beta version, helped administrators diagnose the health of Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2009. The framework assessed the health of Microsoft Dynamics AX and its components, such as Microsoft Dynamics AX Application Object Server (AOS), Microsoft SQL Server, Microsoft Internet Information Services (IIS), Microsoft SQL Server Reporting Services, and Microsoft SQL Server Analysis Services.

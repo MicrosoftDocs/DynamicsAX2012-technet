@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerLoyaltyCardsDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data request to get customer loyalty cards.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

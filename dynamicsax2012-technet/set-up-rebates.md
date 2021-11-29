@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up rebates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up parameters, types, and groups for customer rebates. A rebate is a partial refund of a payment that a customer previously paid for an item or service. Rebates are usually given as part of a promotion or marketing activity. A customer can use a rebate as a deduction on an outstanding balance or take the amount of the rebate as a credit. Rebates are configured so that the appropriate department and promotional category in your organization is billed appropriately for the credit that is returned to the customer.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Checkout Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The checkout control redirects the user to the shopping cart full view.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

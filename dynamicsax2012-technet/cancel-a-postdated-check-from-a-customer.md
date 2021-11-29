@@ -17,6 +17,9 @@ ms.search.region: Global
 # Cancel a postdated check from a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Customer postdated checks** form to cancel a postdated check received from a customer. For more information, see [Customer postdated checks (form)](https://technet.microsoft.com/library/hh227493\(v=ax.60\)). You can cancel a posted postdated check when:

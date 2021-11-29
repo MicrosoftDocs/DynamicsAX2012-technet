@@ -20,6 +20,9 @@ ms.search.region: France
 # (FRA) Key tasks: Commitments (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Commitments are budget control source documents used by public sector entities in France. Before using commitments, you should be familiar with the budgeting and budget control features that you will use.

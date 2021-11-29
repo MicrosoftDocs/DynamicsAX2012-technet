@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a charges code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you purchase a service item, you can allocate any charges that you incur by using a purchase order or an invoice journal. The charges can be allocated to other item invoices that have been updated. For example, you can allocate the charges to an item cost price, redraw debt to third parties, or write off the charges to the general ledger cost account.

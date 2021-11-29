@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChannelManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChannelManager](channelmanager-class-microsoft-dynamics-commerce-runtime-client.md) type exposes the following members.
 
 ## Methods

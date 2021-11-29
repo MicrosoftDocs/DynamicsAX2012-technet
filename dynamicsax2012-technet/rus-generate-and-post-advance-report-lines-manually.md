@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Generate and post advance report lines manually 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An advance report is used to report travel expenses that are incurred by an employee during a business trip. Use this procedure to generate and post advance report lines manually.

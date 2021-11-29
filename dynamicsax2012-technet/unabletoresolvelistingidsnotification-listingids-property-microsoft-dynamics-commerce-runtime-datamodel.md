@@ -17,6 +17,9 @@ dev_langs:
 
 # ListingIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the listing identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

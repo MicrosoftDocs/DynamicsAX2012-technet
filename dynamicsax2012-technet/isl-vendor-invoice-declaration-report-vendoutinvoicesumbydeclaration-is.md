@@ -14,6 +14,9 @@ f1_keywords:
 # (ISL) Vendor invoice declaration report (VendOutInvoiceSumByDeclaration\_IS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Vendor invoice declaration** report displays the details of payments that are made to vendors, together with invoice totals for each reporting code. This report is used by accounts payable clerks, accounts payable managers, buying agents, project managers, and purchasing managers to inquire into the status of purchase orders that are invoiced. This report must be submitted as a text file to the Icelandic tax authorities as a yearly declaration report.

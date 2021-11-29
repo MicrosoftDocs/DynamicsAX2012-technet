@@ -14,6 +14,9 @@ f1_keywords:
 # Expense types per employee report (TrvCost) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view expenses, based on the expense type, that are entered by employees.

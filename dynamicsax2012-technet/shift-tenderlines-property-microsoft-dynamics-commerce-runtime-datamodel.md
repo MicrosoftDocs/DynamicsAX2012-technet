@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets list of shift tender lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

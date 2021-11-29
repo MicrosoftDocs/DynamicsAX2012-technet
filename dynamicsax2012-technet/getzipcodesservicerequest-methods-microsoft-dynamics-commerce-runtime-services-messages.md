@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetZipCodesServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetZipCodesServiceRequest](getzipcodesservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

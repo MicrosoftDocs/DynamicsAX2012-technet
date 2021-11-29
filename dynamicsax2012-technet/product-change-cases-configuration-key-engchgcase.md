@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Product change cases configuration key (EngChgCase) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The **Product change cases** configuration key controls access to the Case management features that are specific to product change cases. Product change cases are used to manage, document, and approve product changes such as component substitutions in a bill of materials of formula, or changes in the production routes. For more information, see [About product change cases](about-product-change-cases.md).
 
 You can enable or disable this key in the **License configuration** form.

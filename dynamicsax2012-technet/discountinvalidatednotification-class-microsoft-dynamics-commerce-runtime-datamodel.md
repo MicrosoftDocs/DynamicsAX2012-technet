@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountInvalidatedNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a line Item's discount amount has changed between two separate calls to pricing sub system.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

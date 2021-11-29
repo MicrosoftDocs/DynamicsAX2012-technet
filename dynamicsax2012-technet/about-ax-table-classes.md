@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About Ax\<Table\> Classes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the Ax \<Table\> classes in Application Integration Framework (AIF). The Ax \<Table\> classes (sometimes referred to as AxBC classes) manage data, manage access to and from the tables, encapsulate the business logic that is available through the corresponding form, create default field values, and provide an object interface to the individual tables. Along with the Axd \<Document\> classes, the Ax \<Table\> classes provide the business logic implementation for the AIF document services.

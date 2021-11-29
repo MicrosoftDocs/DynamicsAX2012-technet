@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemBarcodesByIdRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the item barcodes per given item identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 
 # automated task
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A workflow task that is completed by an automatic operation.
 
 ## See also

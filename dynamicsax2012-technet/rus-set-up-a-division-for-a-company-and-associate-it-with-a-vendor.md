@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a division for a company and associate it with a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Separate divisions** form to create a company division, and then associate the division with a vendor. If your company has several divisions, you must associate each division with a vendor.

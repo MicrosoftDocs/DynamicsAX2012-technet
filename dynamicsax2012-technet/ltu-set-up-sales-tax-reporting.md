@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up sales tax reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Microsoft Dynamics AX, you can set up a report format that complies with the local tax report format for sales tax transactions. You can define how the transactions are summarized in the report by adding total lines and subtotal lines. You can also specify that a total or subtotal in the report in Microsoft Dynamics AX corresponds to a box number in the sales tax form for your country or region.

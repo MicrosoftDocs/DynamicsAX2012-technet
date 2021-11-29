@@ -17,6 +17,9 @@ dev_langs:
 
 # ClearCustomerDiscounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clears all customer discounts of all saleline items
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

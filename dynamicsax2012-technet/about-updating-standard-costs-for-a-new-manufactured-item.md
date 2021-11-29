@@ -15,6 +15,9 @@ ms.search.region: Global
 # About updating standard costs for a new manufactured item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Manufacturing environments involve maintaining standard costs for new manufactured items. A typical scenario involves a new manufactured item that has a new bill of materials (BOM) that contains new purchased items and new manufactured items as components. The following guidelines focus on this typical scenario.

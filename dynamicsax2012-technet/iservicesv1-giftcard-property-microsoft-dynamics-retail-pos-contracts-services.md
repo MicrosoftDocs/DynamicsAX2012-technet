@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCard Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gift card service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Research customer needs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By researching the needs of your customers, you can help your organization create campaigns and sales processes that better serve your current and future customers.

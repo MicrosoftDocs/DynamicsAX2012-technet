@@ -14,6 +14,9 @@ ms.search.region: Global
 # Default offset accounts for vendor invoice journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains the options that are available if you want to specify the default accounts and offset accounts that are automatically displayed in vendor invoice journals. You can assign default offset accounts to vendor groups, vendor accounts, journal names, or journal headers. If you assign default offset accounts to journal names, you can specify whether to use a fixed offset account that can’t be changed, or whether to allow the default entry to be overridden.

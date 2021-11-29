@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Services (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper provides an overview of the various types of services available in Microsoft Dynamics AX 2012 and provides guidance to developers and architects in deciding when to use a specific service type.

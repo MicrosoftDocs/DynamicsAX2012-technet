@@ -13,6 +13,9 @@ f1_keywords:
 
 # license code
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An alphanumeric key that grants a party the right to use software or software components as prescribed in the terms of the license agreement, and that activates and inactivates software modules, software capabilities, and software functions.
 
 ## See also

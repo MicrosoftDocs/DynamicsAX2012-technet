@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Change the account used by AOS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The account that is used by Application Object Server (AOS) is assigned security permissions in multiple locations in Microsoft Dynamics AX. This topic describes the tasks that you must complete to change the AOS account. If you try to change the account that is used by AOS without completing the tasks in this topic, Microsoft Dynamics AX might stop working. In this case, you might receive the following message: *Exception: A call to SSPI failed, see inner exception. InnerException:System.Security.Authentication.AuthenticationException: A call to SSPI failed, see inner exception. System.ComponentModel.Win32Exception: The target principal name is incorrect.*

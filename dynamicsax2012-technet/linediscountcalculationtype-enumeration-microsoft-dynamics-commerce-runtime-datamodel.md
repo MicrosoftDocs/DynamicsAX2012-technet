@@ -23,6 +23,9 @@ dev_langs:
 
 # LineDiscountCalculationType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents how trade agreement discount conflicts will be resolved when totalling.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

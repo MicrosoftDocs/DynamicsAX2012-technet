@@ -17,6 +17,9 @@ dev_langs:
 
 # LoadActiveSalesTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads the active sales transaction given the customer identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

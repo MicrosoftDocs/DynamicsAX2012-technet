@@ -20,6 +20,9 @@ ms.search.region: France
 # (FRA) Configure and print a lump sum recovery text on a customer invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Follow the steps in this topic to set up and print the lump sum recovery text that displays the penalty amount on customer invoices.

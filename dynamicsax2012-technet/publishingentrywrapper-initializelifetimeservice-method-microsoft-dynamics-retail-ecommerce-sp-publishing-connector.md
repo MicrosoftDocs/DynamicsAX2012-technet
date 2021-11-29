@@ -17,6 +17,9 @@ dev_langs:
 
 # InitializeLifetimeService Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [MarshalByRefObject.InitializeLifetimeService()](https://technet.microsoft.com/library/zwt5tzck\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  

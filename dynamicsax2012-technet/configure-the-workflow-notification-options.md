@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure the workflow notification options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Notifications may be sent to you when workflow-related events occur. For example, a notification may be sent to you when a document is assigned to you for approval or when the workflow process is completed for a document that you submitted. You can specify how you want to receive workflow notifications.

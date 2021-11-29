@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) View CD data in purchase book lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view custom declaration (CD) data in purchase book lines only if you update the purchase book with the CD details while generating a facture for the purchase orders when the VAT processing is complete.

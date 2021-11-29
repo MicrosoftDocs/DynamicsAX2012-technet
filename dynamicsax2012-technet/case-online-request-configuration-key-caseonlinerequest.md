@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Case online request configuration key (CaseOnlineRequest) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Case online request configuration key** enables access to the Sites Services solution for online case requests. With this key enabled, customer service staff or sales staff can use Sites Services for Microsoft Dynamics ERP to accept case requests online from customers (in addition to vendors and employees).

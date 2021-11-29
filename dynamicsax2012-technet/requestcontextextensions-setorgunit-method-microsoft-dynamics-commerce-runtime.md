@@ -17,6 +17,9 @@ dev_langs:
 
 # SetOrgUnit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the organization unit for the current request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Set up functionality profiles (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up functionality profiles. You can use the settings in these profiles to specify how registers work at the point of sale. For example, you can specify how cashiers log on and off the register, specify information about secondary currencies, control the aggregation of products and payments, specify info codes, and enable X and Z reports.

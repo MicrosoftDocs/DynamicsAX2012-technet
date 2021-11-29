@@ -17,6 +17,9 @@ dev_langs:
 
 # Populate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populates the entity property bag using the specified SQL data reader.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up permissions and operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Every time that a staff member performs an operation in Retail POS, Microsoft Dynamics AX validates that the staff member has permission to perform the operation. This topic explains how to set up POS permission groups and assign operations to permissions.

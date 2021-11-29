@@ -22,6 +22,9 @@ dev_langs:
 
 # ManualDiscountType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Type of manual discount represents Enum RetailManualDiscountType in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

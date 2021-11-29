@@ -17,6 +17,9 @@ dev_langs:
 
 # ResetSearchIndex Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Resets the index of the search.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

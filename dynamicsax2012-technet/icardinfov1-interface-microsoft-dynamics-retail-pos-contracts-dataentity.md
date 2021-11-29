@@ -17,6 +17,9 @@ dev_langs:
 
 # ICardInfoV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains all information relevant to a card that has either been read with a stripe reader or had the values entered manually.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

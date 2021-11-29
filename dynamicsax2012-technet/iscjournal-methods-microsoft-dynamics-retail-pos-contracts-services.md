@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISCJournal Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISCJournal](iscjournal-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a loyalty card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

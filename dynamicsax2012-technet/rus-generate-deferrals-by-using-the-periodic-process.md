@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Generate deferrals by using the periodic process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Deferrals creating** form to automatically generate deferrals by using the periodic process. Before you can generate deferrals by using the periodic process, you must create and post vendor invoices. For more information, see [(RUS) Deferrals creating (form)](https://technet.microsoft.com/library/jj839648\(v=ax.60\)) [(RUS) Purchase orders (modified form)](https://technet.microsoft.com/library/jj733294\(v=ax.60\)) .

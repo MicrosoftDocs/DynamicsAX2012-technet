@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using Data Contracts in X++ 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX supports the use of .NET and X++ types as data contracts for service operation input and return parameters. This enables you to pass complex data types without having to explicitly implement XML serialization and deserialization. The data contract serialization and deserialization is handled by Windows Communication Foundation (WCF).

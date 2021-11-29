@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCurrentTerminalId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current working terminal identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

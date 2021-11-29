@@ -13,6 +13,9 @@ f1_keywords:
 
 # dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier that characterizes the magnitude or extent of a quantifiable property of an object or activity.
 
 ## See also

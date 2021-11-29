@@ -13,6 +13,9 @@ f1_keywords:
 
 # relationship
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A connection between objects.
 
 ## See also

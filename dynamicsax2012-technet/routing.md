@@ -13,6 +13,9 @@ f1_keywords:
 
 # routing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The selection of carrier routes for transporting freight from origin points to destination points.
 
 ## See also

@@ -13,6 +13,9 @@ f1_keywords:
 
 # exchange rate type
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classification that groups exchange rates.
 
 ## See also

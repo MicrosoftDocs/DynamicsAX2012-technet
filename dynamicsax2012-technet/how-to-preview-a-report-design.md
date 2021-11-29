@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Preview a Report Design 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can preview a report design to be sure that it looks the way that you intended. You do not have to save a report design to preview it. You can preview a new design, or you can preview the modifications made to an existing design. The following procedure explains how to preview a report design.

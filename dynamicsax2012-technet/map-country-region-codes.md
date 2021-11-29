@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Map country/region codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 4.0 and Microsoft Dynamics AX 2009, more than one country/region code could be assigned to a country/region. Only one country/region code per company from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 can be mapped to a country/region code in Microsoft Dynamics AX 2012. Before you upgrade to Microsoft Dynamics AX 2012, all country/region codes in your current version of Microsoft Dynamics AX must be mapped to a country/region code in Microsoft Dynamics AX 2012.

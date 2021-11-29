@@ -13,6 +13,9 @@ f1_keywords:
 
 # batch process
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A production process for producing items in batches.
 
 ## See also

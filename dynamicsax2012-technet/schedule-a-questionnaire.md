@@ -14,6 +14,9 @@ ms.search.region: Global
 # Schedule a questionnaire 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Scheduling a questionnaire is an optional task that lets you schedule a questionnaire for multiple respondents. You cannot distribute a questionnaire in Enterprise Portal to both internal and external respondents at the same time. Instead, you must create two separate schedules

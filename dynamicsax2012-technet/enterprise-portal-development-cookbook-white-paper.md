@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Enterprise Portal Development Cookbook (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Enterprise Portal for Microsoft Dynamics AX provides a web-based application framework that lets users interact with data in Microsoft Dynamics AX 2012 through a browser. This guide explains the features of Enterprise Portal, and provides instructions for common development techniques for customizations.

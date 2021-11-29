@@ -17,6 +17,9 @@ dev_langs:
 
 # CompositionManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A helper class used to manage composition from a .NET configuration file.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

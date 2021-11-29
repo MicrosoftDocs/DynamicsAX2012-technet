@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Application integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The capability to integrate Microsoft Dynamics AX with other systems inside and outside the enterprise is a common requirement. Application Integration Framework (AIF) provides this capability by enabling the exchange of data through formatted XML. This formatted XML is referred to as a document, and each document contains data and business logic. Documents are based on a document class and defined by using Microsoft Dynamics AX.

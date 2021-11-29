@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Set up a customer reference number 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you set up reference numbers to link imported telebank payments to customers, you must assign a number sequence to the payment reference in the **Accounts receivable parameters** form. The reference numbers can be generated automatically, based on the number sequence.

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) About calculating TDS based on PAN availability 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you apply tax deducted at source (TDS) to vendor payments, you must specify the vendor’s Permanent Account Number (PAN). If the PAN is not available, TDS is calculated at the highest rate.

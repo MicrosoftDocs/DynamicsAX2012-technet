@@ -15,6 +15,9 @@ ms.search.region: Global
 # About purchase requisition statuses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Enterprise Portal for Microsoft Dynamics AX, you can view the status of a purchase requisition header and individual lines if you create or have permission to view purchase requisitions. The status is automatically updated during the purchase requisition life cycle.

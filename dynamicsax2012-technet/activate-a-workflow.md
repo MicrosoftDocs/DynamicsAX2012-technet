@@ -15,6 +15,9 @@ ms.search.region: Global
 # Activate a workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you activate a workflow, users can submit documents to the workflow for processing. There can be several versions of a specific workflow, but only one version can be the active version. Use the following procedures to activate a workflow.

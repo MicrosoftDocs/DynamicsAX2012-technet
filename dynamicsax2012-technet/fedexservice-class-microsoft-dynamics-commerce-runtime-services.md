@@ -17,6 +17,9 @@ dev_langs:
 
 # FedExService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fedex Adapter Implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

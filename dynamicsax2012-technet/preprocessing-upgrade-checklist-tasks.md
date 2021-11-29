@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Preprocessing upgrade checklist: Tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Complete the checklist tasks listed below. Since tasks on the two supported source systems sometimes differ from one another, they are displayed in separate columns. Task names link to help explaining the purpose of each task and providing instructions for completing it. The **Task domain** column indicates why and when each task is required:

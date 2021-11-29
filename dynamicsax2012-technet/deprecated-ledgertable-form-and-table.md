@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: LedgerTable form and table 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009 and earlier versions, the LedgerTable form and table are used to create the chart of accounts. Financial dimensions let you create and maintain dimensions and dimension codes that you can use on financial transactions.

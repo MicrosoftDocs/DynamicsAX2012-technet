@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemDeliveryMethods Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A single delivery methods view model representation. (FEDEX, UPS, etc).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

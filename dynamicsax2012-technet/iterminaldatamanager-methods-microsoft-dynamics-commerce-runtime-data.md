@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITerminalDataManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITerminalDataManager](iterminaldatamanager-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

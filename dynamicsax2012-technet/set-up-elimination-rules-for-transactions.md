@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up elimination rules for transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Although elimination rules can be created in any legal entity, to use elimination rules, you must set them up in a consolidation legal entity. A warning will be displayed if you open the **Ledger elimination rule** form, and the **Use for financial elimination process** option in the **Legal entities** form is not selected.

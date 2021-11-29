@@ -16,6 +16,9 @@ f1_keywords:
 # (ESP) Declaration 347 report (TaxReport347) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Declaration 347** report prints the details of all sales and purchase transactions that exceed EUR 3,000 for customers and vendors with an address in Spain.

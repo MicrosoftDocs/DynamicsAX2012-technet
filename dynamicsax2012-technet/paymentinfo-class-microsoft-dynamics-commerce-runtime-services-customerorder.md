@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Payment info, for use in transmitting via TS call.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

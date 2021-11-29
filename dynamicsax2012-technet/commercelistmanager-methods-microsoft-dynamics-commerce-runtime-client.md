@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceListManager Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceListManager](commercelistmanager-class-microsoft-dynamics-commerce-runtime-client.md) type exposes the following members.
 
 ## Methods

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Return orders configuration key (ReturnItem) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Return orders** configuration key allows you to create and process customer return orders.

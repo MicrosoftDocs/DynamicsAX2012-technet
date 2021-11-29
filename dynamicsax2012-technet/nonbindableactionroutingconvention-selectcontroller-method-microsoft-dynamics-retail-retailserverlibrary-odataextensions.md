@@ -17,6 +17,9 @@ dev_langs:
 
 # SelectController Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the predefined controller name for all non-bindable action requests.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

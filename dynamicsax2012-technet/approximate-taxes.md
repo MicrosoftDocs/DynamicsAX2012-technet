@@ -14,6 +14,9 @@ f1_keywords:
 
 # approximate taxes
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The estimated taxes from production and supply chain that apply to an item or service.
 
 ## See also

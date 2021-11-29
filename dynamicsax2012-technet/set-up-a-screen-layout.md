@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a screen layout 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The screen layout specifies how the screen is displayed on the point of sale (POS) register. The screen layout specifies the position of various objects. For example, the screen layout specifies the total layout, product grid layout, customer layout, and payment layout. The screen layout also specifies the position of various menu buttons and the overall appearance of the sales interface for Microsoft Dynamics AX for Retail POS that is displayed to the worker. You can configure a screen layout after all the button grids for the layout have been created.

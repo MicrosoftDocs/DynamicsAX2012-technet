@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerController Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerController](customercontroller-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md) type exposes the following members.
 
 ## Properties

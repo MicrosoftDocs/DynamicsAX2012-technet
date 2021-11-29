@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (HUN) Import bank account statements in MT940 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Hungarian installations, Microsoft Dynamics AX 2009 provides country-specific functionality that lets users import bank account statements in MT940 format.

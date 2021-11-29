@@ -17,6 +17,9 @@ dev_langs:
 
 # OfflineSyncStatsSqlServerDataRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data service for managing offline sync statistics from SQL server database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Future value of fixed asset report (AssetFutureValue) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to print information about the calculated future value of fixed assets. This information includes the budgeted value and actual value of fixed assets for a specified date range and budget model.

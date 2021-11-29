@@ -14,6 +14,9 @@ f1_keywords:
 # Set up workers (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up your employees as workers in Retail essentials.

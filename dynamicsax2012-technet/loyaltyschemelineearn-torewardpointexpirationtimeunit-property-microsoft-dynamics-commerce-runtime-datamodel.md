@@ -17,6 +17,9 @@ dev_langs:
 
 # ToRewardPointExpirationTimeUnit Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets expiration time unit of the reward point.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Address book 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, the address book functionality has been enhanced. You can now create multiple address books instead of creating virtual companies. You can also control access to address books by granting privileges based on teams or legal entities. Additionally, your Human resources department can now create applicant records directly from the **Applicant** form.

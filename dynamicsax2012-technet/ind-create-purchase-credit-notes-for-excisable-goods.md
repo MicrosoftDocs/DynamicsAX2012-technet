@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create purchase credit notes for excisable goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you return the purchased goods to your vendor by using a credit note, the excise amount that is calculated is reversed.

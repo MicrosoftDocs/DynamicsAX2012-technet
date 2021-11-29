@@ -15,6 +15,9 @@ dev_langs:
 
 # GetReceiptTransactionType Method (SalesTransactionType, Decimal, CustomerOrderMode)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets receipt transaction type from transaction type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # X++ Development configuration key (SysDevelopmentXPP) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **X++ development** configuration key controls access to all the classes in Microsoft Dynamics AX, and the development code for the CUS layer. Access to the CUS layer means that objects in both the CUS and USR layers can be modified.

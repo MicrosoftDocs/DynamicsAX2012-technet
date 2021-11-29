@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSupportedLanguagesResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the supported languages in response.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

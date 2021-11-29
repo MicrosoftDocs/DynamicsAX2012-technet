@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ExtendedWebAppWebConfigDeactivationJob Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ExtendedWebAppWebConfigDeactivationJob](extendedwebappwebconfigdeactivationjob-class-microsoft-dynamics-retail-sp-commonfeatures.md) type exposes the following members.
 
 ## Properties

@@ -14,6 +14,9 @@ f1_keywords:
 # Reporting Services configuration key (ReportingServices) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Reporting Services** configuration key controls access to forms that are used to connect Microsoft Dynamics AX to Microsoft SQL Server Reporting Services and Microsoft SQL Server Analysis Services.

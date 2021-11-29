@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales tax hierarchy node
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A node in a sales tax hierarchy that represents sales tax information, such as the tax component or the excise record type.
 
 ## See also

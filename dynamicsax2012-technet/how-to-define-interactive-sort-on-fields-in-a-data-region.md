@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Define Interactive Sort on Fields in a Data Region 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can sort the data on a report at runtime when you set the **Interactive Sorting** property for a field to **True**. Using this property, you can sort by column A and then later by column B. Interactive sorting is different from static sorting where a specific sort order is set when the report is built. For more information on static sorting, see [How to: Define a Sorted Data Region](how-to-define-a-sorted-data-region.md).

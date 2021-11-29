@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceOverrideRestrictions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the employee price override restrictions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

@@ -21,6 +21,9 @@ f1_keywords:
 # Walkthrough: Creating a Chart Control with Data from an Analysis Services Cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 A Chart Control is a User Control option to display chart data in Enterprise Portal. A Chart Control can display data from a Report Data Provider (RDP) class or from an analysis cube. This walkthrough demonstrates how to use the features in Microsoft Dynamics AX to create and deploy a Chart Control for Enterprise Portal that displays analysis cube data. For information about Chart Controls that display RDP data, see [How to: Create a Chart with Data from a Report Data Provider Class](https://technet.microsoft.com/library/hh975424\(v=ax.60\)). The walkthrough illustrates the following tasks:

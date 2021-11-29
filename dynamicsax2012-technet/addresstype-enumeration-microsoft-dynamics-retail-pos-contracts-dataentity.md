@@ -34,6 +34,9 @@ dev_langs:
 
 # AddressType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates the address type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

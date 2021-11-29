@@ -17,6 +17,9 @@ dev_langs:
 
 # TableName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the table name for this [TempTable](temptable-class-microsoft-dynamics-commerce-runtime-data-sqlite.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

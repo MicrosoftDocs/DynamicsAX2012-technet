@@ -17,6 +17,9 @@ dev_langs:
 
 # ConcludeTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Concludes the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

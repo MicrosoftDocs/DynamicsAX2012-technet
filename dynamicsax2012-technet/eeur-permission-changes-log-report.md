@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (EEUR) Permission changes log (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays changes to an employee’s permissions to access information, security rights, or user role in Microsoft Dynamics AX. You can select to view the permission changes as an overall list for the employee, or as a breakdown of tables and fields.

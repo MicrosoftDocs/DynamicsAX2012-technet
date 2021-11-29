@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a new Retail Server Controller 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A controller in Microsoft Dynamics AX for Retail is a mapping for a commerce entity that controls CRUD behaviors and actions for a commerce entity type. Each commerce entity must have a corresponding controller. If you introduce your own entity type, you must create a new controller.

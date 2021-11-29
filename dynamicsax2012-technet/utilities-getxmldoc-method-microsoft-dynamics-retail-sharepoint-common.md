@@ -17,6 +17,9 @@ dev_langs:
 
 # GetXmlDoc Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Xml document object of the specified Xml file.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

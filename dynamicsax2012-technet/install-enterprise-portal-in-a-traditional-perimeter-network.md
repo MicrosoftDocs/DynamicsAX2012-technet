@@ -16,6 +16,9 @@ f1_keywords:
 # Install Enterprise Portal in a traditional perimeter network 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to set up a traditional perimeter network to support Enterprise Portal for Microsoft Dynamics AX. A traditional perimeter network uses two firewalls and two domain controllers to restrict access to Microsoft Dynamics AX data, forms, and business processes. More specifically, a traditional perimeter network enables internal users of your corporate network (CORP users) to access Enterprise Portal in the perimeter network from either the intranet or the Internet. External users can access Enterprise Portal in the perimeter network from the Internet, but are not permitted to access files or information in the intranet. This restricted access is accomplished by using firewalls and a separate Active Directory forest with 1-way, outgoing, transitive, forest-level trust with the Active Directory forest in the intranet.

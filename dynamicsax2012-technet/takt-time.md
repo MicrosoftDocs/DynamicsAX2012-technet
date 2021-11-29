@@ -13,6 +13,9 @@ f1_keywords:
 
 # takt time
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The time that it takes to produce one unit of a product.
 
 ## See also

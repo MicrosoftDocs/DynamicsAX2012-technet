@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Services and AIF Walkthroughs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This topic lists and describes documentation that contains walkthroughs of various features of services and Application Integration Framework (AIF) in Microsoft Dynamics AX. You can browse walkthroughs by the type of service, such as system service or document service. Subsections of each service type let you browse walkthroughs in other ways, such as by the type of adapter or the type of document service.

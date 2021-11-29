@@ -17,6 +17,9 @@ dev_langs:
 
 # SearchArea Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an area centered at a geographic coordinate with a given radius.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

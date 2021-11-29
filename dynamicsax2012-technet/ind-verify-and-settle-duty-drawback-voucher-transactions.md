@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Verify and settle duty drawback voucher transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The EXIM duty drawback process generates duty drawback lines. When you process the duty drawback lines, duty drawback voucher transactions are generated. You can use the **EXIM Duty Drawback schemes** form to view the duty drawback voucher transactions. After you verify the amounts for the duty drawback, you can settle the duty drawback transactions and record the accounting entries in the general ledger.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PutChannelProductAttributeById Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the product attribute of a given attribute identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

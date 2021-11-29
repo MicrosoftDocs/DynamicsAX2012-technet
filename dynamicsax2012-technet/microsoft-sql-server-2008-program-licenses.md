@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Microsoft SQL Server 2008 Program Licenses
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 is accompanied by Microsoft SQL Server software components, which are licensed under the terms of the respective SQL Server licenses provided below. You may use these components only in accordance with the below license terms. If you do not agree to these license(s), you may not use the respective components.

@@ -35,6 +35,9 @@ ms.search.region: Global
 # Productivity tools for end users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes several tools that can help you do your job more efficiently. These productivity tools are not related to specific modules, but can be used across the system. The topics in this section provide information about how to use these productivity tools.

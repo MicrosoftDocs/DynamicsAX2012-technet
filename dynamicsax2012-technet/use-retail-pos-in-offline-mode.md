@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use Retail POS in offline mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A POS device will go offline if the system is temporarily down or if the channel database is unavailable. When the connection with the channel database is lost, Retail POS automatically switches to the offline database.

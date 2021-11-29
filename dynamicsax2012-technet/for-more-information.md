@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # For more information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For more information about Microsoft Dynamics AX 2012 services and Application Integration Framework (AIF), see the following white paper:

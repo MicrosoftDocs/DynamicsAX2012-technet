@@ -17,6 +17,9 @@ dev_langs:
 
 # FinalizeAccountActivation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Finalize the customer account activation request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

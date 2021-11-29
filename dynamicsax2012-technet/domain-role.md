@@ -13,6 +13,9 @@ f1_keywords:
 
 # domain role
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A behavior pattern that is assumed by domain entities when participating in role relationships.
 
 ## See also

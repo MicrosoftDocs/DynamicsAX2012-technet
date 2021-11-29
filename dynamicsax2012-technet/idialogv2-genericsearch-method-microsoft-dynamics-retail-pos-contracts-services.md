@@ -17,6 +17,9 @@ dev_langs:
 
 # GenericSearch Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generic search
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

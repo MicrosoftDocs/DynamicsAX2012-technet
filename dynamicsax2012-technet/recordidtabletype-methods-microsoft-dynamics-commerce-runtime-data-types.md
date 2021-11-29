@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RecordIdTableType Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RecordIdTableType](recordidtabletype-class-microsoft-dynamics-commerce-runtime-data-types.md) type exposes the following members.
 
 ## Methods

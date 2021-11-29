@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Create, confirm, reopen, and print a consolidated vendor invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Consolidated invoice** form to create, confirm, reopen, and print a consolidated invoice for a vendor. Before you can create a consolidated invoice, you must create a purchase order that has an updated consolidation date. You can create a consolidated invoice for a vendor based on the actual consolidation date. The actual consolidation date is the date on which the consolidated invoice is processed, and you cannot change this date. This date must be later than the date of the most recent consolidated invoice for that vendor. For more information, see [(JPN) Mark purchase invoices for consolidation and calculate due dates](jpn-mark-purchase-invoices-for-consolidation-and-calculate-due-dates.md).

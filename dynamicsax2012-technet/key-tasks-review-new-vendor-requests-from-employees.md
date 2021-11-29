@@ -18,6 +18,9 @@ ms.search.region: Global
 # Key tasks: Review new vendor requests from employees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When an employee wants to work with a vendor that is not already on your organization’s list of approved vendors, the employee can request to have the vendor added to the list. As a purchasing agent, you are responsible for reviewing new vendor requests and approving or rejecting them.

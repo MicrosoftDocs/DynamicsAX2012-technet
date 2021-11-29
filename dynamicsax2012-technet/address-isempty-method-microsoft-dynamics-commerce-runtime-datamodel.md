@@ -18,6 +18,9 @@ dev_langs:
 
 # IsEmpty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if the address object has been specified or not.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

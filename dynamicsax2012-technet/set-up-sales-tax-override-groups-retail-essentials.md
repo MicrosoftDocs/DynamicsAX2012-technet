@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up sales tax override groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up sales tax override groups. Sales tax override groups are composed of two or more sales tax overrides, so that several overrides can be assigned to stores. The overrides themselves must be set up before you can set up override groups.

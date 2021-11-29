@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerAffiliation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a customer affiliation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

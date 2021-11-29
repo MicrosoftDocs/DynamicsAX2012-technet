@@ -13,6 +13,9 @@ f1_keywords:
 
 # batch
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A quantity of one or more items produced in one operation.
 
 ## See also

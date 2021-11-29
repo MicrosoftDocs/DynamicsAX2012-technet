@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RetailPublishingJob Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RetailPublishingJob](retailpublishingjob-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md) type exposes the following members.
 
 ## Properties

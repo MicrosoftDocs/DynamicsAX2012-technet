@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reverse a transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The transaction reversal process reverses the original transaction and all related transactions that were created when the original transaction was posted. Before you reverse a transaction for the first time, select a number sequence for the **Transaction reversal** and **Trace number** references in the **Number sequences** area of the **General ledger parameters** form.

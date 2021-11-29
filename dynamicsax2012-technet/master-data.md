@@ -13,6 +13,9 @@ f1_keywords:
 
 # master data
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Entities that describe the parties, locations, products, and activities that are referenced by entities that document and record economic, resource flow, and accounting events.
 
 ## See also

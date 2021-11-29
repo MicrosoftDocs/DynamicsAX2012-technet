@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed asset
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting classifier used to classify any long-term asset whose cost expiration is recognized over more than one year.
 
 ## See also

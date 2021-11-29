@@ -24,6 +24,9 @@ ms.search.region: India
 # (IND) Generate 26Q or 27Q quarterly statements for TDS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The deductors of tax at source can use the following two quarterly statements for Tax Deducted at Source (TDS):

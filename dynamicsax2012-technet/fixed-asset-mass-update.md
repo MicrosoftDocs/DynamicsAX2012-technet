@@ -14,6 +14,9 @@ ms.search.region: Global
 # Fixed asset mass update 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you use depreciation books, you can change the depreciation conventions for groups of assets that are part of the same depreciation book. For example, if you are in the United States, and you put more than 40 percent of your assets in service during the fourth quarter of the year, you must use the mid-quarter depreciation convention. You can use the process for a mass update to change all assets that require the new depreciation convention.

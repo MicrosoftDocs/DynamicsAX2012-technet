@@ -17,6 +17,9 @@ dev_langs:
 
 # NoSaleTransactionCount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets count of no sales transactions (Open Cash Drawer).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

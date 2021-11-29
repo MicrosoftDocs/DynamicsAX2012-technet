@@ -17,6 +17,9 @@ dev_langs:
 
 # EFTInfo Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 EFT information regarding the EFT transaction
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

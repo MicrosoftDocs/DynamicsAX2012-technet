@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyBalance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets loyalty card balance
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

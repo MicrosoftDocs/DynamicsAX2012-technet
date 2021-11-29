@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up a check or Bordero method of payment for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up a check or Bordero method of payment to make payments to vendors. You can create a method of payment for checks that generates one check for a combination of a specific payment date, a vendor, and a bank, or that generates one check for a specific payment date for each bank. For a Bordero method of payment, one Bordero payment is generated for a specific payment date for each bank.

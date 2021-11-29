@@ -17,6 +17,9 @@ dev_langs:
 
 # IKeyedDataStoreAccessor Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interface representing the operations allowed on a keyed data store.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

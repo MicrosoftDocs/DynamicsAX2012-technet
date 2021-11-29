@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (JPN) T-account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Japanese installations, Microsoft Dynamics AX 2009 includes a country-specific feature that is named T-account. The T-account feature lets Japanese users enter journal lines in a T-account format.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnLineNumberColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The return line number column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

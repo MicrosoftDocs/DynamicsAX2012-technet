@@ -15,6 +15,9 @@ dev_langs:
 
 # GetCurrentShiftNonSaleOperations Method (NonSalesTransaction)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the list of transactions for the current shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

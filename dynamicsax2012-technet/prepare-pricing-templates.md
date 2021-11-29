@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Prepare pricing templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Commodity pricing is the practice of basing the sales price for commodity-based end items on the market replacement cost of the main ingredient. Commodity items, such as iron ore, coffee beans, and sugar, are items for which there is a demand across commodity trading markets. The price for these items fluctuates periodically, such as daily or weekly, based on global supply and demand. When the price of the commodity item changes, any end item that uses that commodity is adjusted and the price is updated in the related sales price trade agreement.

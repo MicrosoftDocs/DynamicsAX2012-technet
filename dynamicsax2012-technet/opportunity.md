@@ -13,6 +13,9 @@ f1_keywords:
 
 # opportunity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A potential revenue-generating event, or sale to an account, that needs to be tracked through a sales process to completion.
 
 ## See also

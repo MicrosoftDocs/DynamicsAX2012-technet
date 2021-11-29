@@ -14,6 +14,9 @@ f1_keywords:
 # Posted statement totals report (RetailStatementPosted) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to view the transactions that are included in a posted statement. This report includes the terminal number, payment method, card number if applicable, currency, transaction amount, counted amount, and the amount of the transaction that was deposited in the safe or the bank, if applicable.

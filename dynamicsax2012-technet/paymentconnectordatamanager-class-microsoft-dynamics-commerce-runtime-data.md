@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentConnectorDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Payment Connector Data Manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

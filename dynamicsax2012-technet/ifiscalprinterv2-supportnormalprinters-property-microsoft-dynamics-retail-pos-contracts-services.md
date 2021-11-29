@@ -17,6 +17,9 @@ dev_langs:
 
 # SupportNormalPrinters Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Denotes whether the fiscal printer supports simultaneous printing on normal printers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

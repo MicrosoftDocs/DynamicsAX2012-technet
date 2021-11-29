@@ -23,6 +23,9 @@ ms.search.region: Global
 # Create and upload EU entry certificates for customer invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create and upload a European Union (EU) entry certificate. You can complete the following tasks for an EU entry certificate:

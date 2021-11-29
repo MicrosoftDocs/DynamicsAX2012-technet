@@ -15,6 +15,9 @@ ms.search.region: Denmark, France
 # About reimbursements (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Reimbursements are issued to customers who have overpaid, or customers who have been issued a credit and have an outstanding credit balance. (This can be accomplished by using a general ledger credit voucher or a credit note.) When customer credit transactions are processed for reimbursement, a reimbursement transaction is created for each unique customer balance posting type entry across the vouchers of the transactions. This process can create several reimbursement transactions for a single credit transaction. If you select to create a separate reimbursement transaction for each billing classification, reimbursement transactions will be grouped by the unique customer balance posting type entry and billing classification. The resulting reimbursement transactions will be assigned a classification value.

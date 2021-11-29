@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerQuote Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a sales quote.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

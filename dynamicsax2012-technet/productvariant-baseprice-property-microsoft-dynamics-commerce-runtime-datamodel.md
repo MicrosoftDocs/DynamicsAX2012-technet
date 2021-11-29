@@ -17,6 +17,9 @@ dev_langs:
 
 # BasePrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the base sales price for the listing.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

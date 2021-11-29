@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCompoundable Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Some discount methods (e.g. offer price) can not be compounded, even if they're designated to be
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -25,6 +25,9 @@ ms.search.region: Brazil
 # (BRA) Configure fiscal printers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to set up parameters for a fiscal printer configuration, and then associate a fiscal printer configuration with multiple stores or associate a store with multiple fiscal printer configurations.

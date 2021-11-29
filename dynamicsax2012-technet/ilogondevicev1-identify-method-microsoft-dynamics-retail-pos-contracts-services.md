@@ -17,6 +17,9 @@ dev_langs:
 
 # Identify Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies the specified capture data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

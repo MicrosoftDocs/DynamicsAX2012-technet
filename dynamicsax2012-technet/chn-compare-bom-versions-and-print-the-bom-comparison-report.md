@@ -17,6 +17,9 @@ ms.search.region: China (PRC)
 # (CHN) Compare BOM versions and print the BOM comparison report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A **BOM comparison** report compares BOM versions for a product or compares differences in components among a group of similar products. The **BOM comparison** report helps you to optimize the inventory and sales management process by providing information about a product and its versions.

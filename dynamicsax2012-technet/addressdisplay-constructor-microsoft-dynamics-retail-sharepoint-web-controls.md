@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressDisplay Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [Address](address-class-microsoft-dynamics-retail-sharepoint-web-controls.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

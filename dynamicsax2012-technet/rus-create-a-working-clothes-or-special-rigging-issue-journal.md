@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Create a working clothes or special rigging issue journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Working clothes/Special rigging/NVFA issue** form to issue an item from the warehouse to an employee. Working clothes, special rigging items, and not valuable fixed assets (NVFAs) are separate assets. When an issue journal is posted, separate cards are created in the **Working clothes**, **Special rigging**, and **Not valuable FAs** forms.

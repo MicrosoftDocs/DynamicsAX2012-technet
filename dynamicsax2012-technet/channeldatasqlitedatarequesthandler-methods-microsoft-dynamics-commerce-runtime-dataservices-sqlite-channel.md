@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChannelDataSqliteDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChannelDataSqliteDataRequestHandler](channeldatasqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite-channel.md) type exposes the following members.
 
 ## Methods

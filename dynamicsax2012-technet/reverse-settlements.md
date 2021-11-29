@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reverse settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Closed transaction editing in several currencies** form to reverse settlements for customers or vendors. You might do this if the wrong date or settlement amount was used. When you reverse a settlement, all transaction distributions that were involved in settling an invoice with a payment are reversed, such as general ledger postings, exchange rate gains or losses, penny differences, and cash discount transactions.

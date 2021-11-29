@@ -17,6 +17,9 @@ dev_langs:
 
 # MultipleEmployeeTotalDiscountsNotAllowed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the request passed contains multiple total discounts in cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

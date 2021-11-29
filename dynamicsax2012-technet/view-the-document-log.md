@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View the document log 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can store copies of the XML code for documents that are exchanged with Application Integration Framework (AIF). You can then view the copies in the **Document log** form. The **Document log** form displays a record of the numbered versions of the document, the related processing steps, and the date and time for each log entry. You selected a logging mode when you configured the troubleshooting options for a port. For more information about logging modes, see [Configure troubleshooting options for integration ports](configure-troubleshooting-options-for-integration-ports.md).

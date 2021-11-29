@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up the Profile page in the Vendor portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Approved vendors for your organization use the Vendor portal to maintain their company information, maintain company contacts, and manage transactions. The **Profile** page contains all of the critical vendor company details including address, banking, and company demographic information. The **Vendor profile** request type controls the settings and fields that appear on the **Profile** page in the Vendor portal.

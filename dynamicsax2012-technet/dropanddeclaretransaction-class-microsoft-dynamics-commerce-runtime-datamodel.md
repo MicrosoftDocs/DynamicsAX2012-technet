@@ -17,6 +17,9 @@ dev_langs:
 
 # DropAndDeclareTransaction Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents tender drop and declare operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

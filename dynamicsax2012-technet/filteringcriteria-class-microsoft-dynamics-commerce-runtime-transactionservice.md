@@ -17,6 +17,9 @@ dev_langs:
 
 # FilteringCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data contract of filtering criteria for Transaction Service 'Get' APIs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

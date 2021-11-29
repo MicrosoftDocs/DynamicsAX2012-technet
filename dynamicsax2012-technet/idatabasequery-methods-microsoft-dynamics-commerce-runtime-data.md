@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDatabaseQuery Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDatabaseQuery](idatabasequery-interface-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

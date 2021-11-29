@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Quick import export
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The purpose of Quick import export is to let you import and export with fewer steps.
 
 We added the Quick Import Export feature to let users import or export simple jobs that they want to execute quickly. Ideally this feature is used in scenarios in which a file automatically maps to the system and user does not need to go through advanced mapping or create repeated import or export jobs.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Refresh Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Refreshes currency rounding information from the database.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

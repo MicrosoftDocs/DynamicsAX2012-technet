@@ -17,6 +17,9 @@ dev_langs:
 
 # KitComponents Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the kit component collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

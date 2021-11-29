@@ -17,6 +17,9 @@ dev_langs:
 
 # FunctionalityProfileId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the functionality profile id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

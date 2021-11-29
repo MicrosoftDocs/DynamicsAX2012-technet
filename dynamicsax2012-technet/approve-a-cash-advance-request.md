@@ -17,6 +17,9 @@ ms.search.region: Global
 # Approve a cash advance request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a worker makes a request for a cash advance, you can approve the request on the **My approvals** page. This page includes a work list, where you can also return, delegate, cancel, and view the history for a cash advance request. For more information about how to use work lists, see [Manage and use work lists (Enterprise Portal)](manage-and-use-work-lists-enterprise-portal.md).

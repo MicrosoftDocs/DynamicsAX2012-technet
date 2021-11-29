@@ -18,6 +18,9 @@ ms.search.region: Global
 # Key tasks: Manually set up user access to the Vendor portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some organizations do not use the user request process to manage vendor users' access to the Vendor portal in Enterprise Portal for Microsoft Dynamics AX. Instead, they rely on system administrators to perform the user management tasks manually. In these cases, the system administrator must create the vendor user, set up the vendor user profile, and assign user permissions.

@@ -14,6 +14,9 @@ f1_keywords:
 
 # associate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To connect peer objects.
 
 ## See also

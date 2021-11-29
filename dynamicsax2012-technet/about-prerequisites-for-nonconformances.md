@@ -21,6 +21,9 @@ ms.search.region: Global
 # About prerequisites for nonconformances 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic covers the basic steps for using nonconformances. Additional steps are required for using quality orders.

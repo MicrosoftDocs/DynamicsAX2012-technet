@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ReasonCodeSqliteDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ReasonCodeSqliteDataRequestHandler](reasoncodesqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices-reasoncodes.md) type exposes the following members.
 
 ## Methods

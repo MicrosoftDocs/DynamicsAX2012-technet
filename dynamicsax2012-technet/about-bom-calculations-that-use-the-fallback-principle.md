@@ -15,6 +15,9 @@ ms.search.region: Global
 # About BOM calculations that use the fallback principle 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Bill of materials (BOM) calculations that use cost records in a single, specified costing version do not use a fallback principle. However, BOM calculations that use another costing version or active cost records as a fallback principle can be useful in certain situations. The fallback principle indicates an alternative source of cost data if there is no cost data in the specified costing version. The following situations illustrate two uses of the fallback principle:

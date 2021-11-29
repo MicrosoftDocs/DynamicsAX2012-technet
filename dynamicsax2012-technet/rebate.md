@@ -13,6 +13,9 @@ f1_keywords:
 
 # rebate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A refund of an amount after the full amount has been paid.
 
 ## See also

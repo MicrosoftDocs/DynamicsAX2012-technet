@@ -20,6 +20,9 @@ ms.search.region: Global
 # Modify or delete a timesheet in Enterprise Portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If a timesheet has not been submitted, you can modify or delete it.

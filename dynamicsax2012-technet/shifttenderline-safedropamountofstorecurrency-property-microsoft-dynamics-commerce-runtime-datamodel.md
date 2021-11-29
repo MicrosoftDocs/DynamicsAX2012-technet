@@ -17,6 +17,9 @@ dev_langs:
 
 # SafeDropAmountOfStoreCurrency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets safe drop amount of tender in store curreny.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

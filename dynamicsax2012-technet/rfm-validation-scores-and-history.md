@@ -14,6 +14,9 @@ ms.search.region: Global
 # RFM validation scores and history 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to view a customer’s Recency, Frequency, and Monetary (RFM) score and how to view the history of an RFM analysis record. The RFM score is a marketing tool that is used to score a customer on how recently they purchased products and how frequently they purchase products. You can also use the RFM score to evaluate how much money the customer typically spends. For more information about setting up RFM analysis, see [Set up RFM analysis](set-up-rfm-analysis.md).

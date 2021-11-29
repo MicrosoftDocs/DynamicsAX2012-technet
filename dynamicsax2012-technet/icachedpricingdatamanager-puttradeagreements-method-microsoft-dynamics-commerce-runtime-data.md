@@ -17,6 +17,9 @@ dev_langs:
 
 # PutTradeAgreements Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This function retrieves all possible price agreements for the given args (item, customer, currency, etc), item relation code (item/group/all), and account relation code (customer/price group/all).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

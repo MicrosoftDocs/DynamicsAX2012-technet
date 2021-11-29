@@ -15,6 +15,9 @@ ms.search.region: Global
 # About dimension control for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When workers create registrations for time and attendance, for example on a project, a value is also created for each dimension.

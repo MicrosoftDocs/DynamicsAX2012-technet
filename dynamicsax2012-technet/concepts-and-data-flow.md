@@ -14,6 +14,9 @@ ms.search.region: Global
 # Concepts and data flow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you use the **Product Builder**, you should understand the concepts implemented in it and the ideas behind the types of configuration information and the setup options that are available.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up initial standard costs in a manufacturing environment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Manufacturing environments involve maintaining standard costs for purchased items and manufactured items, which includes the first time setting standard costs. Additional steps are required in manufacturing environments that use routing information for costing purposes. These guidelines assume the use of a single costing version when you set standard costs for the first time. This costing version will contain standard costs for the current period. Pending cost records for all items will be entered in this costing version.

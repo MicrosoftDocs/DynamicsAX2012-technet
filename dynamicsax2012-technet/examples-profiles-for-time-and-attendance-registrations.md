@@ -14,6 +14,9 @@ ms.search.region: Global
 # Examples: Profiles for time and attendance registrations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following sections provide examples of work time profiles for different workers and shifts. All examples are based on the standard setup of **Calculation parameters**, which is used to calculate time registrations and pay time, based on profile types. For more information, see [About parameters for calculations](about-parameters-for-calculations.md).

@@ -22,6 +22,9 @@ ms.search.region: Spain
 # (ESP) Calculate invoice due dates based on the payment schedule and the payment day 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 You can specify the payment schedule and the payment day for a customer invoice, a free text invoice, a vendor invoice, or a project invoice before you generate the invoice. Microsoft Dynamics AX calculates the payment due dates of vendor invoices and project invoices based on the delivery dates of items and services. For customer invoices, Microsoft Dynamics AX calculates the due dates based on the customer invoice receipt dates.

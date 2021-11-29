@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Manage vendor status change requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When an employee wants to work with a vendor that is on hold, the employee can request to have the vendor's hold status changed. As a reviewer, you are responsible for reviewing new vendor status change requests, and for approving or rejecting them. Employees submit vendor status change requests by using the Employee services site in Enterprise Portal for Microsoft Dynamics AX.

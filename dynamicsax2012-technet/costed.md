@@ -13,6 +13,9 @@ f1_keywords:
 
 # costed
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To calculate, assign, and allocate the cost of economic resources acquired, produced, or delivered by an organization.
 
 ## See also

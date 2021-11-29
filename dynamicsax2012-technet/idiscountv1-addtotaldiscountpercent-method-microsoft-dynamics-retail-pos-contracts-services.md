@@ -17,6 +17,9 @@ dev_langs:
 
 # AddTotalDiscountPercent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Applies the provided percentage value as a discount to the total transaction balance.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddToCart Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddToCart](addtocart-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Properties

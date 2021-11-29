@@ -17,6 +17,9 @@ dev_langs:
 
 # WriteXmlDocToFile Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the xml document to the specified file.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

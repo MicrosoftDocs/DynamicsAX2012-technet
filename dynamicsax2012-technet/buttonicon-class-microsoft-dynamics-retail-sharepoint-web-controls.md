@@ -17,6 +17,9 @@ dev_langs:
 
 # ButtonIcon Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Button icon choices.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

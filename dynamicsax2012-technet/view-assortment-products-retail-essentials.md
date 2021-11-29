@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View assortment products (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to view the assortments and products that are assigned to retail stores. You can view a list of all the assortments that you have assigned to a specific store. You can also view a detailed list of the products that are included in a selected assortment.

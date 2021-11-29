@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceList Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the updated commerce list.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

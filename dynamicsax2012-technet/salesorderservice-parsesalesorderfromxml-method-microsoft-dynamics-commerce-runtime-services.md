@@ -17,6 +17,9 @@ dev_langs:
 
 # ParseSalesOrderFromXml Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Parse a Sales Order from XML.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

@@ -23,6 +23,9 @@ ms.search.region: Global
 # Set up policies for category hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Policies are business rules that you define to help control your internal processes and enforce your overall business strategy. If your organization classifies products that it purchases in a procurement category hierarchy, you can create policies to manage employee access to categories. You can also define rules for ordering products in specific categories in the procurement category hierarchy.

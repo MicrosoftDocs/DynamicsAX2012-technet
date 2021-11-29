@@ -15,6 +15,9 @@ dev_langs:
 
 # GetProductData Method (IEnumerable(Int64))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the product data (as an XML document) for the specified product identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

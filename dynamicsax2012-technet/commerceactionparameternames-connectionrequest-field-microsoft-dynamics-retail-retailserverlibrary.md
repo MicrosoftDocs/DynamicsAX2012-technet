@@ -17,6 +17,9 @@ dev_langs:
 
 # ConnectionRequest Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The connection request.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

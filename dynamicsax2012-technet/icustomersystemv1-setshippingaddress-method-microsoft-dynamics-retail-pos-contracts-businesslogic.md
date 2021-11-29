@@ -17,6 +17,9 @@ dev_langs:
 
 # SetShippingAddress Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the shipping address for the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

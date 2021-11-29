@@ -15,6 +15,9 @@ dev_langs:
 
 # CatalogSearchCriteria Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Initializes a new instance of the [CatalogSearchCriteria](catalogsearchcriteria-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.

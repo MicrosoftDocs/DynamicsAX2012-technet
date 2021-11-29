@@ -17,6 +17,9 @@ ms.search.region: Global
 # View product receipts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Product receipts** and **View product receipt** pages to view information about the product receipts that have been generated for purchase orders. You can also view copies of the product receipts.

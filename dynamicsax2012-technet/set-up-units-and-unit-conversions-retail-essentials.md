@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up units and unit conversions (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up units of measure and unit conversions for products in Retail essentials. A unit of measure is a standard quantity, size, or other basis that is used for measurement or exchange. When you enter an order in Retail essentials, you specify a quantity and the unit of measure that the quantity represents. For example, you might enter an order for a quantity of 5 bolts, which have a unit measurement of pieces. You must define the units of measure to use for all of the products that you purchase and sell.

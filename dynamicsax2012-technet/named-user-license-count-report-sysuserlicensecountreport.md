@@ -14,6 +14,9 @@ f1_keywords:
 # Named user license count report (SysUserLicenseCountReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This report contains information about the users who are assigned to security roles in Microsoft Dynamics AX. The report analyzes the roles and privileges that are assigned to each user and then calculates the number of licenses that are required for each user type.

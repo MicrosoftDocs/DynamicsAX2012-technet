@@ -14,6 +14,9 @@ f1_keywords:
 # Customer invoice transactions report (CustInvoice) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer invoice transactions** report displays Accounts receivable customer invoice transactions. The transactions are sorted in the order of the general ledger account that was credited on each line of the invoice.

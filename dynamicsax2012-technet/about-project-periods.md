@@ -15,6 +15,9 @@ ms.search.region: Global
 # About project periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Project periods are used primarily with project timesheets, but they are also used when you work with estimates and invoice subscriptions.

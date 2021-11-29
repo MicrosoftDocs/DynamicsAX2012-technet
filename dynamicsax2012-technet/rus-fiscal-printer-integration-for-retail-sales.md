@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Fiscal printer integration for retail sales 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can register retail point of sale (POS) sales and print fiscal receipts using a certified Shtrih-M fiscal printer that is integrated with Microsoft Dynamics AX POS. You can perform the following tasks by using the fiscal printer integration:

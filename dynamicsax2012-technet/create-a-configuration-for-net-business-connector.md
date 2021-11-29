@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a configuration for .NET Business Connector 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 .NET Business Connector is a component of the development environment for Microsoft Dynamics AX. You use .NET Business Connector to build software applications that can be integrated with Microsoft Dynamics AX. You can think of .NET Business Connector as a Microsoft Dynamics AX client that does not have a user interface. In other words, .NET Business Connector is non-interactive. You can use .NET Business Connector to access the same X++ code, business logic, and security model that are available to the Microsoft Dynamics AX client. .NET Business Connector contains a kernel that is used to interpret and run code, and it provides a run-time environment for interaction with elements in the Application Object Tree (AOT). For more information about .NET Business Connector, see the [.NET Business Connector](https://go.microsoft.com/fwlink/?linkid=231141) developer documentation on MSDN.

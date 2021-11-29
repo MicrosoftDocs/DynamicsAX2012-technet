@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateAccountActivationDataResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response for ValidateAccountActivationDataResponse.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

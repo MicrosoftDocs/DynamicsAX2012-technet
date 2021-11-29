@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up parameters for a Single Administrative Document (SAD) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes the setup prerequisites for the Single Administrative Document (SAD). SADs provide European Union (EU) authorities with statistical data on trade between EU member-states and non-EU countries/regions. This statistical data is also referred to as Extrastat.

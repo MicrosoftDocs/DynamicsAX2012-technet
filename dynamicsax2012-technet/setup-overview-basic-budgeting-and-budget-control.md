@@ -21,6 +21,9 @@ ms.search.region: Global
 # Setup overview: basic budgeting and budget control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic contains information that will help you get ready to set up basic budgeting and budget control.

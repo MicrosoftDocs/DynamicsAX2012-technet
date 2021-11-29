@@ -17,6 +17,9 @@ dev_langs:
 
 # ProjectionDomain Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the context where a Retail operation takes place (e.g. the catalog and channel identifiers).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Apps for Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic includes a roadmap of information that is available for implementers and developers of companion apps for Microsoft Dynamics AX 2012 R2.
 
 ![Reference](images/JJ710380.TopicIcons_Reference(AX.60).png "Reference")

@@ -17,6 +17,9 @@ dev_langs:
 
 # PeriodicDiscountLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A collection of all periodic discounts belonging to the sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

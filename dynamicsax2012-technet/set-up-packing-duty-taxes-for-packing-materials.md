@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up packing duty taxes for packing materials 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to set up a packing duty tax, which is a tax that is associated with packing materials that are used to transport products. To set up a packing duty tax, you must complete these tasks, which are described in the procedures that follow:

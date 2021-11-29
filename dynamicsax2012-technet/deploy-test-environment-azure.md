@@ -1,6 +1,9 @@
 ---
 # required metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 title: Deploy test environments on Azure
 description: This topic provides information about how to deploy a test environment on Microsoft Azure.
 author: kfend
@@ -13,17 +16,35 @@ ms.technology:
 
 # optional metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 # ms.search.form: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 # ROBOTS: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 audience: Developer, IT Pro
 # ms.devlang: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.reviewer: sericks
 ms.search.scope: AX 2012
 # ms.tgt_pltfrm: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.custom: 13281
 ms.assetid: 861f276d-adeb-4591-b53f-beafd1b77999
 ms.search.region: Global
 # ms.search.industry: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.author: kfend
 ms.search.validFrom: 
 ms.dyn365.ops.version: 2012
@@ -31,6 +52,9 @@ ms.dyn365.ops.version: 2012
 ---
 
 # Deploy test environments on Azure
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 
 Prerequisites
 -------------

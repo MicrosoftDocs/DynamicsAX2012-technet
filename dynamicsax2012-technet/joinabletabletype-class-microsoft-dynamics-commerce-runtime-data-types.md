@@ -17,6 +17,9 @@ dev_langs:
 
 # JoinableTableType Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a table type parameter used during set-based operations as a enhanced replacement for the IN (...) syntax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

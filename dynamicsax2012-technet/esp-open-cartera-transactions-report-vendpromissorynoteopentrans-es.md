@@ -18,6 +18,9 @@ f1_keywords:
 # (ESP) Open cartera transactions report (VendPromissoryNoteOpenTrans\_ES) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Open cartera transactions** report prints a list of open promissory note transactions that can be grouped by vendor, due date, or promissory note. This report is typically used by chief financial officers, financial controllers, accountants, accounting managers, and accounting supervisors to inquire into the status of promissory notes.

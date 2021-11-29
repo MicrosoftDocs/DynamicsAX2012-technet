@@ -13,6 +13,9 @@ f1_keywords:
 
 # mileage engine
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An engine that determines the mileage that freight will travel between its origin and destination points, and calculates the shipping rate for the freight accordingly.
 
 ## See also

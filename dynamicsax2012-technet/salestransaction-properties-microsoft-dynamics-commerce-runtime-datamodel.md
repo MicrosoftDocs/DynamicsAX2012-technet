@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesTransaction Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesTransaction](salestransaction-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

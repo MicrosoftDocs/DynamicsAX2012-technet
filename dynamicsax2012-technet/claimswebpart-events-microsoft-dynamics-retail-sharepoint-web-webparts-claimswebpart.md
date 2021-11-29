@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ClaimsWebPart Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ClaimsWebPart](claimswebpart-class-microsoft-dynamics-retail-sharepoint-web-webparts-claimswebpart.md) type exposes the following members.
 
 ## Events

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceRuntimeConfigDeploymentJob Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceRuntimeConfigDeploymentJob](commerceruntimeconfigdeploymentjob-class-microsoft-dynamics-retail-sp-commerceruntime.md) type exposes the following members.
 
 ## Properties

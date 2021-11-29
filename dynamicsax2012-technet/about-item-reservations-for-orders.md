@@ -21,6 +21,9 @@ ms.search.region: Global
 # About item reservations for orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Reservation** field in the **Accounts receivable parameters** form, you can select to reserve items automatically when you create a sales order line, or to reserve items manually on the individual order line.

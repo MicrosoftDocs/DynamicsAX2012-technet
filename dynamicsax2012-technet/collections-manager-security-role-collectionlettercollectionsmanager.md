@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Collections manager security role (CollectionLetterCollectionsManager) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Collections manager security role represents a user who reviews collections process performance and enables the collections process.

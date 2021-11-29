@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Vendor portal administrator security role (VendVendorPortalAdministrator) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Vendor portal administrator security role represents an external user who has a vendor relationship with legal entities. This user is responsible for maintaining information about external parties who use the vendor portal. This user can also grant access to the vendor portal to external parties.

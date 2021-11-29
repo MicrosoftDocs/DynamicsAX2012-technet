@@ -13,6 +13,9 @@ f1_keywords:
 
 # data event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The X++ event that is raised when a data value in a table changes.
 
 ## See also

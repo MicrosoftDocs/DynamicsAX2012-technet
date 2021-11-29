@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Checklist: Deploy an unsolicited vendor portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An unsolicited vendor portal enables vendor prospects to register with your company.

@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryLocationId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the inventory location identifier where the operation is taking place.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

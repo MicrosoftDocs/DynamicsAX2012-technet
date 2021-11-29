@@ -15,6 +15,9 @@ dev_langs:
 
 # PrintReceipt Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Print text on the POS printer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

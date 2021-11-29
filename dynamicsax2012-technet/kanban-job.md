@@ -13,6 +13,9 @@ f1_keywords:
 
 # kanban job
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A process or transfer activity in a production flow that is triggered by a kanban.
 
 ## See also

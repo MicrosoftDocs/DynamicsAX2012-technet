@@ -17,6 +17,9 @@ dev_langs:
 
 # IItemSystemV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 IItemSystem interface version 2.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

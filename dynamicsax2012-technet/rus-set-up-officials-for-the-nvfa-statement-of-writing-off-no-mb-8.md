@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up officials for the NVFA statement of writing-off (No. MB-8) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up the members and chairman of the commission that is responsible for the NVFA Statement of writing off (No. MB-8).

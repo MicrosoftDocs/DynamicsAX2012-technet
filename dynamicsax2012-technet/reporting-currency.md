@@ -13,6 +13,9 @@ f1_keywords:
 
 # reporting currency
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The monetary unit of measure used to record the converted monetary value of economic transactions in ledger accounts for financial and management reporting purposes.
 
 ## See also

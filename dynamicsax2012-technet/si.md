@@ -13,6 +13,9 @@ f1_keywords:
 
 # SI
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The international metric system of units of measurement.
 
 ## See also

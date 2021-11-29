@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CZE) Sales tax (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate a report that displays the sales tax transaction information from selected accounts within a specified time frame. You can also select to reconcile, on the report, the sales tax transactions and the main accounts based on the value-added tax (VAT) register date.

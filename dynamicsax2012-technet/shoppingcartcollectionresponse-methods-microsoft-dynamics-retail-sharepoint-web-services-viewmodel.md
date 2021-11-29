@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShoppingCartCollectionResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShoppingCartCollectionResponse](shoppingcartcollectionresponse-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Methods

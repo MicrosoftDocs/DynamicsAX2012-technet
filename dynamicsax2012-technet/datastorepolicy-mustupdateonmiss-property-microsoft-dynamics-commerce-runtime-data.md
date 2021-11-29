@@ -17,6 +17,9 @@ dev_langs:
 
 # MustUpdateOnMiss Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the data store must be updated if an entry is not found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Process sales with future delivery 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Brazil, a sale of items that uses anticipated invoicing occurs in two phases. In the first phase, you can create a fiscal document for the payment that is received, but there is no movement of inventory. In the second phase, you can generate inventory transactions and Imposto sobre Circulação de Mercadorias e Serviços (ICMS) tax transactions when the actual delivery of items occurs.

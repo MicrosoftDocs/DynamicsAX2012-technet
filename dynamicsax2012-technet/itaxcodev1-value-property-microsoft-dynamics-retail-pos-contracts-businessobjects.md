@@ -17,6 +17,9 @@ dev_langs:
 
 # Value Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The value/rate of the tax.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

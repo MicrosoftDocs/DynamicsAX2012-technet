@@ -13,6 +13,9 @@ f1_keywords:
 
 # gross margin
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The difference between the sales and the direct costs of the products sold.
 
 ## See also

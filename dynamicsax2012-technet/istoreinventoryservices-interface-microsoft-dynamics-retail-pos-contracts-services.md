@@ -17,6 +17,9 @@ dev_langs:
 
 # IStoreInventoryServices Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IStoreInventoryServices interface for store inventory services, which manage communication with HQ for stock count and purchase order receipt features.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

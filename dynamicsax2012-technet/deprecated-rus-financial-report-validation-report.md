@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (RUS) Financial report validation report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009, the **Financial report validation** report displays the results of validating a Russian GL report generator (RRG) report that is created by copying an existing report setup.

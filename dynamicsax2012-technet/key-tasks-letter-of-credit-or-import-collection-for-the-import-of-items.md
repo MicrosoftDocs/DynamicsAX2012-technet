@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Letter of credit or import collection for the import of items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the letter of credit parameters in the **General ledger**, **Accounts payable**, **Accounts receivable**, and **Cash and bank management** modules to set up and transact business functions, such as guaranteeing payments between a vendor and a buyer through a bank.

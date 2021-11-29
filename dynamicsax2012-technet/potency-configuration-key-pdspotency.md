@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Potency configuration key (PDSPotency) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The **Potency** configuration key controls access to the fields and functions that are used to set up and work with the potency of active ingredients in items. For more information, see [About potency management](about-potency-management.md).
 
 You can enable or disable this key in the **License configuration** form.

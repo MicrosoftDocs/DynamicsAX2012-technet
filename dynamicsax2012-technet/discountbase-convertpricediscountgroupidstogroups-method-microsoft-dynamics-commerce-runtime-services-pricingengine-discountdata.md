@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertPriceDiscountGroupIdsToGroups Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Translates price discount groups from record identifiers into the text identifiers for the groups.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

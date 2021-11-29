@@ -17,6 +17,9 @@ dev_langs:
 
 # IsPromoPeriodValid Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Computes the validity of a promotion period. If it's an advanced period, looks up the validation period by Id and tests it.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # (ITA) Withholding tax - yearly report (TaxWithholdYearlyReport\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Withholding tax - yearly** report is used to print the Italian yearly withholding tax report in the withholding tax currency, sorted by the vendor account and the withholding tax code. This report is used to inquire into the status of sales tax transactions. This report is typically used by collections managers, accounts receivable clerks, accounts receivable managers, accountants, accounting managers, accounting supervisors, sales clerks, sales managers, and accounts payable clerks.

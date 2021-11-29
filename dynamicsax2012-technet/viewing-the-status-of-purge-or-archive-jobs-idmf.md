@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Viewing the status of purge or archive jobs (IDMF) 
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 You can use the options on the Microsoft Dynamics AX IDMF **Status** menu to refresh the status of all currently running jobs and provide details for all currently running and completed jobs. On the toolbar, click **Status** to open the **Status** workspace.
 
 ## Navigation of the Status workspace

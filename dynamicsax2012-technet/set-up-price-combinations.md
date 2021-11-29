@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up price combinations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To determine the sales price of configured items, you can create price combinations for product models. Price combinations are the alternative to the standard BOM price calculation. Click **Product information management** \> **Setup** \> **Product builder** \> **Product builder parameters**.

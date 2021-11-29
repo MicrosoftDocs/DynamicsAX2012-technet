@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Add media and discounts to a campaign 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can publish discounts to online media, such as Facebook and Twitter, you must create a media type for the online media, and then add the media type and the discounts to the campaign.

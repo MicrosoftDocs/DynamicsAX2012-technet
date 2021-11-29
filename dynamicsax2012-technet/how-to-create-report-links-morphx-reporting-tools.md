@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create Report Links (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a report is displayed, some of the data fields can be secondary links. Secondary links are presented in orange and are underlined. You can right-click a secondary link, and then select from the context menu items that link to forms, other reports, or other kinds of Application Object Tree (AOT) objects. When a link is clicked, the value of the data field is sent to the form, which displays data related to that value.

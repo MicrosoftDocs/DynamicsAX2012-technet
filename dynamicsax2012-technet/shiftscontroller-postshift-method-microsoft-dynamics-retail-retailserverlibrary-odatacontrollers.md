@@ -17,6 +17,9 @@ dev_langs:
 
 # PostShift Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles POST requests that create new shift.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

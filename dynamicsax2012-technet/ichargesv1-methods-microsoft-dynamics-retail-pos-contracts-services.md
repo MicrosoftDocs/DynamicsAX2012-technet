@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IChargesV1 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IChargesV1](ichargesv1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Methods

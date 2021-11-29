@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets customer type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

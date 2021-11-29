@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # STSCustomClaimsProviderWebConfigDeactivationJob Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [STSCustomClaimsProviderWebConfigDeactivationJob](stscustomclaimsproviderwebconfigdeactivationjob-class-microsoft-dynamics-retail-sp-commonfeatures.md) type exposes the following members.
 
 ## Methods

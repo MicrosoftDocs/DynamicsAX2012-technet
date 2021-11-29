@@ -17,6 +17,9 @@ dev_langs:
 
 # VoidCardPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Voiding payment of a corporate card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

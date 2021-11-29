@@ -17,6 +17,9 @@ ms.search.region: Global
 # About database logs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Database logs** page to view and filter data from the database log, which is a list of who made changes to the database, and when the changes were made. The view is sorted by table name and shows a description of the record, type of change, created time, created date and time, user who created the record, current value, and previous value. You can select a range of dates for which to view information.

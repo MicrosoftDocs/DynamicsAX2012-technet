@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Set up financial statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up balance sheets, profit and loss statements, and statements of changes in shareholder equity in accordance with Japanese accounting standards. For more information, see, [About traditional financial statements](about-traditional-financial-statements.md).

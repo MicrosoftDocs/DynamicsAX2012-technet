@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up upload options for Synch Service messages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Commerce Data Exchange: Real-time Service is used by Commerce Data Exchange: Synch Service to upload status messages to Microsoft Dynamics AX. You control whether this upload occurs, and how often it occurs, by selecting a set of upload options for each Synch Service profile. For more information about how to set up a profile, see [Set up a profile for Synch Service](set-up-a-profile-for-synch-service.md).

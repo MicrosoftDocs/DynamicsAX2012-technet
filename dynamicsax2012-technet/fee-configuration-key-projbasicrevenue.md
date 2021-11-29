@@ -14,6 +14,9 @@ f1_keywords:
 # Fee configuration key (ProjBasicRevenue) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Fee** configuration key enables the ability to record fees in Time and material projects.

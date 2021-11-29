@@ -17,6 +17,9 @@ dev_langs:
 
 # OnActionExecuted Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prepares the response cache headers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

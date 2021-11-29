@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase request
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An economic event that generates requirements for products.
 
 ## See also

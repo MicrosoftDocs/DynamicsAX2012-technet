@@ -13,6 +13,9 @@ f1_keywords:
 
 # surrogate key
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A single attribute candidate key whose values are system-generated and that does not represent properties that identify objects in the real world.
 
 ## See also

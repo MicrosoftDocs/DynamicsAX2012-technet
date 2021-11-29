@@ -18,6 +18,9 @@ dev_langs:
 
 # DistrictName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The district name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

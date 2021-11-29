@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the Microsoft Dynamics AX client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX client is an interface to Microsoft Dynamics AX data and functionality. The topics in this section provide information about how to install a Microsoft Dynamics AX client.

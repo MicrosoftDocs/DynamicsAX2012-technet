@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitOfMeasure Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents unit of measure (e.g. Feet, pounds, pieces, etc).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

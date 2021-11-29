@@ -17,6 +17,9 @@ dev_langs:
 
 # IPosBatchStagingV3 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 PosBatch staging record interface version 3.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # BarcodeNotFound Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that barcode is not found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

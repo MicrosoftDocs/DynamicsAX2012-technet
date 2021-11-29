@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckAccessHasShiftServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Service request for checking whether the user has a shift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

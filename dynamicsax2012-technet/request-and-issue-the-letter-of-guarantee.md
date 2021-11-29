@@ -17,6 +17,9 @@ ms.search.region: Global
 # Request and issue the letter of guarantee 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create letter of guarantee requests from a sales quotation, sales order, project quotation, project, or purchase order. When a request is created, you must submit it to the bank for approval. When you receive the bank’s approval, you can issue the letter of guarantee to the beneficiary.

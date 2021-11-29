@@ -17,6 +17,9 @@ dev_langs:
 
 # ColumnIndex Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the index of the column.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

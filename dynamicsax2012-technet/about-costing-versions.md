@@ -21,6 +21,9 @@ ms.search.region: Global
 # About costing versions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A costing version can serve one or more purposes based on the data that is contained within the costing version. The primary purpose of a costing version is to contain cost records about items, cost categories, and indirect cost calculation formulas. A costing version can contain a set of standard cost records or a set of planned cost records that are based on the costing type that is assigned to the costing version.

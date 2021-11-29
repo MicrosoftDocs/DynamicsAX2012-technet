@@ -14,6 +14,9 @@ f1_keywords:
 # Report catalog for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Report Catalog for Microsoft Dynamics AX 2012 describes the Microsoft SQL Server Reporting Services reports that are provided with Microsoft Dynamics AX 2012.

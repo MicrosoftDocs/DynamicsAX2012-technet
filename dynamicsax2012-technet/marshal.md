@@ -13,6 +13,9 @@ f1_keywords:
 
 # marshal
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To package and send interface method parameters across thread or process boundaries.
 
 ## See also

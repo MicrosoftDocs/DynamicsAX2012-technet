@@ -17,6 +17,9 @@ dev_langs:
 
 # LoginWindowVisible Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggers when the login window appears.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

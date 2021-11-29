@@ -20,6 +20,9 @@ ms.search.region: Global
 # Register time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about making registrations in the **Time and attendance** module. Workers can make time and attendance registrations in a registration form or in the electronic timecard. Supervisors can create registrations for several workers at a time.

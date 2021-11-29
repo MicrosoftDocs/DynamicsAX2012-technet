@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Set up the CFOP codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create Código Fiscal de Operações e Prestações (CFOP) codes, or fiscal operation codes, by using the **CFOP codes** form. You can also define the default CFOP code for a transaction type or operation type by using the **CFOP matrix** form.

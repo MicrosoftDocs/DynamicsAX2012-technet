@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Extend the Commerce Data Exchange: Real-time Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can extend Commerce Data Exchange: Real-time Service by adding extension methods to the [RetailTransactionServiceEx](https://technet.microsoft.com/library/hh813763\(v=ax.60\)) class.

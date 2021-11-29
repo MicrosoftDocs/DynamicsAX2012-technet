@@ -13,6 +13,9 @@ f1_keywords:
 
 # tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A charge levied by a governing authority.
 
 ## See also

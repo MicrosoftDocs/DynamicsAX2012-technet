@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Model and model store cmdlets
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [Edit-AXModelManifest](edit-axmodelmanifest.md)
 
 [Export-AXModel](export-axmodel.md)

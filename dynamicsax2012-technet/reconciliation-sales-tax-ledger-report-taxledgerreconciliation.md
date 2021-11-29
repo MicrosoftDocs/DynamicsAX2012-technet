@@ -14,6 +14,9 @@ f1_keywords:
 # Reconciliation sales tax/ledger report (TaxLedgerReconciliation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Prepare a report that helps you reconcile the balances of sales tax and main accounts.

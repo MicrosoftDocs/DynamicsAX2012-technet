@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create or update a vendor status change request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use a vendor status change request to request a change to a vendor's hold status. A vendor's hold status determines whether purchase orders can be created for the vendor, whether the vendor invoice can be paid, and so on.

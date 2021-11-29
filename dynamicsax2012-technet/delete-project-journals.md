@@ -16,6 +16,9 @@ ms.search.region: Global
 # Delete project journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can delete project journals from which transactions have been posted. By deleting these project journals, you can help make more system resources available. Use the following procedures to delete project journals.

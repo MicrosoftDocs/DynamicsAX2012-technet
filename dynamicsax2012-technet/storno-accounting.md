@@ -13,6 +13,9 @@ f1_keywords:
 
 # Storno accounting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The practice of using negative numbers to reverse original journal account entries.
 
 ## See also

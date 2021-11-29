@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a self-service Retail deployment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes how the system administrator uses the Retail mass deployment toolkit to prepare a self-service installation of Retail components.
 
 In a self-service installation, the user at the store installs the Retail software at the store. The user doesn’t need knowledge of the IT infrastructure to complete the installation. The system administrator at headquarters creates an installation package that contains all the information that is needed for installation, and the user runs it.

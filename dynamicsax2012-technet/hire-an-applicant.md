@@ -19,6 +19,9 @@ ms.search.region: Global
 # Hire an applicant 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Applications** list page to hire an applicant who submitted an application for employment. When you hire an applicant, a worker record for the applicant is created automatically from some of the applicant’s information.

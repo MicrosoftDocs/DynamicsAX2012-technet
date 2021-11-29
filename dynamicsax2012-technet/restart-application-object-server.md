@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Restart Application Object Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Upgrades and updates require restarting the Application Object Server (AOS) at various times. If you are running multiple AOS instances, you may need to restart all of them.

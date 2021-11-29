@@ -17,6 +17,9 @@ dev_langs:
 
 # TryGetOfflineDatabaseChunk Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tries to get the offline database chunk. A return value indicates whether the operation succeeded or failed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

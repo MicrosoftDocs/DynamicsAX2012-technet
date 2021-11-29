@@ -14,6 +14,9 @@ f1_keywords:
 
 # actual cost
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The definite cost incurred in the performance of an activity.
 
 ## See also

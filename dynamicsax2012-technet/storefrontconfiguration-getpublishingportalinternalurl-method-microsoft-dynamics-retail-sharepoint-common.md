@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPublishingPortalInternalUrl Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the internal url of the publishing portal site.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

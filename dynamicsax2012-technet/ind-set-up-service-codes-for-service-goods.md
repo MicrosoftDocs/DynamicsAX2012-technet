@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Set up service codes for service goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 You can use the **Service codes** form to create service codes for services that are provided by an output service provider. You can also attach service codes to items that have a **Service** type to calculate the service tax.

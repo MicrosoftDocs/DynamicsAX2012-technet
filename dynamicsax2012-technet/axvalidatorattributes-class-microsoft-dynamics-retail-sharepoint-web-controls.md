@@ -18,6 +18,9 @@ dev_langs:
 
 # AXValidatorAttributes Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reserved element attribute names userd for client side validation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

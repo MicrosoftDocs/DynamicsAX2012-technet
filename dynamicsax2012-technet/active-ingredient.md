@@ -14,6 +14,9 @@ f1_keywords:
 
 # active ingredient
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An ingredient in a formula that has a specified concentration and potency.
 
 ## See also

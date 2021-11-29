@@ -17,6 +17,9 @@ dev_langs:
 
 # Execute Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the job definition on the local machine and is intended to be used only by the timer service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommerceRuntime](microsoft-dynamics-retail-sp-commerceruntime-namespace.md)  

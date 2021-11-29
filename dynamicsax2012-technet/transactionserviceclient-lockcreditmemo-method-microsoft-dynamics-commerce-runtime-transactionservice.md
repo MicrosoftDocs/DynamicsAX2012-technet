@@ -17,6 +17,9 @@ dev_langs:
 
 # LockCreditMemo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reserves the credit memo so it cannot be used from different terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

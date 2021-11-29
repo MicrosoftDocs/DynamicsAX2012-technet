@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a depreciation profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Depreciation profiles** form to create and modify depreciation profiles, which are calculations that are used to depreciate the value of fixed assets over intervals of time.

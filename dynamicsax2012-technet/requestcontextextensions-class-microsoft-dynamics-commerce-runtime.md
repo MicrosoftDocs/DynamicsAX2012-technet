@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestContextExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides a mechanism to access most commonly used parameters stored on [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

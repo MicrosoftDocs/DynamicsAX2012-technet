@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up bar code masks (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up bar code masks for bar codes. Bar code masks are templates that you use to create and verify bar codes, and to reduce bar code errors. You can set up masks for both standard bar codes and custom bar codes, which are also referred to as in-house bar codes. Bar code masks consist of an optional prefix and one or more segments.

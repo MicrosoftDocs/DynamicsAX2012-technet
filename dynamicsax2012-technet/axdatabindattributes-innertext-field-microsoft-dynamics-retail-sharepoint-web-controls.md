@@ -18,6 +18,9 @@ dev_langs:
 
 # InnerText Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The template element attribute "msax-innertext" which binds the inner text of the element with data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

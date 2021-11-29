@@ -17,6 +17,9 @@ dev_langs:
 
 # ShippingService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Shipping Service Implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

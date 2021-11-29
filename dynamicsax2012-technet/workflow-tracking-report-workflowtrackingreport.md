@@ -14,6 +14,9 @@ f1_keywords:
 # Workflow tracking report (WorkflowTrackingReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Workflow tracking** report shows the status of workflow instances. You can filter this report to show status information for workflow instances of a specific type, a specific workflow, or in a particular date range.

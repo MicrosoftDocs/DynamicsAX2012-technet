@@ -22,6 +22,9 @@ ms.search.region: Global
 # Add and maintain discussions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Discussions** page to view a list of discussions and to schedule, modify, or delete discussions. Discussions are meetings or discussions within your organization, such as performance reviews, mentorship meetings, or job coaching meetings that you want to keep records of.

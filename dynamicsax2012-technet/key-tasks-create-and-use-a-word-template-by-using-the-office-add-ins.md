@@ -23,6 +23,9 @@ ms.search.region: Global
 # Key tasks: Create and use a Word template by using the Office Add-ins 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the Office Add-ins for Microsoft Dynamics AX to export information from Microsoft Dynamics AX to Microsoft Word. If your organization uses the Office Add-ins, a tab for Microsoft Dynamics AX is added to the ribbon in Word.

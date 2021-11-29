@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set a preferred time zone 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set a time zone for times and dates. Your preferred time zone is first set according to your Windows locale, although it may have been changed by an administrator.

@@ -35,6 +35,9 @@ ms.search.region: Japan
 # (JPN) Apply reduction entry and depreciate fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you set up a reduction entry for fixed assets, you can apply reduction entry to a fixed asset that is eligible for government subsidy. You can use the direct-off method to set up Microsoft Dynamics AX 2012 R2 to deduct the government subsidy amount directly from the acquisition cost of the fixed asset. Alternatively, you can use the reserve method to maintain the government subsidy as a separate value on the equity side of the balance sheet. The government subsidy amount does not affect the net book value of the fixed asset. For more information, see [(JPN) Reduction entry for fixed assets](jpn-reduction-entry-for-fixed-assets.md).

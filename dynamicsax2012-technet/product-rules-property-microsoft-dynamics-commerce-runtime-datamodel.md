@@ -17,6 +17,9 @@ dev_langs:
 
 # Rules Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the object representing the rules governing the behavior of this product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

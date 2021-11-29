@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Periodic settlements for customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can settle customer payments by using the settlement priority that is defined for transaction types. The priority for the transaction types is defined in the **Settlement priority** form. Settlement priority ensures that the periodic settlement of customer transactions is based on a financial dimension or agreement. For example, you can settle multiple customer invoices that have the same agreement.

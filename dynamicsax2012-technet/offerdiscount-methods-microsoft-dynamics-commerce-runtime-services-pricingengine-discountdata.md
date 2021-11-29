@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OfferDiscount Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OfferDiscount](offerdiscount-class-microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata.md) type exposes the following members.
 
 ## Methods

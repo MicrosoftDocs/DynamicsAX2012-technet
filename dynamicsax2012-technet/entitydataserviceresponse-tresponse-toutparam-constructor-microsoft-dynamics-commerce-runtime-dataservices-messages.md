@@ -17,6 +17,9 @@ dev_langs:
 
 # EntityDataServiceResponse(TResponse, TOutParam) Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [EntityDataServiceResponse\<TResponse, TOutParam\>](entitydataserviceresponse-tresponse-toutparam-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

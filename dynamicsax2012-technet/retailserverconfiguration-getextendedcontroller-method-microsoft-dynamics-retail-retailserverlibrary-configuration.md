@@ -17,6 +17,9 @@ dev_langs:
 
 # GetExtendedController Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the extended controller by name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration](microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md)  

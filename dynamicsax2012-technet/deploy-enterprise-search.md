@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy Enterprise Search 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 uses the Enterprise Search feature that is provided by SharePoint. Administrators install Enterprise Search by using Setup. After installation, administrators use the Enterprise Search Configuration Wizard to register the Microsoft Dynamics AX data in databases, services, and Web services with the Microsoft SharePoint Business Data Connectivity Service (BCS).

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Update quantity on purchase orders and sales orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to allocate a quantity to be updated with a packing slip or a product receipt on a sales order or a purchase order.

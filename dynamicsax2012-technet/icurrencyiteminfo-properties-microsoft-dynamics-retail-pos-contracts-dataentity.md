@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICurrencyItemInfo Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICurrencyItemInfo](icurrencyiteminfo-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

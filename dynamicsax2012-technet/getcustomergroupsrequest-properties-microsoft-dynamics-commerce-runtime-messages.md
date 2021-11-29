@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCustomerGroupsRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCustomerGroupsRequest](getcustomergroupsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

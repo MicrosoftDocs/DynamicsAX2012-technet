@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetAddressFormattingServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetAddressFormattingServiceRequest](getaddressformattingservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

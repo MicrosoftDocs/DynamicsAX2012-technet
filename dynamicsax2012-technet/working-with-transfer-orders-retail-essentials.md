@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with transfer orders (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up a transfer order. You can use transfer orders to handle items that are in transit between retail stores that are in the same company but different geographical sites. You can manage transfer orders from the **Transfer orders** form.

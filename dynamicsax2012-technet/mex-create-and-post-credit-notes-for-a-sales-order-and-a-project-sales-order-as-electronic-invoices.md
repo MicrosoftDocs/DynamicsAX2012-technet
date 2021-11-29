@@ -21,6 +21,9 @@ ms.search.region: Mexico
 # (MEX) Create and post credit notes for a sales order and a project sales order as electronic invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Create credit note** and **Posting invoice** forms to create and post a credit note for a sales order or a project sales order as an electronic invoice. You can create and post a credit note only for an invoiced sales order. For more information, see [Sales posting (form)](https://technet.microsoft.com/library/aa550287\(v=ax.60\)).

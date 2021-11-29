@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidPipelineConfiguration Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the runtime pipeline has not been configured correctly. This is usually a code customization problem.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # DescriptionColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Description column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

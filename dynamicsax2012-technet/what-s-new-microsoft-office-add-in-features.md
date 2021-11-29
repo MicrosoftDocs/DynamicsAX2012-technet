@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Microsoft Office Add-in features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 We have changed and added functionality to the Office Add-ins for Microsoft Dynamics AX feature area for Microsoft Dynamics AX 2012. For more information, see the table that applies to your version of the product.

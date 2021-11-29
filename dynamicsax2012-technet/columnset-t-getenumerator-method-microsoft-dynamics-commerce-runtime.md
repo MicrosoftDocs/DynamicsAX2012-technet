@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEnumerator Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns an enumerator that iterates through the collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

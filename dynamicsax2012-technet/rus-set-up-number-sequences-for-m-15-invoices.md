@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up number sequences for M-15 invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Accounts receivable parameters** form to set up number sequences for sales invoices and corrective invoices that are posted in the M-15 format.

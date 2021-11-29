@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a customs journal line 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Create customs journal lines** form to create a journal line for a customs journal. You can create journal lines for transactions that have the following sources:

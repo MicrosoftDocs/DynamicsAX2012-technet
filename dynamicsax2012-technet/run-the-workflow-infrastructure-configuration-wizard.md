@@ -17,6 +17,9 @@ ms.search.region: Global
 # Run the Workflow infrastructure configuration wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Run the **Workflow infrastructure configuration wizard** to specify how often workflow batch jobs should run. For more information about the workflow batch jobs, see [Workflow system architecture](workflow-system-architecture.md).

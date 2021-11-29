@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateVariantHash Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the hash of a given variant.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

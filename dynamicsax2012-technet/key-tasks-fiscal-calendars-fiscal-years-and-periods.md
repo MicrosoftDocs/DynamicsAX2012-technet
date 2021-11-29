@@ -24,6 +24,9 @@ ms.search.region: Global
 # Key tasks: Fiscal calendars, fiscal years, and periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Fiscal calendars contain fiscal years, and fiscal years contain periods. A fiscal calendar is a grouping of one or more fiscal years that is used for financial activity. You can create fiscal calendars that are independent of your legal entity and that can be selected and shared by multiple legal entities. You can use the **Fiscal calendars** form to create and delete fiscal calendars and fiscal years. You can also create and change the periods that are part of a fiscal year.

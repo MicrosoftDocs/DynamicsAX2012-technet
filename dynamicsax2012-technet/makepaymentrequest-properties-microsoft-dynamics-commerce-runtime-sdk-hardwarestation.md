@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MakePaymentRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MakePaymentRequest](makepaymentrequest-class-microsoft-dynamics-commerce-runtime-sdk-hardwarestation.md) type exposes the following members.
 
 ## Properties

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up global address book parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you begin to work with the global address book or another address book in Microsoft Dynamics AX, you must set default values for your address books in the **Global address book parameters** form.

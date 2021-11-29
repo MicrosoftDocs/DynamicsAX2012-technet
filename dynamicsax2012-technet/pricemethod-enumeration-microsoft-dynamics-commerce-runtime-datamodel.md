@@ -21,6 +21,9 @@ dev_langs:
 
 # PriceMethod Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines meaning of the value on a PriceLine.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

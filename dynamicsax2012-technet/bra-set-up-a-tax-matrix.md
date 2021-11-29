@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Set up a tax matrix 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up the sales tax group and item sales tax group that are used in sales, purchase, or inventory movement transactions. The tax groups for sales, purchase, or inventory transactions are determined based on the combination of the Código fiscal de operações e prestações (CFOP ) group, item, item group, customer, customer group, vendor, vendor group, fiscal establishment, or fiscal establishment group.

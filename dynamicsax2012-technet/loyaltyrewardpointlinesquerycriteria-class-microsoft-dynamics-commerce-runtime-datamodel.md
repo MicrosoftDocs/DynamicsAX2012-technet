@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyRewardPointLinesQueryCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents criteria for querying loyalty reward point lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

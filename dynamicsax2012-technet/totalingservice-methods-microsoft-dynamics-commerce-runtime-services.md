@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TotalingService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TotalingService](totalingservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Methods

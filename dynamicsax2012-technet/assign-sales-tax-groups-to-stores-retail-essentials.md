@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Assign sales tax groups to stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to assign a sales tax group to a retail store. Sales tax groups determine the sales tax and duty calculation for customers, vendors, and ledger accounts. You must set up a sales tax group for each store.

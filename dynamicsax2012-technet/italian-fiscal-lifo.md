@@ -16,6 +16,9 @@ ms.search.region: Global
 # Italian fiscal LIFO 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of the Italian fiscal LIFO section of the **Inventory management** module.

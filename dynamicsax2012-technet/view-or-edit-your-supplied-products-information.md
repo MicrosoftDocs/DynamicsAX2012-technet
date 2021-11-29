@@ -18,6 +18,9 @@ ms.search.region: Global
 # View or edit your supplied products information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Released products** page to view information about the items for which you are the primary vendor for this company. You can also use the **Edit external description** page to modify the external description for the item, which is an alternate item number and description. You might want to do this if you use a different item numbering system and you want to more easily recognize your items in Enterprise Portal.

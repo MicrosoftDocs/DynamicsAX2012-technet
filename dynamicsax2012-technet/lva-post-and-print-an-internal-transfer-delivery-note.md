@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Post and print an internal transfer delivery note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Transfer delivery note** form to print a transfer delivery note.

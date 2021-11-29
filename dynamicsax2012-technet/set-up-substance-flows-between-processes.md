@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up substance flows between processes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a substance flow between a source process and a destination process. You can also specify the substances or substance categories that flow between the two processes. You can reference more than one substance, substance category, and destination process from a single source process. Enter each reference on a separate budget line in the form.

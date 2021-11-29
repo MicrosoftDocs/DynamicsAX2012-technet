@@ -13,6 +13,9 @@ f1_keywords:
 
 # privilege
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 One or more permissions a user requires to perform a task.
 
 ## See also

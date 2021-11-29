@@ -32,6 +32,9 @@ ms.search.region: Global
 # Create a reply to a request for quotation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you send an RFQ, a reply sheet is automatically created. Typically vendors reply to a request for quotation (RFQ) in the Vendor portal, but if they use another method, such as postal mail, you can use the following procedures to transfer that information to the RFQ reply sheet.

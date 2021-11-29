@@ -16,6 +16,9 @@ ms.search.region: Denmark, France
 # Set up advanced ledger entries (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your organization is in the public sector, you can use advanced ledger entries to create, adjust, and reverse ledger entries. For example, you could use advanced ledger entries to reclassify expenditures if invoices had been mistakenly posted to the wrong account or project.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About synchronizing project information between Microsoft Dynamics AX and Microsoft Dynamics CRM 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To help your project teams and sales teams create and process project quotations more efficiently, you can synchronize data between Microsoft Dynamics AX and Microsoft Dynamics CRM. Data that is entered or updated in one program is automatically changed in the other. You set up this synchronization by installing the Integration Solution for Microsoft Dynamics AX projects and Microsoft Dynamics CRM.

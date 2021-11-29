@@ -14,6 +14,9 @@ ms.search.region: Global
 # Select invoices to pay on behalf of multiple legal entities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In organizations that use centralized payment processing, each operating legal entity manages its own invoices payable information and payments to vendors are generated from a single legal entity, which is referred to as the legal entity of the payment. Use this procedure to select invoices to pay. For more information, see [Key tasks: Vendor payments and settlements](key-tasks-vendor-payments-and-settlements.md).

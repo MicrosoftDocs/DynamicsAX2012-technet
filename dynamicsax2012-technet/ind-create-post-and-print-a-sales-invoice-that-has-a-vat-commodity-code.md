@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create, post, and print a sales invoice that has a VAT commodity code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create a sales order, you can assign commodity codes for value-added tax (VAT) to the items on each sales line. You can also print the VAT commodity code on a sales invoice that has been posted.

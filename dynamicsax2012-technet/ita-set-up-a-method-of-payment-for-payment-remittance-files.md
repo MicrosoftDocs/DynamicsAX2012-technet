@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Set up a method of payment for payment remittance files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can generate a vendor payment remittance file, you must first specify the Italian validation method for bank accounts and then set up the **Pagamento Fornitori IT** export file format for the method of payment to the vendor.

@@ -15,6 +15,9 @@ dev_langs:
 
 # ToString Method (MemoryStream)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts a memory stream to its string representation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

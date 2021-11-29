@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Cube and KPI reference for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The cube and KPI reference provides information about the default online analytical processing (OLAP) cubes that are included with Microsoft Dynamics AX. Select the version of Microsoft Dynamics AX that you are using to view more information about the cubes.

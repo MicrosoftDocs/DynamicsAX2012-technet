@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSuspendedCarts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the carts in suspended state.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

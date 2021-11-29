@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemAvailabilitiesByItemQuantitiesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response containing the item availabilities retrieved by item quantities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

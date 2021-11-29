@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About setting up retail stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes the main steps to set up a retail store in Microsoft Dynamics AX. The steps are grouped in three sections and include links to more information:

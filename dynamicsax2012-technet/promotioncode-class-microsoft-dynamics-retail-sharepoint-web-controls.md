@@ -17,6 +17,9 @@ dev_langs:
 
 # PromotionCode Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The promotion code control allows entering of a promotion or coupon code and applying it to the order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

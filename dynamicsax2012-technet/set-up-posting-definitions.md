@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up posting definitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Posting definitions are used to define ledger line entries that are generated when a match exists between an originating transaction and the match criteria that you specify.

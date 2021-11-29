@@ -15,6 +15,9 @@ dev_langs:
 
 # SqlQuery Constructor (String, Object[])
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [SqlQuery](sqlquery-class-microsoft-dynamics-commerce-runtime-data.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

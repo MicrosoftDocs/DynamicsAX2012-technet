@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure SQL Server for the Retail databases 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic provides guidance about how to set up Microsoft SQL Server in a Retail implementation.

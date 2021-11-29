@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelManagementTransactionService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Channel real time service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

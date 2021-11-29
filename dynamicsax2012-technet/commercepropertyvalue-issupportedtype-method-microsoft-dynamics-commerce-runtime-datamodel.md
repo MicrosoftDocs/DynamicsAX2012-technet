@@ -17,6 +17,9 @@ dev_langs:
 
 # IsSupportedType Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if the type is supported.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

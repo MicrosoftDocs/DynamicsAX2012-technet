@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Show transaction on the dual display.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

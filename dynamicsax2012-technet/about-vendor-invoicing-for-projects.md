@@ -18,6 +18,9 @@ ms.search.region: Global
 # About vendor invoicing for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you order an item from a vendor and assign the item to a project, the line property that you select for a purchase order line for an item determines whether the purchased item is invoiced to a customer. If you set up default line properties in the **Line properties** form, the default line properties are displayed for the item on the purchase order line. You can modify the line property in one of the following ways:

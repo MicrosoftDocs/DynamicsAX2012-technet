@@ -13,6 +13,9 @@ f1_keywords:
 
 # Harmonised Sales Tax
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A value-added tax (VAT) levied in some Canadian provinces that combines the Goods and Services Tax (GST) and the provisional sales tax.
 
 ## See also

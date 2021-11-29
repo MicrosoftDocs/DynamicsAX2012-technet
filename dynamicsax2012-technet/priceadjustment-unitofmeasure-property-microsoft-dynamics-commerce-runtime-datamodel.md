@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitOfMeasure Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the unit of measure of the price adjustment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

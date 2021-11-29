@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceAuthorizationAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CommerceAuthorizationAttribute specifies the commerce authorization filter that verifies the user request's [IPrincipal](https://technet.microsoft.com/library/f8kt7fb8\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

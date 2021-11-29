@@ -30,6 +30,9 @@ ms.search.region: Global
 # About billing rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topic describes the different types of billing rules that you can set up to complete the invoicing process for a project. When you negotiate a project contract with a customer, you define how and when you can invoice the customer for work on a project. In Microsoft Dynamics AX 2012, after you set up the project contract and the project, you can set up billing rules for the project. When you are ready to invoice the customer, the amount to invoice for the project is calculated based on the billing rules, and a project invoice proposal is generated.

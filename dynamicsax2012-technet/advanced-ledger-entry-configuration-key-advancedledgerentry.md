@@ -17,6 +17,9 @@ f1_keywords:
 # Advanced ledger entry configuration key (AdvancedLedgerEntry) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Advanced ledger entry** configuration key controls access to advanced ledger entry forms and functions in **General ledger**. When this configuration key is enabled, you can create, view, adjust, and reverse ledger entries.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # planned production order
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents production requirements generated from a production plan.
 
 ## See also

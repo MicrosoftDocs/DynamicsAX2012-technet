@@ -15,6 +15,9 @@ dev_langs:
 
 # Contains Method (T)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns whether an element is contained in the collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ShipmentPublishingStatuses Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shipment statuses to be created or updated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Merge EPCG licenses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can merge two or more Export Promotion Capital Goods (EPCG) licenses into a single license. After you merge the licenses in Microsoft Dynamics AX, you can apply to the Directorate General of Foreign Trade (DGFT) for approval to merge the licenses.

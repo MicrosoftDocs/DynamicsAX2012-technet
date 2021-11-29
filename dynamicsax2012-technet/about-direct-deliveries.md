@@ -22,6 +22,9 @@ ms.search.region: Global
 # About direct deliveries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create deliveries for items that are sent directly to your customer from the vendor. This type of delivery saves delivery time and inventory carrying costs, because you do not hold the products in your warehouse before you ship them to the customer.

@@ -25,6 +25,9 @@ ms.search.region: Netherlands
 # (NLD) Set up parameters to calculate collection fees for a collection agency 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to enable the collection of overdue payments through a collection agency and how to define the criteria that are used to calculate collection fees.

@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberSequenceSeedDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Data manager for number sequence seed data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

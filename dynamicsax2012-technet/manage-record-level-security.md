@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Manage record level security 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Record-level security builds on the restrictions enforced by role-based security. By using role-based security, you restrict the menus, forms, and reports that role members can access. By using record level security to set restrictions on specific records or tables in the database, you can restrict the data that is shown in reports and on forms.

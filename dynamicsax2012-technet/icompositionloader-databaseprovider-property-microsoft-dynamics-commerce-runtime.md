@@ -17,6 +17,9 @@ dev_langs:
 
 # DatabaseProvider Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the database provider instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

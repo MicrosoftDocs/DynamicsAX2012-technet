@@ -15,6 +15,9 @@ ms.search.region: Global
 # About approved vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You may often purchase materials and services from certain vendors on a recurring basis. For example, if you use a particular product in several of your formulas, you may purchase the product weekly from one or more preferred vendors. To speed up transactions that include this product, you can authorize one or more vendors to supply the product by setting them up as approved vendors.

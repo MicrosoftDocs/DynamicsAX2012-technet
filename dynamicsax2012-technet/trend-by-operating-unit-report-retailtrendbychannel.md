@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Trend by operating unit report (RetailTrendByChannel) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to view and compare the sales trends for selected retail channels for a selected period of time.

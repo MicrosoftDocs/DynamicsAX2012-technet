@@ -17,6 +17,9 @@ dev_langs:
 
 # TrackingInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains carrier specific tracking details of shipment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

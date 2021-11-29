@@ -17,6 +17,9 @@ dev_langs:
 
 # BackofficeSalesOrderUnitOfMeasureName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 //The item unit name that comes from the InventTableModule
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

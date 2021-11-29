@@ -17,6 +17,9 @@ dev_langs:
 
 # GetStoreOperationResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response to store operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

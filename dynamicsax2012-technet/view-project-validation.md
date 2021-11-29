@@ -24,6 +24,9 @@ ms.search.region: Global
 # View project validation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Validation in Microsoft Dynamics AX projects means creating associations among workers, projects, and categories for access control. For instance, you can create associations between a group of workers and a particular project, and between that project and certain categories. This ensures that only the workers in that group enter hours for the project, and that they enter hours that are associated with only those categories that you assigned to it.

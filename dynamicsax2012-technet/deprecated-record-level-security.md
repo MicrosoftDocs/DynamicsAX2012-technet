@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Record-level security 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Record-level security (RLS) builds on the restrictions that are enforced by user group permissions. User group permissions let you restrict the menus, forms, and reports that members of a group can access. RLS lets you restrict the information that is shown on reports and in forms.

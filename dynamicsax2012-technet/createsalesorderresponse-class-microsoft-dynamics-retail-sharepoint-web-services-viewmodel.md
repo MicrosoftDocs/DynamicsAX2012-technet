@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateSalesOrderResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sales Order response class for creation of a new order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

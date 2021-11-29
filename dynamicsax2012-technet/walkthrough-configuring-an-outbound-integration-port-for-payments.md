@@ -15,6 +15,9 @@ f1_keywords:
 # Walkthrough: Configuring an outbound integration port for payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX, you can use a service to create electronic payment files. Before you can use the service, you must configure an outbound integration port. This topic describes how to set up an outbound integration port for payments that use Application Integration Framework (AIF) and Single Euro Payments Area (SEPA) Credit Transfer. **SEPACreditTransfer** is one of the payment format XSL transforms that is available. This topic assumes that you are familiar with AIF in Microsoft Dynamics AX 2012. For background information about AIF, see [Services and Application Integration Framework (AIF)](https://go.microsoft.com/fwlink/?linkid=216851).

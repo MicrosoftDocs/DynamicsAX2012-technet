@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up a sales tax on a sales tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can calculate sales tax as a percentage of another sales tax amount. This is called sales tax on sales tax.

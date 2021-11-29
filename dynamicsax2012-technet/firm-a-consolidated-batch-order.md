@@ -19,6 +19,9 @@ ms.search.region: Global
 # Firm a consolidated batch order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to firm a consolidated batch order. A consolidated order is a grouping of batch orders. A consolidated order can contain one or multiple packed item batch orders and one or multiple bulk item batch orders. All batch orders that are associated with the consolidated order either produce or consume the same bulk item.

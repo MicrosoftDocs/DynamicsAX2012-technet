@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Create a customer advance invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An advance invoice is a document that you can create for a customer. The advance invoice states the amount that must be prepaid on a sales order. Usually, the prepayment must be made before the order is processed. The advance invoice is not an accounting document or a tax document, but is used only as the basis for prepayments.

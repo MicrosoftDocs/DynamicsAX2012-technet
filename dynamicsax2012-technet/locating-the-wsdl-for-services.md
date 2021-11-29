@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Locating the WSDL for Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic illustrates how to view the Web Services Definition Language (WSDL) file for services.

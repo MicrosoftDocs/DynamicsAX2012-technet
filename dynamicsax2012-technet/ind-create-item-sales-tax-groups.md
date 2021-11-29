@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create item sales tax groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A combination of sales tax groups and item sales tax groups are required to calculate sales tax on a sale or purchase order. The item sales tax group includes all the sales tax codes that apply when you sell a specific item. Complete the following procedures to create item sales tax groups and use the formula designer to set up sales tax calculations for item sales tax groups.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OrderWorkflowErrors Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OrderWorkflowErrors](orderworkflowerrors-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Fields

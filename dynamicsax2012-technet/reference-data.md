@@ -13,6 +13,9 @@ f1_keywords:
 
 # reference data
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Named entities that have no describing properties or numeric values.
 
 ## See also

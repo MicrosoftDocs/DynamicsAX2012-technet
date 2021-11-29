@@ -17,6 +17,9 @@ dev_langs:
 
 # OnBeginRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invoked when a request is submitted to the handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition](microsoft-dynamics-commerce-runtime-workflow-composition-namespace.md)  

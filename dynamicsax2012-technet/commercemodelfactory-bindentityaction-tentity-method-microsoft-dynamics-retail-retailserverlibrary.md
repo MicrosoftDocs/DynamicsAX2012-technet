@@ -17,6 +17,9 @@ dev_langs:
 
 # BindEntityAction(TEntity) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Binds entity action of the model.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

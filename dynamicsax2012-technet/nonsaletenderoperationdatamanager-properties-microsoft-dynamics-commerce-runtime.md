@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # NonSaleTenderOperationDataManager Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [NonSaleTenderOperationDataManager](nonsaletenderoperationdatamanager-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Properties

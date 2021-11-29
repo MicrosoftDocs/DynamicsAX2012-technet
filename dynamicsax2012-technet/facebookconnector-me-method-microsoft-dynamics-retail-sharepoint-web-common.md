@@ -17,6 +17,9 @@ dev_langs:
 
 # Me Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get current Facebook user info.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

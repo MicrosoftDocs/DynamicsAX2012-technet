@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up a ledger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you create a legal entity, you must create a ledger for that legal entity. You can have only one ledger for each legal entity. You can use information that has already been set up for other legal entities, such as charts of accounts, account structures, fiscal calendars, and currencies, or you can set up new information.

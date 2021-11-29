@@ -17,6 +17,9 @@ dev_langs:
 
 # CopyTo Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Copies the elements of dictionary to the array starting at particular index.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

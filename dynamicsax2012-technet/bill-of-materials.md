@@ -13,6 +13,9 @@ f1_keywords:
 
 # bill of materials
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A list of products and their quantities that are required to produce one product.
 
 ## See also

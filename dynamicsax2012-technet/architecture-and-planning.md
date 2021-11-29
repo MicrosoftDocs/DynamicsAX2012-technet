@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Architecture and planning 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you understand the architecture of Microsoft Dynamics AX, you can better plan, customize, and deploy, the Microsoft Dynamics AX system. The topics in this section provide an overview of the Microsoft Dynamics AX system and its base components.

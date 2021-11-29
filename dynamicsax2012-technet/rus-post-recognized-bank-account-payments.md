@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Post recognized bank account payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Imported bank statement** form to post recognized payments for bank accounts. Recognized payments are payments that match a transaction in an invoice. The payments are imported, and the recognized payments are posted.

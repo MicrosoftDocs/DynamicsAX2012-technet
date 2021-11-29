@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) View and manually change the status of an invoice for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can change the status of an invoice manually in the **Invoice journal** form. The status of the invoice determines if it is included in the **Invoice registration journal**.

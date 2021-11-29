@@ -17,6 +17,9 @@ dev_langs:
 
 # GetBarcodeTypeServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetBarcodeTypeServiceRequest request object to get the barcode type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

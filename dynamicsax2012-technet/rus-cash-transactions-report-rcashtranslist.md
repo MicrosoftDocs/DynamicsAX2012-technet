@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Cash transactions report (RCashTransList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Cash transactions report displays the transactions that are made using petty cash accounts. Accountants generate this report to review petty cash account transactions to reconcile cash flow.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # year-end closing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting process that occurs at the end of the fiscal year and is used to transfer the balances of the temporary owners’ equity accounts to the permanent owners’ equity account, to carry forward closing account balances from one accounting period to opening account balances in the subsequent accounting period, and to generate financial statements.
 
 ## See also

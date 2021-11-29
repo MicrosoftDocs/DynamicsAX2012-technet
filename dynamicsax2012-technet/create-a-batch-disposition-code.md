@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a batch disposition code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a batch disposition code. You use batch disposition codes with inventory batches to indicate whether a batch is available to be reserved, picked, and shipped. You also use them for master planning.

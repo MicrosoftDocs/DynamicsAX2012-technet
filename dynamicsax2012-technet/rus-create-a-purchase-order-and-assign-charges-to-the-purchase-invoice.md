@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a purchase order and assign charges to the purchase invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create a purchase order and assign charges to the purchase invoice. When you post the purchase invoice, the miscellaneous charges are added to the inventory value.

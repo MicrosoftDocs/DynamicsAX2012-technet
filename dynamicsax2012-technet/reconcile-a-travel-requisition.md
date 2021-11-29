@@ -14,6 +14,9 @@ ms.search.region: Global
 # Reconcile a travel requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you submit a travel requisition for a business expense and the requisition is approved, after you have incurred the expense you must reconcile your approved travel requisition before submitting your expense report. You can reconcile your travel requisition when you enter information in your expense report.

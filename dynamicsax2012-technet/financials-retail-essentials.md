@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Financials (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about working with the financial functionality of Retail essentials. This functionality includes the following:

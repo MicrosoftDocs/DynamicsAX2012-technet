@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesTransactionDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesTransactionDataRequestHandler](salestransactiondatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver-dataservices.md) type exposes the following members.
 
 ## Methods

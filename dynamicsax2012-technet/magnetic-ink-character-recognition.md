@@ -13,6 +13,9 @@ f1_keywords:
 
 # magnetic ink character recognition
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A character recognition system for reading and processing data that uses special inks and characters.
 
 ## See also

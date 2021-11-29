@@ -17,6 +17,9 @@ dev_langs:
 
 # ShowCheckoutButtonInPopup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets whether to show the Shopping Cart LInk in the Popup.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

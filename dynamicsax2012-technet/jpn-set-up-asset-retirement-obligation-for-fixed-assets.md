@@ -28,6 +28,9 @@ ms.search.region: Japan
 # (JPN) Set up asset retirement obligation for fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Asset retirement obligation (ARO) is used to estimate the costs that are related to the future disposal of an asset. ARO is initially recognized as a liability when you acquire or construct a fixed asset. This liability is equal to the present value of the estimated retirement cost for the asset at the beginning of its service life. The estimated retirement cost can change over the course of the asset’s service life based on market discount rates. To accommodate these changes in the liability, you can post retirement costs for the asset as installments at regular intervals of its service life instead of posting the initially recognized liability when you retire the asset.

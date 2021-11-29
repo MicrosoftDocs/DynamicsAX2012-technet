@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create, update, or view a contact information record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add and store multiple contact information records for an individual customer, contact, prospect, lead, or opportunity record.

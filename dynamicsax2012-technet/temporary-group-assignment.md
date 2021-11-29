@@ -14,6 +14,9 @@ ms.search.region: Global
 # Temporary group assignment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Workers in **Time and attendance** are divided into calculation groups and approval groups. A supervisor or manager is responsible for calculating the registrations from workers who are associated with a calculation group.

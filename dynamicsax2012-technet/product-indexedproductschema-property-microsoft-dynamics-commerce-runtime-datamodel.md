@@ -17,6 +17,9 @@ dev_langs:
 
 # IndexedProductSchema Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the names of the properties for which this product has values.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

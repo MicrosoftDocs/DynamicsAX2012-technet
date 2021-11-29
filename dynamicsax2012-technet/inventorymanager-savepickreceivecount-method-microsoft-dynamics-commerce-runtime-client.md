@@ -17,6 +17,9 @@ dev_langs:
 
 # SavePickReceiveCount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the count of a purchase or a transfer order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

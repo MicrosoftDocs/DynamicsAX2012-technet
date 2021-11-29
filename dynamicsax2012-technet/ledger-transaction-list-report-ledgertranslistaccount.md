@@ -14,6 +14,9 @@ f1_keywords:
 # Ledger transaction list report (LedgerTransListAccount) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Ledger transaction list** report displays a list of transactions for selected ledger accounts. You can select to include sales tax codes for each transaction and include reversed transactions on the report.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Import credit card transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up credit card transactions to be imported automatically on a recurring schedule, or you can manually import the transactions as required. After you import the transactions, you can view any errors in the **Exceptions** form.

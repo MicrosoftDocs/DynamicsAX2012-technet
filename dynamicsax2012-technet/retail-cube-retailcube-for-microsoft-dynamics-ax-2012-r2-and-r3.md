@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail cube (RetailCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Retail cube for Microsoft Dynamics AX is used to help manage a chain of stores so that your business can improve service, manage growth, reach customers, and streamline efficiencies. This article provides details about the cube.

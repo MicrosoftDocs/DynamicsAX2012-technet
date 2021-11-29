@@ -19,6 +19,9 @@ dev_langs:
 
 # DateValidationType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the discount/promotion validation period is standard (i.e. date range) or advanced (i.e. periodic validity periods).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

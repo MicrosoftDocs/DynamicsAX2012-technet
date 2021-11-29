@@ -17,6 +17,9 @@ dev_langs:
 
 # ShippingRateInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Container for all the shipment specific information necessary to get shipping charges from a carrier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

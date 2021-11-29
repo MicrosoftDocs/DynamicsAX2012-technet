@@ -17,6 +17,9 @@ dev_langs:
 
 # BeginEnrollCapture Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Begins the enroll capture.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

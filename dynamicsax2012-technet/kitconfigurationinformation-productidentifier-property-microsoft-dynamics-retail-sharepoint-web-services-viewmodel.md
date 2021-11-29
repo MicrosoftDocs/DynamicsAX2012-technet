@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductIdentifier Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates the product identifier of a specific kit configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

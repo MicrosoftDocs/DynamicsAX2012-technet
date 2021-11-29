@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Key tasks: Generate an invoice register in electronic format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX, you can generate information for reporting value-added (VAT) transactions to tax authorities. You can generate a list of customer invoices that contain VAT for reporting on Form FR0672. Also, you can generate a list of vendor invoices that contain VAT for reporting on Form FR0671. You can generate these lists, also referred to as registers, in an XML format that you can send electronically to the tax authorities.

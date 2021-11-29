@@ -22,6 +22,9 @@ dev_langs:
 
 # DatabaseErrorCode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the possible errors that can happen during database operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

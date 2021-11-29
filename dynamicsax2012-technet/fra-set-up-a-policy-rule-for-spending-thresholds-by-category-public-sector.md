@@ -28,6 +28,9 @@ ms.search.region: France
 # (FRA) Set up a policy rule for spending thresholds by category (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To meet public sector regulatory requirements in France, you may have to set spending thresholds for purchases in the procurement categories defined by the Clé de Contrôle Marché.

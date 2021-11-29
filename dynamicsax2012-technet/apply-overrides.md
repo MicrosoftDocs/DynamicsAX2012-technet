@@ -15,6 +15,9 @@ ms.search.region: Global
 # Apply overrides 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to override item prices or charges on a sales order and how to complete a discount override on a sales order. Use overrides to increase or decrease an original charge amount at either the header level or line level of an order. To complete an override, you must be assigned to a role that has been given the appropriate permissions, or your manager must be present to enter their operator ID and password.

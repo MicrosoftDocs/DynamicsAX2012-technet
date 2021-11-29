@@ -17,6 +17,9 @@ dev_langs:
 
 # Found Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is set as true if a item is found.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

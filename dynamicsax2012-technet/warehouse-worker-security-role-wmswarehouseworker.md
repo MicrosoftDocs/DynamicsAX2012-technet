@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Warehouse worker security role (WMSWarehouseWorker) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Warehouse worker security role represents a user who documents warehouse operation events and responds to warehouse operation inquiries.

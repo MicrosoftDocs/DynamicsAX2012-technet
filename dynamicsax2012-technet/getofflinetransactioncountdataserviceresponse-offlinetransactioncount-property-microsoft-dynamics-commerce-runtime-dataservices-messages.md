@@ -17,6 +17,9 @@ dev_langs:
 
 # OfflineTransactionCount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets number of offline transactions to upload.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

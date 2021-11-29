@@ -25,6 +25,9 @@ ms.search.region: Global
 # Set up centralized customer payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to prepare to process payments in one legal entity on behalf of other legal entities in your organization. For an overview of centralized customer payment processing that includes examples, see [About centralized customer payments](about-centralized-customer-payments.md).

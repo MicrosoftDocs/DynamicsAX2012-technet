@@ -22,6 +22,9 @@ ms.search.region: Global
 # Introduction to Microsoft Dynamics AX Project Management and Accounting Add-in 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Project Management and Accounting Add-in integrates with **Project management and accounting** and **Human resources**, so that you can manage projects that consist primarily of worker services. You can use the features for project management and accounting, such as contract management, quotations, budgeting, project policies, and project parameters and categories, together with the Project Management and Accounting Add-in.

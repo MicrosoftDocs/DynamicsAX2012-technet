@@ -17,6 +17,9 @@ dev_langs:
 
 # DualDisplayReceiptWidthPercentage Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the dual display receipt width percentage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

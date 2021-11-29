@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetEmployeeDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetEmployeeDataRequest](getemployeedatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

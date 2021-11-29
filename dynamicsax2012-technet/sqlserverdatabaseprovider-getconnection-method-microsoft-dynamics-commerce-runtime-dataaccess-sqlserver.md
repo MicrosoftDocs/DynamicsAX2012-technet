@@ -17,6 +17,9 @@ dev_langs:
 
 # GetConnection Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a connection to operate against the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer](microsoft-dynamics-commerce-runtime-dataaccess-sqlserver-namespace.md)  

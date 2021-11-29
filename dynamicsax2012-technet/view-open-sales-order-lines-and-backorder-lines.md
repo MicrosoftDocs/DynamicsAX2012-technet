@@ -17,6 +17,9 @@ ms.search.region: Global
 # View open sales order lines and backorder lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Open sales order lines** page to view a list of sales orders that include open lines for a specific customer. These lines have a status of open order, which means the items for these lines have not yet been delivered and invoiced.

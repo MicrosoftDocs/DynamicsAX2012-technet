@@ -15,6 +15,9 @@ dev_langs:
 
 # ProcessLinkedInfoCodes Method (IPosTransaction, InfoCodeTableRefType, InfoCodeType)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Process Linked InfoCodes for InfoCodeLineItem.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage KPIs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 KPI List web parts display key performance indicators (KPIs). KPIs are business metrics, such as total revenue, gross profit margin, and current ratio. KPIs help you track your organization’s progress toward performance goals. This topic explains how to add the KPI List web part to a page, and how to configure the web part to display KPIs.

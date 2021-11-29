@@ -13,6 +13,9 @@ f1_keywords:
 
 # magnetic stripe reader
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A device used to interpret data that is encoded on a magnetic stripe card.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # CashChanger Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Cash changer service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Management Reporter for Microsoft Dynamics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Management Reporter for Microsoft Dynamics ERP is designed to help you create financial reports that can be customized to meet the requirements of any company. Management Reporter was designed by accountants for accountants, and lets finance professionals create high-volume, presentation-quality reports in minutes. The report wizard makes it easy to design, store, and generate reports from reusable building blocks that contain row, column, and tree definitions. Therefore, you do not have to re-create typical scenarios for each reporting period.

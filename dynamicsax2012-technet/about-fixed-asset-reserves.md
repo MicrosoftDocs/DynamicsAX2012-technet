@@ -22,6 +22,9 @@ ms.search.region: Global
 # About fixed asset reserves 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 On the **Ledger accounts** tab in the **Fixed asset posting profiles** form, select **Provision for reserve** or **Transfer from reserve** to set up accounts to post provisions for reserve or transfers from reserve amounts to the general ledger.

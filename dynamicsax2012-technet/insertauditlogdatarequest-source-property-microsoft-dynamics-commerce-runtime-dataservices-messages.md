@@ -17,6 +17,9 @@ dev_langs:
 
 # Source Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the source of the event.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

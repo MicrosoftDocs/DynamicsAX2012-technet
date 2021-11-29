@@ -20,6 +20,9 @@ ms.search.region: Latvia
 # (LVA) Generate a fixed asset disposal statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The fixed asset disposal statement is a primary accounting document that provides a certified list of the fixed assets that your organization disposed of by sale or as scrap.

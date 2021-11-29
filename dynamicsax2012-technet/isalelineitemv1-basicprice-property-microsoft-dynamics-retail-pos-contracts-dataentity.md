@@ -17,6 +17,9 @@ dev_langs:
 
 # BasicPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price from the item card
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

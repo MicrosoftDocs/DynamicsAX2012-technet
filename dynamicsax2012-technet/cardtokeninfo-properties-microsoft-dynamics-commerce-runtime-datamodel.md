@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CardTokenInfo Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CardTokenInfo](cardtokeninfo-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

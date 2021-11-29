@@ -17,6 +17,9 @@ dev_langs:
 
 # DataReceived Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Biometric device message event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

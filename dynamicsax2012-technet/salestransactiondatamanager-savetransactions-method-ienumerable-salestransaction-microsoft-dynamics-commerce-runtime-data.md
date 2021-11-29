@@ -15,6 +15,9 @@ dev_langs:
 
 # SaveTransactions Method (IEnumerable(SalesTransaction))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves (upsert) the transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

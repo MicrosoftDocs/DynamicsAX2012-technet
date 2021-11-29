@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxOverride Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the tax override.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

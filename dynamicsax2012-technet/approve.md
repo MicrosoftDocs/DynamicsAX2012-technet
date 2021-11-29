@@ -14,6 +14,9 @@ f1_keywords:
 
 # approve
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To manually or automatically authorize the occurrence of future events in a system.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # RefundReceiptId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Id of a receiption for items that will be refunded.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

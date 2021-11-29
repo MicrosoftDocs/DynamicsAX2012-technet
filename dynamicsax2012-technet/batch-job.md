@@ -13,6 +13,9 @@ f1_keywords:
 
 # batch job
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of computer processes that can be run without user interaction.
 
 ## See also

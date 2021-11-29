@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # AIF System Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 System services are Windows Communication Foundation (WCF) services that are included with Microsoft Dynamics AX. These services enable clients to interact with and retrieve system information. The system services include the following:

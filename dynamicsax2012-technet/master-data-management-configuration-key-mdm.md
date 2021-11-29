@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Master data management configuration key (MDM) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The **Master data management** configuration key controls access to electronic banking forms and functions.
 
 You can enable or disable this key in the **License configuration** form.

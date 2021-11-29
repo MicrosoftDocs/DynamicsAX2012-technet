@@ -17,6 +17,9 @@ dev_langs:
 
 # ExpectedLastSyncAnchor Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the value compared against the stored last successful synchronization anchor for specified destination for listings to detect database restores.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

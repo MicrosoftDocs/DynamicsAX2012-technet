@@ -17,6 +17,9 @@ dev_langs:
 
 # ResetCustomerTaxGroup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Update the line items and charges to reflect the accurate sales tax group.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

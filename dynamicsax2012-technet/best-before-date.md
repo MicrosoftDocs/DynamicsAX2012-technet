@@ -13,6 +13,9 @@ f1_keywords:
 
 # best before date
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A recommended date for obtaining the optimum quality or characteristic of a product.
 
 ## See also

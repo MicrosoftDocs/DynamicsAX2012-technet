@@ -17,6 +17,9 @@ dev_langs:
 
 # KitProductVariantColumnName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The kit product variant column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

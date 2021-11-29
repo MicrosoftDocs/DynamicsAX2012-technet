@@ -17,6 +17,9 @@ dev_langs:
 
 # RequiredToBeUtcAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Annotates that a property is required to be UTC datetime offset.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

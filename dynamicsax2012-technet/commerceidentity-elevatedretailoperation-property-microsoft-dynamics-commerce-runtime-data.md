@@ -17,6 +17,9 @@ dev_langs:
 
 # ElevatedRetailOperation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the retail operation identifier - used in elevated mode.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

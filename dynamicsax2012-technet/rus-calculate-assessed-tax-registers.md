@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Calculate assessed tax registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The calculation of property tax includes all fixed assets for which a code for the assessed tax type is entered in the fixed assets book. The only exceptions are fixed assets that have a status of **Scheduled**. The calculation includes all fixed assets that are written off or sold during the accounting period. If a fixed asset is written off or sold in the middle of the accounting period, the property tax calculation includes the month during which the write-off or sale is completed.

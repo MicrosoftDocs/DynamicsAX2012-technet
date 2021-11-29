@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # JoinableTableType Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [JoinableTableType](joinabletabletype-class-microsoft-dynamics-commerce-runtime-data-types.md) type exposes the following members.
 
 ## Methods

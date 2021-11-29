@@ -15,6 +15,9 @@ dev_langs:
 
 # CalculateTax Method (IRetailTransaction)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates tax for all line items on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Select company to upgrade - Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some Retail parameters that were company-specific in Microsoft Dynamics AX 2009 have been converted to shared, or global, parameters in Microsoft Dynamics AX 2012. The upgrade administrator must select the company whose parameters are shared with all other companies during the upgrade to Microsoft Dynamics AX 2012. The **Select company to upgrade - Retail** task in the **Preprocessing upgrade checklist** opens a form where you can select one of the existing companies in a list.

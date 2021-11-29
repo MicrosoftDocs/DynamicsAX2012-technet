@@ -17,6 +17,9 @@ dev_langs:
 
 # Add Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add's a new period if not found in memorytable
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

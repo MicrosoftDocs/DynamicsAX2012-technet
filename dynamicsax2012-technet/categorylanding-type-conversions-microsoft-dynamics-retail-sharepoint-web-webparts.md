@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CategoryLanding Type Conversions
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CategoryLanding](categorylanding-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Operators

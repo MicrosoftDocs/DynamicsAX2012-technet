@@ -17,6 +17,9 @@ dev_langs:
 
 # SuspendCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Suspends the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetActiveCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the latest shopping cart associated with the current user with the current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveSalesTransaction Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Activity that saves sales transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities](microsoft-dynamics-commerce-runtime-workflowfoundation-activities-namespace.md)  

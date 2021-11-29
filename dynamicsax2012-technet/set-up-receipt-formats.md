@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up receipt formats 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can create and modify form layouts to control how receipts, invoices, and other documents are printed. Retail includes a form layout designer that you can use to easily and graphically create and modify different kinds of form layouts.

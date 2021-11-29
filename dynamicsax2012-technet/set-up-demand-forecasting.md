@@ -25,6 +25,9 @@ ms.search.region: Global
 # Set up demand forecasting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes the setup tasks that you must perform before you can use demand forecasting. These tasks include setting up the following data and parameters:

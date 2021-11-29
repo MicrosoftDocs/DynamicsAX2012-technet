@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntimeSettingsFeatureEventReceiver Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class handles events raised during feature activation, deactivation, installation, uninstallation, and upgrade.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommerceRuntime.Features.Settings](microsoft-dynamics-retail-sp-commerceruntime-features-settings-namespace.md)  

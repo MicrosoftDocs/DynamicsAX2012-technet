@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Advance invoices (CzCustVendAdvanceInvoices) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 The **Advance invoices** configuration key controls access to advance invoices. When this key is enabled, you can create advance invoices for customers and vendors.
 
 You can enable or disable this key in the **License configuration** form.

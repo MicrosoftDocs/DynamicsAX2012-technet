@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EmailService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EmailService](emailservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Methods

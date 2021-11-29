@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) About the configurator 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The configurator is a file interface configuration service that is used to manage the method of payment file formats for electronic payments and electronic fiscal documents for services.

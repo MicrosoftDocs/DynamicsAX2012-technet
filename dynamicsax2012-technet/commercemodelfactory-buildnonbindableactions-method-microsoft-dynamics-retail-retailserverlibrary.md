@@ -17,6 +17,9 @@ dev_langs:
 
 # BuildNonBindableActions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Builds non-bindable actions.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

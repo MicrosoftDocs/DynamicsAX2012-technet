@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailDiscountStore Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retail discount store.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

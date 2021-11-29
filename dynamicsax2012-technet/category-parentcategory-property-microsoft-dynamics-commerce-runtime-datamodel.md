@@ -17,6 +17,9 @@ dev_langs:
 
 # ParentCategory Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the paent category.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

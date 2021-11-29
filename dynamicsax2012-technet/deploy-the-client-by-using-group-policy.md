@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy the client by using Group Policy 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Group Policy provides an infrastructure that lets you centrally manage the configuration of operating systems and applications. This topic describes the processes and procedures that you must use to deploy Microsoft Dynamics AX clients by using Group Policy.

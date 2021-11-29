@@ -15,6 +15,9 @@ ms.search.region: Global
 # About releasing production orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you release a production order, it leaves the office where it is estimated and scheduled, and is released to the shop floor. The production order status changes to **Released**. At this point, you can take the following actions:

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create service orders automatically 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create service orders for one service agreement or for several service agreements. When they are created, you can view your service orders in the **Service orders** form.

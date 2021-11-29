@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidChangeTrackingConfiguration Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that change tracking has not been set up correctly for the storage.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # View prospect records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Prospects** page to view a list of prospective customers. You can also view detailed information about the selected prospect record.

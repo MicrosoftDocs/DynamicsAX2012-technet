@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # SQL Server High Availability best practices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If Microsoft SQL Server high availability services such as failover clustering, mirroring, or log shipping are running in your environment, consider the following best practices:

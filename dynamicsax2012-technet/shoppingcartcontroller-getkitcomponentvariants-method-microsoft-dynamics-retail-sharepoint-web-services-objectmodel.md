@@ -17,6 +17,9 @@ dev_langs:
 
 # GetKitComponentVariants Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the applicable variants of a kit component.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

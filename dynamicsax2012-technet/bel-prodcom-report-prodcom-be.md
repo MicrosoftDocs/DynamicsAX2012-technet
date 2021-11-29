@@ -16,6 +16,9 @@ f1_keywords:
 # (BEL) PRODCOM report (ProdCom\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **PRODCOM** report displays production statistics for industrial products that are manufactured by production companies operating in Belgium. This report must be submitted monthly to the Nationaal Instituut voor de Statistiek (NIS). This report is typically used by accounting managers and accountants.

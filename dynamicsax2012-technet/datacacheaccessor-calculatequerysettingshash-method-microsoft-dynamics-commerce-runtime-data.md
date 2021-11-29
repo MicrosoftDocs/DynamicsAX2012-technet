@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateQuerySettingsHash Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the hash of a query setting object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

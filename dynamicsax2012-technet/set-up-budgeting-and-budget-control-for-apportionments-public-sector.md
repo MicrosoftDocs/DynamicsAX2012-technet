@@ -17,6 +17,9 @@ ms.search.region: Denmark, France
 # Set up budgeting and budget control for apportionments (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Apportionments are the portion of the original budget that have been approved for spending. For example, a public sector organization might have an original budget of 1,000,000 but only have authority to spend 150,000 in the first quarter of the fiscal year. You could record an original budget register entry for 1,000,000 for the fiscal year. Then you could record an apportionment budget register entry for 150,000 for the first three months of the year. Only the 150,000 that was apportioned could be spent during the first quarter.

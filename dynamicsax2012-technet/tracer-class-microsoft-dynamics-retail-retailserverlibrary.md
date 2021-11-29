@@ -17,6 +17,9 @@ dev_langs:
 
 # Tracer Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides functionality to trace Web API flows.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

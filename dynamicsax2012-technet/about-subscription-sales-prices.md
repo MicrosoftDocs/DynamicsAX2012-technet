@@ -15,6 +15,9 @@ ms.search.region: Global
 # About subscription sales prices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a subscription, the sales price is derived from the sales price setup that was created in the **Sales price (subscription)** form.

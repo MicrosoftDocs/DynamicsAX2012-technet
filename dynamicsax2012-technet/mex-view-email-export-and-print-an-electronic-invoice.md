@@ -19,6 +19,9 @@ ms.search.region: Mexico
 # (MEX) View, email, export, and print an electronic invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **CFD - Electronic invoices** form to view, email, export, or print an already generated electronic invoice based on a customer’s request. You can view and export the .xml file of the electronic invoice to your computer. You can also resend the .pdf and .xml files of the electronic invoice as email attachments to the customer.

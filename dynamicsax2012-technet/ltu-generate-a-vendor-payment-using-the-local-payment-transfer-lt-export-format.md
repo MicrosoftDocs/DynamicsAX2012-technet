@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Generate a vendor payment using the local payment transfer (LT) export format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

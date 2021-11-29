@@ -14,6 +14,9 @@ ms.search.region: Global
 # Print or email a report on a recurring basis 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes hundreds of preconfigured reports that you can use to view and analyze business data. The following procedure explains how to configure Microsoft Dynamics AX to automatically print a report for you on a recurring basis. For example, Microsoft Dynamics AX can send a specific report to you and your team members every Monday morning by email.

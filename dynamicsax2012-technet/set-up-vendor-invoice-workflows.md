@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up vendor invoice workflows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up one or more workflow configurations for vendor invoices and vendor invoice lines. For example, you might set up workflow for vendor invoices that aren’t for a purchase order, or to automatically run invoice matching on invoices that are for a purchase order. If workflow approval is set up for vendor invoices, additional controls are displayed at the top of the **Vendor invoice** form. These include a yellow information bar, and either a **Submit** button or an **Actions** menu. For more information, see [Submit a document](submit-a-document.md) and [Workflow actions](workflow-actions.md).

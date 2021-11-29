@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Date Dimension for a Cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides a default calendar definition called the Date dimension. You can modify this calendar definition, but changes you make to the Date dimension will affect all cubes that use the Date dimension. Instead you may want to create a new date dimension.

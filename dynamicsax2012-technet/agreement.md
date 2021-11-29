@@ -15,6 +15,9 @@ f1_keywords:
 
 # agreement
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - An arrangement between two or more parties based on a mutual understanding about their respective rights and obligations. A number of requirements must be satisfied for an agreement to be legally binding.
 
   - A commitment between two or more parties based on a mutual understanding about their respective rights and obligations.

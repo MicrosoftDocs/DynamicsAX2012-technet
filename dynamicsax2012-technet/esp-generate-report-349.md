@@ -20,6 +20,9 @@ ms.search.region: Spain
 # (ESP) Generate Report 349 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Use the **Transfer transactions for EU sales list** form to transfer customer transactions and vendor transactions to the **EU sales list** form before you generate Report 349 as an ASCII file. You can also use delivery codes to include vendor transactions and customer transactions on Report 349. You can modify the delivery code for customer transactions that have item lines and service lines. For vendor transactions and customer transactions that have only service lines, the default delivery code is **E - Normal delivery**. The delivery code for each transaction is also included on the report.

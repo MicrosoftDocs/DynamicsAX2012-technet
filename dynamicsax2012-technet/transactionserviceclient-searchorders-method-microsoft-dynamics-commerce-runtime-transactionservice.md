@@ -17,6 +17,9 @@ dev_langs:
 
 # SearchOrders Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches for orders that match the given criteria in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

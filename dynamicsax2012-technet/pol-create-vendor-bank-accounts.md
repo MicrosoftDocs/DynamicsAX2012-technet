@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Create vendor bank accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Vendor bank account** form to generate domestic vendor payments and exchange data with the vendor bank account.

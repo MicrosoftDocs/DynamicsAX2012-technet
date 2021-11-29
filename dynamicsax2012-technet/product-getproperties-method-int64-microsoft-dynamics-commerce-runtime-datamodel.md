@@ -15,6 +15,9 @@ dev_langs:
 
 # GetProperties Method (Int64)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enumerates the attributes of the specified subproduct, together with their default language values.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

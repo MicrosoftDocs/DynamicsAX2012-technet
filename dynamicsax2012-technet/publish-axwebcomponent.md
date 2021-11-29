@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Publish-AXWebComponent
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Publish-AXWebComponent
 
 Publishes web components to an Enterprise Portal site.

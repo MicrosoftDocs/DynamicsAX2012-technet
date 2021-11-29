@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChannelDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChannelDataRequestHandler](channeldatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-common.md) type exposes the following members.
 
 ## Properties

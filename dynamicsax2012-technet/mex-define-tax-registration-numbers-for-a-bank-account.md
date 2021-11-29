@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Define tax registration numbers for a bank account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Bank account details** form to link a Registro Federal de Contribuyentes (RFC) number to a bank branch and bank account. The RFC number is a unique code that is assigned to legal entities and legal persons, and is printed in the tax declaration report.

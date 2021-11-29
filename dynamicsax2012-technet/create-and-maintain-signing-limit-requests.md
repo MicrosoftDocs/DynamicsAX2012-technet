@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create and maintain signing limit requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Signing limits constrain the financial commitments that a worker is authorized to make or approve on behalf of the employer. A worker can have different signing limits for different document types, such as purchase requisitions, expense reports, purchase orders, and invoices. As a direct result of the worker’s spending or approval activity, his employer may enter into a contractual relationship with a third party. For example, a purchase order may be issued to a vendor.

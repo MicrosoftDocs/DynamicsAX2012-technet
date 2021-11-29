@@ -17,6 +17,9 @@ dev_langs:
 
 # LevelStatusDelegate Delegate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Level status delegate.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

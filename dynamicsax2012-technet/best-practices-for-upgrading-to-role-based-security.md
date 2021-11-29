@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Best practices for upgrading to role-based security 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides an overview of some best practices that you should consider when you upgrade security. This topic does not describe how to upgrade security settings to Microsoft Dynamics AX 2012. For information about how to upgrade security settings, see the [Security Upgrade Advisor Tool User Guide](security-upgrade-advisor-tool-user-guide.md).

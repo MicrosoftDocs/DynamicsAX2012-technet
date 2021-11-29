@@ -14,6 +14,9 @@ ms.search.region: Global
 # Finish the currency conversion 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you have completed a currency conversion, you must complete some additional procedures. You must reconcile rounding differences in converted amounts, recalculate business statistics, journalize the ledger transactions, restrict access to the conversion tool, and revalue foreign currency amounts for customer and vendor accounts.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Add an Existing Report to a Reporting Project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to add an existing report to a reporting project. The task to add an existing report to a reporting project is performed in Visual Studio. You use Application Explorer and Model Editor tools to complete the task.

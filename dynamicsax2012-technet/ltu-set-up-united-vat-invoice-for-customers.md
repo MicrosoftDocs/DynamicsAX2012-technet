@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up United VAT invoice for customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The sales documents issued by United VAT companies are marked to indicate that the VAT is paid by the United VAT company.

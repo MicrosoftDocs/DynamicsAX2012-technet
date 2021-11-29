@@ -15,6 +15,9 @@ dev_langs:
 
 # PutCardTypes Method (String, QueryResultSettings, ReadOnlyCollection(CardTypeInfo))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.DataManagers (in Microsoft.Dynamics.Commerce.Runtime.DataManagers.dll)
 

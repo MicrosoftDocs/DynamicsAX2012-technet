@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Assign an item to a TN VED code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Item relation with TN VED** form to assign an item to a Commodities Classification Code of the Foreign Economic Activity (TN VED) code. You must assign an item to a TN VED code, so that the customs declarations reflect the item details when a TN VED code is used.

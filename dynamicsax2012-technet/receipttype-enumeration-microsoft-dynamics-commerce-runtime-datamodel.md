@@ -43,6 +43,9 @@ dev_langs:
 
 # ReceiptType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The different receipt types.
 
 The source of these values is the FORMLAYOUTID in the RETAILFORMLAYOUT table in Ax.

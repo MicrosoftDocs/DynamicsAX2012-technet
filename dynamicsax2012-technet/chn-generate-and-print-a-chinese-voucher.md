@@ -17,6 +17,9 @@ ms.search.region: China (PRC)
 # (CHN) Generate and print a Chinese voucher 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can print a Chinese voucher with tax information from the **Journal voucher** form. You can print the transaction voucher before or after you post the journal. You can compare the printed information to verify that it is the same information before and after posting, and that the information is correct. For example, if you select sales tax in a journal voucher, the final voucher information includes the sales tax, which could be different from what was part of the journal. So, the print result must be accurate, and it must be the same as the result that is generated after the final posting.

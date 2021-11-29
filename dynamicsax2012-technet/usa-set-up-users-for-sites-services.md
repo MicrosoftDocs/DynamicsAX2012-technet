@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up users for Sites Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 All users in online services for Microsoft Dynamics ERP have one or more roles with respect to their organization and the particular online service. Each user has access to specific services and actions as authorized by their roles. For example, someone with the Sites-Administrators role can set up and maintain Sites Services for Microsoft Dynamics ERP, while someone with the Sites-Users role can use Sites Services, but not administer it.

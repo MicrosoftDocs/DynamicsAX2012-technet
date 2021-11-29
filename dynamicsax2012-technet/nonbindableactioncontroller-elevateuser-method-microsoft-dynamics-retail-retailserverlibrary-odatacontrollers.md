@@ -17,6 +17,9 @@ dev_langs:
 
 # ElevateUser Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Manager override.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

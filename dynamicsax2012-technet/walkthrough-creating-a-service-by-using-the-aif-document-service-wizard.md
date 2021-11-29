@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating a Service by Using the AIF Document Service Wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough covers how to create a document query, a new service, and a document schema when you want to create a document service that is not included with Application Integration Framework (AIF). After you have created a document service, you can use it from modules within Microsoft Dynamics AX and external applications. Document services enable you to create reusable business logic. For information about which services are included with AIF, see [Standard Document Services](standard-document-services.md).

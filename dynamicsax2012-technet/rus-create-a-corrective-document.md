@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Create a corrective document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a corrective document to correct a document that is returned by the tax authority because it is incomplete or incorrect. You can also maintain the original document. The correction document is differentiated from the original document by the document type value that is specified in the **Document type:** field on the **General** tab in the **Documents** form. In the original document, the document type value is 1 for documents in text format, and 0 for documents in XML format. In the corrective document, the document type value is 1 for documents in text format, and 1/999 for documents in XML format.

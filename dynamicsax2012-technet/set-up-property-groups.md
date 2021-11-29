@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up property groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up property groups and assign them to fixed assets. You then can track fixed assets according to the property classifications they are used for, such as trucks, cement mixers, and other types of construction equipment.

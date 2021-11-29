@@ -13,6 +13,9 @@ f1_keywords:
 
 # bank reconciliation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A practice of reconciling a ledger account that represents a bank account by matching ledger account entries to bank statement entries.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReasonCodeRequirement Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The reason code requirement entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

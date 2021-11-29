@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTaxOverrides Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searchs for any tax overrides matching the given search criteria.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

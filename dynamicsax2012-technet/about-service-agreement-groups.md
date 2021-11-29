@@ -20,6 +20,9 @@ ms.search.region: Global
 # About service agreement groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Service agreement groups are useful for sorting and filtering service agreements. Use service agreement groups to group service agreements by, for example, company size, geographical location, or industry type. Alternatively, you can use agreement groups to group service agreements by the level of service offered to a customer.

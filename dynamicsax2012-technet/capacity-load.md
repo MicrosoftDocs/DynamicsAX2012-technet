@@ -13,6 +13,9 @@ f1_keywords:
 
 # capacity load
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum amount of scheduled work that a work center can perform at a required capacity level.
 
 ## See also

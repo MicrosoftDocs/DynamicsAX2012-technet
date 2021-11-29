@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Payment management configuration key (PaymMan) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Payment management** configuration key controls access to payment management forms and functions. You can set up a specific set of steps in a working routine. Each time a step is completed, the payment automatically advances to the next step.

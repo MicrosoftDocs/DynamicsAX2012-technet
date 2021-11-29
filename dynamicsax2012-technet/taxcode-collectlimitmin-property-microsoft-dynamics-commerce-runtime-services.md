@@ -17,6 +17,9 @@ dev_langs:
 
 # CollectLimitMin Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Collection limits, the minimum tax that can be collected
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

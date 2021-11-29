@@ -17,6 +17,9 @@ dev_langs:
 
 # Name Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets table name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

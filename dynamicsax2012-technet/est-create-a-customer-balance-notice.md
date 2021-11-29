@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Create a customer balance notice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 At the end of each financial year, the company sends a balance notice to its customers in order to complete the audit process. The customers either confirm the statement or return it with corrections based on their own records.

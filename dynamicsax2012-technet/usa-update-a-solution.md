@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Update a solution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you make changes to the structure of a solution, you can update the solution. For example, if you want to use a different page layout, you must select a new page template and this changes the structure of the solution.

@@ -17,6 +17,9 @@ dev_langs:
 
 # EmailService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Email Service class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

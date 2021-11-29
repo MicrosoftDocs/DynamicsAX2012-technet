@@ -17,6 +17,9 @@ dev_langs:
 
 # CanDiscountApply Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if this discount can possibly apply to the specified transaction by examining all of the triggering rules not related to the actual line items on the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPendingSalesOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get sales order that is pending commitment to the ERP.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

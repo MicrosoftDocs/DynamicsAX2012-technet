@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create an electronic payment file for customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The electronic payment files that you can create for customers can have many different formats. Consult your authorized partner to learn whether the format that your bank or payment processing service requires for payment files is available.

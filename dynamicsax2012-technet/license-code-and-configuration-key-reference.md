@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # License code and configuration key reference 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **License code and configuration key reference** contains topics that describe the license codes and configuration keys that are available in Microsoft Dynamics AX 2012. Use license codes and configuration keys to enable and disable features and functionality in Microsoft Dynamics AX.

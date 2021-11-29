@@ -19,6 +19,9 @@ ms.search.region: Denmark
 # (DNK) Create and post a credit note for a project invoice for a public sector customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Invoice proposals** and **Post invoice** forms to create and post a credit note for a project invoice and to generate the credit note as an .xml file. The .xml file is then converted to the Offentlig Information Online Universal Business Language (OIOUBL) format. You can generate electronic credit notes for customers for whom you have specified the European Article Numbering (EAN) number in the **EAN** field and selected the **eInvoice** check box in the **Customers** form.

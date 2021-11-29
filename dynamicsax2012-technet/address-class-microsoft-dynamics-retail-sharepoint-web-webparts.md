@@ -18,6 +18,9 @@ dev_langs:
 
 # Address Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The address web part allows entering of an en-us address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

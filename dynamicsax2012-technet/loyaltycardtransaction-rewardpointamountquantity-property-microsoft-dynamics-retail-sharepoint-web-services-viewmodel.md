@@ -17,6 +17,9 @@ dev_langs:
 
 # RewardPointAmountQuantity Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the amount or the quantity of the reward point.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -16,6 +16,9 @@ f1_keywords:
 # (MEX) Provisional ISR payment report (ISRProvisionalDeclaration\_MX) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Provisional ISR payment report** displays a summary of the provisional Impuesto sobre la renta (ISR) payments made by a company. This report is typically used by chief executive officers, chief financial officers, compliance managers, accountants, accounting supervisors, financial controllers, and clerks to verify journals and inquire into the status of sales tax transactions.

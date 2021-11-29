@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create an Item product model group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must create an item product model group and add items to it before you can set up default values for a group of items in **Default values**.

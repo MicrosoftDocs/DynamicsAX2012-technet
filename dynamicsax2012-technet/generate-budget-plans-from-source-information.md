@@ -14,6 +14,9 @@ ms.search.region: Global
 # Generate budget plans from source information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This procedure explains how to create or update budget plan scenarios by using information from an external source. The external source can be the general ledger, other budget plans, fixed assets, or human resources. The steps are the same, regardless of the source. First, select the source information to use, and then specify the budget planning information to create or update.

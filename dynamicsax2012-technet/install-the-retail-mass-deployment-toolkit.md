@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the Retail mass deployment toolkit 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Retail mass deployment toolkit is a command-line tool that helps you deploy the components of a retail environment. You specify configuration settings for components and design the topology of the environment in Microsoft Dynamics AX. Then you use the toolkit to export this preconfigured information and use it during deployment.

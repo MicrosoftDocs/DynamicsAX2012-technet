@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateProductDetailsJson Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Runs validation on that the product details JSON blob. If any errors are found, an appropriate exception is thrown.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

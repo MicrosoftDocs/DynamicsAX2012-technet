@@ -18,6 +18,9 @@ ms.search.region: Global
 # Setting up and maintaining Procurement and sourcing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about setting up and maintaining information for purchasing, such as purchasing policies, fixed asset rules, consolidation rules, workflows, requests for quotations, and signing limits.

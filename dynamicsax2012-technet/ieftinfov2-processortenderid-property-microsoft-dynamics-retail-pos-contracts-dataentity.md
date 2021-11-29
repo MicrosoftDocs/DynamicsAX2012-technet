@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessorTenderId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates the processor provided Tender ID for processor specific tenders (typically reprsented as a Guid)Null or empty when does not apply
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

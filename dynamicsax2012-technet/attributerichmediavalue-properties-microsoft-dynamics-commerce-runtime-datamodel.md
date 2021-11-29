@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AttributeRichMediaValue Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AttributeRichMediaValue](attributerichmediavalue-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

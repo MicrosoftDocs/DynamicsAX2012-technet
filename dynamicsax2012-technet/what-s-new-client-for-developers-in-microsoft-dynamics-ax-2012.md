@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's New: Client for Developers in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The client is the Windows application that you use to view, update, and create data in Microsoft Dynamics AX 2012. This topic describes the changes and new features that affect how you use forms, controls, and data sources to customize the client.

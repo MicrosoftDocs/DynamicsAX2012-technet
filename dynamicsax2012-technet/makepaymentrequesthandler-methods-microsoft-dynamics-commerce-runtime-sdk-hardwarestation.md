@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # MakePaymentRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [MakePaymentRequestHandler](makepaymentrequesthandler-class-microsoft-dynamics-commerce-runtime-sdk-hardwarestation.md) type exposes the following members.
 
 ## Methods

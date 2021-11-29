@@ -18,6 +18,9 @@ dev_langs:
 
 # NeedChannelIdFromPrincipal Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Request.NeedChannelIdFromPrincipal](request-needchannelidfromprincipal-property-microsoft-dynamics-commerce-runtime-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

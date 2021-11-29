@@ -17,6 +17,9 @@ dev_langs:
 
 # AddRange(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the elements of the specified collection to the end of the [ICollection\<T\>](https://technet.microsoft.com/library/92t2ye13\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Netherlands
 # (NLD) Export financial data in XML format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can export company financial and tax data in XML format. The XML file is created using the file name and path that you specify in the **Path and file name for XBRL** form. The exported XML file can be transformed to XBRL using third-party software and then submitted to the tax authorities. You can also specify budget models for the current and comparative reporting periods to generate budget figures in the XML file.

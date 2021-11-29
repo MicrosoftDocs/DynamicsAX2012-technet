@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerAffiliationsInfo Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [CustomerAffiliationsInfo](customeraffiliationsinfo-class-microsoft-dynamics-commerce-runtime-transactionservice-serialization.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

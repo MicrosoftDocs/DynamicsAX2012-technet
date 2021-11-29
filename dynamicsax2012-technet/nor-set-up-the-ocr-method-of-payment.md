@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up the OCR method of payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By using optical character recognition (OCR) payments, you can receive payments electronically from customers. Before you can accept payments, you can attach the OCR method of payment to a customer record to make it the default method of payment for invoicing. You can also change the method of payment for the record before you settle an invoice. Refer to the following table for information about the methods of payment and the file formats that you can use for customers and vendors.

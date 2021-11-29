@@ -14,6 +14,9 @@ f1_keywords:
 # Reporting Project Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A reporting project is used to create SQL Server Reporting Services reports that can be used in Microsoft Dynamics AX. The following sections provide an overview of a reporting project.

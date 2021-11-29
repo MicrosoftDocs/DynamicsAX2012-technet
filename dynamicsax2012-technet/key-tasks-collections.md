@@ -33,6 +33,9 @@ ms.search.region: Global
 # Key tasks: Collections 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Managing and collecting for overdue transactions is a necessary function in many organizations. Most collections functionality is centralized in the **Collections** form and on the following related list pages: **Collections**, **Collections activities**, and **Collections cases**.

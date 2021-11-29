@@ -24,6 +24,9 @@ dev_langs:
 
 # TransactionStatus Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the status of Transaction/TenderLine/SalesLine.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

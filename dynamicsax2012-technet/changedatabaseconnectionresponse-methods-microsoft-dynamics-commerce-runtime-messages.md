@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChangeDatabaseConnectionResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChangeDatabaseConnectionResponse](changedatabaseconnectionresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

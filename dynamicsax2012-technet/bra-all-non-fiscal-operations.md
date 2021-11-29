@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) All non fiscal operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create non fiscal document transactions to be included in the Sistema Publico de Escrituração Digital Escrituracao Fiscal Digital (SPED EFD) text file.

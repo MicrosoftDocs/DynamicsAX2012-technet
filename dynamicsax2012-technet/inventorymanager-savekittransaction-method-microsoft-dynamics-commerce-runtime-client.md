@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveKitTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the kit (disassembly) transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

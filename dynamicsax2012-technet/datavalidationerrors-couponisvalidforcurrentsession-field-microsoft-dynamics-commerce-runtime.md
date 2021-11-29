@@ -17,6 +17,9 @@ dev_langs:
 
 # CouponIsValidForCurrentSession Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the current price is result of a coupon which is only valid for current session.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -16,6 +16,9 @@ ms.search.region: China (PRC)
 # (CHN) Set up negative debits and credits 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view credit and debit amounts for ledger accounts in two separate columns in the **General ledger** inquiry form. You can also view the negative amounts that are related to the reversing entries. All negative amounts are displayed in red lettering in the **General ledger** inquiry forms.

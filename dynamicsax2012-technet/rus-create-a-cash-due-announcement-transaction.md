@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a cash due announcement transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The cash due announcement allows you to export the cash due announcement report (unified report 0402001.xlt) to the registered bank when you update the journal.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreditCardToken Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Credit card token is created by the processor and represents the credit card number and is used within AX to process customer order securely
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

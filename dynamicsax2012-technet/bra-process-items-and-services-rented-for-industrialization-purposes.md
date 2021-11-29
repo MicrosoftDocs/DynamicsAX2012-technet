@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Process items and services rented for industrialization purposes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a sales order to record the items that are rented for industrialization and manufacturing. You can also create a purchase order when the items are returned.

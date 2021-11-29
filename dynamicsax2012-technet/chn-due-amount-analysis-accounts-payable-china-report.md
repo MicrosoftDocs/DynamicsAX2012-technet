@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Due amount analysis Accounts payable (China) (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays, for a vendor, the amount due, any prepayments, and the vendor’s credit limit as of a specified date. You can use this information to analyze the vendor’s amount due status.

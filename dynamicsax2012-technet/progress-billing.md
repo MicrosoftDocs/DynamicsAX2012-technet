@@ -13,6 +13,9 @@ f1_keywords:
 
 # progress billing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of requesting payment when work progress objectives or rate targets are reached.
 
 ## See also

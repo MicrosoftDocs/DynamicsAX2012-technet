@@ -13,6 +13,9 @@ f1_keywords:
 
 # profit margin
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A measure of profitability that is calculated by using the formula: profit margin = net income before tax and interest / revenue. It can be expressed as a percentage or a number.
 
 ## See also

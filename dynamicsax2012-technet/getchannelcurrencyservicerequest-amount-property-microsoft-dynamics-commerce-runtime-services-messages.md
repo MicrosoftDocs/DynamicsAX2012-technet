@@ -17,6 +17,9 @@ dev_langs:
 
 # Amount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the amount which is being converted by the request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSerializedParameters Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Serializes the parameters. Used for logging purposes. This call must never fail.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

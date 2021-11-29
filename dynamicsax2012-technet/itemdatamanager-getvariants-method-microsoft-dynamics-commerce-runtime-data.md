@@ -17,6 +17,9 @@ dev_langs:
 
 # GetVariants Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of product variants using the specified identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

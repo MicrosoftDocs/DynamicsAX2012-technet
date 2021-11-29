@@ -17,6 +17,9 @@ dev_langs:
 
 # PurchaseOrder Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The purchase order entity. Used in picking and receiving flow.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

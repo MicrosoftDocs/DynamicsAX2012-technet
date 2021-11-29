@@ -17,6 +17,9 @@ dev_langs:
 
 # KitsSubPropertySeparator Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the delimiter that is used to separate different property values while storing kit information.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

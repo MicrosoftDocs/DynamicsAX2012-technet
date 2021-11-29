@@ -17,6 +17,9 @@ dev_langs:
 
 # TrackingConfig Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates a set of tracking numbers with the corresponding shipping adapter's config.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

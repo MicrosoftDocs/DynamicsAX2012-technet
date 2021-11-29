@@ -18,6 +18,9 @@ ms.search.region: Global
 # Identify sources and supply overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of the process of identifying sources and supply and lists the forms and tasks that are associated with this business process component.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Import Application Objects by Using the AOT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, you can import X++ application objects that are contained in .xpo files previously created with the **Export** menu command. For more information, see [How to: Export Application Objects by Using the AOT](how-to-export-application-objects-by-using-the-aot.md). Only users who have developer rights can import code. This topic describes how to import one or more application objects, without business data, into the application.

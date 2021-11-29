@@ -17,6 +17,9 @@ dev_langs:
 
 # MultiLineDiscountGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The multiline discount group that the item is a part of. Should be set when the item info is found.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

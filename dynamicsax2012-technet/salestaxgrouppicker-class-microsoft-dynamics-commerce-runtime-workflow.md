@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesTaxGroupPicker Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the business logic to pick up the correct sales tax group based on channel settings.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

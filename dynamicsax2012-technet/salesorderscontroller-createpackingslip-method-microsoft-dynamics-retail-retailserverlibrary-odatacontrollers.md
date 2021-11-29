@@ -17,6 +17,9 @@ dev_langs:
 
 # CreatePackingSlip Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a packing slip.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

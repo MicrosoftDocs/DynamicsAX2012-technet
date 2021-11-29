@@ -22,6 +22,9 @@ ms.search.region: Japan
 # (JPN) Categorize a fixed asset as a deferred, low value, or lump sum fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to categorize a fixed asset as a deferred, low value, or lump sum fixed asset. You can then calculate the depreciation amount of the fixed asset, and track and report the fixed asset over one or more fiscal periods. For more information, see [(JPN) Equally divided depreciation method](jpn-equally-divided-depreciation-method.md).

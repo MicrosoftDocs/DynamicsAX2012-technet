@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up a consignment warehouse for a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Hungarian tax law requires that companies periodically report any customer consignment stock transactions in warehouses located in other EC member states. You must continuously register stock quantities and submit reports in accordance with the regulatory sales tax settlement periods.

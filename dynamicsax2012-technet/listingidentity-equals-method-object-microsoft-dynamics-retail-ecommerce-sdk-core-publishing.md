@@ -15,6 +15,9 @@ dev_langs:
 
 # Equals Method (Object)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Object.Equals(Object)](https://technet.microsoft.com/library/bsc2ak47\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing](microsoft-dynamics-retail-ecommerce-sdk-core-publishing-namespace.md)  

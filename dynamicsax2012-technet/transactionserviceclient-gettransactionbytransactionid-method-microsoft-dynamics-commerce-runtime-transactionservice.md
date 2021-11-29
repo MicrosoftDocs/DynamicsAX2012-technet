@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTransactionByTransactionId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transaction by transaction identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

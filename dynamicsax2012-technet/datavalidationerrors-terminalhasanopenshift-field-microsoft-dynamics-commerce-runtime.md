@@ -17,6 +17,9 @@ dev_langs:
 
 # TerminalHasAnOpenShift Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 There is a shift open on the terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

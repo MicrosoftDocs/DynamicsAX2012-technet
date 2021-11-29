@@ -17,6 +17,9 @@ dev_langs:
 
 # WebConfigUpdater Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class provides some basic web.config updating functionality.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up a special movement code for Intrastat 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Special movement codes are used to track the movement or shipment of items from one location to another, either for goods that have specific commodity codes or under specific circumstances.

@@ -14,6 +14,9 @@ ms.search.region: Germany
 # (DEU) Set up GDPdU data export 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Germany, tax auditors are allowed by law to access and verify data digitally from the electronic bookkeeping process during the statutory archiving period. There are three different ways to access the data for the tax authorities:

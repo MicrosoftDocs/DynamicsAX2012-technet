@@ -17,6 +17,9 @@ dev_langs:
 
 # NewCustomerFromDirParty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a new customer in AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

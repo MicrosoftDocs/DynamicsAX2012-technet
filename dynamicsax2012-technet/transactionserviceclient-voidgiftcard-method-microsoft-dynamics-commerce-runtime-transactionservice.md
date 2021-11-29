@@ -17,6 +17,9 @@ dev_langs:
 
 # VoidGiftCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Voids the gift.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

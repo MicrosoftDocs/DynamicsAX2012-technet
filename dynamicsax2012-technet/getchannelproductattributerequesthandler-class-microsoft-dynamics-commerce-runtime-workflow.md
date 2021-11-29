@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelProductAttributeRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the workflow required to retrieve one channel product attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

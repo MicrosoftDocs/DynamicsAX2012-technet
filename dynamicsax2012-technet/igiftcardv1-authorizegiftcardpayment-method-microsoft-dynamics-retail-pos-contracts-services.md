@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizeGiftCardPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validates a gift card being used as a payment and reserves the amount at the head office.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Netherlands
 # (NLD) Create, send, and import the OB tax declaration electronically 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Electronic OB declaration** form to create an electronic tax declaration payment and send the .xml file to the Dutch tax authorities. You can also use this form to import .xml files with information from the Dutch tax authorities.

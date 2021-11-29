@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets an ID that represents the tender that is used.
 
 The TenderType field is the ID of the payment made for the purchase.

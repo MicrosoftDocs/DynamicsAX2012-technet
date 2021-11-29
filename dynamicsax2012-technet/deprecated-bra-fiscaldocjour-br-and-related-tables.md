@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BRA) FiscalDocJour\_BR and related tables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2009 provides country-specific functionality that is related to fiscal documents. Information about fiscal documents is maintained in one set of tables and is also kept in the original transaction tables.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (BRA) CFOP matrix (upgrade) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In releases before Microsoft Dynamics AX 2012 R2, you could not create a Código Fiscal de Operações e Prestações (CFOP) matrix to determine the CFOP code and CFOP group to be used specifically in free text invoices. Instead, all CFOP codes with the sales transaction type were available for free text invoices. In Microsoft Dynamics AX 2012 R2 and R3, you can create a CFOP matrix to determine a CFOP code and CFOP group to be used only in free text invoices. During upgrade preprocessing, you can select the CFOP matrices to use only in free text invoices in the target system.

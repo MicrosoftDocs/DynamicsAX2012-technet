@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateLoyaltyCardId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the loyalty card ID on the shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

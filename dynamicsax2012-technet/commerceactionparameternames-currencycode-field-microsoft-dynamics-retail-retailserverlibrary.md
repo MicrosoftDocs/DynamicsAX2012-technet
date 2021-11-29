@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyCode Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The currency code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

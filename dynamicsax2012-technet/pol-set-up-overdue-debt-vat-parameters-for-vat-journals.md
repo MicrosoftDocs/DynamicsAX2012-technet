@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up overdue debt VAT parameters for VAT journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Follow the steps in this topic to set up the following information for overdue debt value-added tax (VAT) journals:

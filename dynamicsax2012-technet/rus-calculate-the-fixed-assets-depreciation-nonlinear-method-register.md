@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate the fixed assets depreciation (nonlinear method) register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must set up the **FA depreciation (nonlinear method)** register in the **Tax registers** form and create a tax register journal before calculating the register. For more information, see [(RUS) Set up a depreciation register (nonlinear method) for fixed assets](rus-set-up-a-depreciation-register-nonlinear-method-for-fixed-assets.md).

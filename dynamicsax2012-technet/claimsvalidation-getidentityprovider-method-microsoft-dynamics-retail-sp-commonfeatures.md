@@ -17,6 +17,9 @@ dev_langs:
 
 # GetIdentityProvider Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns Identity Provider Claim Value if claim is found.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

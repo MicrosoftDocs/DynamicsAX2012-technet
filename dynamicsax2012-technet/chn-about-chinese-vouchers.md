@@ -20,6 +20,9 @@ ms.search.region: China (PRC)
 # (CHN) About Chinese vouchers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must create a voucher document for every posted journal. You can print a paper voucher and a posted journal. Based on your requirements, you can use the **Voucher type setup wizard** to set up the commonly used **Get**, **Pay** and **Transfer** voucher types, or you can create new voucher types in the **Voucher type setup** form. For more information, see [(CHN) Voucher type setup wizard (form)](https://technet.microsoft.com/library/jj664054\(v=ax.60\)). You can use booking vouchers to enter and group transactions into the **Receipt voucher**, **Payment voucher**, or **Transfer voucher**. A continuous number sequence beginning from the first day of every monthly period should be assigned to each voucher type. You can define a Chinese voucher type for ledger accounts only.

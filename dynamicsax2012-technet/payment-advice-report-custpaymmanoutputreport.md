@@ -14,6 +14,9 @@ f1_keywords:
 # Payment advice report (CustPaymManOutputReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Payment advice** report to print a payment advice for customer payments.

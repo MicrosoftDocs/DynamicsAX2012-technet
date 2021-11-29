@@ -13,6 +13,9 @@ f1_keywords:
 
 # pending closed
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state when the period or operational process can only transition to a closed state, or when a source document can only transition to a closed status.
 
 ## See also

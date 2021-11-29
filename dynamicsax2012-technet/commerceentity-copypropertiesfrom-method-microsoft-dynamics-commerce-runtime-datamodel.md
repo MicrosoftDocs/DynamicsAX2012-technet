@@ -17,6 +17,9 @@ dev_langs:
 
 # CopyPropertiesFrom Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Copy the property bag data from the given commerce entity into this entity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

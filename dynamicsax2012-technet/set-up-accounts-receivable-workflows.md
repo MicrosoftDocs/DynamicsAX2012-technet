@@ -23,6 +23,9 @@ ms.search.region: Global
 # Set up Accounts receivable workflows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some organizations require that journals or free text invoices be approved by a user other than the person who entered the journal or invoice. To set up an approval process, you can create a workflow.

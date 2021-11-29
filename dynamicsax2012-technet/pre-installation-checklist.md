@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Pre-installation checklist 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you install Microsoft Dynamics AX, you must plan the implementation and complete the pre-installation tasks that are listed in the following table.

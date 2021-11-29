@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Edit code at a customer site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you have a development license, you can edit X++ code at any customer location by using the client configuration utility to establish your credentials.

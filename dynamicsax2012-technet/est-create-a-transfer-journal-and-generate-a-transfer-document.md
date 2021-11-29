@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Create a transfer journal and generate a transfer document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When a company transfers goods between warehouses, the person in charge of the transaction must print an internal transfer note to meet applicable local requirements.

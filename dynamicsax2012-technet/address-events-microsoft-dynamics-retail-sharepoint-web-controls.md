@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # Address Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Address](address-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Events

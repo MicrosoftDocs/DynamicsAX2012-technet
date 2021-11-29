@@ -13,6 +13,9 @@ f1_keywords:
 
 # bundle
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The combination of a number of products for sale as one unit.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateLoyaltyRewardPointLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates ILoyaltyRewardPointLine instance.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

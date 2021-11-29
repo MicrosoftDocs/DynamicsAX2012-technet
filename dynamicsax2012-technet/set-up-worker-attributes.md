@@ -23,6 +23,9 @@ ms.search.region: Global
 # Set up worker attributes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up many different types of attributes for a worker to assist in the optimal scheduling of the worker. In addition to entering information about a worker’s education, skills, certifications, and project experience, you can also enter information about any additional skills that a worker has, such as public speaking ability or media knowledge.

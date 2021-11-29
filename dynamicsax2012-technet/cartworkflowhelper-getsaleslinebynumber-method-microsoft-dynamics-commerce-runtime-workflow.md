@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSalesLineByNumber Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The a sales line from the sales transaction by the line number.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

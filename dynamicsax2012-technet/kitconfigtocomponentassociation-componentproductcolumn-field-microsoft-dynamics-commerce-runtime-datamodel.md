@@ -17,6 +17,9 @@ dev_langs:
 
 # ComponentProductColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The component product column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GiftCardCurrencyMismatch Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the gift card currency is different from store currency.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Calculate past forecast accuracy 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to calculate the accuracy of past demand forecasts against past actual demand. In Microsoft Dynamics AX 2012 R3, forecast accuracy is measured by using these key performance indicators: mean absolute deviation (MAD) and mean absolute percentage error (MAPE).

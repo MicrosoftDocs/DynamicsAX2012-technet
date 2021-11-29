@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up funding limits for funding sources in a project contract 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up funding limits on the **Project contracts** details form. For example, you can set limits for hotel expenses or worker hours.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Perform a price query 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Perform price query** page to enter a query to calculate the item prices for a customer. The item prices are based on price agreements. After you perform a price query, you can create a sales order or sales quotation based on the price query information.

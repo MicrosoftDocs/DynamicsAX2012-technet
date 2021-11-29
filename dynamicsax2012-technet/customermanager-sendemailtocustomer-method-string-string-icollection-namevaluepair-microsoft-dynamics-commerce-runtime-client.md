@@ -15,6 +15,9 @@ dev_langs:
 
 # SendEmailToCustomer Method (String, String, ICollection(NameValuePair))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sends the customer an email template populated with the specified properties.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

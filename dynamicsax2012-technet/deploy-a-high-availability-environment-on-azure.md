@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy a high availability environment on Azure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This content has been moved [here](https://go.microsoft.com/fwlink/?linkid=858577).
 
   

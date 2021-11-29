@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up price groups and units for a production bill of material (BOM) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedures to define parameters that are used to calculate cargo prices or amounts on a transportation invoice or a job ticket. For more information, see [(RUS) About transportation invoices and job tickets that are based on bills of lading](rus-about-transportation-invoices-and-job-tickets-that-are-based-on-bills-of-lading.md).

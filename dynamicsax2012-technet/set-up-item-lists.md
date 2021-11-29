@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up item lists 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up item lists for customers. An item list is a list of items that a customer has purchased repeatedly during a time period that you specify. A customer service representative can quickly create a new sales order for the customer by selecting the list instead of adding items line by line. After the items in the list are added to the sales order, the information about each item can be changed as needed.

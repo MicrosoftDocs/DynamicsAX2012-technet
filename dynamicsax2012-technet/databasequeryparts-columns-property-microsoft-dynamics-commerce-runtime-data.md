@@ -17,6 +17,9 @@ dev_langs:
 
 # Columns Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets ANSI SQL for columns to select.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

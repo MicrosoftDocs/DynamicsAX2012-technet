@@ -17,6 +17,9 @@ f1_keywords:
 # Set up Real-time Service profiles (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 By setting up a profile for Commerce Data Exchange: Real-time Service, you enable a store to retrieve or update real-time data from Retail essentials. Real-time Service acts as an agent for a store. The store never directly accesses the remote instance of Microsoft Dynamics AX Application Object Server (AOS).

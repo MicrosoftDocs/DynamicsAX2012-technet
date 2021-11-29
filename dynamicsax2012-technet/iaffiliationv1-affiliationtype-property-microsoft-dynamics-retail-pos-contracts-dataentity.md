@@ -17,6 +17,9 @@ dev_langs:
 
 # AffiliationType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 AffiliationType
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IsApplicableForPrice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Check whether it is applicable for price.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

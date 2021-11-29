@@ -17,6 +17,9 @@ dev_langs:
 
 # LabelSearchTermValue Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The label for search term value.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

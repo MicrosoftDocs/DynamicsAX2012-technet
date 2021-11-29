@@ -14,6 +14,9 @@ ms.search.region: Global
 # Transportation management engines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Transportation management engines define the logic that is used to generate and process transportation rates in **Transportation management**. A transportation management engine calculates tasks, such as the carrier’s transportation rate. The engine system lets you change calculation strategies at runtime, based on data in Microsoft Dynamics AX. A transportation management engine resembles a plug-in that is related to a particular carrier contract.
 
 ## What engines are available?

@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberOfTimesApplicableColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Number of times applicable column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

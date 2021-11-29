@@ -17,6 +17,9 @@ dev_langs:
 
 # SendCustomerAccountActivationEmailRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the workflow required to send a password reset e-mail to the specified customers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

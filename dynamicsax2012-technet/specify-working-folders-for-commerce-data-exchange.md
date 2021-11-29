@@ -17,6 +17,9 @@ f1_keywords:
 # Specify working folders for Commerce Data Exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use the **Working folders** form to set up the working folders for Commerce Data Exchange. Data packages are stored in the working folders during data upload and download.

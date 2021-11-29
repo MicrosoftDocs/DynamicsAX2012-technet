@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPurchaseOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a purchase order with lines from Ax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

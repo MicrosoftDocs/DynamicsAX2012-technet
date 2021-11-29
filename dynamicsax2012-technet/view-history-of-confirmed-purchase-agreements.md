@@ -14,6 +14,9 @@ ms.search.region: Global
 # View history of confirmed purchase agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a purchase agreement is confirmed, the current version of the purchase agreement is stored in a history table and assigned a version number. The confirmation history of a purchase agreement contains information about the vendor, line details from the purchase agreement, and the terms of the purchase agreement. If a purchase agreement is changed, you must confirm the purchase agreement. After you confirm the purchase agreement, the changes become active, and the new version appears in the history. In this manner, you can track the changes that have been made to a purchase agreement.

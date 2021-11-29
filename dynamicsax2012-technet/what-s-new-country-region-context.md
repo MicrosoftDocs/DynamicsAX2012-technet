@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Country/Region Context 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009 and earlier versions, country/region configuration keys were used to enable and display country/region-specific features. To control feature availability based on the location of the legal entity, Microsoft Dynamics AX 2012 uses the country/region that is associated with the legal entity’s primary address. For example, if the address of the legal entity is in Canada, users can see and work with Canada-specific features.

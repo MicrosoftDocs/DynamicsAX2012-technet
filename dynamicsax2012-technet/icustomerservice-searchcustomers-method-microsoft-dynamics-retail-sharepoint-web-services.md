@@ -17,6 +17,9 @@ dev_langs:
 
 # SearchCustomers Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Search for a customer given the corresponding email address.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

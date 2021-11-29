@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Remote Desktop Services integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Remote Desktop Services integration components for Microsoft Dynamics AX support integration with local applications, such as Microsoft Word and Microsoft Excel, when Microsoft Dynamics AX is hosted on a Remote Desktop server. Install the Remote Desktop Services integration components on local client computers. The Remote Desktop Services integration components are selected automatically when you install the Office Add-ins for Microsoft Dynamics AX.

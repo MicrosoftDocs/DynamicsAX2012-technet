@@ -17,6 +17,9 @@ dev_langs:
 
 # PerformPostTenderValidation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Perform any required post-tender validation on the Customer Order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

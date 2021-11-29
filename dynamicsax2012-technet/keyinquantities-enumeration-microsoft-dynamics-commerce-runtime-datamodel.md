@@ -20,6 +20,9 @@ dev_langs:
 
 # KeyInQuantities Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enum values for Key In Quantities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

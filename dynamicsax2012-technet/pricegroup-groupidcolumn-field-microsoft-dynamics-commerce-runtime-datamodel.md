@@ -17,6 +17,9 @@ dev_langs:
 
 # GroupIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Group Id column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

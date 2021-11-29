@@ -17,6 +17,9 @@ dev_langs:
 
 # Execute Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Entry point to channel data service of the request execution.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

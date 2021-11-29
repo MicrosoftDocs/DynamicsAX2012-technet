@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Update an Existing SQL Server Analysis Services Project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can incrementally update the objects for an existing SQL Server Analysis Services project that is based on metadata defined in Microsoft Dynamics AX. This topic describes how to use the Analysis Services project wizard to update Analysis Services projects.

@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up conditional cell type requisites 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Requisites setup** form to set up **Cell** requisite types that use the **Conditional** data type. The requisite types are used in document templates.

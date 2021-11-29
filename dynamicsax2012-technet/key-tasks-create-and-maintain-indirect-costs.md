@@ -21,6 +21,9 @@ ms.search.region: Global
 # Key tasks: Create and maintain indirect costs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Indirect costs are costs such as rent, office supplies, telephone charges, and computer support, which are often shared among various projects. You can associate indirect costs with projects and set up the method for calculating the amount of indirect costs to post to a project.

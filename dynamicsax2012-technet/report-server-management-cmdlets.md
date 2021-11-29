@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Report server management cmdlets
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [Add-AXReportServerConfiguration](add-axreportserverconfiguration.md)
 
 [Get-AXReport](get-axreport.md)

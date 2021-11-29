@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetStoreOperationRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetStoreOperationRequestHandler](getstoreoperationrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

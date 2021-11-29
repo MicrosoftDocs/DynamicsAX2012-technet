@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOutputClaimsIdentity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method returns the claims to be issued in the token.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

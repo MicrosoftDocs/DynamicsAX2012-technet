@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceController(TEntity, TKey) Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceController\<TEntity, TKey\>](commercecontroller-tentity-tkey-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Properties

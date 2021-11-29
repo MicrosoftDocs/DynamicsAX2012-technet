@@ -23,6 +23,9 @@ dev_langs:
 
 # DiscountCalculationMode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines how the pricing calculation should act on the set of lines passed into it.
 
 This enumeration has a [FlagsAttribute](https://technet.microsoft.com/library/dk06fkbc\(v=ax.60\)) attribute that allows a bitwise combination of its member values.

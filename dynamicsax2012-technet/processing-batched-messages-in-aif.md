@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Processing batched messages in AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX document services and Application Integration Framework (AIF) enable large amounts of data to be processed at the same time. A batched message is a single document that contains multiple, individual messages that are grouped together so that they can be processed as a unit. Batched messages can be processed only by using the file system adapter.

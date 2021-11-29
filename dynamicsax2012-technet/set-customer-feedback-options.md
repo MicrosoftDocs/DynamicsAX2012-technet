@@ -17,6 +17,9 @@ f1_keywords:
 # Set customer feedback options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Click **System administration** \> **Setup** \> **System** \> **Customer feedback options**. –or– Open the **Microsoft Dynamics AX customer feedback options** form from the initialization checklist or the upgrade checklist.

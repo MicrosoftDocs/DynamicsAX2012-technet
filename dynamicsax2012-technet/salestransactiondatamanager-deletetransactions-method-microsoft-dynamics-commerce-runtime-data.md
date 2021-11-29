@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteTransactions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes the transactions by their transaction and customer identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

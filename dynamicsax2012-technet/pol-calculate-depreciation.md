@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Calculate depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can calculate depreciation for fixed assets with an **Open** status for periods in which depreciation has not yet been posted.

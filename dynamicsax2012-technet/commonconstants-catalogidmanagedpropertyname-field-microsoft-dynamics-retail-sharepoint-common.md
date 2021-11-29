@@ -17,6 +17,9 @@ dev_langs:
 
 # CatalogIdManagedPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the name of the Managed Property which stores a Catalog ID value.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # price discount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A discount applied to a quoted price.
 
 ## See also

@@ -14,6 +14,9 @@ f1_keywords:
 # Upgrade Enterprise Portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to upgrade Enterprise Portal for Microsoft Dynamics AX. You must meet all of the prerequisites and complete the procedures in this topic to upgrade an Enterprise Portal deployment to Microsoft Dynamics AX 2012 R2.

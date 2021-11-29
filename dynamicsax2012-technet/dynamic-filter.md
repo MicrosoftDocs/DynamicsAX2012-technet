@@ -13,6 +13,9 @@ f1_keywords:
 
 # dynamic filter
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A property on the dataset that determines how report filters are created for a report.
 
 ## See also

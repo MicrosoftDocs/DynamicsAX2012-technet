@@ -17,6 +17,9 @@ dev_langs:
 
 # IEdmModelFactory Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The EdmModelFactory interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

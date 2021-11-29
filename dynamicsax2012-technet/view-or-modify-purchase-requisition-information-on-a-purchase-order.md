@@ -17,6 +17,9 @@ ms.search.region: Global
 # View or modify purchase requisition information on a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After a purchase order has been created from a purchase requisition, you can use this procedure to view or modify the purchase requisition information on the purchase order.

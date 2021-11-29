@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Set up EXIM ports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Set up the export and import (EXIM) port authorities that you reference in export and import transactions when you apply for Advanced Authorization (AA), Duty Free Import Authorization (DFIA), Export Promotion Capital Goods (EPCG), or Duty Drawback (DBK) incentives.

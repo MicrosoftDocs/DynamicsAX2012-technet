@@ -15,6 +15,9 @@ f1_keywords:
 # Allocation rules definition report (LedgerAllocationRules) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this form to print a report that displays the allocation rule information, such as the description, starting and ending dates, allocation method, data source, journal name, and account and dimension information.

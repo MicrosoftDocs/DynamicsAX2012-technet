@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateSingleWebApplication Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This updates a single web application with the config changes (during activation and deactivation).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

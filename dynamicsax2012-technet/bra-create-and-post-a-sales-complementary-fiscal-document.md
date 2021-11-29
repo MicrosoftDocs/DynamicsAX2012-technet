@@ -21,6 +21,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a sales complementary fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a sales complementary fiscal document to adjust a sales fiscal document that was generated for an incorrect price, Imposto Sobre Produtos Industrializados (IPI), or Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) amount. For more information, see [(BRA) About sales complementary fiscal documents](bra-about-sales-complementary-fiscal-documents.md).

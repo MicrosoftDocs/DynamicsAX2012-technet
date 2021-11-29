@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Create an export facture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A facture is considered to be an export facture if it contains invoices that have a tax type of **VAT 0%**, and if the tax code for the domestic market is set. You can specify the export, package, and confirmation dates, and view the expiration date for the export facture. Use the following procedures to create an export facture and specify how the export facture is processed based on the operation type.

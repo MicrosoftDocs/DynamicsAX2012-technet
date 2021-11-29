@@ -14,6 +14,9 @@ ms.search.region: Global
 # Pass returned items on to inspection 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When registering a returned item, you may determine that an item should be sent for inspection before it is returned to inventory or disposed of in some other way.

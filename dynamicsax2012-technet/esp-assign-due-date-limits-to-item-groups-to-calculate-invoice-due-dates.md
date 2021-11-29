@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Assign due date limits to item groups to calculate invoice due dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can assign due date limits to item groups. You can then verify that the invoice due dates that are calculated are in the specified due date limits.

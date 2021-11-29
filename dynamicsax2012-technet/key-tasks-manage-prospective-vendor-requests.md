@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Manage prospective vendor requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As a vendor request reviewer, you process requests that employees submit to add new vendors to the list of approved vendors for their legal entity. If you approve a request, the vendor becomes a prospective vendor. Your system administrator adds the contact for the prospective vendor to the list of external Microsoft Dynamics AX users and grants the contact access to the **Vendor registration** page in Enterprise Portal for Microsoft Dynamics AX. A notification is sent to the vendor, and the vendor must complete the application and submit it for approval.

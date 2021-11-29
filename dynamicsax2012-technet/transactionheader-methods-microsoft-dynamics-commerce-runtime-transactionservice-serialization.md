@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TransactionHeader Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TransactionHeader](transactionheader-class-microsoft-dynamics-commerce-runtime-transactionservice-serialization.md) type exposes the following members.
 
 ## Methods

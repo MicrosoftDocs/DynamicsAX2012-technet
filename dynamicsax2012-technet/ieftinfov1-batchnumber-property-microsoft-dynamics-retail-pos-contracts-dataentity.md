@@ -17,6 +17,9 @@ dev_langs:
 
 # BatchNumber Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The current batch number for the terminal.
 
 The number can be read after each transaction.

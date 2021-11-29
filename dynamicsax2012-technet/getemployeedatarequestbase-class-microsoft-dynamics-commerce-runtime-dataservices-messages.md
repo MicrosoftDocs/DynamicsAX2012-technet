@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmployeeDataRequestBase Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base class for get employee requests.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

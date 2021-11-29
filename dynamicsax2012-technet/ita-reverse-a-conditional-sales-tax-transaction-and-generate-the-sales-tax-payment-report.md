@@ -19,6 +19,9 @@ ms.search.region: Italy
 # (ITA) Reverse a conditional sales tax transaction and generate the sales tax payment report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Conditional sales tax transactions are the sales tax transactions for which the sales tax is paid in proportion to the actual amount paid on the invoice. In accordance with the legislative requirement in Italy, you can reverse the conditional sales tax transactions for an open VAT period.

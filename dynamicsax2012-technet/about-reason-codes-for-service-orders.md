@@ -19,6 +19,9 @@ ms.search.region: Global
 # About reason codes for service orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2012, you can use reason codes to help explain the status of a service order when the stage of a service order is updated. For example, if you cancel a service order, you can select a reason code for the cancellation.

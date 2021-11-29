@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up info codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to set up info codes to use to capture data at the point of sale when a cashier performs various actions, such as product sales, product returns, or customer selections. By using info codes, you can track data such as the customer’s ZIP code or postal code or the reason that a product was returned.

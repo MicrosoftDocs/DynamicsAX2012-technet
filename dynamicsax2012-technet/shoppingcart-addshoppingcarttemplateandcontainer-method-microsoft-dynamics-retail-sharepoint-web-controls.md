@@ -17,6 +17,9 @@ dev_langs:
 
 # AddShoppingCartTemplateAndContainer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Exposes the ability to add the template and container to the specified control collection.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

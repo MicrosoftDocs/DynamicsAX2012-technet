@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Invoice journal configuration key (VendInvoiceRegister) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Invoice journal** configuration key controls access to vendor invoice journal forms and functions. Use the **Invoice journal** form to register invoices that are received from vendors, without having to use the approval journal.

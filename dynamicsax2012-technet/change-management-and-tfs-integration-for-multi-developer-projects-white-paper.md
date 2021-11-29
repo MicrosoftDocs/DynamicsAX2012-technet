@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Change management and TFS integration for multi-developer projects (white paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper describes development tasks and best practices that are related to application life cycle management in Microsoft Dynamics AX 2012. It focuses on managing metadata changes across Microsoft Dynamics AX installations when multiple developers are working on the same application. It details steps that are related to creating and deploying Microsoft Dynamics AX builds on computers that are connected to a central Microsoft Visual Studio Team Foundation Server (TFS) source control system. The document covers two topologies that are used by Microsoft Dynamics AX developers: private and shared Application Object Server (AOS) topologies.

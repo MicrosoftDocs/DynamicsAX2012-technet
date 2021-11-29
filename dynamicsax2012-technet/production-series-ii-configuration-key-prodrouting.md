@@ -14,6 +14,9 @@ f1_keywords:
 # Production Series II configuration key (ProdRouting) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Production Series II** configuration key controls access to some of the forms and functions that are used in production.

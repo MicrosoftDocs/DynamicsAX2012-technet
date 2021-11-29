@@ -19,6 +19,9 @@ ms.search.region: Global
 # View and maintain orders and statuses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **My orders** page to view and track the status of the orders that you have placed for items and services. You can view the status of the order as it is processed from a purchase request to order fulfillment and view the date on which the status was assigned to the order. After your order has been processed, you can confirm that you received the order.

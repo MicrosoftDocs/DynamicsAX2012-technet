@@ -13,6 +13,9 @@ f1_keywords:
 
 # write off
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To remove a debt that will not be paid by a party.
 
 ## See also

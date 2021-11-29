@@ -15,6 +15,9 @@ f1_keywords:
 # Create or modify quotations (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create and modify a sales quotation, and how to convert a quotation to a customer order. You can create a quotation by using either the **Sales quotation** form or the **Customers** form.

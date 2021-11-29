@@ -17,6 +17,9 @@ dev_langs:
 
 # LogonCredentials Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents credentials information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Entities](microsoft-dynamics-commerce-runtime-entities-namespace.md)  

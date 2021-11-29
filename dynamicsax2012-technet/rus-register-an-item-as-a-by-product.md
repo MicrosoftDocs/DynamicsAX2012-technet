@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Register an item as a by-product 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **By-product** form to register an item that is generated as a by-product during the production cycle. By-products are included when the cost of the production order is calculated.

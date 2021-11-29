@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create multiple versions of a formula 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create different versions of a formula. Each formula version has an effective date range to control the validity period for that version. If a formula has multiple versions, the effective date ranges cannot overlap.

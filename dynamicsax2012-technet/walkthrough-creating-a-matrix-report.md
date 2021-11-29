@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating a Matrix Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you will create a report to display customer transaction data in a matrix data region. A matrix data region displays data in a two-dimensional grid of columns and rows that intersect at specific data points. When defining a matrix data region, you can specify column and row groupings. The data that appears in the detail cells are aggregates based on the intersections of columns and rows.

@@ -17,6 +17,9 @@ f1_keywords:
 # (FRA) French bill of exchange remittance report (CustOutPaymControl\_FR\_LCR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The French bill of exchange remittance report displays details about remitted bills of exchange. The report includes information about your bank account, legal entity, and remittance type. It also provides a list of customer transactions that are affected by the bill of exchange. The report is printed when you generate a bill of exchange remittance file and the **Control report** check box is selected in the **French bill of exchange remittance** dialog box. This report is used by accounts receivable clerks and accounts payable clerks to maintain customer payments.

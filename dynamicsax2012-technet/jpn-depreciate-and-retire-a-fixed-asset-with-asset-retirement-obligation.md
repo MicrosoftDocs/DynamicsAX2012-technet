@@ -30,6 +30,9 @@ ms.search.region: Japan
 # (JPN) Depreciate and retire a fixed asset with asset retirement obligation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you set up an asset retirement obligation (ARO) document and attach it to a fixed asset, you can acquire a fixed asset and generate an ARO transaction during the acquisition. You can adjust ARO amounts up or down to calculate interest expenses in case there are changes in the estimated retirement cost for the fixed asset. You can depreciate the fixed asset over the course of its useful life, and then retire the asset.

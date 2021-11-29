@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Security and protection for analytics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains the default security model for analysis cubes that are used with Microsoft Dynamics AX, and how you can customize that model to meet your needs.

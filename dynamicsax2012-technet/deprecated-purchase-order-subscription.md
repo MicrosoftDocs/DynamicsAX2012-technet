@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Purchase order subscription 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Purchase order subscription is an order type that enables one purchase order to be processed multiple times. This feature works by renewing inventory transactions, thereby enabling new receipts on the same purchase order.

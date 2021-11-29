@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create a fixed asset lease and a return from lease transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can register the lease of an asset and the subsequent return of the leased asset to record the transactions for historical purposes.

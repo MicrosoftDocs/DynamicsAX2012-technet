@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Integrating a new Shipping Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The commerce runtime (CRT) includes a shipping service to calculate shipping costs and determine shipping options for the current order. As with all services in the CRT, you can use the default shipping service from Microsoft Dynamics AX or you can use a third party shipping service. This topic describes how to integrate a new Contoso shipping service into the CRT.

@@ -14,6 +14,9 @@ f1_keywords:
 
 # alternate key
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A candidate key that is not designated as the primary key and is used to uniquely identify records in a database table.
 
 ## See also

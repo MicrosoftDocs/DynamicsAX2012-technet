@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Letter of credit for the export of goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use letters of credit in the **Accounts payable**, **Accounts receivable**, and **Cash and bank management** modules to set up and transact bank-operated guarantees of payment between vendors and buyers that conduct business across international borders.

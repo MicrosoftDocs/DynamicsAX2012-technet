@@ -13,6 +13,9 @@ f1_keywords:
 
 # Report Data Provider-based report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A report where the data source is defined in a Report Data Provider (RDP) class.
 
 ## See also

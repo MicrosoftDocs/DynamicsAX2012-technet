@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReasonCodeSettings Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the reason code settings for the current channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

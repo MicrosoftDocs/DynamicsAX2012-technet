@@ -15,6 +15,9 @@ f1_keywords:
 # Set up a distribution location list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Distribution locations represent the destinations for distributed data. In general, you must have a distribution location for each store location that has its own database.

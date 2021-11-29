@@ -14,6 +14,9 @@ dev_langs:
 # How to: Enable Checking for Duplicate Messages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to enable checking for duplicate messages in Application Integration Framework (AIF). Each XML message that comes into AIF has a header that contains identification information such as the message ID and the service operation being called. For more information, see [Message Header](message-header.md).

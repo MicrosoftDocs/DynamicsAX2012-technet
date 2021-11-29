@@ -19,6 +19,9 @@ ms.search.region: Global
 # Key tasks: Set up vendor add requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Employees can submit requests to add a vendor to the vendor master for their legal entity. Employees may want to add a new vendor if, for example, they want to purchase a product that is not offered by a vendor in the company’s current vendor master. New vendor requests are submitted in the Employee services portal in Enterprise Portal for Microsoft Dynamics AX.

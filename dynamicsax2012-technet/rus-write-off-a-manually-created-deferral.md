@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Write off a manually created deferral 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journal voucher** form to write off a deferral that is created manually. To write off a deferral, you must create a write-off transaction in the **Deferrals journal** form by specifying **Writing off** as the transaction type.

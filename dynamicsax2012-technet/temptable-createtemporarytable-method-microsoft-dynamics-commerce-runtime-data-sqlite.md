@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateTemporaryTable Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a temporary table in the database and copy any rows present in [Rows](datatable-rows-property-microsoft-dynamics-commerce-runtime-data-types.md) to the temporary table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

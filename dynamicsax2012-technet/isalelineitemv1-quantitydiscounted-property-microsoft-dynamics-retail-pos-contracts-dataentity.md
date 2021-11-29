@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityDiscounted Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Used in calculation of the periodic discount. Keeps track of how many items have been discounted.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

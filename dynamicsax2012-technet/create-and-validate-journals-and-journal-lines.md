@@ -21,6 +21,9 @@ ms.search.region: Global
 # Create and validate journals and journal lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use journal forms to create and validate journals and journal lines. You can then post the lines in the **Journal voucher** form or in the **Journal** form.

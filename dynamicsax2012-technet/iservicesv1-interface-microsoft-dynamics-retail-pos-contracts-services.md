@@ -17,6 +17,9 @@ dev_langs:
 
 # IServicesV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IServicesV1 interface is the version 1.0 services interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

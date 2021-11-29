@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelCashDeclarationResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the response from the [GetChannelCashDeclarationRequest](getchannelcashdeclarationrequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

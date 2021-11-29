@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure the retail assortments job 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The assortments scheduler is automatically run when an assortment is published. You should also set up the assortments scheduler to run periodically as a batch job. The assortment scheduler batch job will update any assortments when new products are added to categories that are assigned to the assortments. This batch job also automatically assigns the assortments that are assigned to a store group to any new retail channels that are added to the store group.

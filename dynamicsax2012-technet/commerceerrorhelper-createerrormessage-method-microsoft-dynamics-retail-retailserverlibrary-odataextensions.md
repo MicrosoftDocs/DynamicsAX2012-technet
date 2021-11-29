@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateErrorMessage Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the odata error from [Exception](https://technet.microsoft.com/library/c18k6c59\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

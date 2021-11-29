@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure a parallel branch 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To configure a parallel branch, complete the following procedures in the workflow editor.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAttributeValue Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get attribute value for the given Xml string and attribute name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

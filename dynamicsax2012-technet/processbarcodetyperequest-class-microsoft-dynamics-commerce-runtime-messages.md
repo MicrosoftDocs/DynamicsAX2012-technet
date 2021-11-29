@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessBarcodeTypeRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a process barcode type request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

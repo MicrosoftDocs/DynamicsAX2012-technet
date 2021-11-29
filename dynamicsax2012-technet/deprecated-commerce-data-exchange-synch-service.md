@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Commerce Data Exchange: Synch Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Microsoft Dynamics AX 2012 Feature Pack and Microsoft Dynamics AX 2012 R2, Commerce Data Exchange: Synch Service (Retail Store Connect) is the integrated service that periodically replicates data between the Microsoft Dynamics AX database and store databases.

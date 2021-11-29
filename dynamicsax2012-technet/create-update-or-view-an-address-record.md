@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create, update, or view an address record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can enter and store multiple addresses in one record for an individual customer, contact, prospect, lead, or opportunity. For example, you can set up multiple addresses for a single customer account if that customer's delivery address differs from the billing address.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PutItemBarcodes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores barcode information for the given set of Items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

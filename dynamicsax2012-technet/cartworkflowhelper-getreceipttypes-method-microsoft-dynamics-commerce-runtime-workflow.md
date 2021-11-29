@@ -17,6 +17,9 @@ dev_langs:
 
 # GetReceiptTypes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the types of receipts that are to be printed for a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

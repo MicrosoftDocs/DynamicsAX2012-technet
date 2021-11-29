@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DemoServiceResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DemoServiceResponse](demoserviceresponse-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md) type exposes the following members.
 
 ## Methods

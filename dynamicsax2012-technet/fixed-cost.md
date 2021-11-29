@@ -13,6 +13,9 @@ f1_keywords:
 
 # fixed cost
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A cost that does not vary with changes in product delivery throughput or output.
 
 ## See also

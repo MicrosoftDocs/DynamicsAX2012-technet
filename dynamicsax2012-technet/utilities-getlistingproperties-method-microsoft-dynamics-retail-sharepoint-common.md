@@ -17,6 +17,9 @@ dev_langs:
 
 # GetListingProperties Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets Listing's URL for given Listing AX Record ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -17,6 +17,9 @@ f1_keywords:
 # (ITA) Pagamento Fornitori (IT) report (VendOutPaymControl\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Pagamento Fornitori (IT)** report is used to print bank remittance files for vendor payments. This report is typically used by chief financial officers, accounting managers, accountants, financial controllers, accounting clerks, and accounting supervisors to maintain vendor payments.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTrackingInformationFromCarrierServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates request to get tracking details of a shipment from a carrier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Transfer Orders configuration key (InventTransferOrders) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Transfer orders** configuration key controls access to forms and functions that are used to pick, receive, and ship order lines.

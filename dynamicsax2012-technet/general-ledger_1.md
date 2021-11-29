@@ -13,6 +13,9 @@ f1_keywords:
 
 # general ledger
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The register of debit and credit entries classified using accounts listed in a chart of accounts.
 
 ## See also

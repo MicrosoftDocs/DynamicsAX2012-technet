@@ -13,6 +13,9 @@ f1_keywords:
 
 # occupational injury
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An injury resulting from an accident in the work environment.
 
 ## See also

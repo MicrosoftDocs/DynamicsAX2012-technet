@@ -17,6 +17,9 @@ dev_langs:
 
 # OverridePrice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Apply price override to a cart line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

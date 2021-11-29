@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # Analysis server management cmdlets
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [Get-AXAnalysisDatabaseDetail](get-axanalysisdatabasedetail.md)
 
 [Get-AXAnalysisProjectDetail](get-axanalysisprojectdetail.md)

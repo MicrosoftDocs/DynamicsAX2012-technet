@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountBase Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Abstract class containing all of the standard properties that are shared across discount types. For specific discount types, see one of the implementations of this class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

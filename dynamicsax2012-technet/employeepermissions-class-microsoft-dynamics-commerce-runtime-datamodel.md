@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeePermissions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents employee permissions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Company and organization framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 has a new organization framework that supersedes the simple company feature that earlier versions had. The framework lets you create organizations and structure the organizations into hierarchies. Therefore, you can better model the separate legal and operational entities of a global corporation, and the hierarchical relationships between those entities.

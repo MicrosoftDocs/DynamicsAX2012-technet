@@ -14,6 +14,9 @@ ms.search.region: Global
 # Process an allocation request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Process allocation request** form to process an allocation rule and create an allocation journal. You can create a journal to group a chronological list of transactions, in the form of debits and credits, for a particular account or group of accounts.

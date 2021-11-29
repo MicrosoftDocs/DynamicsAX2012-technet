@@ -17,6 +17,9 @@ dev_langs:
 
 # QueryStringNameAccessToken Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Facebook query string name for access token.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

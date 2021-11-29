@@ -21,6 +21,9 @@ ms.search.region: Global
 # Allocate a project budget or budget revision across periods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you enter a project budget or project budget revision, and before you submit it for approval, you can allocate the amounts across periods. If the budget or budget revision is rejected, you can also allocate the amounts before you resubmit it.

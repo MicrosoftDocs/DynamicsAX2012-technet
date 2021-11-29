@@ -18,6 +18,9 @@ ms.search.region: Global
 # Register driver check-in and check-out for an appointment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a work breakdown structure of tasks for a project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A project often consists of multiple activities, or tasks. A work breakdown structure (WBS) is a hierarchical representation of the tasks for a project. This topic explains how to create a WBS, add tasks to it, and add requirements and other information for each task. It also provides information about working with revenue and costs in a WBS, working with estimated and actual hours for tasks in a WBS, and working with a WBS in Microsoft Project.

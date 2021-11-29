@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCartCollectionResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Collection of shopping carts response class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

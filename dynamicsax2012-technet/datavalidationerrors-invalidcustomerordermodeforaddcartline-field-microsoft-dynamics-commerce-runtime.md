@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCustomerOrderModeForAddCartLine Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the customer order mode is invalid for adding a cart line to the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Post prepayment journal vouchers to prepayment accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Accounting practices in many countries/regions require that prepayment journal vouchers, or payments in advance, from a customer or to a vendor not be posted to the usual summary accounts for the customer or vendor. Instead, these prepayment journal vouchers must be posted to special ledger accounts for prepayment journal vouchers. When a sales order or purchase order is made, an invoice is issued to the customer or vendor. When the invoice is paid, the prepayment journal voucher and sales tax prepayment journal voucher on the ledger accounts for the prepayment journal vouchers are reversed. The invoice amounts are then automatically posted to the usual summary accounts.

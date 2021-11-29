@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Preserve legacy element IDs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 4.0 and Microsoft Dynamics AX 2009, objects from multiple solutions in the product could possess the same object ID. Either the solutions were not installed together, and thus were not in conflict, or they were installed together and then merged manually by an ISV to avoid any ID conflict. However, as of Microsoft Dynamics AX 2012 R2, Microsoft merged PI (process manufacturing production and logistics), SI (project management and accounting), GLS (country/region-specific features), and Retail into the SYS layer. Consequently, IDs must be unique across all Microsoft metadata. If you have any of these solutions installed on your legacy system, you must identify the legacy object IDs during upgrade and preserve the ID references embedded in your business data.

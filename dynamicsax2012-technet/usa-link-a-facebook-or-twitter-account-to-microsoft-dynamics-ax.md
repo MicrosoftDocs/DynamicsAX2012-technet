@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Link a Facebook or Twitter account to Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To enable communication between a Facebook or Twitter account and Microsoft Dynamics AX, you must link the account to Microsoft Dynamics AX. Typically, the marketing manager performs this task.

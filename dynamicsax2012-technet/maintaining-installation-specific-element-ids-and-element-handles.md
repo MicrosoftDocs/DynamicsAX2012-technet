@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Maintaining Installation-Specific Element IDs and Element Handles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how element IDs and element handles are assigned. This topic also explains how to avoid changing element IDs and element handles, and describes how to recover a system if element IDs and element handles are changed.

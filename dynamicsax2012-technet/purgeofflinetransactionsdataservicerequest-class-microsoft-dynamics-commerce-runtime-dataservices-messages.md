@@ -17,6 +17,9 @@ dev_langs:
 
 # PurgeOfflineTransactionsDataServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data service request to purge transactions from offline transaction DB based on transaction IDs provided.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

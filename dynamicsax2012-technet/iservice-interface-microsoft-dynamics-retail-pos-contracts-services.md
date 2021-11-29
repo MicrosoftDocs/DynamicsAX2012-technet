@@ -17,6 +17,9 @@ dev_langs:
 
 # IService Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 IService is a base for all the service intefaces. This is used to collect all services in one collection.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

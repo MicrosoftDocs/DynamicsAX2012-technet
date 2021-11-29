@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailServerInstrumentationProvider Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Retail.Tracing.RetailServer](microsoft-dynamics-retail-tracing-retailserver-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.RetailServerLibrary (in Microsoft.Dynamics.Retail.RetailServerLibrary.dll)
 

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DefaultSortOrderAttribute Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DefaultSortOrderAttribute](defaultsortorderattribute-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

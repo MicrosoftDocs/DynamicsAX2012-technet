@@ -17,6 +17,9 @@ dev_langs:
 
 # EmailAddressPanel Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The email address panel.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

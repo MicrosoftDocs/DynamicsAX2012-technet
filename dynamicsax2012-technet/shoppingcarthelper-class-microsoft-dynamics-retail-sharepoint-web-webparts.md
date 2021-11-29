@@ -17,6 +17,9 @@ dev_langs:
 
 # ShoppingCartHelper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Helper class for deserializing shopping cart columns.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidChannelConfiguration Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the channel has not been configured yet or has been incorrectly configured.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Settle inventory transactions for restored VAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to update and settle inventory transactions for restored value-added tax (VAT). When you close an inventory transaction, you must settle an item issue transaction against the receipt of an item. You must define the sales tax code for domestic trading operations in the **Sales tax codes** form for sales tax codes of the **VAT 0%** type.

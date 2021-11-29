@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up shipping charges for retail stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up shipping charges for customer orders that are created in retail stores. There are three main steps to setting up shipping charges:

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Financial statements (traditional) configuration key (LedgerBalanceStatement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Financial statement (traditional)** configuration key controls access to the traditional financial statement forms and functionality. If your organization uses Management Reporter for financial reporting, you don’t need to select this configuration key.

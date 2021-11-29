@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Hardening Microsoft Dynamics AX components against security threats 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section surveys the procedures and best practices required to secure individual components of Microsoft Dynamics AX 2012

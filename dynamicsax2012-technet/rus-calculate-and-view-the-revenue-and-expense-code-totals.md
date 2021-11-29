@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate and view the revenue and expense code totals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you calculate the totals of the revenue and expense codes, the calculation results are presented in a hierarchical structure that resembles the directory of revenue and expenses. In the **Totals on codes** form, you can double-click the cells to view the register lines that contain the data that is used in the calculations. In the **Register lines** form, you can click **Source** to view an index of the primary documents. After you calculate the totals, you can validate the figures that appear on the tax statement report by comparing those figures with the primary documents. Online analytical processing (OLAP) is used to calculate and display the totals of the revenue and expense codes.

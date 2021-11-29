@@ -14,6 +14,9 @@ ms.search.region: Global
 # (Global, AUS, ITA) Set up withholding tax for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some countries/regions, such as Italy, require that buyers withhold tax from payments for vendor invoices. The buyers must then remit the tax to the tax authority. In Australia, withholding tax must be withheld if a vendor does not provide an Australian Business Number (ABN). Because withholding tax applies only to vendor invoices, the setup is completed in Accounts payable. For more information, see [Calculate and post withholding tax](calculate-and-post-withholding-tax.md).

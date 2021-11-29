@@ -21,6 +21,9 @@ ms.search.region: Mexico
 # (MEX) Customize Microsoft Dynamics AX to include the XML addenda element for a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can customize Microsoft Dynamics AX to include the XML addenda element for a customer. The addenda element is an optional element in the XML schema definition (XSD) provided by the Servicio de Administración Tributaria (SAT). The addenda element contains open syntax that you can use to include specific commercial information in electronic invoices, based on the customer’s requirements. Because there is no specific format defined for the addenda element, it is not validated by the SAT.

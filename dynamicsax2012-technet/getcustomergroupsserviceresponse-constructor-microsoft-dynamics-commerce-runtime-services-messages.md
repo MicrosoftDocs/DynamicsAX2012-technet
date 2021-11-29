@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCustomerGroupsServiceResponse Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

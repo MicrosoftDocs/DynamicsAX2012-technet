@@ -14,6 +14,9 @@ ms.search.region: Global
 # Select or enter a new address for a party record 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The party records that are stored in the Microsoft Dynamics AX global address book can contain one or more address records. These addresses are used for different purposes, such as billing or delivery. In a source or business document, you might have to select a different address from the default address – for example, when you are shipping an item to a customer at an alternate address. Or, you might have to add a new address for a party – for example, when an employee moves or a contact changes organizations.

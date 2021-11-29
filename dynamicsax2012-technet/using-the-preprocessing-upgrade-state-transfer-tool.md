@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Using the preprocessing upgrade state transfer tool 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The preprocessing upgrade state transfer tool helps you minimize downtime during upgrade. The tool also helps you avoid putting an additional load on your production Microsoft Dynamics AX system while you prepare to upgrade it. This topic describes how to create a test system that is a replica of your production system, perform data preprocessing on the test system, and then transfer the completed preprocessing state back to the production system.

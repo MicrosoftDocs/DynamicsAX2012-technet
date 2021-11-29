@@ -13,6 +13,9 @@ f1_keywords:
 
 # job function
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 One or more tasks, duties, and responsibilities that are assigned to a job.
 
 ## See also

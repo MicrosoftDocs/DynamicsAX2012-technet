@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Update country/region codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A list of default country/region codes is delivered in Microsoft Dynamics AX 2012. This list also includes 18 default address formats and component information for the countries/regions, such as state/province, county, city, district, and ZIP/postal code.

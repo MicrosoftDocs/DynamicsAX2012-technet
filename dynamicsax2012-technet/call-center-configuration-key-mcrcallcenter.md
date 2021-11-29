@@ -15,6 +15,9 @@ f1_keywords:
 # Call center configuration key (MCRCallCenter) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Call center** configuration key controls access to call center functionality in the **Call center** module and other modules.

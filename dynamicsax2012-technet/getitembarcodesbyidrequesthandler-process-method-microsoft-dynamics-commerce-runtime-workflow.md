@@ -17,6 +17,9 @@ dev_langs:
 
 # Process Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets batch of barcodes given list of Item Ids. an offline sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up a retail store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to set up a retail (brick-and-mortar) store in Retail. A retail store is considered a type of warehouse. In the following procedures, you first create a warehouse and define it as a store. You then create a new store and assign the warehouse to it.

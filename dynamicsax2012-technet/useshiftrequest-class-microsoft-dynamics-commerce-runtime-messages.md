@@ -17,6 +17,9 @@ dev_langs:
 
 # UseShiftRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Resume shift request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

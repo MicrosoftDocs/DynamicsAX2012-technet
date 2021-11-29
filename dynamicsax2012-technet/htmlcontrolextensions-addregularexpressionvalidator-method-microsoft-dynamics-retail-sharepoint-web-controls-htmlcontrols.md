@@ -17,6 +17,9 @@ dev_langs:
 
 # AddRegularExpressionValidator Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the Regular Expression Validator to the input element.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

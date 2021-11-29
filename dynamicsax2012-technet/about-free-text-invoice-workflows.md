@@ -19,6 +19,9 @@ ms.search.region: Global
 # About free text invoice workflows 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up a workflow for free text invoices to require that free text invoices be submitted for approval. You can require that all free text invoices be submitted, or only those that meet specified conditions.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAvailableInventory Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get available inventory across all stores for an item identifier or barcode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

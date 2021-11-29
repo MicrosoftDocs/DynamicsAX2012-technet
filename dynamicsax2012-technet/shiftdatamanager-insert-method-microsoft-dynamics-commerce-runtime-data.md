@@ -17,6 +17,9 @@ dev_langs:
 
 # Insert Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Inserts a Shift record in database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

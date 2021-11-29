@@ -14,6 +14,9 @@ f1_keywords:
 
 # allocate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To assign a portion of a resource for a particular use or purpose.
 
 ## See also

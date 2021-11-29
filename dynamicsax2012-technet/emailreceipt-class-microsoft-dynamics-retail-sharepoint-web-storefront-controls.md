@@ -17,6 +17,9 @@ dev_langs:
 
 # EmailReceipt Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Control for conveying that receipt was sent via email.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

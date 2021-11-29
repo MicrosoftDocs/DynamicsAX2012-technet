@@ -20,6 +20,9 @@ ms.search.region: Global
 # Apply a journal approval procedure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to apply a journal approval procedure to an hour journal. Journal approval procedures can be used to approve timesheet transactions that are entered by workers.

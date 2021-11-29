@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Promissory note configuration key (VendPromissoryNote) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Promissory note** configuration key controls access to promissory note forms and functions. A promissory note is a legally binding contract between a lender and a borrower. The promissory note contains the terms and conditions of the loan, including how and when the loan must be repaid.

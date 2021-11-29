@@ -17,6 +17,9 @@ dev_langs:
 
 # DeclareTenderAmountTotal Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets total of counted amounts (Closing amounts).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

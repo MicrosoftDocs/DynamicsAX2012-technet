@@ -13,6 +13,9 @@ f1_keywords:
 
 # customer loyalty program
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A structured program that rewards customers with incentives or other benefits for loyal buying behavior.
 
 ## See also

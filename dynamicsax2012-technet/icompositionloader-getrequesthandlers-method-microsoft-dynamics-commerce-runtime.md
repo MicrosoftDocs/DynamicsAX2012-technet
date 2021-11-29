@@ -17,6 +17,9 @@ dev_langs:
 
 # GetRequestHandlers Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all request handlers that support the specified request type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

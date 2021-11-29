@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (RUS) Increase string size of extended data types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you upgrade from a Microsoft Dynamics AX 2009 system that has a GLS-EE/RU layer, the **Increase string size of extended data types** code upgrade task allows you to check your custom code for changes to the Name extended data type (EDT) and increase its maximum string length as needed. The task creates a development project in the Data Dictionary that includes the larger string size. This process helps you prevent mapping errors during data upgrade.

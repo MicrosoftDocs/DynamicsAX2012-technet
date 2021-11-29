@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate the Return report from storage (MX-3) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Posting invoice** form to generate the Return report from storage (MX-3). You can generate this report to track items that are returned to the bailor after they have been in storage. The Return report from storage (MX-3) contains the following information:

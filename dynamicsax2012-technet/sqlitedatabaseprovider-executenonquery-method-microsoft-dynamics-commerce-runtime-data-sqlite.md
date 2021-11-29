@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteNonQuery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes a command against the database that has no output.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

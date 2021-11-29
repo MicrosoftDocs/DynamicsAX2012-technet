@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (IND) TCS statement (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate a quarterly statement by using Form 27EQ for Tax collected at source (TCS).

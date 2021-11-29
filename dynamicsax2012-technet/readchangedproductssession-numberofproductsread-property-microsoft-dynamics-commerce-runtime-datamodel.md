@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberOfProductsRead Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets total number of products which was read in this session so far.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a product model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Product models are created in almost the same manner as standard bills of materials and standard routes. The product model is displayed in the upper part of the Product model form. Use the lower part to specify the items for which the selected product model should be valid. You can create models manually or use the Product model wizard.

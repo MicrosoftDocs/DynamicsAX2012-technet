@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # D
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [data entity](data-entity.md)
 
 [data event](data-event.md)

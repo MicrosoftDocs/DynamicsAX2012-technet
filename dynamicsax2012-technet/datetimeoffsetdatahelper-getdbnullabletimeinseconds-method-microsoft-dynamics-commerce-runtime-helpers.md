@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDbNullableTimeInSeconds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets DB nullable time in seconds.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

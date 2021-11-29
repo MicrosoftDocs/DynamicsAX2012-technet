@@ -17,6 +17,9 @@ dev_langs:
 
 # NoOfItems Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Number of items in the transaction - the total quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetActiveProductPriceResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetActiveProductPriceResponse](getactiveproductpriceresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # Load Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Loads records from the database into a data table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

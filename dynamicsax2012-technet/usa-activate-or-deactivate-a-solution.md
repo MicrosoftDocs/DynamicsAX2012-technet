@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Activate or deactivate a solution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can activate and deactivate Sites Services for Microsoft Dynamics ERP solutions. After you create a solution with the Sites Services solution wizard, the new solution is activated, synchronized, and ready to use. When you deactivate a solution, it is no longer available online, but you can reactivate it later.

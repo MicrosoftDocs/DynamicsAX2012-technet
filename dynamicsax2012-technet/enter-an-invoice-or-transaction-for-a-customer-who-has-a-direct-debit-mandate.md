@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enter an invoice or transaction for a customer who has a direct debit mandate 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to create a free text invoice for a customer who has a direct debit mandate. The process is similar for customer invoices for sales orders.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a project contract to invoice for time and materials 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to create a project and project contract, so that you can invoice a customer for the time and materials used for a project. The timing of the invoices is negotiated with the customer.

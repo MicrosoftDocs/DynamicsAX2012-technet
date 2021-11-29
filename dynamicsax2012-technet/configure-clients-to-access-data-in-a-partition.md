@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure clients to access data in a partition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2012 R2 enables data isolation by using data partitions. Data partitions provide a logical separation of data in the Microsoft Dynamics AX database. Partitions are defined in the **Partitions** form, where the system administrator creates the partition and provides a partition key. A partition key identifies a partition by using a unique string value that the system administrator specifies. Microsoft Dynamics AX displays the partition key in the title bar of the client application. For more information about partitions, see [Data partitioning architecture](data-partitioning-architecture.md).

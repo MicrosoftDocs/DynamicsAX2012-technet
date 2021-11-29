@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AnsiDatabaseQueryBuilder Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AnsiDatabaseQueryBuilder](ansidatabasequerybuilder-class-microsoft-dynamics-commerce-runtime-framework-data-interfaces.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityDiscountLevel Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines a threshold level for a quantity discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

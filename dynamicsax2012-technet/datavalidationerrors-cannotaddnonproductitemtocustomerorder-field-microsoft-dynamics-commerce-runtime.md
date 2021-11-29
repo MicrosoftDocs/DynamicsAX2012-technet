@@ -17,6 +17,9 @@ dev_langs:
 
 # CannotAddNonProductItemToCustomerOrder Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that gift card cannot be issued/added if Sales transaction mode is invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Respond to RFQ/RFP 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you make a sale, you must respond to a Request for quotation (RFQ) or a Request for proposal (RFP), if there is one.

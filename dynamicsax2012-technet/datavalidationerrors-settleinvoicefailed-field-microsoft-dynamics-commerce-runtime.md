@@ -17,6 +17,9 @@ dev_langs:
 
 # SettleInvoiceFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The settle invoice payment failed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

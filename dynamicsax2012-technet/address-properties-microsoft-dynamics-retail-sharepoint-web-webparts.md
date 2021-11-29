@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # Address Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Address](address-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) type exposes the following members.
 
 ## Properties

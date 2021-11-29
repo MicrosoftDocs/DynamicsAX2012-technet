@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Reverse a ledger journal of amount difference transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journals** form to reverse a ledger journal of amount difference transactions.

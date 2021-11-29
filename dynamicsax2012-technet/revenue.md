@@ -13,6 +13,9 @@ f1_keywords:
 
 # revenue
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An increase in an organization's assets or a decrease in an organization's liabilities during a reporting period.
 
 ## See also

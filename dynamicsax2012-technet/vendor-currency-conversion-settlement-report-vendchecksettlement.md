@@ -14,6 +14,9 @@ f1_keywords:
 # Vendor currency conversion settlement report (VendCheckSettlement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this currency conversion report to view vendor settlements that have a rounding difference as a result of the currency conversion. The report shows the date of settlement, the difference, and a grand total.

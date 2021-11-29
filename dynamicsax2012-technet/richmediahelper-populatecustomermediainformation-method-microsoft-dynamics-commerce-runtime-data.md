@@ -17,6 +17,9 @@ dev_langs:
 
 # PopulateCustomerMediaInformation Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populates the customer media information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

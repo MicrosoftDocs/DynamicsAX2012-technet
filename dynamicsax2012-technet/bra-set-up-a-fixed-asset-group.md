@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up a fixed asset group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Setting up fixed asset groups can help to simplify the setting up of individual fixed assets. These groups also help classify information for reporting.

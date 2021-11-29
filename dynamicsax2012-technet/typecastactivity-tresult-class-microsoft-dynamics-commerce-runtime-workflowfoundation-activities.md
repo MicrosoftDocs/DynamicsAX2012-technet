@@ -17,6 +17,9 @@ dev_langs:
 
 # TypeCastActivity(TResult) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generic activity to cast object to specific type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities](microsoft-dynamics-commerce-runtime-workflowfoundation-activities-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PutVariantByVariantId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the variant using the specified variant identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

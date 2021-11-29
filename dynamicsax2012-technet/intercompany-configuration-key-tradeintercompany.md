@@ -14,6 +14,9 @@ f1_keywords:
 # Intercompany configuration key (TradeInterCompany) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Intercompany** configuration key controls access to the Intercompany feature. This feature allows for the exchange of documents between internal trade partners. Sales and purchase order documents are transferred automatically between the intercompany trade partners using the document transfer methods from the Microsoft Dynamics AX Integration Framework feature. If this key is disabled, all instances of fields related to the Intercompany feature are removed.

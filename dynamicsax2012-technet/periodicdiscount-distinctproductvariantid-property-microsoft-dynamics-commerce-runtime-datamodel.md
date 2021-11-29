@@ -17,6 +17,9 @@ dev_langs:
 
 # DistinctProductVariantId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the optional distinct variant record Id associated with this retail discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

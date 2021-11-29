@@ -13,6 +13,9 @@ f1_keywords:
 
 # unit class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classification of units of measurement.
 
 ## See also

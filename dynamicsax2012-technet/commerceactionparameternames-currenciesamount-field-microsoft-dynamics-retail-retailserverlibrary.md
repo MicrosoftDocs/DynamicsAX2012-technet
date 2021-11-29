@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrenciesAmount Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The currencies amount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

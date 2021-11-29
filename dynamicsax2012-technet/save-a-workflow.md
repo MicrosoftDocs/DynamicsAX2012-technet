@@ -14,6 +14,9 @@ ms.search.region: Global
 # Save a workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you close the workflow editor, you can save your work, or you can discard the changes that you made.

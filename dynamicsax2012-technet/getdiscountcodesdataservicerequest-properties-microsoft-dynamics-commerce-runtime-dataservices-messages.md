@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetDiscountCodesDataServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetDiscountCodesDataServiceRequest](getdiscountcodesdataservicerequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

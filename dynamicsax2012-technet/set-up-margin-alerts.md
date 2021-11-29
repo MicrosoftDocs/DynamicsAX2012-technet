@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up margin alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up margin alerts. A margin alert is triggered when you add an item to an order. The alert contains important information about the item, including the price margin and item profitability. You can use this information to decide whether a price override is appropriate when you add an item to the sales order.

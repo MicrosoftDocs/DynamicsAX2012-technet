@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSuspended Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all suspended carts.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

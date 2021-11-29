@@ -36,6 +36,9 @@ ms.search.region: USA
 # Generating payroll reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX provides a set of standard payroll reports to assist you with payroll processing and government reporting. If you have installed Microsoft Dynamics AX 2012 R3 or cumulative update 7 or later for AX 2012 R2, a Payroll data cube is also available. Use the standard reports to create pay statements and W-2 forms to issue to your workers, to validate payroll taxes and benefit amounts, and to complete federal and state regulatory reports. Use the Payroll cube to create custom reports that answer a variety of questions that you might have about your payroll data.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # MorphX report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A report that is developed using the MorphX integrated development model.
 
 ## See also

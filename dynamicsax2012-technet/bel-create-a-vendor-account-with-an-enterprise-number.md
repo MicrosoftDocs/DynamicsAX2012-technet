@@ -18,6 +18,9 @@ ms.search.region: Belgium
 # (BEL) Create a vendor account with an enterprise number 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The enterprise number is a unique identification code assigned by the Belgian government to each Belgian company to replace the nine-digit VAT number. The enterprise number, which must appear in vendor account records, contains text and a ten-digit number. The abbreviations TVA or BTW in the text of the vendor’s unique enterprise number indicate that the company is required to pay VAT. If the company has an Intrastat obligation, the abbreviation BE is also included in the text.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a default route 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Default routes are used as templates to create the route of a specific product model. The operations that can be attached to a default route are the operations that have previously been defined in the **Production** module. When a product model uses a default route, any operation from the default route can be added to the modeling tree. However, the operations will always appear in the order in which they appear in the default route. Specific operations from the default route may be omitted, and new operations can be added before or after the default route operations. However, new operations cannot be inserted between the operations from the default route.

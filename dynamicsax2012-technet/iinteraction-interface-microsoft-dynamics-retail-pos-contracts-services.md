@@ -17,6 +17,9 @@ dev_langs:
 
 # IInteraction Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interaction interface
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

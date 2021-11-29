@@ -13,6 +13,9 @@ f1_keywords:
 
 # cash
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A currency limited to money.
 
 ## See also

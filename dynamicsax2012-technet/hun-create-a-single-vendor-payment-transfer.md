@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Create a single vendor payment transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The MultiCash system includes a bank-Giro format to transfer domestic payments in domestic (HUF) currency and another format to payments in foreign currencies. Generating payments is similar to the standard functionality in Microsoft Dynamics AX. When you create payments, the payment file in the required format is generated, according to the selected currency code.

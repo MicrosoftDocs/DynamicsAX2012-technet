@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCertificate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get certificate by thumbprint.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

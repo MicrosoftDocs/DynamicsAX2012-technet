@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure work item queues 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A manual task can be assigned to a *work item queue*, which is a collection of documents that require processing. Every work item queue must have users assigned to it who are responsible for monitoring the queue and processing the documents that are in it. The following topics explain how to create and use work item queues.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Dates, times and time zones 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how dates, times, and time zones are used in Microsoft Dynamics AX. This section includes procedures that describe how to change your preferred time zone and how to change the current date for a client session.

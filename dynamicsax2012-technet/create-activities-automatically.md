@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create activities automatically 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up Microsoft Dynamics AX to create an activity automatically when you create a sales quotation, campaign, campaign target, or telemarketing call list. You can also set up Microsoft Dynamics AX to create an activity automatically when the status of a target for a telemarketing call list is changed to **Call back**.

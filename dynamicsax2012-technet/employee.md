@@ -13,6 +13,9 @@ f1_keywords:
 
 # employee
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A role assumed by a person who participates in an employee-employer relationship with a legal entity.
 
 ## See also

@@ -25,6 +25,9 @@ ms.search.region: Global
 # Approve check and credit card refunds 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to approve and process refunds for call center customers.

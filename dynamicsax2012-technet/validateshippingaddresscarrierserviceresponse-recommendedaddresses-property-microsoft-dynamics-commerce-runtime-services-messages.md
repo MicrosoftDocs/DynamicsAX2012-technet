@@ -17,6 +17,9 @@ dev_langs:
 
 # RecommendedAddresses Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of valid addresses that are recommended by the shipping carrier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Using Task recorder 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section explain how to configure Task recorder in basic or advanced mode, and how to use Task recorder to create training documents for business processes and task.

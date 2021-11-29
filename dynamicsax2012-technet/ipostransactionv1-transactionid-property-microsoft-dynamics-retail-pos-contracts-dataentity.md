@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transaction ID.
 
 Note: This value is assigned quite late in the transaction process and therefore is not available from the beginning of the process.

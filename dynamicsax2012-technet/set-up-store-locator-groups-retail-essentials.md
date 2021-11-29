@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up store locator groups (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up and use store locator groups to control which stores are included in a search when an employee searches for a product. Use store locator groups to define groups of stores based on location or other criteria, and then assign them to your stores. When an employee searches to see if a product is available at nearby stores, the search results include only the stores that are included in the store locator groups that are assigned to that store.

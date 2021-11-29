@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EntityDataServiceRequest(TResponseEntity) Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EntityDataServiceRequest\<TResponseEntity\>](entitydataservicerequest-tresponseentity-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

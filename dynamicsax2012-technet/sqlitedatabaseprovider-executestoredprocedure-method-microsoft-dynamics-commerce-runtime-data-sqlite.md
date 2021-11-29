@@ -17,6 +17,9 @@ dev_langs:
 
 # ExecuteStoredProcedure Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes a store procedure against the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

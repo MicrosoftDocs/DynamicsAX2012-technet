@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Modify Commerce Services settings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can modify store parameters in Microsoft Dynamics AX for individual stores.

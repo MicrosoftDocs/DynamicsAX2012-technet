@@ -17,6 +17,9 @@ dev_langs:
 
 # IFiscalPrinterV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Interface v2.0. for Fiscal printer device
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

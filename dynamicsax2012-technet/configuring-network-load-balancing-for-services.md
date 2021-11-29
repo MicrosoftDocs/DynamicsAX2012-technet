@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configuring network load balancing for services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Clusters of instances of Application Object Server (AOS) for Microsoft Dynamics AX can be load balanced in two ways: the cluster can either include or lack a dedicated load-balancing AOS instance. However, load-balanced AOS clusters cannot load balance network traffic for services. When you use either of the two AOS load-balancing approaches, all traffic for services is routed to the first AOS instance in the list of servers that belong to the cluster. For more information about how to load balance AOS clusters, see [AOS clusters without a dedicated load balancer](aos-clusters-without-a-dedicated-load-balancer.md) and [AOS clusters with a dedicated load balancer](aos-clusters-with-a-dedicated-load-balancer.md). To enable load balancing for services, you must instead use Windows Server Network Load Balancing (NLB). For information about NLB, see the [Network Load Balancing Deployment Guide](https://go.microsoft.com/fwlink/?linkid=225684) on the TechNet website.

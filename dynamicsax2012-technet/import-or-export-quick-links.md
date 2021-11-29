@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Import or export quick links 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Quick links Web parts on Role Centers display links that are relevant to users who have a specific role. The links provide access to frequently used forms, reports, list pages, and Web pages.

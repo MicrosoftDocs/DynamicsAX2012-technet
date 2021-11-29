@@ -13,6 +13,9 @@ f1_keywords:
 
 # derived class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A class that assumes a child role when it participates in an inheritance relationship with a parent (or base) class whose methods can be extended or redefined and whose member access can be restricted.
 
 ## See also

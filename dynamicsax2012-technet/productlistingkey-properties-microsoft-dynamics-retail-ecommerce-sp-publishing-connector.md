@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductListingKey Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductListingKey](productlistingkey-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md) type exposes the following members.
 
 ## Properties

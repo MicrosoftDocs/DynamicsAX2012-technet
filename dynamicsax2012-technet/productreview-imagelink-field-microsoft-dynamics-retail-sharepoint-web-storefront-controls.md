@@ -17,6 +17,9 @@ dev_langs:
 
 # ImageLink Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The image link.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

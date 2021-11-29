@@ -15,6 +15,9 @@ ms.search.region: Global
 # Assign responsibilities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can assign responsibilities to various individuals in your organization, based on their roles and tasks. You can also change or delete assignments of responsibility at any time.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Units 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A unit of measure is a standard base or a derived division of quantity that is used for measurement or exchange. For example, when you enter an order in Microsoft Dynamics AX, you specify both a quantity and the unit of measure that the quantity represents.

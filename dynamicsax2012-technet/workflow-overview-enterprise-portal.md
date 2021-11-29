@@ -14,6 +14,9 @@ ms.search.region: Global
 # Workflow overview (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A *workflow* represents a business process. It defines how a document flows through the system by showing who must complete a task, make a decision, or approve a document. For example, consider the following illustration of an expense report workflow.

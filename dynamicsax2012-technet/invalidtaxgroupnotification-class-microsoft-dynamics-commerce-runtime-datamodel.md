@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidTaxGroupNotification Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that Tax service was unable to find an associated sales tax group for the given shipping address.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # cost center
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An operating unit whose managers are accountable for budgeted and actual expenditures.
 
 ## See also

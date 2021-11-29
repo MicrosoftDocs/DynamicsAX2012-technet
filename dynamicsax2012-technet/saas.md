@@ -13,6 +13,9 @@ f1_keywords:
 
 # SaaS
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The capability provided to the consumer for using the provider’s applications running on a cloud infrastructure. The applications are accessible from various client devices through either a thin client interface, such as a web browser (e.g., web-based email), or a program interface. The consumer does not manage or control the underlying cloud infrastructure, including network, servers, operating systems, storage, or even individual application capabilities, with the possible exception of limited user-specific application configuration settings.
 
 ## See also

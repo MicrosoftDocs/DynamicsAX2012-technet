@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateItems Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates items on the shopping cart associated with the given identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

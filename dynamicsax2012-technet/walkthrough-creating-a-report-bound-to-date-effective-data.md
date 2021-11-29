@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating a Report Bound to Date Effective Data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you will create a report that is bound to date effective data. Date effective data is valid time state data for which changes must be tracked at different points in time. On a table in the AOT, you can set the ValidTimeStateFieldType property to make it a valid time state table. Setting this property causes the system to automatically add the ValidFrom and ValidTo columns which track a date range for each row. Reports that are bound to valid time state data will provide a parameter for the date range or a specific date on the parameter form when you run the report. For this example you will create a report that lists employees that were on leave during a date range or on a specific date.

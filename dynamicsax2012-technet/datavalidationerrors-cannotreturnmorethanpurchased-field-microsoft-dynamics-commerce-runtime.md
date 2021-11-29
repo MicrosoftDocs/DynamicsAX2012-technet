@@ -17,6 +17,9 @@ dev_langs:
 
 # CannotReturnMoreThanPurchased Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a return transaction must not return more than what has been bought.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

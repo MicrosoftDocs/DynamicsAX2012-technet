@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Scenario: Upgrade to AX 2012 R2 + CU6 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 If you plan to install Cumulative Update 6 (CU6) for Microsoft Dynamics AX 2012 R2 as part of an upgrade, you should review this topic to avoid potential problems on your upgraded system. This topic covers both source-to-target and in-place upgrade scenarios involving CU6 for Microsoft Dynamics AX 2012 R2.

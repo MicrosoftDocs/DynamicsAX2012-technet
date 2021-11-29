@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # C
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [campaign](campaign.md)
 
 [Canadian Payments Association Standard 005](canadian-payments-association-standard-005.md)

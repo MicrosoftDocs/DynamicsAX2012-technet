@@ -13,6 +13,9 @@ f1_keywords:
 
 # confirmation of receipt policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that prescribes the functional location where the physical acceptance of items takes place.
 
 ## See also

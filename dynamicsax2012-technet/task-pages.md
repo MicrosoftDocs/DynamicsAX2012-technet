@@ -16,6 +16,9 @@ ms.search.region: Global
 # Task pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use task pages to complete tasks in Enterprise Portal for Microsoft Dynamics AX, such as modifying records. You can open task pages from links or menus on other types of pages, such as list pages or entity overview pages. You can also open task pages from other task pages.

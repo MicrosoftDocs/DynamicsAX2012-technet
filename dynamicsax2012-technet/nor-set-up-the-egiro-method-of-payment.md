@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up the eGiro method of payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 eGiro is an electronic payment method that uses a structured file format to automatically post payments that are received from customers. The eGiro EDI file format is based on the international United Nations standard EDIFACT CREMUL (Multiple Credit Advice Message).

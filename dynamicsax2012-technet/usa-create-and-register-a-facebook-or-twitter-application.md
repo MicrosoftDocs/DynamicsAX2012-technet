@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Create and register a Facebook or Twitter application 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 As part of the process for publishing retail discounts on Facebook or Twitter, you create an application on Facebook or Twitter, and then register the application with Microsoft Dynamics AX.

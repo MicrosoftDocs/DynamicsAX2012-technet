@@ -17,6 +17,9 @@ dev_langs:
 
 # UnregisterWebApplicationForMonitoringDiscovery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Unregisters a web application from the registry.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

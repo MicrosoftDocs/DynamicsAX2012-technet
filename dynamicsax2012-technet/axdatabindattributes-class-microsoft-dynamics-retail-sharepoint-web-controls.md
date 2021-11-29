@@ -18,6 +18,9 @@ dev_langs:
 
 # AXDataBindAttributes Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reserved element attribute names used for rendering html.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the charge group identifier that this delivery mode is assigned to.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

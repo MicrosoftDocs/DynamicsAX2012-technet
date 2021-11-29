@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Use an Expression in a Report Parameter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Expressions are used throughout a report definition to control content and format the data in a report. You can use the Edit Expression window to write an expression to do the following parameter related tasks:

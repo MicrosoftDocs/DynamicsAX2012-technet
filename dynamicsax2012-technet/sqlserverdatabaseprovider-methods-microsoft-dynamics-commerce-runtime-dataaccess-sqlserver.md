@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SqlServerDatabaseProvider Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SqlServerDatabaseProvider](sqlserverdatabaseprovider-class-microsoft-dynamics-commerce-runtime-dataaccess-sqlserver.md) type exposes the following members.
 
 ## Methods

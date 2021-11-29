@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Calculate withholding tax for the sale of services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Journal voucher** form to enter and post payments that you receive from customers for the sale of items or services. When you post a customer payment journal, the withholding tax group that is set up for the customer is used to calculate the withholding tax on the transaction.

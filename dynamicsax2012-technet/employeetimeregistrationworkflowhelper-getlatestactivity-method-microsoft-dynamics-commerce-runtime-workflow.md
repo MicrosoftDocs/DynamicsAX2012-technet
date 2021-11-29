@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLatestActivity Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the latest activity of the employee.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

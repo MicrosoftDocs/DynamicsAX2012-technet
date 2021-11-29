@@ -14,6 +14,9 @@ ms.search.region: Global
 # Delete an attribute group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use attribute groups in product configuration models to specify the arrangement of attributes when they are displayed in the user interface. Because attributes are assigned to a component or subcomponent, you can delete an attribute group without deleting the attributes that are included in the group. After you delete an attribute group, the attributes remain assigned to the component or subcomponent, and are displayed in the user interface in alphabetical order.

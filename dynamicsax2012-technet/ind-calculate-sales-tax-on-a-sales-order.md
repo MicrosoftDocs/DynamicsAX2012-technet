@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Calculate sales tax on a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you invoice a purchase order or a sales order, a product receipt is created. A product receipt resembles the goods receipt note that is specific to India.

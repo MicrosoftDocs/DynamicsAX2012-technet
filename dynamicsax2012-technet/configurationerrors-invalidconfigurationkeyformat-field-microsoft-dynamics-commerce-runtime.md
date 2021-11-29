@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidConfigurationKeyFormat Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the format of the configuration key is invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

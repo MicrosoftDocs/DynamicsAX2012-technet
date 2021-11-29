@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerOrDirectoryPartyNotFound Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the customer or the directory party is not found.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

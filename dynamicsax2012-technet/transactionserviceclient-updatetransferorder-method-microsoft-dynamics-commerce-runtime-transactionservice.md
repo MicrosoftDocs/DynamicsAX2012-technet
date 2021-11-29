@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateTransferOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates a transfer order in Ax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

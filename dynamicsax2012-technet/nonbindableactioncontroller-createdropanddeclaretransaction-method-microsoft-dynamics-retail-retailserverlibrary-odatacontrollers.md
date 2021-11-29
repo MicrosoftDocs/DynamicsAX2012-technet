@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateDropAndDeclareTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Performs saving tender drop and declare store operations.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

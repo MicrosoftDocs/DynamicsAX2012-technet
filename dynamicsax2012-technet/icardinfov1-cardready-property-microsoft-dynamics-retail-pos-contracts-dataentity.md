@@ -17,6 +17,9 @@ dev_langs:
 
 # CardReady Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 All relevant card data that has been provided for the card.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

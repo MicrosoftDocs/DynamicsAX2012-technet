@@ -14,6 +14,9 @@ f1_keywords:
 # Spend by requester per ship to country/region report (VendSpendShipToLocation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the amount of purchases from vendors by an operating unit in a specific country/region.

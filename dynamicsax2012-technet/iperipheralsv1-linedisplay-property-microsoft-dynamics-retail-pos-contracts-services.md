@@ -17,6 +17,9 @@ dev_langs:
 
 # LineDisplay Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the LineDisplay peripheral device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

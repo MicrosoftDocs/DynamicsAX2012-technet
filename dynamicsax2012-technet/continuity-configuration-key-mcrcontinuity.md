@@ -15,6 +15,9 @@ f1_keywords:
 # Continuity configuration key (MCRContinuity) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The **Continuity** configuration key controls access to continuity program forms and functions in the **Call center** module.

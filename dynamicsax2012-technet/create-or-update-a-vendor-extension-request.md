@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create or update a vendor extension request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a vendor is approved to do business with your organization, it is authorized to provide goods and services in only specified legal entities. Use a vendor extension request to request that a vendor be authorized to do business with your legal entity when it is already doing business with another legal entity in the organization.

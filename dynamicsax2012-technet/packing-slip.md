@@ -13,6 +13,9 @@ f1_keywords:
 
 # packing slip
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents the item quantities in a shipment.
 
 ## See also

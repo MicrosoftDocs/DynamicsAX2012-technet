@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityOrdered Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the QuantityOrdered for the cartline (customer order).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

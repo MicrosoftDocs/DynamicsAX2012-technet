@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetLatestNumberSequenceDataServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetLatestNumberSequenceDataServiceRequest](getlatestnumbersequencedataservicerequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

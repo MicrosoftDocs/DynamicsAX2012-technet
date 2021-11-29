@@ -15,6 +15,9 @@ ms.search.region: Global
 # About Enterprise Portal pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section describe the various types of Web pages in Enterprise Portal for Microsoft Dynamics AX. To use Enterprise Portal effectively, you must understand the options that are available on these pages.

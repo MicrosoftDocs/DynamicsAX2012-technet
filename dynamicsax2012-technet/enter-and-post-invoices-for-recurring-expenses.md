@@ -14,6 +14,9 @@ ms.search.region: Global
 # Enter and post invoices for recurring expenses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use voucher templates to streamline the process of entering invoices for recurring expenses, such as interest expenses or telephone expenses. You can use voucher templates with general journals or vendor invoice journals. You can create multiple voucher templates.

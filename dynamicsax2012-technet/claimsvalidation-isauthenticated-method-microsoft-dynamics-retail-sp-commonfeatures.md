@@ -17,6 +17,9 @@ dev_langs:
 
 # IsAuthenticated Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the bool that indicates whether or not this user is authenticated.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

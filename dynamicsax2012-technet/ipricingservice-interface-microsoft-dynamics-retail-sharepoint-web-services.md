@@ -17,6 +17,9 @@ dev_langs:
 
 # IPricingService Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The pricing service interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

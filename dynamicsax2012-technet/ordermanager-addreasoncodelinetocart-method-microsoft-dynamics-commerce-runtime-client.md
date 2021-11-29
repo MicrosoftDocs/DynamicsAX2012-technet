@@ -17,6 +17,9 @@ dev_langs:
 
 # AddReasonCodeLineToCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the reason code line to cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

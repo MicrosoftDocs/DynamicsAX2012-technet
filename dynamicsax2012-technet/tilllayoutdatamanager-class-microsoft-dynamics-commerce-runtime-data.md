@@ -17,6 +17,9 @@ dev_langs:
 
 # TillLayoutDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The screen layout data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ThresholdDiscountTiers Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the threshold discount tiers for this discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

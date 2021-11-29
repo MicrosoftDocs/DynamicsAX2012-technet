@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a work breakdown structure template for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create a template for a work breakdown structure (WBS) in Microsoft Dynamics AX. A WBS is a list of tasks that a project manager plans to complete for a project. If some tasks are the same for multiple projects, you can create a WBS template that contains those tasks. Use a WBS template as a starting point for a WBS for a project.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Bulk edit product attributes by using Excel (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to use Microsoft Excel to update attributes such as size, color, and dimensions for products that you sell in your retail stores.
 
 In Retail essentials, you use product attributes to add merchandising details to the products that you offer in your store. Product attributes include things like color, size, product dimensions, and other product details.

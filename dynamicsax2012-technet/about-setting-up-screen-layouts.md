@@ -18,6 +18,9 @@ ms.search.region: Global
 # About setting up screen layouts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The graphical design of the interface for Microsoft Dynamics AX for Retail POS is controlled by the till layout. A layout controls the position of various objects. Examples include the total layout, item grid layout, customer layout, and payment layout, and the layout of various menu buttons. Layouts also include the overall appearance of the sales interface for Retail POS that is presented to workers.

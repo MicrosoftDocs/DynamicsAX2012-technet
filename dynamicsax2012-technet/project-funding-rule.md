@@ -13,6 +13,9 @@ f1_keywords:
 
 # project funding rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A rule in a project system that controls how project activities are funded by one or more funding sources based on project criteria and other conditions.
 
 ## See also

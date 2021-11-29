@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create or modify a security role 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If the security roles that are provided with Microsoft Dynamics AX do not meet the needs of your business, you can create new roles. You can create a custom role that is based on an existing role, or you can build a completely new role.

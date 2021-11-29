@@ -17,6 +17,9 @@ ms.search.region: Global
 # Working with Fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide an overview of each component of the fixed assets business process. They also list the forms that are associated with each component, and they discuss the tasks that are associated with each component.

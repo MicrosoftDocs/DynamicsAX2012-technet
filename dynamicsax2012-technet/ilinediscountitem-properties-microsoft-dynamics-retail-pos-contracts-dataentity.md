@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ILineDiscountItem Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ILineDiscountItem](ilinediscountitem-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

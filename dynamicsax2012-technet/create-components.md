@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A component is a generic element that can be assigned to a product configuration model. After you assign a component to a product configuration model, you can add information to the component so that it suits that particular model. This can include information about user requirements, attributes, and constraints. A component can also include other components as subcomponents. For more information, see [Create a subcomponent for a component](create-a-subcomponent-for-a-component.md). A component can be used more than one time in a product configuration model, and it can be used by more than one product configuration model.

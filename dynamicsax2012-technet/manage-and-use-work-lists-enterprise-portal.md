@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage and use work lists (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Work lists display Workflow work items, tasks, alerts, and activities that you can act on or must be notified about. Some items in the list, such as Workflow work items, may require that you perform some action. For example, you may have to approve the work item or delegate it to another employee. Other items, such as alerts, may give you helpful information about a predefined event, such as a shipping date or details about a sales order.

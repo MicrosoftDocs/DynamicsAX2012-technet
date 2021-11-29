@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITenderLineItemV2 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITenderLineItemV2](itenderlineitemv2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

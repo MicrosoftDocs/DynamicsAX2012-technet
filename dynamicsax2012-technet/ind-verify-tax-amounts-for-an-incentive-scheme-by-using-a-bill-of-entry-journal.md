@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Verify tax amounts for an incentive scheme by using a bill of entry journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Tax transactions** form to view the total amount of sales tax, incentive scheme tax, and balance tax for a purchase order. You can also use this form to view any amounts that have been adjusted for the incentive scheme tax and balance tax.

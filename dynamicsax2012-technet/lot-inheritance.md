@@ -13,6 +13,9 @@ f1_keywords:
 
 # lot inheritance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The practice of configuring items so that their product characteristics and shelf life information can be updated based on their ingredients.
 
 ## See also

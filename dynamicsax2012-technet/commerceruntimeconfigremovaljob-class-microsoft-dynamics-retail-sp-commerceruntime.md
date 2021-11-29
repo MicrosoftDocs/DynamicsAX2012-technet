@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceRuntimeConfigRemovalJob Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Job that removes the commonruntime.config file next to the web.config file the web app.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommerceRuntime](microsoft-dynamics-retail-sp-commerceruntime-namespace.md)  

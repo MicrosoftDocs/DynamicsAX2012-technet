@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up types of issue and usage rates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Types of issue and usage rates** form to define the types of issue and usage rates that determine which working clothes and special rigging are issued to employees.

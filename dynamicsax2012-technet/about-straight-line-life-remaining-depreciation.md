@@ -15,6 +15,9 @@ ms.search.region: Global
 # About straight line life remaining depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you set up a fixed asset depreciation profile and select **Straight line life remaining** in the **Method** field in the **Depreciation profiles** form, the depreciation of fixed assets that are assigned to this depreciation profile is based on the remaining service life of the asset. This generally is the same depreciation amount in each depreciation period.

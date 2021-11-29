@@ -14,6 +14,9 @@ ms.search.region: Global
 # Insert a Route node 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Route node is useful for adding individual route operations to a product model. If you want to add a complete route from the **Routes** form, you should use a Route node, instead.

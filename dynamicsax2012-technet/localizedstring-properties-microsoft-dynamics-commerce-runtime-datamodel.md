@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LocalizedString Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LocalizedString](localizedstring-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

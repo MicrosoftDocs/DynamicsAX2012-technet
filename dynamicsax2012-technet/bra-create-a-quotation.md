@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Create a quotation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create a quotation by specifying fiscal information, such as the operation type and the Código Fiscal de Operações E Prestações (CFOP) code.

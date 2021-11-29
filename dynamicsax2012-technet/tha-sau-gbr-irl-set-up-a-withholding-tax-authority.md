@@ -17,6 +17,9 @@ ms.search.region: Ireland, Saudi Arabia,Thailand, United Kingdom
 # (THA, SAU, GBR, IRL) Set up a withholding tax authority 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a withholding tax authority, and then attach the authority to a withholding tax settlement period.

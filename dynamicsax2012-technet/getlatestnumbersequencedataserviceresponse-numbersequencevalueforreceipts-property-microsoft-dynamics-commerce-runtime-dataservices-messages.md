@@ -17,6 +17,9 @@ dev_langs:
 
 # NumberSequenceValueForReceipts Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number sequence values for receipt identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

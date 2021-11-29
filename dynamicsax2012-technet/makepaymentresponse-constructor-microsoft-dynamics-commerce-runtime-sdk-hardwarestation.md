@@ -17,6 +17,9 @@ dev_langs:
 
 # MakePaymentResponse Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [MakePaymentResponse](makepaymentresponse-class-microsoft-dynamics-commerce-runtime-sdk-hardwarestation.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # MergeDatabaseCustomerIntoInputCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adapt and merge local changes to a Customer object with the saved copy in preparation for saving to AX and CRT.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

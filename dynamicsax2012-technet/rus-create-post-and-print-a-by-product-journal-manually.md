@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create, post, and print a by-product journal manually 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can manually create a by-product journal by using the **By-product** form. A by-product journal is created when items that are returned to the warehouse after they have been rejected from production. These items can include defective products, process losses, reusable items, missing items, or low-quality products. You create a by-product journal manually when you must reconcile the difference in quantity between inventory transactions and route transactions.

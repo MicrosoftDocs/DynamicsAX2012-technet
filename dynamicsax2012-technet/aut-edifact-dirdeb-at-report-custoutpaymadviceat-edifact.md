@@ -15,6 +15,9 @@ f1_keywords:
 # (AUT) EDIFACT-DIRDEB (AT) report (CustOutPaymAdviceAT\_EDIFACT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **EDIFACT-DIRDEB (AT)** report prints the payment advice for electronic customer payments. The payment advice includes the actual payment and the invoice amount that has been paid. This report is printed when you generate an electronic payment file that uses the **EDIFACT-DIRDEB (AT)** payment format and is typically used by accounts receivable payments clerks to maintain customer payments.

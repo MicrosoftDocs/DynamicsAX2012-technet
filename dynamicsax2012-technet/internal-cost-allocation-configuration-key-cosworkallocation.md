@@ -14,6 +14,9 @@ f1_keywords:
 # Internal Cost Allocation configuration key (COSWorkAllocation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Internal cost allocation** configuration key controls access to internal cost forms and functions.

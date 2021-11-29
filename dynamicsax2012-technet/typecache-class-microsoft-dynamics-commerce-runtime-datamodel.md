@@ -17,6 +17,9 @@ dev_langs:
 
 # TypeCache Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Base class to cache reflection data by [Type](https://technet.microsoft.com/library/42892f65\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

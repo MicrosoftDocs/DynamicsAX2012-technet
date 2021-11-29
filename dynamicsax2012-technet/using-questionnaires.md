@@ -17,6 +17,9 @@ ms.search.region: Global
 # Using questionnaires 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A questionnaire is a set of questions that is used to collect information for variety of purposes. You can design, create, distribute, and complete questionnaires, and then analyze the results.

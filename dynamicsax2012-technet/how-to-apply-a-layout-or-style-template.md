@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Apply a Layout or Style Template 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A layout template defines the general layout and style settings for a report. A style template contains the layout and style settings for a data region that displays in the body of a report. Style templates are specific to a data region type and are applied directly to a data region.

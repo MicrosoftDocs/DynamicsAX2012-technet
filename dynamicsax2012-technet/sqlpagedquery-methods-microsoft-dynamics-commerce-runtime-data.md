@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SqlPagedQuery Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SqlPagedQuery](sqlpagedquery-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

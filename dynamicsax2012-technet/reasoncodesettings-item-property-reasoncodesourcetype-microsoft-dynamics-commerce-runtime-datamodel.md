@@ -15,6 +15,9 @@ dev_langs:
 
 # Item Property (ReasonCodeSourceType)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the reason code id [String](https://technet.microsoft.com/library/s1wwdcbf\(v=ax.60\)) associated with the specified key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

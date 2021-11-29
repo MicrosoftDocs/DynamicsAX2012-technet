@@ -17,6 +17,9 @@ dev_langs:
 
 # IsItemValidForLine Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines if the specified item is valid for the specified discount line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

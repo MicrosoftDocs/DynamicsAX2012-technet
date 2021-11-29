@@ -17,6 +17,9 @@ dev_langs:
 
 # WebApiConfig Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Web API configuration object.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration](microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md)  

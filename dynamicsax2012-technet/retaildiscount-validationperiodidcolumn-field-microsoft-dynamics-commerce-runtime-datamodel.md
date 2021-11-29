@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidationPeriodIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validation period Id column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

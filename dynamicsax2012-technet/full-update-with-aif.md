@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Full Update With AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In a full update, all the data in the document submitted to AIF is used and all fields in the database tables are updated with the fields from the submitted document. If there are fields in the table that are not in the submitted data, those table fields are cleared according to the rules for the data type of the field.

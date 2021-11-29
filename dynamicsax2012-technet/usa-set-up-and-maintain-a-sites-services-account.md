@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Set up and maintain a Sites Services account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can sign up for a Sites Services for Microsoft Dynamics ERP account, specify a web address for the sites that you create in Sites Services, and manage the account from Microsoft Dynamics AX.

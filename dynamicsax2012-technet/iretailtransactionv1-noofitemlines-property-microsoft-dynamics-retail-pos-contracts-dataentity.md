@@ -17,6 +17,9 @@ dev_langs:
 
 # NoOfItemLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Number of the item lines, not the qty of the items
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

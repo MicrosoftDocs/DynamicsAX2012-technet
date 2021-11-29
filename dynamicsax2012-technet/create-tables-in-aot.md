@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Create tables by using the Application Object Tree (AOT)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create tables to store data in by using the Application Object Tree (AOT).
 
 > [!NOTE]

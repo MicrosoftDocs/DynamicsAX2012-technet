@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckoutService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Service for shopping cart checkout.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXReportDataSource
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXReportDataSource
 
 Returns the default data source that is being used for Microsoft SQL Server Reporting Services reports.

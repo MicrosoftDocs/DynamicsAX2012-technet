@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PublishStatus Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PublishStatus](publishstatus-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector-catalogmanagement.md) type exposes the following members.
 
 ## Methods

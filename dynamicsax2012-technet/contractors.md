@@ -14,6 +14,9 @@ ms.search.region: Global
 # Contractors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic provides information about contractors in Microsoft Dynamics AX and answers questions that you might have before you set up workers.

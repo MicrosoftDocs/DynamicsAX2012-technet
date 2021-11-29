@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToGenerateToken Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that token could not be generated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

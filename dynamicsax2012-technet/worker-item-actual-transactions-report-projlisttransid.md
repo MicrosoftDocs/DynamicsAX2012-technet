@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Worker/item actual transactions report (ProjListTransID) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view a list of hour transactions entered by workers on projects and purchases of items for projects for a selected date range.

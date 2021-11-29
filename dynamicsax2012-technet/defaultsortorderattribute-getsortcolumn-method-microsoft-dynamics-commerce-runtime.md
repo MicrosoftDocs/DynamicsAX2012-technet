@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSortColumn Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sort column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

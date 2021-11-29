@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Run AXUpdate in silent mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you run AXUpdate.exe, by default the program runs the Update Setup Wizard. This wizard has a graphical user interface (GUI) that prompts you for required information. You can also run AXUpdate.exe at a command prompt, in silent mode. When AXUpdate.exe is run in silent mode, no GUI is displayed. Instead, you must supply all the required information at a command prompt when you start AXUpdate.exe. You can update any Microsoft Dynamics AX component in silent mode, if the update package that you are applying is appropriate for that component.

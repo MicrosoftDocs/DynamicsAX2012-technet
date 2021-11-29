@@ -17,6 +17,9 @@ dev_langs:
 
 # DataFields Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the data fields that will be displayed within the column.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

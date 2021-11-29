@@ -17,6 +17,9 @@ dev_langs:
 
 # EnableForSwipe Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enables MSR for swipe.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

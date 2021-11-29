@@ -13,6 +13,9 @@ f1_keywords:
 
 # real account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An account balance that is carried forward into a subsequent fiscal period.
 
 ## See also

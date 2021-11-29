@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Assign fiscal document types for customers or vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can assign a default type of fiscal document for customer or vendor fiscal documents. The fiscal document type defines the number sequence, series, and layout of the fiscal documents. You can assign a fiscal document type for a combination of customers or vendors, item types, or fiscal establishments.

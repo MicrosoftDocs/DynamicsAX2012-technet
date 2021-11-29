@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShippingAdapterConfiguration Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shipping adapter configuration based on delivery mode identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

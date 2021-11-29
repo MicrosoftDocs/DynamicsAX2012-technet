@@ -23,6 +23,9 @@ ms.search.region: Global
 # Set up coupons for customer orders in the call center 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can set up coupons to offer discounts to customers when they place an order with your organization’s call center. Coupons can be either a fixed amount discount or a percentage of an item price or order total. This topic explains how to create different types of coupons, how to set up parent-child coupons, and how to copy or void a coupon.

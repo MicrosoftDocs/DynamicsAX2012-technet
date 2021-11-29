@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Components of the Retail online sample store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can modify every component of the Retail online sample store that is available with Microsoft Dynamics AX 2012 R3. You can customize the products that are available in the store, you can modify the data elements that are displayed, and you can customize the appearance and behavior of site pages.

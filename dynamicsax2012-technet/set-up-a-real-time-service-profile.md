@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a Real-time Service profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 By setting up a profile for Commerce Data Exchange: Real-time Service, you enable a point of sale (POS) device or a store to retrieve or update real-time data from Microsoft Dynamics AX.

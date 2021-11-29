@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OrderHistory Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OrderHistory](orderhistory-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md) type exposes the following members.
 
 ## Events

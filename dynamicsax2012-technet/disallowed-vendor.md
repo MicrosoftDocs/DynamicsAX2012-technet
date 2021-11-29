@@ -13,6 +13,9 @@ f1_keywords:
 
 # disallowed vendor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A vendor that is not authorized to supply products to one or more legal entities.
 
 ## See also

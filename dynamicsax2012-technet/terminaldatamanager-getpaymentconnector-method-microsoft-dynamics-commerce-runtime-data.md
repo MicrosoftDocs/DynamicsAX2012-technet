@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPaymentConnector Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the payment connector setting for the terminal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

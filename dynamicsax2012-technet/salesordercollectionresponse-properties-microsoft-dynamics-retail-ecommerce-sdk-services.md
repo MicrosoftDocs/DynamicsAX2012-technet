@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesOrderCollectionResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesOrderCollectionResponse](salesordercollectionresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # ReserveItems Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reserve items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

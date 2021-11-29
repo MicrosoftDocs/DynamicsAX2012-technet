@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Product Builder Route nodes upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to map modeling variables assigned to product models and nodes in the modeling tree to fixed values during the upgrade process. The target system does not support modeling variables. Therefore, existing modeling variables must be mapped to fixed values. The fields that are available on the right side of the form can vary, depending on the modeling variables that are allocated for each product model.

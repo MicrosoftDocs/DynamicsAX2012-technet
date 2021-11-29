@@ -14,6 +14,9 @@ f1_keywords:
 # Balance list report (LedgerTotalAndBalanceList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to analyze account balances for a specific date interval. You can also specify a range of main accounts.

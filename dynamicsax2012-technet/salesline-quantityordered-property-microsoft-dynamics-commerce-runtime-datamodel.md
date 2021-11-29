@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityOrdered Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the quantity that was ordered for a Customer Order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PutVariants Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the product variants for the given set of item variant inventory dimension identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # dimension derivation rule
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A rule to determine a ledger dimension for classifying the financial consequences of an accounting event.
 
 ## See also

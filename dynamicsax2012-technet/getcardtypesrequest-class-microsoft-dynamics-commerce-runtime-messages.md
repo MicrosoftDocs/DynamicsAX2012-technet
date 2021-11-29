@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCardTypesRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetCardTypesRequest request object to Process card type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

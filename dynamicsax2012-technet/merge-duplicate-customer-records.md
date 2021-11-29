@@ -22,6 +22,9 @@ ms.search.region: Global
 # Merge duplicate customer records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to resolve the issue of duplicate customer records in Microsoft Dynamics AX. Your database might contain duplicate records for several reasons. For example, a record might have inadvertently been entered twice, a new record might have been created for an existing customer who changed their name, or two customers may have merged their businesses. You can combine information to remove duplicate records in one of the following ways:

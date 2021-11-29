@@ -17,6 +17,9 @@ dev_langs:
 
 # DecimalPrecision Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number of decimal places used by the unit of measure.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

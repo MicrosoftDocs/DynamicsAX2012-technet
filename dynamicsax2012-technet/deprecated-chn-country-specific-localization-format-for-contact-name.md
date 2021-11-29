@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (CHN) Country-specific localization format for Contact name 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Chinese installations, the Microsoft Dynamics AX 2009 SP1 GLS Consolidation release provides a feature that lets users set up the **Contact** field by using a name format of “Last name + First name.” Microsoft Dynamics AX 2012 supports several new name formats. One of these new name formats is the “Last name + First name” format.

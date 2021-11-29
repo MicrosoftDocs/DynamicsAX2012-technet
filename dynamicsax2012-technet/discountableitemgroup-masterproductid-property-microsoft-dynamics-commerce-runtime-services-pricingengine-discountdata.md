@@ -17,6 +17,9 @@ dev_langs:
 
 # MasterProductId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets product id or the master product id of the variant.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

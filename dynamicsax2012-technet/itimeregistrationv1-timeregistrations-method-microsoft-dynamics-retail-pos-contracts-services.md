@@ -17,6 +17,9 @@ dev_langs:
 
 # TimeRegistrations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Time registration, this allows operator to register time clock in\\clock out time.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

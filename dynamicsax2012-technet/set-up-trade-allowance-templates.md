@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up trade allowance templates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up trade allowance templates that you can use to create trade allowance funds that are based on a predefined set of values. For example, you can specify the currency to use, the marketing objective, and agreement period. By using a template, you can ensure that your organization’s marketing objectives remain consistent.

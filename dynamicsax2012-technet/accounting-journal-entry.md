@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting journal entry
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A record of original entry in an accounting system that records a date, one or more accounts, and the monetary value to be debited or credited to each account.
 
 ## See also

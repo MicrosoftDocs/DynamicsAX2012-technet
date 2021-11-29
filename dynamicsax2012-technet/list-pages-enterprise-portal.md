@@ -44,6 +44,9 @@ ms.search.region: Global
 # List pages (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 List pages display multiple records as a list, or a series of rows and columns. You can sort the data in the list and use filters to display subsets of the list items. You can also click links to display specific records, if records are available. This version of Enterprise Portal for Microsoft Dynamics AX includes the following enhancements to list pages:

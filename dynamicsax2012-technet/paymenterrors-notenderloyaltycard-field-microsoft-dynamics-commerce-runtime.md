@@ -17,6 +17,9 @@ dev_langs:
 
 # NoTenderLoyaltyCard Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the loyalty card is not allowed for payment.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

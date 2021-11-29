@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidRuntimeContext Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the runtime context is not as expected. This is usually a code error.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

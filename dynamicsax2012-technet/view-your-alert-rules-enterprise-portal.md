@@ -17,6 +17,9 @@ ms.search.region: Global
 # View your alert rules (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Alerts are generated as part of a notification system that helps you track events in Microsoft Dynamics AX. For example, you can receive alerts when there are overdue deliveries, or when prices have changed.

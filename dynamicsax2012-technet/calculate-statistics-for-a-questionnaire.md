@@ -14,6 +14,9 @@ ms.search.region: Global
 # Calculate statistics for a questionnaire 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use questionnaire statistics to analyze results of a completed questionnaire, which is based on calculations that you define. For more information, see [About questionnaire statistics](about-questionnaire-statistics.md), [Viewing and evaluating results](viewing-and-evaluating-results.md), and [Using questionnaires](using-questionnaires.md).

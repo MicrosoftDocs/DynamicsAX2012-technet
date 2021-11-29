@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create a financial dimension 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Financial dimensions** form to create financial dimensions that you can use as account segments for shared charts of accounts.

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Import exchange rates from the CBRF website 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can import exchange rates from the Central Bank of the Russian Federation (CBRF) website, and set them up in the **Currency exchange rates** form. For more information about how to configure exchange rate providers and exchange rate types, see [(RUS) Set up import of exchange rates](rus-set-up-import-of-exchange-rates.md) and [Exchange rate types (form)](https://technet.microsoft.com/library/hh242857\(v=ax.60\)).

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddressDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddressDataRequestHandler](addressdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-common.md) type exposes the following members.
 
 ## Methods

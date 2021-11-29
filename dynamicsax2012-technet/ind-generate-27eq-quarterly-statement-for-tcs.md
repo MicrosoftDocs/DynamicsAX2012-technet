@@ -22,6 +22,9 @@ ms.search.region: India
 # (IND) Generate 27EQ quarterly statement for TCS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The collectors of tax at source can use the 27EQ statement to report Tax Collected at Source (TCS) information to government authorities. The following prerequisites are required to generate Form 27EQ statements:

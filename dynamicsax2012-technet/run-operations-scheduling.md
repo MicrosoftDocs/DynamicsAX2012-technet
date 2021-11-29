@@ -14,6 +14,9 @@ ms.search.region: Global
 # Run operations scheduling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you schedule operations for a production order, you can also schedule and synchronize reference production orders and subproductions. The dates of the subproductions are adjusted to fit the main production order. The system schedules each operation and an operations resource or resource group for each operation in the production route. The scheduling also assigns durations to each operation.

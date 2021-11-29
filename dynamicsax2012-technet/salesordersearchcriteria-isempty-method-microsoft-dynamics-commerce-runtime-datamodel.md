@@ -17,6 +17,9 @@ dev_langs:
 
 # IsEmpty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether any fields in this class have a value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

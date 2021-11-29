@@ -17,6 +17,9 @@ dev_langs:
 
 # DataStore Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class modeling different types of underlying data stores.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

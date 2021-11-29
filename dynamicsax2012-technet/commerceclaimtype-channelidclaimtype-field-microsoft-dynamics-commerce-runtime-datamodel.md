@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelIdClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Channel Id Claim.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

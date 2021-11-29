@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Reporting architecture 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the architecture of the reporting functionality in Microsoft Dynamics AX.

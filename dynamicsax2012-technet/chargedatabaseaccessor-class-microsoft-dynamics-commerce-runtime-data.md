@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeDatabaseAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Database accessor for the charge data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

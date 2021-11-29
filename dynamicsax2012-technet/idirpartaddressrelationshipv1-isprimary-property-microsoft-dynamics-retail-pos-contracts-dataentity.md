@@ -17,6 +17,9 @@ dev_langs:
 
 # IsPrimary Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the address is primary or not.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

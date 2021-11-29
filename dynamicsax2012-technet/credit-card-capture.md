@@ -13,6 +13,9 @@ f1_keywords:
 
 # credit card capture
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of verifying the credit card holder's identification and credit worthiness when a sales order is fulfilled.
 
 ## See also

@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a project debit note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can generate debit notes for projects that have a transaction type of **Expense**. You can generate a project debit note by using the project debit note proposal workflow. Before you can generate a debit note, you must set up a fiscal document type to use in project transactions. For more information, see [(BRA) Set up fiscal document types](bra-set-up-fiscal-document-types.md). You must also post an expense journal for the project.

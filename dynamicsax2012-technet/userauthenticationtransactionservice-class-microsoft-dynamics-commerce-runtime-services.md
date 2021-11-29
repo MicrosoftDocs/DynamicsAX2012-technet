@@ -17,6 +17,9 @@ dev_langs:
 
 # UserAuthenticationTransactionService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 User authentication Service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ConfigId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the configuration Id (if any) set on this trade agreement.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Budget control for advance reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 By using budget control, you can make sure that sufficient funds are available for planned or actual purchases. After you set up basic budgeting, you can set up budget control. You can use budget control to confirm whether budget funds are available on source documents, such as purchase orders, expense reports, advance reports, and accounting journals. If the budget funds exceed the budget limit that is set, additional processing of the document can be prevented.

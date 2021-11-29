@@ -14,6 +14,9 @@ ms.search.region: Global
 # Indicate that a workflow is the default workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create multiple workflows of the same type. For example, you can have the following purchase requisition workflows:

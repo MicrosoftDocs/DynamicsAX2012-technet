@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceCalculationMode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the price calculation mode for the lines being calculated.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

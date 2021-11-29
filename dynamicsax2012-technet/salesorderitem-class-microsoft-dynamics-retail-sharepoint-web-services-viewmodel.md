@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesOrderItem Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The sales order item view model representation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

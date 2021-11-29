@@ -15,6 +15,9 @@ ms.search.region: Global
 # Array default values 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A modeling variable group of the **Array** type is displayed as a table in which each variable in the group is shown as one column. You can set up default values for the array elements.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About creating and maintaining your product catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the Vendor portal, you can create and maintain a catalog of the items and services that you supply to your customer. You deliver your catalog information in an XML file that contains details about the products that you supply. After the file is uploaded from the Vendor portal to the customer, the customer can import your products into their procurement catalog.

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessMaskSegmentsServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ProcessBarCodeRequest request object to Process BarCode.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

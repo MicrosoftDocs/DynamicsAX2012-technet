@@ -17,6 +17,9 @@ dev_langs:
 
 # PickingListsController Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The controller for the picking list entity.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

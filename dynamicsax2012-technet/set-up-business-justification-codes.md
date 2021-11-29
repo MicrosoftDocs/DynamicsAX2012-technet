@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up business justification codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can define business justification reason codes to classify and track certain types of purchases. For example, you can create codes to signify that a purchase was made for a new hire, a scheduled replacement, equipment failure, a marketing event, or other defined reason. Because business justification codes appear on purchase requisitions, anyone reviewing a purchase requisition can immediately see the reason for a purchase.

@@ -16,6 +16,9 @@ f1_keywords:
 # Check upgrade readiness 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can check upgrade readiness before you begin upgrading data on the Microsoft Dynamics AX source system. The readiness check produces a report that identifies issues that could potentially affect data upgrade. Checks include identifying data that might cause failure of the data upgrade scripts and identifying scenarios that will need extra planning before the upgrade. No changes to data are made during the checks.

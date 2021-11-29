@@ -17,6 +17,9 @@ dev_langs:
 
 # ShippingRateInfo Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [ShippingRateInfo](shippingrateinfo-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

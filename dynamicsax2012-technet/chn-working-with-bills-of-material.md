@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Working with bills of material 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about how to work with bills of material.

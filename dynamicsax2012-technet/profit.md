@@ -13,6 +13,9 @@ f1_keywords:
 
 # profit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The difference between revenue obtained from sales and expense incurred in product delivery activities.
 
 ## See also

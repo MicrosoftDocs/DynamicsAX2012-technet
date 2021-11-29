@@ -13,6 +13,9 @@ f1_keywords:
 
 # replacement cost
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The current cost of replacing an existing asset with a similar asset with equivalent operational capability.
 
 ## See also

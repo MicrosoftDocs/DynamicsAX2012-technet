@@ -17,6 +17,9 @@ dev_langs:
 
 # NoPriceOverrideForGiftCards Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that price cannot be overridden for gift card items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

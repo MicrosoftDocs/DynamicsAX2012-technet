@@ -15,6 +15,9 @@ ms.search.region: Global
 # About invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The project type determines which invoicing procedure should be applied. Only the two external project types, time-and-material and fixed-price projects, can be invoiced. Time-and-material projects and fixed-price projects are always attached to a project contract.

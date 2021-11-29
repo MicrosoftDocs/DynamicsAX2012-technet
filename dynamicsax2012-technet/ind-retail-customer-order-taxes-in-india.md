@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Retail customer order taxes in India 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

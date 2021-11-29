@@ -17,6 +17,9 @@ dev_langs:
 
 # ICachedReasonCodeDataManager Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Declares the behavior of a cached reason code data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

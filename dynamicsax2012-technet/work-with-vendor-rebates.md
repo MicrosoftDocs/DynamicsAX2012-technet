@@ -25,6 +25,9 @@ ms.search.region: Global
 # Work with vendor rebates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A business can set up an agreement with one of its vendors in which the vendor provides a rebate for purchases. This topic describes how to create purchase orders that generate vendor rebate claims, and how to cumulate, approve, and process those rebate claims. For information about how to set up a vendor rebate agreement, see [Set up vendor rebate agreements](set-up-vendor-rebate-agreements.md).

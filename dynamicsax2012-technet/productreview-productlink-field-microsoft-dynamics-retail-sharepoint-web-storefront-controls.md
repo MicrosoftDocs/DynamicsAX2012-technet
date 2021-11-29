@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductLink Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The product link.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls](microsoft-dynamics-retail-sharepoint-web-storefront-controls-namespace.md)  

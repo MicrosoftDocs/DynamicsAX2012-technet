@@ -17,6 +17,9 @@ ms.search.region: Global
 # (Global, USA) Electronic signatures 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Electronic signature is a regulations compliance requirement for several regulated industries, such as pharmaceuticals, food and beverage, and aerospace and defense. It is also a necessary part of compliance with the regulations in 21 CFR Part 11 issued by the Food and Drug Administration (FDA) in the United States.

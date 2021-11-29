@@ -14,6 +14,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Generate Zakat reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 At the beginning of the new fiscal year, companies must generate the primary Zakat report and the 13 supporting reports for the prior fiscal year. The reports are then submitted to the Department of Zakat and Income Tax (DZIT).

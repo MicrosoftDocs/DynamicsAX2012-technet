@@ -24,6 +24,9 @@ ms.search.region: Global
 # About viewing project control transactions in Microsoft Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the project control system and the Export to Excel function in Microsoft Dynamics AX to monitor financial information for your projects. To do this, you create multidimensional PivotTable reports in Microsoft Excel from the data that is calculated in project control.

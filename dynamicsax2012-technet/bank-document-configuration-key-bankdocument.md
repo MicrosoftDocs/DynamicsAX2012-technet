@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Bank document configuration key (BankDocument) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bank document** configuration key controls access to bank documents, including import letters of credit, export letters of credit, and letters of guarantee.

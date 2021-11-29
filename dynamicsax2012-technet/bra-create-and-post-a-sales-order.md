@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Create and post a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post a sales order by specifying the Código Fiscal de Operações e Prestações (CFOP) code, operation type, and fiscal presence type for the operation. You can summarize the customer invoices before you post the sales order. The presence type of a fiscal operation in a sales order is used as a parameter to group customer invoices, quotations, confirmations, picking lists, and packing slips during posting.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Clean up your data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you start your upgrade, we recommend that you run the Intelligent Data Management Framework (IDMF) against your source Microsoft Dynamics AX database. The IDMF is a tool that simplifies the removal of redundant and unnecessary data. A clean database can reduce the processing time that is required during the upgrade.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TransactionServiceClient Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TransactionServiceClient](transactionserviceclient-class-microsoft-dynamics-commerce-runtime-transactionservice.md) type exposes the following members.
 
 ## Properties

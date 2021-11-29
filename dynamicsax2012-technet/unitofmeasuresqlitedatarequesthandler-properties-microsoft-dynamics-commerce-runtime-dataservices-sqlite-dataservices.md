@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # UnitOfMeasureSqliteDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [UnitOfMeasureSqliteDataRequestHandler](unitofmeasuresqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite-dataservices.md) type exposes the following members.
 
 ## Properties

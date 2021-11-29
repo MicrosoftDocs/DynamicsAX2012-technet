@@ -14,6 +14,9 @@ dev_langs:
 # Metadata Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The metadata service returns information about AOT objects in Microsoft Dynamics AX such as tables, services, extended data types (EDTs), enums, and so on. The metadata service is:

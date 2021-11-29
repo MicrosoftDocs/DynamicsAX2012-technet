@@ -15,6 +15,9 @@ dev_langs:
 
 # UserAuthenticationRenewalResponse Constructor (Employee, Device, CommerceIdentity)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [UserAuthenticationRenewalResponse](userauthenticationrenewalresponse-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

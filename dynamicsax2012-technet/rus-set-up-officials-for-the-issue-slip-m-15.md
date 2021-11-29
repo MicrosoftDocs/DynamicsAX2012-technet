@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up officials for the Issue slip (M-15) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Shipment** form to set up officials for the Issue slip (M-15) report that is generated for bailment.

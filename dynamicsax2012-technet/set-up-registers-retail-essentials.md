@@ -14,6 +14,9 @@ f1_keywords:
 # Set up registers (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 When you set up a register in Retail POS, you select a hardware profile and a visual profile for the register. A hardware profile determines the physical configuration of a register and a visual profile determines its screen characteristics. This topic explains how to set up registers and assign profiles to them.

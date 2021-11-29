@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityExceeded Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the item's quantity exceeds the permissible limit.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

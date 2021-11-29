@@ -13,6 +13,9 @@ f1_keywords:
 
 # base table
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A table that assumes a parent role when it participates in an inheritance relationship with another table.
 
 ## See also

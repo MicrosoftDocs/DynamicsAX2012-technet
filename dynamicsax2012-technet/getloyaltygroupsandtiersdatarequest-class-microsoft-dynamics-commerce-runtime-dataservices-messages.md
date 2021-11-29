@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyGroupsAndTiersDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data request to get all the active loyalty card's affiliations on the channel's current date.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

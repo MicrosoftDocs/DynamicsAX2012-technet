@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Data upgrade checklist: Tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Complete the checklist tasks listed below. Task names link to help explaining the purpose of each task and providing instructions for completing it.

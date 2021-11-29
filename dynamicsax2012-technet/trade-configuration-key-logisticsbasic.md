@@ -14,6 +14,9 @@ f1_keywords:
 # Trade configuration key (LogisticsBasic) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Trade** configuration key controls access to all the main features for sales and purchase orders, procurement and sourcing, and products and items. The Enterprise Portal features that are associated with these areas of Microsoft Dynamics AX are also controlled by this configuration key.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Configure settings for adjustment transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the **Project parameters** form, you can configure settings that determine how Microsoft Dynamics AX handles transaction adjustments in your organization. These settings determine which kinds of transactions may be adjusted, based on their transactions status. They also determine whether the original transaction date or the adjustment date is used as the project date for adjusted transactions.

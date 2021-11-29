@@ -17,6 +17,9 @@ dev_langs:
 
 # DataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The base data manager class which provides primitives for interacting with the channel database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

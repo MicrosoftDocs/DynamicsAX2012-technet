@@ -17,6 +17,9 @@ dev_langs:
 
 # FilteringCriteria Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [FilteringCriteria](filteringcriteria-class-microsoft-dynamics-commerce-runtime-transactionservice.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Run client and private batch tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This article describes how to run batch jobs on a client computer, including tasks that are designated as private.

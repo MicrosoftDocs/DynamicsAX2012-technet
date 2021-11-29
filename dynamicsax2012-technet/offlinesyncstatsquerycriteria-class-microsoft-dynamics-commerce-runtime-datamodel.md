@@ -17,6 +17,9 @@ dev_langs:
 
 # OfflineSyncStatsQueryCriteria Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents criteria for querying offline sync statistics line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

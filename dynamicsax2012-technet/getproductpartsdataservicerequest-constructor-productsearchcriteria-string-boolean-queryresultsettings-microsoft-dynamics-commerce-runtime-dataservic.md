@@ -15,6 +15,9 @@ dev_langs:
 
 # GetProductPartsDataServiceRequest Constructor (ProductSearchCriteria, String, Boolean, QueryResultSettings)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetProductPartsDataServiceRequest](getproductpartsdataservicerequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

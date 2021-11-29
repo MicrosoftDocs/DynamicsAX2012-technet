@@ -17,6 +17,9 @@ dev_langs:
 
 # StaffId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or set staff id for this line item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

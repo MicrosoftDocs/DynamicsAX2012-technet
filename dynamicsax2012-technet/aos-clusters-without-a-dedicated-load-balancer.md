@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # AOS clusters without a dedicated load balancer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure Microsoft Dynamics AX Application Object Server (AOS) clusters that include a dedicated load balancer. You can also configure clusters that do not include a dedicated load balancer. This topic describes planning considerations for an AOS cluster that does not include a dedicated load balancer.

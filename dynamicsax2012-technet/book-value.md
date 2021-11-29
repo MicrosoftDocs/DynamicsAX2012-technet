@@ -13,6 +13,9 @@ f1_keywords:
 
 # book value
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The net value of an asset reported on a statement of financial position.
 
 ## See also

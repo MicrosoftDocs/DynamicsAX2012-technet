@@ -19,6 +19,9 @@ ms.search.region: Global
 # About Project management and accounting parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you begin working in **Project management and accounting**, you can configure many project-related preferences and default values in the **Project management and accounting parameters** form. By presetting default values, you can reduce some of the manual data entry that is required when new projects and project transactions are created.

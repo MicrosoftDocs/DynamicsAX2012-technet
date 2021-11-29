@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure budget planning security 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In budget planning, you can limit a user’s access to the budget plans based on their assignment in the budgeting organization hierarchy. For example, a budgeting organization hierarchy might consist of Finance department at the top of the hierarchy and Sales, Operations, IT and Human resources at the bottom of the hierarchy. In this hierarchy it’s possible to limit user access to the budget plans, so users can only view the Sales and Operations department’s budget plans.

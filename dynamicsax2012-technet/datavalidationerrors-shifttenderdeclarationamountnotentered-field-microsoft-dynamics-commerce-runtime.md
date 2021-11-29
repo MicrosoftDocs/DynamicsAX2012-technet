@@ -17,6 +17,9 @@ dev_langs:
 
 # ShiftTenderDeclarationAmountNotEntered Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The shift tender declaration amount was not entered.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

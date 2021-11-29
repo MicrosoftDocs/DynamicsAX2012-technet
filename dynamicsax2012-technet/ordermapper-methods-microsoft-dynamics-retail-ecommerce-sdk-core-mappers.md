@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OrderMapper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OrderMapper](ordermapper-class-microsoft-dynamics-retail-ecommerce-sdk-core-mappers.md) type exposes the following members.
 
 ## Methods

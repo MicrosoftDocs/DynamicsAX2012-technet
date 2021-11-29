@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow scope
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The extent of activity controlled by a workflow process.
 
 ## See also

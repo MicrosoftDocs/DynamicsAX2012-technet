@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Projects (Lifecycle Services, LCS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This article provides information about projects in Microsoft Dynamics Lifecycle Services (LCS). It describes some important features and also explains the role of the project methodology.
 
 Projects are the main organizer of your experience in LCS. The methodology that is associated with a project determines the default phases and tasks that are included in that project.

@@ -17,6 +17,9 @@ dev_langs:
 
 # EntityDataServiceRequest(TRequestEntity, TResponseEntity) Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Entity data service request template.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

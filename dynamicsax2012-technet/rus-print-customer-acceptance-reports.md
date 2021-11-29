@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Print customer acceptance reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to print customer acceptance reports.

@@ -22,6 +22,9 @@ ms.search.region: Global
 # About standard cost conversion 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In a standard cost conversion, the valuation method for an item's inventory is changed so that it is based on standard cost instead of actual cost. Use the **Standard cost conversions** form to convert the inventory model for a batch of selected items from an actual costing approach to a standard costing approach. The conversion process involves a prerequisite inventory close, several steps during a transition period, which is defined by a transition start date and a planned conversion date, and then the conversion and an associated inventory close.

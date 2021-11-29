@@ -13,6 +13,9 @@ f1_keywords:
 
 # balance sheet
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A statement of the financial position of an organization that reports the state of assets, liabilities, and equity on a specified date.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteCommerceList Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Delete a commerce list.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: Global
 # About using tracing for master plans 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can enable tracing for master planning if you want to view information about the causes behind the outcome of a complete master planning run, or about the explosion of a particular planned order. Before you can use tracing for a complete master planning run, you must set up a Data Collector Set in Windows Performance Monitor. For more information, see [Set up tracing for master plans](set-up-tracing-for-master-plans.md).

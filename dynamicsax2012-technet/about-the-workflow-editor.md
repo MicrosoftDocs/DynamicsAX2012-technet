@@ -18,6 +18,9 @@ ms.search.region: Global
 # About the workflow editor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The workflow editor is a graphical user interface (GUI) that you can use to create Microsoft Dynamics AX workflows by arranging workflow elements on a design surface. The process resembles the process for modeling a business process by using Microsoft Visio. You can add, delete, and reposition elements that represent the tasks and approvals that make up the workflow. You can also add flow-controls, such as manual decisions, automated decisions, and parallel activities. As a result, you can create complex workflows that exactly model the business processes that you want to automate. The following figure illustrates the areas of the workflow editor.

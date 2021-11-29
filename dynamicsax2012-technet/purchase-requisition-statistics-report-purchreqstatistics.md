@@ -14,6 +14,9 @@ f1_keywords:
 # Purchase requisition statistics report (PurchReqStatistics) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Purchase requisition statistics** report to view a list of purchase requisitions. You can select parameters to filter the report to include only the purchase requisitions that you want to view. The report includes the header and line details for the purchase requisitions. It also includes the summarized total amounts for each purchase requisition.

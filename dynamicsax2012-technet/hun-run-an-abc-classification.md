@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Run an ABC classification 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can group counted items on the **Inventory statement report** based on an ABC classification.

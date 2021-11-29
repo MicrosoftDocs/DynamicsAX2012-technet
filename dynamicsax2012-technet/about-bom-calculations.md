@@ -15,6 +15,9 @@ ms.search.region: Global
 # About BOM calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Calculation** form is used to calculate a manufactured item’s cost and to generate an associated item cost record within a costing version. The **Calculation** form can also be used to calculate a manufactured item’s sales price and to generate an associated item sales price record within a costing version. The cost roll-up and sales price calculations are termed BOM calculations, or bill of material (BOM) calculations, because you initiate them from the **Calculation** form.

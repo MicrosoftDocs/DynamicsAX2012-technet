@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TerminalDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TerminalDataRequestHandler](terminaldatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-common.md) type exposes the following members.
 
 ## Properties

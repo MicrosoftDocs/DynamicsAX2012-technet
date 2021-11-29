@@ -17,6 +17,9 @@ dev_langs:
 
 # UrlRewriteWebConfigUpdater Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements the functionality needed to update the web.config with the necessary URL rewrite rules for mixed mode http and https.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

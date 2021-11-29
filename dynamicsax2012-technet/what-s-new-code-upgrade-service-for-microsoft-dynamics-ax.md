@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Code Upgrade Service for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Code Upgrade Tool for Microsoft Dynamics AX 2012 (Beta) is designed to help Microsoft Dynamics AX developers upgrade their X++ code to AX 2012. The tool analyzes X++ code patterns. The tool then automatically fixes some patterns, provides suggestions for how to fix other patterns, and categorizes upgrade tasks. Developers can also add their own patterns for analysis.

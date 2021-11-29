@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Calling the Metadata Service 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The metadata service is one of the system services exposed by Microsoft Dynamics AX and that adheres to the Windows Communication Foundation (WCF) protocols and standards. This service enables you to retrieve information about AOT objects such as tables, services, extended data types (EDTs), enums, and so on. In this walkthrough, you will call the metadata service from a C\# program and return metadata for a specific query.

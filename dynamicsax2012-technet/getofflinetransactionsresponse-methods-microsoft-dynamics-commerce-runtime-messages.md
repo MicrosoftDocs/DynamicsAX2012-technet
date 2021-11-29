@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetOfflineTransactionsResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetOfflineTransactionsResponse](getofflinetransactionsresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

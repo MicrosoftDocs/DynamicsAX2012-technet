@@ -17,6 +17,9 @@ dev_langs:
 
 # SupportPrintingReceiptInNonFiscalMode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether the fiscal printer supports printing receipt in non fiscal mode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

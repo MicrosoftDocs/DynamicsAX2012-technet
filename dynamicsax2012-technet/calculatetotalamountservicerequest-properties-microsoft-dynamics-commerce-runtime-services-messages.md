@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CalculateTotalAmountServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CalculateTotalAmountServiceRequest](calculatetotalamountservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

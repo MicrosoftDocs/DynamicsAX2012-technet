@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateStockCountResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response for stock count creation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

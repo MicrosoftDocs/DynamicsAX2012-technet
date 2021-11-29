@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxableItem Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Common interface for taxable entities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

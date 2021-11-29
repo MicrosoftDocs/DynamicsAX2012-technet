@@ -17,6 +17,9 @@ dev_langs:
 
 # CartValidationException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CartValidationException class is used to indicate invalid data passed to a cart opertion.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

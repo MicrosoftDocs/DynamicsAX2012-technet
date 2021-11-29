@@ -14,6 +14,9 @@ f1_keywords:
 
 # acquisition date
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The date that an asset is acquired.
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Retail POS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Retail POS is a component that is required for the day-to-day operation of Retail at a store. When you install the Retail POS component, the Retail Salt Utility is also installed. The Retail Salt Utility provides extra encryption for the passwords and credentials that are associated with the Retail system.

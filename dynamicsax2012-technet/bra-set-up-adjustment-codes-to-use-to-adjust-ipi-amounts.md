@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up adjustment codes to use to adjust IPI amounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In a Sistema Publico de Escrituração Digital (SPED) fiscal text file, record E530 includes information about adjustments of Imposto sobre Produtos Industrializados (IPI) taxes that have been applied in the period that is covered by the SPED fiscal text file. Before you can adjust IPI taxes, you must specify the adjustment codes that are determined by the Brazilian government depending on the adjustment criteria. This topic explains how to set up adjustment codes by using the **IPI adjustment codes table** form. For information about adjusting IPI tax, see [(BRA) Assess, pay, declare, and adjust IPI taxes](bra-assess-pay-declare-and-adjust-ipi-taxes.md).

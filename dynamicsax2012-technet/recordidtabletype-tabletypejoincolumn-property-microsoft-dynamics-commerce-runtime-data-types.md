@@ -17,6 +17,9 @@ dev_langs:
 
 # TableTypeJoinColumn Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the join column name of the table value parameter.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # employee compensation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Direct or indirect monetary and nonmonetary rewards offered to an employee by an organization.
 
 ## See also

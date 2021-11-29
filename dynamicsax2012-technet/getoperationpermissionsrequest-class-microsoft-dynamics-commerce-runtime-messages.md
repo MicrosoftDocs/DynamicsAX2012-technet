@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOperationPermissionsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Client Operation Permission request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

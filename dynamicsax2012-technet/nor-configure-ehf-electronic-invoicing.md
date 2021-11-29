@@ -25,6 +25,9 @@ ms.search.region: Norway
 # (NOR) Configure EHF electronic invoicing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Before you can generate Elektronisk HandelsFormat (EHF) electronic documents, you must configure EHF electronic invoicing. Follow the steps in this topic to configure Microsoft Dynamics AX for EHF electronic invoicing, and then set up customer accounts for EHF electronic invoicing, Application Integration Framework (AIF), batch groups, batch processing, and recurring batch jobs.

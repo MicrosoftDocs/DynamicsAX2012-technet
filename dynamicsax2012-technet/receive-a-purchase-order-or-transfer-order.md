@@ -18,6 +18,9 @@ ms.search.region: Global
 # Receive a purchase order or transfer order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Employees who have been granted access can receive the merchandise for purchase orders and incoming transfer orders. Completed counts are then uploaded to Microsoft Dynamics AX for Retail Headquarters so that they can be posted.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # scale factor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A ratio to convert from one number precision to another.
 
 ## See also

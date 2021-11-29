@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateSpan Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a inline text element (span) for inserting text.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

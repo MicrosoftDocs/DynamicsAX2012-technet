@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Upgrade domains 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In previous releases of Microsoft Dynamics AX, you could create a collection of companies that was known as a domain. You could use domains to set up user permissions for a group of company accounts. The concept of a domain was removed in Microsoft Dynamics AX 2012. Instead, we recommend that you use an organizational hierarchy that has a purpose of **Security**.

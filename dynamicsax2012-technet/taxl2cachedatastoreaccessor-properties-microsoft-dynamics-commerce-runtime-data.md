@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TaxL2CacheDataStoreAccessor Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TaxL2CacheDataStoreAccessor](taxl2cachedatastoreaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

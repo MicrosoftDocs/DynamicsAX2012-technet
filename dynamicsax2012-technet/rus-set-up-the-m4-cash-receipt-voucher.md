@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Set up the M4 cash receipt voucher 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The M-4 receipt voucher is the original document that is signed by the sender and the recipient of the material valuables. It provides evidence that the company has received material valuables for stocking purposes. The voucher records the delivery date, item name, price, cost with and without VAT, VAT amount, total cost with and without VAT, vendor name, warehouse identification, and other details.

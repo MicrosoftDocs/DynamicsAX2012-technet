@@ -18,6 +18,9 @@ ms.search.region: Global
 # Key tasks: Set up manufacturing execution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure manufacturing execution parameters and settings in **Production control** to register worker time and item consumption on production jobs. This topic describes how to set up the following manufacturing execution features:

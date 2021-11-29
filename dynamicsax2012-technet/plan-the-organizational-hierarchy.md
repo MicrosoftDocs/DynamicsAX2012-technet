@@ -14,6 +14,9 @@ ms.search.region: Global
 # Plan the organizational hierarchy 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you set up organizations and organization hierarchies in Microsoft Dynamics AX, make sure that you plan how your business will be modeled. The organization model has a significant effect on the implementation of Microsoft Dynamics AX and on business processes. For more information about the organization model, see [About organizations and organizational hierarchies](about-organizations-and-organizational-hierarchies.md).

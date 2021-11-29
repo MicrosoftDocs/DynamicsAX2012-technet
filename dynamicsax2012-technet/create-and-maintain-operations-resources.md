@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create and maintain operations resources 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Operations resources are resources used to complete the production process. Create operations resources after you create the operations resource groups and before you begin production.

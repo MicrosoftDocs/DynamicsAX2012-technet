@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductAvailableQuantity Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represent the available quantity of a product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

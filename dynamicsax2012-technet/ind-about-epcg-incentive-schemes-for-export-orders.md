@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) About EPCG incentive schemes for export orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create a new sales order to export products that meet the requirements for the Export Promotion Capital Goods (EPCG) incentive scheme, you can assign an EPCG incentive scheme to the sales order.

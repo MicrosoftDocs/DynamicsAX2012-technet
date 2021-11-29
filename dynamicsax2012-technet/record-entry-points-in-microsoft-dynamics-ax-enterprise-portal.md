@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Record entry points in Microsoft Dynamics AX Enterprise Portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This content has been moved [to this topic](https://ax.help.dynamics.com/en/wiki/record-entry-points-in-microsoft-dynamics-ax-enterprise-portal) in the Dynamics AX Help wiki.

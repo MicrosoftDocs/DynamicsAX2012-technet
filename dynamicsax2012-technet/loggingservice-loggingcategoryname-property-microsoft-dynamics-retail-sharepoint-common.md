@@ -17,6 +17,9 @@ dev_langs:
 
 # LoggingCategoryName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the diagnostics category.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

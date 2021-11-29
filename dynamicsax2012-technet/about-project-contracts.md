@@ -18,6 +18,9 @@ ms.search.region: Global
 # About project contracts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you enter into a contract with a customer or other funding source to complete a project, you can manage the project in Microsoft Dynamics AX. You must first create a project contract. In the project contract form, you enter information about the terms in the project contract. When you create a project, you must assign the project to a project contract. You set up the details about the project, such as a budget, hierarchy of activities, billing rules, and financial dimensions, in the **Project** form.

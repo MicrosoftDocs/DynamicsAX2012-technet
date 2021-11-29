@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure application functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The administrator can enable or disable configuration keys to control the features and functionality that are available in Microsoft Dynamics AX.

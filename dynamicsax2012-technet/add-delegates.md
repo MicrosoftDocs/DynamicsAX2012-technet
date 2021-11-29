@@ -17,6 +17,9 @@ ms.search.region: Global
 # Add delegates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Expense report delegates** page to set up other users as delegates who can create and submit expense reports, travel requisitions, and credit card disputes on your behalf.

@@ -17,6 +17,9 @@ dev_langs:
 
 # MetadataFilterProvider Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [MetadataFilterProvider](metadatafilterprovider-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Priority Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Priority in group (for display)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

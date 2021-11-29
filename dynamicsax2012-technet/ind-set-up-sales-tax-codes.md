@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Set up sales tax codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can define the sales tax codes for the **India sales tax**, **VAT**, **Excise** or **Customs** tax types in the **Sales tax codes** form and define the percentage of tax.

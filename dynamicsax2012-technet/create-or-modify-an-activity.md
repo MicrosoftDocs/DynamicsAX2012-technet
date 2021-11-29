@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create or modify an activity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create and schedule several types of activities in Enterprise Portal for Microsoft Dynamics AX. For example, you can schedule an appointment to meet with an individual customer regarding a service, or you can create an event and invite your opportunities, or potential customers, to see your newest products.

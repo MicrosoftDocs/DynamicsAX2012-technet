@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITransactionServicesV3 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITransactionServicesV3](itransactionservicesv3-interface-microsoft-dynamics-retail-pos-contracts-transactionservices.md) type exposes the following members.
 
 ## Methods

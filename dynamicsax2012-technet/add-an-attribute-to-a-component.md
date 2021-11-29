@@ -15,6 +15,9 @@ ms.search.region: Global
 # Add an attribute to a component 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Attributes are the values that you can select for a component when you configure a product. Attributes are grouped as attribute types. For more information, see [Set up attributes and attribute types](set-up-attributes-and-attribute-types.md).

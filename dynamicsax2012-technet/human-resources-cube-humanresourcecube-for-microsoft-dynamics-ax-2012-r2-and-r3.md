@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Human resources cube (HumanResourceCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Human resources cube for Microsoft Dynamics AX is used to analyze data for applicants, workers, positions, jobs, and courses. Analysis of human resources data is required for organizations to effectively manage their workforce and make decisions based on accurate information. This article provides details about the cube.

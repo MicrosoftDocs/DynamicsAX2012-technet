@@ -16,6 +16,9 @@ ms.search.region: India
 # (IND) Calculate service tax by using the Free text invoice form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Free text invoice** form to create and post a free text invoice for which service tax is calculated. You can specify the service code for each invoice line before you post the free text invoice.

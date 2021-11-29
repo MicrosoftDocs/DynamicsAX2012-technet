@@ -17,6 +17,9 @@ dev_langs:
 
 # LevelStatusEvent Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Runs level status event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

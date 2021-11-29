@@ -17,6 +17,9 @@ dev_langs:
 
 # FromXml Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deserializes the customer order information from the specified XML blob.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

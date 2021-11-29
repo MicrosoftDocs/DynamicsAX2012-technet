@@ -17,6 +17,9 @@ dev_langs:
 
 # PasswordHash Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets passwordHash for the user.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up accounts payable parameters for amount differences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Accounts payable parameters** form to set up accounts payable parameters for amount differences. Facture amount differences are included in a separate list that is created in the purchase book for the specified period. This list contains the cancellation of the source facture and the new facture that is recalculated at payment.

@@ -17,6 +17,9 @@ dev_langs:
 
 # WasChanged Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is set to true if the item was changed by price or discount calculation.
 
 Is set to false in the totalcalulation.

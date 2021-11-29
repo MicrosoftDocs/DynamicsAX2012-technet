@@ -21,6 +21,9 @@ ms.search.region: Global
 # About posting definitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Posting definitions are an alternative to posting profiles. You can use both posting definitions and posting profiles to create subledger journal lines for originating transactions that meet selected criteria. However, posting definitions and posting profiles are not interchangeable. You might have to use both to meet your organization’s needs.

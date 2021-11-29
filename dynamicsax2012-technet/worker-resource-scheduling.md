@@ -20,6 +20,9 @@ ms.search.region: Global
 # Worker resource scheduling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 provides the capability to schedule workers for a project either based on its requirements and schedule, or based on the skills and availability of workers. The worker scheduling tools in AX 2012 are designed to help you quickly find the most qualified workers who are available to work on the tasks and activities in a project. These tools also let you easily see how you can best utilize those workers during the project based on their available capacity.

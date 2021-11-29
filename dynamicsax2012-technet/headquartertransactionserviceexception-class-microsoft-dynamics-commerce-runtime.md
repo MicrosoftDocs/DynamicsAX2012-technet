@@ -17,6 +17,9 @@ dev_langs:
 
 # HeadquarterTransactionServiceException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the class for exceptions originating from the AX head quarter.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

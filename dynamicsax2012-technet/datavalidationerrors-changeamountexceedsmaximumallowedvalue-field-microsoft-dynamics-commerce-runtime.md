@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangeAmountExceedsMaximumAllowedValue Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that change (overtender) amount exceeds maximum allowed amount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -18,6 +18,9 @@ f1_keywords:
 # (FRA) Print bill of exchange report (BankBillOfExchange\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Print bill of exchange** report prints a list of bills of exchange together with their details for legal entities operating in France. This report is typically used by accounting clerks and bookkeepers.

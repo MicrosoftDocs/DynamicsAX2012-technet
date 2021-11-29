@@ -13,6 +13,9 @@ f1_keywords:
 
 # invoice matching
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A practice of matching vendor invoice prices and product quantities to purchase orders and product receipts.
 
 ## See also

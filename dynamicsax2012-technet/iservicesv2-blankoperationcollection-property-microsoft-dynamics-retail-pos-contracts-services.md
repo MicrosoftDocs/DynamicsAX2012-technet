@@ -17,6 +17,9 @@ dev_langs:
 
 # BlankOperationCollection Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Collection of blank operations service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

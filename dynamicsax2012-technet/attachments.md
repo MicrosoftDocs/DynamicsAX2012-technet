@@ -15,6 +15,9 @@ ms.search.region: Global
 # Attachments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to attach documents to records in Enterprise Portal for Microsoft Dynamics AX and Role Centers. You can attach documents such as e-mail messages, faxes, and Microsoft Office System documents to Microsoft Dynamics AX records. However, before you can attach documents, your administrator must configure document types and categories by using the Microsoft Dynamics AX client. If you attempt to attach a document to a record in Enterprise Portal, and the document type is not configured, you receive an error message.

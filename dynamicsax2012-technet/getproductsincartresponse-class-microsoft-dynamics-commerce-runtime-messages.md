@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductsInCartResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get products in cart response object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

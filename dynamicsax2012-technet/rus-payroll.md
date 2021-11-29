@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Payroll 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use Payroll to create and update staff administration information, timesheet details for employees, payroll accounting, and pay statements.

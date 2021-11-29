@@ -19,6 +19,9 @@ ms.search.region: Mexico
 # (MEX) Create and post inflation adjustment ledger transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The inflation adjustment process allows you to view inflation adjustment data in your financial statements by posting ledger transactions. Use the **Inflation adjustment B-10** form to create and post inflation adjustment ledger transactions for an adjustment period. The adjustment process calculates inflation adjustments for the following:

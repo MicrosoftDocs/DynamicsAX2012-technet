@@ -18,6 +18,9 @@ ms.search.region: Spain
 # (ESP) Generate Declaration 347 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 Use the **Transactions** form to modify the information for the customer transactions and vendor transactions before you generate the report as an ASCII file.

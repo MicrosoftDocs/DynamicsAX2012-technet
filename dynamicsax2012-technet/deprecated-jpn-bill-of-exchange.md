@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (JPN) Bill of exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2009 provides management of the life cycle for bills of exchange (BOEs). For example, you can draw BOEs, remit (deposit) them for collection or discount, protest them, and redraw them to settlement. For Japanese installations, there is country-specific functionality for BOE endorsement. This functionality guarantees that the endorsement for the draft that a vendor receives from a customer for payment before BOE maturity applies to both promissory notes and BOEs in accounts receivable.

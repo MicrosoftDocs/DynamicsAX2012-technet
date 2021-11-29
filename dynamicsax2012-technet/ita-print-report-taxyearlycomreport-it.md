@@ -14,6 +14,9 @@ f1_keywords:
 # (ITA) Print report (TaxYearlyComReport\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Print** report displays and prints the VAT details that are applied to transactions that occurred in the previous calendar year. This report is typically used by accountants, accounting managers, clerks, sales managers, and collections managers to inquire into the status of sales tax transactions.

@@ -24,6 +24,9 @@ ms.search.region: India
 # (IND) Create an import order for the DFIA incentive scheme 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you receive a Duty Free Import Authorization (DFIA) from the customs authority, you can use the authorization to claim exemption of duty on goods that are being imported. Use this procedure to create an import order and attach the DFIA to it.

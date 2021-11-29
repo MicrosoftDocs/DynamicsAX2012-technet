@@ -17,6 +17,9 @@ dev_langs:
 
 # Table Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the data table that contains this data row.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

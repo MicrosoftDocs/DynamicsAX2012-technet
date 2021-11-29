@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install multiple instances of Reporting Services on the same computer (for use with Microsoft Dynamics AX) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can install multiple instances of Microsoft SQL Server Reporting Services on the same computer. In this kind of deployment environment, each instance of Reporting Services is connected to an independent Microsoft Dynamics AX installation. You may want to install multiple instances of Reporting Services on the same computer for the following reasons:

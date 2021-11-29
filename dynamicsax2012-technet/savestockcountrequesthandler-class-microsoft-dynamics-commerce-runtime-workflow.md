@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveStockCountRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handler for save/ commit StockCount journal Transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

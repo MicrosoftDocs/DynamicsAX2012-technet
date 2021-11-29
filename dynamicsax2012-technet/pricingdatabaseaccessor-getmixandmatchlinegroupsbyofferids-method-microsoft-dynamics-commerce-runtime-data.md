@@ -17,6 +17,9 @@ dev_langs:
 
 # GetMixAndMatchLineGroupsByOfferIds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get all the mix and match line groups associated with the given offers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

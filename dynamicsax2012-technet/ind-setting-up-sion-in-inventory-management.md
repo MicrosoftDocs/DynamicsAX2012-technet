@@ -19,6 +19,9 @@ ms.search.region: India
 # (IND) Setting up SION in Inventory management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Government of India offers many special incentive schemes to Indian importers. These schemes are available for imported products that are used to manufacture exported goods. Standard Input Output Norms (SION) contain guidelines that apply to the types of inputs, or materials, that can be imported without paying a customs duty. These materials must be used to manufacture standardized exportable products. Licenses for certain incentive schemes, such as Advance Authorization (AA) and Duty Free Import Authorization (DFIA), are issued only for products that are listed in the SION.

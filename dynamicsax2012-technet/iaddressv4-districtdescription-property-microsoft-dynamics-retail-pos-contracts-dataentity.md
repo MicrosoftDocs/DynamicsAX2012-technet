@@ -17,6 +17,9 @@ dev_langs:
 
 # DistrictDescription Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Description of district (Russia)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

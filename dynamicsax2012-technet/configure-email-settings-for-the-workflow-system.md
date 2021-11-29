@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure email settings for the workflow system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure Microsoft Dynamics AX to send email messages to users when workflow-related events occur. For example, email messages can be sent to users when documents are assigned to them for approval. Complete the procedures in this topic to configure email settings for the workflow system.

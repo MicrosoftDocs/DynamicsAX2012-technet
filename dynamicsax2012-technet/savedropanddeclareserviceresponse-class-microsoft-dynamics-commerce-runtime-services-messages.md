@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveDropAndDeclareServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 SaveDropAndDeclareServiceResponse is the response class to save bank/ safe drop and tender operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

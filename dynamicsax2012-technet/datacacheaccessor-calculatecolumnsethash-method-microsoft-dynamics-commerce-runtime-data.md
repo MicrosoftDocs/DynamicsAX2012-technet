@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateColumnSetHash Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the hash of a column set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

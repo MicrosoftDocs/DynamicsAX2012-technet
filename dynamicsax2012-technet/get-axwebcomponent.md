@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXWebComponent
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXWebComponent
 
 Returns a list of web components for a specified Enterprise Portal site.

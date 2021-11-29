@@ -17,6 +17,9 @@ dev_langs:
 
 # QuoteExpirationDays Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number of days a quote is valid after its creation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Post bills of entry for import orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Bill of entry** form to post a bill of entry and attach the bill of entry number to an import order. The bill of entry number is provided by the customs authority.

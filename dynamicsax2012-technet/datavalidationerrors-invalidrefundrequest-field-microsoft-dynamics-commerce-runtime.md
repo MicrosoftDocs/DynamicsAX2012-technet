@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidRefundRequest Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the refund is not configured correctly.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

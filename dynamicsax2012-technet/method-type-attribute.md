@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Method Type Attribute 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you use the AIF Document Service Wizard to create a service in Microsoft Dynamics AX, it adds the method type attribute to each service class method that is exposed as a service operation. The method type attribute corresponds to the action that the method performs: create, read, update, delete, find, getKeys, getChangedKeys, and findKeys.

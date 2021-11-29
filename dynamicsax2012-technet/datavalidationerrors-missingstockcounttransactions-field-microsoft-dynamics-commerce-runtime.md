@@ -17,6 +17,9 @@ dev_langs:
 
 # MissingStockCountTransactions Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the stock count transactions are missing.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

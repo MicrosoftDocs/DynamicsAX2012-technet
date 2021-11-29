@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargesTotal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the sum of all charges on transaction and lines.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

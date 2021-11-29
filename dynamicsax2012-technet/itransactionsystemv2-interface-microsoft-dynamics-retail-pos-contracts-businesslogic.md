@@ -17,6 +17,9 @@ dev_langs:
 
 # ITransactionSystemV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ITransactionSystem interface version 1.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

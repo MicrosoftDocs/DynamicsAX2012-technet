@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up substance categories 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Substance categories are groupings of similar substances that your organization tracks to measure environmental impact. Use the **Substance categories** form to add new categories.

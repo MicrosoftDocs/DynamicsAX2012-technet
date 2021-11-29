@@ -20,6 +20,9 @@ ms.search.region: Global
 # Project management and accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use Project management and accounting to plan, create, manage, control and complete projects for your organization. Customer-focused projects can be set up on a time and materials or fixed-price basis. You can also use the module to manage costs for internal and investment projects.

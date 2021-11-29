@@ -17,6 +17,9 @@ dev_langs:
 
 # ICompositionLoader Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The interface for the composition loader implementation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

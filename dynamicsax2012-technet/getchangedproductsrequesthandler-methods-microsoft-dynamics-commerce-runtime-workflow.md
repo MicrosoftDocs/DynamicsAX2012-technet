@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChangedProductsRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChangedProductsRequestHandler](getchangedproductsrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

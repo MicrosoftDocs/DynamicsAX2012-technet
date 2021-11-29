@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Microsoft Dynamics AX 2012 Expenses Windows 8 App 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft released the Windows 8 Expenses App. This app is compatible only with installations of Microsoft Dynamics AX 2012 R3 that have the following hotfixes applied:

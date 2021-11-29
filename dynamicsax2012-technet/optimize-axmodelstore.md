@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Optimize-AXModelStore
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Optimize-AXModelStore
 
 Runs a series of steps to optimize the model store for runtime performance.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CommerceValidator Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class exposes functionality for interacting with the DataAnnotations library
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

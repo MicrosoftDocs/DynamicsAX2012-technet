@@ -13,6 +13,9 @@ f1_keywords:
 
 # order entry
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of capturing sales orders and purchase orders using a software application.
 
 ## See also

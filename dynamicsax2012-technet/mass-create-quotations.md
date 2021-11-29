@@ -21,6 +21,9 @@ ms.search.region: Global
 # Mass create quotations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you have to create similar quotations for many different sales targets, you can mass create the quotations instead of creating them one-by-one. You can do this for sales quotations and project quotations. When you mass create any kind of quotation, you must base the quotation on a quotation template.

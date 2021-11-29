@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Cancel a bill of entry 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can cancel a bill of entry and an invoice registration if the related purchase invoice or purchase receipt has not been posted.

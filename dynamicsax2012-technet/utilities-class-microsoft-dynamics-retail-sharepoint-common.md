@@ -17,6 +17,9 @@ dev_langs:
 
 # Utilities Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Utility class for functionality common to Retail Publishing Job and Storefront.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

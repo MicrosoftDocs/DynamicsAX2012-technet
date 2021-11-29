@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEntityByKey Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get a purchase order by order identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

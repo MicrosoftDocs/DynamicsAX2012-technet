@@ -14,6 +14,9 @@ ms.search.region: Global
 # Using document management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic includes links to document management help topics. You can use document management in Microsoft Dynamics AX to add notes, documents, spreadsheets, and other files to records.

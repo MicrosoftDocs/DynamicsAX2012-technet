@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSalesTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales transaction object from [RequestContext](requestcontext-class-microsoft-dynamics-commerce-runtime.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

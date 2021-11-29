@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PricingService Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PricingService](pricingservice-class-microsoft-dynamics-commerce-runtime-services.md) type exposes the following members.
 
 ## Properties

@@ -13,6 +13,9 @@ f1_keywords:
 
 # Dimension-based configuration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A configuration technology used to create product variants by selecting values for product dimensions.
 
 ## See also

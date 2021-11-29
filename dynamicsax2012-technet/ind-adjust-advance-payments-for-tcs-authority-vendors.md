@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Adjust advance payments for TCS authority vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can adjust an advance payment made to the Tax Collected at Source (TCS) authority vendor to an actual payment in the **Vendors** form (Click **Accounts payable** \> **Common** \> **Vendors** \> **All vendors**. On the **All vendors** list page, on the **Action Pane**, click **Vendor** to create a new vendor, or select a vendor in the list.).

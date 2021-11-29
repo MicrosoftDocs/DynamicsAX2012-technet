@@ -17,6 +17,9 @@ dev_langs:
 
 # AdditionalSecurityInformation Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Additional card security information collected from the hardware device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -21,6 +21,9 @@ ms.search.region: Global
 # Create a project contract to invoice for units of delivery 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to create a project and project contract, so that you can invoice a customer when you have completed a unit of delivery that is defined in the contract. The timing of the invoices is negotiated with the customer.

@@ -14,6 +14,9 @@ f1_keywords:
 # Cash advance configuration key (TRVAdvance) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Cash advance** configuration key enables you to use the cash advance functionality. With this key enabled, you can set up cash advance currencies for your workers to select from. Workers can create cash advance requests, from which you can create cash advance reports. When workers are creating an expense report, cash advance is offered as an expense type to allow the return of cash advances not used.

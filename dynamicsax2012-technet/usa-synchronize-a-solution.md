@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Synchronize a solution 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can synchronize information between a Sites Services for Microsoft Dynamics ERP solution web site and Microsoft Dynamics AX. For example, after you change the documents or records that the solution uses. Depending on how synchronization jobs are set up, you can wait for the next regular synchronization job to run, or you can synchronize manually. You can also change the synchronization schedule. Typically, IT staff sets up or changes the synchronization schedule. These tasks might require administrator privileges.

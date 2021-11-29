@@ -15,6 +15,9 @@ f1_keywords:
 # (AUT) Austrian annual sales tax report (TaxReportYearly\_AT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Austrian annual sales tax report** is used to print the sales tax information for a settlement period that you specify. The sales tax amounts and totals are also included in this report. This information is printed on the Umsatzsteuererklärung (U1) .pdf form that is provided by the Austrian Ministry of Finance. You must generate and submit this report to the Austrian Ministry of Finance. This report is typically used by accountants, accounts receivable managers, and sales managers.

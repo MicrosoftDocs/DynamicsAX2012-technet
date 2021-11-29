@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Mass deploy retail updates and customizations by using System Center Configuration Manager 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use the Retail Update generator with System Center Updates Publisher to automate and centralize the deployment of customizations and updates to the retail components of Microsoft Dynamics AX.

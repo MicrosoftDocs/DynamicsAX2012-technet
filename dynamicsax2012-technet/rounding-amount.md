@@ -13,6 +13,9 @@ f1_keywords:
 
 # rounding amount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An amount expressed as its nearest round number.
 
 ## See also

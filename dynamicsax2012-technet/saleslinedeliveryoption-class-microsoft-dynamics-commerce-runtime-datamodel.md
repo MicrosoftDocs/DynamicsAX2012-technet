@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesLineDeliveryOption Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the delivery options applicable for sales line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

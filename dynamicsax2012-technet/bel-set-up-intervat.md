@@ -14,6 +14,9 @@ ms.search.region: Belgium
 # (BEL) Set up INTERVAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use INTERVAT to complete electronic tax declarations in Belgium. Use the **INTERVAT setup** form to create elements for INTERVAT. The information that you enter in this form is used when you click the **Open Web site** button in the **INTERVAT tax declaration** form.

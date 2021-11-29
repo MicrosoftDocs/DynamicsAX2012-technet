@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDefaultProductImageData Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the data for the default product image.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

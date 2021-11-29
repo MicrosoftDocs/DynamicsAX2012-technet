@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckoutMapper Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Map checkout objects between View Model and Data Model.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

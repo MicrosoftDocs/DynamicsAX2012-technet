@@ -17,6 +17,9 @@ dev_langs:
 
 # NullResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Null response class representing successful round trip of service call but no returned data.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

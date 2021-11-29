@@ -17,6 +17,9 @@ dev_langs:
 
 # NeedChannelIdFromPrincipal Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 There is no need to have channel id from principal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

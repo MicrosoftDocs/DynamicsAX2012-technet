@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Compliance management license code (ComplianceMgmt) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Compliance management** license code enables access to some administrative features of Microsoft Dynamics AX.

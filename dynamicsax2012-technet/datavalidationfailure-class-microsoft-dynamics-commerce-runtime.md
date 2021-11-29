@@ -17,6 +17,9 @@ dev_langs:
 
 # DataValidationFailure Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains the validation results from data validation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

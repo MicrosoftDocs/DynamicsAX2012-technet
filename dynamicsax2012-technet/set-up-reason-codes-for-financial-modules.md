@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up reason codes for financial modules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A reason code is a code that users can select to record the reason for a change or transaction, such as a write-down adjustment or payment reversal. You can use the **Financial reasons** form in Organization administration to create reason codes for a variety of financial modules, or you can alternatively open a reasons form from a specific module to set up reason codes for only that module. For more information, see [Reasons (form)](https://technet.microsoft.com/library/hh209362\(v=ax.60\)).

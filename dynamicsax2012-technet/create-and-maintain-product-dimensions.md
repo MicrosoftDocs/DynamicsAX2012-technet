@@ -16,6 +16,9 @@ ms.search.region: Global
 # Create and maintain product dimensions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You create product dimensions by using a product dimension group. The product dimensions in a product dimension group control in which product dimension values you can create for product masters that are associated with the product dimension group. The product dimension values control the product variants that can be created for a product master. For more information about how to create product variants, see “Create product variants” in [Key tasks: Define products](key-tasks-define-products.md).

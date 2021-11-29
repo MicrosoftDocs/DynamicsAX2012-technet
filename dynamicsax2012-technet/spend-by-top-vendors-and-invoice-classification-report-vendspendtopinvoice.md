@@ -14,6 +14,9 @@ f1_keywords:
 # Spend by top vendors and invoice classification report (VendSpendTopInvoice) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the amount of purchases from vendors, and whether purchases are associated with a purchase order.

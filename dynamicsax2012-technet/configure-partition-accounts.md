@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure partition accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Workflow execution accounts are configured separately for each partition. Use the **System service accounts** form to configure the Workflow execution account for a partition.

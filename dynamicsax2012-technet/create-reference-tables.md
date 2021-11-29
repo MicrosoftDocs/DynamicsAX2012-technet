@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create reference tables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Reference tables are used as the basis for calculations for the distribution or allocation of costs or quantities. Reference tables are typically used when references are fixed for several periods. Examples of reference tables are square meters, headcount, equipment calculation, and so on.

@@ -17,6 +17,9 @@ dev_langs:
 
 # Connection Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current active connection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

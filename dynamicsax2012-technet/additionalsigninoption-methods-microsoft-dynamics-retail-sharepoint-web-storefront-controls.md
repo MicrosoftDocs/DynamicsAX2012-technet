@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AdditionalSignInOption Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AdditionalSignInOption](additionalsigninoption-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md) type exposes the following members.
 
 ## Methods

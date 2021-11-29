@@ -17,6 +17,9 @@ dev_langs:
 
 # GetLoyaltyCards Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a read only collection of all loyalty card numbers
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

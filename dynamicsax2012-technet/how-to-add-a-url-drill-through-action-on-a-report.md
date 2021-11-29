@@ -14,6 +14,9 @@ dev_langs:
 # How to: Add a URL Drill Through Action on a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A *URL drill through action* lets you add a hyperlink so that users can access a web page, an Enterprise Portal page, or a form in the Microsoft Dynamics AX client by clicking a linked item in a report. The hyperlink can be a static URL or an expression that evaluates to a URL. If a field in a database table contains a URL, that field can be used to create an expression that is used for a dynamic list of hyperlinks.

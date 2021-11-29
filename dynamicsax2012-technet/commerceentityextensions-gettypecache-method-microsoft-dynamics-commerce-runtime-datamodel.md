@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTypeCache Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cache for reflection data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

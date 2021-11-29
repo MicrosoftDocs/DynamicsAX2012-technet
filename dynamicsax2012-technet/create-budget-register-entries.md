@@ -23,6 +23,9 @@ ms.search.region: Global
 # Create budget register entries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can create budget amounts by entering budget register entries, you must define financial dimensions for Budgeting. You must also set up budget codes, budget models, exchange rates, and number sequences. If you plan to use Budgeting workflows, create the workflows, and then assign them to budget codes. If you plan to use budget control, configure budget control before you enter budget amounts. For more information, see [About basic budgeting](about-basic-budgeting.md) and [Define budget codes](define-budget-codes.md).

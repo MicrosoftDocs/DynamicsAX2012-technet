@@ -15,6 +15,9 @@ ms.search.region: Global
 # About footer text for sales quotations and other sales documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Print management setup** form to specify the text that is printed in the footers of the original version and other copies of sales documents.

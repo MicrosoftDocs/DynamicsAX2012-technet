@@ -13,6 +13,9 @@ f1_keywords:
 
 # intercompany purchase order
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A purchase order that one legal entity generates from a sales order sent by another legal entity that is part of the same organization that consolidates the accounts of both legal entities.
 
 ## See also

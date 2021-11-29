@@ -15,6 +15,9 @@ f1_keywords:
 # Remove an AOS from load balancing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to configure an instance of Application Object Server (AOS) for Microsoft Dynamics AX as a stand-alone server by removing it from a load-balancing cluster. System administrators typically remove an AOS instance from a load-balancing cluster to perform maintenance.

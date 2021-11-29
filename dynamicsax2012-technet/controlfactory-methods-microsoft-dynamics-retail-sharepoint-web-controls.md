@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ControlFactory Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ControlFactory](controlfactory-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Methods

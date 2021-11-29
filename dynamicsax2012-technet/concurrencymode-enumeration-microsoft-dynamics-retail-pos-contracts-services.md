@@ -20,6 +20,9 @@ dev_langs:
 
 # ConcurrencyMode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ConcurrencyMode interface specifies how discount should interact with other discounts on a line.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

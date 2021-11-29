@@ -17,6 +17,9 @@ dev_langs:
 
 # SetTotalDiscPercent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set the total percentage discount given for the transaction
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

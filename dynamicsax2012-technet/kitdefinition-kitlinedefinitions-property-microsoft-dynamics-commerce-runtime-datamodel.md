@@ -17,6 +17,9 @@ dev_langs:
 
 # KitLineDefinitions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all possible substitutable unique products for the current kit component line.
 
 If the substitutes are variants of the same product master, only the product master is saved in this list.

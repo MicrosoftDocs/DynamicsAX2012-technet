@@ -14,6 +14,9 @@ ms.search.region: Global
 # Maintain loyalty programs in AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 After you set up loyalty programs, you can monitor and maintain them and review the activity of your card holders in those programs. By monitoring your loyalty programs, you can continue to offer and enhance promotions or offers that customers are taking advantage of and discontinue programs that customers are not using. You can also manually adjust loyalty cards to accommodate or reward your customers in the following ways:

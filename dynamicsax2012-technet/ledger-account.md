@@ -13,6 +13,9 @@ f1_keywords:
 
 # ledger account
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier created from the combination of main account value and other financial dimension values listed in a chart of accounts and used to classify the financial consequences of economic activity.
 
 ## See also

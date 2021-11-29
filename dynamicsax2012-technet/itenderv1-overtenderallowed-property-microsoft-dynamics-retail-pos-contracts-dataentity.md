@@ -17,6 +17,9 @@ dev_langs:
 
 # OverTenderAllowed Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set if permitted to pay over the sold amount
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

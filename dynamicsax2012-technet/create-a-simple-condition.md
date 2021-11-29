@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a Simple condition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Simple conditions can be used to create simple constraints. For example, you could set up a condition to indicate that a user cannot select a red lamp shade while configuring a lamp, if he or she has selected plastic for the material. If the user selects a red shade, 'Plastic' would not be available for material. Simple conditions consist of a field compared with a value. Simple conditions can consist of one or more lines. In that case, the lines are combined by a logical OR.

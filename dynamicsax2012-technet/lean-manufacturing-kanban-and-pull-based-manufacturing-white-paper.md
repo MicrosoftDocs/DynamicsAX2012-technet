@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Lean Manufacturing: Kanban and Pull-based Manufacturing (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper provides an overview of how to use the kanban framework in Microsoft Dynamics AX 2012 to support lean manufacturing and pull-based manufacturing scenarios. It introduces the concepts of kanbans as a signal and kanban rules as supply policies. It also describes how to model pull scenarios and provides application examples.

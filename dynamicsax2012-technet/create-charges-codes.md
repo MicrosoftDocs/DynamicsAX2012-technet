@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create charges codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you have to track sales amounts or purchase amounts in addition to line items, you can use charges codes. For example, you might pay freight and insurance on a purchase order, and these amounts might be itemized separately on the purchase order. You can specify whether these amounts are posted to expense accounts, or whether they are added to the cost of the items.

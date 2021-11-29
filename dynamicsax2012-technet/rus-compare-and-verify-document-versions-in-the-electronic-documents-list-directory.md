@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Compare and verify document versions in the Electronic documents list directory 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Each document that is stored in the electronic documents list directory can have an unlimited number of versions. The versions are saved in hierarchical order. The differences in document versions occur based on the way in which they are created.

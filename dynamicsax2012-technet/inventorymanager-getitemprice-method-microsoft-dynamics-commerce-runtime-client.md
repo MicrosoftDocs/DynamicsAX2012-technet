@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemPrice Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the price of an item in context of the current customer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

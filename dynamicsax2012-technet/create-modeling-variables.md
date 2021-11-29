@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create modeling variables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For you to use modeling variables in a product model, you must create them in the **Modeling variables** form. Before you create a set of modeling variables, consider which parameters are most important for the definition of the configured item.

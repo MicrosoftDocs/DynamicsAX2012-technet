@@ -19,6 +19,9 @@ ms.search.region: Global
 # About budget control 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Budget control, including budget checking, is a method of ensuring that sufficient budget funds are available for planned or actual purchases. After you set up basic budgeting, you can set up budget control.

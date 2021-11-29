@@ -15,6 +15,9 @@ dev_langs:
 
 # GetCardTypes Method (String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the list of card types that match specified card number or all types if card number is not specified.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

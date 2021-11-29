@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # RequiredAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [RequiredAttribute](requiredattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md) type exposes the following members.
 
 ## Properties

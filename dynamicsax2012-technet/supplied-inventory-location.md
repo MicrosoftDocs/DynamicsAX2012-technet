@@ -13,6 +13,9 @@ f1_keywords:
 
 # supplied inventory location
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The inventory location where an item is consumed and where the replenishment of the item is planned.
 
 ## See also

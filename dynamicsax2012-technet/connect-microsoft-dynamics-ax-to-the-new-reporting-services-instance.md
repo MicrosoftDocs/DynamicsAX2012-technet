@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Connect Microsoft Dynamics AX to the new Reporting Services instance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Complete the following procedure to connect an instance of Microsoft Dynamics AX Application Object Server (AOS) to the new instance of Microsoft SQL Server Reporting Services. This topic assumes that the new instance of Reporting Services meets the version requirements that are listed in [Install multiple instances of Reporting Services on the same computer (for use with Microsoft Dynamics AX)](install-multiple-instances-of-reporting-services-on-the-same-computer-for-use-with-microsoft-dynamics-ax.md).

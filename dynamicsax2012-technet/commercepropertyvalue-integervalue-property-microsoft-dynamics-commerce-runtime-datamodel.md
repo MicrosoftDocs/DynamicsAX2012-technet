@@ -17,6 +17,9 @@ dev_langs:
 
 # IntegerValue Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the IntegerValue for the property, dependant on propertyType.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

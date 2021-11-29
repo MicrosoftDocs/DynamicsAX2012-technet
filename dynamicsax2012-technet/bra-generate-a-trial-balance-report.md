@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Generate a trial balance report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the Trial balance summary report to generate a trial balance report that lists the ledger accounts with their corresponding balances, and displays the sum of the debit and credit balances. The trial balance report can have a maximum of 500 pages, referred to as an accounting book. It can contain more than one volume, if necessary, for the same calendar year.

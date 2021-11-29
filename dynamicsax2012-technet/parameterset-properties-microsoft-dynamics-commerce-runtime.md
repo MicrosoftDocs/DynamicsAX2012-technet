@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ParameterSet Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ParameterSet](parameterset-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Properties

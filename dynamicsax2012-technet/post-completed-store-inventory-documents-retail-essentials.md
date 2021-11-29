@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Post completed store inventory documents (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to validate and post store inventory documents after a purchase order or transfer order has been received. This topic also explains how to post a stock count when a physical count has been completed.

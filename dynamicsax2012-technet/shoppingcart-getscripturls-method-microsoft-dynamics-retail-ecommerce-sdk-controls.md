@@ -17,6 +17,9 @@ dev_langs:
 
 # GetScriptUrls Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [RetailWebControl.GetScriptUrls()](retailwebcontrol-getscripturls-method-microsoft-dynamics-retail-ecommerce-sdk-controls.md).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls](microsoft-dynamics-retail-ecommerce-sdk-controls-namespace.md)  

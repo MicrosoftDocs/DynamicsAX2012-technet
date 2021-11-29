@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ButtonStyle Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ButtonStyle](buttonstyle-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Fields

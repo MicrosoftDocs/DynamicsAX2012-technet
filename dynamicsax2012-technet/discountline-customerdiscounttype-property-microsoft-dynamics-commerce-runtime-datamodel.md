@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerDiscountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The type of a customer discount, i.e line discount, multiline discount
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

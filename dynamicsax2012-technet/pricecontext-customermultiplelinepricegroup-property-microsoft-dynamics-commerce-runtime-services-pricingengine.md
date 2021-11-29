@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerMultipleLinePriceGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the customer multiple line discount price group Id for customer-specific prices. Optional.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

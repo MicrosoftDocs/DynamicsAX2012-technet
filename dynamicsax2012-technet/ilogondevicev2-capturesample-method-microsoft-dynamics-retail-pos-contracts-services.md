@@ -17,6 +17,9 @@ dev_langs:
 
 # CaptureSample Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Used to tell a plugin to save a particular sample for later use.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

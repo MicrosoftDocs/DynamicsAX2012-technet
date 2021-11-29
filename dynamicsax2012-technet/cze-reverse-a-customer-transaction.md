@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Reverse a customer transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Customer transactions that are reversed can be posted as correction transactions in the general ledger.

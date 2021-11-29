@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxBase Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tax base.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

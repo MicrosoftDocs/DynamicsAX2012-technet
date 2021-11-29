@@ -17,6 +17,9 @@ dev_langs:
 
 # TrackingDetails Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the details of the shipments that need to be tracked.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

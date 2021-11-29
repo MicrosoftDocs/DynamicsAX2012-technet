@@ -17,6 +17,9 @@ dev_langs:
 
 # AddOrUpdate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds or Updates the value of the dictionary.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

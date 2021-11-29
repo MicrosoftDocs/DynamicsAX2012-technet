@@ -15,6 +15,9 @@ ms.search.region: Global
 # Accounts receivable roadmap 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic is a roadmap to additional information about Accounts receivable in Microsoft Dynamics AX. It includes links to information about how to get started, configure, and use Accounts receivable and information on which modules integrate with Accounts receivable.
 
 Microsoft Dynamics AX 2012 includes Accounts receivable features that help you track customer invoices and incoming payments. You can create customer invoices that are based on sales orders or packing slips. You can also enter free text invoices that are not related to sales orders. You can receive payments by using several different payment types, such as bills of exchange, cash, checks, credit cards, and electronic payments. If your organization includes multiple legal entities, you can use centralized payments to record payments in a single legal entity on behalf of the other legal entities.

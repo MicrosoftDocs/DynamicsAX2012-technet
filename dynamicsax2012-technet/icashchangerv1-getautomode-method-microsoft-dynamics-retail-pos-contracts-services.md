@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAutoMode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the cash changer is in automode.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Set up vendor catalog import parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To create and maintain procurement catalogs on your procurement site, you can use information that vendors submit in the form of catalog maintenance request (CMR) files. CMR files can be submitted by the vendor in the Vendor portal. Alternatively, the purchasing professional can upload CMR files that they receive from a vendor by using the Microsoft Dynamics AX client.

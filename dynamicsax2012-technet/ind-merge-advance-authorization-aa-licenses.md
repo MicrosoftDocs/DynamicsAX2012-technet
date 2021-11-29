@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Merge Advance authorization (AA) licenses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can merge export-import (EXIM) Advance Authorization (AA) incentive schemes and common processes that are related to the incentive schemes under the following conditions:

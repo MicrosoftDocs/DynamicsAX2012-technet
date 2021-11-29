@@ -21,6 +21,9 @@ dev_langs:
 
 # PriceGroupType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Price group type
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

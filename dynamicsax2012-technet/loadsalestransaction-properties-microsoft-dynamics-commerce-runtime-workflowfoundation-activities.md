@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoadSalesTransaction Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoadSalesTransaction](loadsalestransaction-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Properties

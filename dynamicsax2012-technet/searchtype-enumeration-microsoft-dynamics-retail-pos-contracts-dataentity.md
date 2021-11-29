@@ -21,6 +21,9 @@ dev_langs:
 
 # SearchType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Search type
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

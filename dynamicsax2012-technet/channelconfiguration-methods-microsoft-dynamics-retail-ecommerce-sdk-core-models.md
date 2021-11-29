@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChannelConfiguration Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChannelConfiguration](channelconfiguration-class-microsoft-dynamics-retail-ecommerce-sdk-core-models.md) type exposes the following members.
 
 ## Methods

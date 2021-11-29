@@ -17,6 +17,9 @@ dev_langs:
 
 # OnPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called when the payment has been added to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

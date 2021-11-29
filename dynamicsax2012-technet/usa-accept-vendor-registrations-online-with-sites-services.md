@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Accept vendor registrations online with Sites Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX includes a Sites Services for Microsoft Dynamics ERP solution called **Unsolicited vendor registration**. After a Sites Services account has been set up, purchasing department staff can use this solution to accept vendor registrations online and download them to Microsoft Dynamics AX.

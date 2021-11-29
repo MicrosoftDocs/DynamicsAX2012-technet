@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ShoppingCartMapper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ShoppingCartMapper](shoppingcartmapper-class-microsoft-dynamics-retail-sharepoint-web-services-objectmodel.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Assess, pay, declare, and adjust IPI taxes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to determine the amount of Imposto sobre Produtos Industrializados (IPI) tax to be paid per fiscal establishment for a specific month. The difference between the IPI tax amount collected on sales of goods and the IPI tax amount paid on purchases of goods is calculated. If the net amount is results in a tax liability, you can enter a vendor invoice journal entry and pay the amount of IPI tax that you owe to the tax authority.

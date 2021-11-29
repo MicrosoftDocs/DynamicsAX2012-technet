@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidCustomerOrderModeChange Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the required change in the customer order mode is not valid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceMethod Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the price method of this line (e.g. Fixed, Amount off, Percent off).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

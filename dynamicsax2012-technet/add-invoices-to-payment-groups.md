@@ -22,6 +22,9 @@ ms.search.region: Global
 # Add invoices to payment groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can add invoices to payment groups to group invoices by a common code. If one invoice in the payment group is settled, the other invoices in the group are included in the same settlement.

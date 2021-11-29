@@ -17,6 +17,9 @@ dev_langs:
 
 # AddAffiliationsRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add affiliation request and return true if added to transactin successfully.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

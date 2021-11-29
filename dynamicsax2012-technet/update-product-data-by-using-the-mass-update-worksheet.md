@@ -16,6 +16,9 @@ ms.search.region: Global
 # Update product data by using the mass update worksheet 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can update the properties of multiple products at the same time by using the Mass update worksheet tool. You can also use this tool to modify product properties at the product category level and then apply the changes to all products that are assigned to the category.

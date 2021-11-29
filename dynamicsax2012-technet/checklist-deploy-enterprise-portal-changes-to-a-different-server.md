@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Checklist: Deploy Enterprise Portal changes to a different server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following checklist can help you deploy changes from one Enterprise Portal server to a different server. Changes can include updates to Enterprise Portal objects in the Application Object Tree (AOT), updates to SharePoint Web Parts, or the transfer of a whole Enterprise Portal site to a different server. The checklist includes links to procedure topics that contain the step-by-step instructions to complete a task.

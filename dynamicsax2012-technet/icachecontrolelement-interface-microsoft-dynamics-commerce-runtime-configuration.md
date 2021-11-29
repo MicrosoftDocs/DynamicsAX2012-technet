@@ -17,6 +17,9 @@ dev_langs:
 
 # ICacheControlElement Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents configuration values used to control caching behavior.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IPurchaseOrderV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPurchaseOrderV1 interface is the version 1.0 purchase order receiving interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

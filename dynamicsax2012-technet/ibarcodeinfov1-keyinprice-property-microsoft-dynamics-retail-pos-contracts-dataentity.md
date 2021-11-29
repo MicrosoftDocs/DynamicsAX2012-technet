@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyInPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets an enumerated constant that indicates the key in price.
 
 The rules for keying in prices for the item.

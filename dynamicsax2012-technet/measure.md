@@ -13,6 +13,9 @@ f1_keywords:
 
 # measure
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A property of an object that can be quantified numerically.
 
 ## See also

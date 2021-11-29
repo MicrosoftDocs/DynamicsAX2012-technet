@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create or edit a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Create sales order** and **Edit sales order** pages to create or edit sales orders for customers. Sales orders are created to register the sale of goods or services to customers, and to track shipments to customers.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # domain event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The occurrence of an activity in the organization resource management domain.
 
 ## See also

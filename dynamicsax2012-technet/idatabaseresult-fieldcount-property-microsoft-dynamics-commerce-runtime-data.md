@@ -17,6 +17,9 @@ dev_langs:
 
 # FieldCount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number of fields available in the current result set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Define a Report with Dynamic Filters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to define a report that will enable an end user to filter data on any of the fields in the tables in the dataset. A dynamic filter is a filter that is created at runtime. Filters are created using the SySQuery form in the Microsoft Dynamics AX client.

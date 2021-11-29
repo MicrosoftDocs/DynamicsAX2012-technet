@@ -14,6 +14,9 @@ f1_keywords:
 # Working with purchase orders (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create purchase orders. You can create a purchase order from an existing sales order, or you can create a purchase order of one of the following types:

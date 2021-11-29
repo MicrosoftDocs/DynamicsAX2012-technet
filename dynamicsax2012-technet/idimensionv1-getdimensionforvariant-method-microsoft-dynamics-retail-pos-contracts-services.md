@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDimensionForVariant Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Populates dimension information about dimension object passed in.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

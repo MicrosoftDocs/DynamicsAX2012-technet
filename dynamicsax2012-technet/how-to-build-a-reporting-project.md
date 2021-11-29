@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Build a Reporting Project 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you build a reporting project, the report is updated in the model store. Managed projects with report business logic will build the assembly and add it to the output path for the project. You can build at the solution level or at the project level. When you build at the solution level, all projects that are contained in the solution are built. When you build at the project level, the project and any nested projects that are contained in the project are built. You can build from the Microsoft Visual Studio development environment, or you can build from the command line using MSBuild.exe. The following procedures explain how to build a solution or a project.

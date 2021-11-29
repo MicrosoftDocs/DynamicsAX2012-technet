@@ -13,6 +13,9 @@ f1_keywords:
 
 # unit contribution margin
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The unit sales price minus the unit variable cost.
 
 ## See also

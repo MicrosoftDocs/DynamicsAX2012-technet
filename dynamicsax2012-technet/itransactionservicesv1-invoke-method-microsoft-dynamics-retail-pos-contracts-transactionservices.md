@@ -17,6 +17,9 @@ dev_langs:
 
 # Invoke Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invokes an extension method in Microsoft Dynamics AX through the transaction service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices](microsoft-dynamics-retail-pos-contracts-transactionservices-namespace.md)  

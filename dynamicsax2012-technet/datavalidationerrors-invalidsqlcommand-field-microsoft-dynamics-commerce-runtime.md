@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidSqlCommand Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates an invalid SQL command.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

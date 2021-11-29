@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeNotConfiguredOnHeadquarters Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the cancellation charge code was not configured on the headquarters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

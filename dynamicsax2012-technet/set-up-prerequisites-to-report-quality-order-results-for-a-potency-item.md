@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up prerequisites to report quality order results for a potency item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up prerequisites to report quality order results for a potency item. To set up and use quality orders for potency items, you must first set up inventory parameters that are related to quality orders. You must also set up test groups to update inventory batch attributes, and you must specify other parameters to determine how test results are evaluated. For more information, see [Set up prerequisites for quality orders](set-up-prerequisites-for-quality-orders.md).

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAllDiscountCodes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the discount codes available in the system configuration, including the mapping to discount offers for each discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

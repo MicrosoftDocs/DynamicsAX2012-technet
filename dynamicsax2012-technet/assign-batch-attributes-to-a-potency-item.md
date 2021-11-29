@@ -20,6 +20,9 @@ ms.search.region: Global
 # Assign batch attributes to a potency item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up a batch attribute to identify an item as a potency item. A potency item is an item that has a specific concentration of an active ingredient.

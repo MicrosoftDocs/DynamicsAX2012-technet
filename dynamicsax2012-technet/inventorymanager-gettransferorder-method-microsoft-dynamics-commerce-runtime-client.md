@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTransferOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the transfer orders from Ax.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

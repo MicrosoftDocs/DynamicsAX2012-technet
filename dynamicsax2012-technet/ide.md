@@ -13,6 +13,9 @@ f1_keywords:
 
 # IDE
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of integrated tools for developing software. The tools are generally run from one user interface and consist of a compiler, an editor, and a debugger, among others.
 
 ## See also

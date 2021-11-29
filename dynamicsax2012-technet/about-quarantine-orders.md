@@ -15,6 +15,9 @@ ms.search.region: Global
 # About quarantine orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can quarantine an item or a group of items. For example, you might want to quarantine items for quality control reasons. When you quarantine items, you can either create the quarantine orders manually or set up the system to create the quarantine orders automatically. A setup in which quarantine orders are created automatically is called quarantine management.

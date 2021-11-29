@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About the Microsoft Dynamics AX 2012 Configuration utility 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Microsoft Dynamics AX 2012 Configuration utility enables Microsoft Dynamics AX administrators and developers to specify settings for Microsoft Dynamics AX clients and the system-wide .NET Business Connector. Configuration settings are read during startup. By default, configurations are stored in the Windows registry on the local computer, but you can also create configuration files and store the files on a network share. Microsoft Dynamics AX 2012 configuration files have a .axc extension. To open the utility, click **Start** \> **Control Panel** \> **Administrative Tools** \> **Microsoft Dynamics AX 2012 Configuration**.

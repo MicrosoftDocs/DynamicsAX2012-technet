@@ -14,6 +14,9 @@ f1_keywords:
 # Controller short-term solvency report (ControllerShortTermSolvency) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This chart displays short-term liquidity information for a controller.

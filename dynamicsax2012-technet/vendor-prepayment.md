@@ -13,6 +13,9 @@ f1_keywords:
 
 # vendor prepayment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A payment made to a vendor before any items are received or services are performed.
 
 ## See also

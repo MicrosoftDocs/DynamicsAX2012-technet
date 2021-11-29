@@ -14,6 +14,9 @@ ms.search.region: Global
 # Generate budget register entries from budget plans 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This procedure explains how to generate draft budget register entries from a budget plan and scenario. The financial dimension values on the budget plan lines must include at least the same segments as the segments that are enabled for Budgeting and budget control.

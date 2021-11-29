@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A workflow process that is executing.
 
 ## See also

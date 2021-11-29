@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Import-AXModelStore
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Import-AXModelStore
 
 Imports a model store from a file to a database. Syntax

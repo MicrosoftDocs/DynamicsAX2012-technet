@@ -17,6 +17,9 @@ dev_langs:
 
 # GetProductDeliveryOptionsResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the response containing the delivery options fetched for the product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a positive pay file for multiple legal entities and bank accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to generate a positive pay file for multiple legal entities and bank accounts, confirm a positive pay file, and recall a positive pay file.

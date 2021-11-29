@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptProfile Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The class describing a receipt profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # INamedRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [INamedRequestHandler](inamedrequesthandler-interface-microsoft-dynamics-commerce-runtime-handlers.md) type exposes the following members.
 
 ## Methods

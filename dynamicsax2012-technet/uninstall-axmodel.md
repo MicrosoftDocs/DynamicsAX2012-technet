@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Uninstall-AXModel
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Uninstall-AXModel
 
 Removes a model from the Microsoft Dynamics AX model store database.

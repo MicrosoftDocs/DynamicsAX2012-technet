@@ -24,6 +24,9 @@ ms.search.region: Global
 # Order items and services overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section provides an overview of the process of requesting items and services, discusses the tasks that are typically associated with this business process component, and lists the forms that support the tasks.

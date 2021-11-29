@@ -24,6 +24,9 @@ ms.search.region: Global
 # About time registration workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To register time in **Time and attendance**, workers must be set up as time registration workers in the company that they are employed in.

@@ -21,6 +21,9 @@ ms.search.region: Global
 # Set up an audit master for freight reconciliation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 

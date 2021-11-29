@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PublishingConnectorServiceInstance Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PublishingConnectorServiceInstance](publishingconnectorserviceinstance-class-microsoft-dynamics-retail-ecommerce-sp-publishing-connector.md) type exposes the following members.
 
 ## Methods

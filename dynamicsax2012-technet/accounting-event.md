@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The occurrence of an accounting action in an accounting system.
 
 ## See also

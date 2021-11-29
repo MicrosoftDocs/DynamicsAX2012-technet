@@ -27,6 +27,9 @@ ms.search.region: Global
 # Key tasks: Manage customer payment retention for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A project customer might want to withhold or retain an amount from payment to your organization for a project invoice. In Microsoft Dynamics AX, the customer payment retention terms are defined in the project contract. The payment retention terms include the criteria for releasing a retention amount. You can define the payment retention terms as a specific amount or as a percentage of the value of a contract. You can also define the retention amount as a percentage of an invoice amount.

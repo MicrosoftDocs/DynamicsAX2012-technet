@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Create and post a free text invoice as an electronic invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Free text invoice** form to create and post a free text invoice for a leasing service as an electronic invoice. You must set the **Product type** field to **Service** in the **Create product** form. You must specify the property registration number provided by the Mexican government when you create the free text invoice for a leasing service. For more information, see [Free text invoice (form)](https://technet.microsoft.com/library/aa556897\(v=ax.60\)).

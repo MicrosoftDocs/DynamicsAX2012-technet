@@ -15,6 +15,9 @@ ms.search.region: Global
 # About sites and the multisite functionality 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A site is a grouping of business resources, such as warehouses and production units, which share interrelated transactions, are located at a particular geographic location, and belong to a single legal entity. A single site cannot be shared by multiple legal entities.

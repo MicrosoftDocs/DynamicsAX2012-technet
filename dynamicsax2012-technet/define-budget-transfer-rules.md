@@ -19,6 +19,9 @@ ms.search.region: Global
 # Define budget transfer rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Budget transfer rules** form to define budget transfer rules to determine when budget transfers are allowed between financial dimension values. For example, budget transfers in a specific department might be allowed without approval, but transfers across departments might have to be reviewed and approved before the budget balance is adjusted. If a budget register entry is submitted and it violates the budget transfer rules, the transfer can be completed only if it is approved through a Budgeting workflow. For more information, see [Set up Budgeting workflows](set-up-budgeting-workflows.md).

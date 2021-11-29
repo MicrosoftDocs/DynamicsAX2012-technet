@@ -17,6 +17,9 @@ dev_langs:
 
 # MaskCardNumber Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Mask the card numbers to last 4 digits.
 
 Example card types used: Credit cards/Debit cards.

@@ -15,6 +15,9 @@ dev_langs:
 
 # Context Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the context associated with the current request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

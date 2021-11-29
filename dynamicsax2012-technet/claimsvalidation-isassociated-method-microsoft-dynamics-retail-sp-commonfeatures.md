@@ -17,6 +17,9 @@ dev_langs:
 
 # IsAssociated Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the bool that indicates if this identity is associated to an AX customer yet.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

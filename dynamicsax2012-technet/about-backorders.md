@@ -25,6 +25,9 @@ ms.search.region: Global
 # About backorders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Backorders are either purchase orders that are not yet delivered from a vendor or sales orders that are not yet delivered to a customer.

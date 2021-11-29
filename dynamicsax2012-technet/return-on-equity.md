@@ -13,6 +13,9 @@ f1_keywords:
 
 # return on equity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ratio of profitability calculated by dividing net income by owners' equity.
 
 ## See also

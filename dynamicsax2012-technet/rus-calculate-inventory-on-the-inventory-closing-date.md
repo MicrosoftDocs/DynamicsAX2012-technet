@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate inventory on the inventory closing date 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Calculation on-hand inventory on date** form to calculate and save the on-hand inventory data by dimensions on a specified date of closing. Inventory calculation on the specified inventory closing date generates item remainders by dimensions combinations. To generate the Inventory balance turnover report efficiently, you must calculate the inventory. The calculation of the inventory collects data for the inventory balance turnover on the closing date.

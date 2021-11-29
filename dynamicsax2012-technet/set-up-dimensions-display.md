@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up dimensions display 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up the dimensions display from various forms. The information contained in this topic is for the **Sales order** form.

@@ -15,6 +15,9 @@ f1_keywords:
 # Set up a channel database profile (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A channel database profile provides the information that enables Retail essentials to communicate with a retail channel database. This topic explains how to set up a channel database profile.

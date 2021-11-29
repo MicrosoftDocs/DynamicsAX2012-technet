@@ -17,6 +17,9 @@ dev_langs:
 
 # ExchangeRate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns the latest currency exchange rate against the default currency for a given currency code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

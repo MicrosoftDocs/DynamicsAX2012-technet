@@ -37,6 +37,9 @@ ms.search.region: Global
 # Set up Accounts payable invoice matching 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the following procedures to set up invoice matching for Accounts payable. For more information, and for examples, see [About Accounts payable invoice matching](about-accounts-payable-invoice-matching.md).

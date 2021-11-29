@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterTimerJobForMonitoringDiscovery Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Register timer job in the registry, so monitoring applications can discover it.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

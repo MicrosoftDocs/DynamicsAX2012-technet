@@ -15,6 +15,9 @@ dev_langs:
 
 # HandlePayments Method (RequestContext, SalesTransaction)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles payments for customer orders, it includes: \* Capturing deposit.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

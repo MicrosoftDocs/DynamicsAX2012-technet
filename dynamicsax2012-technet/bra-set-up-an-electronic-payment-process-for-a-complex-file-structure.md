@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Set up an electronic payment process for a complex file structure 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use a complex file structure to process an electronic payment remittance or return. The complex file structure consists of multiple headers and multiple trailer record types, such as file header, batch header, details, batch trailer, and file trailer. You can set up the payment types, payment ways, and segments for the complex file structure that is used when the legal entity makes an electronic payment to a bank.

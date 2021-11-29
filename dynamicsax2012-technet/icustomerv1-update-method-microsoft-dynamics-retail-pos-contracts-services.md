@@ -17,6 +17,9 @@ dev_langs:
 
 # Update Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Updates the customer information in the database.

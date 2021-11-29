@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Using the Query Service to Query Tables in a Hierarchy 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough shows you how to call the query service and retrieve data from tables that implement table inheritance in Microsoft Dynamics AX. When the query service returns data from tables that are part of a table hierarchy, it returns the data for the base table and for each table that derives from the base table in DataTable objects in a single DataSet. The records in the base DataTable are related to the derived DataTables through DataRelation objects. For more information about table inheritance, see [Walkthrough: Creating Base and Derived Tables](https://technet.microsoft.com/library/gg844024\(v=ax.60\)).

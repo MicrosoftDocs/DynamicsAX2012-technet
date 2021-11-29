@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Setup for tax reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Japanese taxation authority requires all businesses to file a consumption tax report that consists of an official consumption tax form and a worksheet. You can print the official tax form and use the calculation sheet to calculate the values that are required for the official tax form. The dates in the tax reports are displayed in the Japanese era format.

@@ -15,6 +15,9 @@ ms.search.region: Global
 # Adjust charges on vendor invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this information to enter and allocate charges to multiple lines on a posted vendor invoice. Before you begin, the number sequence for **Charges voucher** must be specified in the **Accounts payable parameters** form.

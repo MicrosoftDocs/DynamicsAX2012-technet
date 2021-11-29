@@ -18,6 +18,9 @@ dev_langs:
 
 # AppSettingNames Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Application settings names.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # HtmlFieldPanel Constructor (HtmlControl, HtmlLabel)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Create a new instance of the [HtmlFieldPanel](htmlfieldpanel-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) element with the specified label and input.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ConcurrencyModeColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Concurrency mode column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

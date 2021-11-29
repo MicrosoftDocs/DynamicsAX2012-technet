@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail stores (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about working with the organization model, sites, warehouses, and address books for retail stores. These topics also provide information about setting up retail stores.

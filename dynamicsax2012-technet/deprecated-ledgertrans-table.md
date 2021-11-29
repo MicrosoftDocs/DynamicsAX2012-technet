@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: LedgerTrans table 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, the LedgerTrans table holds the posted general ledger details. These details include the vouchers, dates, ledger account, dimension codes, posting layer, and amounts.

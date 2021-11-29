@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddressSqliteDataRequestHandler Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddressSqliteDataRequestHandler](addresssqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Properties

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Billing rules configuration key (PSAContractLine) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Billing rules** configuration key controls access to the form and functions to set up billing rules. Create billing rules to automatically schedule and calculate the amount to invoice a customer for a project.

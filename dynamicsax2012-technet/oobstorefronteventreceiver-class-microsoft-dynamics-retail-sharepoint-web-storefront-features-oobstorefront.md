@@ -17,6 +17,9 @@ dev_langs:
 
 # OOBStorefrontEventReceiver Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class handles events raised during feature activation, deactivation, installation, uninstallation, and upgrade.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Features.OOBStorefront](microsoft-dynamics-retail-sharepoint-web-storefront-features-oobstorefront-namespace.md)  

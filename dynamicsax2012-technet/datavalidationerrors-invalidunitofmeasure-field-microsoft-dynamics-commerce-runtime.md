@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidUnitOfMeasure Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates unit of measure is invalid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

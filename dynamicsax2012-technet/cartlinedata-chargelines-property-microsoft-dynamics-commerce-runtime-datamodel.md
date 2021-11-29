@@ -17,6 +17,9 @@ dev_langs:
 
 # ChargeLines Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of all charge lines belonging to the cart line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # SerializedNotificationFullNamePropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The property name for the serialized notification full name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

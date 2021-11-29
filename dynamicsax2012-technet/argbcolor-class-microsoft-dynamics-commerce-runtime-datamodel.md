@@ -18,6 +18,9 @@ dev_langs:
 
 # ARGBColor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This class represents a color as separate RGB values and an alpha value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

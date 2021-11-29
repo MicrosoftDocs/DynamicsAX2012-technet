@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up the automatic creation of a deferrals card 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you run a fixed asset issue voucher and realize a loss, you can automatically create a deferrals card. The deferrals card shows the calculated loss and the write-off period, which is defined as the difference between the depreciated object's anticipated useful life and the actual length of time that it was held before the loss was incurred.

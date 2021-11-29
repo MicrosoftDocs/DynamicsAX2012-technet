@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductSearchResultExtensions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Extension methods for product search results.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

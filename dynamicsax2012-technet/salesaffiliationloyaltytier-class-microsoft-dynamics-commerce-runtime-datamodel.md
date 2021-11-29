@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesAffiliationLoyaltyTier Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents sales affiliation or loyalty tier data.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

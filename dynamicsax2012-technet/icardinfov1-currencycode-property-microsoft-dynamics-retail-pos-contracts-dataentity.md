@@ -17,6 +17,9 @@ dev_langs:
 
 # CurrencyCode Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The currency code of the amount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

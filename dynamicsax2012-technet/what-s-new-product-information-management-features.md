@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Product information management features 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 We have changed and added functionality in the [Product information management](product-information-management.md) area for Microsoft Dynamics AX 2012. To learn more, refer to the tables that apply to your version of the product.

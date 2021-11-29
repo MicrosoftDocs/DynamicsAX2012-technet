@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxOnTax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 TaxCode of the other sales tax that this tax is based on.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

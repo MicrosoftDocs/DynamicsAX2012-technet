@@ -17,6 +17,9 @@ dev_langs:
 
 # IItem Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.IItem interface is responsible for retrieving all item properties for a given sale line item and providing search UI for items.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

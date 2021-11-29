@@ -14,6 +14,9 @@ ms.search.region: Global
 # Increase or decrease the letter of guarantee value 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can increase or decrease the letter of guarantee value, as agreed on between the principal and beneficiary, after the letter of guarantee is delivered to the beneficiary.

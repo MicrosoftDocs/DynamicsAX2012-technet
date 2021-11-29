@@ -14,6 +14,9 @@ ms.search.region: Global
 # Record sales tax that is not claimed by EU vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your legal entity is located in a country/region in the European Union (EU), and you buy items from a vendor in another country/region in the EU, your legal entity must account for purchases that are not subject to sales tax.

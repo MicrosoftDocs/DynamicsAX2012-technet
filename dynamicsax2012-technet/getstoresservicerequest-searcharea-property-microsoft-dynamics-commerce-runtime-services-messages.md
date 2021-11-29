@@ -17,6 +17,9 @@ dev_langs:
 
 # SearchArea Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the search area.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

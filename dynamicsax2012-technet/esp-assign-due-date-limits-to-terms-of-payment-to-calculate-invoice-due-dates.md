@@ -14,6 +14,9 @@ ms.search.region: Spain
 # (ESP) Assign due date limits to terms of payment to calculate invoice due dates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you create and post sales invoices or purchase invoices, the invoice due date is calculated based on the terms of payment that are specified for the invoices. The invoice due date that is calculated is verified against the due date limit. The invoice due date is then adjusted, if adjustment is required, to comply with the due date limit. For more information, see [(ESP) About using delivery dates to calculate invoice due dates](esp-about-using-delivery-dates-to-calculate-invoice-due-dates.md). If no due date limit is specified, the invoice due date that is calculated is used as the final invoice due date.

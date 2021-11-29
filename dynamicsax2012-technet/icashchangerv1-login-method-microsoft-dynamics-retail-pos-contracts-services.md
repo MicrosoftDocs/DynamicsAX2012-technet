@@ -17,6 +17,9 @@ dev_langs:
 
 # Login Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Registers the user who has on cash changer device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Define sales prices for products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By using trade agreements, you can specify price adjustments and discounts for one or more released products. You can also create trade agreement setups that specify individual prices for released product variants.

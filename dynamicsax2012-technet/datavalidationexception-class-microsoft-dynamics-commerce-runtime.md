@@ -17,6 +17,9 @@ dev_langs:
 
 # DataValidationException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 DataValidationException used to indicate invalid data passed to the runtime and its components.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

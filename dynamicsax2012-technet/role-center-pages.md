@@ -16,6 +16,9 @@ ms.search.region: Global
 # Role Center pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If your organization uses Role Centers, the Role Center page is your default home page. This page is displayed every time that you open Enterprise Portal for Microsoft Dynamics AX, and provides an overview of information that is important to users in your role. The information on your Role Center page can include overview information about the business, work lists, cues, activities, common links, and key information about business intelligence. Although Role Centers are set up by your system administrator, you can modify your personal view of the Role Center page to fit your needs.

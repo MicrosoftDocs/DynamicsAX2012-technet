@@ -14,6 +14,9 @@ f1_keywords:
 # Sales tax deviations report (TaxDeviation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Prepare a report that specifies the actual sales tax due, compared to the sales tax that was calculated and posted.

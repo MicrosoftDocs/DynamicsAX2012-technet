@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxFormula Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets tax formula as a string.
 
 For example, if the formula of a tax item is +\[ST-DL\]+\[ST-KA\], the property will be valued as "ST-DL, ST-KA".

@@ -17,6 +17,9 @@ dev_langs:
 
 # InnerHeaderTextInPopup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the mini-shopping cart header text. (within container)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

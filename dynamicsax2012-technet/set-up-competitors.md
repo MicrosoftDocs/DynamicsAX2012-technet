@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up competitors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can set up competitors, and you can also set up a competitor's price for a specific retail product. You can then track the competitor's price for the product. Every time that the competitor changes the price of the product, you can set up the new price as a new competitor price but retain a record of the previous price.

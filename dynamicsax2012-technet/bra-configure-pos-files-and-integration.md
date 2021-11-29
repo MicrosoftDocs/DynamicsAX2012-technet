@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Configure POS files and integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 To apply the Microsoft Dynamics AX for Retail POS solution, you must use build of version 6.2.1000.1608 and an AX32.exe file of file version 6.2.1000.1608. This build is registered by Microsoft with the government of Brazil, and this file version lets you register the proper DLL and EXE files with federal and state governments in Brazil. This build and file version lets you integrate the point of sale (POS) with fiscal printers that are used in POS transactions, and also configure electronic funds transfer (EFT) integration with the third-party software D-TEF Dedicado. After the solution is installed with the required version, you should not install any updates or hotfixes that are not compliant with Programa Aplicativo Fiscal - Emissor Cupom Fiscal (PAF-ECF) law.

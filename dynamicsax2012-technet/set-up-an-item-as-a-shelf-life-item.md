@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up an item as a shelf life item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to set up an item as a shelf life item. You can assign a shelf life item as an ingredient in a formula to transfer the shelf life information to a finished item.

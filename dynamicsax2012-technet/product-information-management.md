@@ -22,6 +22,9 @@ ms.search.region: Global
 # Product information management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use Product information management to define and create products and product variants. Products of the types Item and Service are used in the sales, purchase, and operational processes in Microsoft Dynamics AX 2012. When products have been defined and created, you can authorize the products for use by releasing the products to individual legal entities.

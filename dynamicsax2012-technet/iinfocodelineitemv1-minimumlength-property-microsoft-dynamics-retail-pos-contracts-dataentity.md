@@ -17,6 +17,9 @@ dev_langs:
 
 # MinimumLength Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The minimum length of the input.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

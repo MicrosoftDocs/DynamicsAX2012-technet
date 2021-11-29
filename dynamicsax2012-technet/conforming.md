@@ -13,6 +13,9 @@ f1_keywords:
 
 # conforming
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 In accordance with requirements, specifications, or explicit expectations.
 
 ## See also

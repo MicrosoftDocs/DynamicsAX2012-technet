@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Generate and validate the SPED ECD statement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to generate and validate the text file for the digital accounting bookkeeping (SPED ECD) statement.

@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltyCardTransactions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the loyalty card transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

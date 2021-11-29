@@ -14,6 +14,9 @@ ms.search.region: Global
 # Delete an attachment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Attachments** page to delete a document or note that is attached to a record. If you do not have permission to delete the attachment, an error message is displayed.

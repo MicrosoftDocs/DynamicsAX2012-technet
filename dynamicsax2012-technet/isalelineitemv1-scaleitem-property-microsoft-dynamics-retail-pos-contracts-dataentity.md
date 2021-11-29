@@ -17,6 +17,9 @@ dev_langs:
 
 # ScaleItem Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Is set to true if the item was weight on a scale
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

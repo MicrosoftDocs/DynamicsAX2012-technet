@@ -17,6 +17,9 @@ ms.search.region: Brazil
 # (BRA) Set up fiscal books parameters per state 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can enter adjustments for Imposto sobre Circulação de Mercadorias e Serviços (ICMS) taxes that have been applied in the period that is covered by a Sistema Publico de Escrituração Digital (SPED) fiscal text file. Each state defines whether the adjustments can be made to tax amounts in general, or to tax amounts on fiscal documents. For example, Sao Paulo allows general adjustments, while Rio de Janeiro allows both general adjustments and adjustments to fiscal documents.

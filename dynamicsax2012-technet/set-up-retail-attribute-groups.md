@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up retail attribute groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use attributes and attribute groups to add descriptive characteristics to your retail products, such as size, weight, capacity, and special features. After you define attributes, you can group them together into attribute groups. You can include an attribute in one or more attribute groups.

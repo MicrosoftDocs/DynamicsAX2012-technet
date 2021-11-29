@@ -13,6 +13,9 @@ f1_keywords:
 
 # unsolicited vendor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A vendor that applies to supply products to one or more legal entities without responding to a formal or informal request.
 
 ## See also

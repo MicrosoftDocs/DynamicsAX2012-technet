@@ -17,6 +17,9 @@ dev_langs:
 
 # NoPageSizeLimit Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that no page size limit is to be enforced.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

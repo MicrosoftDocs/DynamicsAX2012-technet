@@ -17,6 +17,9 @@ dev_langs:
 
 # SetInvoicedCustomer Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set the transaction's Invoiced Customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

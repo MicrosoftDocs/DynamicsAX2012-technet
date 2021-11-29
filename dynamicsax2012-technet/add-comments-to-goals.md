@@ -19,6 +19,9 @@ ms.search.region: Global
 # Add comments to goals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After a goal is started, you should not add or modify information about the goal. This is to make sure that information in the goal remains consistent. Use the **Comments** tab to add information to a goal without modifying the field values for the goal. After you save a comment, you cannot modify it.

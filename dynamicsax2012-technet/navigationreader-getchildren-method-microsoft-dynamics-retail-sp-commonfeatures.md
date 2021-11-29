@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChildren Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 By given category ID returns its complete children hierarchy.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

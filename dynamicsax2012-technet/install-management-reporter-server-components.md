@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Management Reporter server components 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to install Management Reporter for Microsoft Dynamics ERP by using the Microsoft Dynamics AX Setup wizard. Management Reporter is a financial reporting tool that is used to create, distribute, and analyze financial statements. For more information about Management Reporter, see [the Management Reporter page](https://go.microsoft.com/fwlink/?linkid=324871) on CustomerSource (logon is required).

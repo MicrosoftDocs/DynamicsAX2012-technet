@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow document
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A view of data that is submitted to workflow for processing.
 
 ## See also

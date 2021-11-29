@@ -17,6 +17,9 @@ dev_langs:
 
 # RtsBindingsSourceFileRelativePath Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Return relative file path of RTS bindings config source file.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommerceRuntime](microsoft-dynamics-retail-sp-commerceruntime-namespace.md)  

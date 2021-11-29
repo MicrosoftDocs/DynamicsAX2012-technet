@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ISaleLineItemV2 Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ISaleLineItemV2](isalelineitemv2-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Properties

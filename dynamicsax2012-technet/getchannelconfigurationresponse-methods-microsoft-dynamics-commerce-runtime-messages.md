@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelConfigurationResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelConfigurationResponse](getchannelconfigurationresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

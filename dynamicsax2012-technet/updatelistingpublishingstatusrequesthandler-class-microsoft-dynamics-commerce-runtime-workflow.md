@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateListingPublishingStatusRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the publishing status for the specified listings.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

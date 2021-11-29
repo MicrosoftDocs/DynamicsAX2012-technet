@@ -15,6 +15,9 @@ ms.search.region: Global
 # Access alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can access the **Alerts** function from various locations and by using various methods, depending on the task that you want to perform.

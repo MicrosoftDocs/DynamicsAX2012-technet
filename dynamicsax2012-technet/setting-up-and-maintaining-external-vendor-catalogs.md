@@ -19,6 +19,9 @@ ms.search.region: Global
 # Setting up and maintaining external vendor catalogs 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to set up, activate, and maintain external vendor catalogs. It also provides information about how to configure the permissions that are required to allow employees to order products directly from the vendor’s external catalog.

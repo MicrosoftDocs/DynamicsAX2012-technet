@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up loyalty customers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to define the customer details for your loyalty customers. You can also define different types of loyalty cards and card numbers, and link the cards to customers.

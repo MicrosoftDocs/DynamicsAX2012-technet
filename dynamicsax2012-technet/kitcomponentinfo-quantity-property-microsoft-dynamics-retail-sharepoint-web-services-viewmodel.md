@@ -17,6 +17,9 @@ dev_langs:
 
 # Quantity Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the Quantity of the product used in the kit as a component or substitute.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

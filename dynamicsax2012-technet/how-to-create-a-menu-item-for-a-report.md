@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Menu Item for a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create menu items in Microsoft Dynamics AX to provide access to the reports that you create with the Visual Studio tools for Microsoft Dynamics AX. These menu items are created as output menu items from the **Menu Items** node in the AOT and can display reports in both the client and in Enterprise Portal Web parts. The following procedure explains how to create a menu item for a report.

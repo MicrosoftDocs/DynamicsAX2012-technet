@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateCharges Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculate charges for a sales transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

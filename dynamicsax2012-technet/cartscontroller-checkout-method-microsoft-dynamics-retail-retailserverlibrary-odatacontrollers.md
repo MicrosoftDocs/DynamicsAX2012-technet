@@ -17,6 +17,9 @@ dev_langs:
 
 # Checkout Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Checkouts the sales cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

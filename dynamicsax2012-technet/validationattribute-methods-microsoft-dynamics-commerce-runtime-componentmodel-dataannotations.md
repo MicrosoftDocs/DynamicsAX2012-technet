@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ValidationAttribute Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ValidationAttribute](validationattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md) type exposes the following members.
 
 ## Methods

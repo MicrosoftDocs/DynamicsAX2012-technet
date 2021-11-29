@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up production control parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Define production parameters to reflect your production environment. You can specify how you want to work with creation, estimation, scheduling, consumption feedback, and cost accounting for production orders. Production parameters must be defined before you can create or run your production. You can set up production control parameters per company, or you can set site-specific parameters by using the following forms:

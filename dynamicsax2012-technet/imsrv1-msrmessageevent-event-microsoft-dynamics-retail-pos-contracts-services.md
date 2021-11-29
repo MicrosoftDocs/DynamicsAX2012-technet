@@ -17,6 +17,9 @@ dev_langs:
 
 # MSRMessageEvent Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 MSR device message event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

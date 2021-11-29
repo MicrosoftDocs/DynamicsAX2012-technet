@@ -22,6 +22,9 @@ ms.search.region: France
 # (FRA) Place or release vendor invoice payment holds (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sometimes the due date for payment on a vendor invoice must be extended. Typical reasons can include disputes about the amount owed, disputes about the details of an order, or missing or incorrect information in a vendor record. When this occurs, you can place a temporary payment hold to extend the payment due date until the issue is resolved.

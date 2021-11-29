@@ -17,6 +17,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Enter Zakat information for journal transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Journal voucher** form or other journals to enter Zakat information when you complete journal transactions.

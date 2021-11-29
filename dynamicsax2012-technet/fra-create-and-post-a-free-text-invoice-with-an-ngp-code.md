@@ -14,6 +14,9 @@ ms.search.region: France
 # (FRA) Create and post a free text invoice with an NGP code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Free text invoice** form to create a free text invoice that contains a Nomenclature Générale des Produits (NGP) code, and then post the invoice.

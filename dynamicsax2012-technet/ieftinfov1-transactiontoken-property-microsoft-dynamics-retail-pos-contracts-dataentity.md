@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionToken Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or sets the Transaction Token (the Secure Card Data) for this EFT request.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Resolve Conflicts After Importing a Model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you import a model into the model store, the resources in the model may have conflicts with resources in other models that are already part of that layer. If you use the push option when importing the model, the conflicting resources will be put into a new conflict model that is located in the patch layer for the current layer in the AOS. This new model will have a name that indicates it contains resources that have caused a conflict. For example the model named **Facility Management (Conflict 1)** contains the resources that caused a conflict when the Facility Management model was being imported.

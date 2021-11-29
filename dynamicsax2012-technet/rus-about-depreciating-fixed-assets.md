@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) About depreciating fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Depreciation is calculated over the entire useful life of a fixed asset or an intangible asset. Parameters, such as the depreciation method and useful life, are determined for the depreciation group within the framework of the value model, and by default, are assigned to all assets that belong to this group. However, the default depreciation profile and the useful life of a fixed asset or inventory asset can be changed.

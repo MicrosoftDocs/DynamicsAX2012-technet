@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Resource scheduling configuration key (PSAABS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Resource scheduling** configuration key controls access to forms and functions for assigning worker resources to projects. The **Resource scheduling** feature is available in the **Project management and accounting** module.

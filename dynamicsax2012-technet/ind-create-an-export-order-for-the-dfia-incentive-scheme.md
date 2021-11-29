@@ -26,6 +26,9 @@ ms.search.region: India
 # (IND) Create an export order for the DFIA incentive scheme 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can attach the authorization number for a Duty Free Import Authorization (DFIA) to an export order. By doing this, you can track the export obligation for which the input goods were imported under the DFIA scheme.

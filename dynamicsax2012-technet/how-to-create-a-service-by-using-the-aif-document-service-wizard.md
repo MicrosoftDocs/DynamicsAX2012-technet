@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Create a Service by Using the AIF Document Service Wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how you can use the **AIF Document Service Wizard** to create a new Application Integration Framework (AIF) document service. You create a new service when you want to expose X++ business logic as a service in Microsoft Dynamics AX. This wizard is designed to simplify and automate the development of service interfaces, service implementations, and data objects. For more information about document services, see [AIF Document Services](aif-document-services.md).

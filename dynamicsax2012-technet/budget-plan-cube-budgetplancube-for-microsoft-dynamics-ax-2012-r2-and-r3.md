@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Budget plan cube (BudgetPlanCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Budget plan cube for Microsoft Dynamics AX is used to analyze data from the budget plan documents. Analysis of budget planning data is required for organizations to effectively manage their budget planning process and make decisions based on accurate information. This article provides details about the cube.

@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) Grant or deny an accommodation request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can grant or deny accommodation requests that are entered by workers and applicants. Use the following procedure to grant or deny accommodation requests.

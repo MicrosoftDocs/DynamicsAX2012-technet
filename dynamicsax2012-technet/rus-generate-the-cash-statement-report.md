@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Generate the cash statement report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The cash statement report presents the opening and closing cash balances for the specified cash account for a specified period. When you set up the report, you can choose to include or leave out accounts that have no cash transactions.

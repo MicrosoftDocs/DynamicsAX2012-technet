@@ -17,6 +17,9 @@ dev_langs:
 
 # Create Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a new instance of the [InventoryManager](inventorymanager-class-microsoft-dynamics-commerce-runtime-client.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

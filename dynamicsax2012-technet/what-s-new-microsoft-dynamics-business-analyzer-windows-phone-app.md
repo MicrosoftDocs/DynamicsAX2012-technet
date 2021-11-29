@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Microsoft Dynamics Business Analyzer Windows Phone App 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics Business Analyzer for Windows Phone provides a dashboard where you can view and interact with Microsoft SQL Server Reporting Services (SSRS) reports without logging on to your Microsoft Dynamics ERP solution.

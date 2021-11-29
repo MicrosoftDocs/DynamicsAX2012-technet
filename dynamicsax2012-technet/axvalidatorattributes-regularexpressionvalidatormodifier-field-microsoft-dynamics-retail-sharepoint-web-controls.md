@@ -18,6 +18,9 @@ dev_langs:
 
 # RegularExpressionValidatorModifier Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The template element attribute "msax-regularexpressionvalidatormodifier" which provides the optional modifier values for the regular expression.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

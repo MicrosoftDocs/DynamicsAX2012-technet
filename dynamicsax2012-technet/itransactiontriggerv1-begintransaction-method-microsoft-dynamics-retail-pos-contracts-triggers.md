@@ -17,6 +17,9 @@ dev_langs:
 
 # BeginTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called at the start of a new transaction, but after loading the transaction with initialization data, such as the store ID, the terminal number, and the date.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

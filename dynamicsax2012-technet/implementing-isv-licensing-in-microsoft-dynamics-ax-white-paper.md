@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Implementing ISV licensing in Microsoft Dynamics AX (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 supports the ISV licensing feature, which lets independent software vendors (ISVs) restrict code execution in Microsoft Dynamics AX 2012. This document provides information about how to implement and use this feature.

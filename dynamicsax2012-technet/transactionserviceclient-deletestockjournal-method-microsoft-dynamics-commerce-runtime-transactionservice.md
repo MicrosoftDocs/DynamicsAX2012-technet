@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteStockJournal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes stock count journal record and transactions from AX of the specified journalId.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

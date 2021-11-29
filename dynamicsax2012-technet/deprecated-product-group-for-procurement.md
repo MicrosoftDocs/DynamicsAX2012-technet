@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Product group for procurement 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, product groups are used on both the buying side and the selling side. In Microsoft Dynamics AX 2012, product groups are upgraded to procurement catalogs. The product groups are left as is for consumption on the selling side only.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Country-specific features for India (IND) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for India. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Indian installations, such as features that affect export/import (EXIM) incentive schemes, taxation, invoicing, general ledger, and fixed assets. The second section describes additional changes to country-specific functionality for India. For more information about specific features for India, see [TechNet Library for Application Users - India](https://go.microsoft.com/fwlink/?linkid=299913).

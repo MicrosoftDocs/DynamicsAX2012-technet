@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Estimate remaining work in process and finished products for direct expenses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For direct expenses, you must estimate and report the remaining work in process (WIP), finished products (FP) in inventory, and finished products that are shipped but not sold. In addition, you must distribute direct and indirect expenses that are related to production by tax group. Accurate distribution of expenses is important, because the expenses become part of the tax base for profit tax calculation.

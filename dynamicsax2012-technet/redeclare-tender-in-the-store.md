@@ -14,6 +14,9 @@ ms.search.region: Global
 # Redeclare tender in the store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Occasionally, you may want to change a tender declaration after you have performed the tender declaration on a register. For example, the original tender declaration may contain an error.

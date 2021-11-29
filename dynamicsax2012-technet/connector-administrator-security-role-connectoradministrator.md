@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Connector administrator security role (ConnectorAdministrator) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Connector administrator security role represents a user who maintains access to connector APIs.

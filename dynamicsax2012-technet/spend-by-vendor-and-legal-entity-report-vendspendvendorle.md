@@ -14,6 +14,9 @@ f1_keywords:
 # Spend by vendor and legal entity report (VendSpendVendorLE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the amount of purchases from vendors by legal entities. You can select to view some or all vendors for a legal entity, and you can select to view transactions in a specific date range.

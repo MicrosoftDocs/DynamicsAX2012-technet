@@ -14,6 +14,9 @@ ms.search.region: Global
 # Search available inventory using attributes from a previously shipped batch 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can search for available inventory with certain attributes using the information from previously shipped batches from which some, but not the entire inventory was shipped. When you locate the inventory batch, you can then reserve and ship the additional inventory against the remaining on-hand supply.

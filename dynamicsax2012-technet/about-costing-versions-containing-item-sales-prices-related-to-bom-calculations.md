@@ -15,6 +15,9 @@ ms.search.region: Global
 # About costing versions containing item sales prices related to BOM calculations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A costing version can include content about the sales price records for items. The main reason for including content about sales prices is to retain a manufactured item's calculated sales price. The calculated sales price can then be analyzed to determine how components, routing operations, and overhead contribute to the cost and sales price.

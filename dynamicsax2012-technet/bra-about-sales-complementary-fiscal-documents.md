@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) About sales complementary fiscal documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must create a sales complementary fiscal document to adjust a sales fiscal document that was generated for an incorrect price, Imposto Sobre Produtos Industrializados (IPI), or Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) amount. A sales complementary fiscal document is issued only to adjust a positive difference. For example, a sales complementary fiscal document is generated if the price of an item on the original customer fiscal document is incorrect, and the correct price for the item is higher than the price recorded on the original customer fiscal document.

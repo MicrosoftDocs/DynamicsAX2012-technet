@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up excise tax codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must create the excise tax codes for the excise duties that your company must calculate and pay to the excise authorities. Specify the percentage for the calculation of excise for an excise tax code in the **Values** from of the **Sales tax codes** form. (Click **General ledger** \> **Setup** \> **Sales tax** \> **Sales tax codes**. Click **Values**.)

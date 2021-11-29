@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressServiceConstants Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A collection of constant strings for the Address Service.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

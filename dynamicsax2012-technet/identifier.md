@@ -13,6 +13,9 @@ f1_keywords:
 
 # identifier
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A distinguishing label assigned to data entities.
 
 ## See also

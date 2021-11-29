@@ -14,6 +14,9 @@ f1_keywords:
 # Multiple countries/regions configuration key (CRSEMultiple) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Country/region configuration keys have been deprecated in Microsoft Dynamics AX 2012. As a result, the features that previously were controlled by the configuration keys that are described in the following topics are now controlled by the country/region context. See the following topics for a list of the countries/regions where these features are enabled:

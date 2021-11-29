@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Defining Cubes in Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A cube is defined by its measures and the dimensions it uses. You can specify measures and dimensions at different levels and on different elements in the Application Object Tree (AOT) using the Business Intelligence properties that appear in the **Properties** sheet. You use a perspective to identify the tables and views that contain the dimension attributes and measures for a cube. This section describes how to create an analysis cube in Microsoft Dynamics AX.

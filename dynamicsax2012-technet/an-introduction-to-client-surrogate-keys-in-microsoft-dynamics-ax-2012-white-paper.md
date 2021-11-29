@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # An Introduction to Client Surrogate Keys in Microsoft Dynamics AX 2012 (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper defines surrogate keys in the context of Microsoft Dynamics AX 2012 and describes how surrogate keys can be displayed to the user in the client.

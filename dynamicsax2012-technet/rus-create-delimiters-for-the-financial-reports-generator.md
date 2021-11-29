@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Create delimiters for the Financial reports generator 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can export an electronic report into a text file. In the text file, you can use delimiters, such as commas or semicolons, to group information into blocks. You cannot use delimiters in XML report formats. You must set up the delimiters before you can configure the templates for electronic reporting formats. The list of delimiters that are available depends on the structure of the electronic report text file.

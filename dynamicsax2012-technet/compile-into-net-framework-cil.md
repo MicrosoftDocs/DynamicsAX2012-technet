@@ -15,6 +15,9 @@ f1_keywords:
 # Compile into .NET Framework CIL 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Compile into .NET Framework CIL** task converts your compiled application code into Common Intermediate Language (CIL) code that can be consumed by the Microsoft .NET Framework.

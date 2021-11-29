@@ -14,6 +14,9 @@ ms.search.region: Global
 # View your work items in a workflow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Work items are workflow-related tasks that are assigned to you. For example, you may have to approve a document, make a decision about a document, or complete a task that is associated with a document. Use one of the following procedures to view a list of the work items that are assigned to you.

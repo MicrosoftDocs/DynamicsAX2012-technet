@@ -17,6 +17,9 @@ ms.search.region: Global
 # About vendor requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Vendors who are approved to do business with your organization are authorized to provide goods and services only in specific procurement categories and in specific legal entities. If you want to do business with a new vendor, or with a current vendor in additional procurement categories or legal entities, you must submit vendor requests.

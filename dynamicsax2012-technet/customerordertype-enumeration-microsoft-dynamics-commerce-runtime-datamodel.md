@@ -19,6 +19,9 @@ dev_langs:
 
 # CustomerOrderType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Type of Customer Order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -16,6 +16,9 @@ f1_keywords:
 # (FRA) FRAFB report (VendOutPaymAdvice\_FRAFB) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **FRAFB** report prints the payment advice for the electronic vendor payment. This report is printed when you post the payment journal and can be sent together with the payment check to the vendor. This report is typically used by credit managers and collections managers.

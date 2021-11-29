@@ -22,6 +22,9 @@ ms.search.region: Global
 # Set up SEPA direct debit mandate 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 This topic explains how to configure Single Euro Payment Area (SEPA) direct debit mandates. A SEPA direct debit lets a creditor collect funds from a customer's bank account, provided that a signed mandate has been granted by the customer to the creditor. The customer signs a mandate that authorizes the creditor to collect a payment and instructs the customer's bank to pay the collection.

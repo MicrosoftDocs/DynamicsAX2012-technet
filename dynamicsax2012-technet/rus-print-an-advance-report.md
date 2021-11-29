@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Print an advance report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to print an advance report. You can print an advance report after an advance invoice that is issued to an advance holder is settled.

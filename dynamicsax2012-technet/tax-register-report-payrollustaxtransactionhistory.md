@@ -17,6 +17,9 @@ f1_keywords:
 # Tax register report (PayrollUSTaxTransactionHistory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this report to validate the tax amounts that were calculated when payroll was processed.

@@ -14,6 +14,9 @@ f1_keywords:
 # Process distribution configuration key (PDS) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Process Distribution** configuration key serves to aggregate a subcollection of configuration keys that control access to forms and functions that are used in process manufacturing logistics.

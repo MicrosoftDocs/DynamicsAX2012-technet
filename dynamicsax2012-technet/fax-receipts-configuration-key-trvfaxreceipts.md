@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Fax receipts configuration key (TrvFaxReceipts) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Fax receipts** configuration key enables the receipt faxing functionality. With this key enabled, you can print a bar-coded cover page when entering an expense report, and then fax the cover page with applicable expense receipts to a fax service provider. The configuration key also enables you to import faxed receipts from a fax service provider into Microsoft Dynamics AX. The faxed receipts are then automatically attached to an expense report if the bar-coded cover page was printed for a specific expense report. If the bar-coded cover page was printed but not attached to a specific expense report, the receipts are assigned to the record of the employee who printed the bar-coded cover page.

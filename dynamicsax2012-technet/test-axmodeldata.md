@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Test-AXModelData
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Test-AXModelData
 
 Verifies whether a specified model or layer contains data.

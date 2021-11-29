@@ -20,6 +20,9 @@ ms.search.region: Global
 # Setting up Intrastat for sales orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section contains information about Intrastat (trade between European Union (EU) countries) for sales orders in Accounts receivable.

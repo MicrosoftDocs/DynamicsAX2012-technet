@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToFindTenderTypeConfig Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a tender type identifier could not be resolved into its configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

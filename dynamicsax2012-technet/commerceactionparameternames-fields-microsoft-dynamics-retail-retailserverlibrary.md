@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceActionParameterNames Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceActionParameterNames](commerceactionparameternames-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Fields

@@ -15,6 +15,9 @@ ms.search.region: Global
 # About setting prices by using price groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Microsoft Dynamics AX, you can use price groups to create and manage prices and discounts for retail products. For example, you could use price groups to offer specific products at different prices to different groups of customers in different stores.

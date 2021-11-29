@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Application Object Server (AOS) configuration commands 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Configuration commands set the options that are used when an Application Object Server (AOS) instance starts. Configuration commands can be run directly from the following locations:

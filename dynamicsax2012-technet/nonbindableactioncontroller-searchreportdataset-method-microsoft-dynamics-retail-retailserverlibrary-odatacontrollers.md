@@ -17,6 +17,9 @@ dev_langs:
 
 # SearchReportDataSet Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches all the report dataset filtered by Report Identifier, Parameters and Locale.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

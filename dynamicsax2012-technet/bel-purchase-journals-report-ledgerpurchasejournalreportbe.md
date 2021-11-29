@@ -15,6 +15,9 @@ f1_keywords:
 # (BEL) Purchase journals report (LedgerPurchaseJournalReportBE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Purchase journals** report displays and prints a summary of the transactions in a purchase journal. This report is typically used by accounts payable coordinators and accountants.

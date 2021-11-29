@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelProfileByChannelId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the channel profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # project
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A program of work.
 
 ## See also

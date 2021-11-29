@@ -15,6 +15,9 @@ ms.search.region: Global
 # About item groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up item groups in Inventory management by using the **Item groups** form. (Click **Inventory management** \> **Setup** \> **Inventory** \> **Item groups**.)

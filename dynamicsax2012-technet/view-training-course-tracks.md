@@ -16,6 +16,9 @@ ms.search.region: Global
 # View training course tracks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **View tracks** page to view information about the tracks in the training course. A track is a specialty subject area that the course covers. For example, a course might have one track that addresses sales related subjects and another track that addresses service or support subjects. Each track can have multiple sessions. To view the sessions associated with a track, select a track and click **Sessions** or click the track link.

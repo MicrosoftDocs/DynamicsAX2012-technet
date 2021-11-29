@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Get-AXUser
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Get-AXUser
 
 Returns a list of all users and their properties from Microsoft Dynamics AX.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OutputCacheAttribute Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OutputCacheAttribute](outputcacheattribute-class-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Properties

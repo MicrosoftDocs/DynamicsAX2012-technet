@@ -13,6 +13,9 @@ f1_keywords:
 
 # event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The occurrence of an action in a system.
 
 ## See also

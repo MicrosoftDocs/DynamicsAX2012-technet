@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Data import, export, and migration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX provides many tools and strategies that you can use when you are planning to import or export Microsoft Dynamics AX data. For information about tools and strategies, and for information about how to plan to move data from one enterprise resource planning (ERP) system to another, see [Plan data import, export, and migration](plan-data-import-export-and-migration.md).

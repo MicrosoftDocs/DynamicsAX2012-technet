@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) About the bailment process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The bailment process involves the transfer of items from a bailor (owner of items) to a bailee (holder of items) for storage purposes.The bailment process includes the following tasks:

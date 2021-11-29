@@ -13,6 +13,9 @@ f1_keywords:
 
 # preparer
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The person who creates a source document to initiate a request for economic resources.
 
 ## See also

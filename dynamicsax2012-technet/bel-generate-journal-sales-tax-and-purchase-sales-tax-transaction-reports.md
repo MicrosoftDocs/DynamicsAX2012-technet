@@ -18,6 +18,9 @@ ms.search.region: Belgium
 # (BEL) Generate journal, sales tax, and purchase sales tax transaction reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must complete the following tasks before you generate journal, sales tax, and purchase sales tax transaction reports:

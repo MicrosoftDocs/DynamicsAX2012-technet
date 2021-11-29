@@ -17,6 +17,9 @@ dev_langs:
 
 # ScanInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates scanning information used to retrieve the barcode scanned details.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

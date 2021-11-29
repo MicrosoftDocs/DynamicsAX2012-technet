@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up product model batch compilation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Every time that you change something in a product model, it must be compiled. That is, the modeling tree and validation rules must be verified and the code saved.

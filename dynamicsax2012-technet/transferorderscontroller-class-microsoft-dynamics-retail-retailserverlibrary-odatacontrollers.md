@@ -17,6 +17,9 @@ dev_langs:
 
 # TransferOrdersController Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The transfer order controller class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

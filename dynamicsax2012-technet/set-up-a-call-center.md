@@ -26,6 +26,9 @@ ms.search.region: Global
 # Set up a call center 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX 2012 for Retail supports multiple retail channels, such as online stores, online marketplaces, brick-and-mortar stores, and call centers. In call centers, workers take customer orders over the phone and create sales orders. This topic describes how to create a call center and configure call center options.

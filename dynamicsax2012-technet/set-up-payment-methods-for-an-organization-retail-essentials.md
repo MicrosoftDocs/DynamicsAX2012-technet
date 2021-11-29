@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up payment methods for an organization (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up the payment methods that your organization accepts. If you accept payments that are made by using checks, credit cards, debit cards, gift cards, and other forms of payment in addition to cash, you must set up each payment method for your organization in Retail essentials. You can assign specific payment methods to each store and then specify store-specific settings for each payment method.

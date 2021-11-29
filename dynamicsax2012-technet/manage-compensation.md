@@ -21,6 +21,9 @@ ms.search.region: Global
 # Manage compensation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Topics in this section provide information about the tools in Human resources that you can use to manage compensation for the people who work for your organization.

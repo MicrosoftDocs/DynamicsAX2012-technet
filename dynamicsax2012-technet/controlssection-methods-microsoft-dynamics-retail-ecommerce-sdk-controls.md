@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ControlsSection Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ControlsSection](controlssection-class-microsoft-dynamics-retail-ecommerce-sdk-controls.md) type exposes the following members.
 
 ## Methods

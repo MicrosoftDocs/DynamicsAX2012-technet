@@ -22,6 +22,9 @@ ms.search.region: India
 # (IND) Create an import order and apply the AA incentive scheme to the import order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Purchase order** form to create an import purchase order. For more information, see [Create a purchase order](create-a-purchase-order.md) and [(IND) Create import purchase orders](ind-create-import-purchase-orders.md).

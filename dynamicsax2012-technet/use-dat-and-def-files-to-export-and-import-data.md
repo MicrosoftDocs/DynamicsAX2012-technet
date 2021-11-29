@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use DAT and DEF files to export and import data 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX import/export is the primary mechanism for transferring data between companies. The companies can run on different instances of Microsoft Dynamics AX. Data can be exported from a company that is in one partition and imported into another company that is in another partition. By using definition groups, you can precisely specify the data to export, and you can also define groups of tables that can be imported repeatedly.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up vendors, customers, and items for intercompany trade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To prepare your organization for intercompany trade, you must define the vendors and customers with whom you will be trading internally. You must then associate these vendors and customers with the items that you will be purchasing or selling.

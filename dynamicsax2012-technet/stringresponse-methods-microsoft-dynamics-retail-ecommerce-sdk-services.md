@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StringResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StringResponse](stringresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Methods

@@ -14,6 +14,9 @@ f1_keywords:
 # Row structure where-used report (LedgerRowStructureWhereUsed) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This report displays the details of row definitions and financial statements that are used in the selected row definition.

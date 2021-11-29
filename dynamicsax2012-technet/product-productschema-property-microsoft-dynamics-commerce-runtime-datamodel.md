@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductSchema Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the set of keys representing the properties of this product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

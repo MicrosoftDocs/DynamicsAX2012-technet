@@ -13,6 +13,9 @@ f1_keywords:
 
 # item relation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A reference to the item allocation group or the item and its product dimensions in a kanban rule.
 
 ## See also

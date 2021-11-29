@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnReasonCodeId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Return reason code id.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

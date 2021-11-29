@@ -13,6 +13,9 @@ f1_keywords:
 
 # quantity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An exact measure of some countable operational or financial characteristic represented by a number.
 
 ## See also

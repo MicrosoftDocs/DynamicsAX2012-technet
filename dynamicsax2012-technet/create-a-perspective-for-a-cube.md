@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create a perspective for a cube 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A perspective is a collection of tables and views that is used to identify the tables and views that contain measures and dimension attributes for a cube. After you create a perspective, you can use it to generate an Analysis Services cube. The following procedure explains how to create a perspective for a cube and how to add or remove table and view fields to a perspective.

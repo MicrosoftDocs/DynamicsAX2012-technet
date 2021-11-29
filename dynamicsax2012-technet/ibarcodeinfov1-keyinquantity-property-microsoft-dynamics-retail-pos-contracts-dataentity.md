@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyInQuantity Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets an enumerated constant that indicates the key in quantities.
 
 The rules for keying in quantities for the item.

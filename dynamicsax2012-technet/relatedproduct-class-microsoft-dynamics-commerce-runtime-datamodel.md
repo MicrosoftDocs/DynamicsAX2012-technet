@@ -17,6 +17,9 @@ dev_langs:
 
 # RelatedProduct Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a related Product.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Customize a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to customize an existing report for Microsoft Dynamics AX. It describes how to change the development layer you are working in, how to access a report for edit, and how to deploy the report to the report server.

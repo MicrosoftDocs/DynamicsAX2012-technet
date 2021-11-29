@@ -17,6 +17,9 @@ dev_langs:
 
 # ResultSourcePickerWebPart Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Result Source Picker control
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

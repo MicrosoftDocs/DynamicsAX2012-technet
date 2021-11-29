@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EmployeeTimeRegistrationRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EmployeeTimeRegistrationRequestHandler](employeetimeregistrationrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

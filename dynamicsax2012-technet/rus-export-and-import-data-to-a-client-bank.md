@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Export and import data to a client bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the electronic exchange format to make client bank payments in Microsoft Dynamics AX. The electronic exchange format lets you interface with multiple bank templates to transfer electronic payments.

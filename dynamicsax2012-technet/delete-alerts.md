@@ -14,6 +14,9 @@ ms.search.region: Global
 # Delete alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can delete individual alerts, or you can select multiple alerts to delete more than one alert at the same time.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CommonConstants Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Constants which could be shared by different parts of SharePoint code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

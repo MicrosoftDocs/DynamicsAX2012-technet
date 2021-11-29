@@ -17,6 +17,9 @@ dev_langs:
 
 # StateProvinceInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a state/province.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

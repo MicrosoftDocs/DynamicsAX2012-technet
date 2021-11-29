@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Invoice register and invoice approval journal configuration key (VendInvoiceRegisterApproval) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Invoice register and invoice approval journal** configuration key controls access to forms and functions for entering and approving vendor invoices. Use the **Invoice register** form to enter the invoices that are received from vendors. When you post the invoices, they are transferred to an invoice pool. Use the **Invoice approval journal** form to approve the invoices from the invoice pool.

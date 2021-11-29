@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up an electronic payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up electronic payments for vendors and customers. You can set up document types, instruction codes, bank folders, remittance occurrence codes, and return occurrence codes for a layout group. You can then use the layout group for the electronic file format that is used by your bank for export and return.

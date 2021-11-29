@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Recruiter security role (HcmRecruiter) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Recruiter security role represents a user who documents recruiting events, responds to recruiting inquiries, and records the financial consequences of recruiting events.

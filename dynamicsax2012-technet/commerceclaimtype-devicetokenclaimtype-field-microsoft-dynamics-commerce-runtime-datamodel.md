@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceTokenClaimType Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Device Token Claim.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

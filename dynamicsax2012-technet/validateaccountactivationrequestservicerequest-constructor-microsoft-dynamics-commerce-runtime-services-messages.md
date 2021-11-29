@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateAccountActivationRequestServiceRequest Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

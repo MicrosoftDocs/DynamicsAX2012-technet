@@ -17,6 +17,9 @@ dev_langs:
 
 # PreSale Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before the item is added to the transaction.
 
 Note: Data in saleLineItem, such as price and tax, is not yet set when this method is invoked.

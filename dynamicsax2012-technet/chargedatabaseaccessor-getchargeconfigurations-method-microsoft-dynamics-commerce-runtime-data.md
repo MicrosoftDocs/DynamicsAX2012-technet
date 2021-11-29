@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChargeConfigurations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the auto-charge configurations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # All Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets an instance of the [SearchArea](searcharea-class-microsoft-dynamics-commerce-runtime-datamodel.md) class which indicates an unbounded search space.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

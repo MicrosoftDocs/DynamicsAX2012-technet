@@ -14,6 +14,9 @@ ms.search.region: Global
 # Resolve sales tax differences between purchase orders and invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sometimes, the sales tax for a purchase order and the sales tax for the corresponding vendor invoice differ. When this occurs, you should verify that the sales tax codes and sales tax amounts are correct for the vendor invoice.

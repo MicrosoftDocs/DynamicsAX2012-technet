@@ -20,6 +20,9 @@ ms.search.region: Global
 # About multisite activation - dimension group changes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When the multisite functionality is activated, the settings for all dimension groups are updated to ensure that all inventory-related transactions can be associated with a site.

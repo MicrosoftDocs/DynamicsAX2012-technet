@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Create an outbound transfer fiscal document 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can transfer items between warehouses that are located at the same or different fiscal establishments in the same company by using a transfer order. For more information, see [(BRA) About transfer orders](bra-about-transfer-orders.md). When you ship items to a warehouse that is located at a different fiscal establishment, or if the fiscal establishment is associated with a customer account or a vendor account, an outbound transfer fiscal document is issued.

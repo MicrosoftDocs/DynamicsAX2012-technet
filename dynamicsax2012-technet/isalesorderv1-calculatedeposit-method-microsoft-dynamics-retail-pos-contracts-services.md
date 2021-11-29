@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateDeposit Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Computes the total deposit required for this sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

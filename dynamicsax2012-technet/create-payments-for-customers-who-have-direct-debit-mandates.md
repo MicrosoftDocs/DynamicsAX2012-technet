@@ -37,6 +37,9 @@ ms.search.region: Global
 # Create payments for customers who have direct debit mandates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create SEPA direct debit payments for customers who have invoices that use a method of payment that requires a mandate. This topic explains how to create a payment proposal for customers who have direct debit mandates. It also explains how you can verify and print mandate information after the payment is posted.

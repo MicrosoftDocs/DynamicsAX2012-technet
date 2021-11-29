@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Create a customer payment transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can define an export file format when you set up a payment method. When you transfer payments from customers, the export file is generated for all payment lines that use HUF (Hungarian Forint) currency in the correct format.

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up an affiliation and its discounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up affiliations and their discounts. This is useful if your retail stores give discounts to customers who are students or seniors, or customers who are affiliated with organizations that your company gives discounts to.

@@ -17,6 +17,9 @@ dev_langs:
 
 # AddKitComponentsColumns Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Parses the JSON formatted columns definition and add the specified columns for kit components to the shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

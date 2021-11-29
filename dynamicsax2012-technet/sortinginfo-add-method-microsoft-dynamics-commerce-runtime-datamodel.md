@@ -17,6 +17,9 @@ dev_langs:
 
 # Add Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds the specified columns to order by.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

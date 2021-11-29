@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Process batch jobs and tasks 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about how to configure an Application Object Server (AOS) instance as a batch server. The topics also provide information about how to create a batch group, and how to create, process, and maintain batch jobs.

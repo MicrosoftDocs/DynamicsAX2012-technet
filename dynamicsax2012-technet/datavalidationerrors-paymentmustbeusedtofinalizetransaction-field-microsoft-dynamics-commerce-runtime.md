@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentMustBeUsedToFinalizeTransaction Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that undertender is not allowed for tender type and payment amount should cover remaining balance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

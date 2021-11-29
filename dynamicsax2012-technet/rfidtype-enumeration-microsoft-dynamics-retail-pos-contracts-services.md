@@ -20,6 +20,9 @@ dev_langs:
 
 # RFIDType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The RFIDType enumeration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

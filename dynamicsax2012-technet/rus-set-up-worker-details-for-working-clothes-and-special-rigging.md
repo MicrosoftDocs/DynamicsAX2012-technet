@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Set up worker details for working clothes and special rigging 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to indicate the type of work that is performed by an employee or worker to whom a working clothes item or special rigging item is issued.

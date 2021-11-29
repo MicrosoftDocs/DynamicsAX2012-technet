@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Setting up and maintaining Fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about setting up and maintaining Fixed assets.

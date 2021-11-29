@@ -28,6 +28,9 @@ ms.search.region: USA
 # Earning code examples 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can refer to the following earning code examples when you create earning codes. You should create a unique earning code for each type of earning that your organization offers. When you generate earnings, earning lines using the appropriate earning codes are automatically added to the earnings statements so that you don’t have to enter each line manually. However, you can still make changes, if you need to.

@@ -17,6 +17,9 @@ dev_langs:
 
 # HandlePreflightRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles a CORS OPTIONS request.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

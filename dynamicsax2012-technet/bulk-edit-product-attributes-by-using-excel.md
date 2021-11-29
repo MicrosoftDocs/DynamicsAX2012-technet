@@ -19,6 +19,9 @@ ms.search.region: Global
 # Bulk edit product attributes by using Excel 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to use Microsoft Excel to update attributes such as size, color, and dimensions for products that you sell in your retail channels. You can use Excel to update attributes for products in a catalog, and, if you’re using AX 2012 R3, to update products that aren’t included in a catalog.

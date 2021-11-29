@@ -14,6 +14,9 @@ f1_keywords:
 # Items including packing duty report (TaxPackagingTaxItem) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view items that include a packing duty. This information includes the item number, item sales tax group, and sales tax code.

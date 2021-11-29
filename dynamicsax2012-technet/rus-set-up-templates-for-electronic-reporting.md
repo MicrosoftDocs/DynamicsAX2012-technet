@@ -19,6 +19,9 @@ ms.search.region: Russia
 # (RUS) Set up templates for electronic reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must configure a document template for each type of report that is submitted electronically to the tax authorities. The structure of the electronic file defines the list of sections, the content of those sections, and the order in which the sections are loaded.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IServicesV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Services interface version 2.0
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

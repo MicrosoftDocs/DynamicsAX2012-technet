@@ -19,6 +19,9 @@ ms.search.region: Hungary
 # (HUN) About indirect trade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An indirect trade transaction occurs when your organization purchases items from or sells items to a country/region outside the European Union (EU), and the items cross another EU states’ borders during shipment. These transactions must be recorded for Intrastat reporting.

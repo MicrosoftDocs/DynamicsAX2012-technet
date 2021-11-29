@@ -13,6 +13,9 @@ f1_keywords:
 
 # unrealized sales VAT
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The calculated value-added tax (VAT) amount that is not due until the invoice is paid. This amount is posted to an unrealized sales VAT account and can be claimed only after a receipt or tax invoice is printed.
 
 ## See also

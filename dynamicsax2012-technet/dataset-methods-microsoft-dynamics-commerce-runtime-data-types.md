@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DataSet Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DataSet](dataset-class-microsoft-dynamics-commerce-runtime-data-types.md) type exposes the following members.
 
 ## Methods

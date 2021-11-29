@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetLoyaltySchemeLineRedeemDataRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetLoyaltySchemeLineRedeemDataRequest](getloyaltyschemelineredeemdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Methods

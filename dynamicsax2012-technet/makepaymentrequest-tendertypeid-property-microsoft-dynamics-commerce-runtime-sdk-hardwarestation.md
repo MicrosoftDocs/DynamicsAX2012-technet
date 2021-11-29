@@ -17,6 +17,9 @@ dev_langs:
 
 # TenderTypeId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the tender type id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

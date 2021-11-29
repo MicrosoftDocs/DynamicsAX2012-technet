@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) View the on-hand and issued quantity of working clothes and special rigging 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to generate a list of all working clothes items and special rigging items that are available on-hand, or that are issued for an employee, organization unit, job title, and type of work.

@@ -14,6 +14,9 @@ dev_langs:
 # How to: Export and Import a Model Store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can export and import a model store as a unit. If you must create similar environments, the preferred method is to export and import a model store. Additionally, we recommend that you use this method when you deploy major changes to a production environment. For more information about how to choose the method that you use to deploy a solution, see [Models, Layers, and the Model Store](models-layers-and-the-model-store.md).

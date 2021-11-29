@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Sales tax processing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Sales tax processing in Microsoft Dynamics AX 2012 has been updated to help organizations comply with applicable tax laws in many countries/regions. These tax laws include the European Union’s 2010 regulations about value-added tax (VAT) for services. Reporting for the European Union (EU) sales list has been updated to comply with these changes. Tax rates can now have up to five decimal places. Changes to calculated taxes for selected source documents are now saved before the source document is journalized. Changes to calculated taxes for selected journals are now saved before the journal entries are posted.

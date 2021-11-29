@@ -17,6 +17,9 @@ dev_langs:
 
 # CommitStockCounts Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commits the Stock count journals and transactions to AX.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

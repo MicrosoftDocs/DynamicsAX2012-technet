@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (RUS) Balance turnover statements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Microsoft Dynamics AX 2009 provides several Russian balance turnover statements. These statements represent a set of reports and inquiries that are used to analyze account balances and turnover in **General ledger**, **Accounts payable**, and **Accounts receivable**. The report set includes the following reports and inquiries:

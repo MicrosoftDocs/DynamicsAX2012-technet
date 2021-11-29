@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up information for trade allowance agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The procedures in this topic explain how to set up the information that you need in order to create trade allowance agreements. A trade allowance agreement is an agreement between a producer and a distributor to temporarily reduce prices for items or services. This temporary reduction allows the distributor to offer a sale or promotion to customers for a limited time. The information that you enter by using these procedures becomes options that you can select in the form that you use to set up a trade allowance agreement.

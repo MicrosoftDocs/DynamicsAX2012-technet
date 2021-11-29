@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Set-AXReportServerConfiguration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Set-AXReportServerConfiguration
 
 Modifies properties of an existing configuration, or creates a configuration between a Microsoft Dynamics AX Application Object Server (AOS) instance and a Microsoft SQL Server Reporting Services instance.

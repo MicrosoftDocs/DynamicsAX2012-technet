@@ -23,6 +23,9 @@ ms.search.region: Global
 # About updating standard costs in a manufacturing environment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Manufacturing environments involve maintaining standard costs for purchased items and manufactured items, which includes the scenario for updating standard costs throughout the frozen period. Updates may reflect new items, cost categories, or indirect cost calculation formulas, corrections, and cost changes. The type of update will affect the steps that are required to update standard costs, as illustrated in the following cases.

@@ -14,6 +14,9 @@ f1_keywords:
 # Top vendors by YTD purchases report (VendTopXVendorsByYTDPurchases) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view purchases from vendors during a fiscal period. You can filter the report to display only purchases by a specific legal entity of your organization.

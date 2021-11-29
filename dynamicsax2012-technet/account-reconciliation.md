@@ -14,6 +14,9 @@ f1_keywords:
 
 # account reconciliation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The practice of reconciling accounts.
 
 ## See also

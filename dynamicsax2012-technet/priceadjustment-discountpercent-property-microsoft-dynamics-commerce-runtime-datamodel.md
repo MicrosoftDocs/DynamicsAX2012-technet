@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountPercent Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the percent off amount for "Percent off" method.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

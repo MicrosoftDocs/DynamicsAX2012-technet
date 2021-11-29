@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomersSearchRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 CustomersSearchServiceRequest class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

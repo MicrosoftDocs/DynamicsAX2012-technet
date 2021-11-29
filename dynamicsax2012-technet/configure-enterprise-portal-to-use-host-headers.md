@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure Enterprise Portal to use host headers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic includes an overview of host headers and information about how to configure host headers for Enterprise Portal.

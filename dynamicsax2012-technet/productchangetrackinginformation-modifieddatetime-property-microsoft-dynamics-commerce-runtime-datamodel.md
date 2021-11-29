@@ -17,6 +17,9 @@ dev_langs:
 
 # ModifiedDateTime Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the date this product was last changed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

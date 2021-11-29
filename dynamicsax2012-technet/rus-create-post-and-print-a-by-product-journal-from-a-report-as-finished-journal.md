@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create, post, and print a by-product journal from a report as finished journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Production journal lines, report as finished** form to register defective products. You can register defective products that are generated when a production journal lines is created.

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up and create postdated check installments for a vendor 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can pay a vendor in multiple installments using postdated checks. Set up an installment schedule for the payment and divide the total invoice amount into installments. You can use postdated check installments to pay a payment journal line or an open invoice. However, you can set up only one installment schedule for the invoice amount or the journal amount. The amount of each check is calculated based on the number of installments, the number of checks, and the time period for payment. Withholding tax is deducted from the invoice amount.

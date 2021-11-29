@@ -22,6 +22,9 @@ ms.search.region: Global
 # Key tasks: Create a schedule based on a project in Microsoft Dynamics AX 2012 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 

@@ -17,6 +17,9 @@ dev_langs:
 
 # EnsureChildXmlNode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the specified child XML node. Creates the child node, if it does not exist already.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

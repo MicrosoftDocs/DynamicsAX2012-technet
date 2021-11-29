@@ -16,6 +16,9 @@ f1_keywords:
 # (BEL) Fixed assets (Belgium) report (AssetOverviewBE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Fixed assets (Belgium)** report displays a summary of fixed assets by fixed asset group. The report lists fixed asset acquisitions, depreciations, investments, net book value, and profits for a given year by fixed asset group. Each category is summed by fixed asset group and in total. Assets that are sold are not included in the report. This report is used to review the status of fixed assets processes and inquire into the status of fixed asset transactions. This report is typically used by chief executive officers, chief financial officers, compliance managers, financial controllers, accountants, accounting managers, accounting supervisors, accounts payable clerks, and accounts payable managers.

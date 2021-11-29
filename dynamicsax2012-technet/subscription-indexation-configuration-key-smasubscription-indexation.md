@@ -14,6 +14,9 @@ f1_keywords:
 # Subscription Indexation configuration key (SMASubscription\_Indexation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Subscription indexation** configuration key controls access to forms and functions for maintaining subscription indexes and base prices. If this key is enabled, subscription indexes and base prices can be adjusted by a percentage or to a fixed value.

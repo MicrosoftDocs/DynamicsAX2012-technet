@@ -28,6 +28,9 @@ dev_langs:
 
 # NumberSequenceSeedType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Number sequence counter type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

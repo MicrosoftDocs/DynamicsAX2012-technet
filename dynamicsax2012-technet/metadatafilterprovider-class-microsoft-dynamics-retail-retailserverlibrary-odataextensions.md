@@ -17,6 +17,9 @@ dev_langs:
 
 # MetadataFilterProvider Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A custom filter provider to inject auth filters for ODataMetadataController.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

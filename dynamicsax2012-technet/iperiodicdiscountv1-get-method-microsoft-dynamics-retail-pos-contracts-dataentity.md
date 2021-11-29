@@ -17,6 +17,9 @@ dev_langs:
 
 # Get Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves the applicable discount lines for the item/variant.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Global
 # Correct a posted free text invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to correct a free text invoice that has been posted. When you correct an invoice that has been posted, a corrected invoice is created where you can modify the invoice and post it with the new values. When you post the corrected invoice, a canceling invoice is created, which brings the combined balance of the original invoice and the canceling invoice to a zero amount.

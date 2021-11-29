@@ -17,6 +17,9 @@ dev_langs:
 
 # GenerateKey(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generates a key, given a calling function name and the specified parameter hash.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

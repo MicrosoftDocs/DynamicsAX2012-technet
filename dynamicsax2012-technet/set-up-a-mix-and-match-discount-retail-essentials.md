@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a mix-and-match discount (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Retail essentials, there are four types of discounts: simple discounts, mix-and-match discounts, quantity discounts, and threshold discounts. This topic explains how to set up a mix-and-match discount.

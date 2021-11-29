@@ -14,6 +14,9 @@ f1_keywords:
 # Fill utility configuration key (SysFillUtility) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 

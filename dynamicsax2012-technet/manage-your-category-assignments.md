@@ -20,6 +20,9 @@ ms.search.region: Global
 # Manage your category assignments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A customer can use procurement categories to classify the items and services that the customer purchases from you. When you are approved as a vendor for a customer, you are also approved to provide items and services only in specific procurement categories.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Transportation coordinator security role (TMSTransportationCoordinator) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Transportation coordinator security role represents a user who enables inbound , outbound, rating, routing, and handling of transportation process.

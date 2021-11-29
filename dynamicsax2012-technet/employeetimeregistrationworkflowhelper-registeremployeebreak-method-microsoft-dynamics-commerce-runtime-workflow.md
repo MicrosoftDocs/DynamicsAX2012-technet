@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterEmployeeBreak Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Register the time for employee break.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

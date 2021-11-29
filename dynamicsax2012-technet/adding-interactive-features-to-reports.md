@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Adding Interactive Features to Reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics describe how to add interactive features to your Microsoft Dynamics AX reports.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Development Tasks for Analytics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Business Intelligence infrastructure enables you to generate Unified Dimensional Models (UDMs) by using metadata from the Microsoft Dynamics AX relational data model. You can specify measures and dimensions in the Application Object Tree (AOT) to define an analysis cube. You can create, update, deploy, and configure Analysis Services projects by using the Analysis Services project wizard. You can browse cubes, dimensions, and data source views in SQL Server Business Intelligence Development Studio (BIDS). You can also create or modify dimension usage, Key Performance Indicators (KPIs), and organization hierarchies in BIDS.

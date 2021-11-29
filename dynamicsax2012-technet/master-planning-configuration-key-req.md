@@ -14,6 +14,9 @@ f1_keywords:
 # Master Planning configuration key (Req) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Master planning** configuration key controls access to master planning forms and functions. The forms and reports in the **Master planning** section are used to calculate the requirements that are generated to fulfill a sales order. The requirements can include items or components that are purchased, produced, or transferred. This section calculates planned orders that meet the specified quantities, due dates, and locations of the requirement.

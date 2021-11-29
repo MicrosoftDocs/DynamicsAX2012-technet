@@ -17,6 +17,9 @@ dev_langs:
 
 # IsEndTimeAfterMidnightForDay Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets whether ending time bound wraps to after midnight for the given day.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

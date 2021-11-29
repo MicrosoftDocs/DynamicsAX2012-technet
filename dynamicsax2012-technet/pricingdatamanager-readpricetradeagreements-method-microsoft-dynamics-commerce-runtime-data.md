@@ -17,6 +17,9 @@ dev_langs:
 
 # ReadPriceTradeAgreements Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fetch the superset of trade agreements which could apply to all of these items and customer for the given date.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

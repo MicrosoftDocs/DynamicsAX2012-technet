@@ -15,6 +15,9 @@ f1_keywords:
 
 # record
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
   - The data that defines and describes the parties, products, locations, and activities that compose the economic transaction.
 
   - To account for the financial and operational consequences of an economic, resource flow, or accounting event.

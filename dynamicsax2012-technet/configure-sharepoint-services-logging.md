@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure SharePoint Services logging 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, there is no limit on the disk space that diagnostic logging for SharePoint can use. If you do not specify a limit, diagnostic logging can use all of the space on the hard disk of the Enterprise Search server.

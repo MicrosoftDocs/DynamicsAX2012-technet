@@ -14,6 +14,9 @@ f1_keywords:
 # Product Building WebApp configuration key (PBA\_ProductBuildingWebApp) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Product Building WebApp** configuration key allows you to generate Web forms for each product model in the **Product Builder** module. These forms are used when you work with Enterprise Portal for Microsoft Dynamics AX.

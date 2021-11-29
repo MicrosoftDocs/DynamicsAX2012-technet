@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Post taxes on a VAT account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can define the data for the VAT register that is used to post sales taxes to the VAT register in the NIP table. The NIP table code can be assigned to the general journal lines when the sales taxes are posted.

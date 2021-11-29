@@ -22,6 +22,9 @@ ms.search.region: Global
 # About indirect costs for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Your organization might want to include indirect costs to calculate the full cost of a project. Indirect costs may include rent, office supplies, telephone charges, and computer support. You can assign indirect costs to a project and set up the method for calculating the amount of indirect costs to allocate to a project.

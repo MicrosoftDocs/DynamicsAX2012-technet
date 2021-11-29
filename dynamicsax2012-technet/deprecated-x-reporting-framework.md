@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: X++ Reporting Framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2009 and earlier versions supported the X++ reporting framework, which was used to create custom reports in Microsoft Dynamics AX. The X++ reporting framework is being deprecated in Microsoft Dynamics AX 2012 and will not be available in future versions.

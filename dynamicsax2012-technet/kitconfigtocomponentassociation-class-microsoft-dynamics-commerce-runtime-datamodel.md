@@ -17,6 +17,9 @@ dev_langs:
 
 # KitConfigToComponentAssociation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the association between the products contained in a kit variant and the kit variant, i.e. contains information about the product used in a kit variant, as a constituent, and its 'kit related' properties like quantity and unit of the product used in a kit variant line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

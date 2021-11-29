@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateImageRenditions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates Image Renditions to be consumed by C2 UI.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

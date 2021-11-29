@@ -13,6 +13,9 @@ f1_keywords:
 
 # bank payment order
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents a request for a bank to perform an electronic funds transfer service.
 
 ## See also

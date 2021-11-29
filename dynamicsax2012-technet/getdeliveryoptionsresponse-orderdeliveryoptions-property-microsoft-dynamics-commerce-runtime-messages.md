@@ -17,6 +17,9 @@ dev_langs:
 
 # OrderDeliveryOptions Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the collection of delivery options that have been computed for the entire cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

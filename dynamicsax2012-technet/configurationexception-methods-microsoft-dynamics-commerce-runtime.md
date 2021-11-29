@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ConfigurationException Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ConfigurationException](configurationexception-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

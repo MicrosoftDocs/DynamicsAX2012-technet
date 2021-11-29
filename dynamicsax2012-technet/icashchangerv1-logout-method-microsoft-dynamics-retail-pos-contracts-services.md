@@ -17,6 +17,9 @@ dev_langs:
 
 # Logout Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Used to log out user from cash changer device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

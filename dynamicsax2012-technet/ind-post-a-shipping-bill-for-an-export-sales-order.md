@@ -22,6 +22,9 @@ ms.search.region: India
 # (IND) Post a shipping bill for an export sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can export goods, you must generate a shipping bill for the goods. Before you can generate a shipping bill, you must create an export sales order and generate and post the invoice for it. You must generate a shipping bill before you can run the incentive scheme processes, such as the duty drawback process, to calculate and apply for incentives for a selected time period.

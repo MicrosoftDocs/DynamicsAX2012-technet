@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCustomerOrderFieldsOnCheckout Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the customer order fields on checkout.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

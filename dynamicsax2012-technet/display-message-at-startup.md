@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Display message at startup 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can configure Microsoft Dynamics AX clients to display a message at startup by using the Microsoft Dynamics AX 2012 Configuration utility. Some businesses and organizations use a startup message such as "Production environment" to distinguish production environments from test environments.

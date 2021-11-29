@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up connection profiles (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Connection profiles enable the components of Retail essentials to communicate with each other. Set up connection profiles before you configure data distribution settings for Retail essentials. The topics in this section provide information about how to set up connection profiles.

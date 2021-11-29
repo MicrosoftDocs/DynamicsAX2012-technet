@@ -15,6 +15,9 @@ dev_langs:
 
 # ProcessItem Method (ISaleLineItem)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This function is implemented by the item service. There are multiple functions called within The ProcessItem method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

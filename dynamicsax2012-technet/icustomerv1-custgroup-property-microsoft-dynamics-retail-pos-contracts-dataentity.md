@@ -17,6 +17,9 @@ dev_langs:
 
 # CustGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The customer group.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

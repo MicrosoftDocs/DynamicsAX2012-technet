@@ -13,6 +13,9 @@ f1_keywords:
 
 # system-defined financial dimension type
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A financial dimension mapped to a table or view in the database that represents an entity type and whose values are in the domain of one attribute of that entity type.
 
 ## See also

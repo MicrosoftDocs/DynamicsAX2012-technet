@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting distribution line
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The subline of a source document line documenting the financial consequence of an economic transaction that documents the distribution of an aliquot portion of the financial consequence to a ledger account.
 
 ## See also

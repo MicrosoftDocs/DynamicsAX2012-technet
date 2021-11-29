@@ -18,6 +18,9 @@ ms.search.region: Global
 # About distributing questionnaires 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After you design a questionnaire, you must distribute it in order to make it available to a selected person or group of people. For more information, see [Using questionnaires](using-questionnaires.md).

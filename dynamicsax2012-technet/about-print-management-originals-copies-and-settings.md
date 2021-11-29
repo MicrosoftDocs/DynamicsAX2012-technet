@@ -35,6 +35,9 @@ ms.search.region: Global
 # About print management originals, copies, and settings 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use print management to print one original and many copies of a source document that is produced as part of a process. This is like using preprinted, multiple-part forms in manual accounting systems. You use footer text to distinguish the original from the copies. For example, for a sales order packing slip, you can set up footer text to print "Original" at the bottom of the original, "Customer copy" at the bottom of the first copy, and "Warehouse copy" at the bottom of the second copy.

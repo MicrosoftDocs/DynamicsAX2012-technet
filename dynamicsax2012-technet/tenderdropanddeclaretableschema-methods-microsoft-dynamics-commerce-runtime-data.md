@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TenderDropAndDeclareTableSchema Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TenderDropAndDeclareTableSchema](tenderdropanddeclaretableschema-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

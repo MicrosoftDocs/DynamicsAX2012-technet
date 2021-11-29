@@ -17,6 +17,9 @@ dev_langs:
 
 # InventStyleId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The invent stlye ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterUser\_CreatingUser Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Event raised before a new user has been created.
 
 Before we add the identity try to associate the email to the customer using the supplied loyalty card number.

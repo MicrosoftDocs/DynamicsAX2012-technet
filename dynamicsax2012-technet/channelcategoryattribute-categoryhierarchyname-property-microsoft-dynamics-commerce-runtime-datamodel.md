@@ -17,6 +17,9 @@ dev_langs:
 
 # CategoryHierarchyName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the category hierarchy name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

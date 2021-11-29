@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Document Class Service Operations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the default service operations in the document service classes in Microsoft Dynamics AX. Application Integration Framework (AIF) exchanges data with external systems by sending and receiving XML documents. Each document being exchanged is represented by a document service class.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # indirect compensation
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The fixed compensation awarded to an employee in order to promote employee retention.
 
 ## See also

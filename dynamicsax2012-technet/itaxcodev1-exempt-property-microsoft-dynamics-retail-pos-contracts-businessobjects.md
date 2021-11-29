@@ -17,6 +17,9 @@ dev_langs:
 
 # Exempt Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether or not the tax is exempt.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

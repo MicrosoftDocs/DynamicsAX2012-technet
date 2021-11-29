@@ -14,6 +14,9 @@ f1_keywords:
 # (USA) Tax 1099 summary report (Tax1099Summary) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Tax 1099 summary** report is used to print a summarized list of 1099 statement information for vendors. The report also indicates whether the amount for each 1099 statement meets the 1099 reporting requirements, including the minimum requirements for amounts that must be reported to the IRS. By default, the report includes information for all vendors, but you can limit the information by vendor and by date. This report is typically used by collections managers, accountants, accounting managers, and accounting supervisors.

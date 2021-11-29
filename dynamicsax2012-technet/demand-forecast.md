@@ -13,6 +13,9 @@ f1_keywords:
 
 # demand forecast
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A prediction of future product demand.
 
 ## See also

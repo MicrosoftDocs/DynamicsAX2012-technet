@@ -17,6 +17,9 @@ dev_langs:
 
 # SessionActionRoutingConvention Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The session action routing convention class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions](microsoft-dynamics-retail-retailserverlibrary-odataextensions-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Import a SQL Server Analysis Services Project into the AOT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 If you have multiple partitions in Microsoft Dynamics AX, you may want to use Power View to analyze cube data in multiple partitions. Because financial dimensions and calendars may vary between different partitions, in each partition you must provide cubes that contain financial dimensions that are specific to that partition. You can then modify and deploy each partition-specific Analysis Services project. This topic explains how to deploy Analysis Services projects for each partition and then save the projects to the AOT so that you can maintain them separately.

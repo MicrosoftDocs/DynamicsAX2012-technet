@@ -17,6 +17,9 @@ dev_langs:
 
 # ReceiptItemInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The class to describe various propertis and formattings of varibles used to print a receipt.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Run the checklist items without user interaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The steps in the initialization checklist can be performed by starting Microsoft Dynamics AX from the command line and using an XML file as input parameter. The XML file specifies the checklist items to run. Results are written to a log file or shown in the InfoLog.

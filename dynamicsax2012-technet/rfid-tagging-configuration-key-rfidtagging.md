@@ -14,6 +14,9 @@ f1_keywords:
 # RFID tagging configuration key (RFIDTagging) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **RFID tagging** configuration key controls access to RFID tagging forms and functions.

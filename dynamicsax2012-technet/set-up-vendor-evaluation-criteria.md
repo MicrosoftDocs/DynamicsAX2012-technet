@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up vendor evaluation criteria 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 In your role as a purchasing agent or purchasing manager, you can set up vendor evaluation criteria to evaluate vendor performance. This is useful if you want to see how a vendor is rated, either by an overall rating or by a specific criterion. When you rate a vendor, the rating appears as the **Specialist rating** on the **Employee services** page of the Enterprise Portal for Microsoft Dynamics AX. After you’ve created vendor evaluation criteria, procurement professionals can rate vendors on the **Vendors** FastTab in the **Procurement categories: %1** form. If you evaluate a vendor in a procurement category, your evaluation will appear as a **Specialist rating** on the **Employee services** page of the Enterprise Portal.
 
 This topic describes how to do the following:

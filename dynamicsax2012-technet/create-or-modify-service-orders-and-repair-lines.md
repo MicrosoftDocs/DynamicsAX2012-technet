@@ -21,6 +21,9 @@ ms.search.region: Global
 # Create or modify service orders and repair lines 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create a service order and its service repair lines at the same time by using the Service Order Wizard. Alternatively, you can create a service order that does not include repair lines by using the **Create service order** page. You also use the **New service order line** page to add service order lines to a service order, and the **Edit service order** page to change an existing service order.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPurchaseOrderDataRequest Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [GetPurchaseOrderDataRequest](getpurchaseorderdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

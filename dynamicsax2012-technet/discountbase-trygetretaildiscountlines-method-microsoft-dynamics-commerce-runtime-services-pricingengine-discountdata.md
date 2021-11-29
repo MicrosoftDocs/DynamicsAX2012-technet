@@ -17,6 +17,9 @@ dev_langs:
 
 # TryGetRetailDiscountLines Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Try getting retail discount lines by variant Id or product Id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData](microsoft-dynamics-commerce-runtime-services-pricingengine-discountdata-namespace.md)  

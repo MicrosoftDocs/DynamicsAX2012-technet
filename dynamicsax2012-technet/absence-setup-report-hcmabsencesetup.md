@@ -15,6 +15,9 @@ f1_keywords:
 # Absence setup report (HcmAbsenceSetup) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Print this report to see all employees who are assigned to each absence setup. The results are sorted by setup.

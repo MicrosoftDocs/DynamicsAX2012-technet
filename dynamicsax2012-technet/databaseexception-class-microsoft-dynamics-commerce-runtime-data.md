@@ -17,6 +17,9 @@ dev_langs:
 
 # DatabaseException Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents errors that occurred during the database operations execution.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

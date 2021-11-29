@@ -14,6 +14,9 @@ f1_keywords:
 # Worker hour utilization - efficiency rate report (ProjEfficiencyUtilEmpl) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to review the efficiency rate of worker hours by project for a specified date range. You can view actual values or budgeted values by forecast model.

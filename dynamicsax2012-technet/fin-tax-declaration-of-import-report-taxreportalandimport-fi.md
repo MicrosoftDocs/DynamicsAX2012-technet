@@ -17,6 +17,9 @@ f1_keywords:
 # (FIN) Tax declaration of import report (TaxReportAlandImport\_FI) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Tax declaration of import** report displays information about tax transactions that are created by sales invoices when imports to the Åland Islands are completed. Information is reported for each month, and the report for each month consists of two parts. The upper part of the report is named either **Summary of import tax declaration to Åland Islands** or **Summary of import tax declaration to continental Finland**. This part includes information about each customer, invoice, and VAT code. The lower part of the report is a summary of the import tax declaration for the period of one month. This part includes total amounts for import transactions. This report is typically used by accountants and accounting managers.

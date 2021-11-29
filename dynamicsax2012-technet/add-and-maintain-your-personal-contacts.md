@@ -20,6 +20,9 @@ ms.search.region: Global
 # Add and maintain your personal contacts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Information about your personal contacts is displayed on the **Personal contacts** FastTab on the **Personal information** page. Use the **Personal information** page to update information about your personal contacts.

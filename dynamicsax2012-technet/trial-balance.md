@@ -13,6 +13,9 @@ f1_keywords:
 
 # trial balance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A report that lists the balances of ledger accounts for a specified time period.
 
 ## See also

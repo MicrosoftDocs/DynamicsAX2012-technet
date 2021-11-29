@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Plan for performance optimization and testing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic provides an overview of performance optimization and testing for Microsoft Dynamics AX. The topic also describes the testing that we recommend that you perform both before and after go-live.

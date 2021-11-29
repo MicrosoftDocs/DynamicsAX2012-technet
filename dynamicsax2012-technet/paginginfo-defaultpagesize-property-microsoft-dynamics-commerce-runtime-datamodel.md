@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultPageSize Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default number of records retrieved if no page size has been specified.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

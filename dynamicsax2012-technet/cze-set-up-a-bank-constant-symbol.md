@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Set up a bank constant symbol 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Bank constant symbols** form to set up a list of constant symbols. By default, when you set up a constant symbol for a specific company bank account, the symbol is copied to sales orders and free text. From the sales order or free text invoice, the constant symbol is transferred to the customer invoice.

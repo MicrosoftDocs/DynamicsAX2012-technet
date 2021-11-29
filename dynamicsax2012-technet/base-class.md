@@ -13,6 +13,9 @@ f1_keywords:
 
 # base class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A class that assumes a parent role when it participates in an inheritance relationship with another class.
 
 ## See also

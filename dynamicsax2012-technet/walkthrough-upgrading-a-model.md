@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Upgrading a Model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This walkthrough describes how to upgrade an existing model. To upgrade a model, you import the modified model over the existing model. This topic assumes that you have already modified the model in the Application Object Tree (AOT), and that you have created an .axmodel file.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Developing Solutions for Microsoft Dynamics AX in a Shared AOS Development Environment (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This paper provides an overview of the best practices you should follow if you develop in a shared AOS environment.

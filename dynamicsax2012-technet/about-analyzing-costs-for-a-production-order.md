@@ -15,6 +15,9 @@ ms.search.region: Global
 # About analyzing costs for a production order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can analyze a production the estimated costs and actual costs by using the **Price calculation** form or the **Cost estimates and costings** report. You can view information about the estimated and actual costs (and quantity) for each component item, the routing operation, and the indirect cost. The actual costs for a production order are based on the reported consumption of material and routing operations.

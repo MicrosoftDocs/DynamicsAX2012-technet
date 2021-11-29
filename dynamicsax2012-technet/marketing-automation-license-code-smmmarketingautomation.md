@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Marketing automation license code (smmMarketingAutomation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Marketing automation** license code enables access to the marketing features of Microsoft Dynamics AX.

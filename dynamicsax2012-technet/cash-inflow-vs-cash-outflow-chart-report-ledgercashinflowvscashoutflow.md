@@ -14,6 +14,9 @@ f1_keywords:
 # Cash inflow vs. cash outflow chart report (LedgerCashInflowvsCashOutflow) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to display cash inflow amounts, cash outflow amounts, and net cash flow amounts, all in a graphical format.

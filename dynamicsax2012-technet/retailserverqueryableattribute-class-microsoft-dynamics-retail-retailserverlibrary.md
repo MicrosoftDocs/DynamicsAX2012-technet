@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailServerQueryableAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The store server queryable attribute.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

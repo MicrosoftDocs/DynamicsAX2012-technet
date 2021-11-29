@@ -14,6 +14,9 @@ f1_keywords:
 
 # approved vendor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A vendor that is authorized to supply products to one or more legal entities.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Release production orders 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to release production orders to the shop floor. If the production order that you select is not already estimated or scheduled, the system will automatically run an estimation and operation or job scheduling process before it is released.

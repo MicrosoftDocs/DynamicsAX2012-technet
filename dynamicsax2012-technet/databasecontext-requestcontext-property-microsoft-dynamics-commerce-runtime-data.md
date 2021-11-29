@@ -17,6 +17,9 @@ dev_langs:
 
 # RequestContext Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the request context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

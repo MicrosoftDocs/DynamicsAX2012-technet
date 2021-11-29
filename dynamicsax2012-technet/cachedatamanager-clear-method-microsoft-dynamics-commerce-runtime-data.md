@@ -17,6 +17,9 @@ dev_langs:
 
 # Clear Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Clears all the entities from L2 cache.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

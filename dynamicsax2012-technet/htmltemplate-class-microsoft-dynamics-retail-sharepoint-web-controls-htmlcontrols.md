@@ -17,6 +17,9 @@ dev_langs:
 
 # HtmlTemplate Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a Html element placeholder for rendering templates.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls](microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols-namespace.md)  

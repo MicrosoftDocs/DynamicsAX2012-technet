@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DataAccessor Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DataAccessor](dataaccessor-class-microsoft-dynamics-retail-ecommerce-sdk-core-publishing.md) type exposes the following members.
 
 ## Fields

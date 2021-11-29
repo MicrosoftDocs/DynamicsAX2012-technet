@@ -17,6 +17,9 @@ ms.search.region: Global
 # View or edit your customer account information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you are a registered customer on Enterprise Portal, you can use the **View account information** or **Edit account information** pages to view and edit your account information. You can view or edit information such as your default language and address and contact information.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Shared Financial Data Management (White paper) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This white paper provides conceptual information so that you can plan the chart of accounts for your legal entity. It also provides the steps necessary to set up one or more charts of accounts, including procedures for setting up a ledger, shared financial dimensions, shared fiscal calendars, shared account structures, and advanced rules.

@@ -14,6 +14,9 @@ ms.search.region: Norway
 # (NOR) Set up payment specifications for an eInvoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The payment method and the corresponding payment specifications are linked to a customer record when you import a file that has a confirmed agreement from the Bankenes Betalingssentral (BBS).

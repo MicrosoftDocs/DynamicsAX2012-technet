@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install Retail Modern POS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Retail Modern POS is a point of sale application designed for Windows 8.1 computers, laptops, and more. It is touchscreen ready and low on overhead, while providing the full functionality of an integrated interface with Retail. This section includes the information about how to install Retail Modern POS.

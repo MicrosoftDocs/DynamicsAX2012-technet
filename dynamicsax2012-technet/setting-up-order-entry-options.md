@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up order entry options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to set up some of the options that you can use when you create a sales order in a call center.

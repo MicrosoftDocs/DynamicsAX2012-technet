@@ -13,6 +13,9 @@ f1_keywords:
 
 # discount period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The time period within which a customer can discount their payment obligation.
 
 ## See also

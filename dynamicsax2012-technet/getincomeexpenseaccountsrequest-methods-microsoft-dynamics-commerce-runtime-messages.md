@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetIncomeExpenseAccountsRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetIncomeExpenseAccountsRequest](getincomeexpenseaccountsrequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDeliveryOption Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This method retrieves delivery mode option matching the given code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

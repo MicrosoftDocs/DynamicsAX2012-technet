@@ -15,6 +15,9 @@ dev_langs:
 
 # GetItems Method (IEnumerable(String), ColumnSet)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the items using the specified item identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

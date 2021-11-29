@@ -17,6 +17,9 @@ ms.search.region: USA
 # (USA) Comply with the Americans with Disabilities Act 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides tools to manage information that can help you comply with the Americans with Disabilities Act (ADA).

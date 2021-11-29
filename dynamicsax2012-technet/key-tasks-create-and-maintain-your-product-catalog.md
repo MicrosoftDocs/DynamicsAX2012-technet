@@ -22,6 +22,9 @@ ms.search.region: Global
 # Key tasks: Create and maintain your product catalog 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A catalog maintenance request (CMR) file is an XML file that contains information about the products that you want to supply to your customer. You upload CMR files to the customer by using the vendor self-service portal.

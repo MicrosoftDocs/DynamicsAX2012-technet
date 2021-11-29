@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Position Sections and Controls on Reports by Using X++ (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The sections in a report can be positioned by using code. The controls in a section can also be positioned by using code. Add this code to methods that you override.

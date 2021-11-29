@@ -17,6 +17,9 @@ dev_langs:
 
 # Status Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the customer status of the customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

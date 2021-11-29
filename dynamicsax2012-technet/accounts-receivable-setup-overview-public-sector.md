@@ -18,6 +18,9 @@ ms.search.region: Denmark, France
 # Accounts receivable setup overview (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In addition to the main setup forms for Accounts receivable that are described in [Accounts receivable setup overview](accounts-receivable-setup-overview.md), several specialized setup forms are available to public sector organizations. These forms are available only if the configuration key for Public Sector is selected.

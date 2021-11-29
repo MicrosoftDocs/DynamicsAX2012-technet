@@ -17,6 +17,9 @@ dev_langs:
 
 # FacebookSecurityTokenServiceConfiguration Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The facebook security token service configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

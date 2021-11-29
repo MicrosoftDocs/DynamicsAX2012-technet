@@ -17,6 +17,9 @@ dev_langs:
 
 # FacebookUser Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Facebook user.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IDiscountTriggerV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Discount triggers interface version 2.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

@@ -20,6 +20,9 @@ ms.search.region: Poland
 # (POL) Overdue payments for VAT transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An invoice is considered to be overdue when it is unpaid after the payment due date. When the customer or vendor has not settled the invoice within the specified overdue debt interval period, an invoice becomes an unpaid invoice.

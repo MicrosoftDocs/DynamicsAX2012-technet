@@ -18,6 +18,9 @@ dev_langs:
 
 # ParseAddressFromXml Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Parse address from a SalesOrder or SaleLine XML node.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

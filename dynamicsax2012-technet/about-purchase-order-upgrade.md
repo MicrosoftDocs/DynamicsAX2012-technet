@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About purchase order upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you invoice in Microsoft Dynamics AX 2012, the accounting framework does not relieve any accounting entries for accruals that were generated in an earlier version of the program. To upgrade to Microsoft Dynamics AX 2012, you must first relieve any accrual entries that remain for purchase order quantities received but not yet matched to vendor invoices.

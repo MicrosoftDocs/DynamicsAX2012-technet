@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductDimensionSet Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a set of dimensions of a product, keyed by their unique property names.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

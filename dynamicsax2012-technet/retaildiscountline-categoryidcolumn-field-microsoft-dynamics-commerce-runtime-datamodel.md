@@ -17,6 +17,9 @@ dev_langs:
 
 # CategoryIdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Category Id column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

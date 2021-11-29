@@ -17,6 +17,9 @@ dev_langs:
 
 # GetBarcodeMaskSegment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the barcode mask segment using the specified mask identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

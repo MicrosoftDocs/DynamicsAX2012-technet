@@ -14,6 +14,9 @@ ms.search.region: Global
 # View assortment products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You can create many assortments, and then assign one or more assortments to multiple retail channels. Retail channels include brick and mortar stores, online stores, and online marketplaces. You must then have an easy way to view the assortments and products that you have assigned to each retail channel.

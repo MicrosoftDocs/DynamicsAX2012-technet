@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Scenario: Upgrade a country-specific or region-specific system 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This scenario applies to systems that contain country-specific or region-specific features that were previously located in the GLS layer. It describes an upgrade from Microsoft Dynamics AX 4.0 or Microsoft Dynamics AX 2009 to Microsoft Dynamics AX 2012 R2. Note that this country-specific or region-specific scenario requires a type of source-to-target upgrade. In-place upgrade of country-specific or region-specific features to AX 2012 R2 is not supported, nor is source-to-target upgrade to earlier releases of AX 2012.

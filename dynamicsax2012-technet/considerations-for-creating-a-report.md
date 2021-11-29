@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Considerations for Creating a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 How the report accesses data, the controls for passing parameters to the report, the layout and design of the report, and where the report will be used are all things to consider when you create reports using the Microsoft Visual Studio tools for Microsoft Dynamics AX.

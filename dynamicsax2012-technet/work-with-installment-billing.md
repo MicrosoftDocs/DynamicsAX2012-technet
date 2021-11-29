@@ -19,6 +19,9 @@ ms.search.region: Global
 # Work with installment billing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can set up a payment schedule that lets customers pay in installments over time. If you associate a payment schedule with a call center catalog, call center customers can use installment billing as the method of payment for their orders. This topic describes how to set up and use installment billing in a call center.

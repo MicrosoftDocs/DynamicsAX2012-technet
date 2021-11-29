@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up receipt profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 A receipt profile is a group of form layouts that can be assigned to point of sale (POS) printers via a hardware profile. A receipt profile provides a set of receipt templates for the printers at your registers. You must set up form layouts and receipt profiles to print receipts and other documents from Microsoft Dynamics AX for Retail POS.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetInvoicesByCustomerAccount Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the invoices associated with the given customer account identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

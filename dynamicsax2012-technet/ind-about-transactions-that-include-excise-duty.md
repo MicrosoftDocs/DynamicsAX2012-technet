@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) About transactions that include excise duty 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Purchase order** form to record or invoice the following transaction types in an excise register:

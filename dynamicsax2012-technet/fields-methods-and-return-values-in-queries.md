@@ -14,6 +14,9 @@ ms.search.region: Global
 # Fields, methods, and return values in queries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By creating queries from the management statistics section in **Sales and marketing**, you can view a plotted graph that shows both the fields and the methods of many tables in Microsoft Dynamics AX.

@@ -18,6 +18,9 @@ ms.search.region: Global
 # View service agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Service agreements** page to view a list of service agreements that have been created. You then can use the **View service agreement** page to view the details of a specific service agreement or line.

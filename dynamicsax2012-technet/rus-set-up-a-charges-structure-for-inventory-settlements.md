@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a charges structure for inventory settlements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can view inventory adjustments or settlements that are split by miscellaneous charge codes. You can view the receipt cost, all types of miscellaneous charges that are adjusted to the purchase invoice, and cost adjustments in inventory transactions separately. When you select the **Misc. charges structure** check box, all the cost adjustments or settlements that are made for an item are split by the miscellaneous charge codes and saved during inventory closing.

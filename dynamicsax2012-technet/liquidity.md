@@ -13,6 +13,9 @@ f1_keywords:
 
 # liquidity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ability of a party to use current assets to settle current liabilities.
 
 ## See also

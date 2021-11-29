@@ -17,6 +17,9 @@ dev_langs:
 
 # UploadOrderRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Request for uploading sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

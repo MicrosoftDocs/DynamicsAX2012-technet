@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSessionCookie Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the session cookie.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Common](microsoft-dynamics-retail-sharepoint-web-common-namespace.md)  

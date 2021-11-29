@@ -20,6 +20,9 @@ ms.search.region: Mexico
 # (MEX) Configure the digital certificate in Microsoft Windows Server 2008 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must configure and grant access to the digital certificate to sign the generated XML message for a batch of electronic invoices. To grant access to the digital certificate private key and configure the Windows Communication Foundation (WCF) client to use the certificate as an authentication, you must import the digital certificate to the computer where Application Object Server (AOS) is running.

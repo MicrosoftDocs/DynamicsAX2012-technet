@@ -14,6 +14,9 @@ f1_keywords:
 # Letter of guarantee expiration dates report (BankLGExpiryDate) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Letter of guarantee expiration dates** report is used to view a list of letters of guarantee that expire during a specified period. You can track the expiration dates of the letters of guarantee, and use the details to follow up with the customers or vendors to extend the letters of guarantee. This report is typically used by chief financial officers, accounts receivable clerks, accounts receivable managers, accounting managers, financial controllers, and treasurers.

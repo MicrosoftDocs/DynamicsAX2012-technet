@@ -20,6 +20,9 @@ ms.search.region: Global
 # About the sales value matching principle 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following is an overview of how and where the **Accrued revenue - sales value** account is applied and what parameter setup is required in the **Project groups** and **Line properties** forms.

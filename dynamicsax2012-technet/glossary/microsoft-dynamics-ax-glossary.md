@@ -13,6 +13,9 @@ f1_keywords:
 
 # Microsoft Dynamics AX glossary
 
+
+[!INCLUDE[archive-banner](../includes/archive-banner.md)]
+
 <table style="width:100%;">
 <colgroup>
 <col style="width: 3%" />

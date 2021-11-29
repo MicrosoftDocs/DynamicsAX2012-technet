@@ -14,6 +14,9 @@ f1_keywords:
 # (NLD) Dutch sales tax report (TaxReport\_NL) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Dutch sales tax report** is an external report that provides an overview of the posted sales tax transactions in the official Dutch layout. The report includes relevant information based on the setup of the sales tax reporting codes. This report is used by accountants, clerks, accounts receivable managers, and sales managers to inquire into sales tax transactions.

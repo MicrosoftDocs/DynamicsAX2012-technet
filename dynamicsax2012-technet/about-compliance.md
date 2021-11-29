@@ -33,6 +33,9 @@ ms.search.region: Global
 # About compliance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In business, compliance generally refers to the requirement to follow certain rules or laws, meet certain standards, and follow certain practices. Compliance standards can originate from external or internal sources, and a compliance requirement can be mandatory or optional. From tax reporting forms to how you place a label on a box for a customer, compliance requirements help drive the ways in which businesses operate.

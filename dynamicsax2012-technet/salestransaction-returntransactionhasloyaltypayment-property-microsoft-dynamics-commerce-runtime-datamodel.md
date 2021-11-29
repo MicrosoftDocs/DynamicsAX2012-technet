@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnTransactionHasLoyaltyPayment Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether the original transaction that is being returned has any posted loyalty tender.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

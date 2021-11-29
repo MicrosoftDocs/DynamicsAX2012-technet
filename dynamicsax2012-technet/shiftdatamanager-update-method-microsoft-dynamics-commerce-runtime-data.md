@@ -17,6 +17,9 @@ dev_langs:
 
 # Update Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the Shift record in database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

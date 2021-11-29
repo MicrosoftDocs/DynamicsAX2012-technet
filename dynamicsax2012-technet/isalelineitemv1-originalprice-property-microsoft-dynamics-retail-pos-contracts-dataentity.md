@@ -17,6 +17,9 @@ dev_langs:
 
 # OriginalPrice Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the original price excluding the tax, if price was manually overrided.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

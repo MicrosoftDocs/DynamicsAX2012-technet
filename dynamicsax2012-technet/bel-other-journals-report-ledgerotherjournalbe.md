@@ -14,6 +14,9 @@ f1_keywords:
 # (BEL) Other journals report (LedgerOtherJournalBE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Other journals** report displays and prints a summary of the posted transactions that are not categorized under sales, purchases, or financials. This report is typically used by accountants, accounting managers, clerks, accounting supervisors, and compliance managers to inquire into journal transactions.

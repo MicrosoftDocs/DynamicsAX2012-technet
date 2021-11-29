@@ -17,6 +17,9 @@ dev_langs:
 
 # TimeClockNotEnabled Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that time registration is not enabled in the functionality profile.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

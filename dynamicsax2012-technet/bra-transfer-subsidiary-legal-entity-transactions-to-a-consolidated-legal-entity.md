@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) Transfer subsidiary legal entity transactions to a consolidated legal entity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 After you set up a consolidated legal entity, you can use the **Consolidate** form to transfer all of the transactions in a selected period from subsidiary legal entities to the consolidated legal entity. The consolidated legal entity and the subsidiary legal entities must use the same currency. Before you transfer transactions, you must select the **Use for financial consolidation process** check box on the **General** FastTab in the **Legal entities** form.

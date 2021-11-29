@@ -14,6 +14,9 @@ ms.search.region: Global
 # Filter records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use filtering to find and work with a subset of the data in a form. When you apply a filter on a form, you see only the records that meet the criteria that you specify.

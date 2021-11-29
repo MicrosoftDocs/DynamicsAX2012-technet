@@ -22,6 +22,9 @@ ms.search.region: Russia
 # (RUS) Set up address information for a party, customer, vendor, worker, or legal entity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up address information for customers, vendors, workers, and legal entities. The global address book (GAB) in Microsoft Dynamics AX contains consolidated address information for customers, vendors, contacts, business relations, and legal entities. For more information see, [Global address book overview](global-address-book-overview.md).

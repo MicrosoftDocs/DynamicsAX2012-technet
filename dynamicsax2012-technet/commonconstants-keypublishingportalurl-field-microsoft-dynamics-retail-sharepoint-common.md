@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyPublishingPortalUrl Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies DB access parameter which allows to read URL of Publishing Portal.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

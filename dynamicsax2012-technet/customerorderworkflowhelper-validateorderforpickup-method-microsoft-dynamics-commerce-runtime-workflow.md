@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateOrderForPickup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Validates the order for pick up.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

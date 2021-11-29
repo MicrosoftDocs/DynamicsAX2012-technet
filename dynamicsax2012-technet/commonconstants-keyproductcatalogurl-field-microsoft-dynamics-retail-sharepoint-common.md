@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyProductCatalogUrl Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Identifies DB access parameter which allows to read the URL of Product Catalog.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

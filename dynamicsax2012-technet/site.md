@@ -13,6 +13,9 @@ f1_keywords:
 
 # site
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A collection of files and metadata that comprises a complete website when published to an HTTP server on the World Wide Web.
 
 ## See also

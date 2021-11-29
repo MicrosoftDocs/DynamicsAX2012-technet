@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a product configuration template 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A configuration template is a completely or partially configured product configuration model. Configuration templates can save time when you configure variations of a product or want to promote a particular product variant. For example, when you configure a sales order line, you can load a configuration template, and the configuration settings are included.

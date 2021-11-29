@@ -17,6 +17,9 @@ dev_langs:
 
 # SetSalesTaxGroup Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the missing sales tax group identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

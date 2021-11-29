@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create goal types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you can set goals for workers, you must first create goal types. Goal types help organize goals into manageable categories. You also can use goal types to provide guidance and structure for the person who is to achieve the goal by creating user-defined fields for the goal template.

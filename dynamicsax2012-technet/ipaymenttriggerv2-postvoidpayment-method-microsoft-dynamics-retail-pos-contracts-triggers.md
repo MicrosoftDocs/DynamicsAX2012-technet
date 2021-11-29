@@ -17,6 +17,9 @@ dev_langs:
 
 # PostVoidPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after voiding of a payment.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

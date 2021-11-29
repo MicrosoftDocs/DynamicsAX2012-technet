@@ -14,6 +14,9 @@ ms.search.region: USA
 # (USA) About online marketplaces 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 Organizations can use Microsoft Dynamics AX and Commerce Services for Microsoft Dynamics ERP to sell products easily through several well-known, established online marketplaces.

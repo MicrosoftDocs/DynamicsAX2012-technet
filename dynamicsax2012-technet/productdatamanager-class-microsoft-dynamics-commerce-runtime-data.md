@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Implements data store-facing operations related to products.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

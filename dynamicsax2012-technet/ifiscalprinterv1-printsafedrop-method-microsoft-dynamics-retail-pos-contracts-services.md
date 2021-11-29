@@ -17,6 +17,9 @@ dev_langs:
 
 # PrintSafeDrop Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Print safe drop Receipt
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

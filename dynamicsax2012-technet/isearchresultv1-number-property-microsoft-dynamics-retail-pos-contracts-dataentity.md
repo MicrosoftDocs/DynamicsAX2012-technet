@@ -17,6 +17,9 @@ dev_langs:
 
 # Number Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

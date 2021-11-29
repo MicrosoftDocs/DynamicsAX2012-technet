@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateListingStatuses Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the listing statuses.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

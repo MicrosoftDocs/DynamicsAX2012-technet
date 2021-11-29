@@ -19,6 +19,9 @@ ms.search.region: Global
 # About operation scheduling options 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Operations scheduling is the expected schedule for a production order. It calculates the following information:

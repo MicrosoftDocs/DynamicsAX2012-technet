@@ -18,6 +18,9 @@ ms.search.region: Global
 # Working with electronic timecards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the electronic timecard in Enterprise Portal to create, modify, and transfer time registrations. The following procedures describe how to work with the electronic timecard features.

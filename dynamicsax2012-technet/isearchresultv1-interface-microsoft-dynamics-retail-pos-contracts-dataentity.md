@@ -17,6 +17,9 @@ dev_langs:
 
 # ISearchResultV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ISearchResult interface V1
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

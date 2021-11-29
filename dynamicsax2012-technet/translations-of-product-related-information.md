@@ -19,6 +19,9 @@ ms.search.region: Global
 # Translations of product-related information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to manage translations for products, product dimension values, and product attributes.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure parameters (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to specify default settings for Retail essentials. You use two forms to specify these settings: **Retail parameters** and **Retail scheduler parameters**. Specify the appropriate settings for your business in each form. You can change many of these settings later.

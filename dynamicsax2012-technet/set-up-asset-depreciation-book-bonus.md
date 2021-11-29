@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up asset depreciation book bonus 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Depreciation book special depreciation allowance** form to enter or modify bonus depreciation information for the asset depreciation book. You can add, remove, or modify a bonus depreciation record if there are no existing bonus depreciation, depreciation, or depreciation adjustment transactions for the specific asset depreciation book.

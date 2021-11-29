@@ -13,6 +13,9 @@ f1_keywords:
 
 # indirect cost
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A cost that is not directly attributed to the production of an item or the performance of a service.
 
 ## See also

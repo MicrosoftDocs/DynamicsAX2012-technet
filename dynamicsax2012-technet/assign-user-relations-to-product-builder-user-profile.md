@@ -15,6 +15,9 @@ ms.search.region: Global
 # Assign user relations to Product builder user profile 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 User relations can be linked to a Product builder user profile through the **Product builder user profile** form.

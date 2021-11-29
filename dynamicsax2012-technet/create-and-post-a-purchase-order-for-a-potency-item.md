@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create and post a purchase order for a potency item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the information in this topic to create, process, and post a purchase order for a potency item. The posted invoice provides the detailed adjusted unit price and net amount that is adjusted and calculated based on the actual potency of the received inventory batch material. Before you can create and post a purchase order for a potency item, you must complete the following tasks:

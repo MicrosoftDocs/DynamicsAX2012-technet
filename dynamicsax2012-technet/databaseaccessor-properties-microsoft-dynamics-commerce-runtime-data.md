@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DatabaseAccessor Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DatabaseAccessor](databaseaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

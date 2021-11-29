@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizationFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the that the current user does not have the rights to perform the requested operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

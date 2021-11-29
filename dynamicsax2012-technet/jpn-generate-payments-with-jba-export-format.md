@@ -16,6 +16,9 @@ ms.search.region: Japan
 # (JPN) Generate payments with JBA export format 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

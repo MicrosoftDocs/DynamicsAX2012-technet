@@ -17,6 +17,9 @@ dev_langs:
 
 # KitVariantToComponentMap Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a collection of ([KitVariantContent](kitvariantcontent-class-microsoft-dynamics-commerce-runtime-datamodel.md) objects for the current kit.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -25,6 +25,9 @@ f1_keywords:
 # Electronic Form W-2 exported file (PRLW2File) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this exported file to submit Form W-2s to the Social Security Administration.

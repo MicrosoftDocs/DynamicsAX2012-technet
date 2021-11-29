@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommonConstants Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommonConstants](commonconstants-class-microsoft-dynamics-retail-sharepoint-common.md) type exposes the following members.
 
 ## Fields

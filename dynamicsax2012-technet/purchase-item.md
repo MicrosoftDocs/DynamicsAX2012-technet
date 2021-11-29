@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase item
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An itemized product that participates in a procurement process.
 
 ## See also

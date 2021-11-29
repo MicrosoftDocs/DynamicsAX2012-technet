@@ -18,6 +18,9 @@ dev_langs:
 
 # AuthenticateDevicePartialRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles AuthenticateDeviceRequest.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

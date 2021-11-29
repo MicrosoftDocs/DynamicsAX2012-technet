@@ -13,6 +13,9 @@ f1_keywords:
 
 # query-based report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of report generated from an Application Object Tree (AOT) query.
 
 ## See also

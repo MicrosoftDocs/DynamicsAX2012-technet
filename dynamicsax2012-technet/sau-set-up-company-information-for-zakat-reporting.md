@@ -18,6 +18,9 @@ ms.search.region: Saudi Arabia
 # (SAU) Set up company information for Zakat reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Legal entities** form stores information about companies registered with the Department of Zakat and Income Tax (DZIT). Use this form to enter information about your company.

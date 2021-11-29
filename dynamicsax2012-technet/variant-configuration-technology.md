@@ -13,6 +13,9 @@ f1_keywords:
 
 # variant configuration technology
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of modeling product masters and searching for product variant configurations.
 
 ## See also

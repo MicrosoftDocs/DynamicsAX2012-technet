@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Install the synchronization proxy for Microsoft Project Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The synchronization proxy for Microsoft Project helps support the synchronization of project data in Microsoft Dynamics AX with data in Microsoft Project Server.

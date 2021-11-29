@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultPageSize Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default page size for the [PagingInfo](paginginfo-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

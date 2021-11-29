@@ -17,6 +17,9 @@ dev_langs:
 
 # FillHierarchy Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Fills the hierarchy.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

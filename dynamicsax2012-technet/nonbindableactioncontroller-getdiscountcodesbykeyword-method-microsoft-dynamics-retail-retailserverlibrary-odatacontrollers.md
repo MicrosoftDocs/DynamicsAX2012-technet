@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountCodesByKeyword Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches the discount codes.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

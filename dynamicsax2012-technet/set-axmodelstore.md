@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Set-AXModelStore
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Set-AXModelStore
 
 Sets a flag in the model store that indicates the action to take when a model has been modified.

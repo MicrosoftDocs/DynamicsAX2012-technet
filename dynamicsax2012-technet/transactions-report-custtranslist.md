@@ -14,6 +14,9 @@ f1_keywords:
 # Transactions report (CustTransList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view customer transactions that have been invoiced. This information includes the debits, credits, and amounts for each invoice.

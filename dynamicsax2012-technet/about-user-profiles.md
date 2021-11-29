@@ -17,6 +17,9 @@ ms.search.region: Global
 # About user profiles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 User profiles let you control which modeling variables each user can see and interact with in the user dialog box as an item is being configured and sold. This topic provides general information about user profiles.

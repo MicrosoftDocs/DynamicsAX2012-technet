@@ -15,6 +15,9 @@ ms.search.region: Global
 # About creating a budget from transaction accounts and total accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create budgets based on transaction accounts and total accounts. Generally, these budgets involve expense accounts that have a main account type of **Profit and loss**.

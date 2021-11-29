@@ -17,6 +17,9 @@ dev_langs:
 
 # DataAccessSettings Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the data access element.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

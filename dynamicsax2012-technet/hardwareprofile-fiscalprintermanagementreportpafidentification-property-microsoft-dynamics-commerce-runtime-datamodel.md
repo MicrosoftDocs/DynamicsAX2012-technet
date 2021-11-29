@@ -17,6 +17,9 @@ dev_langs:
 
 # FiscalPrinterManagementReportPAFIdentification Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the PafEcfIndentification for fiscal printer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

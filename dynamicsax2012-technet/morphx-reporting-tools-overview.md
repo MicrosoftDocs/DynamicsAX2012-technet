@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # MorphX Reporting Tools Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create reports in Microsoft Dynamics AX by using Microsoft Dynamics AX reporting tools for Visual Studio or by using MorphX reporting tools. This section deals with creating reports using MorphX reporting tools.

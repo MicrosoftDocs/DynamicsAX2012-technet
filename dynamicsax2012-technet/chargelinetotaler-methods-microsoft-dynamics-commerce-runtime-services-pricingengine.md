@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ChargeLineTotaler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ChargeLineTotaler](chargelinetotaler-class-microsoft-dynamics-commerce-runtime-services-pricingengine.md) type exposes the following members.
 
 ## Methods

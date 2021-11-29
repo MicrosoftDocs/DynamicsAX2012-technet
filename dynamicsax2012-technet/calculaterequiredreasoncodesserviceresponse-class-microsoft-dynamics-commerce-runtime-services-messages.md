@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateRequiredReasonCodesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The service response for calculating required reason codes.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

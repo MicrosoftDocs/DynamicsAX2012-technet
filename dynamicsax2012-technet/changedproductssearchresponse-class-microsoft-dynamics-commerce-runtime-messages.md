@@ -17,6 +17,9 @@ dev_langs:
 
 # ChangedProductsSearchResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Contains the result of a call to get the collection of changed products, including the new sync anchor.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

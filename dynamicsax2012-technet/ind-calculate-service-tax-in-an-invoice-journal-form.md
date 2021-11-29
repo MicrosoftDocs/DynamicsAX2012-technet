@@ -17,6 +17,9 @@ ms.search.region: India
 # (IND) Calculate service tax in an Invoice journal form 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the **Invoice journal** form to calculate service tax for vendors. You can specify the service code and service category for vendors and foreign vendors before you post the journal.

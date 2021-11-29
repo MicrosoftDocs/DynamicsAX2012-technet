@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # OrderController Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [OrderController](ordercontroller-class-microsoft-dynamics-retail-ecommerce-sdk-core-controllers.md) type exposes the following members.
 
 ## Methods

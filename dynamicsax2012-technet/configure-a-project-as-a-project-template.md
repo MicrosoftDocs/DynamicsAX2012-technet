@@ -17,6 +17,9 @@ ms.search.region: Global
 # Configure a project as a project template 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to designate an existing project as a project template. When you create a project by using the Project Copy Wizard, you select a project template. The project template that you select depends on the project structure that you want to replicate. You can replicate a single project, or a parent project with all its subprojects.

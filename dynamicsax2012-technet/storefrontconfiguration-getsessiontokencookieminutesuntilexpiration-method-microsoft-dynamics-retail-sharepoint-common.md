@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSessionTokenCookieMinutesUntilExpiration Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the number of minutes until the session token cookie is expired.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

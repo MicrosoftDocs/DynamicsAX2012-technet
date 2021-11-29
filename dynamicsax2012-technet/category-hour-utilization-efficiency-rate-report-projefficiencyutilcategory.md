@@ -14,6 +14,9 @@ f1_keywords:
 # Category hour utilization - efficiency rate report (ProjEfficiencyUtilCategory) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to review the efficiency rate for actual hours or budgeted hours by project category for a specified date range.

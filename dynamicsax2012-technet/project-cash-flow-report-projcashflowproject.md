@@ -14,6 +14,9 @@ f1_keywords:
 # Project cash flow report (ProjCashFlowProject) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the amount of cash inflows and outflows by project for a specified date range. You can compare the cash flows to the related project budget amounts.

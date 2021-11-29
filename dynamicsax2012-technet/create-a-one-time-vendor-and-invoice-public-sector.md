@@ -26,6 +26,9 @@ ms.search.region: Denmark, France
 # Create a one-time vendor and invoice (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You might have a situation where you have to create an invoice for a new vendor with whom you have no regular relationship. When approval or a contract in the form of a purchase order is not required, you can quickly create an invoice at the same time as creating a record for the vendor. For example, you might have to pay referees or refunds, where a master vendor record does not exist.

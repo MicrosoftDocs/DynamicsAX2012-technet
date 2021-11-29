@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelCurrencyColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Currency column name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

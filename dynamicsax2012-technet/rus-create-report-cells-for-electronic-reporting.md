@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create report cells for electronic reporting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create report cells for electronic reporting before you submit an electronic value-added tax (VAT) declaration report to the tax authorities. The report cells are used to assign user-defined names to the sections of a VAT declaration report. For more information [(RUS) Create report cells (form)](https://technet.microsoft.com/library/jj678529\(v=ax.60\)).

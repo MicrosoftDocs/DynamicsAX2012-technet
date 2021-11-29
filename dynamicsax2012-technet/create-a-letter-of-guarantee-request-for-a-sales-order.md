@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create a letter of guarantee request for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A letter of guarantee can be issued for a sales order transaction between a principal and a beneficiary. After the sales order is created, the principal can create a letter of guarantee request for the customer and submit it to the bank. When the bank approves the request, the letter of guarantee is issued to the beneficiary. For more information, see [About letter of guarantee](about-letter-of-guarantee.md) and [Activate the letter of guarantee](activate-the-letter-of-guarantee.md).

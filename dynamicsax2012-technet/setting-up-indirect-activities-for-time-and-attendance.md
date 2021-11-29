@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up indirect activities for time and attendance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about how to set up indirect activities. Indirect activities are used for various types of registrations in **Time and attendance**.

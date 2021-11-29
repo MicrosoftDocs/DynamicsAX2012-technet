@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Set up a VAT commodity code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Commodity codes for value-added tax (VAT) can be created for various inventory items, based on codes that are assigned by the state in India. For each item on a sales invoice, you can print the group commodity code and the state commodity code.

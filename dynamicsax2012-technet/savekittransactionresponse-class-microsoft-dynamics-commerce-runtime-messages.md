@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveKitTransactionResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response to the kit transaction operation request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

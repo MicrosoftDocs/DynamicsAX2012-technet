@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Checklist: Deploy an internal Enterprise Portal site that has Role Centers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides checklists that can help you deploy Enterprise Portal for Microsoft Dynamics AX and Role Centers for an employee portal that is for internal use only. An employee portal for internal use only provides access to the following modules sites in Enterprise Portal. If your business or organization deploys Role Centers, users can also access their Role Center page on the Home site.

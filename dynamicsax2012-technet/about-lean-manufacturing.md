@@ -32,6 +32,9 @@ ms.search.region: Global
 # About lean manufacturing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides an overview and description of the lean manufacturing features in Microsoft Dynamics AX 2012.

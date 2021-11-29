@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductAvailabilitySqlServerDataService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Product / Item availability SQL server data service class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-namespace.md)  

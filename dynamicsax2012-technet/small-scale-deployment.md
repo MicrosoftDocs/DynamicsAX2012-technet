@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Small-scale deployment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topology for a small-scale deployment of Microsoft Dynamics AX expands on the topology for a single-server deployment that is described in [Single-server deployment](single-server-deployment.md).

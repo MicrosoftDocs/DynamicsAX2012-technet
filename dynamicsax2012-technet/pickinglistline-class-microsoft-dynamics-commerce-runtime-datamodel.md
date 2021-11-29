@@ -17,6 +17,9 @@ dev_langs:
 
 # PickingListLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The entity for picking list line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

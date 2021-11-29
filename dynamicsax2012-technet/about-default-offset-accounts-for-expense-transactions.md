@@ -15,6 +15,9 @@ ms.search.region: Global
 # About default offset accounts for expense transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you enter an expense transaction on a journal line, the system suggests the offset account that best matches the project, category, and worker on the transaction line.

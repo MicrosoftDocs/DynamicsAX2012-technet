@@ -14,6 +14,9 @@ ms.search.region: Global
 # Example: Balanced accounting entry for interunit accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If your organization is required to generate a balanced balance sheet by using the values of a financial dimension, you can select that financial dimension in the **Ledger** form. When you enter a financial dimension, every accounting entry must balance both at the total level and at the level of the financial dimension values. If the accounting entry does not balance at the level of the financial dimension values, additional account entries are created automatically to balance the accounting entry.

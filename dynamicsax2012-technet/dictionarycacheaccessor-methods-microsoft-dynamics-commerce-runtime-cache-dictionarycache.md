@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # DictionaryCacheAccessor Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [DictionaryCacheAccessor](dictionarycacheaccessor-class-microsoft-dynamics-commerce-runtime-cache-dictionarycache.md) type exposes the following members.
 
 ## Methods

@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Set up competency information for workers and employees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can hire a worker in a legal entity, and then assign the worker to a single position or multiple positions. When you assign the worker to a position, an employee identification code is assigned to the worker for the position. For example, you hire a worker W1, and then assign the worker to three positions, such as P1, P2, and P3. Three employee identification codes are assigned to the worker, such as E1, E2, and E3.

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Organizations and organizational hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An organization is a group of people who work together to carry out a business process or to achieve a goal. Organization hierarchies represent the relationships between the organizations that make up a business.

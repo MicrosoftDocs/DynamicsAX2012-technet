@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AuthorizePaymentServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AuthorizePaymentServiceRequest](authorizepaymentservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

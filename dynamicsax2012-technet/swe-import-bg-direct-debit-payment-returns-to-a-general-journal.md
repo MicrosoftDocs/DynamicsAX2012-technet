@@ -19,6 +19,9 @@ ms.search.region: Sweden
 # (SWE) Import BG direct debit payment returns to a general journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Bank Giro Centralen (BGC) of Sweden has updated the Bank Giro (BG) direct debit payment format to include refund requests. You can export the direct debit payment details to the BG direct debit payment file and import the direct debit payment returns to a general journal for validation and posting.

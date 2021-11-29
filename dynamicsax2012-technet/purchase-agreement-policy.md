@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase agreement policy
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A policy that authorizes parties to modify purchase agreement terms.
 
 ## See also

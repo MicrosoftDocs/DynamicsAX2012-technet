@@ -17,6 +17,9 @@ dev_langs:
 
 # RejectedReservationIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The rejected reservation IDs.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

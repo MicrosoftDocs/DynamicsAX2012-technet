@@ -16,6 +16,9 @@ ms.search.region: Global
 # Generate and print shelf labels 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to generate and print shelf labels to put on a store rack or shelf where items are displayed or stored. A shelf label can contain all the information about the product, for example the product name, size, and color. However, a shelf label can’t contain information such as the batch number, serial number, or expiration date.

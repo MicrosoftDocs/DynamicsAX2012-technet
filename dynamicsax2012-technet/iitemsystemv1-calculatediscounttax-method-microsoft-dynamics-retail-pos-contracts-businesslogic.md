@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateDiscountTax Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculate and update the discounts, then taxes on a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

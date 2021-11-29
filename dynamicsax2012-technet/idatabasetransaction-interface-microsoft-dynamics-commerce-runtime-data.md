@@ -17,6 +17,9 @@ dev_langs:
 
 # IDatabaseTransaction Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a database transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

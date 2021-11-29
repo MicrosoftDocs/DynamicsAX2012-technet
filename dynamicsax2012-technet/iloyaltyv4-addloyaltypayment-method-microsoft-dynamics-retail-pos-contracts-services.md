@@ -17,6 +17,9 @@ dev_langs:
 
 # AddLoyaltyPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds loyalty payment to the transaction. User is prompted to enter loyalty card number and amount.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

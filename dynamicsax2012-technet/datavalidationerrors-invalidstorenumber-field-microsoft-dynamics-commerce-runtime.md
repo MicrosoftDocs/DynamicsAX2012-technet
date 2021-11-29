@@ -17,6 +17,9 @@ dev_langs:
 
 # InvalidStoreNumber Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that the store used for pickup is not valid.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetItemDimensionsDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetItemDimensionsDataRequest](getitemdimensionsdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

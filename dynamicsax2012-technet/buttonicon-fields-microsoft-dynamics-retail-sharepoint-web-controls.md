@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ButtonIcon Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ButtonIcon](buttonicon-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Fields

@@ -23,6 +23,9 @@ ms.search.region: Global
 # Key tasks: Schedule kanban jobs for a work cell 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Kanban schedule board** form to manually schedule kanban jobs for a work cell. You can complete the following scheduling tasks for one or more selected jobs:

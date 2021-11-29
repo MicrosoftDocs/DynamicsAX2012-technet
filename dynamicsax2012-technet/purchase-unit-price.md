@@ -13,6 +13,9 @@ f1_keywords:
 
 # purchase unit price
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The price of a purchase unit.
 
 ## See also

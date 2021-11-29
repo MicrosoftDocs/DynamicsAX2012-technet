@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Define a Sorted Data Region 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can control the order in which data appears within a report data region by defining a sort order. A specific sort order is set when the report is built. For example, you might want to display customer data alphabetically by last name or numerically by account number.

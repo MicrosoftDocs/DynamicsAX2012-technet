@@ -17,6 +17,9 @@ dev_langs:
 
 # CompanyCurrencyKey Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Company currency key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

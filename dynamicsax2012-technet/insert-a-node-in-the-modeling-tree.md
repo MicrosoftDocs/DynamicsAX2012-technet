@@ -18,6 +18,9 @@ ms.search.region: Global
 # Insert a node in the modeling tree 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This section describes the procedures for inserting nodes into the product model's modeling tree.

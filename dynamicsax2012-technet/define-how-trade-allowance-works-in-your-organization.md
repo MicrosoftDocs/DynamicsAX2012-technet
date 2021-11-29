@@ -14,6 +14,9 @@ ms.search.region: Global
 # Define how trade allowance works in your organization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Before you can create trade allowance funds or trade allowance agreements, you must define how trade allowance management works in your organization. You can enable or disable functionality and rules as appropriate, and you can set default values for activities such as billbacks and deductions. This topic explains how to set up trade allowance management for your organization.

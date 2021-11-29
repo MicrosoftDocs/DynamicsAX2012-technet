@@ -14,6 +14,9 @@ ms.search.region: Estonia
 # (EST) Set up the export of telebank payments to vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can export telebank payments that are made to vendors, and import the payments into the accounts receivable payment journal. Exported telebank payments can use any of the generally accepted telebanking formats: Teleteenus (EE) v. 2.3, Telehansa (EE) v. 5.116, or Telehansa (INT) v. 5.116. The imported payments are linked to specific vendor invoices by using reference numbers.

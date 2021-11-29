@@ -15,6 +15,9 @@ ms.search.region: Global
 # About service budgeting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Click **Cost accounting** \> **Journals** \> **Service budget**. Budget services are planned for a selected **Budget model** and**Financial dimensions**.

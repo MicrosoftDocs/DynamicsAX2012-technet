@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateEventLogSourceInRegistry Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates the registry key needed for an event log source on a list of windows computers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

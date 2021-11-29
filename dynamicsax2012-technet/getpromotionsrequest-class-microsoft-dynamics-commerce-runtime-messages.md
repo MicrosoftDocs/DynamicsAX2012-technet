@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPromotionsRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the shopping cart with promotions lines for the cart and for the cart items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

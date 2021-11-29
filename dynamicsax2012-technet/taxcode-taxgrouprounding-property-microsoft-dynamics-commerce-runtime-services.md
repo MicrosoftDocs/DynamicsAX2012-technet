@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxGroupRounding Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Whether or not this code should be rounded at the Tax Group scope.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

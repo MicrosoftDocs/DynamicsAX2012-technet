@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up a warehouse for an external inventory 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Warehouses** form to set up the warehouses that are used in the external inventory system.

@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Revalue foreign currency amounts for bank transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can revalue foreign currency amounts for bank transactions, and you can create a report to view the bank transactions that have adjustments for foreign currency revaluations.

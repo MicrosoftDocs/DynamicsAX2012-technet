@@ -17,6 +17,9 @@ ms.search.region: Global
 # About warehouses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you have several warehouses, you can divide the total on-hand inventory among these warehouses. All item transactions can be marked with warehouses, which follow the transactions throughout the system.

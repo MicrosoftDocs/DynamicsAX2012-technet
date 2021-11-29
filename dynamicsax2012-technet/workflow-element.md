@@ -13,6 +13,9 @@ f1_keywords:
 
 # workflow element
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A modeling element used to define workflow processes.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesUnitOfMeasure Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the sales unit of measure.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

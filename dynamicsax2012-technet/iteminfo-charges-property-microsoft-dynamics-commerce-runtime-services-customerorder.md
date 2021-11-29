@@ -17,6 +17,9 @@ dev_langs:
 
 # Charges Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the the collection of line level charges for mixed delivery.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

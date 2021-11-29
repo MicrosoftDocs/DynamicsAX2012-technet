@@ -17,6 +17,9 @@ dev_langs:
 
 # IncorrectPaymentAmountSign Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that payment sign does not match balance sign.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

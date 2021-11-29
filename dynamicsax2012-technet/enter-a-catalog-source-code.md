@@ -19,6 +19,9 @@ ms.search.region: Global
 # Enter a catalog source code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 If a customer orders from a call center catalog that includes a source code, you should enter the source code in the sales order as described in this topic. The sales that are associated with that catalog can then be tracked and analyzed.

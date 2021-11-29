@@ -17,6 +17,9 @@ dev_langs:
 
 # IDirPartyAddressRelationshipMappingV1 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The IDirPartyAddressRelationshipMappingV1 interface .
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

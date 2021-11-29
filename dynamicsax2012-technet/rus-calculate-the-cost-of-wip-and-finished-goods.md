@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Calculate the cost of WIP and finished goods 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **End** form to calculate the cost of work in progress (WIP) and finished goods. The calculation of the production order cost is distributed between WIP, finished goods, defective products, and by-products. For more information, see [(RUS) Calculating costs for WIP and finished goods](rus-calculating-costs-for-wip-and-finished-goods.md).

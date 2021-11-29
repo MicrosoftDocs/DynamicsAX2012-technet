@@ -17,6 +17,9 @@ dev_langs:
 
 # DemoService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Service for demo purposes only.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

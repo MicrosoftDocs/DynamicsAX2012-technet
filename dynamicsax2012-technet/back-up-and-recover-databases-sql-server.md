@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Back up and recover databases (SQL Server) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how back up or recover a Microsoft Dynamics AX business database or model store database, using the backup and recovery tools for Microsoft SQL Server. This topic provides links to instructions that describe how to use SQL Server Management Studio to back up and recover a Microsoft Dynamics AX database. Before you begin a backup, we recommend that you read [Plan backup and recovery](plan-backup-and-recovery.md).

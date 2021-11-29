@@ -17,6 +17,9 @@ dev_langs:
 
 # CancellationChargePercentage Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default cancellation charge percentage for a Customer Order.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

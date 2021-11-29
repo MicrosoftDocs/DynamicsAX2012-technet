@@ -17,6 +17,9 @@ dev_langs:
 
 # GetKeyPattern Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns a prefix of the caching key common to instances of this class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

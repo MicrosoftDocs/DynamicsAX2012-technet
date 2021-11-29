@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure Analysis Services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft SQL Server Analysis Services is a server-based solution that provides online analytical processing (OLAP) functionality. Analytical reports help users examine business data and identify trends that they might not otherwise discover when viewing data on traditional reports.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with Analysis Services Projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To work with analysis cubes in SQL Server Business Intelligence Development Studio (BIDS), you must generate an Analysis Services project by using one or more cube perspectives in Microsoft Dynamics AX.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # intercompany vendor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A legal entity that assumes the role of a vendor that is authorized to supply products to one or more legal entities that are part of the same organization that consolidates the accounts of all of the legal entities.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up exchange rates for a currency transaction 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Currency revaluation accounts** form to set up the loss or gain calculation for currency exchange. For more information, see [(RUS) Currency revaluation accounts (modified form)](https://technet.microsoft.com/library/jj852149\(v=ax.60\)).

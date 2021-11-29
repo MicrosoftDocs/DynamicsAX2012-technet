@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ICustomerOrderTransaction Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ICustomerOrderTransaction](icustomerordertransaction-interface-microsoft-dynamics-retail-pos-contracts-dataentity.md) type exposes the following members.
 
 ## Methods

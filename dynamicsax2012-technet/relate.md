@@ -13,6 +13,9 @@ f1_keywords:
 
 # relate
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To collect objects in a set.
 
 ## See also

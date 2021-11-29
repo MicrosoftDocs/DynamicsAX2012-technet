@@ -31,6 +31,9 @@ ms.search.region: Global
 # Define request for quotation replies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use these procedures to specify the information that you want to receive from vendors when they reply to (bid on) a request for quotation (RFQ). The fields that you select in the **Default request for quotation reply fields** form are printed on the RFQ reply sheet that you send to vendors. These fields are also included on the RFQ return document that you can send to vendors if, for example, you want to negotiate prices or delivery times.

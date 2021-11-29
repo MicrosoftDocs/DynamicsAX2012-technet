@@ -13,6 +13,9 @@ f1_keywords:
 
 # heijunka
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A method of production scheduling that levels the production flow and that places the production schedule in a visible location so that any production issues can be seen at an early stage.
 
 ## See also

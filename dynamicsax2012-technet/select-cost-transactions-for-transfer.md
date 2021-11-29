@@ -17,6 +17,9 @@ ms.search.region: Global
 # Select cost transactions for transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 1.  Click **Project management and accounting** \> **Periodic** \> **Time and material** \> **Post costs**.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmployeeIdFromLogOnKey Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the employee identifier from the specified logon key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

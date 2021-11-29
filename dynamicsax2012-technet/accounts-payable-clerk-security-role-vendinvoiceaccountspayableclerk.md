@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Accounts payable clerk security role (VendInvoiceAccountsPayableClerk) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Accounts payable clerk security role represents a user who documents vendor invoice events and responds to vendor inquiries.

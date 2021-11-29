@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductSearchResultExtensions Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductSearchResultExtensions](productsearchresultextensions-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

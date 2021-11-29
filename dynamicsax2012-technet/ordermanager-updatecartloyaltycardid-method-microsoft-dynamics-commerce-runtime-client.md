@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCartLoyaltyCardId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the loyalty card number in the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

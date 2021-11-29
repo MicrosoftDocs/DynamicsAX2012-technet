@@ -14,6 +14,9 @@ f1_keywords:
 # Workflow for Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides workflow functionality that you can use to ensure that documents are processed and approved in a consistent and efficient manner. This article introduces you to the workflow system in Microsoft Dynamics AX and guides you through the process of configuring, extending, and using it.

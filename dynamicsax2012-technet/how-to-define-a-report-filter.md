@@ -14,6 +14,9 @@ f1_keywords:
 # How to: Define a Report Filter 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to define set ranges to filter data on a report. Filters are used to filter or restrict the data that is displayed in a report.

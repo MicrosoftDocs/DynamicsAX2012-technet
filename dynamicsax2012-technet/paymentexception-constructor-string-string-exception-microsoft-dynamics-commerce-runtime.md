@@ -15,6 +15,9 @@ dev_langs:
 
 # PaymentException Constructor (String, String, Exception)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [PaymentException](paymentexception-class-microsoft-dynamics-commerce-runtime.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

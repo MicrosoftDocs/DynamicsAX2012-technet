@@ -17,6 +17,9 @@ dev_langs:
 
 # PostRecallTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called after a transaction is recalled.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

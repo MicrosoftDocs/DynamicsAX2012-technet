@@ -17,6 +17,9 @@ dev_langs:
 
 # IsImmediateCapture Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get or sets whether the transaction is using immediate capture. The default is false for AuthOnly and CaptureOnly. true means we used auth and capture in one operation. This is a special case currently only supported by FDC EMP for debit cards.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

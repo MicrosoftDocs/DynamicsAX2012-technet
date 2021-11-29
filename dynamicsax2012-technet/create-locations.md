@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create locations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this wizard to set up locations for a warehouse. You can select a warehouse and define the locations. You can use the wizard to set up as many locations, as needed.

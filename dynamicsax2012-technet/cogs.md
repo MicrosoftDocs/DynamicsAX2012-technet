@@ -13,6 +13,9 @@ f1_keywords:
 
 # COGS
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting category used to sum the financial consequences of manufacturing products and carrying inventory.
 
 ## See also

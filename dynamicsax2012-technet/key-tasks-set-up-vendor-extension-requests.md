@@ -21,6 +21,9 @@ ms.search.region: Global
 # Key tasks: Set up vendor extension requests 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Employees of your organization might want to work with a vendor who is already doing business with another legal entity in your organization. An employee can submit a request to authorize the vendor to do business with another legal entity in the organization. An employee can also request to add another employee, a sales prospect, or a customer as a vendor.

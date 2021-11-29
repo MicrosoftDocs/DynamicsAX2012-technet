@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshooting Report Definition Issues 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The first step to troubleshooting a report issue is to identify the underlying cause for it. This topic describes common issues that may occur when you are defining a Microsoft Dynamics AX report. For SQL Server Reporting Services report troubleshooting information, see [Troubleshooting Report Problems](https://go.microsoft.com/fwlink/?linkid=200936).

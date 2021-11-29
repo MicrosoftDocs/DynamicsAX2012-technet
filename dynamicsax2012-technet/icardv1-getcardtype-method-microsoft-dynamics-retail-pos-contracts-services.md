@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCardType Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 In the current implementation, this method includes another method that first retrieves the data of all cards available.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

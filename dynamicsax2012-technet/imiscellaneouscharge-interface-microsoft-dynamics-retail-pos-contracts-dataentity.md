@@ -17,6 +17,9 @@ dev_langs:
 
 # IMiscellaneousCharge Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 IBaseLineItem interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

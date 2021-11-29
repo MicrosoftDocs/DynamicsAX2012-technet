@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddressSqlServerDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddressSqlServerDataRequestHandler](addresssqlserverdatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlserver.md) type exposes the following members.
 
 ## Methods

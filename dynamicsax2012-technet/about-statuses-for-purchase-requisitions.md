@@ -15,6 +15,9 @@ ms.search.region: Global
 # About statuses for purchase requisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a purchase requisition, it is assigned a status. Each line that you add to a purchase requisition is also assigned a status. When you submit a purchase requisition to workflow for review, the status of the purchase requisition and the status of each line are updated as the lines move through the purchase requisition process.

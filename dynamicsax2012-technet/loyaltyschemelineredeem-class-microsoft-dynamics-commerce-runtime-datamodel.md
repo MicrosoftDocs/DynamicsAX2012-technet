@@ -17,6 +17,9 @@ dev_langs:
 
 # LoyaltySchemeLineRedeem Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Presents a loyalty scheme line for redeeming reward points.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

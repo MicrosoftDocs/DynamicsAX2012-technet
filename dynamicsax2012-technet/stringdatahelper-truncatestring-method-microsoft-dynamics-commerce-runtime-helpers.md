@@ -17,6 +17,9 @@ dev_langs:
 
 # TruncateString Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Truncate the given string.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # SqliteConnectionStringBuilder Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides a simple way to interpret a connection string.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) View and manually change the status of packing slips for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can change the status of a packing slip indirectly while posting a correction to the packing slip, or you can change the status manually in the **Packing slip journal** form. The status determines which packing slip is included in the **Packing slip registration journal**.

@@ -17,6 +17,9 @@ dev_langs:
 
 # SetReadOnly Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Marks the collection as read-only. Keys cannot be added or modified after this method has been called.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

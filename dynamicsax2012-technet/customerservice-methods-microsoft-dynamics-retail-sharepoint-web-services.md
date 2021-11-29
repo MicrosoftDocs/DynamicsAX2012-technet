@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CustomerService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CustomerService](customerservice-class-microsoft-dynamics-retail-sharepoint-web-services.md) type exposes the following members.
 
 ## Methods

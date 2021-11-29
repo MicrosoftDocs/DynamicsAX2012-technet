@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTaxCodes Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves a list of TaxCodes for the given sale line item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services](microsoft-dynamics-commerce-runtime-services-namespace.md)  

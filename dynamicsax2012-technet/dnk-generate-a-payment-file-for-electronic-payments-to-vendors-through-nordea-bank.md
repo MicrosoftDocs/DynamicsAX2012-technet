@@ -14,6 +14,9 @@ ms.search.region: Denmark
 # (DNK) Generate a payment file for electronic payments to vendors through Nordea Bank 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Generate payments** form to generate a payment file in the **Nordea Unitel for PC (DK)** file format. You can export vendor payment details to this file. One payment file can have a maximum of 1,200 payments. If there are more than 1,200 payments, an additional file is generated for the remaining payments. The name of the additional file is the same as the initial file, but it is suffixed with “\_n” where “n” is the number of the iteration. An empty file is generated when there are no payments.

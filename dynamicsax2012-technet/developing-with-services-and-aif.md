@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Developing with Services and AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX supports integration with the Application Integration Framework (AIF) components using the Microsoft Dynamics AX services programming model. You can customize the document services that are included with Microsoft Dynamics AX, create new custom services, and consume external web services. To support a range of option for customization and programmability, Microsoft Dynamics AX provides the following types of services:

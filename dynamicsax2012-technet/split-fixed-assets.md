@@ -16,6 +16,9 @@ ms.search.region: Global
 # Split fixed assets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 For information about how to split fixed assets, see [Split fixed asset (form)](https://technet.microsoft.com/library/aa554672\(v=ax.60\)).

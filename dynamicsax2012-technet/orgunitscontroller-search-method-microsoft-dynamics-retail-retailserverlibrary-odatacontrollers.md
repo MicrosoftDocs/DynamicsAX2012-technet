@@ -17,6 +17,9 @@ dev_langs:
 
 # Search Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Searches for organization unit by the given search query.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

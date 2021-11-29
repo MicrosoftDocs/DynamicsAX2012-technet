@@ -17,6 +17,9 @@ dev_langs:
 
 # ConflictingCartLineOperation Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that there are conflicting operations on the cart line within a single request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

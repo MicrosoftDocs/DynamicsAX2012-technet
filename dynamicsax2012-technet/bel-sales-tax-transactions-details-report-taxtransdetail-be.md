@@ -14,6 +14,9 @@ f1_keywords:
 # (BEL) Sales tax transactions - details report (TaxTransDetail\_BE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales tax transactions - details** report lists the posted sales tax transactions, grouped by sales tax code and sales tax direction. This report is typically used by compliance managers, accounting managers, clerks, and accountants to inquire into posted sales tax transactions.

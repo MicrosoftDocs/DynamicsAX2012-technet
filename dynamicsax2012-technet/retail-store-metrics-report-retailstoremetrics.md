@@ -15,6 +15,9 @@ f1_keywords:
 # Retail store metrics report (RetailStoreMetrics) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to view the performance of your retail stores by organization unit. The organization unit is based on the default reporting hierarchy. This report includes the sales quantity and amount by store, and the profit margin for each store.

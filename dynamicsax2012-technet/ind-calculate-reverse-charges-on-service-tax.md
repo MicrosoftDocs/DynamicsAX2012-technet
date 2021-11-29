@@ -24,6 +24,9 @@ ms.search.region: India
 # (IND) Calculate reverse charges on service tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to create and post a purchase order that has a reverse charge on the service tax.

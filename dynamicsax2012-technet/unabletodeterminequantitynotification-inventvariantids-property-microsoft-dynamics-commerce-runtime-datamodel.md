@@ -17,6 +17,9 @@ dev_langs:
 
 # InventVariantIds Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the list of inventory variant dimension Ids for the product runtime can not find the quantity.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -21,6 +21,9 @@ ms.search.region: Global
 # About the chart of accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 To track and maintain financial information in an organization, you can set up a chart of accounts, which is a collection of accounts that define a financial framework. To further track the transactions in these accounts, segments, which are called financial dimensions, are added to the main accounts. For example, an expense account might include financial dimensions named Department, Cost center, and Purpose. User-defined rules, which are called advanced rules, dictate how these financial dimensions are attached to the main accounts and other financial dimensions, and how transactions can be entered against an account structure.

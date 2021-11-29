@@ -17,6 +17,9 @@ dev_langs:
 
 # CashDrawerHasAnOpenShift Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 There is a shift open on the cash drawer.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

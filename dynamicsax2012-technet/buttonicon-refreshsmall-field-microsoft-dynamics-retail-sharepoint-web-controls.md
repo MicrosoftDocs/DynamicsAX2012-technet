@@ -17,6 +17,9 @@ dev_langs:
 
 # RefreshSmall Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The refresh small button icon.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

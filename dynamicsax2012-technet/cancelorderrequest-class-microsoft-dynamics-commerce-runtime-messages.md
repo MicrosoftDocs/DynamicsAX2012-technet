@@ -17,6 +17,9 @@ dev_langs:
 
 # CancelOrderRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a cancel order request.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

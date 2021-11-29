@@ -13,6 +13,9 @@ f1_keywords:
 
 # exchange rate adjustment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A modification to a converted monetary amount when the exchange rate between the quotation unit and the base unit change.
 
 ## See also

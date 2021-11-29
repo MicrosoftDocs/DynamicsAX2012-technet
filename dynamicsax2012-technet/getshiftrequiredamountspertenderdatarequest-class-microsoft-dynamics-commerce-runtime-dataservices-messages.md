@@ -17,6 +17,9 @@ dev_langs:
 
 # GetShiftRequiredAmountsPerTenderDataRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The data request to get required shift tender amounts per tender type.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

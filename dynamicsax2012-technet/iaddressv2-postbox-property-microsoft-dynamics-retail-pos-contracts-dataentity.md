@@ -17,6 +17,9 @@ dev_langs:
 
 # PostBox Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 PostBox of Address
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

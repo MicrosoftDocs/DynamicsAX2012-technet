@@ -17,6 +17,9 @@ dev_langs:
 
 # DiscountInfo Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Discount info, for use in transmitting via TS call.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder](microsoft-dynamics-commerce-runtime-services-customerorder-namespace.md)  

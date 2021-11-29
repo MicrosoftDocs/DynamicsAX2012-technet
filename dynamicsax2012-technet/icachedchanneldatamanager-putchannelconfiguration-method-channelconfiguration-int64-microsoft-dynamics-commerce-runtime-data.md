@@ -15,6 +15,9 @@ dev_langs:
 
 # PutChannelConfiguration Method (ChannelConfiguration, Int64)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Caches the channel configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

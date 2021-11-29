@@ -18,6 +18,9 @@ ms.search.region: Brazil
 # (BRA) Process the sale of items to salespersons 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Legal entities that employ salespersons for door-to-door sales can issue a customer fiscal document that has the Imposto sobre Circulação de Mercadorias e Serviços (ICMS) and Imposto sobre Produtos Industrializados (IPI) taxes for items that are delivered outside the establishment.

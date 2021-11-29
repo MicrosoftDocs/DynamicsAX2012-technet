@@ -16,6 +16,9 @@ ms.search.region: Russia
 # (RUS) Set up a journal to post an imported payment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **Cash and bank management parameters** form to set up a journal that you can use to post an imported payment.

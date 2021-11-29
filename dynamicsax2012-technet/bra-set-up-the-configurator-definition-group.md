@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Set up the configurator definition group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create configurator definition groups by specifying tables and fields that are used in file formats for configurator layout groups, or by exporting data with the Configurator export utility. For more information, see [(BRA) About the configurator](bra-about-the-configurator.md)

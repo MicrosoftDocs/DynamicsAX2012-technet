@@ -14,6 +14,9 @@ ms.search.region: Global
 # Remit a promissory note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use a remittance journal to generate a remittance file that you can send to your bank. The file can contain information about drawn promissory notes, redrawn promissory notes, and invoices that have been posted.

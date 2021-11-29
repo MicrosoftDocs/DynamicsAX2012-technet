@@ -17,6 +17,9 @@ dev_langs:
 
 # RetailDiscountLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a retail discount line configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

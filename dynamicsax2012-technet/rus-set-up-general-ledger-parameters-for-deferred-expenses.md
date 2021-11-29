@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up general ledger parameters for deferred expenses 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Although you can generate deferred expenses manually in the deferrals module, you can also generate these expenses automatically from other system modules when, for example, you dispose of an asset at a loss, or calculate deferred expenses over norm. Deferral write-off is performed automatically during each period based on an amount that is defined by the write-off period and the expense amount. You can calculate deferred expenses for an infinite number of models, using both simultaneous and independent deferrals calculations for tax, regular, and business accounts.

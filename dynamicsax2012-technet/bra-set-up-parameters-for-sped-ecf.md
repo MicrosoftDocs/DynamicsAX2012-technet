@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Set up parameters for SPED ECF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to set up the required information related to SPED – ECF (Sistema Publico de Escrituração Digital – Escrituração Contábil Fiscal).

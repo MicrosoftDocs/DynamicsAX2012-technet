@@ -17,6 +17,9 @@ dev_langs:
 
 # CalcTotals Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates all total sum in the transaction
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductDimensionValueDictionary Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an association of a dimension's value and the set of variants which have this value.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

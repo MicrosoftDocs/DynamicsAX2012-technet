@@ -14,6 +14,9 @@ f1_keywords:
 
 # auto-report
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A type of report that is automatically generated from the data that is displayed on a form.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetHashCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides [Object.GetHashCode()](https://technet.microsoft.com/library/zdee4b3y\(v=ax.60\)).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing](microsoft-dynamics-retail-ecommerce-sdk-core-publishing-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # Price Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The price.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up a forecast model 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A forecast model names and identifies a specific forecast. You must create a forecast model before you can create the actual forecast lines.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up the picking workbench 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to configure a picking workbench and workbench profiles. You can use a picking workbench to organize paper-based picking operations for a warehouse. The picking workbench is where the picking and packing of items is arranged, which helps streamline the picking process. You can also enable boxing logic if you want Microsoft Dynamics AX to suggest an appropriate box size for the items to be packed in.

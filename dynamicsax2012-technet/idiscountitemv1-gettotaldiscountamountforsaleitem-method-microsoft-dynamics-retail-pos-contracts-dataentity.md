@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTotalDiscountAmountForSaleItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 For a given item price and quantity, find out what the total discounted amount would be
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

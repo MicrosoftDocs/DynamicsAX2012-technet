@@ -15,6 +15,9 @@ ms.search.region: Global
 # About compensation plans 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You use compensation management to control the delivery of base pay and awards. You control an employee's fixed base pay and merit increases through fixed compensation plans. You control the payment of incentive pay, such as bonus payments, performance awards, stock options, and grants, and also one-time awards, through variable compensation plans.

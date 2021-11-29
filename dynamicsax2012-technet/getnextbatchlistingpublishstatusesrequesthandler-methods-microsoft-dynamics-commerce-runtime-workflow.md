@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetNextBatchListingPublishStatusesRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetNextBatchListingPublishStatusesRequestHandler](getnextbatchlistingpublishstatusesrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md) type exposes the following members.
 
 ## Methods

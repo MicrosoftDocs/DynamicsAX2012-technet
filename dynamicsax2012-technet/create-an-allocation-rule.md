@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create an allocation rule 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to set up ledger allocation rules. Allocation is the distribution of amounts to one or more accounts or account and dimension combinations.

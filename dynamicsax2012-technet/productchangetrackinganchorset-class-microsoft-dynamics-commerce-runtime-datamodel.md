@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductChangeTrackingAnchorSet Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the product set of anchors per data source.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # DemoController Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Demo controller.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel](microsoft-dynamics-retail-sharepoint-web-services-objectmodel-namespace.md)  

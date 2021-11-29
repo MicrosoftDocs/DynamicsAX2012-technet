@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Post an import order and verify the AA incentive scheme tax and balance tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to verify the details about the amount of incentive scheme tax and balance tax for a license that was issued for the Advance Authorization (AA) incentive scheme, and to correct the amounts if they do not match the vendor invoice. When you finish verifying and correcting amounts, you can post the import order.

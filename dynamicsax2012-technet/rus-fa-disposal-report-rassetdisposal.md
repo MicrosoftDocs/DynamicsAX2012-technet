@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) FA disposal report (RAssetDisposal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The FA disposal report displays information about the disposal of fixed assets. The data on this report can include the disposal date, disposal currency, disposal amount, disposal cost, and the remaining cost after a fixed asset is disposed of. Accountants generate this report periodically to review the book value of fixed assets that are sold or written off.

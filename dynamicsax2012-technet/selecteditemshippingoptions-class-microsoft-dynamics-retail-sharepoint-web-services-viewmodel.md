@@ -17,6 +17,9 @@ dev_langs:
 
 # SelectedItemShippingOptions Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a the selected shipping options for an line item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AXDataBindAttributes Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AXDataBindAttributes](axdatabindattributes-class-microsoft-dynamics-retail-sharepoint-web-controls.md) type exposes the following members.
 
 ## Fields

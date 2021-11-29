@@ -14,6 +14,9 @@ ms.search.region: Latvia
 # (LVA) Set up an account for a person or company to receive payments 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create counteragent or receiver records that are not entered or invoiced in the **Customers** or **Vendors** form. The information in these records can be used in cash orders and payments.

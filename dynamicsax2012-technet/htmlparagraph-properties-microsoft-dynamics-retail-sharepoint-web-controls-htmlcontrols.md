@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HtmlParagraph Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HtmlParagraph](htmlparagraph-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPromotionsForCart Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets promotions for items in the given cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

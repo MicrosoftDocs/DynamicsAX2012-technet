@@ -17,6 +17,9 @@ dev_langs:
 
 # GetOnlineFarmServersWithTimerInstance Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all farm servers that have a timer service online. This is pretty much any server that our code possibly could run on.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

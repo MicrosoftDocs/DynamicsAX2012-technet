@@ -17,6 +17,9 @@ dev_langs:
 
 # EFT Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 EFT service
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

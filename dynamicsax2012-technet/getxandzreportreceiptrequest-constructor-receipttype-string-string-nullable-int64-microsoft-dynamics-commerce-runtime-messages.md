@@ -15,6 +15,9 @@ dev_langs:
 
 # GetXAndZReportReceiptRequest Constructor (ReceiptType, String, String, Nullable(Int64))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Messages (in Microsoft.Dynamics.Commerce.Runtime.Messages.dll)
 

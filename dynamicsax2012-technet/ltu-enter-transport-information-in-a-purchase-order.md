@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Enter transport information in a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Using the **Purchase order** form, you can enter transport information to be printed on packing slips and invoices.

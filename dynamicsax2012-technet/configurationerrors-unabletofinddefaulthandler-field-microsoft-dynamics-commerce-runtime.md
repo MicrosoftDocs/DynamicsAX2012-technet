@@ -17,6 +17,9 @@ dev_langs:
 
 # UnableToFindDefaultHandler Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that runtime couldn't find any default notification handler.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

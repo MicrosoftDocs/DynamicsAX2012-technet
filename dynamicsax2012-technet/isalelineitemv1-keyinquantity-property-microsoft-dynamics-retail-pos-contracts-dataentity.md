@@ -17,6 +17,9 @@ dev_langs:
 
 # KeyInQuantity Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Rules for keying in quantities for the item
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

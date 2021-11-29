@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSupportedCardTypesRequestHandler Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Retrieves list of supported credit cards associated with the channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

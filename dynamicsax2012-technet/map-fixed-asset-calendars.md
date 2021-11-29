@@ -18,6 +18,9 @@ f1_keywords:
 # Map fixed asset calendars 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you upgrade to Microsoft Dynamics AX 2012, you must use the **Upgrade fixed asset calendars** form to upgrade existing fixed asset calendars to fiscal calendars that can be shared by multiple legal entities.

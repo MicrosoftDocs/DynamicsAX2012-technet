@@ -21,6 +21,9 @@ ms.search.region: Global
 # Trace an item or raw material in inventory, production, and sales 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to trace an item or raw material upstream or downstream in the supply chain. Depending on the item or raw material and how your organization sets up its products, you can trace a combination of the item number and tracking dimension. You can also add more trace criteria, such as storage dimensions and a specific period of time.

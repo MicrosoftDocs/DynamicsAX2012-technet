@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up interest rates for an interest code 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Interest codes contain settings that determine when interest is charged and how it is calculated on overdue accounts. You can set up a single interest code and apply it to multiple customer posting profiles, billing codes, or to specific invoice lines. When the interest code details are changed, all features that use the code will automatically implement the changes on new transactions. For each interest code, you can set up two types of rates:

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ITransactionService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ITransactionService](itransactionservice-interface-microsoft-dynamics-retail-transactionservices-clientproxy.md) type exposes the following members.
 
 ## Methods

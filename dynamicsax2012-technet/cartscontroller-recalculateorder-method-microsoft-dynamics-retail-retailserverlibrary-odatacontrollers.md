@@ -17,6 +17,9 @@ dev_langs:
 
 # RecalculateOrder Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Recalculates a customer order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  

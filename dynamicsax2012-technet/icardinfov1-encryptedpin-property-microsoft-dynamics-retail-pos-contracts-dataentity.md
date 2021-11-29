@@ -17,6 +17,9 @@ dev_langs:
 
 # EncryptedPIN Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The encrypted card pin number that is collected from the hardware device.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # (RUS) Deferrals listing report (RDeferralsListing) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 The Deferrals listing report displays a list of deferrals with their current statuses, such as **Scheduled**, **In process**, and **Closed**. The report also displays the initial amount and the remaining amount for each deferral. Accountants generate and print this report to analyze the value of current deferral charges.

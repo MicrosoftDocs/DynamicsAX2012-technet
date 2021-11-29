@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Process status messages for data exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Use the following procedure to set up a batch job to process status messages from Commerce Data Exchange.

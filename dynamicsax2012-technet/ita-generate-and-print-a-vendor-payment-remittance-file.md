@@ -18,6 +18,9 @@ ms.search.region: Italy
 # (ITA) Generate and print a vendor payment remittance file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you generate a vendor payment remittance file, the default value date is displayed in the **Recipient value date** column in the **Bank remittance** report. If the default value date is blank, the document date is used.

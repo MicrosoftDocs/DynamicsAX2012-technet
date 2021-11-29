@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Compliance and internal controls reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following reports are available in the **Compliance and internal controls** module of Microsoft Dynamics AX:

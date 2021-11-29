@@ -17,6 +17,9 @@ dev_langs:
 
 # ReadEntity(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Reads an entity from the database.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

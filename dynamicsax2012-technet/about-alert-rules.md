@@ -15,6 +15,9 @@ ms.search.region: Global
 # About alert rules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you set up an alert rule, decide when or in what situations you want to receive alerts. When you know which event you want to be notified about, you can locate the form where the data that causes the event is displayed in Microsoft Dynamics AX. The event can be a date that arrives or a change that occurs. Therefore, you must find the Microsoft Dynamics AX form where this date is specified, or where the field that changes or the new record is displayed. When you have this information, you can create your alert rule.

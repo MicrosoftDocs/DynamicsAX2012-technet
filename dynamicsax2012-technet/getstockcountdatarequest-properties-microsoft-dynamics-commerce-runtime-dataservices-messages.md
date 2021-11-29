@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetStockCountDataRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetStockCountDataRequest](getstockcountdatarequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages.md) type exposes the following members.
 
 ## Properties

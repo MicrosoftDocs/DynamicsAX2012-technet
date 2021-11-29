@@ -13,6 +13,9 @@ f1_keywords:
 
 # shelf life
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The period of time between an item's manufacture date and its expiration date.
 
 ## See also

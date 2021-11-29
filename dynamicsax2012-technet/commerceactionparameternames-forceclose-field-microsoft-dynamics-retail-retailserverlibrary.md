@@ -17,6 +17,9 @@ dev_langs:
 
 # ForceClose Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The force close.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # AddLoyaltyPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Called from the pay gift card operation after a check to guarantee that the transaction is the IRetailTransaction type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

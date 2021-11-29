@@ -17,6 +17,9 @@ dev_langs:
 
 # DeliveryMethod Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 View model for the delivery method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

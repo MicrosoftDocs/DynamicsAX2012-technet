@@ -17,6 +17,9 @@ dev_langs:
 
 # RegisterPunchInOut Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Call this method to register clock in/ out for the employee.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

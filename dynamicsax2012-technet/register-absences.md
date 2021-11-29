@@ -14,6 +14,9 @@ ms.search.region: Global
 # Register absences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can record your work absences in multiple ways. You can register past absences and you can request future absences. For both future and past absences, you can create open-ended absence transactions for employees whose working time is measured in hours. An open-ended absence transaction does not have an ending date. If you are an absence administrator, you also can register absences for the workers whom you are the absence administrator.

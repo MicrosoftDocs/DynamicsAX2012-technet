@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Account analysis by dimensions (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays the dimension values for the account balances of selected accounts during a specified period.

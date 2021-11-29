@@ -17,6 +17,9 @@ dev_langs:
 
 # PreCustomerSet Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered prior to setting a customer to the transaction after it has been set
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

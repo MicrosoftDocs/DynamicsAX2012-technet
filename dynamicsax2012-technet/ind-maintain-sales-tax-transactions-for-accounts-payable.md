@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Maintain sales tax transactions for Accounts payable 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The following topics provide information about calculating sales tax in purchase transactions and attaching sales tax information to journals.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure jobs and subjobs in Retail Scheduler 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In Retail, scheduler jobs are the mechanism for distributing data to and from locations. Each job consists of one or more subjobs. This topic explains how to create jobs and subjobs to distribute retail data.

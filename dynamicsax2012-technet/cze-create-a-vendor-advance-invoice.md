@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) Create a vendor advance invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 An advance invoice is a document that you can create for a vendor. The advance invoice shows the amount that must be prepaid on a purchase order. The prepayment must be made before the order is processed. The advance invoice is not an accounting document or a tax document, but is used only as the basis for prepayments.

@@ -14,6 +14,9 @@ ms.search.region: Mexico
 # (MEX) Generate a monthly report of electronic invoices 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the EInvoice monthly report to generate a report of all the electronic and paper invoices that are issued during a month. You can use the Sistema de comprobantes fiscales digitales CFD Plus (SICOFI) application website to submit the monthly report to the Servicio de Administración Tributaria (SAT) in .txt format. The report is due on or before the fifth day of the following month.

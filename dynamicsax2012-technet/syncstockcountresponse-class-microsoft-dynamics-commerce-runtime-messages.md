@@ -17,6 +17,9 @@ dev_langs:
 
 # SyncStockCountResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Response to SyncStockCount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

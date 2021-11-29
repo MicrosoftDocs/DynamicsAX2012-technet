@@ -17,6 +17,9 @@ dev_langs:
 
 # Dispatcher Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets instance of workflow dispatcher.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

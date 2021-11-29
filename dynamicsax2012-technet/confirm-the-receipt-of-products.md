@@ -17,6 +17,9 @@ ms.search.region: Global
 # Confirm the receipt of products 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you order a product such as a new office desk, and the purchase is then confirmed, a product receipt that has not yet been confirmed becomes available on the **Unconfirmed product receipts** page on Enterprise Portal for Microsoft Dynamics AX. The product receipt indicates the expected date of delivery of the ordered product. When the product arrives, you must confirm the receipt of the product. You need to do this to indicate that you accept the delivery. You do this on the **Unconfirmed product receipts** page.

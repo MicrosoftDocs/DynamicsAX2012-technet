@@ -17,6 +17,9 @@ dev_langs:
 
 # GetHashCode Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns a hash code for this instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

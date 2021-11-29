@@ -17,6 +17,9 @@ dev_langs:
 
 # PersistentDataStorePolicy Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the policy associated with a persistent data store, such as a database or file system.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

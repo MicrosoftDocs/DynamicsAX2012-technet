@@ -17,6 +17,9 @@ dev_langs:
 
 # CookieNameSuffixPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents name of the configuration app settings key which stores the name of the suffix that is applied to each storefront specific cookie name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

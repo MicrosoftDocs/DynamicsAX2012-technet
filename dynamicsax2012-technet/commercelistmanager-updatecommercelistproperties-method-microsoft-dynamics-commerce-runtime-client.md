@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateCommerceListProperties Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Update the commerce list.
 
 This currently applies to the update of a commerce list entity on the online channel.

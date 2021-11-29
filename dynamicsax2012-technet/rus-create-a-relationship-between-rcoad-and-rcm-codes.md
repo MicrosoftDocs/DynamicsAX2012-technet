@@ -21,6 +21,9 @@ ms.search.region: Russia
 # (RUS) Create a relationship between RCOAD and RCM codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 If you are required to use the Russian Classification of Municipalities (RCM) code instead of the Russian Classification of Objects of Administrative Division (RCOAD) code, this topic explains how you can to create a relationship between RCOAD and RCM codes to replace the codes. You must specify an RCM effective date to automatically replace the RCOAD codes with the RCM codes.

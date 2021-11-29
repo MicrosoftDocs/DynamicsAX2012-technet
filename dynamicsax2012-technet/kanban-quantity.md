@@ -13,6 +13,9 @@ f1_keywords:
 
 # kanban quantity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The numeric parameter in a kanban rule that controls the number of kanbans to create when the rules product requirement condition is met and the rule is evaluated.
 
 ## See also

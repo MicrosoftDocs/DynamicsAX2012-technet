@@ -14,6 +14,9 @@ f1_keywords:
 # (CHE) DebitDirect (CH) report (CustOutPaymOrderCH\_DebitDirect) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **DebitDirect (CH)** report prints a payment order for customer payments when you post a payment journal. This report is typically used by accounts receivable payments clerks to maintain customer payments.

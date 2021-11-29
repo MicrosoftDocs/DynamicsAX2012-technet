@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IUtilityV3 Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IUtilityV3](iutilityv3-interface-microsoft-dynamics-retail-pos-contracts-businesslogic.md) type exposes the following members.
 
 ## Methods

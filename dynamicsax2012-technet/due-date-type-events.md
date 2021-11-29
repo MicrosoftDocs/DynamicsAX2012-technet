@@ -14,6 +14,9 @@ ms.search.region: Global
 # Due date-type events 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Due date events are part of the rules that trigger alerts when a due date changes. The following table explains the options that are available for due date events.

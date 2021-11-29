@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Manage the fiscal books integration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The fiscal books integration allows users to generate SPED Fiscal obligations and Sped EFD contribution for transactions originating in Microsoft Dynamics AX 2009 or other software packages. After the integration is complete, all fiscal documents are transferred automatically into Microsoft Dynamics AX 2012 R2. The integration functionality is included in the hotfix that is available in Knowledge base article 2850595 and Knowledge base article 2839295.

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create or update a new vendor request 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Enterprise Portal for Microsoft Dynamics AX, employees can submit new vendor requests to obtain approval to do business with a vendor who is not already on the list of approved vendors.

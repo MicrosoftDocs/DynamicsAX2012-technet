@@ -16,6 +16,9 @@ ms.search.region: Global
 # View project transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view a list of pending project transactions and posted project transactions. For posted transactions, you can view transaction details or the general ledger posting for the transaction. You can also view invoice information for posted project transactions.

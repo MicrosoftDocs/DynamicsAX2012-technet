@@ -27,6 +27,9 @@ ms.search.region: France
 # (FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The mandat de paiement is used by the director to notify the accountant that the organization is obligated to pay a specific amount to another entity, and to authorize the accountant to pay that amount. The director or the accountant may delegate a representative to perform the task, but the responsibility for each task remains with the director or the accountant.

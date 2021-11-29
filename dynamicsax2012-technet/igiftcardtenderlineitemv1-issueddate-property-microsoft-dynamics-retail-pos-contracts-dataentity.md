@@ -17,6 +17,9 @@ dev_langs:
 
 # IssuedDate Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The date when the gift certificate was issued.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

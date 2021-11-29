@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Generate the GIA ST tax file 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to generate a Guia de Informação e Apuração Substituição Tributária (GIA ST) text file by using the **Booking period** list page.

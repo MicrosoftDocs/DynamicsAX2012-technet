@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetChannelCurrencyServiceRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetChannelCurrencyServiceRequest](getchannelcurrencyservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

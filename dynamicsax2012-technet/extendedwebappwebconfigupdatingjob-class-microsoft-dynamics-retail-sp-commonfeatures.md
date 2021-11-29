@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtendedWebAppWebConfigUpdatingJob Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Job that installs web.config file changes in the extended app. Extended Web app's web.config does not seem to be supported by the "normal" web.config-updating infrastructure, hence we do this directly via editing the xml.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

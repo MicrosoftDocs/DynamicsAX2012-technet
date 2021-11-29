@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveStockCountJournalTransactionServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 SaveStockCountJournalTransactionRequest is the request class to save stockcount journal transactions.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

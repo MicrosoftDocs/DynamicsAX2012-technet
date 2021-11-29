@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Prepare currencies for upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In releases previous to Microsoft Dynamics AX 2012, you could set up currencies for each company. In Microsoft Dynamics AX 2012, the currencies that you set up are shared by the legal entities that are set up in the **Legal entities** form, so the currencies can be used by any of those legal entities.

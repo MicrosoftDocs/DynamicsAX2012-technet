@@ -13,6 +13,9 @@ f1_keywords:
 
 # participant
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A party that contributes to a process or assumes a role in a relationship.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Poland
 # (POL) Set up parameters for an internal invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Polish Fiscal Act of Goods and Services requires that all companies generate and submit internal invoices for EU purchases.

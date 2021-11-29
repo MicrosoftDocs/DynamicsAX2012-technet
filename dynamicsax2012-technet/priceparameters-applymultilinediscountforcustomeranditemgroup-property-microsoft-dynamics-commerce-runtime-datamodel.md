@@ -17,6 +17,9 @@ dev_langs:
 
 # ApplyMultilineDiscountForCustomerAndItemGroup Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether multiple line discount trade agreement should apply for combination of customer and item group.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

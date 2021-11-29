@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IExtendedControllerMetadata Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IExtendedControllerMetadata](iextendedcontrollermetadata-interface-microsoft-dynamics-retail-retailserverlibrary.md) type exposes the following members.
 
 ## Properties

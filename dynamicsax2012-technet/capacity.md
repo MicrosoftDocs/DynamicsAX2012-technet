@@ -13,6 +13,9 @@ f1_keywords:
 
 # capacity
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The actual or potential ability of a resource to perform an activity or to produce output in a specified time period.
 
 ## See also

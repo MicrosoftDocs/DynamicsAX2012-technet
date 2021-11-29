@@ -17,6 +17,9 @@ dev_langs:
 
 # PreReturnItem Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before an item is returned.
 
 The return operation only sets the till to a "return state". It is the item sale operation that really returns the item (sells it with a negative quantity). Therefore, programming the "return triggers" only affects whether the till can enter the state when an item can be returned.

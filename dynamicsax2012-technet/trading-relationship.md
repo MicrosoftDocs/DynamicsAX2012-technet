@@ -13,6 +13,9 @@ f1_keywords:
 
 # trading relationship
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A relationship that is formed when a buying party and a selling party enter into an agreement.
 
 ## See also

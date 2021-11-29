@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Modify Reporting Services configuration files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Complete the following procedures to modify the configuration files that are used by the new instance of Microsoft SQL Server Reporting Services.

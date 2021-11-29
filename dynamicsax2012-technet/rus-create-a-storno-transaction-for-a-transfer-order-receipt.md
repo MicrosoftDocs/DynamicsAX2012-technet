@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) Create a storno transaction for a transfer order receipt 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create and post a transfer order receipt and reverse the entry for the posted receipt transaction.

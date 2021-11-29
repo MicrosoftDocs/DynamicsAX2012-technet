@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # StringDataHelper Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [StringDataHelper](stringdatahelper-class-microsoft-dynamics-commerce-runtime-helpers.md) type exposes the following members.
 
 ## Methods

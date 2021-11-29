@@ -17,6 +17,9 @@ dev_langs:
 
 # ReleaseItems Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Release items.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

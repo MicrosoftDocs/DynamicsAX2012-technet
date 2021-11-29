@@ -1,6 +1,9 @@
 ---
 # required metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 title: Deploy AX 2012 R3 on Azure by using Lifecycle Services (LCS)
 description: This topic provides information about how use Lifecycle Services (LCS) to deploy Microsoft Dynamics AX 2012 R3.  
 author: kfend
@@ -13,17 +16,35 @@ ms.technology:
 
 # optional metadata
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 # ms.search.form: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 # ROBOTS: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 audience: Developer, IT Pro
 # ms.devlang: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.reviewer: sericks
 ms.search.scope: AX 2012
 # ms.tgt_pltfrm: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.custom: 18231
 ms.assetid: 18a1ba1e-5c75-4cff-95f7-ec0beef0a28e
 ms.search.region: Global
 # ms.search.industry: 
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 ms.author: kfend
 ms.search.validFrom: 
 ms.dyn365.ops.version: 2012
@@ -31,6 +52,9 @@ ms.dyn365.ops.version: 2012
 ---
 
 # Deploy AX 2012 R3 on Azure by using Lifecycle Services (LCS)
+
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
 
 Azure is an open and flexible cloud platform that enables you to quickly build, deploy, and manage applications across a global network of datacenters that are managed by Microsoft. Azure enables *cloud computing*. Cloud computing is the delivery of computing capabilities as a service. Cloud computing makes it easy to access IT resources such as computers, networking, and storage. As with any utility, you generally only pay for what you use with cloud computing. By using cloud services, you can harness the power of massive datacenters without having to build, manage, or maintain costly, complex IT building blocks. With the cloud, much of the complexity of IT is abstracted away, letting you focus on the infrastructure, data, and application development that really matter to your business. You can deploy AX 2012 R3 on Azure. When you do, you may realize the following benefits:
 

@@ -21,6 +21,9 @@ ms.search.region: Global
 # About service agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Service agreements let you define the resources that are used in a typical service visit and how those resources are invoiced to the customer.

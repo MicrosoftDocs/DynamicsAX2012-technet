@@ -13,6 +13,9 @@ f1_keywords:
 
 # buyer's push
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process where products are purchased by a centralized purchasing department and then distributed to stores.
 
 ## See also

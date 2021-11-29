@@ -22,6 +22,9 @@ ms.search.region: USA
 # Earnings and the earnings generation process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic answers some questions you might have about earnings and generating earnings.
 
 This topic describes functionality that is available only if the **Payroll - USA** configuration key is selected.

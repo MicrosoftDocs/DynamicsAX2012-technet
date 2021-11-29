@@ -27,6 +27,9 @@ ms.search.region: Global
 # Set up vendor rebate agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A business can set up an agreement with one of its vendors to specify that the vendor provides a rebate for purchases. This topic describes how to create a vendor rebate agreement to store details of the rebate offer.

@@ -13,6 +13,9 @@ f1_keywords:
 
 # work item queue assignment expression
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A statement that conditionally assigns work items to specific work item queues.
 
 ## See also

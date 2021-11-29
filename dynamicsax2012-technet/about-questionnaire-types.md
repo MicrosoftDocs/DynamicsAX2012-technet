@@ -15,6 +15,9 @@ ms.search.region: Global
 # About questionnaire types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Questionnaire types are required and must be assigned when you create a questionnaire. You can use them to manage and classify questionnaires more easily. For more information, see [Using questionnaires](using-questionnaires.md).

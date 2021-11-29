@@ -17,6 +17,9 @@ dev_langs:
 
 # SaveProductData Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates or updates the product data from the specified XML document.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

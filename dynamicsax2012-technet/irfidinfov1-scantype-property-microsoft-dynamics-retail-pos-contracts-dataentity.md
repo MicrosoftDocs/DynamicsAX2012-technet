@@ -17,6 +17,9 @@ dev_langs:
 
 # ScanType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicate whether the RFID tag was found in the database.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

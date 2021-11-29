@@ -17,6 +17,9 @@ dev_langs:
 
 # WorkflowMappings Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets workflow mappings collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

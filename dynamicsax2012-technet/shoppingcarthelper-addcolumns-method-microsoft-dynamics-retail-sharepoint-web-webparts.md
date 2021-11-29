@@ -17,6 +17,9 @@ dev_langs:
 
 # AddColumns Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Parses the JSON formatted columns definition and add the specified columns to the shopping cart.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

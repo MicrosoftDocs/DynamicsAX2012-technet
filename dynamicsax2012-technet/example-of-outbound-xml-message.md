@@ -14,6 +14,9 @@ dev_langs:
 # Example of Outbound XML Message 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When Application Integration Framework (AIF) sends a document out of Microsoft Dynamics AX, the result can be an XML message that is transferred by using the outbound integration port. For example, when you use the file system adapter on an outbound integration port to send an AxdLedgerJournal document, the system creates an XML file in the outbound directory that you created. Depending on the fields that you have enabled for the document on the outbound port, the final XML message could resemble the following example.

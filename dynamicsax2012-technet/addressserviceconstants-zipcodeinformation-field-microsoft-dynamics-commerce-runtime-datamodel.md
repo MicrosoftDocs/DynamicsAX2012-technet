@@ -18,6 +18,9 @@ dev_langs:
 
 # ZipCodeInformation Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The ZIP code information field name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

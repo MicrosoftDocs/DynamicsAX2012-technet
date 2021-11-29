@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerAccount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the customer account number for customer-specific prices. Optional.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

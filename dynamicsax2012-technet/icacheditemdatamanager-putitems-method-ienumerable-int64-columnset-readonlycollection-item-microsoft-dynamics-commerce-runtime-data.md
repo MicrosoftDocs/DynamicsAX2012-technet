@@ -15,6 +15,9 @@ dev_langs:
 
 # PutItems Method (IEnumerable(Int64), ColumnSet, ReadOnlyCollection(Item))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stores the items available to the current channel by their product identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up product sequences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create product sequences that you can assign to items. A sequence is a characteristic of an item that is used to schedule production. You can define values for a sequence that specify the required order in which jobs are scheduled during production. For example, you can create a sequence for producing types of paints. You can then create sequence values for different types of paints, such as latex paint and enamel paint. If the latex paint is scheduled to be produced before the enamel paint, you can assign a lower rank (0) to the latex paint and assign a higher rank (1) to the enamel paint.

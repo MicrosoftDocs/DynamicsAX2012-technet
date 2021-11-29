@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Planning for reporting in Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Before you implement the reporting features of Microsoft Dynamics AX, there are several things you must consider. This article describes the things you must consider and the decisions you must make at each step in the planning process.

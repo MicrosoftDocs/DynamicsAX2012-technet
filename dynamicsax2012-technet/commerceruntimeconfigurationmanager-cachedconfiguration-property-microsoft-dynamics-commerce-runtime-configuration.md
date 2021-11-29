@@ -17,6 +17,9 @@ dev_langs:
 
 # CachedConfiguration Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the cached configuration object.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

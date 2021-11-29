@@ -17,6 +17,9 @@ dev_langs:
 
 # MarkProcessedRFIDs Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Associates a transaction with scanned items that are sent to retail POS in the GetUnProcessedRFID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

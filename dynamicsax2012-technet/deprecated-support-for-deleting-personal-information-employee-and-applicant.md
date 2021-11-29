@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Support for deleting personal information (employee and applicant) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, the Delete personal information feature provides a way to delete information that is related to employees and applicants, such as the name, Social Security Number, visa information, address, and education.

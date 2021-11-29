@@ -15,6 +15,9 @@ dev_langs:
 
 # GetShipments Method (IEnumerable(String))
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets order shipment information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

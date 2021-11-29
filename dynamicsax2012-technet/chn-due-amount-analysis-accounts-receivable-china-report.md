@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Due amount analysis Accounts receivable (China) (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays the amounts due from a customer, any prepayments that the customer made, and the customer’s credit limit as of a specified date. You can use this information to analyze the customer’s amount due status.

@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionIdLength Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The length of transaction Id.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

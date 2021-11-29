@@ -16,6 +16,9 @@ ms.search.region: Global
 # View or unlock gift cards 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 To prevent gift cards balances from being overdrawn, gift cards are locked until each transaction is posted. This topic explains how to manually unlock a gift card if a network failure or other problem prevents transactions from posting.

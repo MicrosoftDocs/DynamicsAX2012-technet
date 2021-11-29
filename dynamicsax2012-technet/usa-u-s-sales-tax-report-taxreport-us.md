@@ -14,6 +14,9 @@ f1_keywords:
 # (USA) U S sales tax report (TaxReport\_US) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **U.S. sales tax report** report displays and prints a summary of sales tax details for legal entities operating in the United States. This report is used to review and inquire into the status of sales tax transactions. The report is typically used by chief executive officers, compliance managers, accounting managers, collections managers, accounts clerks, accounts managers, accountants, accounting supervisors, and sales managers.

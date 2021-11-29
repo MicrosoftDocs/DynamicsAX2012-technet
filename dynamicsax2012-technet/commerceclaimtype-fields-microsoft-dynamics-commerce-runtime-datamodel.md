@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CommerceClaimType Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CommerceClaimType](commerceclaimtype-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Fields

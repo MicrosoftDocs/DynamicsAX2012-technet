@@ -20,6 +20,9 @@ ms.search.region: Russia
 # (RUS) Generate a write-off transaction and print the NVFA statement of writing off (No. MB-8) from the fixed asset journal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to print the not valuable fixed asset (NVFA) Statement of writing off (No. MB-8) from the fixed asset (FA) journal after you enter disposal or write-off transactions. The report can also be printed from the **Working clothes**, **Special rigging**, or **Not valuable FAs** form for transactions that have a status of **Written off** or **Written off (dismantlement)**.

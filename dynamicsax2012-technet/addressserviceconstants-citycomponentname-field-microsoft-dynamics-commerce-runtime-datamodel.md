@@ -18,6 +18,9 @@ dev_langs:
 
 # CityComponentName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The city component name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

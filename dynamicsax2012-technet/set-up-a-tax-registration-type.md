@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up a tax registration type 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Many countries and regions have different regulations and requirements for recording tax registration numbers. Use this procedure to manage tax registration numbers for these parties: customers, vendors, and legal entities.

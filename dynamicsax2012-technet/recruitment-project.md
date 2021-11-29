@@ -13,6 +13,9 @@ f1_keywords:
 
 # recruitment project
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A project to coordinate and track a program of recruiting activities and documentation.
 
 ## See also

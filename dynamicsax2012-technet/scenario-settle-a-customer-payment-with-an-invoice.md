@@ -14,6 +14,9 @@ ms.search.region: Global
 # Scenario: Settle a customer payment with an invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This scenario illustrates three simple examples of a settlement in which one payment is settled with one or more invoices. For more information, see [Key tasks: Customer payments and settlements](key-tasks-customer-payments-and-settlements.md), [About parameters for settlements in Accounts receivable](about-parameters-for-settlements-in-accounts-receivable.md), and [Accounts receivable parameters (form)](https://technet.microsoft.com/library/aa576993\(v=ax.60\)).

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Create excise ledger accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You must maintain excise recoverable accounts and excise payable accounts separately for each combination of an Excise Control Code (ECC) number and an excise duty. The account type for the accounts must be **Balance sheet**. Create the accounts in the **Chart of accounts** form.

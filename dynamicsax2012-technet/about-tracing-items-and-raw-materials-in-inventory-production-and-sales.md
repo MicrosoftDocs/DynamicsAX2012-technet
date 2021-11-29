@@ -21,6 +21,9 @@ ms.search.region: Global
 # About tracing items and raw materials in inventory, production, and sales 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how you can use item tracing to identify where items or raw materials have been used, are being used, or will be used in production and sales processes. This functionality is available in the **Item tracing** form.

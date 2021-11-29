@@ -17,6 +17,9 @@ dev_langs:
 
 # Notify Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Notifies the specified context.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

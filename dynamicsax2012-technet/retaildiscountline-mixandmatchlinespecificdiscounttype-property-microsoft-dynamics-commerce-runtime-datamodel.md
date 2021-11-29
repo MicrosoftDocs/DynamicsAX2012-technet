@@ -17,6 +17,9 @@ dev_langs:
 
 # MixAndMatchLineSpecificDiscountType Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the discount method for this line if this is a mix and match discount.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

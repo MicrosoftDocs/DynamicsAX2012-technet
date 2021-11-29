@@ -20,6 +20,9 @@ ms.search.region: Global
 # View the status and history of budget registry entries 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Budget register entries let you track and audit budget activities, and can be used with workflow and with budget control. You can view budget register entries, budget control statistics, and actual versus budget totals from the following list pages and forms:

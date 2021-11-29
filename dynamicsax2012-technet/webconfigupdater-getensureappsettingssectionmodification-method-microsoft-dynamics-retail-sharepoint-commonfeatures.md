@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEnsureAppSettingsSectionModification Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the ensure app settings section modification.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.CommonFeatures](microsoft-dynamics-retail-sharepoint-commonfeatures-namespace.md)  

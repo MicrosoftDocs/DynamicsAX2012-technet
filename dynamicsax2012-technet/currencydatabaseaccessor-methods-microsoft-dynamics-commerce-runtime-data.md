@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CurrencyDatabaseAccessor Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CurrencyDatabaseAccessor](currencydatabaseaccessor-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Methods

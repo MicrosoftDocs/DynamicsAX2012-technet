@@ -17,6 +17,9 @@ dev_langs:
 
 # ITenderRestriction Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ITenderRestriction interface indicates whether any item in the transaction is restricted from being paid for with the currently added payment method.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

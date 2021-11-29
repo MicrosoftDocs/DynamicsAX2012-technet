@@ -17,6 +17,9 @@ dev_langs:
 
 # MinimumDepositPercentage Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the minimum deposit percentage required for a Customer Orders.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

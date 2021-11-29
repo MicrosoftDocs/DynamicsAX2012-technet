@@ -17,6 +17,9 @@ dev_langs:
 
 # OpenDrawer Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets whether the drawer opened during the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

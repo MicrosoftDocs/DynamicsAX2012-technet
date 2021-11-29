@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Code upgrade white papers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The white papers listed below describe how we recommend that you modify your customizations and code so that they can be upgraded.

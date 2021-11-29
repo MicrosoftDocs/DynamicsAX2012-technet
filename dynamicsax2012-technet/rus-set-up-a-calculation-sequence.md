@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Set up a calculation sequence 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A calculation sequence is a set of counters that performs a sequence of mathematical and logical operations on register lines of designated types for a specified period. Counters perform the calculation algorithms described in certain types of lines. The following table provides details that describe the counter lines.

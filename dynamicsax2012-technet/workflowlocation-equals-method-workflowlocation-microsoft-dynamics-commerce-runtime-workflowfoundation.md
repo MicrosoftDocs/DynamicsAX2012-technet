@@ -15,6 +15,9 @@ dev_langs:
 
 # Equals Method (WorkflowLocation)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Determines whether the specified [WorkflowLocation](workflowlocation-class-microsoft-dynamics-commerce-runtime-workflowfoundation.md) is equal to this instance.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation](microsoft-dynamics-commerce-runtime-workflowfoundation-namespace.md)  

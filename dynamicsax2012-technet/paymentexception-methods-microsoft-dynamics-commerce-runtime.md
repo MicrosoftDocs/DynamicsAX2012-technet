@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # PaymentException Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [PaymentException](paymentexception-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Methods

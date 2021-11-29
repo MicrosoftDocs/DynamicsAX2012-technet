@@ -14,6 +14,9 @@ ms.search.region: Global
 # Configure Enterprise Portal for Retail 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Retail provides several features for organizations that use Enterprise Portal for Microsoft Dynamics AX. These features include sales reporting and inventory monitoring, stock counting, receiving, and picking.

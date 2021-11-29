@@ -14,6 +14,9 @@ f1_keywords:
 # On-account configuration key (ProjBasicOnAcc) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **On-account** configuration key controls access to the on-account invoicing forms, which you can use to enter on-account transactions and create on-account invoice proposals.

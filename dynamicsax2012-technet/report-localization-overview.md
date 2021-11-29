@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Localization Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information on labels and previewing a localized Microsoft Dynamics AX report. When creating reports using the Microsoft Visual Studio tools for Microsoft Dynamics AX, some things happen automatically for localization and do not require developer effort. For example, date values in reports are formatted based on the Microsoft Dynamics AX language specified for the user. The controls that appear in the report parameter dialogs use the Windows system regional settings. Other things require the use of labels, which does require work on the part of the developer.

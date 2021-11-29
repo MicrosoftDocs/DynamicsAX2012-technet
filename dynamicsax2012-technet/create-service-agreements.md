@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create service agreements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes how to use features in the **Service management** and the **Project management and accounting** modules to create service agreements.

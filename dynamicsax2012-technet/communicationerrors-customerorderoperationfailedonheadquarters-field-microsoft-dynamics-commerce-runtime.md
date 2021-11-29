@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerOrderOperationFailedOnHeadquarters Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that headquarters failed when executing a customer order operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

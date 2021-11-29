@@ -17,6 +17,9 @@ dev_langs:
 
 # PropertyColumnPair Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a mapping between [PropertyInfo](https://technet.microsoft.com/library/8z852kf5\(v=ax.60\)) and [ColumnAttribute](columnattribute-class-microsoft-dynamics-commerce-runtime-componentmodel-dataannotations.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

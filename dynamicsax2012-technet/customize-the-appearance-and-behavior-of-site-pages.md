@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customize the appearance and behavior of site pages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can customize the visual design of the Microsoft Dynamics AX 2012 R2 starter store by modifying certain types of files. Cascading style sheet (CSS) provide the page layouts with styling and formatting. For example, you can change the color of elements on store pages by making modifications to CSS files. For more information, see [Walkthrough: Creating and Modifying a CSS File](https://msdn.microsoft.com/library/bb398932.aspx).

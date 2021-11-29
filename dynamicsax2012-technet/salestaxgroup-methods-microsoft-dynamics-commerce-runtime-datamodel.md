@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesTaxGroup Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesTaxGroup](salestaxgroup-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Methods

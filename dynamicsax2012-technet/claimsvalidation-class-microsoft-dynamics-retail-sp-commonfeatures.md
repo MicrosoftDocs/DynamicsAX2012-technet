@@ -17,6 +17,9 @@ dev_langs:
 
 # ClaimsValidation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Claims Validation helper class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SP.CommonFeatures](microsoft-dynamics-retail-sp-commonfeatures-namespace.md)  

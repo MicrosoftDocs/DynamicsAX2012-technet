@@ -13,6 +13,9 @@ f1_keywords:
 
 # business unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A semi-autonomous operating unit that is created to meet strategic business objectives.
 
 ## See also

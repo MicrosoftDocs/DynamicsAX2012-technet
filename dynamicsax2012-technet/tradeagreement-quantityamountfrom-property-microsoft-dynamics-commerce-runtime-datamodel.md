@@ -17,6 +17,9 @@ dev_langs:
 
 # QuantityAmountFrom Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the minimum quantity required for this rule to apply.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

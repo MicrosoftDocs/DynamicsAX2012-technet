@@ -17,6 +17,9 @@ dev_langs:
 
 # WorkflowFoundationConfigFileName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents file name of Workflow Foundation configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

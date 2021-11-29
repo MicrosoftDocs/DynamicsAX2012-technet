@@ -17,6 +17,9 @@ dev_langs:
 
 # SelectCardType Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Prompt to select card type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Customers (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about working with customer data. This includes information about creating customer records and customer groups, working with quotations, and working with sales orders.

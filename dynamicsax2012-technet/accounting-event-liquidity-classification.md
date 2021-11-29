@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting event liquidity classification
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The liquidity classification of an accounting event.
 
 ## See also

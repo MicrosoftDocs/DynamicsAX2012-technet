@@ -13,6 +13,9 @@ f1_keywords:
 
 # order discount
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A fixed amount or percentage deducted that applies to an order total.
 
 ## See also

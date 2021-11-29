@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up master plans to include requisitions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up Microsoft Dynamics AX to include requisition demand in master scheduling. After this is set up, approved requisitions that have a purpose of replenishment are automatically released to master scheduling, and the fulfillment method for the demand created by these requisitions is automatically determined. It is determined by the supply policies that have been set up for the items in your organization and planned by using master scheduling. After a replenishment requisition has been created and approved, no additional user action is required.

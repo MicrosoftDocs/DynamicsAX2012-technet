@@ -17,6 +17,9 @@ dev_langs:
 
 # LogOnOperator Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initiate log on flow and returns the status.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

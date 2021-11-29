@@ -17,6 +17,9 @@ dev_langs:
 
 # ButtonText Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or set the button text
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a price adjustment or discount (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 In Retail essentials, the processes for setting up price adjustments and setting up discounts are similar. You can use this procedure for both price adjustments and discounts, because most of the same options and settings apply to both. This topic explains how to set up price adjustments and discounts.

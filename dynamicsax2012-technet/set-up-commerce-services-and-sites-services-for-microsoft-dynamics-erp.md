@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up Commerce Services and Sites Services for Microsoft Dynamics ERP 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 In the United States, you can use Commerce Services for Microsoft Dynamics ERP to sell products online through established marketplaces. These marketplaces include eBay and online stores that your organization creates. For more information, see [(USA) About Commerce Services](usa-about-commerce-services.md).

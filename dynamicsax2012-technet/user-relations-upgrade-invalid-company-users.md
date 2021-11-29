@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # User relations upgrade - invalid company users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Users can be internal or external. Internal users include employees, and external users include vendors, customers, and prospects. After you specify user relations, a user's information, such as the employee ID or customer account ID, is automatically displayed in fields when that user opens a page in Enterprise Portal for Microsoft Dynamics AX. For external relations, data in the self-service portal for vendors is trimmed according to the user’s designated account. For example, if a user has an external relation for vendor account 1003, the user sees data only for that account in the self-service portal for vendors.

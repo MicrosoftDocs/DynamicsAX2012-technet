@@ -14,6 +14,9 @@ f1_keywords:
 # Spend by country/region (VendSpendLocation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view the amount of purchases by country/region for a specified date range. For this report, the invoice amount is rolled up by the legal entity’s country/region attribute.

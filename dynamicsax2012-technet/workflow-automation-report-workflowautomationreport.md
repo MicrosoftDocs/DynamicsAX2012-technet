@@ -15,6 +15,9 @@ f1_keywords:
 # Workflow automation report (WorkflowAutomationReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Workflow automation** report shows the percentage of workflow elements that were completed automatically and the percentage of workflow elements that were completed manually by users for workflows of a specific type. This report will help you identify which workflows require more human interaction so that you can possibly automate more steps of the workflow.

@@ -18,6 +18,9 @@ ms.search.region: Global
 # Credit invoiced amounts in projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Crediting an invoiced amount is a two-step procedure. First, select the invoiced amount that you want to credit. Then, create a credit note. You create a credit note by using the same procedure that is used to generate a customer invoice.

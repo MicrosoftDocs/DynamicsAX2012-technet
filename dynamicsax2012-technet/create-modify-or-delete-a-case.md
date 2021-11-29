@@ -18,6 +18,9 @@ ms.search.region: Global
 # Create, modify, or delete a case 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a customer, vendor, or employee contacts you with a problem, you can create a case to track both the problem and the resolution. As you work with the case, you can modify the details surrounding the case, or if necessary, you can delete it.

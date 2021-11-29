@@ -13,6 +13,9 @@ f1_keywords:
 
 # nonoperating income
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Income that includes profits or losses from activities that are not related to an organization’s core operations. Examples of nonoperating income include revenue from dividend income, profits and losses from investments and foreign exchanges, and asset write-down income.
 
 ## See also

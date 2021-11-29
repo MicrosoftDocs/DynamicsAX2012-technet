@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceTokenAlgorithm Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the device token encryption/decryption algorithm name.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

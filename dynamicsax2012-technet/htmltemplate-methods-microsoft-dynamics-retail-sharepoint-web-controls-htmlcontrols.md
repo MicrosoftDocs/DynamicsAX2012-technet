@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HtmlTemplate Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HtmlTemplate](htmltemplate-class-microsoft-dynamics-retail-sharepoint-web-controls-htmlcontrols.md) type exposes the following members.
 
 ## Methods

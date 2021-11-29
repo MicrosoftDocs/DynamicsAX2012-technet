@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up loyalty schemes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 This topic explains how to set up loyalty schemes for loyalty programs. A loyalty program can help increase customer loyalty by rewarding customers for buying products in your retail stores. You build a loyalty program by creating loyalty schemes that specify how loyalty points are calculated and managed. You assign the loyalty schemes to loyalty cards. When a customer uses a loyalty card, the loyalty scheme that is applied depends on the loyalty points that are earned and redeemed.

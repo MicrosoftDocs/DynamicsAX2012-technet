@@ -16,6 +16,9 @@ ms.search.region: Brazil
 # (BRA) Set up parameters for SPED fiscal text files 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Sistema Publico de Escrituração Digital (SPED) fiscal text files contain information about all fiscal documents that have been received and issued in a month for a specific fiscal establishment. The SPED system is used by federal tax authorities to verify Imposto Sobre Circulação de Mercadorias e Serviços (ICMS) and Imposto sobre Produtos Industrializados (IPI) tax calculations. Before you can generate a SPED fiscal text file to submit to the federal tax authorities, you must specify parameters that define how the SPED fiscal text file will be saved. This topic explains how to specify these parameters by using the **SPED fiscal parameters** form. For information about how to generate the monthly SPED fiscal text file, see [(BRA) Generate the SPED fiscal export file for a month](bra-generate-the-sped-fiscal-export-file-for-a-month.md).

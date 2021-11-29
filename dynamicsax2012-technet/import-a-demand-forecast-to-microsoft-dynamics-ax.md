@@ -19,6 +19,9 @@ ms.search.region: Global
 # Import a demand forecast to Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to import a demand forecast to Microsoft Dynamics AX 2012 R3. When you import the forecast to specific companies and forecast models, the demand forecast data becomes input for the requirements calculation in master planning.

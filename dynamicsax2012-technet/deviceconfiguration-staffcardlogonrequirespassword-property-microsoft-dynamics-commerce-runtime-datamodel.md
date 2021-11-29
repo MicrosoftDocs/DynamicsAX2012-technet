@@ -17,6 +17,9 @@ dev_langs:
 
 # StaffCardLogOnRequiresPassword Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether staff card logon requires password is set.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

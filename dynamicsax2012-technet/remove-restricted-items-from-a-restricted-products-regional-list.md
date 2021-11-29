@@ -14,6 +14,9 @@ ms.search.region: Global
 # Remove restricted items from a restricted products regional list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to remove items from a restricted products regional list. You can remove items using the **Restricted products – Country/State by item** form or the **Restricted products – Item by Country/State** form. The **Restricted products – Country/State by item** form is recommended when you want to remove multiple items at the same time.

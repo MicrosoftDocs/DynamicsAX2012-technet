@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SalesOrderDataManager Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SalesOrderDataManager](salesorderdatamanager-class-microsoft-dynamics-commerce-runtime-data.md) type exposes the following members.
 
 ## Properties

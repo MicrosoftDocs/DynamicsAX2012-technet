@@ -17,6 +17,9 @@ dev_langs:
 
 # CheckoutLayout Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Code-behind for the checkout layout
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

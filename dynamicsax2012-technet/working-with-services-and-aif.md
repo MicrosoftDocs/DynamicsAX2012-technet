@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Working with Services and AIF 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about developing data exchanges using AIF document services, system services, and custom services.

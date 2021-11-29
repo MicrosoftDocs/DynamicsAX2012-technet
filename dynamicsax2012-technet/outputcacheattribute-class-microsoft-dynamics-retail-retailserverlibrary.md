@@ -17,6 +17,9 @@ dev_langs:
 
 # OutputCacheAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The output cache attribute class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

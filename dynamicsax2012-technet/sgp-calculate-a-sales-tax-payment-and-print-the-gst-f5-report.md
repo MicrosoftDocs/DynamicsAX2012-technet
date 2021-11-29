@@ -14,6 +14,9 @@ ms.search.region: Singapore
 # (SGP) Calculate a sales tax payment and print the GST F5 report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can print a Goods and Services Tax (GST) sales tax return report for Singapore that includes all of the taxable transactions for a specific quarter, grouped by sales tax groups. Send the report to the Inland Revenue Authority of Singapore (IRAS) on a quarterly basis.

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # NumberSequenceSqliteDataRequestHandler Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [NumberSequenceSqliteDataRequestHandler](numbersequencesqlitedatarequesthandler-class-microsoft-dynamics-commerce-runtime-dataservices-sqlite.md) type exposes the following members.
 
 ## Methods

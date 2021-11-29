@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AffiliationInfo Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AffiliationInfo](affiliationinfo-class-microsoft-dynamics-commerce-runtime-services-customerorder.md) type exposes the following members.
 
 ## Properties

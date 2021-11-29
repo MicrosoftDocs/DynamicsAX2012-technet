@@ -21,6 +21,9 @@ ms.search.region: Global
 # Business process: demand forecasting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 Microsoft Dynamics AX 2012 R3 demand forecasting is a set of tools that enable you to estimate future demand and create demand forecasts based on historical transaction data.

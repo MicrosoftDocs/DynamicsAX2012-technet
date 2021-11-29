@@ -22,6 +22,9 @@ ms.search.region: Global
 # About project stages 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Project stages can serve as a guide to the project life cycle. You can define the project stages that you want to include in your projects on the **Project stage** tab of the **Project parameters** form.

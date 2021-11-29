@@ -14,6 +14,9 @@ f1_keywords:
 # (ITA) Italian black list report (BlackList) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Italian black list report** displays and prints a list of taxable transactions with countries that have privileged tax structures. These countries are referred to as “black listed” by the Italian government. This report must be submitted to Italian sales tax authorities in ASCII format. This report is used to maintain and inquire into the status of sales tax transactions. This report is typically used by accountants, collections managers, accounts receivable clerks, accounts receivable managers, sales managers, and sales clerks.

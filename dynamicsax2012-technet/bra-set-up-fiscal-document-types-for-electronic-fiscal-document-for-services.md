@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up fiscal document types for electronic fiscal document for services 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Fiscal documents are official supporting documents for commercial transactions in Brazil. The fiscal document type indicates the type of fiscal document that is used in sales, purchases, or tax transfer transactions. The fiscal document types define the number sequence, series, and layout of fiscal documents.

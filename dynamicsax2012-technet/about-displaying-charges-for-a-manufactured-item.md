@@ -15,6 +15,9 @@ ms.search.region: Global
 # About displaying charges for a manufactured item 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Charges are the calculated amount of an item's amortized constant costs. The constant costs of a manufactured item reflect the operation setup times and the components that have a constant quantity or a constant scrap amount. For more information, see [About amortizing constant costs for a manufactured item](about-amortizing-constant-costs-for-a-manufactured-item.md).

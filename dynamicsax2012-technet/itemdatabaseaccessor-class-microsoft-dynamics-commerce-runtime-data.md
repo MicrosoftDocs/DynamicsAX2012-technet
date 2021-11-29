@@ -17,6 +17,9 @@ dev_langs:
 
 # ItemDatabaseAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a database accessor, specialized in retrieving item information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

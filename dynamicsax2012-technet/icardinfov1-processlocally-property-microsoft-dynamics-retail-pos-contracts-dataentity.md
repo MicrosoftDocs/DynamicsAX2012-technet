@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessLocally Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the authorization process locally.
 
 Set to true if the card authorization should be processed locally.

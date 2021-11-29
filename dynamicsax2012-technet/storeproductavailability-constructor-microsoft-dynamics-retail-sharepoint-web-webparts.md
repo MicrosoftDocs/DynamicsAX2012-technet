@@ -17,6 +17,9 @@ dev_langs:
 
 # StoreProductAvailability Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [StoreProductAvailability](storeproductavailability-class-microsoft-dynamics-retail-sharepoint-web-webparts.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.WebParts](microsoft-dynamics-retail-sharepoint-web-webparts-namespace.md)  

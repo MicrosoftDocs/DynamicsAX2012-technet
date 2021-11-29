@@ -17,6 +17,9 @@ dev_langs:
 
 # Page\_Load Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Handles the Load event of the Page control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create absence registrations for planned absences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Supervisors or team leaders calculate time registrations that have been submitted by the workers on their teams. To help make the process of calculating those registrations more efficient, supervisors and team leaders can plan for absences by creating absence registrations in advance.

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up general Human resources information 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Topics in this section contain information about how to enter information that is used by one or more Human resources feature areas.

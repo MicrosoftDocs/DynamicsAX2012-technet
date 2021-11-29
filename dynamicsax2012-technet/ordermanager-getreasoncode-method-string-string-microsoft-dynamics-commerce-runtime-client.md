@@ -15,6 +15,9 @@ dev_langs:
 
 # GetReasonCode Method (String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the reason code.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

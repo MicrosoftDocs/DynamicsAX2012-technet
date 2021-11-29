@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Country-specific features for Japan (JPN) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Japan. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Japanese installations, such as features that affect consolidated invoices, cash flow statements, bills of exchange, financial dimensions, and the global address book (GAB). The second section describes additional changes to country-specific functionality for Japan. For more information about specific features for Japan, see [TechNet Library for Application Users - Japan](https://go.microsoft.com/fwlink/?linkid=299914).

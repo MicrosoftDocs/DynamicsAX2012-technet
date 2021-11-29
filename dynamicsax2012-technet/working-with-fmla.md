@@ -26,6 +26,9 @@ ms.search.region: Global
 # Working with FMLA 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes how to track Family and Medical Leave Act (FMLA) eligibility and hours worked to meet federal requirements.
 
 The following illustration shows the process of entering and tracking FMLA for workers. The numbers correspond to the procedures later in this topic.

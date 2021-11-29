@@ -13,6 +13,9 @@ f1_keywords:
 
 # open fiscal period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state of a fiscal period that allows its use as a time period classifier for account entries.
 
 ## See also

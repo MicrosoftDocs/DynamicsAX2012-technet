@@ -16,6 +16,9 @@ ms.search.region: Global
 # Document management in sales and marketing 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the document management system in the **Sales and marketing** section for several tasks. You can attach documents to prospects, contact persons, and sales quotations. You can also attach internal notes to activities and tasks. Additionally, in both the **Sales and marketing** and **Project management and accounting** sections, you can create a standard quotation template. You use this template when you issue quotations and merge information within a quotation.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up documents for viewing in Enterprise Portal 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, Enterprise Portal for Microsoft Dynamics AX does not display any documents. To view documents, you must map document types to document categories. Document categories determine the types of documents that can be displayed on specific Enterprise Portal module sites. The list of document categories is fixed, but the categories are general enough that they can accommodate most document types.

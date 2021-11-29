@@ -17,6 +17,9 @@ f1_keywords:
 # (FRA) Transaction list by date or voucher report (LedgerTransDateVoucher\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Transaction list by date or voucher** report displays a list of vouchers, sorted by voucher type or date. The journal entries are recorded chronologically. Each entry shows debit and credit amounts, the account number, the date, and a short description. The report includes the following information:

@@ -17,6 +17,9 @@ dev_langs:
 
 # JoinStrings Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Method to join strings using a separator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

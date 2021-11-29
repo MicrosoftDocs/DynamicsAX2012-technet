@@ -20,6 +20,9 @@ ms.search.region: Global
 # Set up attributes and attribute types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Attributes identify the details that you want to maintain for your products. You can assign attributes to a product through the procurement category that the product is assigned to. When you add a procurement category and its associated products to your procurement catalog, the attributes that are assigned to the procurement category are displayed on the procurement site.

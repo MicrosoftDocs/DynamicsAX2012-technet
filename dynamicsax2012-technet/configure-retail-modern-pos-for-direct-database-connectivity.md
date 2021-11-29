@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure Retail Modern POS for direct database connectivity 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic explains how to configure direct database connectivity for Retail Modern POS by using the Retail Channel Configuration Utility.
 
 

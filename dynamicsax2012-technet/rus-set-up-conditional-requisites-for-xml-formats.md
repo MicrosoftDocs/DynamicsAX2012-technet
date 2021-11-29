@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up conditional requisites for XML formats 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A conditional requisite is a requisite for which the value is selected from the cell area where the value is initially set up. An example of this type of requisite is the requisite for the tax amount that is due in the property tax declaration form. You can set up the value of a conditional requisite by using the Microsoft Excel template.

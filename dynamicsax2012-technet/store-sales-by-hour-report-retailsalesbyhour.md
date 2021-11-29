@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Store sales by hour report (RetailSalesByHour) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 Use this report to and monitor hourly sales volume for a given date. Data on this report can be used by the store manager to staff the store based on peak sales times.

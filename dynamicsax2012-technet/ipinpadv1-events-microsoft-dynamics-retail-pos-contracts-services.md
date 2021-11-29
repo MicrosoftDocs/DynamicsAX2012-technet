@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IPinPadV1 Events
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IPinPadV1](ipinpadv1-interface-microsoft-dynamics-retail-pos-contracts-services.md) type exposes the following members.
 
 ## Events

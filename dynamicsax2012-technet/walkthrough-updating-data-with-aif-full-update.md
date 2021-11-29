@@ -14,6 +14,9 @@ dev_langs:
 # Walkthrough: Updating Data with AIF (Full Update) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Application Integration Framework (AIF) enables you to integrate your Microsoft Dynamics AX installation with external systems. This framework supports the ability to create, read, update, and delete data.

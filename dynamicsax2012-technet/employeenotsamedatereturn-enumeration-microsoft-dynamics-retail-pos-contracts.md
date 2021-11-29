@@ -20,6 +20,9 @@ dev_langs:
 
 # EmployeeNotSameDateReturn Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Employee-based permissions for Not same date return operation AX enum RetailNotSameDateReturn\_RU
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts](microsoft-dynamics-retail-pos-contracts-namespace.md)  

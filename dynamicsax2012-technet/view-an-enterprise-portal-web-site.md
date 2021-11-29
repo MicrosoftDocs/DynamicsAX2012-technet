@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # View an Enterprise Portal Web site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can view a Web site for Enterprise Portal for Microsoft Dynamics AX by using one of the following methods:

@@ -17,6 +17,9 @@ dev_langs:
 
 # OrgUnitContact Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a organization unit contact information.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

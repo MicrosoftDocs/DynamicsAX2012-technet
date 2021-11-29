@@ -17,6 +17,9 @@ dev_langs:
 
 # AsReadOnly(T) Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns a read-only wrapper for the current collection.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

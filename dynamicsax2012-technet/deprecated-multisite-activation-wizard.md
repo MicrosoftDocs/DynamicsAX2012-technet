@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: Multisite activation wizard 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In Microsoft Dynamics AX 2009, multisite functionality must be activated by using the Multisite activation wizard. In Microsoft Dynamics AX 2012, multisite functionality is always active. Additionally, for customers who are upgrading from Microsoft Dynamics AX 4.0, the multisite activation logic has been integrated into the upgrade process.

@@ -17,6 +17,9 @@ dev_langs:
 
 # IDatabaseQueryBuilder Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a database query builder that can build final SQL syntax from the [DatabaseQueryParts](databasequeryparts-class-microsoft-dynamics-commerce-runtime-data.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

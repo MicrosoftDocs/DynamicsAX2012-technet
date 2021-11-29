@@ -17,6 +17,9 @@ dev_langs:
 
 # Process Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes the workflow to save non-sale transactions from store operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

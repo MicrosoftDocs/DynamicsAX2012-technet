@@ -17,6 +17,9 @@ dev_langs:
 
 # AddCatalogId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Adds a catalog id to the set of catalogs the product is included in.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

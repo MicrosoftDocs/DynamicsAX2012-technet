@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceLine Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a potential source and configuration of a line's price.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

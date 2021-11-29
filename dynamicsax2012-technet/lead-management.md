@@ -14,6 +14,9 @@ ms.search.region: Global
 # Lead management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use lead records to help your sales team gather and store information about a lead. By using this information, you can implement the sales activities and tasks that qualify a lead to move to the next level and become an opportunity.

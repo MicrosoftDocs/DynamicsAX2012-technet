@@ -15,6 +15,9 @@ ms.search.region: Global
 # Assign workers to tasks manually in a work breakdown structure in AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to assign workers to project tasks in the **Work breakdown structure** form. You can assign workers who have already been added to the project team and whose time has already been booked for the project. You can also search for other available workers and assign them to the task. When you assign other available workers, they are automatically added to the project team.

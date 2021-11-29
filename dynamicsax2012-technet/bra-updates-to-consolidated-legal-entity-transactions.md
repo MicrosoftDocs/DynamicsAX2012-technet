@@ -22,6 +22,9 @@ ms.search.region: Brazil
 # (BRA) Updates to consolidated legal entity transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Legal entities that have multiple subsidiaries can transfer transactions from each subsidiary to a consolidated legal entity. The transaction details, such as the name of the subsidiary legal entity, the original voucher number, and the original default description, are transferred from the subsidiary legal entity to the consolidated legal entity. You can consolidate the transactions, and then periodically generate the following reports:

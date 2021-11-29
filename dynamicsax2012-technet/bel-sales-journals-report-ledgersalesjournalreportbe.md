@@ -17,6 +17,9 @@ f1_keywords:
 # (BEL) Sales journals report (LedgerSalesJournalReportBE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sales journals** report displays and prints a summary of sales transactions such as sales invoices and credit memos that are posted to the general ledger. This report summarizes the following:

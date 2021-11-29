@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Absence configuration key (HRMManagementAbsence) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Absence** configuration key controls access to absence functionality in Human resources.

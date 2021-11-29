@@ -14,6 +14,9 @@ f1_keywords:
 # Service Management - Repair configuration key (SMARepair) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Service management - repair** configuration key controls access to forms and functions for repair management features in the **Service management** module. If this key is enabled, functionality to maintain a repair management setup and to apply repair management to service orders is enabled.

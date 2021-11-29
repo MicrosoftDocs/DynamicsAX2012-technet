@@ -31,6 +31,9 @@ ms.search.region: Global
 # Work with forecast positions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to add existing positions to a budget planning process and scenario, copy forecast positions that are already in the forecast, or create new positions for the next budget cycle. After you add a position to a forecast, you can add and change specific budget cost elements for the position so that the elements are accurate, or update multiple positions at the same time using the mass-update functionality.

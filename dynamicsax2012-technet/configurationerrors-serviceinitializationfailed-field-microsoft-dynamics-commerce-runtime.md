@@ -17,6 +17,9 @@ dev_langs:
 
 # ServiceInitializationFailed Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that one or more runtime components failed to initialize.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

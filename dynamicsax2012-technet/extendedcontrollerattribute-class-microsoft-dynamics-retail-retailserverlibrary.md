@@ -17,6 +17,9 @@ dev_langs:
 
 # ExtendedControllerAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an extended controller for Retail Server.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

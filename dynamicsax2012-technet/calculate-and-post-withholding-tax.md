@@ -17,6 +17,9 @@ ms.search.region: Global
 # Calculate and post withholding tax 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can calculate and post withholding tax in the **Payment journal** form in Accounts payable or in the **General journal** form in General ledger. The default withholding tax group of the vendor is displayed in the **Withholding tax group** field.

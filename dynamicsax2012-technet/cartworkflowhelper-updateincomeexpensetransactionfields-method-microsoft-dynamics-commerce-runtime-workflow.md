@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateIncomeExpenseTransactionFields Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates income expense transaction fields.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  

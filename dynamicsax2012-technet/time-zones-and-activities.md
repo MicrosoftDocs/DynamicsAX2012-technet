@@ -14,6 +14,9 @@ ms.search.region: Global
 # Time zones and activities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Many companies have customers who are located in other time zones, and some companies themselves have different locations across the world. Multiple time zones can make scheduling activities difficult, because you must calculate the time difference between participants. By using the time zone functionality in Microsoft Dynamics AX, you can create and synchronize activities in relation to the time zones that are set up in Microsoft Outlook. Time values are stored in Microsoft Dynamics AX as Coordinated Universal Time (UTC). However, when you view the times for activities, the times are displayed in the time zone in which you are located.

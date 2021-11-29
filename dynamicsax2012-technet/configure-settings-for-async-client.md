@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Configure settings for Async Client 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The Async Client Configuration Tool can be used to configure an instance of Commerce Data Exchange: Async Client. This tool lets you test connections and specify whether to use streaming to transfer data. The configuration data is stored in the application configuration file.

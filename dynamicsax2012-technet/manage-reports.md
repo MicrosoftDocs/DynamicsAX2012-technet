@@ -14,6 +14,9 @@ ms.search.region: Global
 # Manage reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Report web parts display Microsoft Dynamics AX reports. These reports run on the Microsoft SQL Server Reporting Services platform. This topic explains how to add the Report web part to a page, and how to configure the web part to display a report.

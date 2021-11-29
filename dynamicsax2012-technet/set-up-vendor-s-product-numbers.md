@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up vendor's product numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 For a particular product, you can create and maintain data that is specific to a vendor. For example, you can print invoices that include product numbers and descriptions that are specific to a particular recipient.

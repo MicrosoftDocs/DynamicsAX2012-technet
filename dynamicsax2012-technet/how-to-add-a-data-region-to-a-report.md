@@ -18,6 +18,9 @@ f1_keywords:
 # How to: Add a Data Region to a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A data region is a section within a report that displays data from a dataset. There are several ways to add a data region to an auto design report. You can add a data region simply by dragging a dataset onto a report design. Or, you can add a data region manually. The following procedures explain how to add a data region to an auto design report.

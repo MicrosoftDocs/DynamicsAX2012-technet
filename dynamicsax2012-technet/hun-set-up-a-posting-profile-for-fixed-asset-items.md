@@ -14,6 +14,9 @@ ms.search.region: Hungary
 # (HUN) Set up a posting profile for fixed asset items 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The cost value of an asset that is moved to inventory must be equal to its current net book value.

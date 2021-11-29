@@ -24,6 +24,9 @@ ms.search.region: Global
 # Inventory management 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use Inventory management for inbound and outbound operations, quality assurance, warehouse activities, and inventory control.

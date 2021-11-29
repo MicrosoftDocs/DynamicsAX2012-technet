@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up order events 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up *order events* to track actions that users take in relation to various types of customer orders. You can use order event tracking for auditing purposes, to review the actions that are taken against an order during the order’s life cycle, or to track the actions of a specific user. For example, you can record the action every time a user creates a sales order, places a hold on an order, overrides a charge, or updates an order line. You can set up order events to track actions for specific users, groups of users, or all users during a specific period of time. You can view the actions that were taken on a document by opening the **Order events** form from the **Action Pane** in the specific document form.

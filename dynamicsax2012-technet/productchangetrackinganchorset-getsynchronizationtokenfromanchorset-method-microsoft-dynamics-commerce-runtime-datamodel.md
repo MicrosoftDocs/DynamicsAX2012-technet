@@ -17,6 +17,9 @@ dev_langs:
 
 # GetSynchronizationTokenFromAnchorSet Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns an object representing the sync anchor set from a given synchronization token.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

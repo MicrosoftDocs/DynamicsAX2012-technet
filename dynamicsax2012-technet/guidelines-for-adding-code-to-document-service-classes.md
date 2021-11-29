@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Guidelines for Adding Code to Document Service Classes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides business logic concepts to remember when coding the document classes for Application Integration Framework (AIF) data exchange. You can use the AIF Document Service Wizard to generate the document service class, the Axd \<Document\> class and its associated Ax \<Table\> classes. Then you can add business logic code. For more information, see [Document Services Classes](document-services-classes.md).

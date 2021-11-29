@@ -17,6 +17,9 @@ dev_langs:
 
 # ITransactionServicesV2 Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ITransactionServices interface version 2.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices](microsoft-dynamics-retail-pos-contracts-transactionservices-namespace.md)  

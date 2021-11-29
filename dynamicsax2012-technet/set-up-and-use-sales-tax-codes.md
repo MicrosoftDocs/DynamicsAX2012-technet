@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up and use sales tax codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Transactions that are subject to sales taxes must be associated with both a sales tax group and an item sales tax group. Sales tax is calculated only for the sales tax codes that are included in both the sales tax group and the item sales tax group.

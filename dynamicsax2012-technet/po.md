@@ -13,6 +13,9 @@ f1_keywords:
 
 # PO
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents the offer to buy products or the acceptance of an offer to sell products in exchange for payment.
 
 ## See also

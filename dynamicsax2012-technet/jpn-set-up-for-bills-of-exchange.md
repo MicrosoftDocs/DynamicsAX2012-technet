@@ -14,6 +14,9 @@ ms.search.region: Japan
 # (JPN) Set up for bills of exchange 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use bills of exchange (BOEs) to make payments for items and services. A BOE is a specific draft or order that is received from a customer for payment. In Japan, the BOE order can be endorsed to vendors to make payments before the BOE goes to maturity. This process of endorsement is applicable for all the drafts in Accounts receivable, whether they are promissory notes or BOEs, because the only difference between a promissory note and a bill of exchange is that, for the former, manufacturers promise to pay the payees by themselves instead of requesting a third party to make the payment. For more information, see [Set up bills of exchange](set-up-bills-of-exchange.md).

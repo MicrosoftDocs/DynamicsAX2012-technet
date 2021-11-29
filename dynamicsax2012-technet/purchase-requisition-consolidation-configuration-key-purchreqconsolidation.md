@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Purchase requisition consolidation configuration key (PurchReqConsolidation) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Purchase requisition consolidation** configuration key controls access to all purchase requisition consolidation features in Microsoft Dynamics AX.

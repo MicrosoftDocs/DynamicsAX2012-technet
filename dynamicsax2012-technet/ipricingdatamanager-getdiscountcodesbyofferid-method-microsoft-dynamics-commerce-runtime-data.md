@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDiscountCodesByOfferId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the discount codes (aka 'promo codes') associated with the given discount offer identifiers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

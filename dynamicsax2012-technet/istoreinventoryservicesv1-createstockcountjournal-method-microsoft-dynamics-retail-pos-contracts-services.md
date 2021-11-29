@@ -17,6 +17,9 @@ dev_langs:
 
 # CreateStockCountJournal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates stock count journal.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

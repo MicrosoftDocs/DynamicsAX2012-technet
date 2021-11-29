@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IDatabase Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IDatabase](idatabase-interface-microsoft-dynamics-retail-pos-contracts-settings.md) type exposes the following members.
 
 ## Properties

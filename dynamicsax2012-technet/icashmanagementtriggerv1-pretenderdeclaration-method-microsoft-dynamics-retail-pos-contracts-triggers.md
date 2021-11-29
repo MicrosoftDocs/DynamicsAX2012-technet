@@ -17,6 +17,9 @@ dev_langs:
 
 # PreTenderDeclaration Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before the tender declaration operation has been run.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

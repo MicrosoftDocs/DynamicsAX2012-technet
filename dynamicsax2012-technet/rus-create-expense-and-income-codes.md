@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create expense and income codes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Income and expense codes are saved in a hierarchical directory of revenue and expenses. This hierarchical structure enables revenue and expenses to be grouped according to the lines of the profit tax statement, so that the directory contains all revenue and expense codes that are used in tax reporting.

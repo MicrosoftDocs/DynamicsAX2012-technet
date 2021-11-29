@@ -15,6 +15,9 @@ dev_langs:
 
 # CreateSaleLineItem Method (ISaleLineItem, IRounding, IRetailTransaction)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates the sale line item.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

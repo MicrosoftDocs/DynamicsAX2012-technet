@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ExtendedWebAppWebConfigActivationJob Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ExtendedWebAppWebConfigActivationJob](extendedwebappwebconfigactivationjob-class-microsoft-dynamics-retail-sp-commonfeatures.md) type exposes the following members.
 
 ## Properties

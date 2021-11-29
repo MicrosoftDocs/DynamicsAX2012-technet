@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Approve an EPCG license 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you can assign an Export Promotion Capital Goods (EPCG) incentive license to import and export orders, you must approve it. To approve an EPCG license, you assign exportable items and vendors to the EPCG license. You also set up export obligation periods and add bank guarantee details for the EPCG license.

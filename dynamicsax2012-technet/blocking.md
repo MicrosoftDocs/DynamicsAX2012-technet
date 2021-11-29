@@ -13,6 +13,9 @@ f1_keywords:
 
 # blocking
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The action of placing a document or product on hold.
 
 ## See also

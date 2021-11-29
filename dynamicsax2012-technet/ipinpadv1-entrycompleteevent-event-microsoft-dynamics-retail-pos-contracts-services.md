@@ -17,6 +17,9 @@ dev_langs:
 
 # EntryCompleteEvent Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Tries PinPad entry complete event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

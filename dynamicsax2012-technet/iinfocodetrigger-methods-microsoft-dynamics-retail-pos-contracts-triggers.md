@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IInfocodeTrigger Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IInfocodeTrigger](iinfocodetrigger-interface-microsoft-dynamics-retail-pos-contracts-triggers.md) type exposes the following members.
 
 ## Methods

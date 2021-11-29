@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Calculate registers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Before you calculate a register, you must enter all primary documents for the reporting period, perform the inventory closing process, and calculate the exchange adjustment.

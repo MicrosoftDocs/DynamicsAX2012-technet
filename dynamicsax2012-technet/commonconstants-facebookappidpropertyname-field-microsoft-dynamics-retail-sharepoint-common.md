@@ -17,6 +17,9 @@ dev_langs:
 
 # FacebookAppIdPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the Id for the Facebook application used for facebook authentication.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

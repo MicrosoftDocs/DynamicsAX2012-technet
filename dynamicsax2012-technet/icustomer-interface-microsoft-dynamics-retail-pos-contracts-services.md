@@ -17,6 +17,9 @@ dev_langs:
 
 # ICustomer Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICustomer interface is used for customer control: customer database search, customer changes, adding or deleting a customer instance.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

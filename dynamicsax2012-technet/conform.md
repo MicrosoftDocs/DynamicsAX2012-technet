@@ -13,6 +13,9 @@ f1_keywords:
 
 # conform
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To be in accordance with requirements, specifications, or explicit expectations.
 
 ## See also

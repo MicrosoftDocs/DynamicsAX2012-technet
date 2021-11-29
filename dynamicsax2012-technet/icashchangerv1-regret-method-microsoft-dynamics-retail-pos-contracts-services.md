@@ -17,6 +17,9 @@ dev_langs:
 
 # Regret Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Executes regret operation in the cash changer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

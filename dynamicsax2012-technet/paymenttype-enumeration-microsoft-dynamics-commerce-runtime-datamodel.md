@@ -22,6 +22,9 @@ dev_langs:
 
 # PaymentType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Type of payment transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

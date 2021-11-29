@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AuthenticateDeviceServiceRequest Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AuthenticateDeviceServiceRequest](authenticatedeviceservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Methods

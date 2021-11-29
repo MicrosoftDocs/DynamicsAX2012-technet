@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CookieException Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CookieException](cookieexception-class-microsoft-dynamics-retail-sharepoint-web-common.md) type exposes the following members.
 
 ## Methods

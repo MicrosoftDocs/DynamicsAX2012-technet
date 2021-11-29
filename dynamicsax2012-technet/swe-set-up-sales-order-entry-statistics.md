@@ -14,6 +14,9 @@ ms.search.region: Sweden
 # (SWE) Set up sales order entry statistics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can set up reports that show changes that are made to sales order entry lines from one date to another date. When you select the **Order entry statistics** check box in the **Accounts receivable parameters** form, each change to sales order lines is tracked. This includes new lines that are created, changes that are made to existing lines, and lines that are deleted.

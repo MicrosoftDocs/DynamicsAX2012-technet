@@ -14,6 +14,9 @@ f1_keywords:
 # Purchase requisition report (PurchReq) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Purchase requisition** report displays the header and line details for a selected purchase requisition. You can also view the itemized total amounts for the purchase requisition lines, including any discounts and taxes that were applied. You can generate a purchase requisition report only if the purchase requisition has been submitted for review.

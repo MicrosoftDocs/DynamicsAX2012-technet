@@ -14,6 +14,9 @@ ms.search.region: Global
 # Calculate, view, and print a cash flow forecast 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 A cash flow forecast is a financial statement that summarizes and provides details about the sources and uses of a legal entity’s cash and cash equivalents over a specific period of time. You can calculate, view, and print a cash flow statement.

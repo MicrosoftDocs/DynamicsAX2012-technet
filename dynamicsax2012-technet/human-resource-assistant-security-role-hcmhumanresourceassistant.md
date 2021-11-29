@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Human resource assistant security role (HcmHumanResourceAssistant) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Human resource assistant security role represents a user who documents human resource events and responds to human resource inquiries.

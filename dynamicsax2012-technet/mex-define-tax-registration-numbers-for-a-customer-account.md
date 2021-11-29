@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Define tax registration numbers for a customer account 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In accordance with Mexican legislation, companies must report all customer transactions in the Declaración Informativa de Operaciones con Terceros (DIOT), a tax declaration that is submitted to the Servicios de Administración Tributaria (SAT). The following tax registration IDs must be included in the DIOT: the Registro Federal del Contribuyentes (RFC) number, Clave Única de Registro de Población (CURP) number, and state inscription number. The RFC number and state inscription number are assigned to both individuals and corporations, but CURP numbers are assigned only to individuals. The format of the tax registration number depends on the entity type, as shown in the table.

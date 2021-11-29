@@ -14,6 +14,9 @@ ms.search.region: Canada
 # (CAN, USA) About customer payment journal reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Customer payment journal** report and the **Customer posted payment journal** report to view account and payment details for individual customers. Amounts on the reports are displayed in both the currency of the payment and the original currency of the transaction. Payments that are not yet settled are included, but payment details are not included. These reports are generated so that you can check the status of customer payments, and review the invoice and cash processes. These reports are typically used by accountants, accounting managers, accounting supervisors, accounts receivable clerks, chief executive officers, chief financial officers, collections agents, collections managers, compliance managers, and financial controllers.

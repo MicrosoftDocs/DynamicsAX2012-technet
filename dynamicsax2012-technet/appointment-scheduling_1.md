@@ -14,6 +14,9 @@ f1_keywords:
 
 # appointment scheduling
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of reserving dates and times for the pickup and delivery of truckloads of goods at specific warehouse locations.
 
 ## See also

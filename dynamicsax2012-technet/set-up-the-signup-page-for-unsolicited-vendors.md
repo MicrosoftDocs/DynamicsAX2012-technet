@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up the Signup page for unsolicited vendors 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An unsolicited vendor is a vendor who does not currently do business with your company but wants to be considered as a potential vendor. These vendors can submit information about their companies by using the **Signup** page in the Unsolicited vendor portal. Your employees can search for vendors in the unsolicited vendor database. To work with one of these vendors, an employee must submit a new vendor request.

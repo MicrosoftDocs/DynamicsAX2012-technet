@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IApplicationFramework Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IApplicationFramework](iapplicationframework-interface-microsoft-dynamics-retail-pos-contracts-ui.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # DeviceConfigurationDataManager Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The device configuration data manager.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

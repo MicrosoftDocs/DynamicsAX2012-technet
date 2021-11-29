@@ -17,6 +17,9 @@ dev_langs:
 
 # IExtendedControllerMetadata Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Exposes the extended controller metadata used in conjunction with MEF composition exporting.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

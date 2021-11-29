@@ -19,6 +19,9 @@ ms.search.region: Lithuania
 # (LTU) Change the fixed asset group for a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 All fixed assets are assigned to a fixed asset group. In some situations, a fixed asset must be moved from the original fixed asset group to another one. Use this procedure to change the fixed asset group for a fixed asset.

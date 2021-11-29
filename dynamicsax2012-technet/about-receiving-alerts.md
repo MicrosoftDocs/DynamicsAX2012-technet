@@ -22,6 +22,9 @@ ms.search.region: Global
 # About receiving alerts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Notification list** form to view the alerts that you receive. If you have unread alerts, an icon is displayed in the status bar. Click the icon to open the **Notification list** form.

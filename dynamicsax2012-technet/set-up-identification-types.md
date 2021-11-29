@@ -17,6 +17,9 @@ ms.search.region: Global
 # Set up identification types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You must set up identification types before you can enter identification information for workers. When you add identification information for a worker, you must associate the identification information with an identification type. The following list contains some examples of identification types:

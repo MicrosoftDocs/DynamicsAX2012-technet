@@ -18,6 +18,9 @@ ms.search.region: India
 # (IND) Configure withholding tax calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Follow the steps in this topic to set up withholding tax groups for tax deducted at source (TDS) and tax collected at source (TCS), and to set up the withholding tax calculation for a customer and a vendor. For more information, see [(IND) Withholding tax calculation](ind-withholding-tax-calculation.md).

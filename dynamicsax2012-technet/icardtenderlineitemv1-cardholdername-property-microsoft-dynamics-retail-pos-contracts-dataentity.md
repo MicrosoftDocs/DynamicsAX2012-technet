@@ -17,6 +17,9 @@ dev_langs:
 
 # CardHolderName Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The name of the cardholder.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

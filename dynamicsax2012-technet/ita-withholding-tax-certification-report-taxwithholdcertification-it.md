@@ -14,6 +14,9 @@ f1_keywords:
 # (ITA) Withholding tax - certification report (TaxWithholdCertification\_IT) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Withholding tax - certification** report is used to print an Italian certification report in the withholding tax currency. The report is intended to be sent to the vendor with the withholding tax data for the specified period. This report is used to inquire into the status of sales tax transactions. This report is typically used by collections managers, accounts receivable clerks, accounts receivable managers, accountants, accounting managers, accounting supervisors, sales clerks, sales managers, and accounts payable clerks.

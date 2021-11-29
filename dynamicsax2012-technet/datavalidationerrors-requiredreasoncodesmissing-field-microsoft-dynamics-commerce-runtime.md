@@ -17,6 +17,9 @@ dev_langs:
 
 # RequiredReasonCodesMissing Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that one or more required reason codes are missing.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

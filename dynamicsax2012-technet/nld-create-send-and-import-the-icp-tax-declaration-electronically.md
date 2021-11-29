@@ -14,6 +14,9 @@ ms.search.region: Netherlands
 # (NLD) Create, send, and import the ICP tax declaration electronically 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Electronic ICP declaration** form to create and submit an electronic tax declaration payment, and then send the .xml file to the Dutch tax authority on a monthly, bi-monthly, or quarterly basis. You can also use this form to import .xml files that include information from the Dutch tax authority.

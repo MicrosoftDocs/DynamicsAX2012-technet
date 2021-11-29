@@ -17,6 +17,9 @@ dev_langs:
 # Create a security file for Retail deployment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes how to create a security file that can be used by Retail mass deployment tools.
 
 To set up and secure communication among the various Retail components, you must provide credentials and obtain certificates. During deployment, you need a way to provide this information without allowing too many people access to it. You can do this by saving credentials and certificate information in a clear-text xml file that is stored on a secure file share at headquarters. This type of file is called a security file. By allowing only deployment tools and a limited number of users access to security files, you help make your credentials and certificates more secure.

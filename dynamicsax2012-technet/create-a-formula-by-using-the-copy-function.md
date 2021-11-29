@@ -14,6 +14,9 @@ ms.search.region: Global
 # Create a formula by using the copy function 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a formula that includes the same ingredients as an existing formula, but with minor differences. To create the formula lines, you can use the **Copy** function to copy an existing formula that has most of the ingredients that you need. You can then make any necessary changes to the individual lines in the new version. By using the **Copy** function, you do not have to create multiple formulas that are almost identical.

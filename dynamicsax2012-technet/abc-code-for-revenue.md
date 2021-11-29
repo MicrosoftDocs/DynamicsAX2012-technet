@@ -14,6 +14,9 @@ f1_keywords:
 
 # ABC code for revenue
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier that names categories in an ABC classification that ranks discrete categories of items according to their revenue.
 
 ## See also

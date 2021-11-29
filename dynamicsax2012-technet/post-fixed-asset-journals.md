@@ -23,6 +23,9 @@ ms.search.region: Global
 # Post fixed asset journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Each fixed asset transaction is posted to the general ledger. Typically, both a ledger account and a ledger offset account are affected. It is important to select the correct transaction type for fixed asset transactions because the transaction type connects the transaction to the posting profile. The posting profile determines which ledger accounts are used for posting in the general ledger.

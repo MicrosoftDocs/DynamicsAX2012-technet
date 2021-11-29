@@ -17,6 +17,9 @@ dev_langs:
 
 # IsTrue Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicator for boolean response.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

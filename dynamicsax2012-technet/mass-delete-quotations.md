@@ -19,6 +19,9 @@ ms.search.region: Global
 # Mass delete quotations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can delete a selection of quotations that you no longer want to keep track of in the system.

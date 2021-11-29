@@ -17,6 +17,9 @@ dev_langs:
 
 # IsCascadeJournalDelete Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a value indicating whether the journal should be delete in cascade (or) a particular transaction of an item in a journal.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

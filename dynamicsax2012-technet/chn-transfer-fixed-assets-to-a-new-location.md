@@ -25,6 +25,9 @@ ms.search.region: China (PRC)
 # (CHN) Transfer fixed assets to a new location 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you transfer fixed assets to a new location within your company, you can track the transfer and record the details about the transfer in an XML file. You can export the XML file by using the **GB/T 24589-2010** form. Click **General ledger** \> **Periodic** \> **China** \> **GB/T 24589 Export**.

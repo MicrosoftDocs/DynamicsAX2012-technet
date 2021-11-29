@@ -17,6 +17,9 @@ dev_langs:
 
 # Currency Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The currency code for the currency that the tax is calculated in.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

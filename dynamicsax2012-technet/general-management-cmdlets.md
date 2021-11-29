@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # General management cmdlets
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 [Get-AXAOS](get-axaos.md)
 
 [Get-AXPartitionInfo](get-axpartitioninfo.md)

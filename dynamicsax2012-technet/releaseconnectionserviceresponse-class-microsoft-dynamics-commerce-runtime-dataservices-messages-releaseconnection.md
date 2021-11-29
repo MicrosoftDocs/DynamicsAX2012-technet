@@ -17,6 +17,9 @@ dev_langs:
 
 # ReleaseConnectionServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A response for [ReleaseConnectionServiceRequest](releaseconnectionservicerequest-class-microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection.md)
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ReleaseConnection](microsoft-dynamics-commerce-runtime-dataservices-messages-releaseconnection-namespace.md)  

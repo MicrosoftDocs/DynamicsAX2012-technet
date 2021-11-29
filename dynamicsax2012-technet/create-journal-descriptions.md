@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create journal descriptions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create journal descriptions to use in hour and fee journals. A journal description is a defined block of text that is inserted in the **Description** field in the journal lines forms when you type the description identifier in the field. Journal descriptions are typically created for each month, such as “January hours,” “January fees,” and so on. You might choose different descriptions if you use journals to track hours and fees in other ways.

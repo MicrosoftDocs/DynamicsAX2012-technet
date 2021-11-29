@@ -15,6 +15,9 @@ dev_langs:
 
 # Execute Method ()
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This member overrides SPPausableJobDefinitionExecute(SPJobState).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector](microsoft-dynamics-retail-ecommerce-sp-publishing-connector-namespace.md)  

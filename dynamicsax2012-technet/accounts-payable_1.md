@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounts payable
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A subclassification of a liability account classification that describes the changes in value owed to vendors or creditors.
 
 ## See also

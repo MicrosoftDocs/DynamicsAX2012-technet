@@ -15,6 +15,9 @@ ms.search.region: Global
 # About compliance reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the following compliance report to monitor your organization's compliance status. This report is available in the Microsoft Dynamics AX client and on the **Compliance** site.

@@ -16,6 +16,9 @@ f1_keywords:
 # Enter into single-user mode 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You enter into single-user mode on the Microsoft Dynamics AX source system to make sure that the system is unavailable for business use. In single-user mode, only an upgrade user who has administrative permissions is connected. No other users can start a client session when the source system is in final preprocessing and source data is being bulk copied to the Microsoft Dynamics AX 2012 target system. After you enter into single-user mode, you can run the single-user mode preprocessing scripts and begin bulk copy of data to the target system.

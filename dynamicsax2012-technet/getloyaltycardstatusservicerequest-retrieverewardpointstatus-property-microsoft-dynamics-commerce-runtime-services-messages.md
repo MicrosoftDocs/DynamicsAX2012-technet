@@ -17,6 +17,9 @@ dev_langs:
 
 # RetrieveRewardPointStatus Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets a value indicating whether to retrieve the reward point status of the loyalty card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

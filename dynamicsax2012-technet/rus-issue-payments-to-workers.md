@@ -36,6 +36,9 @@ ms.search.region: Russia
 # (RUS) Issue payments to workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create pay-sheets for employees, issue salary payments by cash or by bank transfer, and deposit uncollected employee salaries.

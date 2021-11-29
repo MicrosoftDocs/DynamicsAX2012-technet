@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up customer and vendor payment retention for projects 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Customers may want to withhold payment from project invoices until the project work reaches a specified status. In addition, you may want to retain payments from subcontractors on your projects until you inspect the work or until the customer pays your organization.

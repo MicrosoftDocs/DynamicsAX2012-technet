@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCustomerGroupsServiceResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCustomerGroupsServiceResponse](getcustomergroupsserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Properties

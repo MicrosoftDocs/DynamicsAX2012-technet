@@ -15,6 +15,9 @@ dev_langs:
 
 # Add Method (TKey, TValue)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Add the dictionary value for the specified key.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

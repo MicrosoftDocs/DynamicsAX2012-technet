@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Change the purchase invoice dependency to the invoice register 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 If a posted invoice must not be included in the invoice register, change the dependence to the register for that invoice.

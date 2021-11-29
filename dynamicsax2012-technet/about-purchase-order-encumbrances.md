@@ -20,6 +20,9 @@ ms.search.region: Global
 # About purchase order encumbrances 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 An encumbrance is a reservation of budget funds that are set aside to make sure that actual expenditures do not exceed the available budget. If the encumbrance process is enabled, you can create purchase order encumbrances that are recorded in the general ledger when a purchase order is confirmed. Encumbered amounts can then be spent when vendor invoices that reference a purchase order are confirmed. Encumbered amounts on a purchase order are relieved when a vendor invoice is confirmed to spend all or part of the encumbered amount. Relieved amounts are subtracted from the amount of the purchase order encumbrance.

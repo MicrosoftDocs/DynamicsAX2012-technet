@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CreateSalesOrderResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CreateSalesOrderResponse](createsalesorderresponse-class-microsoft-dynamics-retail-ecommerce-sdk-services.md) type exposes the following members.
 
 ## Properties

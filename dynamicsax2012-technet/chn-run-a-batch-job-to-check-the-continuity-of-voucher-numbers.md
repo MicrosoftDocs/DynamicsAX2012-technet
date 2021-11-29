@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Run a batch job to check the continuity of voucher numbers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can use the **Chinese voucher continuity check** form to run a batch job that determines whether Chinese voucher numbers are sequential. This process renumbers the vouchers to make sure that there is no gap in the continuity of Chinese vouchers for the selected fiscal period. Vouchers that have already been printed are also renumbered if they are in the selected fiscal period. These vouchers must be reprinted to make them consistent with the vouchers that are generated.

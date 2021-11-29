@@ -17,6 +17,9 @@ dev_langs:
 
 # EvictAll Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Evicts all the items from the cache.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache](microsoft-dynamics-commerce-runtime-cache-dictionarycache-namespace.md)  

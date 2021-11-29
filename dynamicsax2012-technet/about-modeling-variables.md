@@ -15,6 +15,9 @@ ms.search.region: Global
 # About modeling variables 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When a modeling enabled item is selected it must be configured. A modeling enabled item can be configured for one of the following: a sales order, sales quotation, purchase order, production order, project quotation, or item requirement. The customer or user makes all the required choices by using the product model’s user dialog box. The choices made will determine such attributes as the shape, color, size of the finished product. The product model’s set of modeling variables represents an analytical breakdown of the whole range of choices that make up an item's configuration. Modeling variables provide a common reference point for the transfer of default values to a specific product model. Modeling variables also provide for the transfer of variable values between two different product models. Before they can be included in product models and presented in user dialog boxes, these variables must be created in the **Modeling variables** form.

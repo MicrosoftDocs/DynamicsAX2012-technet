@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # HardwareProfile Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [HardwareProfile](hardwareprofile-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

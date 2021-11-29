@@ -14,6 +14,9 @@ ms.search.region: Global
 # Key tasks: Set up address formats 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Because there are multiple address format types, for example countries and regions and states and provinces, your organization must have the flexibility to adjust to an address format when displaying a postal address. You can use the **Address setup** form to set up all postal address information for your organization. Click **Organization administration** \> **Setup** \> **Addresses** \> **Address setup**.

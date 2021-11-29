@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Financial consolidations and currency translation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 This white paper shows how Management Reporter for Microsoft Dynamics ERP and Microsoft Dynamics AX 2012 consolidate multi-company and multi-currency data. It is intended for finance and accounting end users, and application consultants.

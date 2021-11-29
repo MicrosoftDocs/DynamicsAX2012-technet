@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (IND) Duty Entitlement Pass Book (DEPB) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 For Indian installations, Microsoft Dynamics AX 2009 provides a country-specific feature that defines the process for applying and using the Duty Entitlement Pass Book (DEPB) incentive scheme as specified by the Directorate General of Foreign Trade (DGFT). This functionality provides benefits to exporting companies by maintaining correct records of inputs that are imported free of duty based on the DEPB.

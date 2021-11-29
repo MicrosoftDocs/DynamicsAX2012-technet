@@ -18,6 +18,9 @@ ms.search.region: Global
 # About migrating project data from other ERP systems 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The process of migrating project data from another Enterprise Resource Planning system into Microsoft Dynamics AX consists of two major tasks:

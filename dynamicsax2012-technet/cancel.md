@@ -13,6 +13,9 @@ f1_keywords:
 
 # cancel
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 To terminate an event prior to processing.
 
 ## See also

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (LTU) Inventory scrap statement (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays a list of all inventory that has been scrapped within a specified period.

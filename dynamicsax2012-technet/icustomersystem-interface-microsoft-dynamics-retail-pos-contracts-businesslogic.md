@@ -17,6 +17,9 @@ dev_langs:
 
 # ICustomerSystem Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ICustomerSystem interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

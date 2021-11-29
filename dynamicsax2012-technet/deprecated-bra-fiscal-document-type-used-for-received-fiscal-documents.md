@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (BRA) Fiscal document type used for received fiscal documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009 for Brazilian installations, a fiscal document type is required to receive a fiscal document. Foundation changes in Microsoft Dynamics AX 2012 changed the functionality for the receipt of fiscal documents. Therefore, the country-specific feature is not required.

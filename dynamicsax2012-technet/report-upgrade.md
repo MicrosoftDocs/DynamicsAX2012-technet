@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Upgrade 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides guidance to convert X++ reports, Microsoft Visual Studio tools for Microsoft Dynamics AX reports, and troubleshooting tips for converted reports. To use the reports you created or customized in Microsoft Dynamics AX 2009, they must be converted for Microsoft Dynamics AX 2012. The upgrade readiness checklist checks the reports that will need to be upgraded for the current release. For more information, see [Upgrade overview and preparation](upgrade-overview-and-preparation.md).

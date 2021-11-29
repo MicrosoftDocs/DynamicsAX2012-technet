@@ -18,6 +18,9 @@ ms.search.region: Global
 # About category hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains what category hierarchies are and the advantages of using a category hierarchy for procurement versus using a product. Category hierarchies are used to classify products or transactions for reporting and analysis. An organization can create more than one category hierarchy. For example, your organization might create one category hierarchy for classifying products that it buys, and another hierarchy for products that it sells. The number of category hierarchies that your organization uses, and the structure and number of subcategories in each category hierarchy, depend on the reporting needs of your organization.

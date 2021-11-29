@@ -14,6 +14,9 @@ ms.search.region: Czech Republic
 # (CZE) About posting a purchase transaction that includes intra-community VAT 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you post a purchase transaction in the European Union (EU), and the transaction includes intra-community value-added tax (VAT), the following conditions are verified automatically:

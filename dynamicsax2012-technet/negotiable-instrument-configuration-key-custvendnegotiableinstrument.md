@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Negotiable instrument configuration key (CustVendNegotiableInstrument) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Negotiable instrument** configuration key controls access to the **Bill of exchange** and **Promissory note** configuration keys. A negotiable instrument is a written promise or order, signed by the maker, to transfer a specified sum of money on demand, or at a fixed future time, to the person named on the instrument or to the bearer. A negotiable instrument is usually in the form of a check, draft, bill of exchange, promissory note, or acceptance.

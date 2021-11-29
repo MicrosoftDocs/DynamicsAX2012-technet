@@ -15,6 +15,9 @@ f1_keywords:
 # Configuring Budget Plan Templates for Microsoft Dynamics AX 2012 R2 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2012 R2, budget planning web services were developed to support creating budget plan templates. Using the budget planning fields that are exposed through a budget planning web service, templates can be created for Microsoft Excel worksheets and Microsoft Word justification documents using Office Add-ins for Microsoft Dynamics AX.

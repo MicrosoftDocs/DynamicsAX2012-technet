@@ -18,6 +18,9 @@ ms.search.region: Russia
 # (RUS) Set up a register for calculation of temporary tax differences 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Temporary tax differences can occur if expenses or revenues generate a profit in one reporting period and a taxable base in the next reporting period. This scenario causes a deferred tax on profits. These temporary differences are classified as either deductible or taxable, depending on the effect on taxable profits. Deferred tax on profit is considered either a deferred tax asset or a deferred tax liability.

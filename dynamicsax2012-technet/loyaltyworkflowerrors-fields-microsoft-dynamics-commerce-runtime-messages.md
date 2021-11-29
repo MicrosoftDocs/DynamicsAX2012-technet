@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # LoyaltyWorkflowErrors Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [LoyaltyWorkflowErrors](loyaltyworkflowerrors-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Fields

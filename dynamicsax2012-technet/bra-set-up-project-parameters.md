@@ -19,6 +19,9 @@ ms.search.region: Brazil
 # (BRA) Set up project parameters 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can group project transactions that you create for hour, expense, on-account, or item project transactions by different criteria such as transaction text, employee, invoice type, or transaction lines before you print the fiscal document lines. You can also specify the default Código Fiscal de Operações e Prestações (CFOP) codes for the same state, a different state, or outside the country or region when you generate fiscal documents from project transactions. You can split project invoices based on service code when you post the invoice.

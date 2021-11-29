@@ -17,6 +17,9 @@ dev_langs:
 
 # ProductProperties Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the product properties.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages](microsoft-dynamics-commerce-runtime-dataservices-messages-namespace.md)  

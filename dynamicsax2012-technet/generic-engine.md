@@ -13,6 +13,9 @@ f1_keywords:
 
 # generic engine
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An engine that determines the apportionment of freight charges by weight.
 
 ## See also

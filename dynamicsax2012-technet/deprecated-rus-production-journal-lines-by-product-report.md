@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deprecated: (RUS) Production journal lines, by-product report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 In Microsoft Dynamics AX 2009, the **Production journal lines, by-product** report lets users print the lines of a by-product journal, as can be done for other standard production journals.

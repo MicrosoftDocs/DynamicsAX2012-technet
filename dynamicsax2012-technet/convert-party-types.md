@@ -14,6 +14,9 @@ ms.search.region: Global
 # Convert party types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 There may be times when you have to update a record to change the party type from person to organization or from organization to person. For example, you may meet someone out in the field and create a party record that has a record type of organization. Later, you realize that the record type should be person. To make sure that the party record information is accurate, you can convert the party record type to person.

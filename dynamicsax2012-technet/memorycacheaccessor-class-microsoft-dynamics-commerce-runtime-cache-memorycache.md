@@ -17,6 +17,9 @@ dev_langs:
 
 # MemoryCacheAccessor Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class modeling the behavior of a memory cache accessor.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache](microsoft-dynamics-commerce-runtime-cache-memorycache-namespace.md)  

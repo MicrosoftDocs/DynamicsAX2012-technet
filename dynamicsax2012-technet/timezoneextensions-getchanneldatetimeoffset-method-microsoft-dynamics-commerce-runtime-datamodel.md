@@ -17,6 +17,9 @@ dev_langs:
 
 # GetChannelDateTimeOffset Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts to the channel's date/time.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # StockCountSqlServerDataService Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Stock count SQL server data service class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-namespace.md)  

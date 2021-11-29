@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Creating Reports in the AOT (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create reports that display data that is retrieved by using a query. You can create these reports by using the Application Object Tree (AOT) or by using the **Report Wizard**.

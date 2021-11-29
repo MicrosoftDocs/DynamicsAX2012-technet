@@ -20,6 +20,9 @@ ms.search.region: Global
 # Assign a price group to a project, project contract, or customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can assign an existing price group to a project, a project contract, or a customer.

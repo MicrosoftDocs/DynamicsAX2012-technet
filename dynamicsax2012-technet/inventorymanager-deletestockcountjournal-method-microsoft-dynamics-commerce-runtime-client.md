@@ -17,6 +17,9 @@ dev_langs:
 
 # DeleteStockCountJournal Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Deletes the stock count journal for the given journalId in cascade.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

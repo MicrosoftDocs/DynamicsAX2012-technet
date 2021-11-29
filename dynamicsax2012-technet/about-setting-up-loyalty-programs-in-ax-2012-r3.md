@@ -15,6 +15,9 @@ ms.search.region: Global
 # About setting up loyalty programs in AX 2012 R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A loyalty program can help increase customer loyalty by rewarding customers for buying products in your retail stores. In Microsoft Dynamics AX 2012 R3, you can set up simple or complex loyalty programs that apply across your legal entities in any retail channel. You can set up the loyalty feature in AX 2012 R3 to include the following options:

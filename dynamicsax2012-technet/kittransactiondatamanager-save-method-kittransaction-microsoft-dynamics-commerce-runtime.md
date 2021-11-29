@@ -15,6 +15,9 @@ dev_langs:
 
 # Save Method (KitTransaction)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Saves the kit operation.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

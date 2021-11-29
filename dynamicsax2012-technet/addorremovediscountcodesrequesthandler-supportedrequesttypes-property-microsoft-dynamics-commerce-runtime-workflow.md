@@ -20,6 +20,9 @@ dev_langs:
 
 # SupportedRequestTypes Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

@@ -14,6 +14,9 @@ f1_keywords:
 # (FRA) Balance list with group total accounts report (LedgerAccountSum\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Balance list with group total accounts** report displays a balance list for a specific date interval and ledger account range. This report includes the following information:

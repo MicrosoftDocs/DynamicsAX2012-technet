@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProcessBarcodeTypeResponse Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProcessBarcodeTypeResponse](processbarcodetyperesponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

@@ -17,6 +17,9 @@ dev_langs:
 
 # ChannelPriceConfiguration Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets channel price configuration.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

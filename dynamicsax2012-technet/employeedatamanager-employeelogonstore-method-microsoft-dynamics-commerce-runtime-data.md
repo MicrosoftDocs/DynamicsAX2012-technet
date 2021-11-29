@@ -17,6 +17,9 @@ dev_langs:
 
 # EmployeeLogOnStore Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Logs On the user in the local Store DB.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

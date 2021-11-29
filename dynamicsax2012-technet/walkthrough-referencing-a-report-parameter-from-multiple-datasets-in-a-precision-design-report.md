@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Walkthrough: Referencing a Report Parameter from Multiple Datasets in a Precision Design Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In this walkthrough, you will create a vendor invoice report. You will use SQL Report Designer to create a precision design for the report. The following illustration shows the report that you will create in this walkthrough.

@@ -15,6 +15,9 @@ dev_langs:
 
 # ProductSearchCriteria Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 **Note: This API is now obsolete.**
 
 Initializes a new instance of the [ProductSearchCriteria](productsearchcriteria-class-microsoft-dynamics-commerce-runtime-datamodel.md) class.

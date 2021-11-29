@@ -14,6 +14,9 @@ f1_keywords:
 # Fixed asset replacements report (AssetReplacementReport) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this report to view a list of fixed assets that are scheduled for replacement, based on the **Replacement date** field on the **General** tab in the **Value models** form. The report displays the replacement cost, replacement date, asset group, asset number, asset name, value model, acquisition date, and acquisition price for the fixed assets.

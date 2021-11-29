@@ -13,6 +13,9 @@ f1_keywords:
 
 # promotional allowance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A payment offered to a customer by a vendor in exchange for promoting their products.
 
 ## See also

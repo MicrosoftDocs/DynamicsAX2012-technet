@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnInvoiceInventTransId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invent Trans Id from the Return Invoice
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

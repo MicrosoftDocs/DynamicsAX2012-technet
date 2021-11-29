@@ -13,6 +13,9 @@ f1_keywords:
 
 # inventory location
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A functional storage facility where the stock value is recorded in accounting journals using inventory account classifications.
 
 ## See also

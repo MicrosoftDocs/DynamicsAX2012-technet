@@ -13,6 +13,9 @@ f1_keywords:
 
 # functional currency unit
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A currency unit of a country/region in which a primary legal entity locates its business activities and in which it generates most of its revenue and expenses.
 
 ## See also

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Insert a Switch node 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Switch node is useful when you have to test for several different outcomes of a certain variable. A Switch node is meaningless without one or more subnodes. The subnodes must be added manually. There are two node types that you can add to a Switch node:

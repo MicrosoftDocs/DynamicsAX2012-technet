@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Key tasks: Tax information for legal entities 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 Use the following information to set up tax information for a legal entity in India.

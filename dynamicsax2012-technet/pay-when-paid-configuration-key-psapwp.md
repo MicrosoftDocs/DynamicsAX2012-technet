@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Pay when paid configuration key (PSAPwp) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Pay when paid** configuration key controls access to forms and functions for creating and maintaining conditions in a project contract that specify when to pay a vendor invoice. For a pay-when-paid project contract, you withhold payment to a vendor or subcontractor until you have been paid by your customer for the project. The pay-when-paid feature is available in the **Project management and accounting** module.

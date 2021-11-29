@@ -14,6 +14,9 @@ ms.search.region: Denmark, France
 # Select invoices to pay (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics provide information about selecting vendor invoices to pay. These public sector topics complement the information that is listed in the main section for [Select vendor invoices to pay and settle](select-vendor-invoices-to-pay-and-settle.md).

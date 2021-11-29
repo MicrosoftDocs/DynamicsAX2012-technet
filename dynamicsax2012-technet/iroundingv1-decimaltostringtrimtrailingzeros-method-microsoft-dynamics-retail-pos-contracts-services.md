@@ -17,6 +17,9 @@ dev_langs:
 
 # DecimalToStringTrimTrailingZeros Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Converts passed amount from decimal to string.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

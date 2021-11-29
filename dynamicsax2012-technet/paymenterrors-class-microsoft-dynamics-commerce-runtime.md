@@ -17,6 +17,9 @@ dev_langs:
 
 # PaymentErrors Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Class container for all error codes resulting from problems processing of payments.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

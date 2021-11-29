@@ -17,6 +17,9 @@ dev_langs:
 
 # PreSetQty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before the quantity of an item is set.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

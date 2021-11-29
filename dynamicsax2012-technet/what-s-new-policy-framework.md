@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # What's new: Policy Framework 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX 2012 introduces a policy framework that lets you define policy rules in modules to help guide the flow of business. The framework provides a set of common patterns and rich features that users can use to enforce simple rules, or to evaluate and act on several different rules in a complex organizational hierarchy. You can create policy rules to control transaction flow and enforce business rules in the following areas:

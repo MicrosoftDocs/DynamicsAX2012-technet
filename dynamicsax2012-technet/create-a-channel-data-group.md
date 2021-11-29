@@ -15,6 +15,9 @@ f1_keywords:
 # Create a channel data group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You can group similar channel databases into a data group. For example, you can group the databases for stores that are in the same region or stores that are of the same type. All channel databases in a data group subscribe to the same data. When you run a distribution schedule, a data package is generated for each data group. Use data groups to reduce the number of data packages that are generated from Microsoft Dynamics AX, and therefore help improve performance.

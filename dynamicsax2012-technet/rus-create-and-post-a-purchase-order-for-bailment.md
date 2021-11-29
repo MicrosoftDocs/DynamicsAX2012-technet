@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a purchase order for bailment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create and post a purchase order to receive items for storage. Taxes are not calculated when you create the purchase order, and the purchase invoice is not included in factures.

@@ -33,6 +33,9 @@ ms.search.region: USA
 # Payroll data updates 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic answers questions you might have about how to maintain payroll data.
 
 This topic describes functionality that is available only if the **Payroll - USA** configuration key is selected.

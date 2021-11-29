@@ -17,6 +17,9 @@ dev_langs:
 
 # CaptureErrorEvent Event
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Signature capture error event.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CompositionElementCollection Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CompositionElementCollection](compositionelementcollection-class-microsoft-dynamics-commerce-runtime-configuration.md) type exposes the following members.
 
 ## Methods

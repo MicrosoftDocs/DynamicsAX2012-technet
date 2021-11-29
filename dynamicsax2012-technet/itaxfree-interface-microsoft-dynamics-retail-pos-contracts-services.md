@@ -17,6 +17,9 @@ dev_langs:
 
 # ITaxFree Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This interface is not implemented.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

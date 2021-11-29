@@ -17,6 +17,9 @@ dev_langs:
 
 # ISuspendRetrieveSystem Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ISuspendRetrieveSystem interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

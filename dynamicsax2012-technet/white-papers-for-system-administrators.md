@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # White papers for system administrators 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The white papers in this section provide information about recommended practices for system administrators who implement and manage Microsoft Dynamics AX 2012.

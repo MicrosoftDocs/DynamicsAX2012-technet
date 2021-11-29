@@ -17,6 +17,9 @@ dev_langs:
 
 # SalesMustHaveQuantityGreaterThanZero Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates that a sales transaction must have positive quantities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

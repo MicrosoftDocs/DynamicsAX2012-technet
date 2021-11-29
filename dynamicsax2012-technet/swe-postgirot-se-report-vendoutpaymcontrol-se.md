@@ -18,6 +18,9 @@ f1_keywords:
 # (SWE) Postgirot (SE) report (VendOutPaymControl\_SE) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Postgirot (SE)** report displays the details of vendor transactions along with the **Sequence number**, **Routing number**, and total amounts of the transactions. This report is used to maintain vendor payment details and to inquire into the status of vendor payments. This report is typically used by accounts payable payment clerks, chief executive officers, accountants, accounting managers, accounting supervisors, and financial controllers.

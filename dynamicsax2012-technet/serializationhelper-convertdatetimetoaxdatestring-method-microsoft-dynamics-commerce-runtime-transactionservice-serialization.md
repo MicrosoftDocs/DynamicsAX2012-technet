@@ -17,6 +17,9 @@ dev_langs:
 
 # ConvertDateTimeToAXDateString Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the AX date string for given DateTime with given AX date sequence format.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization](microsoft-dynamics-commerce-runtime-transactionservice-serialization-namespace.md)  

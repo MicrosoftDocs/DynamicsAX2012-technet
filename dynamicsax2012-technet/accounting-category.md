@@ -14,6 +14,9 @@ f1_keywords:
 
 # accounting category
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A classifier used to group journal account entries according to their economic characteristics.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # NameColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Name column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

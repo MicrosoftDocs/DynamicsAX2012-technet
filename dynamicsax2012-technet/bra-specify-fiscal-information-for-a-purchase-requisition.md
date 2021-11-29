@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Specify fiscal information for a purchase requisition 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can specify the fiscal information for a purchase requisition by using the **Purchase requisitions** form. Taxes are based on the vendor, item, and fiscal information that is available on a purchase requisition line, such as the Código Fiscal de Operações e Prestações (CFOP) and service code.

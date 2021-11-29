@@ -20,6 +20,9 @@ ms.search.region: Global
 # Budget planning overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic introduces budget planning and contains information to help you configure budget planning and set up budget planning processes.

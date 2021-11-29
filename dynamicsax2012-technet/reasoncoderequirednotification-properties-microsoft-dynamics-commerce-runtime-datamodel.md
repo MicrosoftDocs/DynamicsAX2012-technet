@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ReasonCodeRequiredNotification Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ReasonCodeRequiredNotification](reasoncoderequirednotification-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Properties

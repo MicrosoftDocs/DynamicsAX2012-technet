@@ -17,6 +17,9 @@ dev_langs:
 
 # GetAddressInfoServiceRequest Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 GetAddressInfoRequest: base class for enumeration scenarios.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

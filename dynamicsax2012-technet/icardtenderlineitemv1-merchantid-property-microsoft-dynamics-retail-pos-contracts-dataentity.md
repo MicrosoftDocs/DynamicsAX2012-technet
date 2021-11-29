@@ -17,6 +17,9 @@ dev_langs:
 
 # MerchantId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The merchant id used for authorization.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -14,6 +14,9 @@ f1_keywords:
 # Setting up screen layouts (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The graphical design of the interface of is controlled by a screen layout. A layout controls the position of various elements on the screen, such as total amounts, product information, customer information, payment information, and the location of various buttons. A screen layout can also contain pictures and custom button grids.

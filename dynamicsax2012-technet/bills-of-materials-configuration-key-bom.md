@@ -14,6 +14,9 @@ f1_keywords:
 # Bills of materials configuration key (BOM) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Bills of materials** configuration key controls access to forms and functions for the bill of materials (BOM) functionality in the **Inventory management** module. BOMs are associated with items and describe the components for making an item.

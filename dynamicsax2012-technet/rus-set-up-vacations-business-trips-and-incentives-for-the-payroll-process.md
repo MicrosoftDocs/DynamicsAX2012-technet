@@ -48,6 +48,9 @@ ms.search.region: Russia
 # (RUS) Set up vacations, business trips, and incentives for the payroll process 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to set up vacation types, business trip types, and bonus types, as well as how to set up calculation methods for vacations and business trips.

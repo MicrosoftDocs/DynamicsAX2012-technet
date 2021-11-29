@@ -18,6 +18,9 @@ ms.search.region: Global
 # Delegate work items (Enterprise Portal) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 If you will be out of the office for a period of time or will be unavailable to act on work items, you can delegate, or reassign, your work items to another user.

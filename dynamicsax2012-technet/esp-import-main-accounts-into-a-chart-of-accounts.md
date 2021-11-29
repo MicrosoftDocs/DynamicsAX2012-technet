@@ -16,6 +16,9 @@ ms.search.region: Spain
 # (ESP) Import main accounts into a chart of accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Import main accounts** form to import main account information into a chart of accounts. To import new or updated general ledger accounts, you must first download the template that contains the general ledger accounts. During the import process, Microsoft Dynamics AX verifies whether the account number already exists in the chart of accounts. If you import an account that already exists in the chart of accounts, the import process ends.

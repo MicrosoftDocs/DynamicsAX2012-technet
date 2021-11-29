@@ -13,6 +13,9 @@ f1_keywords:
 
 # short-term debt
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A current obligation that is payable within one year.
 
 ## See also

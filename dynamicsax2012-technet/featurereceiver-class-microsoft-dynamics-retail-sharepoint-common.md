@@ -17,6 +17,9 @@ dev_langs:
 
 # FeatureReceiver Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides common functionality for feature receivers.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Retail gift card configuration key (RetailGiftCard) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 The **Retail gift card** configuration key controls access to retail gift card forms and inquiries.

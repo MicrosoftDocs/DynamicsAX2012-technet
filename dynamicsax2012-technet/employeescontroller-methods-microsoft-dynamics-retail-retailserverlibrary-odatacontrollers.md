@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # EmployeesController Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [EmployeesController](employeescontroller-class-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # MainDatabase Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the database path.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

@@ -20,6 +20,9 @@ dev_langs:
 
 # PriceDiscountAccountCode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enables to grant a discount with regard to a customer, a superordinate customer group or to all customers.
 
 Refers to table PriceDiscTable.AccountCode.

@@ -17,6 +17,9 @@ dev_langs:
 
 # CustomerOrderTransactionTableSchema Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Metadata for CustomerOrderTransactionTable table.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

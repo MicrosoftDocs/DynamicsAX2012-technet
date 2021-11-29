@@ -19,6 +19,9 @@ ms.search.region: Global
 # Forecast cash flow and currency requirements 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the tools for forecasting cash flow and currency requirements to estimate the company's future need for cash. To obtain a reliable forecast of the cash flow, you must do the following:

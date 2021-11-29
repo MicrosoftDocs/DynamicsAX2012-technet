@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Set up tax ledger posting groups 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use this procedure to create and manage the tax groups that determine the sales tax and duty postings for indirect tax codes in India. The settings that you select for a tax group determine how the taxes in the tax group are posted to ledger accounts.

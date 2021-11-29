@@ -18,6 +18,9 @@ ms.search.region: Global
 # Key tasks: Create and process budget plans 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic explains how to manually create a budget plan. For information about how to automatically generate a budget plan from another budget plan, the general ledger, fixed assets, or forecast positions, see [Generate budget plans from source information](generate-budget-plans-from-source-information.md).

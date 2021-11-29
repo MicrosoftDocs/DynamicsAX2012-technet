@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTerminalByRecordId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets terminal entity by record identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

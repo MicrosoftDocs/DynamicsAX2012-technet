@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Find the Data Source For a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
  This topic describes how to find the report data source information from the Application Object Tree (AOT). A report data source can be one of the following:

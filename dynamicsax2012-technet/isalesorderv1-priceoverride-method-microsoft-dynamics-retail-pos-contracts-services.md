@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceOverride Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Manages the price-override operation for sales order.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

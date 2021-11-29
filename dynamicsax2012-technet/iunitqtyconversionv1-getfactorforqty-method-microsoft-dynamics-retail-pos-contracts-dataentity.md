@@ -17,6 +17,9 @@ dev_langs:
 
 # GetFactorForQty Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 With Markup, the overall "factor" changes depending on quantity converted.
 
 For easier use with code assuming a simple factor, this returns that "factor" for a given quantity

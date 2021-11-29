@@ -29,6 +29,9 @@ ms.search.region: Global
 # Reporting and analytics 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX provides hundreds of preconfigured reports that you can use to view and analyze business data. Microsoft Dynamics AX also provides tools that you can use to create your own custom reports. See the following topics for more information about how to work with reports.

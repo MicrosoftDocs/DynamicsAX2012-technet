@@ -17,6 +17,9 @@ dev_langs:
 
 # GetEmployeePermissions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets Employee permission settings.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

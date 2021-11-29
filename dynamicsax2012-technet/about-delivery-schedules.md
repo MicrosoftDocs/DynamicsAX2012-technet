@@ -25,6 +25,9 @@ ms.search.region: Global
 # About delivery schedules 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the delivery schedule functionality when you want to split a sales order, purchase order, or sales quotation order line into several order lines. Each order line is called a delivery line. Two or more delivery lines make up one delivery schedule. The delivery lines can vary in delivery dates, quantities, mode of delivery, and storage dimensions such as site and warehouse.

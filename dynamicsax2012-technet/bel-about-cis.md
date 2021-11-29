@@ -19,6 +19,9 @@ ms.search.region: Belgium
 # (BEL) About CIS 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Belgian companies exchange information with their banks electronically using Isabel 6. Isabel 6 allows you to transfer payment files to the bank and receive electronic bank statements in accordance with the Isabel electronic banking standards. Isabel 6 uses only known formats such as Isabel, Swift, Dom, SEPA, and CODA. For more information about Isabel 6, see [Isabel – Beyond Banking](http://www.isabel.be/) on the Isabel website.

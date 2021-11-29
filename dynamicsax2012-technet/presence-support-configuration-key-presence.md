@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Presence support configuration key (Presence) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Presence support** configuration key allows you to enable unified communications in Microsoft Dynamics AX. The presence indicator and unified communications allow you to view the availability of colleagues and contacts, and to communicate more quickly by using instant messaging, e-mail, and the telephone.

@@ -17,6 +17,9 @@ ms.search.region: Russia
 # (RUS) VAT operation types for export transactions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Export sales are taxable at a value-added tax (VAT) rate of zero percent. However, the taxpayer can apply this tax rate only after receiving a confirmation from the tax authorities within a specified period. The taxpayer must collect the necessary documents that confirm the VAT rate of zero percent for export sales within this period. If the tax authority provides this confirmation within the specified period, the tax is calculated at a VAT rate of zero percent and is included in the sales book. If the confirmation is not received in time, the taxpayer must pay tax at the standard VAT rate of 10 percent or 18 percent, along with any tax that is overdue from the export confirmation. Factures are calculated for a VAT rate of zero percent, a VAT rate of 10 percent, and a VAT rate of 18 percent, and are recorded in the sales book.

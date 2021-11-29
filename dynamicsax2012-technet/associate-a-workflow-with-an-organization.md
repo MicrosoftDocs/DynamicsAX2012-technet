@@ -15,6 +15,9 @@ ms.search.region: Global
 # Associate a workflow with an organization 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Some workflows are used to process documents that are associated with your whole organization. However, other workflows are used to process documents that are associated with a specific organization, such as a legal entity. For this kind of workflow, follow these steps to select the specific organization that the documents in the workflow are associated with.

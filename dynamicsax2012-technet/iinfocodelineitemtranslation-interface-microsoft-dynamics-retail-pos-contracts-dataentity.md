@@ -17,6 +17,9 @@ dev_langs:
 
 # IInfocodeLineItemTranslation Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The infocode item translation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetNextReceiptIdServiceResponse Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Overload List
 
 <table>

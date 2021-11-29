@@ -17,6 +17,9 @@ dev_langs:
 
 # IBankDropTransaction Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 IBankDropTransaction interface.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

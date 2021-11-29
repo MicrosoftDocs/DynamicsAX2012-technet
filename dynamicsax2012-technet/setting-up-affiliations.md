@@ -14,6 +14,9 @@ ms.search.region: Global
 # Setting up affiliations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about how to set up Retail affiliations.

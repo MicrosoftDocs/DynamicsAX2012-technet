@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTerminalSeed Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the current terminal seed value for the type given.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TaxLimitMax Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The maximum amount that is required to calculate the tax.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

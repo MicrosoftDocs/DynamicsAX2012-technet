@@ -13,6 +13,9 @@ f1_keywords:
 
 # payment
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A past, present, or future settlement of an obligation.
 
 ## See also

@@ -20,6 +20,9 @@ ms.search.region: Denmark, France
 # Working with general budget reservations (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 The topics in this section provide information about working with general budget reservations for public sector entities. These public sector topics complement the information that can be found under the main Help section for [Working with basic budgeting and budget control](working-with-basic-budgeting-and-budget-control.md).

@@ -17,6 +17,9 @@ dev_langs:
 
 # SetDefaultPage Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Sets the default welcome page to the specified SharePoint site.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

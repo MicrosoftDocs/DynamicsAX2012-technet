@@ -17,6 +17,9 @@ dev_langs:
 
 # GetItemAvailabilityThresholdTemplate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the item availability threshold settings.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -15,6 +15,9 @@ dev_langs:
 
 # Explicit Conversion (CommercePropertyValue to Int32)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Defines explicit CommercePropertyValue-to-int conversion operator.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

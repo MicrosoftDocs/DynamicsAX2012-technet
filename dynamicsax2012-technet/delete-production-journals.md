@@ -14,6 +14,9 @@ ms.search.region: Global
 # Delete production journals 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 It is useful to delete old or unused journals to reduce demand on system resources.

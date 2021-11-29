@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Modify a trigger 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack_
 
 You use triggers to capture events that fire before and after Microsoft Dynamics AX for Retail POS operations. You can insert custom logic before the operation runs or after it has completed. The Retail POS IOperationTriggers interface introduces new generic triggers called the PreProcessOperation and PostProcessOperation. These triggers run at the beginning and end of all POS operations. For more information about triggers, see [Extend Point of Sale](extend-point-of-sale.md).

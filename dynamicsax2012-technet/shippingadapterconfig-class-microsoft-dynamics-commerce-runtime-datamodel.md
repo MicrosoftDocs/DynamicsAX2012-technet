@@ -17,6 +17,9 @@ dev_langs:
 
 # ShippingAdapterConfig Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents an entry in the shipper carrier account configuration view.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

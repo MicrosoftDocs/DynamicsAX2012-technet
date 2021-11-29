@@ -14,6 +14,9 @@ f1_keywords:
 # Size of company accounts report (SysCompanySize) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Size of company accounts** report lists all database tables associated with a Microsoft Dynamics AX company, including the number of records in each table and the space occupied by the table in the database, in bytes.

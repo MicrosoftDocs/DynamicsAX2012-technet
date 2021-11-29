@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WelcomeBar Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WelcomeBar](welcomebar-class-microsoft-dynamics-retail-sharepoint-web-storefront-controls.md) type exposes the following members.
 
 ## Methods

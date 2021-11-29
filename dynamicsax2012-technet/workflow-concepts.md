@@ -14,6 +14,9 @@ ms.search.region: Global
 # Workflow concepts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The following topics explain key concepts and terms that you must understand to configure and use the workflow system.

@@ -14,6 +14,9 @@ f1_keywords:
 # (FRA) Mandat de paiement report (Public sector) (VendDirective\_PSN) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this form to print a report that consists of one or more mandats de paiement.

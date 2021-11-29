@@ -17,6 +17,9 @@ dev_langs:
 
 # AmountThresholdColumn Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Amount threshold column.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

@@ -13,6 +13,9 @@ f1_keywords:
 
 # financial dimension
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A financial data classifier created from the parties, locations, products, and activities in an organization and used for management reporting.
 
 ## See also

@@ -17,6 +17,9 @@ dev_langs:
 
 # NewRow Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates a new data row based on this table's column schema.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Types](microsoft-dynamics-commerce-runtime-data-types-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # EnterCustomerId Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Enter the customer ID and add the customer to the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

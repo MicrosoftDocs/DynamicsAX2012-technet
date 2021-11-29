@@ -20,6 +20,9 @@ ms.search.region: Global
 # Configuring parameters and initial settings (Call center) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 You must set parameters to configure the **Call center** module for your business. Parameters provide default settings and values that can often be changed in individual records.

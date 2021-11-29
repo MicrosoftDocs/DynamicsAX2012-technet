@@ -17,6 +17,9 @@ dev_langs:
 
 # ReturnCustomer Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Indicates whether the customer was added to the transaction during a return transaction operation.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

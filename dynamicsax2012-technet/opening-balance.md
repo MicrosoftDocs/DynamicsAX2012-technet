@@ -13,6 +13,9 @@ f1_keywords:
 
 # opening balance
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The balance of an account at the beginning of a fiscal period.
 
 ## See also

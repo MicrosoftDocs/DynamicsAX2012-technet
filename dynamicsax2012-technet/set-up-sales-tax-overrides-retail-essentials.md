@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up sales tax overrides (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up sales tax overrides that let cashiers modify the amount of tax on a sales transaction.

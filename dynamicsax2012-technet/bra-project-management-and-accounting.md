@@ -14,6 +14,9 @@ ms.search.region: Brazil
 # (BRA) Project management and accounting 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use Project management and accounting to plan, create, manage, control and complete projects for your organization.

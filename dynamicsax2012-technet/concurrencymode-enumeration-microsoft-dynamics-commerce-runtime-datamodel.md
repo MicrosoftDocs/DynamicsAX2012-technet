@@ -20,6 +20,9 @@ dev_langs:
 
 # ConcurrencyMode Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Specifies how the discount should interact with other discounts on a line.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

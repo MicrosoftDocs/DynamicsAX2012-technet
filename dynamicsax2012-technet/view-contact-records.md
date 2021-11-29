@@ -16,6 +16,9 @@ ms.search.region: Global
 # View contact records 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Contacts** pages to view a list of contacts. Contacts are the primary people whom you interact with for prospect, lead, opportunity, and customer records.

@@ -17,6 +17,9 @@ dev_langs:
 
 # PriceHasBeenKeyedIn Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 True when the price has been keyed in (must key in price option).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

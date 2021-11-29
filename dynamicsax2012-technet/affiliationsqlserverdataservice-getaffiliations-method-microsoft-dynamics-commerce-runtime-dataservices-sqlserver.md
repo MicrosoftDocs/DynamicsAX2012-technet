@@ -18,6 +18,9 @@ dev_langs:
 
 # GetAffiliations Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets affiliations.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer](microsoft-dynamics-commerce-runtime-dataservices-sqlserver-namespace.md)  

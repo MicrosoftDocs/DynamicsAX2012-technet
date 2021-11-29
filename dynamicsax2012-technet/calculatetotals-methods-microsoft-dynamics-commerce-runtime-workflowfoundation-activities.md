@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # CalculateTotals Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [CalculateTotals](calculatetotals-class-microsoft-dynamics-commerce-runtime-workflowfoundation-activities.md) type exposes the following members.
 
 ## Methods

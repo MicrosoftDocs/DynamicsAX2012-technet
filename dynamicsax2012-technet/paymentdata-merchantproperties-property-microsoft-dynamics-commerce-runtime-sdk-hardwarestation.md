@@ -17,6 +17,9 @@ dev_langs:
 
 # MerchantProperties Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the connector properties as an XML blob format.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation](microsoft-dynamics-commerce-runtime-sdk-hardwarestation-namespace.md)  

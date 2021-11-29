@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Activate an inventory transaction combination by site 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 To track and document the value of inventory items that are spread across multiple warehouses, you can set up inventory transaction combinations for all sites or for a specific site.

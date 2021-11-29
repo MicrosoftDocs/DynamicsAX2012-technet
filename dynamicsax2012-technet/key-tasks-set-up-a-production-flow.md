@@ -27,6 +27,9 @@ ms.search.region: Global
 # Key tasks: Set up a production flow 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic describes the tasks that you must complete to create and configure a production flow that can be used in lean manufacturing production or replenishment activities. The subtasks are listed in sequential order.

@@ -19,6 +19,9 @@ ms.search.region: Global
 # View service task relations 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Service tasks** page to view a list of service task relations that were created for service agreements or service orders, or to view the details of a specific service task relation. A service task is a generic task that can be assigned to more than one service agreement or service order. The service task relation connects a service task with a service agreement or order.

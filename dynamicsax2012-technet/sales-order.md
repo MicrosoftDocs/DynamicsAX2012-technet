@@ -13,6 +13,9 @@ f1_keywords:
 
 # sales order
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A source document that documents the offer to sell products or the acceptance of an offer to buy products in exchange for payment.
 
 ## See also

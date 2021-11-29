@@ -19,6 +19,9 @@ ms.search.region: Global
 # Update inventory batch attributes from a quality order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to update one or multiple inventory batch attributes. The updated attribute values are taken from test results that are shown in a quality order.

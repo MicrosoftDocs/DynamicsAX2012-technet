@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # TrustedIdentityProviderSecurityTokenService Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [TrustedIdentityProviderSecurityTokenService](trustedidentityprovidersecuritytokenservice-class-microsoft-dynamics-retail-sharepoint-web-common.md) type exposes the following members.
 
 ## Methods

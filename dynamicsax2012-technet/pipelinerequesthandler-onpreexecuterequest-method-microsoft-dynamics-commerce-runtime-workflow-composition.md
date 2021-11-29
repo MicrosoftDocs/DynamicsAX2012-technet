@@ -17,6 +17,9 @@ dev_langs:
 
 # OnPreExecuteRequest Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Invoked before the execute method is called on the handlers.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow.Composition](microsoft-dynamics-commerce-runtime-workflow-composition-namespace.md)  

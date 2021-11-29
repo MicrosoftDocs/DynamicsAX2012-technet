@@ -33,6 +33,9 @@ dev_langs:
 
 # EmployeeActivityType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Time clock type which is mapped from AX enum "JmgTermRegType".
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

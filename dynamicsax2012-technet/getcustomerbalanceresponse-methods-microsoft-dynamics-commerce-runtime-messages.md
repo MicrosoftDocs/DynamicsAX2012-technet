@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCustomerBalanceResponse Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCustomerBalanceResponse](getcustomerbalanceresponse-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Methods

@@ -17,6 +17,9 @@ dev_langs:
 
 # InventoryDimensionId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets the optional dimension identifier (for variant) that this product price applies to.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

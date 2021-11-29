@@ -17,6 +17,9 @@ dev_langs:
 
 # IssueLoyaltyCard Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Issues a new loyalty card.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

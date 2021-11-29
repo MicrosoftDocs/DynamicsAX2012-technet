@@ -17,6 +17,9 @@ ms.search.region: Global
 # Create or edit a sales quotation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can use the **Create sales quotation** and **Edit sales quotation** pages to create or edit sales quotations.

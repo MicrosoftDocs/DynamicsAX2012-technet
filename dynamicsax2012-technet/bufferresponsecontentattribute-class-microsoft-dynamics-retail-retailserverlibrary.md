@@ -17,6 +17,9 @@ dev_langs:
 
 # BufferResponseContentAttribute Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Attribute that will make sure response gets buffered before return.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

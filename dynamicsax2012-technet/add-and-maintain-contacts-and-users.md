@@ -20,6 +20,9 @@ ms.search.region: Global
 # Add and maintain contacts and users 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In the Customer self-service portal, you can submit requests to add new users if you are the portal administrator for your organization. Users are the contacts in your organization who interact with the portal owner by using the Customer self-service portal. You can modify a request and resubmit it. You can also delete a request, as long as the request has not been approved. You can also submit requests to delete approved users. After you submit a user request to workflow, you can view the status of the request while the portal owner finishes the workflow tasks.

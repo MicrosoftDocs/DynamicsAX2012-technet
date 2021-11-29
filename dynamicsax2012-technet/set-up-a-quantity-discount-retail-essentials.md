@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up a quantity discount (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up a quantity discount. A quantity discount is a discount that is given to customers when they purchase a particular quantity of a product.

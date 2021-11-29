@@ -16,6 +16,9 @@ ms.search.region: France
 # (FRA) Apply a penalty when a customer payment is past due 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012_
 
 You can apply a penalty when a customer payment is past due. You can print the lump sum recovery text that displays the penalty amount that must be paid on the invoice, and the due date of the payment. For more information about how to set up and print the lump sum recovery text on a customer invoice, see [(FRA) Configure and print a lump sum recovery text on a customer invoice](fra-configure-and-print-a-lump-sum-recovery-text-on-a-customer-invoice.md).

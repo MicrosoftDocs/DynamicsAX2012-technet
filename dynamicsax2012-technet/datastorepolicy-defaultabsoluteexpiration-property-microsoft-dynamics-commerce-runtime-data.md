@@ -17,6 +17,9 @@ dev_langs:
 
 # DefaultAbsoluteExpiration Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the default absolute expiration for this data store.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data](microsoft-dynamics-commerce-runtime-data-namespace.md)  

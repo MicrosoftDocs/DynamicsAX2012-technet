@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) Set up a bank account for bank payments transfer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can set up the company bank account details using the **Bank accounts** form.

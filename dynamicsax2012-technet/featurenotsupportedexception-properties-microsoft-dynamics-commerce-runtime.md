@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # FeatureNotSupportedException Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [FeatureNotSupportedException](featurenotsupportedexception-class-microsoft-dynamics-commerce-runtime.md) type exposes the following members.
 
 ## Properties

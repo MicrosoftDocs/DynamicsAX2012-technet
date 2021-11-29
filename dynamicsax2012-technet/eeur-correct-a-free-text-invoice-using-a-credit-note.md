@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Correct a free text invoice using a credit note 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 When you correct an invoice that has been posted, a corrected invoice is created, and you can modify the invoice and post it with the new values. When you post the corrected invoice, a canceling invoice is created, which brings the combined balance of the original invoice and the canceling invoice to a zero amount.

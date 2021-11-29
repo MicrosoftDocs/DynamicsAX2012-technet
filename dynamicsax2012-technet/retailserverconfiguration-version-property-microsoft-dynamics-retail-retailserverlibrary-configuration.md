@@ -17,6 +17,9 @@ dev_langs:
 
 # Version Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the retail server version.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.Configuration](microsoft-dynamics-retail-retailserverlibrary-configuration-namespace.md)  

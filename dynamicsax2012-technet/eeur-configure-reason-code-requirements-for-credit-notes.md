@@ -14,6 +14,9 @@ ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, R
 # (EEUR) Configure reason code requirements for credit notes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Reason codes help explain why some types of transaction were entered or why some field values were changed. For example, you can create reason code to use with write-down adjustments or modifications in the **Sales value** field in Fixed assets.

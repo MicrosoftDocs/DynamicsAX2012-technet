@@ -17,6 +17,9 @@ dev_langs:
 
 # PublishingPortalInternalUrlPropertyName Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents name of configuration app settings key which stores Publishing Portal's internal URL.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # IQueryElement Interface
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents configuration values used in conjunction with paging query results.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Configuration](microsoft-dynamics-commerce-runtime-configuration-namespace.md)  

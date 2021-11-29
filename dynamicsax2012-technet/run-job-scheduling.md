@@ -21,6 +21,9 @@ ms.search.region: Global
 # Run job scheduling 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Job scheduling breaks each operation into individual jobs. These jobs are associated with the resources where the operation occurs, and are scheduled by using the optimal dates and times.

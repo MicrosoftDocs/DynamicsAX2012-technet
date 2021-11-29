@@ -17,6 +17,9 @@ dev_langs:
 
 # IndexedComponentProperties Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets a list of kit component properties of all products used in the kit component line as substitute or as a default component product, indexed by the productId.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

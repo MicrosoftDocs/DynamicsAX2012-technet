@@ -15,6 +15,9 @@ f1_keywords:
 # ADA requirements report (HcmADARequirement) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Print a report about physical activities, physical requirements, visual acuity, and working conditions that a worker will be subjected to while employed in a particular job or job template.

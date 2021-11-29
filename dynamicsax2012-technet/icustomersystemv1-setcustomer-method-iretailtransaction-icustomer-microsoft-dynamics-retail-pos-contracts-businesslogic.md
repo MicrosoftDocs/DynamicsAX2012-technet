@@ -15,6 +15,9 @@ dev_langs:
 
 # SetCustomer Method (IRetailTransaction, ICustomer)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set the customer on the transaction, and reset customer based tax groups.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic](microsoft-dynamics-retail-pos-contracts-businesslogic-namespace.md)  

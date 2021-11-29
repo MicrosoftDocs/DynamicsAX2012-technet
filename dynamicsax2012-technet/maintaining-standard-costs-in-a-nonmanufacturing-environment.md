@@ -21,6 +21,9 @@ ms.search.region: Global
 # Maintaining standard costs in a nonmanufacturing environment 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Nonmanufacturing and distribution environments maintain standard costs for purchased items. The guidelines for maintaining an item's standard costs consist of several scenarios. For example, standard costs can be set for the first time, they can be updated through the frozen period, and they can be periodically updated. The guidelines assume that you complete preparatory steps before you maintain standard costs for purchased items.

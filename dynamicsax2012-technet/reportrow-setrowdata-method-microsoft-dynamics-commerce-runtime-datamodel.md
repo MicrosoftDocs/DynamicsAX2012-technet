@@ -17,6 +17,9 @@ dev_langs:
 
 # SetRowData Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Set name value pairs for this row.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

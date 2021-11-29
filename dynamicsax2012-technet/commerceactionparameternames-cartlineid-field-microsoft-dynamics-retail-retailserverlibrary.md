@@ -17,6 +17,9 @@ dev_langs:
 
 # CartLineId Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The cart line ID.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary](microsoft-dynamics-retail-retailserverlibrary-namespace.md)  

@@ -14,6 +14,9 @@ ms.search.region: Global
 # Set up parameters for data synchronization with Microsoft Project Server 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The parameters that you set in the **Synchronization service parameters** form determine how data is synchronized between Microsoft Project Server and Microsoft Dynamics AX.

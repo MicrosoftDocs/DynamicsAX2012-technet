@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDeliveryOptionsResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the response containing delivery options computed.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

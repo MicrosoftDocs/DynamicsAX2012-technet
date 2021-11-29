@@ -17,6 +17,9 @@ dev_langs:
 
 # TransactionProperty Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents a persistent property for a transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

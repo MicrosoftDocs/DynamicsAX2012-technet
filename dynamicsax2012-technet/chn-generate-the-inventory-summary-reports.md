@@ -14,6 +14,9 @@ ms.search.region: China (PRC)
 # (CHN) Generate the inventory summary reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Organizations often use inventory summary reports to view the issue history or receipt history for inventory items, summaries of inventory status, and reports of detailed inventory status for a specific period. You can query the inventory summary details, with an option to set the inventory dimensions.

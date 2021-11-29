@@ -17,6 +17,9 @@ dev_langs:
 
 # CategoryNameTranslation Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Provides a translation for a name of category.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

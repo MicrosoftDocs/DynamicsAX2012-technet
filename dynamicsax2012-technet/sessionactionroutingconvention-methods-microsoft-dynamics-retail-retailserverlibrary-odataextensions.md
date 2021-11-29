@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # SessionActionRoutingConvention Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [SessionActionRoutingConvention](sessionactionroutingconvention-class-microsoft-dynamics-retail-retailserverlibrary-odataextensions.md) type exposes the following members.
 
 ## Methods

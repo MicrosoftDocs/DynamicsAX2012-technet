@@ -15,6 +15,9 @@ dev_langs:
 
 # GetLineDeliveryOptions Method (String, String)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get the delivery options for each sales line in the cart.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

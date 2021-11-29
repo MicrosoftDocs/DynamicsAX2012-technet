@@ -17,6 +17,9 @@ f1_keywords:
 # (FRA) Customer account statement report (CustAccountStatement\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Customer account statement** report displays the details of account statements for customers for a period that you specify. The beginning balance of a customer statement is displayed in the **Debit EUR** column if the opening balance is more than 0 (zero) and in the **Credit EUR** column if the opening balance is less than 0 (zero). This report is used to review collections, invoices, and cash processes, and to inquire about the collection status. This report is used by compliance managers, accounts receivable managers, accounting managers, financial controllers, collections agents, collections managers, chief executive officers, and chief financial officers.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Matrix account report (China) (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays information about a parent account and the attached subaccounts. The report also identifies the account format as debit or credit.

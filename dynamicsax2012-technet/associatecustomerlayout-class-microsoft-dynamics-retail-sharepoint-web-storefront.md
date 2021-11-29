@@ -18,6 +18,9 @@ dev_langs:
 
 # AssociateCustomerLayout Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The page for associating authenticated identity to AX customer.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

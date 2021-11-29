@@ -24,6 +24,9 @@ dev_langs:
 
 # ExtendedLogOnType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Extended log on type.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

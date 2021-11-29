@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # Preauthorization Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [Preauthorization](preauthorization-class-microsoft-dynamics-commerce-runtime-services-customerorder.md) type exposes the following members.
 
 ## Methods

@@ -15,6 +15,9 @@ dev_langs:
 
 # Configure Method (SqliteConfiguration)
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Update configuration parameters.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite](microsoft-dynamics-commerce-runtime-data-sqlite-namespace.md)  

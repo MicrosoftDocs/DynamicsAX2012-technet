@@ -21,6 +21,9 @@ ms.search.region: India
 # (IND) Set up general ledger parameters for the duty drawback (DBK) incentive scheme 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the **General ledger parameters** form to activate the Export-Import (EXIM) incentive schemes. Then set up the duty drawback parameters for the Duty Drawback (DBK) incentive scheme. You can use the **Incentive scheme parameters** form to set up the duty drawback parameters.

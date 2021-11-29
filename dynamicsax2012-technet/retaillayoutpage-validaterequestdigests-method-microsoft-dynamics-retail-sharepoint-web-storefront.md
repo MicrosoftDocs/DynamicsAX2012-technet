@@ -17,6 +17,9 @@ dev_langs:
 
 # ValidateRequestDigests Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Ensures that the two request digests are valid.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  

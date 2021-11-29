@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Use Web API and OData controllers together 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 By default, all the Retail Server binaries in Microsoft Dynamics AX use OData only. If you want to use a controller that uses a traditional Web API, you can create your own Web API controller and extend the Web API configuration.

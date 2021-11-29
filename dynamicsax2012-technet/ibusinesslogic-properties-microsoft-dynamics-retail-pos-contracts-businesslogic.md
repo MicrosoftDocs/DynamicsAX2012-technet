@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # IBusinessLogic Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [IBusinessLogic](ibusinesslogic-interface-microsoft-dynamics-retail-pos-contracts-businesslogic.md) type exposes the following members.
 
 ## Properties

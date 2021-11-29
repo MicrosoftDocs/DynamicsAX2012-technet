@@ -14,6 +14,9 @@ ms.search.region: Global
 # Organization hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 When you create an organization hierarchy in Microsoft Dynamics AX, you must assign a purpose to the hierarchy. The purpose that you assign to a hierarchy determines the types of organizations that can be included in the hierarchy. The purpose also defines the application scenarios that the hierarchy can be used in.

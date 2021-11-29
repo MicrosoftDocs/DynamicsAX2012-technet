@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # How to: Use Display Methods in a Report 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to retrieve data for a Microsoft Dynamics AX report from display methods. A display method is treated like a field in a query, even though the display method is retrieving the data from a different table. For information on how to create display methods, see [Using the display Method Modifier](https://technet.microsoft.com/library/aa595058\(v=ax.60\)). In a Visual Studio [reporting project](working-with-reporting-projects.md) for Microsoft Dynamics AX, you can define a report in a report model. You will define a dataset with properties that describe the data that will be used on the report and how it will be retrieved. To show data from a display method, you will bind the dataset to an AX Query. An AX Query is a query defined in the AOT.

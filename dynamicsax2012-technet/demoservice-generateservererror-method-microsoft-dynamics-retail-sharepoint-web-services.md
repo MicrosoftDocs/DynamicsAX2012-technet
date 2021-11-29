@@ -17,6 +17,9 @@ dev_langs:
 
 # GenerateServerError Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Generates the server error.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

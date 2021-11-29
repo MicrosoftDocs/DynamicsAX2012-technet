@@ -31,6 +31,9 @@ ms.search.region: Global
 # Handle payment issues 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 A payment transaction for a call center sales order cannot be completed if a credit card was declined, a payment requires authorization, a check hold was placed, a payment is over the credit limit, or a payment is out of balance with the invoiced amount. To process the payment in these cases, you can use one of the procedures that are described in this topic.

@@ -15,6 +15,9 @@ dev_langs:
 
 # ResponseError Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Creates the instance of the [ResponseError](responseerror-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md)
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  

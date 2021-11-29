@@ -14,6 +14,9 @@ f1_keywords:
 # (FRA) List of open customer drafts report (CustBillOpenTrans\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **List of open customer drafts** report displays a list of open customer drafts, grouped by method of payment. For each transaction, this report displays the transaction date, bill of exchange ID, document number, customer account number and customer account name, due date, bank name and bank ID, and the amount on the draft. This report is typically used by accounts receivable administrators, credit managers, and collections managers.

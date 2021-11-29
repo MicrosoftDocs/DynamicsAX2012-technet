@@ -16,6 +16,9 @@ ms.search.region: Global
 # Transfer work breakdown estimates to project forecasts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic describes how to create item requirements that derive from product or category estimates in a work breakdown structure (WBS) in AX 2012 R3. These product estimates can be for items, services, or category purchases.

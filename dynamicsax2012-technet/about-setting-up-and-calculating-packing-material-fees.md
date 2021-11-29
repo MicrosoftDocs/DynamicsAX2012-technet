@@ -15,6 +15,9 @@ ms.search.region: Global
 # About setting up and calculating packing material fees 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In addition to specifying the base data that is defined for the packaging material, you must specify packaging-material-fee base data. To calculate fees and print reports, you must also set up packaging-material-fee license numbers for your customers.

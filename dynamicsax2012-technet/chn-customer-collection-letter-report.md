@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (CHN) Customer collection letter (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays collection letters and account aging period information for a specified customer.

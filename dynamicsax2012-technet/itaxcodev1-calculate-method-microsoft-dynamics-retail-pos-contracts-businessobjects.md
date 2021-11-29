@@ -17,6 +17,9 @@ dev_langs:
 
 # Calculate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculates the tax amount for the tax code.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.BusinessObjects](microsoft-dynamics-retail-pos-contracts-businessobjects-namespace.md)  

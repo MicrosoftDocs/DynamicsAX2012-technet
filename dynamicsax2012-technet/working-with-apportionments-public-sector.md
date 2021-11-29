@@ -16,6 +16,9 @@ ms.search.region: Denmark, France
 # Working with apportionments (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The topics in this section provide information about working with apportionment budgets for public sector organizations. These topics complement the information that can be found under the main help section for [Working with basic budgeting and budget control](working-with-basic-budgeting-and-budget-control.md).

@@ -24,6 +24,9 @@ dev_langs:
 
 # DiscountMethodType Enumeration
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 This indicates the method used to calculate the discount. Except for Least Expensive or Line-specific, these will define how a numeric discount value (defined elsewhere) is to be interpreted. E.g. if this is DiscountPercent, the value represents a percent off, if this is DealPrice, the value represents the price of the discounted item.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine](microsoft-dynamics-commerce-runtime-services-pricingengine-namespace.md)  

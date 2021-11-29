@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateChannelPublishingStatus Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Updates the publishing status and message for the given channel.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.TransactionService](microsoft-dynamics-commerce-runtime-transactionservice-namespace.md)  

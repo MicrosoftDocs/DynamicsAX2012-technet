@@ -17,6 +17,9 @@ dev_langs:
 
 # ImageUrl Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The URL of the Image to render as the Checkout button.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

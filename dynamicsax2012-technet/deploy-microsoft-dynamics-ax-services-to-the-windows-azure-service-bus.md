@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Deploy Microsoft Dynamics AX Services to the Windows Azure Service Bus 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

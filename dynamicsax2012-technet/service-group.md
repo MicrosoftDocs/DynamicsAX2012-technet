@@ -13,6 +13,9 @@ f1_keywords:
 
 # service group
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A logical combination of services that are maintained as one.
 
 ## See also

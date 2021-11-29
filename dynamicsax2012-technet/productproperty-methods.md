@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # ProductProperty Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [ProductProperty](productproperty-class.md) type exposes the following members.
 
 ## Methods

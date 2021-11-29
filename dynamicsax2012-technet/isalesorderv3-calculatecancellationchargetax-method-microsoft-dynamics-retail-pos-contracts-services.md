@@ -17,6 +17,9 @@ dev_langs:
 
 # CalculateCancellationChargeTax Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Calculate the tax of cancellation charge for this sales order
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

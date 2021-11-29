@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up lines for a cost template 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you create a cost template in the **Cost template** form, you define the names of the cost lines and assign all categories to the three system cost lines: items, hours, and expenses. If the cost template is applied in its default state, the percentage of completion is calculated based on the consumption in all categories for the three system cost lines.

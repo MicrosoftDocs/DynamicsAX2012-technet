@@ -19,6 +19,9 @@ ms.search.region: Global
 # Create a purchase order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to create a purchase order that has all the information that you need to purchase specific products at a specific price or for a specific delivery date from a vendor.

@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Set up attributes and attribute types (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 Attributes identify the details that you want to maintain for your products. You can assign attributes to a product through the category that the product is assigned to.
 
 When you define attributes, you must first define the attribute type. You can then assign the attribute type to the attribute. The attribute type identifies the type of data that can be entered for a specific attribute. The attribute type also defines a list or range of valid values that can be used for the attribute.

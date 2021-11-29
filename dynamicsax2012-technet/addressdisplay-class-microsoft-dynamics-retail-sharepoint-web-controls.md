@@ -18,6 +18,9 @@ dev_langs:
 
 # AddressDisplay Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Customer Address add/edit control.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Controls](microsoft-dynamics-retail-sharepoint-web-controls-namespace.md)  

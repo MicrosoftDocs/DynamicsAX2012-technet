@@ -16,6 +16,9 @@ ms.search.region: Denmark, France
 # Create and reverse a preliminary budget (Public sector) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can create preliminary budget register entries for a specific budget model and dimension values. After the actual budget is approved, you can create original budget register entries and reverse the preliminary budget entries. Before you create budget register entries for preliminary budget amounts, you must set up basic budgeting and configure budget control for a preliminary budget. For more information, see [Set up budgeting and budget control for a preliminary budget (Public sector)](set-up-budgeting-and-budget-control-for-a-preliminary-budget-public-sector.md).

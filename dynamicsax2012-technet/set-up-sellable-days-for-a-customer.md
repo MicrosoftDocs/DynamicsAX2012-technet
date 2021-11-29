@@ -19,6 +19,9 @@ ms.search.region: Global
 # Set up sellable days for a customer 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use this procedure to set up the number of days that a customer defines as the sellable period for a product, item group, or all items. The sellable period is the number of days that a product is considered to be sellable. The period starts on the date the product is received, and ends on the best before date or the shelf life date.

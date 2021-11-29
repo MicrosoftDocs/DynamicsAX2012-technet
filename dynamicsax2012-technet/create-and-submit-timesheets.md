@@ -20,6 +20,9 @@ ms.search.region: Global
 # Create and submit timesheets 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the **Timesheets** list page to create and submit timesheets for the projects that you work on.

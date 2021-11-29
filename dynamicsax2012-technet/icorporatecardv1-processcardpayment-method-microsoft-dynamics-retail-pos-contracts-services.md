@@ -17,6 +17,9 @@ dev_langs:
 
 # ProcessCardPayment Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Processes the card payment and adds a payment line to the sale.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

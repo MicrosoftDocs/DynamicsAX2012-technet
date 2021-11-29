@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Sites Services functionality configuration key (SitesSvcSitesService) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Sites Services functionality** configuration key enables access to Sites Services for Microsoft Dynamics ERP. With this key enabled, you can use the following Sites Services solutions. You can also develop your own custom Sites Services websites.

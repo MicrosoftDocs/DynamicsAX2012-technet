@@ -14,6 +14,9 @@ dev_langs:
 # Update the OLAP data source 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 By default, when you deploy the cubes that are included with Microsoft Dynamics AX 2012 or Microsoft Dynamics AX 2012 Feature Pack, the database that is created in Microsoft SQL Server Analysis Services is named *Dynamics AX*. If you entered a new name for the Analysis Services database when you deployed the cubes, you must modify the DynamicsAXOLAP data source. To modify the data source, complete the following procedures on the server that runs Microsoft SQL Server Reporting Services.

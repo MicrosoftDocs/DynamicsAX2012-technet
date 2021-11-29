@@ -17,6 +17,9 @@ dev_langs:
 
 # VerifyProductExistence Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Verifies products existence.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Client](microsoft-dynamics-commerce-runtime-client-namespace.md)  

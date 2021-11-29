@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # (HUN) Cash order (report) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Generate and print a report that displays a list of cash documents for a cash account. The information in the report is based on selected criteria including the cash account, transaction date, and cash document type.

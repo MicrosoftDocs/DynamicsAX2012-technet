@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Withholding tax calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012_
 
 You can set up and calculate withholding tax for the tax deducted at source (TDS) and tax collected at source (TCS) tax types on the following transaction values:

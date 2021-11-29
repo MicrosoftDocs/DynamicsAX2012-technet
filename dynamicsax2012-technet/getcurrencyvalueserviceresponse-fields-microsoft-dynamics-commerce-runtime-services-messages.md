@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetCurrencyValueServiceResponse Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetCurrencyValueServiceResponse](getcurrencyvalueserviceresponse-class-microsoft-dynamics-commerce-runtime-services-messages.md) type exposes the following members.
 
 ## Fields

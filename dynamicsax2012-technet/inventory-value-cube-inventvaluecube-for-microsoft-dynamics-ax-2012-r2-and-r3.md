@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Inventory value cube (InventValueCube) for Microsoft Dynamics AX 2012 R2 and R3 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The Inventory value cube for Microsoft Dynamics AX provides data that can help you evaluate the performance of your inventory. It provides measurements that provide insight into how the value of inventory has evolved over time. A set of key performance indicators (KPIs) are available to assist the process of improving financial performance of inventory management. This article provides details about the cube.

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetPromotions Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets all the promotions for the shopping cart items.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services](microsoft-dynamics-retail-sharepoint-web-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # TransferOrder Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Commerce entity for transfer order. Will be used in picking and receiving flow.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

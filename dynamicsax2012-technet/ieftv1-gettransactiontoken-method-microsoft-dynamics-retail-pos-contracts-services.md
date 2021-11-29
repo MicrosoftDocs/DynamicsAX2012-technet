@@ -17,6 +17,9 @@ dev_langs:
 
 # GetTransactionToken Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets transaction token for authorized transaction (Secure card storage).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

@@ -17,6 +17,9 @@ dev_langs:
 
 # GetCountiesServiceResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the response for the [GetCountiesServiceRequest](getcountiesservicerequest-class-microsoft-dynamics-commerce-runtime-services-messages.md).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Services.Messages](microsoft-dynamics-commerce-runtime-services-messages-namespace.md)  

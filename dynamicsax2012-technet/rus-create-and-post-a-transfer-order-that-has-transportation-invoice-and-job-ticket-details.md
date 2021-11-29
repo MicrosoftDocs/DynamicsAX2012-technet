@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a transfer order that has transportation invoice and job ticket details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 Use the following procedure to create and post a transfer order that includes the details from the transportation invoice and job ticket. For more information, see [(RUS) About transportation invoices and job tickets that are based on bills of lading](rus-about-transportation-invoices-and-job-tickets-that-are-based-on-bills-of-lading.md).

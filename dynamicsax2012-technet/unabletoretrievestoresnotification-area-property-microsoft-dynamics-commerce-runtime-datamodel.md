@@ -17,6 +17,9 @@ dev_langs:
 
 # Area Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the search area.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

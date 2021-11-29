@@ -18,6 +18,9 @@ ms.search.region: Mexico
 # (MEX) Create a vendor account with tax registration details 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 In accordance with Mexican legislation, companies must report all vendor transactions in the Declaración Informativa de Operaciones con Terceros (DIOT), a tax declaration that is submitted to the Servicios de Administración Tributaria (SAT). The tax registration IDs must be included in the DIOT: the Registro Federal del Contribuyentes (RFC) number, Clave Única de Registro de Población (CURP) number, and state inscription number. The RFC number and state inscription number are assigned to both individuals and corporations, but CURP numbers are assigned only to individuals.

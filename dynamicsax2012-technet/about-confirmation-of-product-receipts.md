@@ -15,6 +15,9 @@ ms.search.region: Global
 # About confirmation of product receipts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Employees, sometimes referred to as requesters, who order products, maintain their own product receipts that are unconfirmed on the Enterprise Portal for Microsoft Dynamics AX. When employees in a company order large volumes of products for their own consumption, they are independent of central receiving and material handling. If you are an employee who orders products, you can perform one or more of the following tasks on the Enterprise Portal:

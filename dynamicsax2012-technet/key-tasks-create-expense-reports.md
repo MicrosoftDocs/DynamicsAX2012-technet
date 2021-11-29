@@ -24,6 +24,9 @@ ms.search.region: Global
 # Key tasks: Create expense reports 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic explains how to create expense reports and submit them for approval. When you travel or incur other expenses on behalf of your company, you create an expense report to justify money that you spent by using the company credit card. If you paid for expenses by using your own money, you use the expense report to submit those expenses for reimbursement. An expense report describes, in detail, how and where the expenses were incurred.

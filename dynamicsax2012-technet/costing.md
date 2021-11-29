@@ -13,6 +13,9 @@ f1_keywords:
 
 # costing
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The process of calculating, assigning, and allocating the cost of economic resources acquired, produced, or delivered by an organization.
 
 ## See also

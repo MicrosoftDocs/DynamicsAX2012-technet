@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Parameters Overview 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Parameters are used to filter the data that is displayed in a report, connect related reports together, and control report presentation. For example, you can write an expression to change the font based on a parameter that was passed to the report. This topic provides guidance about how to define parameters in a report model, the types of parameters that you can use in a Microsoft Dynamics AX report, and information about how to group and order report parameters.

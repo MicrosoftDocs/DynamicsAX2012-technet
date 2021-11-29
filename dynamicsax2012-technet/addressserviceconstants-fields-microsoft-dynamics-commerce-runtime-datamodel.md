@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 
 # AddressServiceConstants Fields
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [AddressServiceConstants](addressserviceconstants-class-microsoft-dynamics-commerce-runtime-datamodel.md) type exposes the following members.
 
 ## Fields

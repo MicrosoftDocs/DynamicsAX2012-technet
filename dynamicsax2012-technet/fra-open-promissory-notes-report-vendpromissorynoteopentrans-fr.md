@@ -14,6 +14,9 @@ f1_keywords:
 # (FRA) Open promissory notes report (VendPromissoryNoteOpenTrans\_FR) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Use the Open promissory notes report to view a list of open promissory notes to be drawn on French bank accounts. The vendor transactions are grouped by methods of payment. For each transaction, the report includes the transaction date, note identification number, document number, vendor account number and name, bank information, and due date. This report is used by chief financial officers, accountants, accounting managers, accounting clerks, accounting supervisors, and financial controllers to inquire about open promissory notes.

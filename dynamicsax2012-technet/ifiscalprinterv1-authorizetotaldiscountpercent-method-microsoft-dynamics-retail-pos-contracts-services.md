@@ -17,6 +17,9 @@ dev_langs:
 
 # AuthorizeTotalDiscountPercent Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns true if total discount percent is authorized.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Services](microsoft-dynamics-retail-pos-contracts-services-namespace.md)  

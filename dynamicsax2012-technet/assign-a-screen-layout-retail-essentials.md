@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # Assign a screen layout (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 When you set up Microsoft Dynamics AX for Retail POS registers for Retail essentials, you can specify how the screen appears to your workers. When you set up a register, you select the ID of the screen layout that the register uses. You can also assign screen layouts to specific stores or specific workers. This topic explains how to assign a screen layout to one or more stores, registers, or workers.

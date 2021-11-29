@@ -17,6 +17,9 @@ dev_langs:
 
 # PreConfirmReturnTransaction Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered before confirmation of return transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

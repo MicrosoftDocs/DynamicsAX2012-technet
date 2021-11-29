@@ -17,6 +17,9 @@ dev_langs:
 
 # PostCustomerClear Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Triggered after a customer has been cleared from the transaction.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.Triggers](microsoft-dynamics-retail-pos-contracts-triggers-namespace.md)  

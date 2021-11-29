@@ -20,6 +20,9 @@ dev_langs:
 
 # ( Default Namespace ) Namespace
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 ## Structures
 
 <table style="width:118%;">

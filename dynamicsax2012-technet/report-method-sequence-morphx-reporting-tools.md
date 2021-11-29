@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Report Method Sequence (MorphX Reporting Tools) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 When you open a report, the following methods are called in the order that they appear in the table.

@@ -17,6 +17,9 @@ dev_langs:
 
 # MemoryCacheAccessor Constructor
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Initializes a new instance of the [MemoryCacheAccessor](memorycacheaccessor-class-microsoft-dynamics-commerce-runtime-cache-memorycache.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache](microsoft-dynamics-commerce-runtime-cache-memorycache-namespace.md)  

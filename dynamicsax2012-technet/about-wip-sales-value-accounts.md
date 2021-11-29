@@ -18,6 +18,9 @@ ms.search.region: Global
 # About WIP sales value accounts 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides an overview of how and where the **WIP - sales value** account is applied and what parameter setup is required in the **Project groups** and **Line properties** forms.

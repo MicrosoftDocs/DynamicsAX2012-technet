@@ -17,6 +17,9 @@ dev_langs:
 
 # WarehouseInventoryDimensionId Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the warehouse inventory dimension identifier.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

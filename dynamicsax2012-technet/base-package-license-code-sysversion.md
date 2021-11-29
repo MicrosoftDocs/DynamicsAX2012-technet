@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Base package license code (SysVersion) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Base package** license code indicates what kind of license you have for Microsoft Dynamics AX. When this configuration key is enabled, it is possible to identify which licenses are enabled on your system. Different licenses can enable different functionality in Microsoft Dynamics AX.

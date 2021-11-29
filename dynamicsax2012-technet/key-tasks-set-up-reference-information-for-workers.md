@@ -22,6 +22,9 @@ ms.search.region: Global
 # Key tasks: Set up reference information for workers 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides a list of the reference information that you should set up before you create your first worker record.

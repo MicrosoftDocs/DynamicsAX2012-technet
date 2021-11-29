@@ -17,6 +17,9 @@ dev_langs:
 
 # UnitText Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets or sets text representing the unit associated with property value (e.g.: Lbs, Kgs).
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.DataModel](microsoft-dynamics-commerce-runtime-datamodel-namespace.md)  

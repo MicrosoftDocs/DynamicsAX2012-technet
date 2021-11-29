@@ -21,6 +21,9 @@ ms.search.region: Global
 # Create an intercompany project invoice 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You organization might have multiple divisions, subsidiaries, and other legal entities that transfer items and services to each other for projects. A legal entity may also allow its employees to work on a project for another legal entity. In Microsoft Dynamics AX, the legal entity that provides these resources is called the *lending legal entity* and the legal entity that receives the resources is called the *borrowing legal entity*.

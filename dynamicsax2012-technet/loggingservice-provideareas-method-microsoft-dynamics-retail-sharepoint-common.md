@@ -17,6 +17,9 @@ dev_langs:
 
 # ProvideAreas Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Returns a collection of the event and trace logging categories used with this service.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

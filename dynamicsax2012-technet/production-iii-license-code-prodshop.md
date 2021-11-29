@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Production III license code (ProdShop) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Production III** license code enables access to some of the production features of Microsoft Dynamics AX. These features include job scheduling of production orders.

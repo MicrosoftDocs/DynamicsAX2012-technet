@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up customer category hierarchies for trade allowance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to create customer category hierarchies for trade allowance. You can use customer category hierarchies to group customers that have similar characteristics, such as region or line of business. Before you can add a customer to a fund, trade allowance agreement, or trade allowance template, you must create customer category hierarchies and add customers to those hierarchies.

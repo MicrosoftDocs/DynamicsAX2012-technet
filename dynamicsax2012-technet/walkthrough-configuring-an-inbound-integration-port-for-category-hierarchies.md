@@ -20,6 +20,9 @@ f1_keywords:
 # Walkthrough: Configuring an inbound integration port for category hierarchies 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 This topic provides information about how to configure an integration port in Microsoft Dynamics AX 2012 to import commodity codes into a category hierarchy. This task is one step in the process of enabling you to import commodity codes into AX 2012. For more information about how to import commodity codes, see [Microsoft Dynamics AX 2012 White Paper: Import Commodity Codes to a Category Hierarchy](https://go.microsoft.com/fwlink/?linkid=313695).

@@ -14,6 +14,9 @@ ms.search.region: India
 # (IND) Split purchase documents 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can split an invoice based on delivery addresses, sites, and service codes. If the **Invoice** check box is cleared in the **Split based on delivery information** field group in the **Accounts payable parameters** form, an invoice is posted as a single invoice and is not split.

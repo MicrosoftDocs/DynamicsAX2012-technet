@@ -20,6 +20,9 @@ ms.search.region: Brazil
 # (BRA) Set up operation types 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can classify sales and purchase operations based on whether they generate accounting entries, generate inventory movement, or create customer or vendor transactions. The tax calculations vary, depending on the outcome of an operation. Therefore, you must define the different operation types for a legal entity.

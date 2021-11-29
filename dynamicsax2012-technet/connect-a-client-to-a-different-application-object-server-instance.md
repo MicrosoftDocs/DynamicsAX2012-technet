@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Connect a client to a different Application Object Server instance 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can connect a Microsoft Dynamics AX 32-bit client or a .NET Business Connector client to a different Application Object Server (AOS) instance by using the Microsoft Dynamics AX 2012 Configuration utility.

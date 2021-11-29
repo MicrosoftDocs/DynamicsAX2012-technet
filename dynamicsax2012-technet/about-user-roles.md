@@ -15,6 +15,9 @@ ms.search.region: Global
 # About user roles 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 As a vendor portal administrator, you must specify a role for each user when you submit a new user request. The user role that you assign to a user determines their level of access and their ability to act on information in the Vendor portal. You can assign an employee to either the **Vendor portal administrator** user role or the **Vendor** user role.

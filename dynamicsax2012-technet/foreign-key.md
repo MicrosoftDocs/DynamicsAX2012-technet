@@ -13,6 +13,9 @@ f1_keywords:
 
 # foreign key
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 A set of fields whose values are migrated from a primary key or an alternate key from a parent table.
 
 ## See also

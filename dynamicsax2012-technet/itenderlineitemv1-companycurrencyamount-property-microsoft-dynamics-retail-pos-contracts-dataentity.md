@@ -17,6 +17,9 @@ dev_langs:
 
 # CompanyCurrencyAmount Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The Company exchange amount used at the Head Office (as retrieved from the companyinfo table).
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

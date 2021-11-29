@@ -17,6 +17,9 @@ dev_langs:
 
 # TotalSeconds Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Gets the value of the current [DateTimeOffset](https://technet.microsoft.com/library/bb341783\(v=ax.60\)) structure expressed in whole and fractional seconds.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime](microsoft-dynamics-commerce-runtime-namespace.md)  

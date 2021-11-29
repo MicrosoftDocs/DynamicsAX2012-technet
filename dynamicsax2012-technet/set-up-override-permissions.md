@@ -16,6 +16,9 @@ ms.search.region: Global
 # Set up override permissions 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 This topic explains how to set up permissions to allow users to override item prices, margin costs, discounts, and order charges. Overrides can be used to increase or decrease original charge amounts at either the header level or line level of an order. To complete an override, a user must be assigned to a role that has been given the appropriate permissions. When override permissions are assigned, the maximum amount by which an override can increase or decrease costs is determined.

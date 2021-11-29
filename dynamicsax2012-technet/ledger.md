@@ -13,6 +13,9 @@ f1_keywords:
 
 # ledger
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The part of an accounting system that is used for classifying the monetary value of economic transactions by using a chart of accounts, a fiscal calendar, and one or more currencies.
 
 ## See also

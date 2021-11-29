@@ -17,6 +17,9 @@ dev_langs:
 
 # KitVariantContentValuePairSeparator Field
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Represents the delimiter that is used to separate different line identifier and product identifier pairs while storing the contents of a kit variant.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  

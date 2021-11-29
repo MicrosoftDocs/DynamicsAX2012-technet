@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Create and post a write-off disassembly transaction for a fixed asset 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 

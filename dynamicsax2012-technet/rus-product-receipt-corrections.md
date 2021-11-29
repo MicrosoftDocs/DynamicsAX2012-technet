@@ -14,6 +14,9 @@ ms.search.region: Russia
 # (RUS) Product receipt corrections 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 The topics in this section provide information about how to correct product receipts, and create versions of receipt statement reports, such as TORG-1, TORG-2, TORG-3, M-4, and M-7.

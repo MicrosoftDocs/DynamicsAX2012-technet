@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Initialize Microsoft Dynamics AX 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 After installing Microsoft Dynamics AX, you must set up the system by using the initialization checklist.

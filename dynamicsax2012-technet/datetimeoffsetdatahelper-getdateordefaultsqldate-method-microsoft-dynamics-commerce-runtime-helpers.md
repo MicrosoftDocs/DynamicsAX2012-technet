@@ -17,6 +17,9 @@ dev_langs:
 
 # GetDateOrDefaultSqlDate Method
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Get date or SqlDateTime.MinValue.Value as default non-null SQL date.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Helpers](microsoft-dynamics-commerce-runtime-helpers-namespace.md)  

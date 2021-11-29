@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # GetBarcodeRequest Properties
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [GetBarcodeRequest](getbarcoderequest-class-microsoft-dynamics-commerce-runtime-messages.md) type exposes the following members.
 
 ## Properties

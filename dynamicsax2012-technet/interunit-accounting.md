@@ -13,6 +13,9 @@ f1_keywords:
 
 # interunit accounting
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An accounting process where due-to and due-from account entries are automatically created to ensure that an accounting entry is balanced for one or more specified financial dimensions in a legal entity.
 
 ## See also

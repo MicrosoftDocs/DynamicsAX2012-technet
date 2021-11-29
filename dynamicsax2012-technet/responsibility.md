@@ -13,6 +13,9 @@ f1_keywords:
 
 # responsibility
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 An obligation of a party to perform an assigned job and to be held accountable for the outcome of the results.
 
 ## See also

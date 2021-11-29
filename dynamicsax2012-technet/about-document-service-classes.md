@@ -13,6 +13,9 @@ mtps_version: v=AX.60
 # About Document Service Classes 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Microsoft Dynamics AX exposes data for exchange with external systems through business logic exposed as services. The data and business logic together is called a document. This topic describes the document service classes that can be used by the Application Integration Framework (AIF) and the related data contract classes.

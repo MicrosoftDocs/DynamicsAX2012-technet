@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Revert to the original Microsoft Dynamics AX configuration 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Delete the Microsoft Dynamics AX configuration that you created earlier (in the [Create a new Microsoft Dynamics AX configuration](create-a-new-microsoft-dynamics-ax-configuration.md) procedure) and revert to the original configuration. Complete the following procedure to delete the configuration.

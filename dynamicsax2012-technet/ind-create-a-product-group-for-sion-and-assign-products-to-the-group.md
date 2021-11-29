@@ -20,6 +20,9 @@ ms.search.region: India
 # (IND) Create a product group for SION and assign products to the group 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create product groups based on Standard Input Output Norms (SION), and then assign products to the product groups to classify products for export-import (EXIM) transactions.

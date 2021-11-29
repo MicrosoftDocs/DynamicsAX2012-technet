@@ -18,6 +18,9 @@ ms.search.region: Global
 # Generate the EU sales list 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Businesses that supply goods to companies in other European Union (EU) countries or regions can generate periodic EU sales list reports. You can generate the EU sales list on a monthly, bimonthly, quarterly, or yearly basis.

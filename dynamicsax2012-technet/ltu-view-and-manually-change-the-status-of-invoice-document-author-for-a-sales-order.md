@@ -14,6 +14,9 @@ ms.search.region: Lithuania
 # (LTU) View and manually change the status of invoice document author for a sales order 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 A posted sales invoice has an author, which is the company. When items are returned to the company, the customer, the vendor, or the company can sign the invoice. If the customer or the vendor authors the returning invoice, the document author must be changed for that invoice.

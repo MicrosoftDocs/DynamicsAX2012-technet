@@ -20,6 +20,9 @@ ms.search.region: Global
 # Modify registrations before or after calculation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 You can modify registrations made by workers before or after you calculate the registrations.

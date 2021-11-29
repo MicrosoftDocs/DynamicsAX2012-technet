@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Create retail product kits (Retail essentials) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 This topic describes the tasks that are required to set up retail product kits. By using product kits, you can package individual products into one sellable unit and make them available for sale in any retail channel. A product kit consists of kit components and component substitutes. Kit components can be either a distinct product or a product variant. Component substitutes can be a distinct product, product master, or product variant. The different combinations of components and component substitutes that are included in a product kit are referred to as kit configurations. One product kit can have one or more configurations.
 
 After you create the product kits, you release the kits to the legal entities in which you want to offer them, and you define the product properties. After the kits have been released, you define the pricing for them. The kit price can also be adjusted at the time of sale if additional charges apply for products that are substituted for a standard kit component.

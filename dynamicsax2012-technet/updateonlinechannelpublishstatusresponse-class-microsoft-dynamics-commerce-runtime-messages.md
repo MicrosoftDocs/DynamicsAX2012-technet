@@ -17,6 +17,9 @@ dev_langs:
 
 # UpdateOnlineChannelPublishStatusResponse Class
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 Encapsulates the response from the [UpdateOnlineChannelPublishStatusRequest](updateonlinechannelpublishstatusrequest-class-microsoft-dynamics-commerce-runtime-messages.md) class.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Messages](microsoft-dynamics-commerce-runtime-messages-namespace.md)  

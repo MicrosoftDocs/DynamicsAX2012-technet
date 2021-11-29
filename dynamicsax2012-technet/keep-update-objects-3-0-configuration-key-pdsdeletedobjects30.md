@@ -14,6 +14,9 @@ f1_keywords:
 # Keep update objects 3.0 configuration key (PdsDeletedObjects30) 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The **Keep update objects 3.0** configuration key controls access to the Application Object Tree (AOT) objects that are used to upgrade from the previous version of process manufacturing logistics in Microsoft Dynamics AX.

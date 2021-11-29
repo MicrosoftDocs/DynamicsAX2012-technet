@@ -11,6 +11,9 @@ mtps_version: v=AX.60
 
 # WebConfigUpdater Methods
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The [WebConfigUpdater](webconfigupdater-class-microsoft-dynamics-retail-sharepoint-commonfeatures.md) type exposes the following members.
 
 ## Methods

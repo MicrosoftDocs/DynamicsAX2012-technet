@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Troubleshoot installation issues for a Retail online store 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic includes strategies and procedures to help you troubleshoot problems installing the Microsoft Dynamics AX Retail online store.

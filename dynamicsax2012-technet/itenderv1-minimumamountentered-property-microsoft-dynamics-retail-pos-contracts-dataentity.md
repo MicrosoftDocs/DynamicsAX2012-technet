@@ -17,6 +17,9 @@ dev_langs:
 
 # MinimumAmountEntered Property
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The lowest amount possible to pay in a single payment
 
 **Namespace:**  [Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity](microsoft-dynamics-retail-pos-contracts-dataentity-namespace.md)  

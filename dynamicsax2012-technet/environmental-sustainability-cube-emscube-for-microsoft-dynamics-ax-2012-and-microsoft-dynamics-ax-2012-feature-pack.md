@@ -12,6 +12,9 @@ mtps_version: v=AX.60
 # Environmental sustainability cube (EMSCube) for Microsoft Dynamics AX 2012 and Microsoft Dynamics AX 2012 Feature Pack 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 The Environmental sustainability cube provides data that can help you track your organization’s energy consumption and greenhouse gas emissions. Therefore, your organization can take a more proactive approach to environmental issues.

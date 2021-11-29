@@ -15,6 +15,9 @@ ms.search.region: Australia
 # (AUS) About low value pool depreciation 
 
 
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
+
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
 Low value pool depreciation is a reducing balance depreciation method used in Australia. You can allocate assets to a low value pool if they are either low cost assets or low value assets with a cost or opening adjustable value of less than a specified amount. There are three low value types.

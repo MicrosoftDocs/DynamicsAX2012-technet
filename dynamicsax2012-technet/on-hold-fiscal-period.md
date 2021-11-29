@@ -13,6 +13,9 @@ f1_keywords:
 
 # on-hold fiscal period
 
+
+[!INCLUDE[archive-banner](includes/archive-banner.md)]
+
 The state of a fiscal period that can be reopened and that prevents its use as a time period classifier for account entries.
 
 ## See also
