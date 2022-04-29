@@ -10,7 +10,7 @@ author: sericks007
 manager: AnnBe
 ms.date: 06/20/2017
 ms.topic: article
-ms.prod: dynamics-ax-2012 
+ms.prod: dynamics-ax-2012
 ms.service: 
 ms.technology:
 
