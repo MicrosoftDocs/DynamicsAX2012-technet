@@ -443,7 +443,7 @@ The high availability environment includes an availability set for each tier of 
 
 ### Install the Data Import/Export Framework and RapidStart Connector
 
-For high availability, the Data Import/Export Framework and the RapidStart Connector should be installed on all virtual machines that are AOS servers. You might have to install these components. For instructions, see [Install the Data import/export framework (DIXF, DMF)](https://docs.microsoft.com/dynamicsax-2012/appuser-itpro/install-the-data-import-export-framework-dixf-dmf) and [Install the RapidStart Connector](https://technet.microsoft.com/library/hh771574.aspx).
+For high availability, the Data Import/Export Framework and the RapidStart Connector should be installed on all virtual machines that are AOS servers. You might have to install these components. For instructions, see [Install the Data import/export framework (DIXF, DMF)](/dynamicsax-2012/appuser-itpro/install-the-data-import-export-framework-dixf-dmf) and [Install the RapidStart Connector](https://technet.microsoft.com/library/hh771574.aspx).
 
 ### Configure Microsoft SQL Server Reporting Services for load balancing
 
@@ -493,5 +493,3 @@ The following table lists the domain accounts that were created when you deploye
 ### Local administrator accounts
 
 Each virtual machine that you deployed has a local administrator account. This account is: builtinaxlocaladmin. The passwords for the local administrator accounts are displayed on the **Cloud-hosted environments** page in Lifecycle Services.
-
-
