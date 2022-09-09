@@ -19,8 +19,6 @@ ms.search.region: Global
 
 This topic provides an overview of what happens when you post a single voucher with multiple customer or vendor records.
 
-For complete information, see [Single voucher with multiple customer or vendor records](https://docs.microsoft.com/dynamics365/operations/financials/accounts-payable/single-voucher-multiple-customer-vendor-records)
+For complete information, see [Single voucher with multiple customer or vendor records](/dynamics365/operations/financials/accounts-payable/single-voucher-multiple-customer-vendor-records)
 
   
-
-

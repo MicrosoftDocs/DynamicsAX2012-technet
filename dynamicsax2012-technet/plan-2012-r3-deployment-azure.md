@@ -188,7 +188,7 @@ Other considerations to keep in mind:
 
 -   When planning your deployment, ensure that Premium Storage is available in the Azure region you are targeting. For more information, click [here](https://azure.microsoft.com/services/preview/).
 -   If you have a VPN/Express Route connection (or plan to) between your corporate network and Azure, please ensure this is done for an Azure region that supports Premium Storage.
--   Consult the [Azure Premium Storage documentation](https://azure.microsoft.com/documentation/services/storage/) to understand limitations of use.
+-   Consult the [Azure Premium Storage documentation](/azure/storage/) to understand limitations of use.
 -   If non-Premium Storage VMs are deployed with the High Availability topologies, all of the above SQL Server configuration settings are applicable; however, Premium Storage benefits will not apply.
 -   When setting up your Lifecycle Services project for deployment, you must select a region that supports Premium Storage.
 
