@@ -109,7 +109,7 @@ Examine the output from the second sp\_configure 'max degree of parallelism' sta
     GO
     EXEC sp_configure;
 
-For more information, see [max degree of parallelism Option](https://go.microsoft.com/fwlink/?linkid=213211). For general guidelines, see Knowledge base article 329204, [General guidelines to use to configure the MAXDOP option]https://docs.microsoft.com/sql/database-engine/configure-windows/configure-the-max-degree-of-parallelism-server-configuration-option?view=sql-server-ver15). For tips from the SQL Server team, visit the SQL Server Relational Engine team's blog, [SQL Server Engine Tips](https://go.microsoft.com/fwlink/?linkid=213213).
+For more information, see [max degree of parallelism Option](https://go.microsoft.com/fwlink/?linkid=213211). For general guidelines, see Knowledge base article 329204, [General guidelines to use to configure the MAXDOP option](/sql/database-engine/configure-windows/configure-the-max-degree-of-parallelism-server-configuration-option?view=sql-server-ver15). For tips from the SQL Server team, visit the SQL Server Relational Engine team's blog, [SQL Server Engine Tips](https://go.microsoft.com/fwlink/?linkid=213213).
 
 ## Configuring max server memory
 
@@ -235,7 +235,3 @@ To help achieve optimal Microsoft Dynamics AX performance, you must correctly pl
 [Analytics in Microsoft Dynamics AX](analytics-in-microsoft-dynamics-ax.md)
 
 [Microsoft Dynamics AX Performance Team's blog](https://go.microsoft.com/fwlink/?linkid=213223)
-
-  
-
-
