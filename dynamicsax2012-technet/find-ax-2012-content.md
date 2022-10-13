@@ -94,7 +94,7 @@ The following are useful Microsoft Dynamics AX-related sites.
 <td><p>Follow us to hear announcements about content that we've released.</p></td>
 </tr>
 <tr class="odd">
-<td><p><a href="https://www.microsoft.com/learning/en-us/default.aspx">Microsoft Learning</a></p></td>
+<td><p><a href="https://www.microsoft.com/learning/default.aspx">Microsoft Learning</a></p></td>
 <td><p>Provides extensive training resources, and ways to find classes in your area.</p></td>
 </tr>
 </tbody>

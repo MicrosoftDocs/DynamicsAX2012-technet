@@ -90,7 +90,7 @@ Connect the Lifecycle Services project to your Azure subscription. This will ena
 
 4. Click **Next**.
 5. Click **Download** to download a management certificate. This management certificate enables Lifecycle Services to communicate with Azure on your behalf. By default, the management certificate is saved to the **Downloads** folder on your computer and is named **LifecycleServicesDeployment.cer.**
-6. Upload the management certificate to Azure. To do so, see the instructions in [Upload an Azure Management API Management Certificate](https://docs.microsoft.com/azure/azure-api-management-certs).
+6. Upload the management certificate to Azure. To do so, see the instructions in [Upload an Azure Management API Management Certificate](/azure/azure-api-management-certs).
 
 7. Go back to the browser that displays the **Microsoft Azure setup** panel in Lifecycle Services. Click **Next**.
 8. Select a region. The AX 2012 R3 environment will be deployed to a datacenter in this region.
@@ -166,7 +166,3 @@ Complete the following procedure to connect to the virtual machine where the Dyn
 4.  At the bottom of the page, click **Open** to open the .rdp file.
 5.  When prompted for credentials, enter the user name and password for the &lt;DomainName&gt;Administrator account. You can find the password for this account on the **Cloud-hosted environments** page for this environment.
 6.  When the virtual machine’s desktop is displayed, click the **Microsoft Dynamics AX** icon to open the Microsoft Dynamics AX client.
-
-
-
-

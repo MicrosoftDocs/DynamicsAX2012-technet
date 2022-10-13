@@ -92,7 +92,7 @@ Connect the LCS project to your Azure subscription. This will enable LCS to depl
 
 4. Click **Next**.
 5. Click **Download** to download a management certificate. This management certificate enables LCS to communicate with Azure on your behalf. By default, the management certificate is saved to the **Downloads** folder on your computer and is named **LifecycleServicesDeployment.cer.**
-6. Upload the management certificate to Azure. To do so, see the instructions in [Upload an Azure Management API Management Certificate](https://docs.microsoft.com/azure/azure-api-management-certs).
+6. Upload the management certificate to Azure. To do so, see the instructions in [Upload an Azure Management API Management Certificate](/azure/azure-api-management-certs).
 
 7. Go back to the browser that displays the **Microsoft Azure setup** panel in LCS. Click **Next**.
 8. Select a region. The AX 2012 R3 environment will be deployed to a datacenter in this region.
@@ -254,5 +254,3 @@ The following table lists the domain accounts that were created when you deploye
 ### Local administrator accounts
 
 Each virtual machine that you deployed has a local administrator account. This account is: builtinaxlocaladmin. The passwords for the local administrator accounts are displayed on the **Cloud-hosted environments** page in [Lifecycle Services](https://lcs.dynamics.com/).
-
-
