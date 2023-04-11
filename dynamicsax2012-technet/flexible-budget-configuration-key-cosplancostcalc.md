@@ -4,7 +4,7 @@ TOCTitle: Flexible Budget configuration key (COSPlanCostCalc)
 ms:assetid: 9f02957b-56e1-42d9-8e86-053ee19b9656
 ms:mtpsurl: https://technet.microsoft.com/library/Aa588463(v=AX.60)
 ms:contentKeyID: 37072005
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

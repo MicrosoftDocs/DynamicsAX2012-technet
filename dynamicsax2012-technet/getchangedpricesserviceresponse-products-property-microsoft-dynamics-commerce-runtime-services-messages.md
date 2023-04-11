@@ -4,7 +4,7 @@ TOCTitle: Products Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetChangedPricesServiceResponse.Products
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getchangedpricesserviceresponse.products(v=AX.60)
 ms:contentKeyID: 62207089
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

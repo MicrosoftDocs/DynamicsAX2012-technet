@@ -4,7 +4,7 @@ TOCTitle: Fixed-price configuration key (ProjAdvEstimateFixedPrice)
 ms:assetid: cf61975c-eedc-40db-aae2-8d822164178d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa557424(v=AX.60)
 ms:contentKeyID: 39518965
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

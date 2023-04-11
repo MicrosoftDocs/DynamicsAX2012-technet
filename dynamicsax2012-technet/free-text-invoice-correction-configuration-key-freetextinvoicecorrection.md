@@ -4,7 +4,7 @@ TOCTitle: Free text invoice correction configuration key (FreeTextInvoiceCorrect
 ms:assetid: 583229bd-94db-4bf8-acff-e364767a1d23
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467551(v=AX.60)
 ms:contentKeyID: 36991698
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

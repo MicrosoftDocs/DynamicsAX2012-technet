@@ -4,7 +4,7 @@ TOCTitle: DeviceId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetAvailableStoresRequest.DeviceId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getavailablestoresrequest.deviceid(v=AX.60)
 ms:contentKeyID: 62209615
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

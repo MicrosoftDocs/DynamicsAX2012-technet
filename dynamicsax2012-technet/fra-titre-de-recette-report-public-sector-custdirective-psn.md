@@ -4,7 +4,7 @@ TOCTitle: (FRA) Titre de recette report (Public sector) (CustDirective_PSN)
 ms:assetid: 51044183-e425-4510-8516-7cfb4f69fa52
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450751(v=AX.60)
 ms:contentKeyID: 36966701
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

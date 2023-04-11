@@ -4,7 +4,7 @@ TOCTitle: Get-AXAnalysisServerConfiguration
 ms:assetid: D5FC01FD-D9EE-437E-AE63-18ECEA473D80
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720287(v=AX.60)
 ms:contentKeyID: 49720079
-author: Khairunj
+author: tonyafehr
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

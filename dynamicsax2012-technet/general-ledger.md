@@ -4,7 +4,7 @@ TOCTitle: General ledger
 ms:assetid: d59388d1-4691-4d55-94b3-bc663f0bbb85
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242930(v=AX.60)
 ms:contentKeyID: 36059528
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

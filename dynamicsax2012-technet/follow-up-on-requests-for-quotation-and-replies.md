@@ -4,7 +4,7 @@ TOCTitle: Follow up on requests for quotation and replies
 ms:assetid: 9401acc2-9084-4cd8-b033-da9fa88116b6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232199(v=AX.60)
 ms:contentKeyID: 36058591
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

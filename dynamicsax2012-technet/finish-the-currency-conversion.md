@@ -4,7 +4,7 @@ TOCTitle: Finish the currency conversion
 ms:assetid: 5e4beb66-b9ac-4946-b19a-eaafa09990e1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549103(v=AX.60)
 ms:contentKeyID: 36057582
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

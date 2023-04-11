@@ -4,7 +4,7 @@ TOCTitle: Financials (Retail essentials)
 ms:assetid: 0f8e91df-ea97-48ae-b424-c077bc848ad2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716043(v=AX.60)
 ms:contentKeyID: 62200308
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

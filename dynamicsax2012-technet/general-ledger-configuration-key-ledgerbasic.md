@@ -4,7 +4,7 @@ TOCTitle: General ledger configuration key (LedgerBasic)
 ms:assetid: 41a4645c-817a-485b-827d-b865fee06b62
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467548(v=AX.60)
 ms:contentKeyID: 36991695
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

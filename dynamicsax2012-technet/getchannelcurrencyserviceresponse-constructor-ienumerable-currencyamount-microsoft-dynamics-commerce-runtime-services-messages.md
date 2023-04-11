@@ -4,7 +4,7 @@ TOCTitle: GetChannelCurrencyServiceResponse Constructor (IEnumerable(CurrencyAmo
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetChannelCurrencyServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CurrencyAmount})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getchannelcurrencyserviceresponse.getchannelcurrencyserviceresponse(v=AX.60)
 ms:contentKeyID: 62202113
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

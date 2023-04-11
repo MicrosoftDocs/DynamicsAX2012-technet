@@ -4,7 +4,7 @@ TOCTitle: Fixed assets configuration key (Asset)
 ms:assetid: c27a39a5-7054-4cb0-b44a-b72ac36587c9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500161(v=AX.60)
 ms:contentKeyID: 37820192
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Fixed assets roadmap
 ms:assetid: 9bfd6a8e-d97b-43d6-99d2-bad8802be323
 ms:mtpsurl: https://technet.microsoft.com/library/Dn800885(v=AX.60)
 ms:contentKeyID: 62839683
-author: Khairunj
+author: tonyafehr
 ms.date: 11/26/2014
 mtps_version: v=AX.60
 audience: Application User

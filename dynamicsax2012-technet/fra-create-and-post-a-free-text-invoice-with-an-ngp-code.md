@@ -4,7 +4,7 @@ TOCTitle: (FRA) Create and post a free text invoice with an NGP code
 ms:assetid: 4bd3c5a6-1b36-4b75-926a-4e92f79e5deb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208735(v=AX.60)
 ms:contentKeyID: 36057006
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

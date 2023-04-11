@@ -4,7 +4,7 @@ TOCTitle: Finalize a general budget reservation (Public sector)
 ms:assetid: 41bae344-b447-45cb-b07e-5301236929d3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792455(v=AX.60)
 ms:contentKeyID: 65205497
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

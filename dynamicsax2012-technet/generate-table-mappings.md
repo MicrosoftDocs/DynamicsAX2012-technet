@@ -4,7 +4,7 @@ TOCTitle: Generate table mappings
 ms:assetid: 20967372-506e-4848-babf-fdc4f625c4f0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751365(v=AX.60)
 ms:contentKeyID: 35132573
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

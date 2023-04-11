@@ -4,7 +4,7 @@ TOCTitle: GenerateCardTokenPaymentServiceRequest Constructor (TenderLine, Tokeni
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GenerateCardTokenPaymentServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.TenderLine,Microsoft.Dynamics.Commerce.Runtime.DataModel.TokenizedPaymentCard)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.generatecardtokenpaymentservicerequest.generatecardtokenpaymentservicerequest(v=AX.60)
 ms:contentKeyID: 65315726
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

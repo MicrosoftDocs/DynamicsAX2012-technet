@@ -4,7 +4,7 @@ TOCTitle: General ledger cube (LedgerCube)
 ms:assetid: 2d75ebcd-ecb9-43b6-b9cc-98613503c46c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710388(v=AX.60)
 ms:contentKeyID: 49384280
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

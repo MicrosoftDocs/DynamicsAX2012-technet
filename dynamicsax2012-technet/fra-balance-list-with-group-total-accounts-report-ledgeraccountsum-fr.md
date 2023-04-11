@@ -4,7 +4,7 @@ TOCTitle: (FRA) Balance list with group total accounts report (LedgerAccountSum_
 ms:assetid: 9550508b-2b78-4f8b-95c0-7a14fab1ab77
 ms:mtpsurl: https://technet.microsoft.com/library/Aa588024(v=AX.60)
 ms:contentKeyID: 36687909
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (FRA) Set up a French national item (NGP) code
 ms:assetid: c00a6f63-4dd9-4406-95b0-ac887ed216c9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242826(v=AX.60)
 ms:contentKeyID: 36059261
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Fiscal books integration with Microsoft Dynamics AX 2009
 ms:assetid: 6a8ab8f5-1759-4078-92a8-6de2e1563cd9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304987(v=AX.60)
 ms:contentKeyID: 54899994
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

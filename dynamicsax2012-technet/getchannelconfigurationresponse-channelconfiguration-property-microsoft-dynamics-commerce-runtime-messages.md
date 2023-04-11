@@ -4,7 +4,7 @@ TOCTitle: ChannelConfiguration Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelConfigurationResponse.ChannelConfiguration
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelconfigurationresponse.channelconfiguration(v=AX.60)
 ms:contentKeyID: 62208581
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

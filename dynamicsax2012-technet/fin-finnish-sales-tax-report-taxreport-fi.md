@@ -4,7 +4,7 @@ TOCTitle: (FIN) Finnish sales tax report (TaxReport_FI)
 ms:assetid: f7cfcf1f-2b00-411a-b27e-cf5d0a1e1f43
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352299(v=AX.60)
 ms:contentKeyID: 36687927
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

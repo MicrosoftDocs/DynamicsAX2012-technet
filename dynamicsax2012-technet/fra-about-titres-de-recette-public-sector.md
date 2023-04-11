@@ -4,7 +4,7 @@ TOCTitle: (FRA) About titres de recette (Public sector)
 ms:assetid: 1550611c-ed0e-4d81-948e-31f52b74d127
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450742(v=AX.60)
 ms:contentKeyID: 36966680
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

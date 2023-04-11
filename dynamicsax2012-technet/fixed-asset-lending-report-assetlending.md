@@ -4,7 +4,7 @@ TOCTitle: Fixed asset lending report (AssetLending)
 ms:assetid: 675e633b-dc5b-4c41-abdc-1c55e53262de
 ms:mtpsurl: https://technet.microsoft.com/library/Aa577273(v=AX.60)
 ms:contentKeyID: 36676474
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

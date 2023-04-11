@@ -4,7 +4,7 @@ TOCTitle: (FRA) Place or release vendor invoice payment holds (Public sector)
 ms:assetid: ea5554b6-7a66-4d12-8a36-27393edf6929
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208599(v=AX.60)
 ms:contentKeyID: 36056386
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

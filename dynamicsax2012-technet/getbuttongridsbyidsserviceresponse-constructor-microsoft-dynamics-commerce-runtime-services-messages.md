@@ -4,7 +4,7 @@ TOCTitle: GetButtonGridsByIdsServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetButtonGridsByIdsServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ButtonGrid})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getbuttongridsbyidsserviceresponse.getbuttongridsbyidsserviceresponse(v=AX.60)
 ms:contentKeyID: 62207260
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: '(FRA) Key tasks: Titres de recette and bordereaux de titre (Public se
 ms:assetid: 6caa1120-6636-47ed-b376-5b187e184286
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450745(v=AX.60)
 ms:contentKeyID: 36966683
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

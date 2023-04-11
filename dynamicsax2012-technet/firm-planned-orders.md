@@ -4,7 +4,7 @@ TOCTitle: Firm planned orders
 ms:assetid: 9ffae36b-8dd7-4bf1-8bff-be1d70b8d334
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571747(v=AX.60)
 ms:contentKeyID: 36058764
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: General ledger - advanced configuration key (LedgerAdvanced)
 ms:assetid: b589ae26-a030-4647-bd59-6884bbb86ed0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416687(v=AX.60)
 ms:contentKeyID: 36931848
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

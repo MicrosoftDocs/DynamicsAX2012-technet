@@ -4,7 +4,7 @@ TOCTitle: Fiscal year closing checklist
 ms:assetid: fd2f412e-d2e5-4fda-b4ee-b1cacaf0bd95
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500109(v=AX.60)
 ms:contentKeyID: 36931889
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

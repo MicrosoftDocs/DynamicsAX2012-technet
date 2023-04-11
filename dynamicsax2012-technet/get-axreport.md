@@ -4,7 +4,7 @@ TOCTitle: Get-AXReport
 ms:assetid: CBCD1B4C-72F5-4B55-858A-2E6FD7247E95
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720285(v=AX.60)
 ms:contentKeyID: 49720074
-author: Khairunj
+author: tonyafehr
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

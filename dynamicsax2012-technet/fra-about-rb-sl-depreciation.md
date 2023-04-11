@@ -4,7 +4,7 @@ TOCTitle: (FRA) About RB/SL depreciation
 ms:assetid: 821e4927-89f8-46c4-8d11-82e8f8ffcd77
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571558(v=AX.60)
 ms:contentKeyID: 36058364
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

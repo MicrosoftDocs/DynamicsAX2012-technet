@@ -4,7 +4,7 @@ TOCTitle: Financials III license code (LedgerAdvanced2)
 ms:assetid: 424c8d4c-2828-47b3-8bd0-d4ed3dc2879f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433451(v=AX.60)
 ms:contentKeyID: 36941203
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

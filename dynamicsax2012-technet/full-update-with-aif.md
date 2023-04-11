@@ -4,7 +4,7 @@ TOCTitle: Full Update With AIF
 ms:assetid: 37e523f4-ef04-4ef8-9c5a-dc9cdd3d686c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh582242(v=AX.60)
 ms:contentKeyID: 39533578
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

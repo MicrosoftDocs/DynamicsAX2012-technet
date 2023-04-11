@@ -4,7 +4,7 @@ TOCTitle: Get-AXSecurityRoleMember
 ms:assetid: C3B88DD0-D326-4F12-9CCF-BC123BE49BDD
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720284(v=AX.60)
 ms:contentKeyID: 49720073
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

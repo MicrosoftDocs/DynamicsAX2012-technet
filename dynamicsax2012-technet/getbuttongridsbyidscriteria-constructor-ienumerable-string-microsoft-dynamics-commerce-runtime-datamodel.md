@@ -4,7 +4,7 @@ TOCTitle: GetButtonGridsByIdsCriteria Constructor (IEnumerable(String))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.GetButtonGridsByIdsCriteria.#ctor(System.Collections.Generic.IEnumerable{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.getbuttongridsbyidscriteria.getbuttongridsbyidscriteria(v=AX.60)
 ms:contentKeyID: 62210380
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

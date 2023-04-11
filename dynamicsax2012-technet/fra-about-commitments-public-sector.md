@@ -4,7 +4,7 @@ TOCTitle: (FRA) About commitments (Public sector)
 ms:assetid: f3fe899a-93bd-40b9-bd81-c243d7f0f658
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208606(v=AX.60)
 ms:contentKeyID: 36056396
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

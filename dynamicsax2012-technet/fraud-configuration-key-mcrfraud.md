@@ -4,7 +4,7 @@ TOCTitle: Fraud configuration key (MCRFraud)
 ms:assetid: ae15b7da-7761-4e13-bca8-705f6da74509
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774945(v=AX.60)
 ms:contentKeyID: 62617660
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:

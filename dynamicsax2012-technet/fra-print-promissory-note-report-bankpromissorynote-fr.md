@@ -4,7 +4,7 @@ TOCTitle: (FRA) Print promissory note report (BankPromissoryNote_FR)
 ms:assetid: 5a94ae5b-9a0d-4c1c-b886-bd0bcb2161d5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335151(v=AX.60)
 ms:contentKeyID: 36687362
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

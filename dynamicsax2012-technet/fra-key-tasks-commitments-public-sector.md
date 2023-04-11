@@ -4,7 +4,7 @@ TOCTitle: '(FRA) Key tasks: Commitments (Public sector)'
 ms:assetid: 65456427-ebe1-40df-9c2b-82c3c6244263
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208538(v=AX.60)
 ms:contentKeyID: 36056291
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

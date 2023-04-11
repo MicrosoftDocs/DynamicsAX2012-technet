@@ -4,7 +4,7 @@ TOCTitle: Generate timesheet periods
 ms:assetid: 49a3aa2e-6d08-42bf-b299-67c28ccbdbcf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497006(v=AX.60)
 ms:contentKeyID: 36056943
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

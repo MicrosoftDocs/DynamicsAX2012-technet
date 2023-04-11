@@ -4,7 +4,7 @@ TOCTitle: Garnishment and tax levy setup tasks
 ms:assetid: 19e1f07f-79fa-469e-83b7-179479282a55
 ms:mtpsurl: https://technet.microsoft.com/library/JJ682089(v=AX.60)
 ms:contentKeyID: 49655576
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

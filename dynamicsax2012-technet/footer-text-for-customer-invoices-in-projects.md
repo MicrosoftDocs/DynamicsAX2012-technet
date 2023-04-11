@@ -4,7 +4,7 @@ TOCTitle: Footer text for customer invoices in projects
 ms:assetid: b2a9cf70-a4f0-47d1-ab69-47a9e6b3525b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232411(v=AX.60)
 ms:contentKeyID: 36059062
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

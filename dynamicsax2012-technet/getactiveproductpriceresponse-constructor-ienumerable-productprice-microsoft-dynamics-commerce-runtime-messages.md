@@ -4,7 +4,7 @@ TOCTitle: GetActiveProductPriceResponse Constructor (IEnumerable(ProductPrice))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetActiveProductPriceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPrice})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getactiveproductpriceresponse.getactiveproductpriceresponse(v=AX.60)
 ms:contentKeyID: 62211582
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

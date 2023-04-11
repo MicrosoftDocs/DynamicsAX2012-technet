@@ -4,7 +4,7 @@ TOCTitle: GetCardPaymentPropertiesServiceRequest Constructor (String, Boolean, S
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCardPaymentPropertiesServiceRequest.#ctor(System.String,System.Boolean,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcardpaymentpropertiesservicerequest.getcardpaymentpropertiesservicerequest(v=AX.60)
 ms:contentKeyID: 65319922
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

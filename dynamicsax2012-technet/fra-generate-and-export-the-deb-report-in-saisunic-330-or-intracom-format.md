@@ -4,7 +4,7 @@ TOCTitle: (FRA) Generate and export the DEB report in SAISUNIC 330 or INTRACOM f
 ms:assetid: 9eeb4812-fabb-4137-a6b3-6a2d0b4378eb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209442(v=AX.60)
 ms:contentKeyID: 36058754
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

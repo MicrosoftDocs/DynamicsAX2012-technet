@@ -4,7 +4,7 @@ TOCTitle: (FIN) Set up and generate the Finnish sales tax report in a foreign cu
 ms:assetid: ae40ede6-a338-4a72-93ae-3af1360b5436
 ms:mtpsurl: https://technet.microsoft.com/library/Dn511004(v=AX.60)
 ms:contentKeyID: 59953757
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

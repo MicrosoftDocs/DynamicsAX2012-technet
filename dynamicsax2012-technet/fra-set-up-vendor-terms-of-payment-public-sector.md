@@ -4,7 +4,7 @@ TOCTitle: (FRA) Set up vendor terms of payment (Public sector)
 ms:assetid: a7b44412-a928-4c82-92db-aa1e83b9b6ee
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208567(v=AX.60)
 ms:contentKeyID: 36056345
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

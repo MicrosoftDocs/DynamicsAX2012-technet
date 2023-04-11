@@ -4,7 +4,7 @@ TOCTitle: (FRA) Customer account statement report (CustAccountStatement_FR)
 ms:assetid: 834534a5-e234-4c96-97ba-bc1bc9b904f2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433505(v=AX.60)
 ms:contentKeyID: 36941277
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

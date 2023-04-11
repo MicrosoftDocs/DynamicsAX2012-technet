@@ -4,7 +4,7 @@ TOCTitle: General ledger roadmap
 ms:assetid: 7d832e8d-954b-4f14-807d-932f9d5c603b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn783392(v=AX.60)
 ms:contentKeyID: 62838586
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

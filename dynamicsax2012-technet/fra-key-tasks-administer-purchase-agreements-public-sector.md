@@ -4,7 +4,7 @@ TOCTitle: '(FRA) Key tasks: Administer purchase agreements (Public sector)'
 ms:assetid: c1d8201d-73bc-47ef-a2ab-9a9a002dc37e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208575(v=AX.60)
 ms:contentKeyID: 36056359
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

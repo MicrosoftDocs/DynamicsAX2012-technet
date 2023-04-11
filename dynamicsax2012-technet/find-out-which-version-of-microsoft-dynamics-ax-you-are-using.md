@@ -4,7 +4,7 @@ TOCTitle: Find out which version of Microsoft Dynamics AX you are using
 ms:assetid: c893c32d-9f40-4df7-a79c-fd9afffef1ab
 ms:mtpsurl: https://technet.microsoft.com/library/Dn269118(v=AX.60)
 ms:contentKeyID: 54920070
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

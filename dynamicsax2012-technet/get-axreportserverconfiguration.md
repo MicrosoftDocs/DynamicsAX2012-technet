@@ -4,7 +4,7 @@ TOCTitle: Get-AXReportServerConfiguration
 ms:assetid: 9B10AFF9-C425-4133-8BC8-9A864755FFDD
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720271(v=AX.60)
 ms:contentKeyID: 49720060
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

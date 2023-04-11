@@ -4,7 +4,7 @@ TOCTitle: (FRA) Set up NAF codes and siret numbers
 ms:assetid: 55e1d802-7493-4024-99a4-33a5549f982a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208962(v=AX.60)
 ms:contentKeyID: 36057318
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Generate items and dimensions
 ms:assetid: d0cbd4c1-1628-4f7b-969e-3ba6356d0c85
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551012(v=AX.60)
 ms:contentKeyID: 36059491
-author: Khairunj
+author: tonyafehr
 ms.date: 06/13/2017
 mtps_version: v=AX.60
 f1_keywords:

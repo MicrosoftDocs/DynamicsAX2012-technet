@@ -4,7 +4,7 @@ TOCTitle: GDPdU setup example
 ms:assetid: a0dd6065-c3db-42ff-bc19-a1d084e8db82
 ms:mtpsurl: https://technet.microsoft.com/library/Dn337316(v=AX.60)
 ms:contentKeyID: 55110388
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

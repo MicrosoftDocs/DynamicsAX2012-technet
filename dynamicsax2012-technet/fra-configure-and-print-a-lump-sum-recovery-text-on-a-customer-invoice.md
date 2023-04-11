@@ -4,7 +4,7 @@ TOCTitle: (FRA) Configure and print a lump sum recovery text on a customer invoi
 ms:assetid: 640087d4-b724-4a79-aeb1-b345c70fc15b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304975(v=AX.60)
 ms:contentKeyID: 54899957
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

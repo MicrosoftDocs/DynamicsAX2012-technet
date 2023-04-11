@@ -4,7 +4,7 @@ TOCTitle: (FRA) Vendor account statement (France) report (VendAccountStatement_F
 ms:assetid: a6a4411a-50ae-468e-b48a-18f269fb91ae
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456297(v=AX.60)
 ms:contentKeyID: 36997723
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

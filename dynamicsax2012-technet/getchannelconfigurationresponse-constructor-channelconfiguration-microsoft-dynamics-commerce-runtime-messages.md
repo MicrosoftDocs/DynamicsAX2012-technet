@@ -4,7 +4,7 @@ TOCTitle: GetChannelConfigurationResponse Constructor (ChannelConfiguration)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelConfigurationResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelConfiguration)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelconfigurationresponse.getchannelconfigurationresponse(v=AX.60)
 ms:contentKeyID: 62204333
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

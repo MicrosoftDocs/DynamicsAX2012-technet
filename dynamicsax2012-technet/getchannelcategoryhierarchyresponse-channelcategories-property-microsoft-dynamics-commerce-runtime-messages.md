@@ -4,7 +4,7 @@ TOCTitle: ChannelCategories Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelCategoryHierarchyResponse.ChannelCategories
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelcategoryhierarchyresponse.channelcategories(v=AX.60)
 ms:contentKeyID: 49823082
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

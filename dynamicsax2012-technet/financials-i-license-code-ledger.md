@@ -4,7 +4,7 @@ TOCTitle: Financials I license code (Ledger)
 ms:assetid: 126175e0-213a-418c-995e-8a12c385c421
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416652(v=AX.60)
 ms:contentKeyID: 36931815
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (FRA) Transaction list by date or voucher report (LedgerTransDateVouch
 ms:assetid: 5c249880-03c2-422f-a5c7-101ffe72c363
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335152(v=AX.60)
 ms:contentKeyID: 36687363
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

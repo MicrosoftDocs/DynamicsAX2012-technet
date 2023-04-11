@@ -4,7 +4,7 @@ TOCTitle: (FIN) Generate payments by using Generic ISO20022 credit transfers
 ms:assetid: ac27604a-e16b-4d50-bac0-dff41be3f684
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500179(v=AX.60)
 ms:contentKeyID: 37820242
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

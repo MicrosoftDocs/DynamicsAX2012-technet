@@ -4,7 +4,7 @@ TOCTitle: Generate assembly and disassembly orders (Retail essentials)
 ms:assetid: 253b0348-9fbf-4a6e-9ded-f8b1896d151b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn859558(v=AX.60)
 ms:contentKeyID: 63820146
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Fixed asset additions report (AssetAddition)
 ms:assetid: d3fe6a46-9550-4085-836a-c71fb9f629a9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416709(v=AX.60)
 ms:contentKeyID: 36931902
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
