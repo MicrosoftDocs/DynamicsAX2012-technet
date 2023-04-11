@@ -4,7 +4,7 @@ TOCTitle: (CHN) Customer balance report
 ms:assetid: e5426835-dc8e-4278-b31e-4815ae86a4a7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944983(v=AX.60)
 ms:contentKeyID: 51412483
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

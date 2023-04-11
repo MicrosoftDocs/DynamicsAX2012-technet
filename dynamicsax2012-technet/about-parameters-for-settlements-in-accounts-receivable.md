@@ -4,7 +4,7 @@ TOCTitle: About parameters for settlements in Accounts receivable
 ms:assetid: ac37132d-d044-4529-a294-8f172f9764f4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545528(v=AX.60)
 ms:contentKeyID: 37832523
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

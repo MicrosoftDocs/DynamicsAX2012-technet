@@ -4,7 +4,7 @@ TOCTitle: (CHN) Production cost analysis (report)
 ms:assetid: 4aa1cb01-aaf9-46c2-85fd-b9c261906a78
 ms:mtpsurl: https://technet.microsoft.com/library/Dn169456(v=AX.60)
 ms:contentKeyID: 53865945
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

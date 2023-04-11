@@ -4,7 +4,7 @@ TOCTitle: (CHN) Vendor details (China) (report)
 ms:assetid: fd7b8205-166f-4967-848e-65696500530f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944986(v=AX.60)
 ms:contentKeyID: 51412486
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

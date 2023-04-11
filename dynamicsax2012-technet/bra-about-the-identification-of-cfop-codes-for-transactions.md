@@ -4,7 +4,7 @@ TOCTitle: (BRA) About the identification of CFOP codes for transactions
 ms:assetid: da494277-889f-474a-9269-5912f7f1e2a5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937994(v=AX.60)
 ms:contentKeyID: 50950782
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

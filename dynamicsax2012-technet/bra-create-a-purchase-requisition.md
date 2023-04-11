@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create a purchase requisition
 ms:assetid: b90f52ac-5826-493e-a4d7-eeecd279da96
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923370(v=AX.60)
 ms:contentKeyID: 50877027
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

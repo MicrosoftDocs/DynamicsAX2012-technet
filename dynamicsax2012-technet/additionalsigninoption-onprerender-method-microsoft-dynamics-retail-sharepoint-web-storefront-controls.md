@@ -4,7 +4,7 @@ TOCTitle: OnPreRender Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.AdditionalSignInOption.OnPreRender(System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.additionalsigninoption.onprerender(v=AX.60)
 ms:contentKeyID: 62206541
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

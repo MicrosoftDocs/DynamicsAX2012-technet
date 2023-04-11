@@ -4,7 +4,7 @@ TOCTitle: KeyInPrice Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Barcode.KeyInPrice
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.barcode.keyinprice(v=AX.60)
 ms:contentKeyID: 62208060
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

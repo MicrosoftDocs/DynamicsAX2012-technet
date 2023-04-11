@@ -4,7 +4,7 @@ TOCTitle: AddOrRemoveDiscountCodesRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.AddOrRemoveDiscountCodesRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.addorremovediscountcodesrequest_methods(v=AX.60)
 ms:contentKeyID: 65315984
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

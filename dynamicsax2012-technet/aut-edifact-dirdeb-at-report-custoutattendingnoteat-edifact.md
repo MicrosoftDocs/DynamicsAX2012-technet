@@ -4,7 +4,7 @@ TOCTitle: (AUT) EDIFACT-DIRDEB (AT) report (CustOutAttendingNoteAT_EDIFACT)
 ms:assetid: 77d5ca92-f986-48ab-acc6-94af2d3cc6b8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335156(v=AX.60)
 ms:contentKeyID: 36687368
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

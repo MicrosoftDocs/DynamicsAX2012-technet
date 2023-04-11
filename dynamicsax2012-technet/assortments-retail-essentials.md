@@ -4,7 +4,7 @@ TOCTitle: Assortments (Retail essentials)
 ms:assetid: 22b2f5d7-1585-4eae-a965-4017ec4683d5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716060(v=AX.60)
 ms:contentKeyID: 62200325
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 08/15/2014
 mtps_version: v=AX.60

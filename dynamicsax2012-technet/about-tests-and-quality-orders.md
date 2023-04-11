@@ -4,7 +4,7 @@ TOCTitle: About tests and quality orders
 ms:assetid: 4232dd41-7dc2-4695-9e32-931ef863e8de
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231366(v=AX.60)
 ms:contentKeyID: 36056870
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Process sales order overview
 ms:assetid: f922b9d1-9712-4e20-806c-23af30349725
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663977(v=AX.60)
 ms:contentKeyID: 49384562
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

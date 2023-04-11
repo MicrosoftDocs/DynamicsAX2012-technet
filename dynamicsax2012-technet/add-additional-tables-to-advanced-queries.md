@@ -4,7 +4,7 @@ TOCTitle: Add additional tables to advanced queries
 ms:assetid: e1c75504-c265-4eb9-837b-553bcb9d9eb6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551356(v=AX.60)
 ms:contentKeyID: 37822164
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Attach a question to a questionnaire with result groups
 ms:assetid: 149e3f29-f6f1-45cd-a224-fe26287cf7a6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496618(v=AX.60)
 ms:contentKeyID: 42117749
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

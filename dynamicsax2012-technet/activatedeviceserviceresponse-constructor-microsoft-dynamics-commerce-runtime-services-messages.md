@@ -4,7 +4,7 @@ TOCTitle: ActivateDeviceServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ActivateDeviceServiceResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.DeviceActivationResult)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.activatedeviceserviceresponse.activatedeviceserviceresponse(v=AX.60)
 ms:contentKeyID: 65321004
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up a fiscal organization
 ms:assetid: 31f180fc-09c4-4f1e-b0a3-88ea29185b22
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305863(v=AX.60)
 ms:contentKeyID: 54912963
-author: tfehr
+author: tonyafehr
 ms.date: 05/15/2015
 mtps_version: v=AX.60
 f1_keywords:

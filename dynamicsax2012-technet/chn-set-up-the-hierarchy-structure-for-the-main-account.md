@@ -4,7 +4,7 @@ TOCTitle: (CHN) Set up the hierarchy structure for the main account
 ms:assetid: e979f334-b3d7-4a64-80ac-d42910e9f0d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664147(v=AX.60)
 ms:contentKeyID: 49384730
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

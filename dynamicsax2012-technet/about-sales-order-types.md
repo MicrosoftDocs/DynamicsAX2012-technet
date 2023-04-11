@@ -4,7 +4,7 @@ TOCTitle: About sales order types
 ms:assetid: df092bab-93ce-41cb-b955-9f7a958f3c95
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551278(v=AX.60)
 ms:contentKeyID: 36059693
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 03/16/2015
 mtps_version: v=AX.60

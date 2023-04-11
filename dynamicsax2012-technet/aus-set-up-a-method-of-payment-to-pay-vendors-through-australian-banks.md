@@ -4,7 +4,7 @@ TOCTitle: (AUS) Set up a method of payment to pay vendors through Australian ban
 ms:assetid: ff6b1e28-f0d5-4a92-95d4-ac3a1e31a6d1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944963(v=AX.60)
 ms:contentKeyID: 51412457
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

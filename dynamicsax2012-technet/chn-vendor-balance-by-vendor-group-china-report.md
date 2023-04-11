@@ -4,7 +4,7 @@ TOCTitle: (CHN) Vendor balance by vendor group (China) (report)
 ms:assetid: f693d052-5dbe-453a-91e5-45d2d4532500
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944985(v=AX.60)
 ms:contentKeyID: 51412485
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

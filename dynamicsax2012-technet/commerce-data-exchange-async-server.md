@@ -4,7 +4,7 @@ TOCTitle: 'Commerce Data Exchange: Async Server'
 ms:assetid: 8f802c2f-37bc-4a5c-805e-bece3640245f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741449(v=AX.60)
 ms:contentKeyID: 62219726
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

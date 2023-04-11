@@ -4,7 +4,7 @@ TOCTitle: Budgeting configuration key (COSBudget)
 ms:assetid: a369d2db-ee94-4efe-b13a-2dfc0f8c6a20
 ms:mtpsurl: https://technet.microsoft.com/library/Aa588796(v=AX.60)
 ms:contentKeyID: 37072006
-author: tfehr
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

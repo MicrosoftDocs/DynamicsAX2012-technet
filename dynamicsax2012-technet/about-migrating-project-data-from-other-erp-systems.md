@@ -4,7 +4,7 @@ TOCTitle: About migrating project data from other ERP systems
 ms:assetid: 253c025d-7c4d-4351-9b02-d207eb068244
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208482(v=AX.60)
 ms:contentKeyID: 36056190
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

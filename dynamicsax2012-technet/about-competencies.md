@@ -4,7 +4,7 @@ TOCTitle: About competencies
 ms:assetid: a976253b-c0af-4da3-a255-e5300f875b30
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874010(v=AX.60)
 ms:contentKeyID: 50619132
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 11/14/2014
 mtps_version: v=AX.60

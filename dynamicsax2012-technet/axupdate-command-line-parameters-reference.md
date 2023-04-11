@@ -4,7 +4,7 @@ TOCTitle: AXUpdate command line parameters reference
 ms:assetid: 42f5ad71-2470-46c8-903a-53e6d34714d1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538445(v=AX.60)
 ms:contentKeyID: 39508867
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

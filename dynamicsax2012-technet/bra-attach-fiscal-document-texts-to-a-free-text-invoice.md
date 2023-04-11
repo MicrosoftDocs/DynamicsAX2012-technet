@@ -4,7 +4,7 @@ TOCTitle: (BRA) Attach fiscal document texts to a free text invoice
 ms:assetid: d30da180-41d5-464d-9770-1e49ead4ed02
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663938(v=AX.60)
 ms:contentKeyID: 49384524
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

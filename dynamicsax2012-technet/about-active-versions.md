@@ -4,7 +4,7 @@ TOCTitle: About active versions
 ms:assetid: a75211a3-2726-434a-b951-5880d2fb7c61
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550304(v=AX.60)
 ms:contentKeyID: 36058876
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

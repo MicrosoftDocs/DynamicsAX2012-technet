@@ -4,7 +4,7 @@ TOCTitle: About capabilities for operations resources
 ms:assetid: 31945ac2-ef6c-4dae-b161-54eafbc596c7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208568(v=AX.60)
 ms:contentKeyID: 36056342
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 09/17/2014
 mtps_version: v=AX.60

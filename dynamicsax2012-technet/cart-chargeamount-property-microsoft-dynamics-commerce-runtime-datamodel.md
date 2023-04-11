@@ -4,7 +4,7 @@ TOCTitle: ChargeAmount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart.ChargeAmount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cart.chargeamount(v=AX.60)
 ms:contentKeyID: 49845337
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

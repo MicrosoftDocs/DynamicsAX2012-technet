@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up operation types
 ms:assetid: f93f0083-2c8f-4260-aab4-24aae3280076
 ms:mtpsurl: https://technet.microsoft.com/library/JJ822923(v=AX.60)
 ms:contentKeyID: 50117582
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

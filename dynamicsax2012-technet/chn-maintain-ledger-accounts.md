@@ -4,7 +4,7 @@ TOCTitle: (CHN) Maintain ledger accounts
 ms:assetid: a9437ccf-bff8-4fcd-894f-3eadc1183d62
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664096(v=AX.60)
 ms:contentKeyID: 49384679
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

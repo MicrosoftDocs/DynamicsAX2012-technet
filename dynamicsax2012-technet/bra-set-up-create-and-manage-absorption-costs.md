@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up, create, and manage absorption costs
 ms:assetid: 26ed04bf-e5bf-4b59-8f10-1a0f9bf776cb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710437(v=AX.60)
 ms:contentKeyID: 49384329
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

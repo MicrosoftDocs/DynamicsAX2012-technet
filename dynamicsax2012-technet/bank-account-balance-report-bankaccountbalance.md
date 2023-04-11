@@ -4,7 +4,7 @@ TOCTitle: Bank account balance report (BankAccountBalance)
 ms:assetid: e8b4bda8-2117-403e-8e03-f8f2f4f3211f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556874(v=AX.60)
 ms:contentKeyID: 39509609
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

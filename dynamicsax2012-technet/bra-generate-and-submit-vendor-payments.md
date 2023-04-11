@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate and submit vendor payments
 ms:assetid: 3fe4ac82-a409-45c4-92fe-1c67cb222c94
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710476(v=AX.60)
 ms:contentKeyID: 49384366
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

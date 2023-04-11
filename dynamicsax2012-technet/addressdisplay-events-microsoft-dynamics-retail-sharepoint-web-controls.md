@@ -4,7 +4,7 @@ TOCTitle: AddressDisplay Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplay
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplay_events(v=AX.60)
 ms:contentKeyID: 62205479
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

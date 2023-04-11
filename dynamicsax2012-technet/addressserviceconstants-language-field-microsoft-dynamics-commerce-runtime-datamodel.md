@@ -4,7 +4,7 @@ TOCTitle: Language Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressServiceConstants.Language
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.language(v=AX.60)
 ms:contentKeyID: 49839505
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

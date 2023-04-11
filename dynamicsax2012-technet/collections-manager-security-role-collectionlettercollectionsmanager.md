@@ -4,7 +4,7 @@ TOCTitle: Collections manager security role (CollectionLetterCollectionsManager)
 ms:assetid: 049f9284-1b32-4617-949a-26a6b1215bdd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh544036(v=AX.60)
 ms:contentKeyID: 37823117
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

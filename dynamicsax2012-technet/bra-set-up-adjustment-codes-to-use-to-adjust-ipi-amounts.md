@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up adjustment codes to use to adjust IPI amounts
 ms:assetid: 08fa2ce2-f90b-4e31-89a9-4fd4c04a54a8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305857(v=AX.60)
 ms:contentKeyID: 54912957
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

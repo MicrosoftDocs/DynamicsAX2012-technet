@@ -4,7 +4,7 @@ TOCTitle: About prerequisites for a standard cost conversion
 ms:assetid: ed2c01b0-3cab-40bc-b750-caf90a7b10ee
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243259(v=AX.60)
 ms:contentKeyID: 36059902
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

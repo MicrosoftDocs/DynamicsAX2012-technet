@@ -4,7 +4,7 @@ TOCTitle: About batch order sequencing
 ms:assetid: df786d57-feb8-4fbb-8830-ff72f9b08fb8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838751(v=AX.60)
 ms:contentKeyID: 50120634
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

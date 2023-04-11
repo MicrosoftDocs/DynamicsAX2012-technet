@@ -4,7 +4,7 @@ TOCTitle: Back up and recover databases (SQL Server)
 ms:assetid: f63959d7-376c-4e69-afe9-0ed03ba13a1f
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362128(v=AX.60)
 ms:contentKeyID: 36584408
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

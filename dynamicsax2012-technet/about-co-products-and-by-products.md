@@ -4,7 +4,7 @@ TOCTitle: About co-products and by-products
 ms:assetid: 9ddb40e1-afe6-486d-8404-9b3b61f490c8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352310(v=AX.60)
 ms:contentKeyID: 36687939
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: CacheDataManager Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Data.CacheDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.cachedatamanager(v=AX.60)
 ms:contentKeyID: 65319611
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

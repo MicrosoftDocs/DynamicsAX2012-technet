@@ -4,7 +4,7 @@ TOCTitle: Execute Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Workflow.CalculateChargesRequestHandler.Execute
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.calculatechargesrequesthandler.execute(v=AX.60)
 ms:contentKeyID: 65319404
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

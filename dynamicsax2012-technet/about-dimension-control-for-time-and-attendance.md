@@ -4,7 +4,7 @@ TOCTitle: About dimension control for time and attendance
 ms:assetid: 549dfaa2-908e-4886-aa1e-c07e70ef85d1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549038(v=AX.60)
 ms:contentKeyID: 36057308
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

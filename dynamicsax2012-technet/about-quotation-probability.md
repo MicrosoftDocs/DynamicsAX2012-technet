@@ -4,7 +4,7 @@ TOCTitle: About quotation probability
 ms:assetid: 42931392-39c5-4a3f-81d3-912dee68fc8b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496961(v=AX.60)
 ms:contentKeyID: 36056873
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

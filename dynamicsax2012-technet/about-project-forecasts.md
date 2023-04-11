@@ -4,7 +4,7 @@ TOCTitle: About project forecasts
 ms:assetid: 1bb1eb17-2e0f-40a6-a6ce-d07eb84751d1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208457(v=AX.60)
 ms:contentKeyID: 36056130
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 10/06/2014
 mtps_version: v=AX.60

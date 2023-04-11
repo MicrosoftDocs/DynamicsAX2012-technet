@@ -4,7 +4,7 @@ TOCTitle: Accounts payable positive payment clerk security role (PaymPositivePay
 ms:assetid: c0e3d16c-9048-4382-9c0f-ef441b7fec04
 ms:mtpsurl: https://technet.microsoft.com/library/Dn743813(v=AX.60)
 ms:contentKeyID: 62279206
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/06/2014
 mtps_version: v=AX.60

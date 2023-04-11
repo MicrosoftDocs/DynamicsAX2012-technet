@@ -4,7 +4,7 @@ TOCTitle: Allow cost breakdown activation configuration key (BOMCostBreakdown)
 ms:assetid: 1f217ecb-c521-4f38-90df-a3b5e660bc12
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456311(v=AX.60)
 ms:contentKeyID: 36997744
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

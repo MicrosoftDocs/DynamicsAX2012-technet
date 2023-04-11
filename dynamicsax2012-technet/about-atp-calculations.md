@@ -4,7 +4,7 @@ TOCTitle: About ATP calculations
 ms:assetid: 55503035-663c-47e2-96d5-4f10037d1c67
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212804(v=AX.60)
 ms:contentKeyID: 36931872
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

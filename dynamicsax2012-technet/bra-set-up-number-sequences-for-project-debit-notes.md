@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up number sequences for project debit notes
 ms:assetid: 5b8414b3-c23a-4978-b2bc-8db861a9c130
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853380(v=AX.60)
 ms:contentKeyID: 50396747
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: " 3PL"
 ms:assetid: DynamicsAXGlossary.1496370
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1496370(v=AX.60)
 ms:contentKeyID: 36057246
-author: tfehr
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

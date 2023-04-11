@@ -4,7 +4,7 @@ TOCTitle: Close-of-year transactions report (LedgerTransferOpening)
 ms:assetid: 8bd01afd-ed49-42cc-bbf8-b148c5de30ce
 ms:mtpsurl: https://technet.microsoft.com/library/Aa598434(v=AX.60)
 ms:contentKeyID: 37832020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About unsent alerts
 ms:assetid: bfef101a-5ada-4ceb-8c29-9c3b082629a7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834432(v=AX.60)
 ms:contentKeyID: 46687567
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

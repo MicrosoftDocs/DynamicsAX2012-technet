@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a purchase complementary fiscal document
 ms:assetid: 1ea0b2b9-3f16-4ce7-b06f-372082d42c23
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710430(v=AX.60)
 ms:contentKeyID: 49384322
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

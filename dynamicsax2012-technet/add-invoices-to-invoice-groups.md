@@ -4,7 +4,7 @@ TOCTitle: Add invoices to invoice groups
 ms:assetid: bd9b8868-b6e0-4792-b7f1-134c3eda27c4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242778(v=AX.60)
 ms:contentKeyID: 36059157
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

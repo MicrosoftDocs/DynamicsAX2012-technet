@@ -4,7 +4,7 @@ TOCTitle: Close Accounts receivable overview
 ms:assetid: d19a5918-0003-4860-a6e7-ba165695e66f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213687(v=AX.60)
 ms:contentKeyID: 36059501
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

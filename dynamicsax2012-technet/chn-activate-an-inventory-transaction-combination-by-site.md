@@ -4,7 +4,7 @@ TOCTitle: (CHN) Activate an inventory transaction combination by site
 ms:assetid: 853a55fe-3ab3-4cc4-9866-197782e294c3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664073(v=AX.60)
 ms:contentKeyID: 49384657
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

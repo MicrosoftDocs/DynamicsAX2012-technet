@@ -4,7 +4,7 @@ TOCTitle: (BEL) Payment control report (CustDomStatement_BE)
 ms:assetid: 8e13b20f-e9e7-48a8-80ba-eaa48211f383
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692468(v=AX.60)
 ms:contentKeyID: 41702365
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

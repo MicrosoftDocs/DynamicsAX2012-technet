@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up ledger posting groups for sales tax
 ms:assetid: e8058800-3745-4d48-8313-0450ee390023
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663962(v=AX.60)
 ms:contentKeyID: 49384548
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

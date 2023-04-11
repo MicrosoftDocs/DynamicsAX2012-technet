@@ -4,7 +4,7 @@ TOCTitle: (BRA) About calculation of taxes
 ms:assetid: 8f5b0f9e-b0da-48d3-8a21-ae0ac49ef9b1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ822918(v=AX.60)
 ms:contentKeyID: 50117575
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

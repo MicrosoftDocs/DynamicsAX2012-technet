@@ -4,7 +4,7 @@ TOCTitle: China
 ms:assetid: f30b936f-b96d-4a26-9125-91e8e3c34462
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664149(v=AX.60)
 ms:contentKeyID: 49384732
-author: Khairunj
+author: tonyafehr
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

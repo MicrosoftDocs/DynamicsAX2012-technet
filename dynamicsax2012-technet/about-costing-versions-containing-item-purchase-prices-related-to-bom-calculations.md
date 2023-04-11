@@ -4,7 +4,7 @@ TOCTitle: About costing versions containing item purchase prices related to BOM 
 ms:assetid: ecb5f988-6e20-481c-b2b2-e69eb55cb875
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243256(v=AX.60)
 ms:contentKeyID: 36059896
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

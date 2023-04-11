@@ -4,7 +4,7 @@ TOCTitle: About same batch reservations
 ms:assetid: ea7616bc-06b4-40c1-844c-df5de4417865
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227481(v=AX.60)
 ms:contentKeyID: 36059854
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

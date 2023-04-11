@@ -4,7 +4,7 @@ TOCTitle: Collection letter configuration key (CustCollectionLetter)
 ms:assetid: 346beffa-f0a8-4852-8d5f-c19677bdebbd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467546(v=AX.60)
 ms:contentKeyID: 36991693
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

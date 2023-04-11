@@ -4,7 +4,7 @@ TOCTitle: About product builder items
 ms:assetid: a4bd3a07-98fe-4021-b75b-d992409424e5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550247(v=AX.60)
 ms:contentKeyID: 36058861
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

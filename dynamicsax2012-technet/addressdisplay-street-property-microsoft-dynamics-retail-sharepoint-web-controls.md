@@ -4,7 +4,7 @@ TOCTitle: Street Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplay.Street
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplay.street(v=AX.60)
 ms:contentKeyID: 62205242
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

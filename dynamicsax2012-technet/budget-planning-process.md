@@ -4,7 +4,7 @@ TOCTitle: " budget planning process"
 ms:assetid: DynamicsAXGlossary.1954171
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1954171(v=AX.60)
 ms:contentKeyID: 62830096
-author: tfehr
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

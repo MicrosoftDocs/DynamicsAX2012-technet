@@ -4,7 +4,7 @@ TOCTitle: About straight line life remaining depreciation
 ms:assetid: 8f267249-1322-49fc-b827-71c7c4e775f9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498361(v=AX.60)
 ms:contentKeyID: 36058519
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

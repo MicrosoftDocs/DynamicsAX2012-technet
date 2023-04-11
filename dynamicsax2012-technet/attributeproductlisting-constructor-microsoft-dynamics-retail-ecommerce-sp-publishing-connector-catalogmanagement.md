@@ -4,7 +4,7 @@ TOCTitle: AttributeProductListing Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.AttributeProductListing.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeProduct,System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.attributeproductlisting.attributeproductlisting(v=AX.60)
 ms:contentKeyID: 65317250
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: (CHN) Chinese tax integration for VAT customer invoices
 ms:assetid: 643a344c-513b-4928-8058-f554eaacdbc4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn282392(v=AX.60)
 ms:contentKeyID: 54906855
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

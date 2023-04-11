@@ -4,7 +4,7 @@ TOCTitle: (CAN) Print checks report (Cheque_CA)
 ms:assetid: 26a89e13-345e-418a-9767-917e700c34bb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335137(v=AX.60)
 ms:contentKeyID: 36687347
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

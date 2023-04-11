@@ -4,7 +4,7 @@ TOCTitle: (BRA) Process sales with anticipated invoicing
 ms:assetid: fa9ec2ac-fbf0-4e72-95d1-87497793bb43
 ms:mtpsurl: https://technet.microsoft.com/library/JJ863744(v=AX.60)
 ms:contentKeyID: 50396427
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

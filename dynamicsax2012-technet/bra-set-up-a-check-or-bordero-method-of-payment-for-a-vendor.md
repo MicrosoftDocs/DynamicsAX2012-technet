@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up a check or Bordero method of payment for a vendor
 ms:assetid: 4730fee7-3d4d-46c7-8814-5c3097a5bb00
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910985(v=AX.60)
 ms:contentKeyID: 53382663
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

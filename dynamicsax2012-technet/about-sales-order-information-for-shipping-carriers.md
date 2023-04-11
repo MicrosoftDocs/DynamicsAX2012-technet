@@ -4,7 +4,7 @@ TOCTitle: About sales order information for shipping carriers
 ms:assetid: cd76ebc5-eae4-4b09-9015-892f2e72a4ef
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213673(v=AX.60)
 ms:contentKeyID: 36931881
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

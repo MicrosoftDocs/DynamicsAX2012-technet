@@ -4,7 +4,7 @@ TOCTitle: Session Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.BeginReadChangedProductsResponse.Session
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.beginreadchangedproductsresponse.session(v=AX.60)
 ms:contentKeyID: 62213743
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

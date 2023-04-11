@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up project parameters
 ms:assetid: 15ed1300-84a4-4e35-a0b4-e737209e1599
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853379(v=AX.60)
 ms:contentKeyID: 50396748
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

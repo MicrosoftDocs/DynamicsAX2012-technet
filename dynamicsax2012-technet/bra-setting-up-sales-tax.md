@@ -4,7 +4,7 @@ TOCTitle: (BRA) Setting up sales tax
 ms:assetid: 3dc3e467-1696-4bc7-b201-a8d7214cf8e9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710467(v=AX.60)
 ms:contentKeyID: 49384359
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

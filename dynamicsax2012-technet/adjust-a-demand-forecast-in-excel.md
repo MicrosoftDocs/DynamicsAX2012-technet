@@ -4,7 +4,7 @@ TOCTitle: Adjust a demand forecast in Excel
 ms:assetid: ab708055-6c4a-405f-9a1e-a8671ff49240
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497814(v=AX.60)
 ms:contentKeyID: 62200136
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/25/2014
 mtps_version: v=AX.60

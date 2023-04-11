@@ -4,7 +4,7 @@ TOCTitle: Assign question groups to business experts in RapidStart Services
 ms:assetid: 160c780a-44e3-42b9-9ad7-62311be9fcb7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn193987(v=AX.60)
 ms:contentKeyID: 52348242
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 09/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Add an affiliation to a customer
 ms:assetid: 612c73b2-b347-462c-9da0-6d144e8578ae
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497769(v=AX.60)
 ms:contentKeyID: 62200079
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

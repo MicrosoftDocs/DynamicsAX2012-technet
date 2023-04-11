@@ -4,7 +4,7 @@ TOCTitle: (BEL) Set up Belgisch Luxemburgs Wissel Instituut (BLWI) information
 ms:assetid: 4e663121-3766-4814-bbec-2d844dcd2e08
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212744(v=AX.60)
 ms:contentKeyID: 36057055
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

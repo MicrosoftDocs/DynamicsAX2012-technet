@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create a fiscal establishment
 ms:assetid: edce6412-e7ab-4214-8a27-4208ce18e1f1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923400(v=AX.60)
 ms:contentKeyID: 52075285
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Approve check and credit card refunds
 ms:assetid: 7e68104c-210f-4171-831a-10d94d5ffaa1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497794(v=AX.60)
 ms:contentKeyID: 62200107
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

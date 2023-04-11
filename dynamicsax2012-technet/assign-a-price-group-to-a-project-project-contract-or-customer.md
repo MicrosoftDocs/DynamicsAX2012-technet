@@ -4,7 +4,7 @@ TOCTitle: Assign a price group to a project, project contract, or customer
 ms:assetid: 70f8b639-f5b7-4242-8698-02a5ff9dc9df
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231828(v=AX.60)
 ms:contentKeyID: 36058061
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

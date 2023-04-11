@@ -4,7 +4,7 @@ TOCTitle: (BEL) Posting journal list - totaled report (LedgerPostingJournalTotal
 ms:assetid: 9e123d07-8c15-4578-8e6e-e92a01da3cc0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527155(v=AX.60)
 ms:contentKeyID: 37823206
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

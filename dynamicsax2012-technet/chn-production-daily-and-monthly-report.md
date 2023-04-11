@@ -4,7 +4,7 @@ TOCTitle: (CHN) Production daily and monthly (report)
 ms:assetid: 4fba8595-e3ca-4efd-b199-44b54c10e1b2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn169458(v=AX.60)
 ms:contentKeyID: 53865948
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

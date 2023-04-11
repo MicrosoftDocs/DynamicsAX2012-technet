@@ -4,7 +4,7 @@ TOCTitle: AddressCollectionResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.AddressCollectionResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.addresscollectionresponse_properties(v=AX.60)
 ms:contentKeyID: 65315868
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About Ax<Table> Classes
 ms:assetid: d653f81d-91e5-4542-a0ac-aba7b3d59e0f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa873749(v=AX.60)
 ms:contentKeyID: 35252049
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/17/2013
 mtps_version: v=AX.60

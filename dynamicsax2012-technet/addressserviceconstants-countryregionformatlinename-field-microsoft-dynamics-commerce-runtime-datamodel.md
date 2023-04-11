@@ -4,7 +4,7 @@ TOCTitle: CountryRegionFormatLineName Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressServiceConstants.CountryRegionFormatLineName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.countryregionformatlinename(v=AX.60)
 ms:contentKeyID: 49823013
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: (CHN) Set up and calculate the bank payment fees
 ms:assetid: cf8b1bc1-9bc1-47d3-9901-443175a27d06
 ms:mtpsurl: https://technet.microsoft.com/library/Dn364501(v=AX.60)
 ms:contentKeyID: 56472064
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

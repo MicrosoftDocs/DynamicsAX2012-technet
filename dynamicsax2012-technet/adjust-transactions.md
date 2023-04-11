@@ -4,7 +4,7 @@ TOCTitle: Adjust transactions
 ms:assetid: 1aa36eb3-725d-4ede-8fef-4a881ef2f049
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569923(v=AX.60)
 ms:contentKeyID: 36056124
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

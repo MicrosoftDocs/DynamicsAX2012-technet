@@ -4,7 +4,7 @@ TOCTitle: About operations scheduling
 ms:assetid: 12c8e85f-d0f2-4b26-8137-e0d503e73151
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496589(v=AX.60)
 ms:contentKeyID: 44080946
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

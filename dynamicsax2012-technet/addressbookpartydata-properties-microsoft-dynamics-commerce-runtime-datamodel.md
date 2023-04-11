@@ -4,7 +4,7 @@ TOCTitle: AddressBookPartyData Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressBookPartyData
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressbookpartydata_properties(v=AX.60)
 ms:contentKeyID: 62214657
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

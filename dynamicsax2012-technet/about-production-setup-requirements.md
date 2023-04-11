@@ -4,7 +4,7 @@ TOCTitle: About production setup requirements
 ms:assetid: f4909a96-bdd2-4fb5-be4d-c01ccaf8dace
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551641(v=AX.60)
 ms:contentKeyID: 37832550
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

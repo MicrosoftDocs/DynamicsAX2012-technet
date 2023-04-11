@@ -4,7 +4,7 @@ TOCTitle: About product configuration models
 ms:assetid: 5ccae80d-77cb-4c14-be69-5744390903dd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh278332(v=AX.60)
 ms:contentKeyID: 36207230
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

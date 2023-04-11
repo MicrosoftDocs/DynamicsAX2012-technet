@@ -4,7 +4,7 @@ TOCTitle: About answer session results
 ms:assetid: 79dbbe30-697f-464d-88ba-2be7965f27db
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692488(v=AX.60)
 ms:contentKeyID: 41702386
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

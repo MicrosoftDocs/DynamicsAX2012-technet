@@ -4,7 +4,7 @@ TOCTitle: Average call duration report (smmPhoneAverage)
 ms:assetid: 4b287be8-cfe9-4cf1-8bf7-55dbc4b1d1c5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa835009(v=AX.60)
 ms:contentKeyID: 36916354
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

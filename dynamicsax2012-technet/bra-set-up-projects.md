@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up projects
 ms:assetid: d4a2babe-ecba-445c-8877-26737d3dadee
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663936(v=AX.60)
 ms:contentKeyID: 49384521
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

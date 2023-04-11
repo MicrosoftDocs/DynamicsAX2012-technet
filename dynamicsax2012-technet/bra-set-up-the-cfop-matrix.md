@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up the CFOP matrix
 ms:assetid: 527dea5a-464d-4d1f-9c9c-d8ab4d187ddc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933515(v=AX.60)
 ms:contentKeyID: 50935127
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

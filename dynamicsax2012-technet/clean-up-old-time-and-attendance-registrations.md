@@ -4,7 +4,7 @@ TOCTitle: Clean up old time and attendance registrations
 ms:assetid: 97d174b1-d6c4-4d94-9091-be9628679b2d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498435(v=AX.60)
 ms:contentKeyID: 39519239
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

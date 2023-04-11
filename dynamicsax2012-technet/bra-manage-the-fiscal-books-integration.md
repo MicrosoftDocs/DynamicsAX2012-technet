@@ -4,7 +4,7 @@ TOCTitle: (BRA) Manage the fiscal books integration
 ms:assetid: b6d06caa-5dbb-4060-97ab-4a3cc90a9b9e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305880(v=AX.60)
 ms:contentKeyID: 54912981
-author: tfehr
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Cancel a transfer fiscal document
 ms:assetid: bc7c72b3-0a14-44af-b2c5-7ff9d024b59a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933527(v=AX.60)
 ms:contentKeyID: 50935140
-author: tfehr
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

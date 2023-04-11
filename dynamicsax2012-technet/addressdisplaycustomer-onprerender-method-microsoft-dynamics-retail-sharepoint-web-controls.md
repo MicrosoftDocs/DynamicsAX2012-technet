@@ -4,7 +4,7 @@ TOCTitle: OnPreRender Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplayCustomer.OnPreRender(System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplaycustomer.onprerender(v=AX.60)
 ms:contentKeyID: 62203663
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

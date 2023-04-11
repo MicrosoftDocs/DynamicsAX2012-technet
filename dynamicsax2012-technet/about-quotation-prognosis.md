@@ -4,7 +4,7 @@ TOCTitle: About quotation prognosis
 ms:assetid: 4e44cd44-f540-41fa-8e6c-4ec492147c09
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497122(v=AX.60)
 ms:contentKeyID: 36057050
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: (CHN) View ledger account information
 ms:assetid: 10bdb437-3b8e-41b7-9058-58c9b650e507
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663996(v=AX.60)
 ms:contentKeyID: 49384582
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

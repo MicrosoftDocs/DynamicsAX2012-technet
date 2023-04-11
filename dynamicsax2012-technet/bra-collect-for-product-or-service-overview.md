@@ -4,7 +4,7 @@ TOCTitle: (BRA) Collect for product or service overview
 ms:assetid: 863b75e7-ab52-4d2e-81d5-5ceafc2169ce
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710553(v=AX.60)
 ms:contentKeyID: 49384444
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

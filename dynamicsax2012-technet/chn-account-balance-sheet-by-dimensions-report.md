@@ -4,7 +4,7 @@ TOCTitle: (CHN) Account balance sheet by dimensions (report)
 ms:assetid: 2e781fe8-6758-4dc0-a99c-b04632a29b7c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ873747(v=AX.60)
 ms:contentKeyID: 50593457
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (CHN) Split or combine VAT customer invoices
 ms:assetid: c65960eb-0b18-445a-8128-7b4dc0502e67
 ms:mtpsurl: https://technet.microsoft.com/library/Dn282393(v=AX.60)
 ms:contentKeyID: 54906856
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

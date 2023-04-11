@@ -4,7 +4,7 @@ TOCTitle: (AUT) Purchase duty report (TaxPurchaseTaxReport)
 ms:assetid: 371bec6f-7a6b-474f-a356-cff72a93a23a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335141(v=AX.60)
 ms:contentKeyID: 36687352
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

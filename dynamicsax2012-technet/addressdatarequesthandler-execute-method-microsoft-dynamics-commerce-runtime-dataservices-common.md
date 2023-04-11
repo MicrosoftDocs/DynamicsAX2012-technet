@@ -4,7 +4,7 @@ TOCTitle: Execute Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.AddressDataRequestHandler.Execute(Microsoft.Dynamics.Commerce.Runtime.Messages.Request)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.common.addressdatarequesthandler.execute(v=AX.60)
 ms:contentKeyID: 65317509
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

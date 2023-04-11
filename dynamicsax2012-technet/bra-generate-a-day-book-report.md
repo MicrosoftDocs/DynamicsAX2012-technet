@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate a day book report
 ms:assetid: c149f63b-4bf0-4760-a824-3bf07745d5da
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710616(v=AX.60)
 ms:contentKeyID: 49384505
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

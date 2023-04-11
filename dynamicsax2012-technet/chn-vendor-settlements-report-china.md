@@ -4,7 +4,7 @@ TOCTitle: (CHN) Vendor settlements report (China)
 ms:assetid: 59edf7ae-b562-4dd5-8766-43210f1d020a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ945389(v=AX.60)
 ms:contentKeyID: 51442780
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

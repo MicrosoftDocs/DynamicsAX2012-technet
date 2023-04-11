@@ -4,7 +4,7 @@ TOCTitle: Best Practices for Designing Reports
 ms:assetid: 49ef5396-4500-4004-9a35-5cf925966a95
 ms:mtpsurl: https://technet.microsoft.com/library/Dn280817(v=AX.60)
 ms:contentKeyID: 54837977
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

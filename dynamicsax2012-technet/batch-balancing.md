@@ -4,7 +4,7 @@ TOCTitle: " batch balancing"
 ms:assetid: DynamicsAXGlossary.1784142
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1784142(v=AX.60)
 ms:contentKeyID: 62830076
-author: tfehr
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: " application model"
 ms:assetid: DynamicsAXGlossary.1689074
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1689074(v=AX.60)
 ms:contentKeyID: 45765404
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 08/25/2014
 mtps_version: v=AX.60

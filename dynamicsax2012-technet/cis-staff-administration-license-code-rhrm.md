@@ -4,7 +4,7 @@ TOCTitle: CIS staff administration license code (RHRM)
 ms:assetid: c7c75c4c-e10d-43bf-a983-2d529214690c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn502560(v=AX.60)
 ms:contentKeyID: 59361413
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

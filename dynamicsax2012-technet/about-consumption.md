@@ -4,7 +4,7 @@ TOCTitle: About consumption
 ms:assetid: 08f29358-c1d0-4380-9cdc-50b13424b5d3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569732(v=AX.60)
 ms:contentKeyID: 36055977
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

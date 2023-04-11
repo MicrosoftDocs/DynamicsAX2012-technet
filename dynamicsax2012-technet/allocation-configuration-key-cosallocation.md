@@ -4,7 +4,7 @@ TOCTitle: Allocation configuration key (COSAllocation)
 ms:assetid: ecf44a20-f500-4cf7-9d8a-35c0ae7dd81c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa599847(v=AX.60)
 ms:contentKeyID: 37072024
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

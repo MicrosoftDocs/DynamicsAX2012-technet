@@ -4,7 +4,7 @@ TOCTitle: (CHN) User operation log
 ms:assetid: d1921a80-0bac-4da4-9373-8df7bcb2f6d8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn864771(v=AX.60)
 ms:contentKeyID: 63400916
-author: Khairunj
+author: tonyafehr
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 audience: Application User

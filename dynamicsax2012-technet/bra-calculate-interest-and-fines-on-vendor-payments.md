@@ -4,7 +4,7 @@ TOCTitle: (BRA) Calculate interest and fines on vendor payments
 ms:assetid: 0c31ac33-1a57-44ce-b9fc-34bd1ace0e05
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937982(v=AX.60)
 ms:contentKeyID: 50950771
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

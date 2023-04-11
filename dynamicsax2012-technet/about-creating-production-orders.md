@@ -4,7 +4,7 @@ TOCTitle: About creating production orders
 ms:assetid: 78e4c758-bbac-4421-889e-947d5f165a61
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550055(v=AX.60)
 ms:contentKeyID: 36058231
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

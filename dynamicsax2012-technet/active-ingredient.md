@@ -4,7 +4,7 @@ TOCTitle: " active ingredient"
 ms:assetid: DynamicsAXGlossary.1784136
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1784136(v=AX.60)
 ms:contentKeyID: 62830075
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 08/25/2014
 mtps_version: v=AX.60

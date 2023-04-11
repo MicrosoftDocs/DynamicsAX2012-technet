@@ -4,7 +4,7 @@ TOCTitle: Code Upgrade Service user guide
 ms:assetid: 37b53a7b-0c30-4e25-be4d-1ffb109b6edf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh535215(v=AX.60)
 ms:contentKeyID: 39092156
-author: Khairunj
+author: tonyafehr
 ms.date: 05/04/2021
 mtps_version: v=AX.60
 ---

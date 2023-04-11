@@ -4,7 +4,7 @@ TOCTitle: Act on a task
 ms:assetid: 0b6d7bdf-e338-4d96-9ab1-1ab4cc74feb8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271450(v=AX.60)
 ms:contentKeyID: 36384082
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

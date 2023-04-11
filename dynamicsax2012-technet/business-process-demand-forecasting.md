@@ -4,7 +4,7 @@ TOCTitle: 'Business process: demand forecasting'
 ms:assetid: b697648d-244f-4873-9b32-669f62ea215b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497821(v=AX.60)
 ms:contentKeyID: 62200143
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

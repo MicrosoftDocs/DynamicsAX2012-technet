@@ -4,7 +4,7 @@ TOCTitle: (BRA) Setting up standard text in accounting transactions
 ms:assetid: 949b0824-4f46-4b11-b280-d325cff4e7a9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710571(v=AX.60)
 ms:contentKeyID: 49384461
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

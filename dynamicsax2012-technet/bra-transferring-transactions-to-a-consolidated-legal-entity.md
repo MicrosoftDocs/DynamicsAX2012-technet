@@ -4,7 +4,7 @@ TOCTitle: (BRA) Transferring transactions to a consolidated legal entity
 ms:assetid: 9f3367dd-2827-43bc-b029-5b7f39b2d97d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710573(v=AX.60)
 ms:contentKeyID: 49384463
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Activate your Partner Portal account for Microsoft Dynamics ERP RapidS
 ms:assetid: e323e2c0-8b36-4bf3-91b4-f02c384eeec0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn194007(v=AX.60)
 ms:contentKeyID: 52348256
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 09/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: ApplicationPostAuthenticateRequest Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule.ApplicationPostAuthenticateRequest(System.Object,System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.applicationpostauthenticaterequest(v=AX.60)
 ms:contentKeyID: 62201856
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60

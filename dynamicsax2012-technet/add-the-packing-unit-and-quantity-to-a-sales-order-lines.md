@@ -4,7 +4,7 @@ TOCTitle: Add the packing unit and quantity to a sales order lines
 ms:assetid: 7affc7ab-6b42-4c1b-aa2d-3e0180c6b4c8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550076(v=AX.60)
 ms:contentKeyID: 36058253
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

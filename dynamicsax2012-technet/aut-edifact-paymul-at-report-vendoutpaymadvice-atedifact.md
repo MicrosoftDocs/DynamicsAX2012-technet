@@ -4,7 +4,7 @@ TOCTitle: (AUT) EDIFACT-PAYMUL (AT) report (VendOutPaymAdvice_ATEDIFACT)
 ms:assetid: fc45799a-e57e-45d6-9689-95af143bd899
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524748(v=AX.60)
 ms:contentKeyID: 37072044
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

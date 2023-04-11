@@ -4,7 +4,7 @@ TOCTitle: (CHN) Compare BOM versions and print the BOM comparison report
 ms:assetid: 5ee58cb2-e8e7-40f8-abe7-48ce4f63eb43
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664050(v=AX.60)
 ms:contentKeyID: 49384633
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

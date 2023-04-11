@@ -4,7 +4,7 @@ TOCTitle: AxUtil and Windows PowerShell Commands for Deploying Models
 ms:assetid: 403c0715-227d-421e-91b7-ab8c353cf02c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456294(v=AX.60)
 ms:contentKeyID: 36997720
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

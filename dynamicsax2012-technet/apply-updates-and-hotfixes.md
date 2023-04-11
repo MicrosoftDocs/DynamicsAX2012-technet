@@ -4,7 +4,7 @@ TOCTitle: Apply updates and hotfixes
 ms:assetid: 7ff68f32-bb5e-4572-a205-9fb759ebd0ba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335183(v=AX.60)
 ms:contentKeyID: 36687407
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/20/2016
 mtps_version: v=AX.60

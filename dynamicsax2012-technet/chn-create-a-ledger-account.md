@@ -4,7 +4,7 @@ TOCTitle: (CHN) Create a ledger account
 ms:assetid: 62430f12-dc04-489c-b71f-834472619e60
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664052(v=AX.60)
 ms:contentKeyID: 49384639
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

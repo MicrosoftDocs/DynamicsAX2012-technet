@@ -4,7 +4,7 @@ TOCTitle: Addresses Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.AddressCollectionResponse.Addresses
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.addresscollectionresponse.addresses(v=AX.60)
 ms:contentKeyID: 65316143
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

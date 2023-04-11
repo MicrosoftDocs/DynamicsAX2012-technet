@@ -4,7 +4,7 @@ TOCTitle: DisplayAddressLine4 Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplayCustomer.DisplayAddressLine4
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplaycustomer.displayaddressline4(v=AX.60)
 ms:contentKeyID: 62203621
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

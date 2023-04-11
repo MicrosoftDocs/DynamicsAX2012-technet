@@ -4,7 +4,7 @@ TOCTitle: About advanced ledger entry workflows (Public sector)
 ms:assetid: 0941a884-764c-4e4c-832a-af33a47622ca
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208501(v=AX.60)
 ms:contentKeyID: 36056239
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

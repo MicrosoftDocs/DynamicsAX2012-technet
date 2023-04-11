@@ -4,7 +4,7 @@ TOCTitle: Accounting for stocked items on product receipts and vendor invoices
 ms:assetid: 39b68cd4-d73a-4c5f-89d0-7d410d061ba8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538443(v=AX.60)
 ms:contentKeyID: 39508866
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

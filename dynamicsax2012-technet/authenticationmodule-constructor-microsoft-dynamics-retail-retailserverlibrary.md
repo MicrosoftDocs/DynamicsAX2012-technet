@@ -4,7 +4,7 @@ TOCTitle: AuthenticationModule Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.authenticationmodule(v=AX.60)
 ms:contentKeyID: 62202880
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Calculate ATP manually
 ms:assetid: b3f39332-452b-414f-b858-842513e89a18
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232416(v=AX.60)
 ms:contentKeyID: 36059074
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

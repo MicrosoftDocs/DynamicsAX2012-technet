@@ -4,7 +4,7 @@ TOCTitle: (CHN) Working with Inventory and warehouse management
 ms:assetid: 5b437b8e-9dcb-46a3-bf0b-58d66fb1e62b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664045(v=AX.60)
 ms:contentKeyID: 49384629
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

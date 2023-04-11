@@ -4,7 +4,7 @@ TOCTitle: (BEL) Approve or cancel vendor register invoices with Intrastat inform
 ms:assetid: 48539928-e604-40fe-99be-2a417461e4c2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242399(v=AX.60)
 ms:contentKeyID: 36056923
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

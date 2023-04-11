@@ -4,7 +4,7 @@ TOCTitle: About project contract funding
 ms:assetid: 23d5abea-c4b6-431e-853a-dd010d34c524
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208479(v=AX.60)
 ms:contentKeyID: 36056185
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

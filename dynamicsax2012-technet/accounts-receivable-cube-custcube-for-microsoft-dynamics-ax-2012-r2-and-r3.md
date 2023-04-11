@@ -4,7 +4,7 @@ TOCTitle: Accounts receivable cube (CustCube)
 ms:assetid: 0f4d197b-7bd6-425a-acd6-77e491a85c4d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710381(v=AX.60)
 ms:contentKeyID: 49384273
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 07/23/2014
 mtps_version: v=AX.60

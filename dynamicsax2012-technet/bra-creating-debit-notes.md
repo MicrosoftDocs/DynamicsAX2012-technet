@@ -4,7 +4,7 @@ TOCTitle: (BRA) Creating debit notes
 ms:assetid: 47e8a3a2-14e6-4ed7-96df-1ff184e9f224
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710486(v=AX.60)
 ms:contentKeyID: 49384379
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

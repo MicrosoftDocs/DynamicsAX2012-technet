@@ -4,7 +4,7 @@ TOCTitle: Assign a screen layout
 ms:assetid: 85bf4eda-e70b-4731-a66e-0d5208f8317b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597157(v=AX.60)
 ms:contentKeyID: 39519214
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

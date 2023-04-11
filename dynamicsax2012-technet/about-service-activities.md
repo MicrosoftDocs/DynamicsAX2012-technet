@@ -4,7 +4,7 @@ TOCTitle: About service activities
 ms:assetid: f721f9d6-b94d-47df-b072-165f33ec8705
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243295(v=AX.60)
 ms:contentKeyID: 62632262
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 07/28/2014
 mtps_version: v=AX.60

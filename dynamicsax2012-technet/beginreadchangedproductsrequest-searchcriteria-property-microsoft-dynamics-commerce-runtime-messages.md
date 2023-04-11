@@ -4,7 +4,7 @@ TOCTitle: SearchCriteria Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.BeginReadChangedProductsRequest.SearchCriteria
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.beginreadchangedproductsrequest.searchcriteria(v=AX.60)
 ms:contentKeyID: 62214525
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: AddToGiftCardRealtimeRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AddToGiftCardRealtimeRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.addtogiftcardrealtimerequest(v=AX.60)
 ms:contentKeyID: 65322852
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

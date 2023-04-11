@@ -4,7 +4,7 @@ TOCTitle: " application layer"
 ms:assetid: DynamicsAXGlossary.1689073
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1689073(v=AX.60)
 ms:contentKeyID: 45765403
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 08/25/2014
 mtps_version: v=AX.60

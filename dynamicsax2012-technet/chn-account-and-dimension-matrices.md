@@ -4,7 +4,7 @@ TOCTitle: (CHN) Account and dimension matrices
 ms:assetid: 7f3dd1bb-4b70-495f-a33a-ae1653ccc3aa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664068(v=AX.60)
 ms:contentKeyID: 49384652
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

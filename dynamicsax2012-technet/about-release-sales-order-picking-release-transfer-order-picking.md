@@ -4,7 +4,7 @@ TOCTitle: About release sales order picking/release transfer order picking
 ms:assetid: dbf269f8-6acf-4b43-8b28-2fe2f8c4ce26
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551256(v=AX.60)
 ms:contentKeyID: 36059672
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 09/21/2018
 mtps_version: v=AX.60

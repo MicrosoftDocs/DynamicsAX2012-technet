@@ -4,7 +4,7 @@ TOCTitle: AddressMapper Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Mappers.AddressMapper
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.mappers.addressmapper(v=AX.60)
 ms:contentKeyID: 65317677
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

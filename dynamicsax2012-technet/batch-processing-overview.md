@@ -4,7 +4,7 @@ TOCTitle: Batch processing overview
 ms:assetid: e805b094-a822-4e4e-ab06-ba6edb51c97d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243235(v=AX.60)
 ms:contentKeyID: 35133147
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

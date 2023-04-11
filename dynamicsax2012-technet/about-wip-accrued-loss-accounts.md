@@ -4,7 +4,7 @@ TOCTitle: About WIP accrued loss accounts
 ms:assetid: e3aebc21-dbb7-4d3e-9ad6-666ce4d83b7c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551379(v=AX.60)
 ms:contentKeyID: 36059725
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

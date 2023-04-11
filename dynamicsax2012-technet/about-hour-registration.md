@@ -4,7 +4,7 @@ TOCTitle: About hour registration
 ms:assetid: 3183d12a-88a8-4e85-9da1-ff65e0ae4dbf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570050(v=AX.60)
 ms:contentKeyID: 36056338
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

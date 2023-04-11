@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up a default description for a consolidated legal entity
 ms:assetid: 1207e71e-5512-40c4-a205-dd402b11d59d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710415(v=AX.60)
 ms:contentKeyID: 49384307
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

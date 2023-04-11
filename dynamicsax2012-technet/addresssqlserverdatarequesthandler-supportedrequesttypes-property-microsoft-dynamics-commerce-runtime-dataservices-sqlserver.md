@@ -4,7 +4,7 @@ TOCTitle: SupportedRequestTypes Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.AddressSqlServerDataRequestHandler.SupportedRequestTypes
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.addresssqlserverdatarequesthandler.supportedrequesttypes(v=AX.60)
 ms:contentKeyID: 65316892
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

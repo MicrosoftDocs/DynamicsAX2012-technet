@@ -4,7 +4,7 @@ TOCTitle: Bank document configuration key (BankDocument)
 ms:assetid: afaaf6bd-2441-4a43-8883-9c169568c789
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441665(v=AX.60)
 ms:contentKeyID: 36993550
-author: tfehr
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

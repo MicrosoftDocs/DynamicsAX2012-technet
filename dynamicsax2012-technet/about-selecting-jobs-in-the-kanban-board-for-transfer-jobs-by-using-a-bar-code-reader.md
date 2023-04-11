@@ -4,7 +4,7 @@ TOCTitle: About selecting jobs in the Kanban board for transfer jobs by using a 
 ms:assetid: 683971b9-cff7-402b-a165-5d9612fd06fa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ713629(v=AX.60)
 ms:contentKeyID: 49643125
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

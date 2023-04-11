@@ -4,7 +4,7 @@ TOCTitle: Business Intelligence Properties
 ms:assetid: 08629d9b-f7c0-4091-8a8a-b5dd23fb1349
 ms:mtpsurl: https://technet.microsoft.com/library/Cc519277(v=AX.60)
 ms:contentKeyID: 28119301
-author: tfehr
+author: tonyafehr
 ms.date: 07/25/2014
 mtps_version: v=AX.60
 ---

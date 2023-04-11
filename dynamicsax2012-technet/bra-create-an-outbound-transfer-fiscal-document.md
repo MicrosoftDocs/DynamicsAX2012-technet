@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create an outbound transfer fiscal document
 ms:assetid: 5918ea0c-7e09-4527-a6ff-f9d520a8e0fc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933519(v=AX.60)
 ms:contentKeyID: 50935133
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

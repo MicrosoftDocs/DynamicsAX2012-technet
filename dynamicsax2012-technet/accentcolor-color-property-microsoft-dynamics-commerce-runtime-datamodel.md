@@ -4,7 +4,7 @@ TOCTitle: Color Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.AccentColor.Color
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.accentcolor.color(v=AX.60)
 ms:contentKeyID: 62212898
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

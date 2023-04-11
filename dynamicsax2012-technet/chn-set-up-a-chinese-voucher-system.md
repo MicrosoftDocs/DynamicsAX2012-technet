@@ -4,7 +4,7 @@ TOCTitle: (CHN) Set up a Chinese voucher system
 ms:assetid: ef5dec31-b525-4155-83b3-c684265d8659
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664138(v=AX.60)
 ms:contentKeyID: 49384720
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

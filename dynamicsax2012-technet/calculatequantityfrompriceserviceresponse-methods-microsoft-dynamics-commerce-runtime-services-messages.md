@@ -4,7 +4,7 @@ TOCTitle: CalculateQuantityFromPriceServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculateQuantityFromPriceServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.calculatequantityfrompriceserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 62208583
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

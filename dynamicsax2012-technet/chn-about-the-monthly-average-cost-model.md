@@ -4,7 +4,7 @@ TOCTitle: (CHN) About the monthly average cost model
 ms:assetid: f1ef5367-0cec-4eb3-a70b-af045d826d5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664142(v=AX.60)
 ms:contentKeyID: 49384725
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Application Object Server (AOS) configuration commands
 ms:assetid: fd29570f-4ab6-47bd-8d82-27d550dc6493
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569637(v=AX.60)
 ms:contentKeyID: 39555433
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

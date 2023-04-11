@@ -4,7 +4,7 @@ TOCTitle: About payment types
 ms:assetid: 601ca7c0-813f-4d3c-ae8d-28db307081e4
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242528(v=AX.60)
 ms:contentKeyID: 36966726
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

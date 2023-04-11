@@ -4,7 +4,7 @@ TOCTitle: (BRA) Legal text ID validation
 ms:assetid: ea46f1fc-61df-4e29-921c-6fd7c3f78488
 ms:mtpsurl: https://technet.microsoft.com/library/JJ714203(v=AX.60)
 ms:contentKeyID: 49651312
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

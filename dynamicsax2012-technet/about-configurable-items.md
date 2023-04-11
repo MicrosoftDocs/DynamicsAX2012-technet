@@ -4,7 +4,7 @@ TOCTitle: About configurable items
 ms:assetid: 2ef8ef20-5ba5-4ba4-8c09-473cb0531042
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548449(v=AX.60)
 ms:contentKeyID: 36056288
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

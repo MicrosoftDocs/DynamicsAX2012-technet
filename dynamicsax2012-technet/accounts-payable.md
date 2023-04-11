@@ -4,7 +4,7 @@ TOCTitle: Accounts payable
 ms:assetid: ff16d575-b421-4ce7-aec6-c5b7e16c15d8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227592(v=AX.60)
 ms:contentKeyID: 36060130
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

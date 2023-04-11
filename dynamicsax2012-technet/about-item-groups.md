@@ -4,7 +4,7 @@ TOCTitle: About item groups
 ms:assetid: cf09aa0e-02f1-42c0-81f8-08fe6f123ec3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572815(v=AX.60)
 ms:contentKeyID: 45437262
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: ColumnSet Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.ColumnSet
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.columnset_properties(v=AX.60)
 ms:contentKeyID: 49827300
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

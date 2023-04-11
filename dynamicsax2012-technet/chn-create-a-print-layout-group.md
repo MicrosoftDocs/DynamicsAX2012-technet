@@ -4,7 +4,7 @@ TOCTitle: (CHN) Create a print layout group
 ms:assetid: 7150c0f2-b413-4593-be45-332e088a1309
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664065(v=AX.60)
 ms:contentKeyID: 49384649
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

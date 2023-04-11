@@ -4,7 +4,7 @@ TOCTitle: Assign product dimensions to a product master
 ms:assetid: fca8322c-a4e5-4f06-857f-8330aa319ad4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499899(v=AX.60)
 ms:contentKeyID: 39519388
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

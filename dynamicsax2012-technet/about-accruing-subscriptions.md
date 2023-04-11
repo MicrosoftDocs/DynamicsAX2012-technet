@@ -4,7 +4,7 @@ TOCTitle: About accruing subscriptions
 ms:assetid: ade337ca-171e-4165-b85b-cc512ad43d97
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498590(v=AX.60)
 ms:contentKeyID: 36058933
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

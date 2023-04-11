@@ -4,7 +4,7 @@ TOCTitle: About maintaining estimates
 ms:assetid: 7a3ffcbc-545a-4e1b-a4e8-2dc977015d50
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550068(v=AX.60)
 ms:contentKeyID: 36058247
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

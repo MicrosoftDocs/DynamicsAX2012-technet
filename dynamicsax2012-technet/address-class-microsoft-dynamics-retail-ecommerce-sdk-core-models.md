@@ -4,7 +4,7 @@ TOCTitle: Address Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.Address
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.address(v=AX.60)
 ms:contentKeyID: 65317008
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

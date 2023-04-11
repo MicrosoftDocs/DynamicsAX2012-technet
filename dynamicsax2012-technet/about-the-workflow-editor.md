@@ -4,7 +4,7 @@ TOCTitle: About the workflow editor
 ms:assetid: 8c3a062a-eb98-4bf4-a755-5c5e46a81bb2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731853(v=AX.60)
 ms:contentKeyID: 35132717
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

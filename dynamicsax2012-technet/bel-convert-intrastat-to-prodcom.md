@@ -4,7 +4,7 @@ TOCTitle: (BEL) Convert Intrastat to PRODCOM
 ms:assetid: 80a2dedc-ef36-4d8c-b40a-cbffd1c991d7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213148(v=AX.60)
 ms:contentKeyID: 36058349
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

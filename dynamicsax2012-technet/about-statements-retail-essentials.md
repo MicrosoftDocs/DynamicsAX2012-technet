@@ -4,7 +4,7 @@ TOCTitle: About statements (Retail essentials)
 ms:assetid: 7cb97e26-2cdb-43c1-ba3f-101df9e56636
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736905(v=AX.60)
 ms:contentKeyID: 62200382
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/22/2015
 mtps_version: v=AX.60

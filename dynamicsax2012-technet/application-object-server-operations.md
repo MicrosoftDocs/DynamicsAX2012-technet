@@ -4,7 +4,7 @@ TOCTitle: Application Object Server operations
 ms:assetid: a57ec4a9-cda8-448a-95d4-a072b9fc1432
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202088(v=AX.60)
 ms:contentKeyID: 35949338
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

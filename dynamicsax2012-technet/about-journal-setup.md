@@ -4,7 +4,7 @@ TOCTitle: About journal setup
 ms:assetid: 0152eb50-2b7e-4b24-99d6-bdff22c870ef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh696873(v=AX.60)
 ms:contentKeyID: 42517315
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

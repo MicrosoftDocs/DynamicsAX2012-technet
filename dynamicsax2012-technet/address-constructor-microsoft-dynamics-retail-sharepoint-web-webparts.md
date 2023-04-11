@@ -4,7 +4,7 @@ TOCTitle: Address Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Address.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.address.address(v=AX.60)
 ms:contentKeyID: 62206626
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

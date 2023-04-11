@@ -4,7 +4,7 @@ TOCTitle: (CHN) Tentative purchase inventory details (report)
 ms:assetid: 48a13fde-bed7-47d2-b35b-61fa4bea0045
 ms:mtpsurl: https://technet.microsoft.com/library/Dn169455(v=AX.60)
 ms:contentKeyID: 53865942
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

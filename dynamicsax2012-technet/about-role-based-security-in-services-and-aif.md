@@ -4,7 +4,7 @@ TOCTitle: About role-based security in services and AIF
 ms:assetid: 9bf376f8-b07a-4f07-a606-3e2088407a66
 ms:mtpsurl: https://technet.microsoft.com/library/Ee355069(v=AX.60)
 ms:contentKeyID: 36941315
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

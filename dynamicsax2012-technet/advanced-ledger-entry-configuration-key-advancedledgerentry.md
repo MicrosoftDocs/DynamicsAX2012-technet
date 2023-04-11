@@ -4,7 +4,7 @@ TOCTitle: Advanced ledger entry configuration key (AdvancedLedgerEntry)
 ms:assetid: 3b9490e2-2df1-4e5f-8186-664d57135e8e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450728(v=AX.60)
 ms:contentKeyID: 36966664
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Init Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule.Init(System.Web.HttpApplication)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.init(v=AX.60)
 ms:contentKeyID: 62203832
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60

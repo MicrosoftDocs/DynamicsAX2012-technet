@@ -4,7 +4,7 @@ TOCTitle: About creating and maintaining your product catalogs
 ms:assetid: 1a7e1499-01c7-457c-b8f5-a15d2dffe772
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271465(v=AX.60)
 ms:contentKeyID: 36384097
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60

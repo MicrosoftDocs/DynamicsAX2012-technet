@@ -4,7 +4,7 @@ TOCTitle: (BRA) Enter a CIAP transaction
 ms:assetid: c8893ed2-5986-45e6-b51a-21244d9ac810
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305884(v=AX.60)
 ms:contentKeyID: 54912983
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

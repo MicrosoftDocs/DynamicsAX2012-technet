@@ -4,7 +4,7 @@ TOCTitle: Chief financial officer investment analysis report (CFOInvestmentAnaly
 ms:assetid: af2d0d02-9553-4c6f-9ac9-81fa711e96c7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692474(v=AX.60)
 ms:contentKeyID: 41702371
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About futures messages
 ms:assetid: 87705bfd-ad24-4f7d-acd8-10ddca1c33ee
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571583(v=AX.60)
 ms:contentKeyID: 36676397
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

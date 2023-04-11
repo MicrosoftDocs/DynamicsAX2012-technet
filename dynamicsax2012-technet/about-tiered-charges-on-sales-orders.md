@@ -4,7 +4,7 @@ TOCTitle: About tiered charges on sales orders
 ms:assetid: ddd5b0f9-a958-4ed5-9c39-257291827cd3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ683231(v=AX.60)
 ms:contentKeyID: 49684855
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

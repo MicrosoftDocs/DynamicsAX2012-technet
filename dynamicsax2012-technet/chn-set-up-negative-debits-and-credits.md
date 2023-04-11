@@ -4,7 +4,7 @@ TOCTitle: (CHN) Set up negative debits and credits
 ms:assetid: 0ed59f7a-aa07-4010-8377-affb1876dc4b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663993(v=AX.60)
 ms:contentKeyID: 49384579
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
