@@ -4,7 +4,7 @@ TOCTitle: Category payroll allocation (actual vs. budget) report (ProjPayrollCat
 ms:assetid: f148d4a9-abf9-4571-9124-6e1622c5afa0
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220774(v=AX.60)
 ms:contentKeyID: 36966717
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

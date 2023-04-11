@@ -4,7 +4,7 @@ TOCTitle: CatalogListingMap Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.CatalogListingMap
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.cataloglistingmap_properties(v=AX.60)
 ms:contentKeyID: 65315656
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

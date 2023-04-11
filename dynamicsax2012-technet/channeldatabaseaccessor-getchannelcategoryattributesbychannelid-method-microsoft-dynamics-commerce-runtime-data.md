@@ -4,7 +4,7 @@ TOCTitle: GetChannelCategoryAttributesByChannelId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDatabaseAccessor.GetChannelCategoryAttributesByChannelId(System.Int64,System.Collections.Generic.IEnumerable{System.Int64},Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatabaseaccessor.getchannelcategoryattributesbychannelid(v=AX.60)
 ms:contentKeyID: 65321474
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

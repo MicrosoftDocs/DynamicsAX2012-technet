@@ -4,7 +4,7 @@ TOCTitle: GetChannelTenderTypes Method (Int64, Nullable(Int32), QueryResultSetti
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDataManager.GetChannelTenderTypes(System.Int64,System.Nullable{System.Int32},Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatamanager.getchanneltendertypes(v=AX.60)
 ms:contentKeyID: 65320382
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

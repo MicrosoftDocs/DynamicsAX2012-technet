@@ -4,7 +4,7 @@ TOCTitle: Cash receipt journal totals and transaction count chart report (CustCa
 ms:assetid: 1895f4f2-56f1-47f5-9285-65ab11f07967
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538442(v=AX.60)
 ms:contentKeyID: 39508864
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

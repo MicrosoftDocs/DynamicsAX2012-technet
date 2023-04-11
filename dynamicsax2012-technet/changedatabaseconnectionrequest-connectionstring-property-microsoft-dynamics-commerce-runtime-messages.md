@@ -4,7 +4,7 @@ TOCTitle: ConnectionString Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.ChangeDatabaseConnectionRequest.ConnectionString
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.changedatabaseconnectionrequest.connectionstring(v=AX.60)
 ms:contentKeyID: 65322438
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

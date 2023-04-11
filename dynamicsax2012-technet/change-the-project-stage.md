@@ -4,7 +4,7 @@ TOCTitle: Change the project stage
 ms:assetid: c2fe23c6-5fed-4005-a3c4-13ed513edbe9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271641(v=AX.60)
 ms:contentKeyID: 36384273
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

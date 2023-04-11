@@ -4,7 +4,7 @@ TOCTitle: Calculate Method (RequestContext, Nullable(CalculationModes))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.Calculate(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.calculate(v=AX.60)
 ms:contentKeyID: 62206910
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

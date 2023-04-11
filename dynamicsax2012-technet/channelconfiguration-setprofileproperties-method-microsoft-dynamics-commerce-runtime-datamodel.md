@@ -4,7 +4,7 @@ TOCTitle: SetProfileProperties Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelConfiguration.SetProfileProperties(System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelProfileProperty})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.channelconfiguration.setprofileproperties(v=AX.60)
 ms:contentKeyID: 65321139
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

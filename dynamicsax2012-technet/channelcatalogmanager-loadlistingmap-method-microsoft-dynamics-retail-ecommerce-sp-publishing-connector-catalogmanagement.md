@@ -4,7 +4,7 @@ TOCTitle: LoadListingMap Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.ChannelCatalogManager.LoadListingMap(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Channels.Listing})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.channelcatalogmanager.loadlistingmap(v=AX.60)
 ms:contentKeyID: 65316593
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

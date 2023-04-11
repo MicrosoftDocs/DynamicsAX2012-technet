@@ -4,7 +4,7 @@ TOCTitle: Cash flow forecast configuration key (LedgerAdvCashflowForecast)
 ms:assetid: ffae5ccf-8ce9-4fb3-ae4e-f289ea47579a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416702(v=AX.60)
 ms:contentKeyID: 36931865
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

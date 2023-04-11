@@ -4,7 +4,7 @@ TOCTitle: Cash advance requests overview
 ms:assetid: 692850c7-3dac-4b9c-abff-b2c3146239d5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231576(v=AX.60)
 ms:contentKeyID: 36057966
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

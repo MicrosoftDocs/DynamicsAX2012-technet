@@ -4,7 +4,7 @@ TOCTitle: __DataBinding__control6 Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.CategoryLanding.__DataBinding__control6(System.Object,System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.categorylanding.__databinding__control6(v=AX.60)
 ms:contentKeyID: 62206472
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

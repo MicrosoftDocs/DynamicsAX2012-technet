@@ -4,7 +4,7 @@ TOCTitle: StoreNumber Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLineData.StoreNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cartlinedata.storenumber(v=AX.60)
 ms:contentKeyID: 62210387
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ConfirmNewPassword Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ChangePassword.ConfirmNewPassword
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.changepassword.confirmnewpassword(v=AX.60)
 ms:contentKeyID: 62203574
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

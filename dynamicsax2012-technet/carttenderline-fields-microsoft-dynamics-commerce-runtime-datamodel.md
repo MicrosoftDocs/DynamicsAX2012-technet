@@ -4,7 +4,7 @@ TOCTitle: CartTenderLine Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartTenderLine
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.carttenderline_fields(v=AX.60)
 ms:contentKeyID: 65322330
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

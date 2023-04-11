@@ -4,7 +4,7 @@ TOCTitle: AddLineResult Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.CartLineValidationResults.AddLineResult(System.Int32,Microsoft.Dynamics.Commerce.Runtime.DataValidationFailure)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.cartlinevalidationresults.addlineresult(v=AX.60)
 ms:contentKeyID: 62214510
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

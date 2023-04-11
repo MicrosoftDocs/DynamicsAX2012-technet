@@ -4,7 +4,7 @@ TOCTitle: CreateCartLine Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.CreateCartLine(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.String,System.String,System.String,System.String,System.Decimal,System.Decimal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.createcartline(v=AX.60)
 ms:contentKeyID: 62208936
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

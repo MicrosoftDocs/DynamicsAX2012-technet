@@ -4,7 +4,7 @@ TOCTitle: GetDirectChildCategories Method (Int64, Int64, QueryResultSettings)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ChannelManager.GetDirectChildCategories(System.Int64,System.Int64,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getdirectchildcategories(v=AX.60)
 ms:contentKeyID: 65322964
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

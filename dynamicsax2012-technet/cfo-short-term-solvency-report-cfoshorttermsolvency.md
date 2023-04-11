@@ -4,7 +4,7 @@ TOCTitle: CFO short-term solvency report (CFOShortTermSolvency)
 ms:assetid: 2233dbec-4b55-42ed-933b-b80fa2542cb8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597420(v=AX.60)
 ms:contentKeyID: 39520462
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

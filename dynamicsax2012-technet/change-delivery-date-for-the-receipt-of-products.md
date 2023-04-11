@@ -4,7 +4,7 @@ TOCTitle: Change delivery date for the receipt of products
 ms:assetid: ea52cf48-053a-4eda-9365-0eeecdd9cf5a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271686(v=AX.60)
 ms:contentKeyID: 36384319
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

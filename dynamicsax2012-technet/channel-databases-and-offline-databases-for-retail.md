@@ -4,7 +4,7 @@ TOCTitle: Channel databases and offline databases for Retail
 ms:assetid: fdc21b0b-5587-41a4-8418-d10f9b5ab6ba
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679942(v=AX.60)
 ms:contentKeyID: 49557924
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

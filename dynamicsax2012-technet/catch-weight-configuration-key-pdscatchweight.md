@@ -4,7 +4,7 @@ TOCTitle: Catch weight configuration key (PdsCatchWeight)
 ms:assetid: 31cd94cd-6371-4f42-a80e-91a5a014f01d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496408(v=AX.60)
 ms:contentKeyID: 37071983
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:
