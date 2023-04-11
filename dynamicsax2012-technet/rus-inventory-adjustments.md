@@ -4,7 +4,7 @@ TOCTitle: (RUS) Inventory adjustments
 ms:assetid: 8c7a18fd-a445-4803-be78-e5b9d8d0c49d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678468(v=AX.60)
 ms:contentKeyID: 49387697
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

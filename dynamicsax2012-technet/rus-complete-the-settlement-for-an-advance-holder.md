@@ -4,7 +4,7 @@ TOCTitle: (RUS) Complete the settlement for an advance holder
 ms:assetid: d06201ec-9290-45b9-9832-3c3be736d735
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711641(v=AX.60)
 ms:contentKeyID: 49387965
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Allocate a charges code during inventory adjustment
 ms:assetid: 2c0aa624-43fd-4336-bd3a-e7ff8be05f53
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923269(v=AX.60)
 ms:contentKeyID: 52075361
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

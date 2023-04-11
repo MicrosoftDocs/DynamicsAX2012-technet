@@ -4,7 +4,7 @@ TOCTitle: RetailServerInstrumentationProvider Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Tracing.RetailServer.RetailServerInstrumentationProvider
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.tracing.retailserver.retailserverinstrumentationprovider_methods(v=AX.60)
 ms:contentKeyID: 62203815
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

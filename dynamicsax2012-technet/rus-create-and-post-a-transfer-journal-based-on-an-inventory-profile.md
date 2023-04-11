@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a transfer journal based on an inventory profile
 ms:assetid: 8eac47c0-9f57-4155-bdfe-316758697e75
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678471(v=AX.60)
 ms:contentKeyID: 49387700
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

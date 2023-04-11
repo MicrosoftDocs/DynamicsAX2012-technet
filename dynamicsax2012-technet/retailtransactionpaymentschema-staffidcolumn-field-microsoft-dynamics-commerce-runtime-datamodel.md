@@ -4,7 +4,7 @@ TOCTitle: StaffIdColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailTransactionPaymentSchema.StaffIdColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.staffidcolumn(v=AX.60)
 ms:contentKeyID: 65320369
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

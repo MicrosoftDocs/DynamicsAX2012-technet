@@ -4,7 +4,7 @@ TOCTitle: RequestContext Constructor (ICommerceRuntime)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.RequestContext.#ctor(Microsoft.Dynamics.Commerce.Runtime.ICommerceRuntime)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requestcontext.requestcontext(v=AX.60)
 ms:contentKeyID: 65322320
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

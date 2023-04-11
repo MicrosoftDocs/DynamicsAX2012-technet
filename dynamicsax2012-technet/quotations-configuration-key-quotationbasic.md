@@ -4,7 +4,7 @@ TOCTitle: Quotations configuration key (QuotationBasic)
 ms:assetid: c70c2133-759e-4930-942e-089116f7e60e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa618803(v=AX.60)
 ms:contentKeyID: 36997773
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

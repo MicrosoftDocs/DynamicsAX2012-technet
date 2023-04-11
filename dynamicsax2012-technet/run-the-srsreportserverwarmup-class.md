@@ -4,7 +4,7 @@ TOCTitle: Run the SRSReportServerWarmup class
 ms:assetid: f0af28a2-b338-45f9-9b7a-acb85331bc42
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527683(v=AX.60)
 ms:contentKeyID: 59626215
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

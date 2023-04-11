@@ -4,7 +4,7 @@ TOCTitle: (RUS) FA barcodes report (RAssetBarcode)
 ms:assetid: c447f71a-8a48-40c7-b690-1994a1b52018
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955221(v=AX.60)
 ms:contentKeyID: 51831853
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

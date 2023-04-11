@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a bank account for a currency transaction
 ms:assetid: 2e7e607f-5b7c-49b7-8003-d691fa44dd23
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856191(v=AX.60)
 ms:contentKeyID: 50407074
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

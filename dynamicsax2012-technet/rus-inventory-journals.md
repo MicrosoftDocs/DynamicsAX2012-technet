@@ -4,7 +4,7 @@ TOCTitle: (RUS) Inventory journals
 ms:assetid: a14d2565-351d-4680-b702-df8922f5d2fa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678550(v=AX.60)
 ms:contentKeyID: 49387780
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

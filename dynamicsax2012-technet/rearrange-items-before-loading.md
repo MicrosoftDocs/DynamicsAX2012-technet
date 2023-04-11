@@ -4,7 +4,7 @@ TOCTitle: Rearrange items before loading
 ms:assetid: 2bb1f989-501d-468d-beab-8fd9a0162a67
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231015(v=AX.60)
 ms:contentKeyID: 36056247
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

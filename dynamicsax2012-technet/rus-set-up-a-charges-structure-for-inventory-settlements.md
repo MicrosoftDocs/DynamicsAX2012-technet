@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a charges structure for inventory settlements
 ms:assetid: b6144732-8730-4be8-af6a-f3c8b33fc015
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923584(v=AX.60)
 ms:contentKeyID: 53382720
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

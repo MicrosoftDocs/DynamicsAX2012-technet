@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a working clothes or special rigging issue journal
 ms:assetid: 0dba9c82-1c83-401d-9620-6a77a92554f6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911233(v=AX.60)
 ms:contentKeyID: 52075348
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

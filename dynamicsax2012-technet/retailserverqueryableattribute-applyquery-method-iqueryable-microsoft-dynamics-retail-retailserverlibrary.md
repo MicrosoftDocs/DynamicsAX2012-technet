@@ -4,7 +4,7 @@ TOCTitle: ApplyQuery Method (IQueryable, )
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.RetailServerQueryableAttribute.ApplyQuery(System.Linq.IQueryable,System.Web.Http.OData.Query.ODataQueryOptions)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.retailserverqueryableattribute.applyquery(v=AX.60)
 ms:contentKeyID: 62202209
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 dev_langs:

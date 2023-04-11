@@ -4,7 +4,7 @@ TOCTitle: (RUS) Activate inventory transaction combinations
 ms:assetid: 38467b16-ac3e-4850-8bcc-7edcf0005367
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665284(v=AX.60)
 ms:contentKeyID: 49387373
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

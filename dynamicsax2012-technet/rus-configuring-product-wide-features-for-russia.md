@@ -4,7 +4,7 @@ TOCTitle: (RUS) Configuring product-wide features for Russia
 ms:assetid: 97c38bb3-33e8-4dfb-9567-fc7b4e4d4f08
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678513(v=AX.60)
 ms:contentKeyID: 49387741
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

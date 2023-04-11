@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a write-off transaction and print the NVFA statement of
 ms:assetid: ae3d8f22-9789-4a19-a58e-cdf3387f42cc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923578(v=AX.60)
 ms:contentKeyID: 52075424
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

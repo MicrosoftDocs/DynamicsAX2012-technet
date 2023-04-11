@@ -4,7 +4,7 @@ TOCTitle: (RUS) Register a vehicle as a fixed asset
 ms:assetid: 95d5ea6e-d8d0-4fd8-87c6-616e9c64f9c4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678505(v=AX.60)
 ms:contentKeyID: 49387734
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

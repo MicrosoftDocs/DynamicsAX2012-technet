@@ -4,7 +4,7 @@ TOCTitle: Retail headquarters configuration key (RetailHeadquarters)
 ms:assetid: 10aacfba-5d5b-4b9a-8a1b-3cd331f19f2b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697599(v=AX.60)
 ms:contentKeyID: 42518398
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

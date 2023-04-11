@@ -4,7 +4,7 @@ TOCTitle: Online store publishing architecture
 ms:assetid: 9067f24f-8665-4cfa-a5f5-c8abbd38e2db
 ms:mtpsurl: https://technet.microsoft.com/library/Dn463983(v=AX.60)
 ms:contentKeyID: 56686739
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

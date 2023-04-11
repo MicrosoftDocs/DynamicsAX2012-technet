@@ -4,7 +4,7 @@ TOCTitle: ResumeCartResponse Constructor (Cart)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.ResumeCartResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.resumecartresponse.resumecartresponse(v=AX.60)
 ms:contentKeyID: 62201876
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

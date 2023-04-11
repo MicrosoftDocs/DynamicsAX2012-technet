@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate and post advance report lines manually
 ms:assetid: aeb4ce89-eb4d-4d00-b4b3-6e068d6b9c9f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711513(v=AX.60)
 ms:contentKeyID: 49387838
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

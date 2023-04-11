@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and split a location journal based on an inventory profil
 ms:assetid: b88d1962-0edf-4c09-a0cd-d6bc820ab083
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733277(v=AX.60)
 ms:contentKeyID: 49685244
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

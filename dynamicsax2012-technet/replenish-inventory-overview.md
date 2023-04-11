@@ -4,7 +4,7 @@ TOCTitle: Replenish inventory overview
 ms:assetid: fb9e0bdf-8e8f-4438-a1dc-414546c4c578
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597298(v=AX.60)
 ms:contentKeyID: 39519386
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

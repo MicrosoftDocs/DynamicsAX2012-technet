@@ -4,7 +4,7 @@ TOCTitle: Report Method Sequence
 ms:assetid: 80c72a15-fff1-4430-bc35-497a3012dfe9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa642980(v=AX.60)
 ms:contentKeyID: 35290302
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

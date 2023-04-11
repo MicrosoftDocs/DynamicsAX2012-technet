@@ -4,7 +4,7 @@ TOCTitle: Request for quotation vendor/item report (PurchRFQVendItem)
 ms:assetid: d85811b6-d1f1-46eb-84b3-b3c066ec5893
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433522(v=AX.60)
 ms:contentKeyID: 36941305
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Cash reimbursement and disbursement
 ms:assetid: cf24a302-f739-49ae-b33b-3b76eeb63c3c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711635(v=AX.60)
 ms:contentKeyID: 49387959
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

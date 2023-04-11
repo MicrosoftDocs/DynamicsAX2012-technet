@@ -4,7 +4,7 @@ TOCTitle: Register and post a replacement postdated check for a vendor
 ms:assetid: 72544658-da80-40fc-b192-12acaeded93b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242675(v=AX.60)
 ms:contentKeyID: 36058122
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Reconcile a bank account
 ms:assetid: ce12bcc3-074a-403e-85f7-c09f13fd3d49
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572690(v=AX.60)
 ms:contentKeyID: 36971933
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

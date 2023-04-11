@@ -4,7 +4,7 @@ TOCTitle: (RUS) Dispose of or retire assets overview
 ms:assetid: 8b4272d3-d7a9-4ee7-a5a2-e171762a4ca2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678457(v=AX.60)
 ms:contentKeyID: 49387686
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

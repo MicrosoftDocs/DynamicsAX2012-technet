@@ -4,7 +4,7 @@ TOCTitle: Record entry points in Enterprise Portal
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 10/05/2018
 mtps_version: v=AX.60
 ---

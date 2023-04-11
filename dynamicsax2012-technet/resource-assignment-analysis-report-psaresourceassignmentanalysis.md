@@ -4,7 +4,7 @@ TOCTitle: Resource assignment analysis report (PSAResourceAssignmentAnalysis)
 ms:assetid: 66df7ff6-16ba-4b5e-8684-bfe2adfc36b2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334488(v=AX.60)
 ms:contentKeyID: 36676473
-author: Khairunj
+author: tonyafehr
 ms.date: 05/27/2014
 mtps_version: v=AX.60
 f1_keywords:

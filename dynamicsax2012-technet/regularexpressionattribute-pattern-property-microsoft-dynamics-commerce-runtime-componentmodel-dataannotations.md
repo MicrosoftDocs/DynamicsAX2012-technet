@@ -4,7 +4,7 @@ TOCTitle: Pattern Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations.RegularExpressionAttribute.Pattern
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.componentmodel.dataannotations.regularexpressionattribute.pattern(v=AX.60)
 ms:contentKeyID: 65318949
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

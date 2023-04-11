@@ -4,7 +4,7 @@ TOCTitle: RetailPublishingJob Constructor (String, , String)
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJob.#ctor(System.String,Microsoft.SharePoint.Administration.SPService,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjob.retailpublishingjob(v=AX.60)
 ms:contentKeyID: 65315796
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

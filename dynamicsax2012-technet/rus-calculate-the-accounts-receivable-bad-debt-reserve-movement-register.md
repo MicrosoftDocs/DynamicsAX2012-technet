@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the accounts receivable bad debt reserve movement regi
 ms:assetid: 86aa155f-4a29-4176-8347-3db268eb38f3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678445(v=AX.60)
 ms:contentKeyID: 49387674
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

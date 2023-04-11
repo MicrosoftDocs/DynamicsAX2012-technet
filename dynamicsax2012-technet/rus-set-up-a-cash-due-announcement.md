@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a cash due announcement
 ms:assetid: 5a73a01b-1e0d-4f30-af55-29342b9e889b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665413(v=AX.60)
 ms:contentKeyID: 49387501
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

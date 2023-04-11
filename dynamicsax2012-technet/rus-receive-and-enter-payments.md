@@ -4,7 +4,7 @@ TOCTitle: (RUS) Receive and enter payments
 ms:assetid: b27297fe-e219-449e-be7f-3b378ed8cc17
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711529(v=AX.60)
 ms:contentKeyID: 49387854
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print an advance report
 ms:assetid: c8252711-e8e8-4fcd-8a28-3ec4ebdbeef6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853223(v=AX.60)
 ms:contentKeyID: 50396503
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

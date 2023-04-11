@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print customer acceptance reports
 ms:assetid: 13d2705e-4134-4cc3-bddd-7b1daa20aaed
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711408(v=AX.60)
 ms:contentKeyID: 49387226
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Quick import export
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 09/01/2020
 mtps_version: v=AX.60
 ---

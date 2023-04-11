@@ -4,7 +4,7 @@ TOCTitle: (RUS) Register an NVFA using a purchase order
 ms:assetid: fd12db27-cfa5-4ef4-b8fd-baa7f8d3327e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853249(v=AX.60)
 ms:contentKeyID: 50396529
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

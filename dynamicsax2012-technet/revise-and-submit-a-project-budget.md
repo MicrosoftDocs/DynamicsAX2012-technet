@@ -4,7 +4,7 @@ TOCTitle: Revise and submit a project budget
 ms:assetid: 18b22ef8-a364-4a8d-a96c-a602d63ff0d2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208445(v=AX.60)
 ms:contentKeyID: 36056102
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

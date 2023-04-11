@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a partial storno transaction for a transfer order receipt
 ms:assetid: e992b44b-72b7-4f91-8016-897b6fca7af4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711723(v=AX.60)
 ms:contentKeyID: 49388046
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and update a facture for a corrected credit note invoice
 ms:assetid: 7d0f18a2-fc31-4e04-a4af-2ac658b5264e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678396(v=AX.60)
 ms:contentKeyID: 49387626
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

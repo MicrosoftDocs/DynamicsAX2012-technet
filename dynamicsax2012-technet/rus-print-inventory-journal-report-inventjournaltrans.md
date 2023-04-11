@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print inventory journal report (InventJournalTrans)
 ms:assetid: 7a2d1480-5020-4f43-9287-150846b1f6e7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn144859(v=AX.60)
 ms:contentKeyID: 52225281
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

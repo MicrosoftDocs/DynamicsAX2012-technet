@@ -4,7 +4,7 @@ TOCTitle: (RUS) Enter the deviation quantity in a purchase order
 ms:assetid: 22d6fea6-734c-4fb4-9bd2-b4bb110198c8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711471(v=AX.60)
 ms:contentKeyID: 49387288
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Ready for elimination report (ProjListEstimateReadyForElimination)
 ms:assetid: 7932ba11-207b-4b06-bf7a-18c1f1708b63
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586508(v=AX.60)
 ms:contentKeyID: 37832012
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

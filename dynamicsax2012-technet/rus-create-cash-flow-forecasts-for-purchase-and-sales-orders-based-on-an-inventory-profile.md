@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create cash flow forecasts for purchase and sales orders based o
 ms:assetid: 147a0f7f-fec6-4251-81a2-f1fab7c25a3f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711412(v=AX.60)
 ms:contentKeyID: 49387231
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

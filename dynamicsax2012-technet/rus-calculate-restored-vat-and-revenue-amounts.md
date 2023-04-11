@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate restored VAT and revenue amounts
 ms:assetid: fed5a4b4-1b50-4b2b-b31e-2cce5c178de7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733515(v=AX.60)
 ms:contentKeyID: 49685479
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Assign a charges code to terms of delivery
 ms:assetid: 971c3f39-e5f2-4c29-ad24-1d12ff4f5973
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678498(v=AX.60)
 ms:contentKeyID: 49387727
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

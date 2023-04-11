@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post an inventory journal for bailment
 ms:assetid: fdbe4172-ba0e-475d-88a9-50c431467c3a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853246(v=AX.60)
 ms:contentKeyID: 50396526
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

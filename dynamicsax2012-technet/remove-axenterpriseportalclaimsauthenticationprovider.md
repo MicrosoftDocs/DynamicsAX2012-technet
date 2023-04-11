@@ -4,7 +4,7 @@ TOCTitle: Remove-AXEnterprisePortalClaimsAuthenticationProvider
 ms:assetid: 627DA167-BA8A-49F0-BDBB-6972FCABFA47
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720260(v=AX.60)
 ms:contentKeyID: 49720049
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

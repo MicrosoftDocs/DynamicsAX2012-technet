@@ -4,7 +4,7 @@ TOCTitle: (RUS) Product output/mileage depreciation method
 ms:assetid: 8e711680-fd35-49c4-8e6f-ecca84423309
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678474(v=AX.60)
 ms:contentKeyID: 49387703
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Import the Russian address classifier KLADR
 ms:assetid: 41723630-f8e3-4e10-b644-86eadc76effd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839661(v=AX.60)
 ms:contentKeyID: 50396808
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

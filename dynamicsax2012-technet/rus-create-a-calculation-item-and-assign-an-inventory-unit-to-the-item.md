@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a calculation item and assign an inventory unit to the it
 ms:assetid: a09b6968-9fa0-472d-8d2b-17ab71ef665b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733262(v=AX.60)
 ms:contentKeyID: 49685229
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

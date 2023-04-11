@@ -4,7 +4,7 @@ TOCTitle: (RUS) Perform an outgoing VAT processing transaction
 ms:assetid: f0127d0c-88fc-4d87-bfd7-698a2c49fbc0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856121(v=AX.60)
 ms:contentKeyID: 50406419
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

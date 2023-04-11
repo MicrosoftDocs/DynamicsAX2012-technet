@@ -4,7 +4,7 @@ TOCTitle: Execute Method ()
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJob.Execute(Microsoft.SharePoint.Administration.SPJobState)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjob.execute(v=AX.60)
 ms:contentKeyID: 65318521
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

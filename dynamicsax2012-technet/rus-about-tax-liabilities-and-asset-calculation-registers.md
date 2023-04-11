@@ -4,7 +4,7 @@ TOCTitle: (RUS) About tax liabilities and asset calculation registers
 ms:assetid: 2980075e-9191-4075-a5a3-bcd2220e1aa6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839657(v=AX.60)
 ms:contentKeyID: 50396804
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

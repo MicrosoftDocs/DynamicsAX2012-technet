@@ -4,7 +4,7 @@ TOCTitle: RFID tagging configuration key (RFIDTagging)
 ms:assetid: 354946f3-ca78-445e-afd8-22bcf5c87d16
 ms:mtpsurl: https://technet.microsoft.com/library/Aa574930(v=AX.60)
 ms:contentKeyID: 36941201
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

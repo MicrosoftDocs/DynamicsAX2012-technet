@@ -4,7 +4,7 @@ TOCTitle: ReasonCodeRequirement Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeRequirement
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncoderequirement_methods(v=AX.60)
 ms:contentKeyID: 62212938
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Register an NVFA using the Not valuable FAs form
 ms:assetid: 8b0e66ce-da4e-4d6a-b1e9-3a84ffad4d77
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923556(v=AX.60)
 ms:contentKeyID: 52075403
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

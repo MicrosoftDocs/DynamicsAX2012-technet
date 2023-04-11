@@ -4,7 +4,7 @@ TOCTitle: Reimburse customers
 ms:assetid: c05a5881-84f4-4227-8a41-7c6b9bbd4206
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498997(v=AX.60)
 ms:contentKeyID: 36059262
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

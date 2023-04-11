@@ -4,7 +4,7 @@ TOCTitle: Recover an AX 2012 R2 environment with DPM
 ms:assetid: 6016640f-782d-489e-983b-9cb9b33badbe
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527685(v=AX.60)
 ms:contentKeyID: 59626216
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

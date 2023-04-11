@@ -4,7 +4,7 @@ TOCTitle: Remit a promissory note
 ms:assetid: 2057a405-7686-4f53-b626-c9058303ed8a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496785(v=AX.60)
 ms:contentKeyID: 36966699
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

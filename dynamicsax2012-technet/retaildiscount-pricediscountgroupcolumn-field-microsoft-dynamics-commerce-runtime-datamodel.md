@@ -4,7 +4,7 @@ TOCTitle: PriceDiscountGroupColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailDiscount.PriceDiscountGroupColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retaildiscount.pricediscountgroupcolumn(v=AX.60)
 ms:contentKeyID: 62211916
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Compare and verify document versions in the Electronic documents
 ms:assetid: ce7af2ff-1313-4c80-8413-0431003c9b39
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677804(v=AX.60)
 ms:contentKeyID: 49385004
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

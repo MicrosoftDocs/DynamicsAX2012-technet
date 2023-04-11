@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a sales order for bailment
 ms:assetid: b345fe7f-8012-4f9f-b2d9-1fa6f0b4f4ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711530(v=AX.60)
 ms:contentKeyID: 49387856
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

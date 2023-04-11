@@ -4,7 +4,7 @@ TOCTitle: RecordIdTableType Constructor (IEnumerable(Int64), String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.RecordIdTableType.#ctor(System.Collections.Generic.IEnumerable{System.Int64},System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.recordidtabletype.recordidtabletype(v=AX.60)
 ms:contentKeyID: 65319247
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

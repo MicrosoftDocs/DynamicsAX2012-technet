@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create an assessed tax declaration
 ms:assetid: 09c73f3b-db8f-4e69-bf0e-285345d4df1c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711371(v=AX.60)
 ms:contentKeyID: 49387190
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

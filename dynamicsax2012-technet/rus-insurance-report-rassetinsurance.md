@@ -4,7 +4,7 @@ TOCTitle: (RUS) Insurance report (RAssetInsurance)
 ms:assetid: 1ba6ef48-0c12-4c6f-bda1-acbe0cbec395
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955216(v=AX.60)
 ms:contentKeyID: 51831849
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

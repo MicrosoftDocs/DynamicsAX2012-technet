@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a relationship between RCOAD and RCM codes
 ms:assetid: d7184331-e996-4c0f-9678-37f95c9542cf
 ms:mtpsurl: https://technet.microsoft.com/library/Dn788797(v=AX.60)
 ms:contentKeyID: 62518195
-author: Khairunj
+author: tonyafehr
 ms.date: 06/27/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Request and issue the letter of guarantee
 ms:assetid: 81059259-109c-4340-a607-56a0a0b53829
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209308(v=AX.60)
 ms:contentKeyID: 36058355
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

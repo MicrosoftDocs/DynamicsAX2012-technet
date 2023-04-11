@@ -4,7 +4,7 @@ TOCTitle: Register postdated checks for vendors
 ms:assetid: 90865a76-6546-4c7b-8b31-3f9935beb89b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209371(v=AX.60)
 ms:contentKeyID: 36058535
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

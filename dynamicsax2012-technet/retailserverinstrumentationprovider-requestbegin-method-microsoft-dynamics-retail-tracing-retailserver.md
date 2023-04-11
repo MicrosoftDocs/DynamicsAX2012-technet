@@ -4,7 +4,7 @@ TOCTitle: RequestBegin Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Tracing.RetailServer.RetailServerInstrumentationProvider.RequestBegin(System.String,System.String,System.Guid)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.tracing.retailserver.retailserverinstrumentationprovider.requestbegin(v=AX.60)
 ms:contentKeyID: 62201929
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

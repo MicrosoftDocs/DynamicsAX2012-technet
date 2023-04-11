@@ -4,7 +4,7 @@ TOCTitle: Schedule operations
 ms:assetid: 3a7850db-88fe-4a10-95ca-0b33b649cd7d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570151(v=AX.60)
 ms:contentKeyID: 43976711
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

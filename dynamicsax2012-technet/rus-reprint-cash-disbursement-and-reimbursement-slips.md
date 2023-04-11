@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reprint cash disbursement and reimbursement slips
 ms:assetid: cf36efe3-1b7d-471a-b3dc-fd17c2fb94f4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711624(v=AX.60)
 ms:contentKeyID: 49387947
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

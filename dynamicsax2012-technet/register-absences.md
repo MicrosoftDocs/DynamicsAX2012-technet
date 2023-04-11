@@ -4,7 +4,7 @@ TOCTitle: Register absences
 ms:assetid: 5452a64b-ff46-4f87-a65c-dca5f5170c46
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548933(v=AX.60)
 ms:contentKeyID: 42117757
-author: Khairunj
+author: tonyafehr
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 audience: Application User

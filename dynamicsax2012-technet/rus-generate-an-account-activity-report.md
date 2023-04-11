@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate an account activity report
 ms:assetid: 26e2e68e-c65c-4b21-bc9a-cafadd0d52a7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665214(v=AX.60)
 ms:contentKeyID: 49387304
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print the registers for several periods
 ms:assetid: 2a5e8526-c4fd-4204-a0d4-75a25de6bceb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665227(v=AX.60)
 ms:contentKeyID: 49387316
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a customs value correction for import or export operation
 ms:assetid: 77d0714c-57f6-446f-a694-495c5c8569a2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733243(v=AX.60)
 ms:contentKeyID: 49685210
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

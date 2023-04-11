@@ -4,7 +4,7 @@ TOCTitle: Retail for application users
 ms:assetid: fc996ae0-4ef9-4321-805c-dc2e49c095d2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597299(v=AX.60)
 ms:contentKeyID: 39519387
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

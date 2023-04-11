@@ -4,7 +4,7 @@ TOCTitle: (RUS) Depreciate fixed assets
 ms:assetid: 95829e28-716a-451c-9ade-744eaccdb112
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678494(v=AX.60)
 ms:contentKeyID: 49387724
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

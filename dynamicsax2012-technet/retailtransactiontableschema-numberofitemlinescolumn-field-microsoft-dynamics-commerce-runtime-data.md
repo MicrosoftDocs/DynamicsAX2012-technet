@@ -4,7 +4,7 @@ TOCTitle: NumberOfItemLinesColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.RetailTransactionTableSchema.NumberOfItemLinesColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.numberofitemlinescolumn(v=AX.60)
 ms:contentKeyID: 65319316
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

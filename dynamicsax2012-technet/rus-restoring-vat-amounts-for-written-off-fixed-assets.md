@@ -4,7 +4,7 @@ TOCTitle: (RUS) Restoring VAT amounts for written-off fixed assets
 ms:assetid: 06e59896-c778-41d5-9cc4-894f94abfe5f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711366(v=AX.60)
 ms:contentKeyID: 49387184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

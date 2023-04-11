@@ -4,7 +4,7 @@ TOCTitle: Retail scheduler configuration key (RetailScheduler)
 ms:assetid: 0d334d0f-fbfc-4f7c-9236-c11eeb75be58
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697598(v=AX.60)
 ms:contentKeyID: 42518397
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

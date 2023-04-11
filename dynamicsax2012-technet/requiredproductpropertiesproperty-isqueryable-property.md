@@ -4,7 +4,7 @@ TOCTitle: IsQueryable Property
 ms:assetid: P:RequiredProductPropertiesProperty.IsQueryable
 ms:mtpsurl: https://technet.microsoft.com/library/requiredproductpropertiesproperty.isqueryable(v=AX.60)
 ms:contentKeyID: 65318220
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

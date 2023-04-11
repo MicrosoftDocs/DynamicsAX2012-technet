@@ -4,7 +4,7 @@ TOCTitle: (RUS) Production control
 ms:assetid: f81cb473-0291-4fde-b0b4-eae88a8d8022
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678639(v=AX.60)
 ms:contentKeyID: 49388121
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

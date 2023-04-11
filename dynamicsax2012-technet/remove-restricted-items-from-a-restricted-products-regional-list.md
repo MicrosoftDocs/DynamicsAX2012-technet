@@ -4,7 +4,7 @@ TOCTitle: Remove restricted items from a restricted products regional list
 ms:assetid: c7403e19-1d76-4289-83d6-bfe090f80b63
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352354(v=AX.60)
 ms:contentKeyID: 36687985
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

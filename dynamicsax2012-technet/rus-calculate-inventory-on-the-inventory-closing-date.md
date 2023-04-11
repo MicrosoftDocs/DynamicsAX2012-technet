@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate inventory on the inventory closing date
 ms:assetid: 7fbba664-b1f3-4fa5-be85-01e87920dcaa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733246(v=AX.60)
 ms:contentKeyID: 49685213
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

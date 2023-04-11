@@ -4,7 +4,7 @@ TOCTitle: (RUS) Cash transactions report (RCashTransList)
 ms:assetid: dec27e39-9b21-45ae-ab2c-250f780423a0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ945856(v=AX.60)
 ms:contentKeyID: 51543176
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

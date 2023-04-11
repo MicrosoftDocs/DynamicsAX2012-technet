@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate vendor payments for a currency conversion or transfer
 ms:assetid: 17cf8dd5-d64a-44bb-b1a2-f9c4f7a910be
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923257(v=AX.60)
 ms:contentKeyID: 52075351
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

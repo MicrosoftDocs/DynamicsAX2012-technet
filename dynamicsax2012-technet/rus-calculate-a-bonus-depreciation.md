@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate a bonus depreciation
 ms:assetid: cda89f12-01d8-46d2-9463-6a672cc6327a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923591(v=AX.60)
 ms:contentKeyID: 52075436
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

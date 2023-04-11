@@ -4,7 +4,7 @@ TOCTitle: Routing setup
 ms:assetid: 29688b30-b3c6-4c8e-9b2a-31d38864e5f7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553153(v=AX.60)
 ms:contentKeyID: 62200047
-author: Khairunj
+author: tonyafehr
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

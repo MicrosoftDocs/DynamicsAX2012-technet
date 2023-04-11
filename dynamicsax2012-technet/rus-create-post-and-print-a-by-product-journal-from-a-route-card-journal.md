@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create, post, and print a by-product journal from a route card j
 ms:assetid: 4f2e5000-7800-4c2b-a73b-283471a9d3cd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665373(v=AX.60)
 ms:contentKeyID: 49387461
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

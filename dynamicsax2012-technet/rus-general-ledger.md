@@ -4,7 +4,7 @@ TOCTitle: (RUS) General ledger
 ms:assetid: a9ee9a2e-26ea-4de9-b069-003a1e531dca
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711489(v=AX.60)
 ms:contentKeyID: 49387814
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

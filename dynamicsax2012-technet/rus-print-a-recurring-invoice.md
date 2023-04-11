@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print a recurring invoice
 ms:assetid: 260017fe-14f1-4df0-b51b-7294ca0ee634
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733190(v=AX.60)
 ms:contentKeyID: 49685158
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

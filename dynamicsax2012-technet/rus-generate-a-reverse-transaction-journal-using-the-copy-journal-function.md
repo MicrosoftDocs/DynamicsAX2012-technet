@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a reverse transaction journal using the Copy Journal fu
 ms:assetid: 19a91fc2-3fc5-4cf4-a252-ba10f2746c71
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711438(v=AX.60)
 ms:contentKeyID: 49387256
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

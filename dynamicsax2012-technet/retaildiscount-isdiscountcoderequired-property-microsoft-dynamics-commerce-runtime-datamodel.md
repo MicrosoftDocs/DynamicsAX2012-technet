@@ -4,7 +4,7 @@ TOCTitle: IsDiscountCodeRequired Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailDiscount.IsDiscountCodeRequired
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retaildiscount.isdiscountcoderequired(v=AX.60)
 ms:contentKeyID: 62205693
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Manual depreciation
 ms:assetid: a63b11a8-51e8-492a-a96a-cb79f70ed51e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678576(v=AX.60)
 ms:contentKeyID: 49387803
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

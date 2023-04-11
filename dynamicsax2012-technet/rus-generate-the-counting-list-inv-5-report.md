@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the Counting list (INV-5) report
 ms:assetid: 564044ca-8f6d-4131-b939-29144364de66
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853181(v=AX.60)
 ms:contentKeyID: 50396462
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

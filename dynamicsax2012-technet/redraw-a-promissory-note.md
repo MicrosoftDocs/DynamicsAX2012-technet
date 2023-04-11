@@ -4,7 +4,7 @@ TOCTitle: Redraw a promissory note
 ms:assetid: d271c356-9af6-4d29-b459-b249bdd71559
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551040(v=AX.60)
 ms:contentKeyID: 36966741
-author: Khairunj
+author: tonyafehr
 ms.date: 06/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Rework batch configuration key (PmfReworkBatch)
 ms:assetid: a54026c4-5f42-4169-9aa5-78325ff50213
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496428(v=AX.60)
 ms:contentKeyID: 37072008
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

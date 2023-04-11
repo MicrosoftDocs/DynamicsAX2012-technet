@@ -4,7 +4,7 @@ TOCTitle: Questionnaire report (KMKnowledgeCollector)
 ms:assetid: 39d07822-c202-4b32-b7f5-36b8e90ccf0a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa575031(v=AX.60)
 ms:contentKeyID: 39508872
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

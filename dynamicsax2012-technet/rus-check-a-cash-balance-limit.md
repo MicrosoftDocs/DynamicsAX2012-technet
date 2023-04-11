@@ -4,7 +4,7 @@ TOCTitle: (RUS) Check a cash balance limit
 ms:assetid: a205b63f-e759-47ca-9380-8b5bd6b118e8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678551(v=AX.60)
 ms:contentKeyID: 49387779
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

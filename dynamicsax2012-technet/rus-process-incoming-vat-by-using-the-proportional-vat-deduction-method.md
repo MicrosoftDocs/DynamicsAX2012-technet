@@ -4,7 +4,7 @@ TOCTitle: (RUS) Process incoming VAT by using the Proportional VAT deduction met
 ms:assetid: a2c4724f-6135-4b4d-aa40-1849e1ee5eb5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678561(v=AX.60)
 ms:contentKeyID: 49387789
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

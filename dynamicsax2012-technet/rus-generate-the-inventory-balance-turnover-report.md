@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the inventory balance turnover report
 ms:assetid: c627af2e-4f93-4b4b-8e28-4dea032af299
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126127(v=AX.60)
 ms:contentKeyID: 52075431
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and ship a transfer order to receive an item from storage
 ms:assetid: 3389a5a4-cfa2-43a8-a263-3bed17e38938
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853168(v=AX.60)
 ms:contentKeyID: 50396448
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

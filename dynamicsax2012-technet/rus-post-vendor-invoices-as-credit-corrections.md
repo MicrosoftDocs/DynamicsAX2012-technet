@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post vendor invoices as credit corrections
 ms:assetid: 6071c514-6ee4-4a40-9bd2-187c6c41e5e5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733236(v=AX.60)
 ms:contentKeyID: 49685203
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Remove users from Role Center profiles
 ms:assetid: d3f4fc47-1a9e-4b35-b550-326b6a15e1f6
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362083(v=AX.60)
 ms:contentKeyID: 36966725
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

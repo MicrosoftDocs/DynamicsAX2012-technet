@@ -4,7 +4,7 @@ TOCTitle: (RUS) About product receipt corrections
 ms:assetid: bda4bee9-197b-4216-95ca-2070113ee02a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733278(v=AX.60)
 ms:contentKeyID: 49685245
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

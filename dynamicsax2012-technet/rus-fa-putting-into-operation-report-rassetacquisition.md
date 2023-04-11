@@ -4,7 +4,7 @@ TOCTitle: (RUS) FA putting into operation report (RAssetAcquisition)
 ms:assetid: 8e982f96-e06b-4af2-9a89-ad5f12679d61
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955219(v=AX.60)
 ms:contentKeyID: 51831851
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

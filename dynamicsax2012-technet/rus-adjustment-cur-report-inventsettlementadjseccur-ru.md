@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjustment (cur.) report (InventSettlementAdjSecCur_RU)
 ms:assetid: 6f16bce5-6e13-4fed-876d-712d785b7538
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126096(v=AX.60)
 ms:contentKeyID: 52075231
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

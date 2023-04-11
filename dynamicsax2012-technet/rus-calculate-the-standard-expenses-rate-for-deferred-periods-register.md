@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the standard expenses rate for deferred periods regist
 ms:assetid: a4d9bb05-b260-452c-b7aa-bd0d08bf0206
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678567(v=AX.60)
 ms:contentKeyID: 49387795
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

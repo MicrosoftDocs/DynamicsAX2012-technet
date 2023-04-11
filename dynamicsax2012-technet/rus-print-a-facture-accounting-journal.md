@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print a facture accounting journal
 ms:assetid: 2cf9c3b3-6d89-4c2f-b648-733431598650
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923270(v=AX.60)
 ms:contentKeyID: 52075360
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

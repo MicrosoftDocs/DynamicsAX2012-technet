@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the M-17 inventory item card
 ms:assetid: 9331282c-8cef-4496-8295-b0246bd6f049
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678486(v=AX.60)
 ms:contentKeyID: 49387715
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create vendor tax agent transactions
 ms:assetid: 159d0cd6-7ff7-4890-a139-6b60d29b63c8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711416(v=AX.60)
 ms:contentKeyID: 49387234
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a cash due announcement transaction
 ms:assetid: c9c8afe9-954b-4262-871f-503cda54ef30
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711596(v=AX.60)
 ms:contentKeyID: 49387920
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

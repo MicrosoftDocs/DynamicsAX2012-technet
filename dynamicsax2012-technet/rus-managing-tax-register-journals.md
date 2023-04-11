@@ -4,7 +4,7 @@ TOCTitle: (RUS) Managing tax register journals
 ms:assetid: 9dd79258-4816-475f-9fb7-1133aa5cf529
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678532(v=AX.60)
 ms:contentKeyID: 49387760
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

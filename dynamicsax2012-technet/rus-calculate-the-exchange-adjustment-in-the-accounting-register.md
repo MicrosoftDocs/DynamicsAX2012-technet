@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the exchange adjustment in the accounting register
 ms:assetid: 0b37970c-2b06-42d6-99c4-32c0b778cd0f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711381(v=AX.60)
 ms:contentKeyID: 49387199
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a tax register journal
 ms:assetid: 1c7005cc-05f0-48ab-b7b4-7669ec068c78
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856110(v=AX.60)
 ms:contentKeyID: 50406409
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

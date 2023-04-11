@@ -4,7 +4,7 @@ TOCTitle: (RUS) Maintaining expense and income code totals
 ms:assetid: 3a0c9a8a-a718-4c19-8561-2e90bc0b963d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ715691(v=AX.60)
 ms:contentKeyID: 49661738
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

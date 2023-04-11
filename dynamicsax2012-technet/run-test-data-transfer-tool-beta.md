@@ -4,7 +4,7 @@ TOCTitle: Run the Test Data Transfer Tool (beta)
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

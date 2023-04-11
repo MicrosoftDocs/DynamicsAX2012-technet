@@ -4,7 +4,7 @@ TOCTitle: (RUS) Expense and revenue codes
 ms:assetid: 4461d577-4eff-43f6-95f3-8d010ae34a70
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665325(v=AX.60)
 ms:contentKeyID: 49387414
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

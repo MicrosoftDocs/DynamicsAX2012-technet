@@ -4,7 +4,7 @@ TOCTitle: RetailWebControl Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.RetailWebControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.retailwebcontrol_events(v=AX.60)
 ms:contentKeyID: 62204646
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

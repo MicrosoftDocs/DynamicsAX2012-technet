@@ -4,7 +4,7 @@ TOCTitle: Retail headquarters license code (Retail Headquarters)
 ms:assetid: c606e363-92de-44ac-b2d6-aa99f9516a8a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697606(v=AX.60)
 ms:contentKeyID: 42518408
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

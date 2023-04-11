@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and print factures for VAT deductions
 ms:assetid: 65b9653a-3607-4636-b369-c37a4d4d2dae
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665460(v=AX.60)
 ms:contentKeyID: 49387547
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

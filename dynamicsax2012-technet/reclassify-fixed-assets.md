@@ -4,7 +4,7 @@ TOCTitle: Reclassify fixed assets
 ms:assetid: c2196535-0094-4823-94a1-341daff7cc89
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550705(v=AX.60)
 ms:contentKeyID: 36059277
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

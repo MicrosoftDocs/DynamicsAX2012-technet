@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the Return report from storage (MX-3)
 ms:assetid: 795740f3-15fc-4f62-8328-2cd75438cd64
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733245(v=AX.60)
 ms:contentKeyID: 49685212
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

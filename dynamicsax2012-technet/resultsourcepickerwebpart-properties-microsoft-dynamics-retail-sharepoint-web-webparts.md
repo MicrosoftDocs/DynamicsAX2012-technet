@@ -4,7 +4,7 @@ TOCTitle: ResultSourcePickerWebPart Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ResultSourcePickerWebPart
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.resultsourcepickerwebpart_properties(v=AX.60)
 ms:contentKeyID: 62202268
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

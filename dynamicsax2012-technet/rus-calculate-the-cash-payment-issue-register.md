@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the cash payment issue register
 ms:assetid: 265e111b-e92c-4fe5-99a6-909604f8df23
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711483(v=AX.60)
 ms:contentKeyID: 49387300
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

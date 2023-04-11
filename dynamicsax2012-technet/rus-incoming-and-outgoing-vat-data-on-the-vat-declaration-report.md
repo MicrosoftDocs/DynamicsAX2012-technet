@@ -4,7 +4,7 @@ TOCTitle: (RUS) Incoming and outgoing VAT data on the VAT declaration report
 ms:assetid: 5cb94f05-7185-4907-bce7-1ab9acdce4c8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665424(v=AX.60)
 ms:contentKeyID: 49387512
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Recruiting configuration key (HRMManagementRecruiting)
 ms:assetid: 0f1b07bf-88e2-4c53-8bdf-1f19a5404b9b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433443(v=AX.60)
 ms:contentKeyID: 36941193
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

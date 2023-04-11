@@ -4,7 +4,7 @@ TOCTitle: Retail hierarchy (Retail essentials)
 ms:assetid: 047084f0-9797-49f9-aaf7-daef210d930e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716036(v=AX.60)
 ms:contentKeyID: 62200299
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

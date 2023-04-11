@@ -4,7 +4,7 @@ TOCTitle: (RUS) Change a report template for electronic reporting
 ms:assetid: bf3b5a5b-a575-4920-b2f4-650499f1c496
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677683(v=AX.60)
 ms:contentKeyID: 49384984
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

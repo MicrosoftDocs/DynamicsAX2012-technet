@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the cash book and cashier report
 ms:assetid: e3146f22-72d1-44bf-a28a-9541486e8334
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711699(v=AX.60)
 ms:contentKeyID: 49388022
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

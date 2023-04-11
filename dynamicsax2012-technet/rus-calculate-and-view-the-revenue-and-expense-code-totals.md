@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate and view the revenue and expense code totals
 ms:assetid: 9d348f6b-8dad-49a8-816d-3a3fff1b6ab1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923568(v=AX.60)
 ms:contentKeyID: 52075414
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

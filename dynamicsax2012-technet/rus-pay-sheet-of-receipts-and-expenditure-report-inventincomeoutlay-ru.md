@@ -4,7 +4,7 @@ TOCTitle: (RUS) Pay-sheet of receipts and expenditure report (InventIncomeOutlay
 ms:assetid: 41ae59f5-9cf4-4e05-adfd-44dcecd69b27
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992743(v=AX.60)
 ms:contentKeyID: 51739429
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the NVFA statement of disposal (No. MB-4) from the Work
 ms:assetid: 75fe2f0f-02c0-4634-aa3b-0283dc2ea133
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853191(v=AX.60)
 ms:contentKeyID: 50396472
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

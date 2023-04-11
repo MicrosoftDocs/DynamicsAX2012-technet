@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post and print an invoice for payment for a free text invoice
 ms:assetid: 012c9ca3-2098-4d05-90a0-8689878dd35c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711339(v=AX.60)
 ms:contentKeyID: 49387157
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

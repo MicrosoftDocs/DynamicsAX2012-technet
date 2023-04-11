@@ -4,7 +4,7 @@ TOCTitle: Questionnaires report (KMCollectionReport)
 ms:assetid: 907b5107-a664-4a71-a783-c4d0de0ba1dc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538456(v=AX.60)
 ms:contentKeyID: 39508883
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

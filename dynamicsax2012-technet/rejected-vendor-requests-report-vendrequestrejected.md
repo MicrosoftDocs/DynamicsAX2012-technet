@@ -4,7 +4,7 @@ TOCTitle: Rejected vendor requests report (VendRequestRejected)
 ms:assetid: b1ddf562-3f68-48b4-a4e8-90abaf449bee
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433516(v=AX.60)
 ms:contentKeyID: 36941298
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Request Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.RequestHandlerActivity`1.Request
 ms:mtpsurl: https://technet.microsoft.com/library/Dn987352(v=AX.60)
 ms:contentKeyID: 65315908
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

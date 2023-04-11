@@ -4,7 +4,7 @@ TOCTitle: (RUS) Assign an item to a TN VED code
 ms:assetid: 312a2c30-49e3-43c0-8378-8ea4b906eea9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853166(v=AX.60)
 ms:contentKeyID: 50396447
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

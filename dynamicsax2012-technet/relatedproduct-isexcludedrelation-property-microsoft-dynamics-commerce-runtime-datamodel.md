@@ -4,7 +4,7 @@ TOCTitle: IsExcludedRelation Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.RelatedProduct.IsExcludedRelation
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.relatedproduct.isexcludedrelation(v=AX.60)
 ms:contentKeyID: 62210497
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

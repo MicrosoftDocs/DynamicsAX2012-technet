@@ -4,7 +4,7 @@ TOCTitle: Reject the receipt of ordered products
 ms:assetid: 8b285ee4-4ba6-4b4b-ac47-0786589cb9c0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271589(v=AX.60)
 ms:contentKeyID: 36384220
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Resolve sales tax differences between purchase orders and invoices
 ms:assetid: 8a9bc094-482e-493d-addd-74418aa12693
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292600(v=AX.60)
 ms:contentKeyID: 36655938
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

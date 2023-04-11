@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post a reverse transaction manually using inventory journals
 ms:assetid: 1c42cec4-eed4-4993-8139-5c02a4b29bf8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711449(v=AX.60)
 ms:contentKeyID: 49387268
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

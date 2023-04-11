@@ -4,7 +4,7 @@ TOCTitle: (RUS) Restoring VAT payments to a budget
 ms:assetid: e47e8889-2612-41ad-84ab-c82714c26f95
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711721(v=AX.60)
 ms:contentKeyID: 49388044
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

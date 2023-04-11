@@ -4,7 +4,7 @@ TOCTitle: Implicit Conversion (Register to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Register.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Register)~System.Web.UI.TemplateControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.register.op_implicit(v=AX.60)
 ms:contentKeyID: 62204014
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

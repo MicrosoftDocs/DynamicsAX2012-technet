@@ -4,7 +4,7 @@ TOCTitle: " revenue"
 ms:assetid: DynamicsAXGlossary.178920
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.178920(v=AX.60)
 ms:contentKeyID: 36057688
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

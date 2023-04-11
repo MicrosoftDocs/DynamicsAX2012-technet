@@ -4,7 +4,7 @@ TOCTitle: Questionnaire I  configuration key (KMQuestionnaireBasic)
 ms:assetid: 4ed78048-c4ac-4186-9f9b-1e26c0572f06
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433454(v=AX.60)
 ms:contentKeyID: 36941207
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the cash statement report
 ms:assetid: 58daa338-4481-4e98-bbdd-9242eb648da8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665408(v=AX.60)
 ms:contentKeyID: 49387496
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

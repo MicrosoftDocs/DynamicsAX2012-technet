@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a deferrals write-off voucher for one deferral
 ms:assetid: 4a7af4c6-6700-4e52-a13f-23a1ddeb6285
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665351(v=AX.60)
 ms:contentKeyID: 49387439
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Reprint a free text invoice
 ms:assetid: cf4b1408-a15e-481b-943a-ac3aea76e260
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213678(v=AX.60)
 ms:contentKeyID: 36059477
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

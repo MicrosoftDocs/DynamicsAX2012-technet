@@ -4,7 +4,7 @@ TOCTitle: (RUS) Close Accounts receivable overview
 ms:assetid: 93b607f8-4f52-41a4-84c3-1cce27841028
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678493(v=AX.60)
 ms:contentKeyID: 49387722
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

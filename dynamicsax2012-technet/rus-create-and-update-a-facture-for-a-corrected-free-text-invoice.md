@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and update a facture for a corrected free text invoice
 ms:assetid: e3f84a24-f897-4e48-a8f0-3551ffcf17da
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711704(v=AX.60)
 ms:contentKeyID: 49388027
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

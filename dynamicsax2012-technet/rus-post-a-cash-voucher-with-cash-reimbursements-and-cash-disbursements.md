@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post a cash voucher with cash reimbursements and cash disburseme
 ms:assetid: 834c0a66-7960-48d7-9f07-23094c5c6e15
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678435(v=AX.60)
 ms:contentKeyID: 49387666
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

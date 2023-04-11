@@ -4,7 +4,7 @@ TOCTitle: Report Integration and Customization Overview
 ms:assetid: 0ea16ac7-1d4d-4af4-b9e0-078bd992f403
 ms:mtpsurl: https://technet.microsoft.com/library/Cc519490(v=AX.60)
 ms:contentKeyID: 28119307
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

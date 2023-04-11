@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a payment order for a foreign vendor
 ms:assetid: 1deebcb0-b6b5-4f1d-87be-d6017a56da7d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711452(v=AX.60)
 ms:contentKeyID: 49387269
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

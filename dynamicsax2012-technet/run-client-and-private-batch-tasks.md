@@ -4,7 +4,7 @@ TOCTitle: Run client and private batch tasks
 ms:assetid: f373cb0b-15ad-41ec-adb3-c103db5e1240
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551632(v=AX.60)
 ms:contentKeyID: 36059977
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

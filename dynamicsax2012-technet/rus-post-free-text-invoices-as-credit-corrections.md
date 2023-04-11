@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post free text invoices as credit corrections
 ms:assetid: 00827eed-188a-4543-b3bc-42ed5ad5f9e4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ682108(v=AX.60)
 ms:contentKeyID: 49655690
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

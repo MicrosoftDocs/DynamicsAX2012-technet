@@ -4,7 +4,7 @@ TOCTitle: Register and post a postdated check for a vendor
 ms:assetid: dd15a592-2f31-4ba3-a372-d3a414a5e99b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227408(v=AX.60)
 ms:contentKeyID: 36059679
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

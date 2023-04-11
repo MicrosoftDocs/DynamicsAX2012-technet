@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create delimiters for the Financial reports generator
 ms:assetid: 147e1658-63f6-4ab8-9fec-3d1f873bacfd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911235(v=AX.60)
 ms:contentKeyID: 52075350
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

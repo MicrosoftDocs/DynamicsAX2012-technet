@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create expense and income codes
 ms:assetid: d85d063f-1d86-4434-8d53-92aa77a00886
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923595(v=AX.60)
 ms:contentKeyID: 52075438
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

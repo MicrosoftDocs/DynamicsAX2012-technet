@@ -4,7 +4,7 @@ TOCTitle: (RUS) Issue payments to workers
 ms:assetid: e617e3cf-f503-4529-95d3-5ee9a6cd3d49
 ms:mtpsurl: https://technet.microsoft.com/library/Dn762136(v=AX.60)
 ms:contentKeyID: 62952562
-author: Khairunj
+author: tonyafehr
 ms.date: 09/17/2014
 mtps_version: v=AX.60
 f1_keywords:

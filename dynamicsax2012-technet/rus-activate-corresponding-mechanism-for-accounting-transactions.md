@@ -4,7 +4,7 @@ TOCTitle: (RUS) Activate corresponding mechanism for accounting transactions
 ms:assetid: 3572cf1e-06c9-4e85-ac0f-b7e1db035a90
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665271(v=AX.60)
 ms:contentKeyID: 49387360
-author: Khairunj
+author: tonyafehr
 ms.date: 07/18/2014
 mtps_version: v=AX.60
 audience: Application User

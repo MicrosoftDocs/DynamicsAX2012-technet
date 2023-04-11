@@ -4,7 +4,7 @@ TOCTitle: Recording alternative quotations
 ms:assetid: 199ba660-04f6-4fb6-8883-da0f0e4ffe54
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569917(v=AX.60)
 ms:contentKeyID: 36056115
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Process closing transactions overview
 ms:assetid: d4544fc0-a63b-470e-a6e8-4c6ab1929e41
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711655(v=AX.60)
 ms:contentKeyID: 49387979
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

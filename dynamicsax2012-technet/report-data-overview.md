@@ -4,7 +4,7 @@ TOCTitle: Report Data Overview
 ms:assetid: 366f8274-bb03-4d38-8ea7-0c5b593e8824
 ms:mtpsurl: https://technet.microsoft.com/library/Cc596629(v=AX.60)
 ms:contentKeyID: 28119341
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

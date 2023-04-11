@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a document type code to export or import payments
 ms:assetid: 1f884b14-374d-45c6-a45c-50af459aff99
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711456(v=AX.60)
 ms:contentKeyID: 49387270
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

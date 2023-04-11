@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the NVFA accounting card (No. MB-2) for NVFAs, special 
 ms:assetid: fd801723-b3c4-4b2b-9d96-969b55b24381
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853245(v=AX.60)
 ms:contentKeyID: 50396525
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

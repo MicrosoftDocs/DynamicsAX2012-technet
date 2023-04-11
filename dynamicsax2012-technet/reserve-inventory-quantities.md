@@ -4,7 +4,7 @@ TOCTitle: Reserve inventory quantities
 ms:assetid: 715c0737-fcab-43dc-b5fd-549105d708a8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549962(v=AX.60)
 ms:contentKeyID: 36058067
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

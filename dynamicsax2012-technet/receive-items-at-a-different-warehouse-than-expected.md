@@ -4,7 +4,7 @@ TOCTitle: Receive items at a different warehouse than expected
 ms:assetid: f58cffbc-56ee-473c-b7b8-44ac77e733c8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn887226(v=AX.60)
 ms:contentKeyID: 63378894
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 audience: Application User

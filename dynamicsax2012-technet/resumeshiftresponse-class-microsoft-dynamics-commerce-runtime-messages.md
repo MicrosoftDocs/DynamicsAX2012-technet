@@ -4,7 +4,7 @@ TOCTitle: ResumeShiftResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.ResumeShiftResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.resumeshiftresponse(v=AX.60)
 ms:contentKeyID: 62214623
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

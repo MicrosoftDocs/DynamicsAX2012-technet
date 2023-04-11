@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate registers
 ms:assetid: eedba38f-fb1c-4f38-b38b-58cf64025947
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678588(v=AX.60)
 ms:contentKeyID: 49388070
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a ledger journal of assessed tax transactions
 ms:assetid: a61c3264-92d0-4c95-896f-a1b56a17fda6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678568(v=AX.60)
 ms:contentKeyID: 49387796
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

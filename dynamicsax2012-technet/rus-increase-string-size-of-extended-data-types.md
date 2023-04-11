@@ -4,7 +4,7 @@ TOCTitle: (RUS) Increase string size of extended data types
 ms:assetid: a2a257cb-1b2a-4891-87ed-f5fb5a839b16
 ms:mtpsurl: https://technet.microsoft.com/library/JJ714196(v=AX.60)
 ms:contentKeyID: 49651305
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

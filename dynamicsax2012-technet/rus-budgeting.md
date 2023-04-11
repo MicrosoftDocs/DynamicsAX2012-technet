@@ -4,7 +4,7 @@ TOCTitle: (RUS) Budgeting
 ms:assetid: 1bab1528-3fc3-4e2b-a823-04835cf27c17
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711446(v=AX.60)
 ms:contentKeyID: 49387264
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

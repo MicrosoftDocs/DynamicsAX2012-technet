@@ -4,7 +4,7 @@ TOCTitle: Retail store setup checklist (Retail essentials)
 ms:assetid: 4fcb3011-0249-467c-ac13-d7e69bd8a0c7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716090(v=AX.60)
 ms:contentKeyID: 62200352
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a purchase invoice for a service item
 ms:assetid: dca44976-0663-4ada-938a-23e0d8d2ebd9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733290(v=AX.60)
 ms:contentKeyID: 49685257
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

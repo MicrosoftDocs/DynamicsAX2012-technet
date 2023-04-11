@@ -4,7 +4,7 @@ TOCTitle: (RUS) Manage facture purchase transactions
 ms:assetid: df75d06c-a3a4-45a2-91dd-2ce412468476
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711702(v=AX.60)
 ms:contentKeyID: 49388025
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

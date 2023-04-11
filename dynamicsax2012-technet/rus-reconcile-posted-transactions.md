@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reconcile posted transactions
 ms:assetid: 8e4edbd5-b471-495d-9fd4-2aa3fcc0eb31
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678473(v=AX.60)
 ms:contentKeyID: 49387702
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

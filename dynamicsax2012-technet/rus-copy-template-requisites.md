@@ -4,7 +4,7 @@ TOCTitle: (RUS) Copy template requisites
 ms:assetid: c20c80b7-a138-4e90-a625-58d93776b42a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677687(v=AX.60)
 ms:contentKeyID: 49384989
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

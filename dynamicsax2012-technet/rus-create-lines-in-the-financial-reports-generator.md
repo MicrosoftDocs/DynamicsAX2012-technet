@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create lines in the Financial reports generator
 ms:assetid: 062c7e61-0114-4339-a4eb-e016fd487471
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911229(v=AX.60)
 ms:contentKeyID: 52075344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

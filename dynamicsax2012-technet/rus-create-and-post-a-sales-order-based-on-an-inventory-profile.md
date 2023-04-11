@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a sales order based on an inventory profile
 ms:assetid: 41a81e96-8532-40b0-b6e8-f5b1fac40826
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733207(v=AX.60)
 ms:contentKeyID: 49685175
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

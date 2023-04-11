@@ -4,7 +4,7 @@ TOCTitle: Retail catalog manager security role (RetailCatalogManager)
 ms:assetid: ec1f7b1a-9200-4eef-860b-d3936f2ffabb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ900462(v=AX.60)
 ms:contentKeyID: 50557237
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

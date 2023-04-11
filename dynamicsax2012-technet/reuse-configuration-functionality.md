@@ -4,7 +4,7 @@ TOCTitle: Reuse configuration functionality
 ms:assetid: 44bd6fc9-15a2-4753-9a52-04d69f54a1a1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496977(v=AX.60)
 ms:contentKeyID: 36056887
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

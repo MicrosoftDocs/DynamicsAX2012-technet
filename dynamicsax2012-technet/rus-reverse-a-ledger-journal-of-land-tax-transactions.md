@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reverse a ledger journal of land tax transactions
 ms:assetid: 89b958df-2bc1-4639-ad62-0d95ac5d0875
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678453(v=AX.60)
 ms:contentKeyID: 49387681
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

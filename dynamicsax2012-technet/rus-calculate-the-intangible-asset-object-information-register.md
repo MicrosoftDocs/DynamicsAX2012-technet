@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the intangible asset object information register
 ms:assetid: d46ef917-997b-4f32-a1e5-c3b0b4172276
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711657(v=AX.60)
 ms:contentKeyID: 49387981
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

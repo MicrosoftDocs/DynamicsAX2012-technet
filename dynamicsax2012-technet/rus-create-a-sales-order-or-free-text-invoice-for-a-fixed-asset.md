@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a sales order or free text invoice for a fixed asset
 ms:assetid: f5cf2405-d220-4763-a8e2-db2018765296
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678624(v=AX.60)
 ms:contentKeyID: 49388106
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

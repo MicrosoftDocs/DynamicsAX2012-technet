@@ -4,7 +4,7 @@ TOCTitle: (RUS) Process customer prepayments overview
 ms:assetid: 45d2a081-f27c-435c-ae5c-40d8bec8b77e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665331(v=AX.60)
 ms:contentKeyID: 49387420
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

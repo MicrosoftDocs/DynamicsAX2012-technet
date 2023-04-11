@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a bank transaction type for currency transactions
 ms:assetid: 86bff35b-b068-495c-bd43-86fcb72d6829
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856172(v=AX.60)
 ms:contentKeyID: 50407011
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

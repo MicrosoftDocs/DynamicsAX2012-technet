@@ -4,7 +4,7 @@ TOCTitle: Record level security configuration key (SysRecordLevelsecurity)
 ms:assetid: 708e3876-3274-4433-a1b2-2844bf387d0b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586220(v=AX.60)
 ms:contentKeyID: 36931839
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

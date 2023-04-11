@@ -4,7 +4,7 @@ TOCTitle: (RUS) Modify the posting date in the general journal
 ms:assetid: 2d546d50-1b0c-4953-8480-d0ca0fcaf897
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665239(v=AX.60)
 ms:contentKeyID: 49387329
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

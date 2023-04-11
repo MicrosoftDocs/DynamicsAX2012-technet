@@ -4,7 +4,7 @@ TOCTitle: Report catalog
 ms:assetid: 30152008-c5e1-4b30-a6f8-c1aab8b9c018
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334471(v=AX.60)
 ms:contentKeyID: 36676456
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Run a report
 ms:assetid: 71b1bc63-c175-4ca8-babe-75a318d0280b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549967(v=AX.60)
 ms:contentKeyID: 36058069
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

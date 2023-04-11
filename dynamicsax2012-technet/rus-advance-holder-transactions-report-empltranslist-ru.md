@@ -4,7 +4,7 @@ TOCTitle: (RUS) Advance holder transactions report (EmplTransList_RU)
 ms:assetid: d646f8e4-9c91-4ec1-aa9b-8277dd885671
 ms:mtpsurl: https://technet.microsoft.com/library/JJ945855(v=AX.60)
 ms:contentKeyID: 51543175
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

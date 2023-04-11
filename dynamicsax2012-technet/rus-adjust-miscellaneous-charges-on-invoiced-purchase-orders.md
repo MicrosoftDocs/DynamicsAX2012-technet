@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjust miscellaneous charges on invoiced purchase orders
 ms:assetid: 2e68db2e-2c41-4ef9-a1c9-c4b363555d5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665242(v=AX.60)
 ms:contentKeyID: 49387331
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

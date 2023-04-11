@@ -4,7 +4,7 @@ TOCTitle: (RUS) Estimate remaining work in process and finished products for dir
 ms:assetid: 6c861d5e-3897-4d78-b786-84cc81024c8a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911505(v=AX.60)
 ms:contentKeyID: 52075391
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

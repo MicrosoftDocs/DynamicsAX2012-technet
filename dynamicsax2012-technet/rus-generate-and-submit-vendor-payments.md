@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate and submit vendor payments
 ms:assetid: 324352dd-210f-4fe9-91b4-f53964ad3bca
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665256(v=AX.60)
 ms:contentKeyID: 49387345
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Hire, transfer, and dismiss a worker
 ms:assetid: 94fa02a8-4f93-4e90-8efd-e27af9e73781
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435991(v=AX.60)
 ms:contentKeyID: 56732191
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

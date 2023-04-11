@@ -4,7 +4,7 @@ TOCTitle: (RUS) Cancel a shipment with delayed transfer of property
 ms:assetid: 7499ec98-204c-40e1-a1d7-9c4ad8dc6b10
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911547(v=AX.60)
 ms:contentKeyID: 53382714
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

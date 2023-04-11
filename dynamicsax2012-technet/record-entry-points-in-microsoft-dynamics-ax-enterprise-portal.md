@@ -4,7 +4,7 @@ TOCTitle: Record entry points in Microsoft Dynamics AX Enterprise Portal
 ms:assetid: 6a91e783-5c82-4f17-a929-e67f8221869b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh859726(v=AX.60)
 ms:contentKeyID: 45692865
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

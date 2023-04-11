@@ -4,7 +4,7 @@ TOCTitle: Run the Security Development Tool
 ms:assetid: 0b4464df-109c-4d90-a140-fed6885f5f15
 ms:mtpsurl: https://technet.microsoft.com/library/Hh859723(v=AX.60)
 ms:contentKeyID: 45692861
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

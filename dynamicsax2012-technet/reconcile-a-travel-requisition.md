@@ -4,7 +4,7 @@ TOCTitle: Reconcile a travel requisition
 ms:assetid: ed5df89c-b4fb-49cf-ad4d-55f966908671
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299218(v=AX.60)
 ms:contentKeyID: 36384325
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

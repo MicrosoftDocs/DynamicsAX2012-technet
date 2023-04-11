@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a register using the wizard
 ms:assetid: d3905c9a-179c-4715-8d09-2227ed7f1872
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711652(v=AX.60)
 ms:contentKeyID: 49387976
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Retail gift card configuration key (RetailGiftCard)
 ms:assetid: a4264181-24b8-43f4-8eda-74bd3142cc8f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697602(v=AX.60)
 ms:contentKeyID: 42518403
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

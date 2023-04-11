@@ -4,7 +4,7 @@ TOCTitle: Reconcile bank accounts overview
 ms:assetid: 0bf055c7-285c-404d-be78-3c8f293d13e6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230895(v=AX.60)
 ms:contentKeyID: 36055992
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Run delta preprocessing scripts
 ms:assetid: 93a36d22-1877-4823-ae20-08d0d167922a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731872(v=AX.60)
 ms:contentKeyID: 35132768
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

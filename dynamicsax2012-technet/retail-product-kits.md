@@ -4,7 +4,7 @@ TOCTitle: Retail product kits
 ms:assetid: eab808bb-904c-4533-ae20-b991aab86f65
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497846(v=AX.60)
 ms:contentKeyID: 62200178
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Role Centers
 ms:assetid: 74d1da0c-8dba-4d0d-8494-ef8d6f3486c9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271567(v=AX.60)
 ms:contentKeyID: 36384198
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the exchange rate difference for a bank account
 ms:assetid: 13fa7838-ac2a-4a8b-855c-b53b7cc79c46
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711407(v=AX.60)
 ms:contentKeyID: 49387224
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

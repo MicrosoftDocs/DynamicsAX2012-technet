@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate assessed tax and generate an assessed tax declaration
 ms:assetid: eee43154-913e-4e38-8a4c-6061baf6b778
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678599(v=AX.60)
 ms:contentKeyID: 49388081
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

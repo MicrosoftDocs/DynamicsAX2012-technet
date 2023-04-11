@@ -4,7 +4,7 @@ TOCTitle: Query Criteria Overview
 ms:assetid: fd2ed539-a9e7-4a6c-af2d-1fa05b5aa12e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa892862(v=AX.60)
 ms:contentKeyID: 35254205
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the depreciation bonus recovery register
 ms:assetid: a2adec1b-ad1e-4ce2-818d-62c00f510b0e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839680(v=AX.60)
 ms:contentKeyID: 50396826
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a vendor invoice for a service item
 ms:assetid: 41de9732-e39e-43e9-8fd3-225225f4ab29
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733206(v=AX.60)
 ms:contentKeyID: 49685174
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

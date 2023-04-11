@@ -4,7 +4,7 @@ TOCTitle: (RUS) Linear and non-linear depreciation methods
 ms:assetid: f51a99f5-bfd9-4948-b6e8-c5773aa06651
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853239(v=AX.60)
 ms:contentKeyID: 50396519
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

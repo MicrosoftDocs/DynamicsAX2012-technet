@@ -4,7 +4,7 @@ TOCTitle: (RUS) Modify and post an unrecognized payment
 ms:assetid: eba016a7-2550-4260-be1d-7fb2cbbe589e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711735(v=AX.60)
 ms:contentKeyID: 49388058
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

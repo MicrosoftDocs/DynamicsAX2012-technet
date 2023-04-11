@@ -4,7 +4,7 @@ TOCTitle: (RUS) Configuring customer advance payments
 ms:assetid: 9266f712-b85d-47c0-9929-1f004969f155
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678489(v=AX.60)
 ms:contentKeyID: 49387718
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

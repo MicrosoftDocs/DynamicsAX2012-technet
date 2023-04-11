@@ -4,7 +4,7 @@ TOCTitle: Record competencies
 ms:assetid: 4ac9e6aa-214e-488e-8da5-41b23657a334
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497012(v=AX.60)
 ms:contentKeyID: 50619129
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

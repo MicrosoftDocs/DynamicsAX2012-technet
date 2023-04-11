@@ -4,7 +4,7 @@ TOCTitle: Record the receipt of vendor invoices and match against received quant
 ms:assetid: 10264492-71c9-41f9-a940-239c0cdc530a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230921(v=AX.60)
 ms:contentKeyID: 36655924
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

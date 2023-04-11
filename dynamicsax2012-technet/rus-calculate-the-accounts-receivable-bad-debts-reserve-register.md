@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the accounts receivable bad debts reserve register
 ms:assetid: 17c15c23-0cfb-4828-89e8-51c30ece7de6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711433(v=AX.60)
 ms:contentKeyID: 49387251
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

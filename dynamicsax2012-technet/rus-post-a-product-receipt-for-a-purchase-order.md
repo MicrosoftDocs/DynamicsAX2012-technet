@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post a product receipt for a purchase order
 ms:assetid: 34ec286f-f4b9-4597-884e-97fdd3602e24
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733198(v=AX.60)
 ms:contentKeyID: 49685166
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reject a cash order
 ms:assetid: c5462f16-388d-4781-bca3-95a95e335b9d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711600(v=AX.60)
 ms:contentKeyID: 49387924
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

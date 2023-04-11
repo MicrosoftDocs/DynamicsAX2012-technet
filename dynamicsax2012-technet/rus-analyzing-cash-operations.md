@@ -4,7 +4,7 @@ TOCTitle: (RUS) Analyzing cash operations
 ms:assetid: 6a1eb55a-a518-4bc3-a474-2e1eb632fd9d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678327(v=AX.60)
 ms:contentKeyID: 49387558
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

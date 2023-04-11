@@ -4,7 +4,7 @@ TOCTitle: Resolve net unit price invoice matching discrepancies
 ms:assetid: 82852252-b348-436b-92fb-f26f3982337c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213157(v=AX.60)
 ms:contentKeyID: 36655937
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

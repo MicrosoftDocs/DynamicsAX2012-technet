@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reimbursing restored VAT on confirmed export factures
 ms:assetid: 3b9dbee6-214d-4fcd-b90f-85554ea53d9f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839660(v=AX.60)
 ms:contentKeyID: 50396807
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Resources license code (WrkCtr)
 ms:assetid: ef5db925-6ee2-44e0-837c-f876ed1fcfaf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456321(v=AX.60)
 ms:contentKeyID: 36997779
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

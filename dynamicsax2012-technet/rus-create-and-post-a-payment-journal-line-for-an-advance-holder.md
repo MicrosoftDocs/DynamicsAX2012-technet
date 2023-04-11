@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a payment journal line for an advance holder
 ms:assetid: a75dfb35-2aca-453d-b518-037f5d6abbb9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853214(v=AX.60)
 ms:contentKeyID: 50396495
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

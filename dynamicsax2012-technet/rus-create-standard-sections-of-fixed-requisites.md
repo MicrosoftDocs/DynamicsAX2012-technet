@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create standard sections of fixed requisites
 ms:assetid: 27701d28-9b1b-4839-a242-b42b36094a0e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677489(v=AX.60)
 ms:contentKeyID: 49384793
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

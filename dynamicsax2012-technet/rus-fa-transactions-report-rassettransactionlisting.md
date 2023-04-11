@@ -4,7 +4,7 @@ TOCTitle: (RUS) FA transactions report (RAssetTransactionListing)
 ms:assetid: 17842306-bea9-47c1-a571-7f1bcc83f0d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955215(v=AX.60)
 ms:contentKeyID: 51831848
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

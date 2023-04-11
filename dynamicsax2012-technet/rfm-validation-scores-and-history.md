@@ -4,7 +4,7 @@ TOCTitle: RFM validation scores and history
 ms:assetid: 9138525c-01eb-49eb-a647-c81fa7696d34
 ms:mtpsurl: https://technet.microsoft.com/library/Dn631656(v=AX.60)
 ms:contentKeyID: 62504012
-author: Khairunj
+author: tonyafehr
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 audience: Application User

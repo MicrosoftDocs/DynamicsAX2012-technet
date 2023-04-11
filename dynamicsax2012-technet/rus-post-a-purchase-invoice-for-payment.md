@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post a purchase invoice for payment
 ms:assetid: 546d7cd3-62d1-4822-b0e9-cef200427abb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665393(v=AX.60)
 ms:contentKeyID: 49387481
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

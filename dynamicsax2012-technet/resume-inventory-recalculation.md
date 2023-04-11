@@ -4,7 +4,7 @@ TOCTitle: Resume inventory recalculation
 ms:assetid: a8873cc5-6bf9-484e-a11a-18458ef53b95
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243066(v=AX.60)
 ms:contentKeyID: 36058888
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

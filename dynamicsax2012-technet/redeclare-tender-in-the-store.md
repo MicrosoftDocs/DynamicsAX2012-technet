@@ -4,7 +4,7 @@ TOCTitle: Redeclare tender in the store
 ms:assetid: 1758d9d0-c4fa-4c6c-b458-3a45710ecc19
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580576(v=AX.60)
 ms:contentKeyID: 39519056
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

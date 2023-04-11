@@ -4,7 +4,7 @@ TOCTitle: Report Programming Model
 ms:assetid: 3c7af73f-0fcf-4fc2-a5f7-62601638f935
 ms:mtpsurl: https://technet.microsoft.com/library/Dn249829(v=AX.60)
 ms:contentKeyID: 54768104
-author: Khairunj
+author: tonyafehr
 ms.date: 06/09/2013
 mtps_version: v=AX.60
 ---

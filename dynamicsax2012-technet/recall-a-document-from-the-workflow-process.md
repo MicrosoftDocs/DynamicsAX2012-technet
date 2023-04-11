@@ -4,7 +4,7 @@ TOCTitle: Recall a document from the workflow process
 ms:assetid: 6c221251-026c-47de-8645-5da236ff5b83
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231794(v=AX.60)
 ms:contentKeyID: 35949311
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

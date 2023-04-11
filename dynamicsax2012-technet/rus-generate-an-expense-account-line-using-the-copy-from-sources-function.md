@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate an expense account line using the Copy from sources fun
 ms:assetid: 51f9963d-250e-4e4d-8d81-ed08deef6783
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665381(v=AX.60)
 ms:contentKeyID: 49387469
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

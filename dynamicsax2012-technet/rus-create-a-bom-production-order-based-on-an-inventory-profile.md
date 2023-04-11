@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a BOM production order based on an inventory profile
 ms:assetid: e25e80ef-eb2b-4eac-8f79-6c3154885c03
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711712(v=AX.60)
 ms:contentKeyID: 49388035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Creating an invoice that is not related to a purchase order
 ms:assetid: 589b5f73-1a02-4dbc-aeab-8e7f381389c9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665406(v=AX.60)
 ms:contentKeyID: 49387494
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

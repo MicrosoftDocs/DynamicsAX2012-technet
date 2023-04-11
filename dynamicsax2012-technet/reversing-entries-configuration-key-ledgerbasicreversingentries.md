@@ -4,7 +4,7 @@ TOCTitle: Reversing entries configuration key (LedgerBasicReversingEntries)
 ms:assetid: 44ed9e5a-d40d-48af-abb2-9fdc5291e29f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467549(v=AX.60)
 ms:contentKeyID: 36991696
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjust the cost price from the ledger account
 ms:assetid: 0e1460c6-65c7-4801-a426-3da4836b28cd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711388(v=AX.60)
 ms:contentKeyID: 49387206
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

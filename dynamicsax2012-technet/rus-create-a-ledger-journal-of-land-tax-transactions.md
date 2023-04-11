@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a ledger journal of land tax transactions
 ms:assetid: 162ad571-35e6-44e1-85ba-3221f0accfaa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711425(v=AX.60)
 ms:contentKeyID: 49387243
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

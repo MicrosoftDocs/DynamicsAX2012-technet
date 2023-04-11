@@ -4,7 +4,7 @@ TOCTitle: RegisterUser_CreatedUser Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Register.RegisterUser_CreatedUser(System.Object,System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.register.registeruser_createduser(v=AX.60)
 ms:contentKeyID: 62203323
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

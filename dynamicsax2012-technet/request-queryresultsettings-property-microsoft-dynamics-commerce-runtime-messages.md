@@ -4,7 +4,7 @@ TOCTitle: QueryResultSettings Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.Request.QueryResultSettings
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.request.queryresultsettings(v=AX.60)
 ms:contentKeyID: 62212589
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

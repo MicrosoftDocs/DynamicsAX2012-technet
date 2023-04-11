@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a partial storno transaction for a transfer order shipmen
 ms:assetid: 6a41e258-fae5-4ec2-adfd-34ec507b769f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678329(v=AX.60)
 ms:contentKeyID: 49387560
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

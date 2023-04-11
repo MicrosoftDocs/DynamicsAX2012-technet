@@ -4,7 +4,7 @@ TOCTitle: Revert to the original Microsoft Dynamics AX configuration
 ms:assetid: 4be7323e-c229-462e-b4ab-a5b2b96b6f05
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389767(v=AX.60)
 ms:contentKeyID: 36899746
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

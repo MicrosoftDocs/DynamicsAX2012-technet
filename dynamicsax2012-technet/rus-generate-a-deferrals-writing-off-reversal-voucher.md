@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a deferrals writing off reversal voucher
 ms:assetid: afa631bf-c265-4775-9199-eb7b8c6bddaa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711519(v=AX.60)
 ms:contentKeyID: 49387844
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

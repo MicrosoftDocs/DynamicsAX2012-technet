@@ -4,7 +4,7 @@ TOCTitle: (RUS) Export a payment or cancel a payment exported to a client bank
 ms:assetid: 874c531d-3ee4-414e-951f-836677f3bc63
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678442(v=AX.60)
 ms:contentKeyID: 49387672
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

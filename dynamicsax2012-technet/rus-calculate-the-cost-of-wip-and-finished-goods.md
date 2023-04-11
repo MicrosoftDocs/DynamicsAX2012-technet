@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the cost of WIP and finished goods
 ms:assetid: cbfa7c61-ffd4-4f93-96c1-333823a9241a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711610(v=AX.60)
 ms:contentKeyID: 49387934
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

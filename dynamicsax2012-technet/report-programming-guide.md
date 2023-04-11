@@ -4,7 +4,7 @@ TOCTitle: Report Programming Guide
 ms:assetid: 1a6cb21f-e665-45ef-8bf7-4df31e6ca0b7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh397313(v=AX.60)
 ms:contentKeyID: 36929804
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

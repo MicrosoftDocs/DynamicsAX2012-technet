@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a charges code
 ms:assetid: fe98b694-8a16-4047-85c1-81177380c901
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733413(v=AX.60)
 ms:contentKeyID: 49685280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

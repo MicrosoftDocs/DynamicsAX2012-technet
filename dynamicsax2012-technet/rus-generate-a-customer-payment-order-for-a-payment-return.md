@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a customer payment order for a payment return
 ms:assetid: 340abc9e-3d38-4c09-90ba-18407fca5907
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665265(v=AX.60)
 ms:contentKeyID: 49387354
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

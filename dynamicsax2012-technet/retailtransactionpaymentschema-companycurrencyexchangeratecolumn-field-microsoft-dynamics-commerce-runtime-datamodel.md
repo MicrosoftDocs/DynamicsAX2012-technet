@@ -4,7 +4,7 @@ TOCTitle: CompanyCurrencyExchangeRateColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailTransactionPaymentSchema.CompanyCurrencyExchangeRateColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.companycurrencyexchangeratecolumn(v=AX.60)
 ms:contentKeyID: 65318708
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

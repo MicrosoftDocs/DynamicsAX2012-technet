@@ -4,7 +4,7 @@ TOCTitle: (RUS) Export and import data to a client bank
 ms:assetid: fd794b74-f8fe-4806-87a6-0a4c43fa58dd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678663(v=AX.60)
 ms:contentKeyID: 49388145
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

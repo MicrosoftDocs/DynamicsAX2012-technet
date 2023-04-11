@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate or reverse depreciation using the tax group non-linear
 ms:assetid: 97d2003e-8b7f-4e3d-a49a-dda918ef3202
 ms:mtpsurl: https://technet.microsoft.com/library/JJ863540(v=AX.60)
 ms:contentKeyID: 50395341
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

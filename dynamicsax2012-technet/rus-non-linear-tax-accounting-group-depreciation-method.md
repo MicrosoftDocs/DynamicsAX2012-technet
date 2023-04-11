@@ -4,7 +4,7 @@ TOCTitle: (RUS) Non-linear tax accounting group depreciation method
 ms:assetid: 58dc5a03-4f8d-4e28-8a32-892071a71d1e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853182(v=AX.60)
 ms:contentKeyID: 50396463
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

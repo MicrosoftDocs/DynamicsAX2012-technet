@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a storno transaction for a transfer order shipment
 ms:assetid: 1923b8cf-f4ac-4a7d-8bdb-ea9c6634032c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711441(v=AX.60)
 ms:contentKeyID: 49387259
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

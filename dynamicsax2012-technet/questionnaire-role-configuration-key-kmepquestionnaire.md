@@ -4,7 +4,7 @@ TOCTitle: Questionnaire Role configuration key (KMEPQuestionnaire)
 ms:assetid: 47cd4ae7-aa42-4855-b0e4-444a836e9db9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa576008(v=AX.60)
 ms:contentKeyID: 36941205
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

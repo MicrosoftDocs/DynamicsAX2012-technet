@@ -4,7 +4,7 @@ TOCTitle: Restart Application Object Server
 ms:assetid: 6bcf1e86-208e-49f1-82f6-0187d4ce5fac
 ms:mtpsurl: https://technet.microsoft.com/library/Gg188982(v=AX.60)
 ms:contentKeyID: 35410562
-author: Khairunj
+author: tonyafehr
 ms.date: 05/07/2014
 mtps_version: v=AX.60
 ---

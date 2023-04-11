@@ -4,7 +4,7 @@ TOCTitle: Reverse settlements
 ms:assetid: 71fa746c-b524-4990-972c-e4cc6160922e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549970(v=AX.60)
 ms:contentKeyID: 36655933
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

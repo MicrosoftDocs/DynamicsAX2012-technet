@@ -4,7 +4,7 @@ TOCTitle: Retail warehouse clerk security role (RetailWarehouseClerk)
 ms:assetid: 3076c7bc-e88d-4081-8aef-35a2da9abef4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh848741(v=AX.60)
 ms:contentKeyID: 45430234
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

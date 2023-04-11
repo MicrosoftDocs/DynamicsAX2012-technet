@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create, post, and print a by-product journal manually
 ms:assetid: f65551ec-f085-43cf-abb2-7409edf02382
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678627(v=AX.60)
 ms:contentKeyID: 49388109
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

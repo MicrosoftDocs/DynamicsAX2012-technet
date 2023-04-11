@@ -4,7 +4,7 @@ TOCTitle: Receiving clerk security role (InventReceivingClerk)
 ms:assetid: 21b409d9-648a-42c1-8003-e7535523f6e6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527074(v=AX.60)
 ms:contentKeyID: 37823126
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

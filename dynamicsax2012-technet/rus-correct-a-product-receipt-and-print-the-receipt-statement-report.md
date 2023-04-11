@@ -4,7 +4,7 @@ TOCTitle: (RUS) Correct a product receipt and print the receipt statement report
 ms:assetid: 7095a360-4178-41f1-8cae-70723a9fdbf2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733238(v=AX.60)
 ms:contentKeyID: 49685205
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

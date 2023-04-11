@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create the bill of lading and print the 1-T bill of lading repor
 ms:assetid: ca3c2811-8964-4c09-b33c-03d68ee71bdb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711611(v=AX.60)
 ms:contentKeyID: 49387935
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

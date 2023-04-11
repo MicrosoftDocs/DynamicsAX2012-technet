@@ -4,7 +4,7 @@ TOCTitle: Reverse a completed inventory close
 ms:assetid: 9282e2a5-a0e3-46b4-8bee-01053dcc28f3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232180(v=AX.60)
 ms:contentKeyID: 36058575
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

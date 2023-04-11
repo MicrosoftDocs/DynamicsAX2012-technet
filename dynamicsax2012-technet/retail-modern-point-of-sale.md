@@ -4,7 +4,7 @@ TOCTitle: Retail Modern Point of Sale
 ms:assetid: a670f147-1648-4077-9c39-dc032079f8bb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741450(v=AX.60)
 ms:contentKeyID: 62219728
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

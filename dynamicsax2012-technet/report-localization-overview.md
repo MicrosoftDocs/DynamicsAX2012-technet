@@ -4,7 +4,7 @@ TOCTitle: Report Localization Overview
 ms:assetid: fbd98161-7d23-423c-8a75-2fc7aaf83b6b
 ms:mtpsurl: https://technet.microsoft.com/library/Cc642770(v=AX.60)
 ms:contentKeyID: 28119625
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---
