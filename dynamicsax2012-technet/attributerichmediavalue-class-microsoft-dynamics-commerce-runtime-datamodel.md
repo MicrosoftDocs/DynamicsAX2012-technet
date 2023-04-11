@@ -4,7 +4,7 @@ TOCTitle: AttributeRichMediaValue Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeRichMediaValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributerichmediavalue(v=AX.60)
 ms:contentKeyID: 62210619
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

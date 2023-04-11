@@ -4,7 +4,7 @@ TOCTitle: Alert email messages
 ms:assetid: eefb31f2-41ba-4ad2-b17c-ffe566fe69c3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570096(v=AX.60)
 ms:contentKeyID: 46687572
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

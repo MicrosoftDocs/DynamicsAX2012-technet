@@ -4,7 +4,7 @@ TOCTitle: AssociateCustomerLayout Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.AssociateCustomerLayout
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.associatecustomerlayout_events(v=AX.60)
 ms:contentKeyID: 62207510
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

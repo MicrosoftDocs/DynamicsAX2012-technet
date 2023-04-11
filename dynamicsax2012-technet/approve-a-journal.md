@@ -4,7 +4,7 @@ TOCTitle: Approve a journal
 ms:assetid: 37784aa9-378e-4a18-a82d-3eb364937835
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570130(v=AX.60)
 ms:contentKeyID: 36056607
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

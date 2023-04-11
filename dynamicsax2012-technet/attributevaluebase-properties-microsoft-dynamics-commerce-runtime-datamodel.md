@@ -4,7 +4,7 @@ TOCTitle: AttributeValueBase Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeValueBase
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributevaluebase_properties(v=AX.60)
 ms:contentKeyID: 49830775
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

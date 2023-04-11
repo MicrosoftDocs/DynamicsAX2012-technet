@@ -4,7 +4,7 @@ TOCTitle: Analysis in the Intelligent Data Management Framework (IDMF)
 ms:assetid: 3420d12b-5d0d-44dc-98f1-6b366a6c6d49
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389755(v=AX.60)
 ms:contentKeyID: 36899734
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 10/11/2018
 mtps_version: v=AX.60

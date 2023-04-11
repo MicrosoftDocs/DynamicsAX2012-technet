@@ -4,7 +4,7 @@ TOCTitle: Alerts
 ms:assetid: 5c301120-822f-41e1-bc2e-a3e2923b968a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271542(v=AX.60)
 ms:contentKeyID: 36384174
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

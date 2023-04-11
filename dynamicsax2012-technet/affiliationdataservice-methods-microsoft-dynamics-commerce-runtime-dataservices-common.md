@@ -4,7 +4,7 @@ TOCTitle: AffiliationDataService Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Common.AffiliationDataService
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.common.affiliationdataservice_methods(v=AX.60)
 ms:contentKeyID: 65320421
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

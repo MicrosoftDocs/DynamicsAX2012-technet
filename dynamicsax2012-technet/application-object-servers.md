@@ -4,7 +4,7 @@ TOCTitle: Application Object Servers
 ms:assetid: 90861ac1-be98-405f-9cde-b36fd31ac72c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731868(v=AX.60)
 ms:contentKeyID: 35132760
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

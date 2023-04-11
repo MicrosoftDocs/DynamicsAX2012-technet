@@ -4,7 +4,7 @@ TOCTitle: FieldPanel Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXHtmlCssClasses.FieldPanel
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axhtmlcssclasses.fieldpanel(v=AX.60)
 ms:contentKeyID: 62203903
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

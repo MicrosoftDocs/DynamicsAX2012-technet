@@ -4,7 +4,7 @@ TOCTitle: AuthorizePaymentServiceRequest Constructor (TenderLine, PaymentCard)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AuthorizePaymentServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.TenderLine,Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.authorizepaymentservicerequest.authorizepaymentservicerequest(v=AX.60)
 ms:contentKeyID: 65315967
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

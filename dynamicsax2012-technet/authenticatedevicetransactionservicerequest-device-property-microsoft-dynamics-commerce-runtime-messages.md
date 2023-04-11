@@ -4,7 +4,7 @@ TOCTitle: Device Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.AuthenticateDeviceTransactionServiceRequest.Device
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.authenticatedevicetransactionservicerequest.device(v=AX.60)
 ms:contentKeyID: 65322733
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

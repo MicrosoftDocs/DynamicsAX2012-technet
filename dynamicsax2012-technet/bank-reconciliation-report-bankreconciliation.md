@@ -4,7 +4,7 @@ TOCTitle: Bank reconciliation report (BankReconciliation)
 ms:assetid: 5bdd1889-f95b-4865-a571-a21fef090303
 ms:mtpsurl: https://technet.microsoft.com/library/Aa583948(v=AX.60)
 ms:contentKeyID: 36058819
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

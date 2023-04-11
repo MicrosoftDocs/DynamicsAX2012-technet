@@ -4,7 +4,7 @@ TOCTitle: Applicant anonymous security role (AnonymousApplicant)
 ms:assetid: a0cb7e2e-af2f-469e-b8b4-c1c769b11b9c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527116(v=AX.60)
 ms:contentKeyID: 37823167
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: AuthenticateDevicePartialServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AuthenticateDevicePartialServiceResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Device)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.authenticatedevicepartialserviceresponse.authenticatedevicepartialserviceresponse(v=AX.60)
 ms:contentKeyID: 62210260
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

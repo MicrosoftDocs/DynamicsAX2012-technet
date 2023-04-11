@@ -4,7 +4,7 @@ TOCTitle: IncludedInTotalDiscount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Barcode.IncludedInTotalDiscount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.barcode.includedintotaldiscount(v=AX.60)
 ms:contentKeyID: 62214093
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

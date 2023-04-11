@@ -4,7 +4,7 @@ TOCTitle: Application Object Servers license code (SysObjectServers)
 ms:assetid: 7dbcf24b-1077-40b9-90a3-30c235c234a3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433460(v=AX.60)
 ms:contentKeyID: 36941214
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

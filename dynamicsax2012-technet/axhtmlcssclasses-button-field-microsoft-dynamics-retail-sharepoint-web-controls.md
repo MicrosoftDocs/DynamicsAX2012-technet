@@ -4,7 +4,7 @@ TOCTitle: Button Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXHtmlCssClasses.Button
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axhtmlcssclasses.button(v=AX.60)
 ms:contentKeyID: 62205856
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Implicit Conversion (AddToCart to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart)~System.Web.UI.TemplateControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.addtocart.op_implicit(v=AX.60)
 ms:contentKeyID: 62207198
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

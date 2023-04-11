@@ -4,7 +4,7 @@ TOCTitle: UrlLogisticsLocationId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Address.UrlLogisticsLocationId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.address.urllogisticslocationid(v=AX.60)
 ms:contentKeyID: 62206703
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

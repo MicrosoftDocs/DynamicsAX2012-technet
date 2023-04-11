@@ -4,7 +4,7 @@ TOCTitle: Apply for jobs
 ms:assetid: 4f76df9c-c2fb-403a-9824-cba1c9a03f51
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271526(v=AX.60)
 ms:contentKeyID: 36384158
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

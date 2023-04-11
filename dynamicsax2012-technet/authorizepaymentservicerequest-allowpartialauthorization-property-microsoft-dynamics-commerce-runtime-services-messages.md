@@ -4,7 +4,7 @@ TOCTitle: AllowPartialAuthorization Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AuthorizePaymentServiceRequest.AllowPartialAuthorization
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.authorizepaymentservicerequest.allowpartialauthorization(v=AX.60)
 ms:contentKeyID: 65320214
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

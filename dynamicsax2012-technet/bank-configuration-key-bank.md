@@ -4,7 +4,7 @@ TOCTitle: Bank configuration key (Bank)
 ms:assetid: 752db901-e1b1-4952-a989-b61e3e5da2a3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416680(v=AX.60)
 ms:contentKeyID: 36931840
-author: Khairunj
+author: tfehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

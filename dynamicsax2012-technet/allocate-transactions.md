@@ -4,7 +4,7 @@ TOCTitle: Allocate transactions
 ms:assetid: 2cffa4d6-9708-4413-ac28-0e45c930f48a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231017(v=AX.60)
 ms:contentKeyID: 36056259
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

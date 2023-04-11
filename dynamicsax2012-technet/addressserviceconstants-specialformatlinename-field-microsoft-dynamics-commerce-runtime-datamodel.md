@@ -4,7 +4,7 @@ TOCTitle: SpecialFormatLineName Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressServiceConstants.SpecialFormatLineName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.specialformatlinename(v=AX.60)
 ms:contentKeyID: 65319648
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

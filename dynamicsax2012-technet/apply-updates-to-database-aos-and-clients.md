@@ -4,7 +4,7 @@ TOCTitle: Apply updates to database, AOS, and clients
 ms:assetid: 5aa25046-422c-4bb7-8fae-5901b3bd426c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538446(v=AX.60)
 ms:contentKeyID: 39508868
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 12/04/2014
 mtps_version: v=AX.60

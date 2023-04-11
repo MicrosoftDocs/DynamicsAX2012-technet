@@ -4,7 +4,7 @@ TOCTitle: Metadata Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeProduct.Metadata
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributeproduct.metadata(v=AX.60)
 ms:contentKeyID: 49843007
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

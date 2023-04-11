@@ -4,7 +4,7 @@ TOCTitle: Attachments
 ms:assetid: 64bf82b7-6518-468f-9041-22e9df10a5eb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271546(v=AX.60)
 ms:contentKeyID: 36384178
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

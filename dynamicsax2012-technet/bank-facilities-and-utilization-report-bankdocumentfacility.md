@@ -4,7 +4,7 @@ TOCTitle: Bank facilities and utilization report (BankDocumentFacility)
 ms:assetid: d2fc9e01-4449-44ff-9134-1714fcfc676e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352293(v=AX.60)
 ms:contentKeyID: 36687921
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ValidatorMessage Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXValidatorAttributes.ValidatorMessage
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axvalidatorattributes.validatormessage(v=AX.60)
 ms:contentKeyID: 62202438
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

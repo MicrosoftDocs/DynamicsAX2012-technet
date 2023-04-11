@@ -4,7 +4,7 @@ TOCTitle: BarcodeMaskSegment Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.BarcodeMaskSegment
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.barcodemasksegment_methods(v=AX.60)
 ms:contentKeyID: 62215235
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

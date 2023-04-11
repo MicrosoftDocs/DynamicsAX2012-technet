@@ -4,7 +4,7 @@ TOCTitle: AuthenticationModule Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule_methods(v=AX.60)
 ms:contentKeyID: 62201934
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60

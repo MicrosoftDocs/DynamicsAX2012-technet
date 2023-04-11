@@ -4,7 +4,7 @@ TOCTitle: AddressSqlServerDataRequestHandler Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.AddressSqlServerDataRequestHandler.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.addresssqlserverdatarequesthandler.addresssqlserverdatarequesthandler(v=AX.60)
 ms:contentKeyID: 65320071
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

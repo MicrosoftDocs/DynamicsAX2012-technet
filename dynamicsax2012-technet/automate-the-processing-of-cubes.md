@@ -4,7 +4,7 @@ TOCTitle: Automate the processing of cubes
 ms:assetid: 4b5e2423-fefd-490f-8561-a09eccedcc78
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309669(v=AX.60)
 ms:contentKeyID: 35132625
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 06/03/2014
 mtps_version: v=AX.60

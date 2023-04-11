@@ -4,7 +4,7 @@ TOCTitle: Bank report (BankLedgerReconciliation)
 ms:assetid: 37e017a5-52f0-42a0-aca8-2d31cbb47e35
 ms:mtpsurl: https://technet.microsoft.com/library/Aa553503(v=AX.60)
 ms:contentKeyID: 39509595
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

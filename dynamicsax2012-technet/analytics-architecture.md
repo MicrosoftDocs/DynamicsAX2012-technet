@@ -4,7 +4,7 @@ TOCTitle: Analytics architecture
 ms:assetid: 5e94c4a3-c3d3-4655-a98e-6b91f8a0dc8f
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309691(v=AX.60)
 ms:contentKeyID: 35132658
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 06/03/2014
 mtps_version: v=AX.60

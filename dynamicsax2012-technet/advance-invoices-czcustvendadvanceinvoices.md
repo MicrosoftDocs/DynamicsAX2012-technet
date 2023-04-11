@@ -4,7 +4,7 @@ TOCTitle: Advance invoices (CzCustVendAdvanceInvoices)
 ms:assetid: 9792ed28-9ebf-48cc-9068-f5cbb9e88ec1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn783117(v=AX.60)
 ms:contentKeyID: 62830464
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 08/27/2014
 mtps_version: v=AX.60

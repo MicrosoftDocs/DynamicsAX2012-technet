@@ -4,7 +4,7 @@ TOCTitle: Application Integration Framework topology
 ms:assetid: 963fa6ae-0ce8-481e-89f7-b66e07febcc3
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362004(v=AX.60)
 ms:contentKeyID: 37046470
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

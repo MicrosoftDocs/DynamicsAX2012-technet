@@ -4,7 +4,7 @@ TOCTitle: AttributeTextValue Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeTextValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributetextvalue_methods(v=AX.60)
 ms:contentKeyID: 49829039
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

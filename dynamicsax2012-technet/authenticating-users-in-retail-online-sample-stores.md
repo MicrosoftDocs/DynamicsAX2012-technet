@@ -4,7 +4,7 @@ TOCTitle: Authenticating users in Retail online sample stores
 ms:assetid: 2dbd6c13-9154-493a-bf28-011d70409c3e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741226(v=AX.60)
 ms:contentKeyID: 62219115
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

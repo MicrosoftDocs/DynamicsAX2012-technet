@@ -4,7 +4,7 @@ TOCTitle: " approve"
 ms:assetid: DynamicsAXGlossary.1465554
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1465554(v=AX.60)
 ms:contentKeyID: 36057077
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 08/25/2014
 mtps_version: v=AX.60

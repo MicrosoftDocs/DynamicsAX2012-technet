@@ -4,7 +4,7 @@ TOCTitle: Application users
 ms:assetid: 23a4af1b-d3f5-413e-8e65-afaf0eb58de9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242087(v=AX.60.md)
 ms:contentKeyID: 36055910
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/25/2014
 mtps_version: v=AX.60
