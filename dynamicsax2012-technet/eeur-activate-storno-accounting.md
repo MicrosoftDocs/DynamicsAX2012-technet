@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Activate storno accounting
 ms:assetid: ab3dab82-7f40-4315-95bf-f002e4d7d4d7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ852136(v=AX.60)
 ms:contentKeyID: 50281222
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

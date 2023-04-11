@@ -4,7 +4,7 @@ TOCTitle: Event configuration key (Event)
 ms:assetid: acfd4da0-927c-4697-a096-f713129298c6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa618498(v=AX.60)
 ms:contentKeyID: 36941225
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

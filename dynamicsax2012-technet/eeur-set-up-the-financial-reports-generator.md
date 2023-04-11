@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up the financial reports generator
 ms:assetid: 810045fe-1ff2-47e7-9017-ee9ba07fdd52
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910986(v=AX.60)
 ms:contentKeyID: 52075300
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

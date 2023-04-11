@@ -4,7 +4,7 @@ TOCTitle: ToDateTimeOffset Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.EmployeeActivitySearchCriteria.ToDateTimeOffset
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.employeeactivitysearchcriteria.todatetimeoffset(v=AX.60)
 ms:contentKeyID: 62212462
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

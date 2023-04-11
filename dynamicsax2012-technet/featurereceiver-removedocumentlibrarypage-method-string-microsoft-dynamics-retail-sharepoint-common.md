@@ -4,7 +4,7 @@ TOCTitle: RemoveDocumentLibraryPage Method (, String)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.FeatureReceiver.RemoveDocumentLibraryPage(Microsoft.SharePoint.SPWeb,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.removedocumentlibrarypage(v=AX.60)
 ms:contentKeyID: 62206205
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

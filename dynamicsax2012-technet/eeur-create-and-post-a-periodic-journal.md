@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Create and post a periodic journal
 ms:assetid: d50f0cae-9495-4e4f-b5c5-aae6e2233608
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853389(v=AX.60)
 ms:contentKeyID: 50396759
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (ESP) Open payment documents report (VendOpenPaymDocu_ES)
 ms:assetid: dbbef23c-07a7-486d-9a0c-4cf4fa08048c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433523(v=AX.60)
 ms:contentKeyID: 36941307
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

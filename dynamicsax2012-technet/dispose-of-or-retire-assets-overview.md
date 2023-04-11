@@ -4,7 +4,7 @@ TOCTitle: Dispose of or retire assets overview
 ms:assetid: f453864e-3e60-475c-8a01-863e7d9e53f3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243283(v=AX.60)
 ms:contentKeyID: 36059990
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

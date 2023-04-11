@@ -4,7 +4,7 @@ TOCTitle: 'Examples: Depreciation effects with reversals'
 ms:assetid: d692ad15-6e1d-4826-a5e1-1669b63e75f7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213705(v=AX.60)
 ms:contentKeyID: 36059536
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

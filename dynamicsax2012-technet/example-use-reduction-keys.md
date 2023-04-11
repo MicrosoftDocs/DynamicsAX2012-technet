@@ -4,7 +4,7 @@ TOCTitle: 'Example: Use reduction keys'
 ms:assetid: 8bb788fb-cf70-4d5c-b3c0-da747d0c4bba
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498254(v=AX.60)
 ms:contentKeyID: 36058474
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

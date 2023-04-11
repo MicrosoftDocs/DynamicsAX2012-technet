@@ -4,7 +4,7 @@ TOCTitle: (ESP) Set up due date limits to calculate invoice due dates
 ms:assetid: 31e510cf-1f63-4aaa-a4e4-a83e393d7893
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911369(v=AX.60)
 ms:contentKeyID: 50934001
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

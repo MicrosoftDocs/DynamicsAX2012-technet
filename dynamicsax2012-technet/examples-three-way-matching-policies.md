@@ -4,7 +4,7 @@ TOCTitle: 'Examples: Three-way matching policies'
 ms:assetid: 2cd96625-caf1-4f24-a3eb-8ff16c12a87c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292596(v=AX.60)
 ms:contentKeyID: 36655926
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

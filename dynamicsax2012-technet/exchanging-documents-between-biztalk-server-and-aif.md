@@ -4,7 +4,7 @@ TOCTitle: Exchanging documents between BizTalk Server and AIF
 ms:assetid: 703527e1-4b5b-4eed-a8bd-74c0f419c14b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352300(v=AX.60)
 ms:contentKeyID: 36687928
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

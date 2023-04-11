@@ -4,7 +4,7 @@ TOCTitle: (ESP) Generate Declaration 347
 ms:assetid: 36b5b6f9-f543-4640-8569-721a243d0d96
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304970(v=AX.60)
 ms:contentKeyID: 54899949
-author: Khairunj
+author: tonyafehr
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:

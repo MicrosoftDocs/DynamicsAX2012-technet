@@ -4,7 +4,7 @@ TOCTitle: Enterprise Search security and protection
 ms:assetid: 53d56eec-e274-4ac1-b89f-35ef10326145
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433510(v=AX.60)
 ms:contentKeyID: 36941291
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

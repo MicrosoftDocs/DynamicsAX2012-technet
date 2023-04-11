@@ -4,7 +4,7 @@ TOCTitle: Enterprise Search operations
 ms:assetid: 98767015-42e2-4eb3-8f58-7d0e88ca559e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500183(v=AX.60)
 ms:contentKeyID: 37820250
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

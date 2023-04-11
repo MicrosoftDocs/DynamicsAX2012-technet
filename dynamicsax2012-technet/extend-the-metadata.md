@@ -4,7 +4,7 @@ TOCTitle: Extend the metadata
 ms:assetid: e9e6043a-b09d-435b-b212-1d6fda8d0308
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741458(v=AX.60)
 ms:contentKeyID: 62219735
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Adjust a transaction by using an hour, expense, or fee journal
 ms:assetid: 8d04e024-14ac-4adc-8f43-c76216ba0a96
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730994(v=AX.60)
 ms:contentKeyID: 49675236
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

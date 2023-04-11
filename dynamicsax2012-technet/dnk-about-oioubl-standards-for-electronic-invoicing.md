@@ -4,7 +4,7 @@ TOCTitle: (DNK) About OIOUBL standards for electronic invoicing
 ms:assetid: 7cc5b8d2-2a73-4c35-91a0-965974c3e8fd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209267(v=AX.60)
 ms:contentKeyID: 36058269
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

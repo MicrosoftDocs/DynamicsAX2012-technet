@@ -4,7 +4,7 @@ TOCTitle: 'Example: Find Action'
 ms:assetid: 96f68a9c-d5e0-46b0-9406-b0c87e8c8935
 ms:mtpsurl: https://technet.microsoft.com/library/Aa844112(v=AX.60)
 ms:contentKeyID: 35247711
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

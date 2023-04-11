@@ -4,7 +4,7 @@ TOCTitle: Employee Services Role configuration key (HRMEPEmployeeServices)
 ms:assetid: f4a5ac0d-409f-4336-a72a-f1636b1bf650
 ms:mtpsurl: https://technet.microsoft.com/library/Aa600309(v=AX.60)
 ms:contentKeyID: 36941236
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

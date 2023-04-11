@@ -4,7 +4,7 @@ TOCTitle: Electronic banking configuration key (BankElectronicBanking)
 ms:assetid: a6fff221-58b8-4f2b-899e-89973ddafa61
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500159(v=AX.60)
 ms:contentKeyID: 37820190
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

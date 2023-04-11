@@ -4,7 +4,7 @@ TOCTitle: Fill utility configuration key (SysFillUtility)
 ms:assetid: 33e98792-2f1b-4bed-881a-913b928cd45b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433448(v=AX.60)
 ms:contentKeyID: 36941199
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

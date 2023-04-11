@@ -4,7 +4,7 @@ TOCTitle: Expense management cube (TrvCube)
 ms:assetid: fd98eeae-a782-4a2f-bc33-7b19bcaf3876
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781077(v=AX.60)
 ms:contentKeyID: 43894476
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

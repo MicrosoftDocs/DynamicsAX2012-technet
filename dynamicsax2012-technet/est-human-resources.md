@@ -4,7 +4,7 @@ TOCTitle: (EST) Human resources
 ms:assetid: a361291b-7caf-44ad-84ea-8db1894ec10a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664181(v=AX.60)
 ms:contentKeyID: 49385271
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

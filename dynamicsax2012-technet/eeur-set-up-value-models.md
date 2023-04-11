@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up value models
 ms:assetid: d99a9909-d296-4bdb-8e86-6422ce16b492
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710776(v=AX.60)
 ms:contentKeyID: 49385172
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

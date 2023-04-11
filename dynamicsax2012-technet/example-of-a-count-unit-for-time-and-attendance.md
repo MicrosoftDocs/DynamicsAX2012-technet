@@ -4,7 +4,7 @@ TOCTitle: Example of a count unit for time and attendance
 ms:assetid: 3a3991d1-19b4-4813-82df-74a44999ae9f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242213(v=AX.60)
 ms:contentKeyID: 36056639
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

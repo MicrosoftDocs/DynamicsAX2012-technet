@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Create and post vendor invoices with advance holder details
 ms:assetid: b5b747ab-6969-4361-8407-1a6838f2d9b8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911009(v=AX.60)
 ms:contentKeyID: 52075305
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

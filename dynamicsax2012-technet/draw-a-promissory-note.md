@@ -4,7 +4,7 @@ TOCTitle: Draw a promissory note
 ms:assetid: 5da88792-b3a2-4268-b125-f0bae015d5ed
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549102(v=AX.60)
 ms:contentKeyID: 36655930
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

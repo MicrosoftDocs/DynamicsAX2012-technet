@@ -4,7 +4,7 @@ TOCTitle: 'Example: FindKeys Action'
 ms:assetid: 387b1936-eb0c-4951-9da6-6840a41d1b0a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa636580(v=AX.60)
 ms:contentKeyID: 35242847
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

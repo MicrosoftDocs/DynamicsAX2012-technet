@@ -4,7 +4,7 @@ TOCTitle: Enter a vendor payment that is subject to withholding tax
 ms:assetid: b4e65486-2e7e-49f6-9d75-8f177dd9cd13
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232420(v=AX.60)
 ms:contentKeyID: 37822155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

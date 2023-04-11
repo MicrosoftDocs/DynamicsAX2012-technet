@@ -4,7 +4,7 @@ TOCTitle: Fax receipts configuration key (TrvFaxReceipts)
 ms:assetid: 3e40c449-0e58-4a74-99da-c8e5198b1d90
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416671(v=AX.60)
 ms:contentKeyID: 36931827
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

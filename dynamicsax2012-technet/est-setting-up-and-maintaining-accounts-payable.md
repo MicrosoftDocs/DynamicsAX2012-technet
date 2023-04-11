@@ -4,7 +4,7 @@ TOCTitle: (EST) Setting up and maintaining Accounts payable
 ms:assetid: 8ae02d68-b7f3-4283-b0e2-79aeb396d29b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710861(v=AX.60)
 ms:contentKeyID: 49385257
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

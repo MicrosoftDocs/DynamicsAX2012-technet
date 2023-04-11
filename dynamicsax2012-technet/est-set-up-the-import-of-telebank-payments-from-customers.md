@@ -4,7 +4,7 @@ TOCTitle: (EST) Set up the import of telebank payments from customers
 ms:assetid: 8327f2f2-e91b-4c30-90f5-69892d8552bd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710856(v=AX.60)
 ms:contentKeyID: 49385252
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

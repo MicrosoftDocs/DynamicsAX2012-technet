@@ -4,7 +4,7 @@ TOCTitle: CreateResultSource Method (, Uri, String, Boolean)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.FeatureReceiver.CreateResultSource(Microsoft.SharePoint.SPWeb,System.Uri,System.String,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.createresultsource(v=AX.60)
 ms:contentKeyID: 62204714
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

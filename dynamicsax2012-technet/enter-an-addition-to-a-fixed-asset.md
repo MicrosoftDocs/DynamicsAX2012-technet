@@ -4,7 +4,7 @@ TOCTitle: Enter an addition to a fixed asset
 ms:assetid: f0f33b41-e82e-4e8d-9f88-6939867ad47c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243273(v=AX.60)
 ms:contentKeyID: 36059927
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Euro configuration key (CurrencyEuro)
 ms:assetid: 38451361-e364-4a5d-805f-103c07e2275f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416657(v=AX.60)
 ms:contentKeyID: 36931823
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

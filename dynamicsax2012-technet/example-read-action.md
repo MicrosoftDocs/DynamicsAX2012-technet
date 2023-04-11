@@ -4,7 +4,7 @@ TOCTitle: 'Example: Read Action'
 ms:assetid: 7ef4a0ee-9263-484d-9f0a-09b09cecab13
 ms:mtpsurl: https://technet.microsoft.com/library/Aa642551(v=AX.60)
 ms:contentKeyID: 35246128
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

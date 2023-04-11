@@ -4,7 +4,7 @@ TOCTitle: (ESP) Create a promissory note document by using a fixed promissory no
 ms:assetid: 34540475-0bcb-4c0c-beaa-cf51e8e2f8ca
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231089(v=AX.60)
 ms:contentKeyID: 36056549
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

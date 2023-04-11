@@ -4,7 +4,7 @@ TOCTitle: EmployeePermissions Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.EmployeePermissions.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.employeepermissions.employeepermissions(v=AX.60)
 ms:contentKeyID: 62215172
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

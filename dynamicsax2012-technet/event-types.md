@@ -4,7 +4,7 @@ TOCTitle: Event types
 ms:assetid: 1038e247-5204-456c-93a1-f1ce809865a2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496558(v=AX.60)
 ms:contentKeyID: 46687537
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

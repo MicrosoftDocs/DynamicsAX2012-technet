@@ -4,7 +4,7 @@ TOCTitle: User_Id Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Common.FacebookSessionCookie.User_Id
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.facebooksessioncookie.user_id(v=AX.60)
 ms:contentKeyID: 62207130
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (DNK) Set up a batch group for OIOUBL electronic invoicing
 ms:assetid: 4e156937-8060-49cd-93ef-f510e5e38840
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208758(v=AX.60)
 ms:contentKeyID: 36057041
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

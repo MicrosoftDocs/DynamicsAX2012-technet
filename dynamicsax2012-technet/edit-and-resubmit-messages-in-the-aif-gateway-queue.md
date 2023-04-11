@@ -4,7 +4,7 @@ TOCTitle: Edit and resubmit messages in the AIF gateway queue
 ms:assetid: 4b1a3ef7-1fc9-4fb8-8c8e-9d4a0913b72b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834355(v=AX.60)
 ms:contentKeyID: 35132623
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

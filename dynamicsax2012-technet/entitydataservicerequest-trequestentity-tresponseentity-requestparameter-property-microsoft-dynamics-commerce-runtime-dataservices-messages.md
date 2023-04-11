@@ -4,7 +4,7 @@ TOCTitle: RequestParameter Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceRequest`2.RequestParameter
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968419(v=AX.60)
 ms:contentKeyID: 65321035
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

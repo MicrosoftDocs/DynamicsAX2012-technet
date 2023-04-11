@@ -4,7 +4,7 @@ TOCTitle: OnInit Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.FacebookLogOnLayout.OnInit(System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.facebooklogonlayout.oninit(v=AX.60)
 ms:contentKeyID: 62207666
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

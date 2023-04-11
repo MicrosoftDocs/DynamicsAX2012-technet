@@ -4,7 +4,7 @@ TOCTitle: Expense reports report (TrvExpense)
 ms:assetid: 1cc8262f-12c1-483d-a943-c3bbe9f3241c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404033(v=AX.60)
 ms:contentKeyID: 36956685
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

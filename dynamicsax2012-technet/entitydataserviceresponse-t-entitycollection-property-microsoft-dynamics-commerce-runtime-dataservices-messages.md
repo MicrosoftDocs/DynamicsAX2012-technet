@@ -4,7 +4,7 @@ TOCTitle: EntityCollection Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceResponse`1.EntityCollection
 ms:mtpsurl: https://technet.microsoft.com/library/Dn967633(v=AX.60)
 ms:contentKeyID: 65319504
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

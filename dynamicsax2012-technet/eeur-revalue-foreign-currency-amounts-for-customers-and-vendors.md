@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Revalue foreign currency amounts for customers and vendors
 ms:assetid: fdf53fd8-2514-42a8-b897-f22b458f8c86
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911243(v=AX.60)
 ms:contentKeyID: 52075310
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (ESP) Import main accounts into a chart of accounts
 ms:assetid: 87c9e346-cd4f-4104-9625-afe835147223
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433543(v=AX.60)
 ms:contentKeyID: 36941344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

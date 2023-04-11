@@ -4,7 +4,7 @@ TOCTitle: (ESP) Remittance Format 19,32 & 58 AEB (ES) report (CustOutPaymControl
 ms:assetid: dcb1e7d3-d34d-4b12-ade4-ed93f981bd0a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524743(v=AX.60)
 ms:contentKeyID: 37072039
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Establish sales targets
 ms:assetid: 4eaa19d3-24f0-4752-847e-0feb886efb52
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212747(v=AX.60)
 ms:contentKeyID: 36057058
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

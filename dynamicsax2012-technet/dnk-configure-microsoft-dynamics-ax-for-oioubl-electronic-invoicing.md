@@ -4,7 +4,7 @@ TOCTitle: (DNK) Configure Microsoft Dynamics AX for OIOUBL electronic invoicing
 ms:assetid: 4706d9e1-0f3f-4019-a522-bb55a33065eb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231394(v=AX.60)
 ms:contentKeyID: 36056907
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

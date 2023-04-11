@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Working with Project management and accounting
 ms:assetid: c1af57f5-5d59-407b-9b6d-565bc709246e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730997(v=AX.60)
 ms:contentKeyID: 49675239
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

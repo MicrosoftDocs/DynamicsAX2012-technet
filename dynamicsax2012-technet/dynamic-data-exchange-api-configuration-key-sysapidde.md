@@ -4,7 +4,7 @@ TOCTitle: Dynamic Data Exchange API configuration key (SysAPIDDE)
 ms:assetid: 1a5aa96c-de35-4c33-8d32-438dc9b6504d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499107(v=AX.60)
 ms:contentKeyID: 36997742
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

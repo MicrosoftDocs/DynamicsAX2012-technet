@@ -4,7 +4,7 @@ TOCTitle: 'Example: Create Action'
 ms:assetid: 6233024b-43d3-41f4-81b7-db1f8de45f22
 ms:mtpsurl: https://technet.microsoft.com/library/Aa633136(v=AX.60)
 ms:contentKeyID: 35244565
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

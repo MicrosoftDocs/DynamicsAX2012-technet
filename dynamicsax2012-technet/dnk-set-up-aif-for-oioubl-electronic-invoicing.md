@@ -4,7 +4,7 @@ TOCTitle: (DNK) Set up AIF for OIOUBL electronic invoicing
 ms:assetid: df365dc0-d048-49d0-a6fe-88d31f65cafb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227417(v=AX.60)
 ms:contentKeyID: 36059695
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

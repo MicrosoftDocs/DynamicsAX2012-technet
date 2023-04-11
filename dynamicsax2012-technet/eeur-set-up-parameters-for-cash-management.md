@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up parameters for cash management
 ms:assetid: f49668e5-c1fe-4e57-9b5a-4e7604f6a594
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710653(v=AX.60)
 ms:contentKeyID: 49385052
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

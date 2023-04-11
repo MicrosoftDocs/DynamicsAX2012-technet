@@ -4,7 +4,7 @@ TOCTitle: (DNK) Create and post a credit note for a sales order for a public sec
 ms:assetid: cf47b4af-449b-4c00-bdf6-40f0406af962
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242913(v=AX.60)
 ms:contentKeyID: 36059476
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

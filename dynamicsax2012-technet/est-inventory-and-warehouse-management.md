@@ -4,7 +4,7 @@ TOCTitle: (EST) Inventory and warehouse management
 ms:assetid: b898867f-0ff0-4446-87ed-9310054581a7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664188(v=AX.60)
 ms:contentKeyID: 49385278
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

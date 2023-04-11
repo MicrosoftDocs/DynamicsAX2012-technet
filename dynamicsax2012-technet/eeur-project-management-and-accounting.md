@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Project management and accounting
 ms:assetid: 29f1cc29-30d6-421b-9957-e0f68e8dd82e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730986(v=AX.60)
 ms:contentKeyID: 49675228
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

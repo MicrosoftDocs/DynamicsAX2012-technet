@@ -4,7 +4,7 @@ TOCTitle: Enter a catalog source code
 ms:assetid: a3850d0c-0453-4fa3-ab26-ca8b8dcdd09d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497808(v=AX.60)
 ms:contentKeyID: 62200126
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

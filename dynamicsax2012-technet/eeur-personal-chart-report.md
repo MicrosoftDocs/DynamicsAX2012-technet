@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Personal chart (report)
 ms:assetid: 3600a2d1-d841-4b54-a443-f41b5670478b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874406(v=AX.60)
 ms:contentKeyID: 50619723
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (ESP) Set up tax-exempt number validation
 ms:assetid: f6db3edb-ca01-4362-9ff9-605625e3b95e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227545(v=AX.60)
 ms:contentKeyID: 36060019
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

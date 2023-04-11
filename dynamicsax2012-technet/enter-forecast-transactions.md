@@ -4,7 +4,7 @@ TOCTitle: Enter forecast transactions
 ms:assetid: 374e501a-d0b5-47bb-8783-7e23efc731b1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570129(v=AX.60)
 ms:contentKeyID: 36056606
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Example: Balanced accounting entry for interunit accounting'
 ms:assetid: d1904c54-9c4b-438e-add7-419dcf6e0915
 ms:mtpsurl: https://technet.microsoft.com/library/JJ729758(v=AX.60)
 ms:contentKeyID: 49564924
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

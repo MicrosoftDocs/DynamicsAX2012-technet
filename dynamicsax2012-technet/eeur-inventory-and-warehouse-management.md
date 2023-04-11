@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Inventory and warehouse management
 ms:assetid: 9e3cd989-8a46-4aab-a88a-a5e035166a8f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710748(v=AX.60)
 ms:contentKeyID: 49385145
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

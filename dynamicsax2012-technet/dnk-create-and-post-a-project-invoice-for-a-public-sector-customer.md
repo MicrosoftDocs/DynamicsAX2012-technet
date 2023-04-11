@@ -4,7 +4,7 @@ TOCTitle: (DNK) Create and post a project invoice for a public sector customer
 ms:assetid: 7cc09542-a13f-4607-87b7-306fb3c377f5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213134(v=AX.60)
 ms:contentKeyID: 36058268
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

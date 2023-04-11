@@ -4,7 +4,7 @@ TOCTitle: MaximumDiscountPercentage Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.EmployeePermissions.MaximumDiscountPercentage
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.employeepermissions.maximumdiscountpercentage(v=AX.60)
 ms:contentKeyID: 62212088
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

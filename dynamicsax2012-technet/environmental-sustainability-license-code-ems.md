@@ -4,7 +4,7 @@ TOCTitle: Environmental sustainability license code (EMS)
 ms:assetid: ebf0f12f-d22f-4090-aa31-501239e6f492
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416700(v=AX.60)
 ms:contentKeyID: 36931862
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

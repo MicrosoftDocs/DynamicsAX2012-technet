@@ -4,7 +4,7 @@ TOCTitle: OutputParams Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceResponse`2.OutputParams
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968289(v=AX.60)
 ms:contentKeyID: 65320652
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

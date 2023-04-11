@@ -4,7 +4,7 @@ TOCTitle: Encumber a general budget reservation (Public sector)
 ms:assetid: c3a1ba47-f3b1-4335-9445-ff492e2aca52
 ms:mtpsurl: https://technet.microsoft.com/library/Dn762315(v=AX.60)
 ms:contentKeyID: 65205505
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

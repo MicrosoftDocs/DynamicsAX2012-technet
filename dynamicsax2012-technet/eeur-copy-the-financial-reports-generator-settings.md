@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Copy the financial reports generator settings
 ms:assetid: e9e3ee49-ab8a-4e23-a746-fd13a92eeffd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911240(v=AX.60)
 ms:contentKeyID: 52075308
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

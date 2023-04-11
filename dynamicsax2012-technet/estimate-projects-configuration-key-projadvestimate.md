@@ -4,7 +4,7 @@ TOCTitle: Estimate projects configuration key (ProjAdvEstimate)
 ms:assetid: 3ff58e9d-36fa-4e8e-8580-e5e62d309c99
 ms:mtpsurl: https://technet.microsoft.com/library/Aa575470(v=AX.60)
 ms:contentKeyID: 39518955
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

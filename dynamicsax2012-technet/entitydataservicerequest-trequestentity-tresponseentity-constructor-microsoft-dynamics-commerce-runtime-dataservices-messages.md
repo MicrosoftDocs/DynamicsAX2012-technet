@@ -4,7 +4,7 @@ TOCTitle: EntityDataServiceRequest(TRequestEntity, TResponseEntity) Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceRequest`2.#ctor(`0)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn967067(v=AX.60)
 ms:contentKeyID: 65318434
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Exporting and importing AIF integration port configurations
 ms:assetid: ad13ee26-2867-4324-b522-85f5621e609c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731890(v=AX.60)
 ms:contentKeyID: 35132804
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

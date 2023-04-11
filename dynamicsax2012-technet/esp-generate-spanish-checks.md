@@ -4,7 +4,7 @@ TOCTitle: (ESP) Generate Spanish checks
 ms:assetid: 327997ba-a7a3-4960-aab5-0394d1ced056
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231037(v=AX.60)
 ms:contentKeyID: 36056533
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

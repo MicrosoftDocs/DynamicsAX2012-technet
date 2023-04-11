@@ -4,7 +4,7 @@ TOCTitle: Enable validation parameters
 ms:assetid: ef66623d-1e13-4e0a-bfb5-d4fba8bed126
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551560(v=AX.60)
 ms:contentKeyID: 36059919
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

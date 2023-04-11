@@ -4,7 +4,7 @@ TOCTitle: (ESP) Set up methods of payment for payment remittance files
 ms:assetid: 71c08dcb-3c1d-4cba-8837-3dfa86097097
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231842(v=AX.60)
 ms:contentKeyID: 36058070
-author: Khairunj
+author: tonyafehr
 ms.date: 05/27/2014
 mtps_version: v=AX.60
 f1_keywords:

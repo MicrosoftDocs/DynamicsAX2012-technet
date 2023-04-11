@@ -4,7 +4,7 @@ TOCTitle: 'Example: Create a Report with a Group Check Box'
 ms:assetid: 3acb567c-4933-4584-a6db-bcd092bb556a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720903(v=AX.60)
 ms:contentKeyID: 62235870
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

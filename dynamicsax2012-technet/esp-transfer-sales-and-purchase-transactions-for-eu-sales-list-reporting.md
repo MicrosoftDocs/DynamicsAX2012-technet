@@ -4,7 +4,7 @@ TOCTitle: (ESP) Transfer sales and purchase transactions for EU sales list repor
 ms:assetid: a5859c8c-6cc8-43c2-9200-f08bad1c766b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242681(v=AX.60)
 ms:contentKeyID: 36058864
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Enterprise Search
 ms:assetid: 87c0bd59-3116-4035-9677-b4172ee85497
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731850(v=AX.60)
 ms:contentKeyID: 35132711
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

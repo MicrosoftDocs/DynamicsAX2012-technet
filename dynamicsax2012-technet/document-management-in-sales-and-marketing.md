@@ -4,7 +4,7 @@ TOCTitle: Document management in sales and marketing
 ms:assetid: 044161b1-d1ed-41db-b005-9c501c9429b8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569709(v=AX.60)
 ms:contentKeyID: 36055946
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

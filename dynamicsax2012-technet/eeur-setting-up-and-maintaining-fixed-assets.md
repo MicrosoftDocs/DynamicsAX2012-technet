@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Setting up and maintaining Fixed assets
 ms:assetid: 7c2eae17-f399-444a-9b4b-91cc3dd41f99
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710732(v=AX.60)
 ms:contentKeyID: 49385130
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

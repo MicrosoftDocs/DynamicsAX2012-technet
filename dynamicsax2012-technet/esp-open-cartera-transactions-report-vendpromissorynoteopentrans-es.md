@@ -4,7 +4,7 @@ TOCTitle: (ESP) Open cartera transactions report (VendPromissoryNoteOpenTrans_ES
 ms:assetid: 61700b8f-9477-485b-90ea-39901dde3dc7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433496(v=AX.60)
 ms:contentKeyID: 36941263
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

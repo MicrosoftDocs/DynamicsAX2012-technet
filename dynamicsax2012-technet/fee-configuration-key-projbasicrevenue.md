@@ -4,7 +4,7 @@ TOCTitle: Fee configuration key (ProjBasicRevenue)
 ms:assetid: 432eb56e-03ac-4775-8bc0-e1f686ac3a18
 ms:mtpsurl: https://technet.microsoft.com/library/Aa554469(v=AX.60)
 ms:contentKeyID: 39518956
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (EST) Configuring vendor payments
 ms:assetid: 6095c4fb-4eec-4d32-9357-e5d58a04031a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710842(v=AX.60)
 ms:contentKeyID: 49385238
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

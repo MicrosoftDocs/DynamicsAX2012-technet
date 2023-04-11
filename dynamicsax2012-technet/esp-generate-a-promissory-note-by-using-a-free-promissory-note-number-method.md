@@ -4,7 +4,7 @@ TOCTitle: (ESP) Generate a promissory note by using a free promissory note numbe
 ms:assetid: d3e6f386-361f-41a5-a32a-df92ed820492
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213691(v=AX.60)
 ms:contentKeyID: 36059516
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

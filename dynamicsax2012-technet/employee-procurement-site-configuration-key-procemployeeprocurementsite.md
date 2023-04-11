@@ -4,7 +4,7 @@ TOCTitle: Employee procurement site configuration key (ProcEmployeeProcurementSi
 ms:assetid: 96367c98-569a-4e86-97f3-f96af5c483e3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433465(v=AX.60)
 ms:contentKeyID: 36941220
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal architecture
 ms:assetid: 967d873d-5a15-4a6c-990c-2831938731fb
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362005(v=AX.60)
 ms:contentKeyID: 35132773
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

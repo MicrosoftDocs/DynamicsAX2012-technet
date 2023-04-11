@@ -4,7 +4,7 @@ TOCTitle: (DNK) Post a sales invoice with a payment slip
 ms:assetid: 6b466186-1837-4500-9d02-640a05efec26
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242612(v=AX.60)
 ms:contentKeyID: 36057987
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

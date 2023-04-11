@@ -4,7 +4,7 @@ TOCTitle: 'Examples: Posting definitions (Public sector)'
 ms:assetid: 70e37c7c-84b1-4a49-a19f-7bf2fd0d4a81
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412236(v=AX.60)
 ms:contentKeyID: 36916345
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

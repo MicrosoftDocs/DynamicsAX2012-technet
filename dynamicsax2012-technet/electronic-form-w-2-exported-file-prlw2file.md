@@ -4,7 +4,7 @@ TOCTitle: Electronic Form W-2 exported file (PRLW2File)
 ms:assetid: dabb82c6-7eaf-4ed6-82d7-1e7e25a3afa0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ713642(v=AX.60)
 ms:contentKeyID: 49643136
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Preview the ledger transactions
 ms:assetid: dcafaa2f-af99-40fa-b9e9-7c2f2253ab96
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710626(v=AX.60)
 ms:contentKeyID: 49385023
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up query parameters for cell operations
 ms:assetid: ebaa42bf-63ae-4bca-ae6a-4369b8b29594
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911241(v=AX.60)
 ms:contentKeyID: 52075309
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

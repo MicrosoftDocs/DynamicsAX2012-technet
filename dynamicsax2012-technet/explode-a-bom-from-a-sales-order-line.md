@@ -4,7 +4,7 @@ TOCTitle: Explode a BOM from a sales order line
 ms:assetid: 3fa4b63a-e76c-4b74-8f43-cd5abf980265
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496944(v=AX.60)
 ms:contentKeyID: 36056706
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

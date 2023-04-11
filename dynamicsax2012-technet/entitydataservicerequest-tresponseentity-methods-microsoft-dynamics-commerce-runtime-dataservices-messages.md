@@ -4,7 +4,7 @@ TOCTitle: EntityDataServiceRequest(TResponseEntity) Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceRequest`1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn990581(v=AX.60)
 ms:contentKeyID: 65321520
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

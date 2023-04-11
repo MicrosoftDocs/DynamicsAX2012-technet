@@ -4,7 +4,7 @@ TOCTitle: (ESP) Create and post a corrective invoice
 ms:assetid: 8279f8cf-63d8-487d-8cae-7ea1c3dea85e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn783116(v=AX.60)
 ms:contentKeyID: 62830460
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

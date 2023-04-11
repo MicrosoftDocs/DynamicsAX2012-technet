@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal and Role Centers operations
 ms:assetid: db512d90-b949-4f5d-9914-d796c7b71c3e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732138(v=AX.60)
 ms:contentKeyID: 35133081
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

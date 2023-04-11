@@ -4,7 +4,7 @@ TOCTitle: (DNK) Set up a method of payment to pay vendors through Nordea Bank
 ms:assetid: 3e236bff-8718-4cf7-9c57-59aa9beec100
 ms:mtpsurl: https://technet.microsoft.com/library/JJ928493(v=AX.60)
 ms:contentKeyID: 52075219
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

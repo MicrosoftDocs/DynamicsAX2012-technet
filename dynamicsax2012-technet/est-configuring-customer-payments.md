@@ -4,7 +4,7 @@ TOCTitle: (EST) Configuring customer payments
 ms:assetid: fe424622-8791-41f4-a518-77d779808ab2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664212(v=AX.60)
 ms:contentKeyID: 49385302
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

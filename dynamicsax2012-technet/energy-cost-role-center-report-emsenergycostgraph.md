@@ -4,7 +4,7 @@ TOCTitle: Energy cost Role Center report (EMSEnergyCostGraph)
 ms:assetid: ed7b4006-e6ed-4ea2-ab29-91b05b673834
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404051(v=AX.60)
 ms:contentKeyID: 36956718
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

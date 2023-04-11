@@ -4,7 +4,7 @@ TOCTitle: (ESP) Assign due date limits to item groups to calculate invoice due d
 ms:assetid: 3e3d260d-904c-4c90-824b-d408a11e9701
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911482(v=AX.60)
 ms:contentKeyID: 52075218
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

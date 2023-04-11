@@ -4,7 +4,7 @@ TOCTitle: Document Schemas
 ms:assetid: 2d36f9be-98c9-4f36-817b-9337ad92c74b
 ms:mtpsurl: https://technet.microsoft.com/library/Cc551622(v=AX.60)
 ms:contentKeyID: 35241915
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

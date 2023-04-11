@@ -4,7 +4,7 @@ TOCTitle: End a scheduled questionnaire
 ms:assetid: cd352b79-34f3-4624-8f07-993408c01300
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572683(v=AX.60)
 ms:contentKeyID: 41702391
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Expense management configuration key (Trv)
 ms:assetid: d7901d5c-fa39-4ed4-97df-3e3945e64384
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416692(v=AX.60)
 ms:contentKeyID: 36931853
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

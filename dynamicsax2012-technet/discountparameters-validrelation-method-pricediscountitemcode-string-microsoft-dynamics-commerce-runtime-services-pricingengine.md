@@ -4,7 +4,7 @@ TOCTitle: ValidRelation Method (PriceDiscountItemCode, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountParameters.ValidRelation(Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceDiscountItemCode,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountparameters.validrelation(v=AX.60)
 ms:contentKeyID: 49849352
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

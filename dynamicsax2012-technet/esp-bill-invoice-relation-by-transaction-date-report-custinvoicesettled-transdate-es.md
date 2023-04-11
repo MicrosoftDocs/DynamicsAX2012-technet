@@ -4,7 +4,7 @@ TOCTitle: (ESP) Bill-Invoice relation by transaction date report (CustInvoiceSet
 ms:assetid: d0d5ead9-f7c3-40fc-8f15-c9393de90684
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496452(v=AX.60)
 ms:contentKeyID: 37072034
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

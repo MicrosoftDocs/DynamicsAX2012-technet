@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal users license code (SysABCUsers)
 ms:assetid: 693f1db8-0248-4f3d-8736-7d83eb0b81ea
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450730(v=AX.60)
 ms:contentKeyID: 36966666
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

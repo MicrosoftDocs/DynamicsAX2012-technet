@@ -4,7 +4,7 @@ TOCTitle: GetActivities Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.EmployeesController.GetActivities(System.Void,Microsoft.Dynamics.Commerce.Runtime.DataModel.EmployeeActivity)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.employeescontroller.getactivities(v=AX.60)
 ms:contentKeyID: 62202152
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

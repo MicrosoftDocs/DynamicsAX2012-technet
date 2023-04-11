@@ -4,7 +4,7 @@ TOCTitle: Encumbrance and ledger reconciliation report (LedgerEncumbranceReconci
 ms:assetid: 2a2ba138-ac5d-4911-8fe1-63820970f3f4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335139(v=AX.60)
 ms:contentKeyID: 36687349
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

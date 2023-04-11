@@ -4,7 +4,7 @@ TOCTitle: Export and send VAT recovery returns
 ms:assetid: 79783c69-fc97-4db0-8732-4bc86cd7c7cf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209260(v=AX.60)
 ms:contentKeyID: 36058239
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

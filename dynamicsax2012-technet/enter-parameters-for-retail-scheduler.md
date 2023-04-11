@@ -4,7 +4,7 @@ TOCTitle: Enter parameters for Retail Scheduler
 ms:assetid: bfe69872-8fb9-41d9-8f61-d206055dbd87
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679934(v=AX.60)
 ms:contentKeyID: 49557916
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

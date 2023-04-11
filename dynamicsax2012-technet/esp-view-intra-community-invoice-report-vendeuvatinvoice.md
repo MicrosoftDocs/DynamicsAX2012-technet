@@ -4,7 +4,7 @@ TOCTitle: (ESP) View Intra-Community invoice report (VendEUVatInvoice)
 ms:assetid: d36e4116-c796-4c9e-96e1-1982f370c7af
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496454(v=AX.60)
 ms:contentKeyID: 37072037
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

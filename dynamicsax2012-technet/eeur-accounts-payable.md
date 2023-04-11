@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Accounts payable
 ms:assetid: a64013fb-5352-4ccf-a77b-f30b47c19590
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710750(v=AX.60)
 ms:contentKeyID: 49385146
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

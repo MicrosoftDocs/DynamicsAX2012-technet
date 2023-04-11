@@ -4,7 +4,7 @@ TOCTitle: (DNK) Set up batch processing for OIOUBL electronic invoicing
 ms:assetid: f1ff9c46-5c14-45af-81b5-1db3d849c245
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227520(v=AX.60)
 ms:contentKeyID: 36059959
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

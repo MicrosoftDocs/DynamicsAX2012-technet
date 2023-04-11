@@ -4,7 +4,7 @@ TOCTitle: (DNK) Assign the Nordea Bank method of payment and create a bank accou
 ms:assetid: ad0771ff-308b-4ed1-9581-097d9bb2a78c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ895269(v=AX.60)
 ms:contentKeyID: 52075222
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

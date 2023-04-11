@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Activate the VAT registration date as the reporting date in EU 
 ms:assetid: 630fffc2-61c8-4e27-ab91-356005922b82
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730989(v=AX.60)
 ms:contentKeyID: 49675231
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

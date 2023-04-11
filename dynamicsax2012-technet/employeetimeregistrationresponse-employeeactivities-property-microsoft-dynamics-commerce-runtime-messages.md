@@ -4,7 +4,7 @@ TOCTitle: EmployeeActivities Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.EmployeeTimeRegistrationResponse.EmployeeActivities
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.employeetimeregistrationresponse.employeeactivities(v=AX.60)
 ms:contentKeyID: 62208712
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

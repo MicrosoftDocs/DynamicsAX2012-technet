@@ -4,7 +4,7 @@ TOCTitle: Environmental sustainability cube (EMSCube)
 ms:assetid: 7ef4d649-36f0-4267-a9b9-442299c01931
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781072(v=AX.60)
 ms:contentKeyID: 43894471
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

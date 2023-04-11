@@ -4,7 +4,7 @@ TOCTitle: Evaluate the closing setup
 ms:assetid: 565bc4a0-8065-417d-aa81-c5843eb92fcf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549054(v=AX.60)
 ms:contentKeyID: 37835227
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

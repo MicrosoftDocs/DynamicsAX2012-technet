@@ -4,7 +4,7 @@ TOCTitle: Enter a journal description in hour and fee journals
 ms:assetid: ffe8084e-34f7-47d0-bc6c-310a7efb8a66
 ms:mtpsurl: https://technet.microsoft.com/library/Hh370709(v=AX.60)
 ms:contentKeyID: 36811445
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

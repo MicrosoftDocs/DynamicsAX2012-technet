@@ -4,7 +4,7 @@ TOCTitle: (ESP) Intrastat transactions report (IntrastatFormLetterES)
 ms:assetid: 5979ccbe-a9a3-45c1-8816-6cd22d284037
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433494(v=AX.60)
 ms:contentKeyID: 36941260
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

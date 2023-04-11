@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up for cash management for Retail POS
 ms:assetid: 10e957e0-f871-41a6-8fba-7af82072a117
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268478(v=AX.60)
 ms:contentKeyID: 54917016
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

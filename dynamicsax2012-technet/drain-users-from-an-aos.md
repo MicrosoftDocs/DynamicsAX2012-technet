@@ -4,7 +4,7 @@ TOCTitle: Drain users from an AOS
 ms:assetid: d19bd816-cd9e-423a-94c7-aceb946baa30
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433538(v=AX.60)
 ms:contentKeyID: 36941331
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

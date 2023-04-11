@@ -4,7 +4,7 @@ TOCTitle: (EST) Set up a customer registration number
 ms:assetid: 48135b92-b8bf-4fb5-9415-2af65279d3a1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710833(v=AX.60)
 ms:contentKeyID: 49385228
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

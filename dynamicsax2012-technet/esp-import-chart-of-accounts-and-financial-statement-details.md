@@ -4,7 +4,7 @@ TOCTitle: (ESP) Import chart of accounts and financial statement details
 ms:assetid: 976e181c-b069-49c9-84c8-3b965c717b11
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209413(v=AX.60)
 ms:contentKeyID: 36058670
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
