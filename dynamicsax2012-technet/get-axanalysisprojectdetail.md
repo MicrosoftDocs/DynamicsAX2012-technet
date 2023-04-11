@@ -4,7 +4,7 @@ TOCTitle: Get-AXAnalysisProjectDetail
 ms:assetid: 35531528-60C0-45FD-A4C3-A6F9C0D69BE6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720249(v=AX.60)
 ms:contentKeyID: 49720037
-author: Khairunj
+author: tonyafehr
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

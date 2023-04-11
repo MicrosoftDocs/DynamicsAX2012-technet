@@ -4,7 +4,7 @@ TOCTitle: Financial statements (traditional) configuration key (LedgerBalanceSta
 ms:assetid: 1137b739-8b4a-421b-afc6-8da1aab9fa18
 ms:mtpsurl: https://technet.microsoft.com/library/Dn269131(v=AX.60)
 ms:contentKeyID: 54920083
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

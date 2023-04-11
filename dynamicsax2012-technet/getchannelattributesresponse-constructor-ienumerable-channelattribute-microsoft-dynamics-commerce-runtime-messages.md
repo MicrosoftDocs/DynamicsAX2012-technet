@@ -4,7 +4,7 @@ TOCTitle: GetChannelAttributesResponse Constructor (IEnumerable(ChannelAttribute
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelAttributesResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelAttribute})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelattributesresponse.getchannelattributesresponse(v=AX.60)
 ms:contentKeyID: 49839094
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

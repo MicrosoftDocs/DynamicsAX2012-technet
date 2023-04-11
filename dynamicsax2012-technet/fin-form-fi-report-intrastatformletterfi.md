@@ -4,7 +4,7 @@ TOCTitle: (FIN) Form FI report (IntrastatFormLetterFI)
 ms:assetid: 744f1ccf-98cc-4134-8811-4570232784f3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352257(v=AX.60)
 ms:contentKeyID: 36687883
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

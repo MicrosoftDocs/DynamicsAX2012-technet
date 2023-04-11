@@ -4,7 +4,7 @@ TOCTitle: Get-AXModelManifest
 ms:assetid: E0AB4577-5FB8-4A33-941B-A480583A402D
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720291(v=AX.60)
 ms:contentKeyID: 49720076
-author: Khairunj
+author: tonyafehr
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

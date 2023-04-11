@@ -4,7 +4,7 @@ TOCTitle: Get-AXSecurityRole
 ms:assetid: 891D722A-A8B9-4A6F-908B-9B8F6AC43206
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720266(v=AX.60)
 ms:contentKeyID: 49720055
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

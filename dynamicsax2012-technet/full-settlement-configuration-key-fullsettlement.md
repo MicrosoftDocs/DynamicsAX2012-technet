@@ -4,7 +4,7 @@ TOCTitle: Full settlement configuration key (FullSettlement)
 ms:assetid: d4e93ea9-7ef1-4662-9325-b17c54984be6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456320(v=AX.60)
 ms:contentKeyID: 36997775
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

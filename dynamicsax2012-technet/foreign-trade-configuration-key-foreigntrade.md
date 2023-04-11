@@ -4,7 +4,7 @@ TOCTitle: Foreign trade configuration key (ForeignTrade)
 ms:assetid: d0a74400-6db2-49a8-b1d3-26cf7f42ef0b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa599245(v=AX.60)
 ms:contentKeyID: 36993554
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

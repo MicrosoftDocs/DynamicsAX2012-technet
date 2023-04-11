@@ -4,7 +4,7 @@ TOCTitle: (GBR) Intrastat transactions report (IntrastatFormLetterUK)
 ms:assetid: 28066b32-83af-4e48-a9ad-b1dea72b6fe7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433486(v=AX.60)
 ms:contentKeyID: 36941246
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

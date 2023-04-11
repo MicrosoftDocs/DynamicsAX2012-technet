@@ -4,7 +4,7 @@ TOCTitle: Generate and print shelf labels
 ms:assetid: add049cf-c6e0-4daf-8d0d-c7b178b8d31d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597209(v=AX.60)
 ms:contentKeyID: 39519281
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

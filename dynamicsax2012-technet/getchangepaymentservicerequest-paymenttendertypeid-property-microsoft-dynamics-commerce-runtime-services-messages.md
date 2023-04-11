@@ -4,7 +4,7 @@ TOCTitle: PaymentTenderTypeId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetChangePaymentServiceRequest.PaymentTenderTypeId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getchangepaymentservicerequest.paymenttendertypeid(v=AX.60)
 ms:contentKeyID: 62207823
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Foreign trade
 ms:assetid: c34d6272-36a5-4371-be62-d7bccf35830f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242836(v=AX.60)
 ms:contentKeyID: 36059288
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

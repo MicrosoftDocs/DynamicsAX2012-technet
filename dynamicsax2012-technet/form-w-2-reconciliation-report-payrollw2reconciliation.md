@@ -4,7 +4,7 @@ TOCTitle: Form W-2 reconciliation report (PayrollW2Reconciliation)
 ms:assetid: 73691cd0-d5ee-4871-abdb-d1ac2b9e20d2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ713636(v=AX.60)
 ms:contentKeyID: 49643134
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

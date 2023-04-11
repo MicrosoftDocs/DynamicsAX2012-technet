@@ -4,7 +4,7 @@ TOCTitle: Fixed assets license code (Asset)
 ms:assetid: dea9469a-640a-436b-a1f4-147d218c3625
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500162(v=AX.60)
 ms:contentKeyID: 37820193
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

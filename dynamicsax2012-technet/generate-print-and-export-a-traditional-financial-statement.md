@@ -4,7 +4,7 @@ TOCTitle: Generate, print, and export a traditional financial statement
 ms:assetid: ca3962e2-c4cc-4372-ac5d-2158cb758421
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572662(v=AX.60)
 ms:contentKeyID: 36059331
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

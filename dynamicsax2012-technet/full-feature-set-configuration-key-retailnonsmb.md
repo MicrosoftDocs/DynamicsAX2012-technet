@@ -4,7 +4,7 @@ TOCTitle: Full feature set configuration key (RetailNonSMB)
 ms:assetid: cbd7f71f-852b-4bd6-b7f8-12cadfb35c84
 ms:mtpsurl: https://technet.microsoft.com/library/Dn794196(v=AX.60)
 ms:contentKeyID: 62732438
-author: Khairunj
+author: tonyafehr
 ms.date: 08/01/2014
 mtps_version: v=AX.60
 ---

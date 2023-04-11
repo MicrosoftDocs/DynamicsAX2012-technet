@@ -4,7 +4,7 @@ TOCTitle: (FRA) Apply a penalty when a customer payment is past due
 ms:assetid: 7b10ef47-c7db-47fe-9d92-23ea0a1fad1b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304978(v=AX.60)
 ms:contentKeyID: 54899956
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

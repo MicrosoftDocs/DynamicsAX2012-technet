@@ -4,7 +4,7 @@ TOCTitle: (FRA) Approve acceptance bill of exchange drafts
 ms:assetid: 88c27e95-38ea-4db8-beae-c8d33dd4a737
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242854(v=AX.60)
 ms:contentKeyID: 36058456
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

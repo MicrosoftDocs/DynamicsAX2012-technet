@@ -4,7 +4,7 @@ TOCTitle: FindPriceAdjustmentsDataServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.FindPriceAdjustmentsDataServiceRequest.#ctor(System.Int64,System.Int64,System.Collections.Generic.IEnumerable{System.Int64},System.String,System.String,System.DateTimeOffset)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.findpriceadjustmentsdataservicerequest.findpriceadjustmentsdataservicerequest(v=AX.60)
 ms:contentKeyID: 65322637
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (FRA) NAF codes and siret numbers
 ms:assetid: 6abe4388-baee-4a81-bc06-b4e379f438e4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585907(v=AX.60)
 ms:contentKeyID: 36059132
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Get-AXPartitionInfo
 ms:assetid: 8E97AB68-00DA-46EA-85DD-C62F91AC1E6D
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720268(v=AX.60)
 ms:contentKeyID: 49720057
-author: Khairunj
+author: tonyafehr
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

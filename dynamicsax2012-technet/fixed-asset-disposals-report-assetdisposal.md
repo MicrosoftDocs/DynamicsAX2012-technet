@@ -4,7 +4,7 @@ TOCTitle: Fixed asset disposals report (AssetDisposal)
 ms:assetid: 7200c6d8-4625-4e61-8f34-d23906023905
 ms:mtpsurl: https://technet.microsoft.com/library/Aa596814(v=AX.60)
 ms:contentKeyID: 37820218
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

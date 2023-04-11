@@ -4,7 +4,7 @@ TOCTitle: Generate and manage project quotations
 ms:assetid: c2f8669d-9294-4707-b002-709ec30b57e6
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220746(v=AX.60)
 ms:contentKeyID: 36059284
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

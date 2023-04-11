@@ -4,7 +4,7 @@ TOCTitle: Form 940 preparation report (PayrollUnemplTaxRtnPrepReport)
 ms:assetid: 51b6c5bd-2652-4804-9421-0ac71e5735e7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479037(v=AX.60)
 ms:contentKeyID: 59632405
-author: Khairunj
+author: tonyafehr
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 ---

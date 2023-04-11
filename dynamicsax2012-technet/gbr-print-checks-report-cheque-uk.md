@@ -4,7 +4,7 @@ TOCTitle: (GBR) Print checks report (Cheque_UK)
 ms:assetid: fe000fb3-f470-4507-b00d-6ad1f7482a8a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335175(v=AX.60)
 ms:contentKeyID: 36687392
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

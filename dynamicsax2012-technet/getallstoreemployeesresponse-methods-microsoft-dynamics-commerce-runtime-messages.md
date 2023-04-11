@@ -4,7 +4,7 @@ TOCTitle: GetAllStoreEmployeesResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetAllStoreEmployeesResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getallstoreemployeesresponse_methods(v=AX.60)
 ms:contentKeyID: 62213429
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

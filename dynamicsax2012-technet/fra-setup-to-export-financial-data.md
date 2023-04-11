@@ -4,7 +4,7 @@ TOCTitle: (FRA) Setup to export financial data
 ms:assetid: 55498ff6-6eac-45f0-8d7f-137161b8d07e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212802(v=AX.60)
 ms:contentKeyID: 36057314
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

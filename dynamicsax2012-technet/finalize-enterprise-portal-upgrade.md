@@ -4,7 +4,7 @@ TOCTitle: Finalize Enterprise Portal upgrade
 ms:assetid: 75df36eb-4de7-4b85-8e62-6fd36454516f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731833(v=AX.60)
 ms:contentKeyID: 35132682
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

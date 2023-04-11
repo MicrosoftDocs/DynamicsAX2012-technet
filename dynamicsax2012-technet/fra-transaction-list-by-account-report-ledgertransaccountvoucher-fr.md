@@ -4,7 +4,7 @@ TOCTitle: (FRA) Transaction list by account report (LedgerTransAccountVoucher_FR
 ms:assetid: 5295c02b-a872-4b79-96d0-405bd1dac30e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335147(v=AX.60)
 ms:contentKeyID: 36687358
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

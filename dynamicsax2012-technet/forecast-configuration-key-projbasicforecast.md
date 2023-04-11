@@ -4,7 +4,7 @@ TOCTitle: Forecast configuration key (ProjBasicForecast)
 ms:assetid: ab736a7c-1887-4951-a2fc-7aa430d8369b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa589375(v=AX.60)
 ms:contentKeyID: 39518964
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

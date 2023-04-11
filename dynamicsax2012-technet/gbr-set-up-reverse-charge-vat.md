@@ -4,7 +4,7 @@ TOCTitle: (GBR) Set up reverse charge VAT
 ms:assetid: 2eb0f836-0bcd-4cff-be12-0a332719a8c5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231022(v=AX.60)
 ms:contentKeyID: 36056280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

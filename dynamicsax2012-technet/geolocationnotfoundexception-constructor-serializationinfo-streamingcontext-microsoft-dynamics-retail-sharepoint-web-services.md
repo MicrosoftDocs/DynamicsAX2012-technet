@@ -4,7 +4,7 @@ TOCTitle: GeoLocationNotFoundException Constructor (SerializationInfo, Streaming
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.GeoLocationNotFoundException.#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.geolocationnotfoundexception.geolocationnotfoundexception(v=AX.60)
 ms:contentKeyID: 62205796
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (FRA) Set up a method of payment for French checks
 ms:assetid: eac726c5-f65f-48de-be3c-3519f1402b6a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243247(v=AX.60)
 ms:contentKeyID: 36059856
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

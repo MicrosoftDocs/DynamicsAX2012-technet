@@ -4,7 +4,7 @@ TOCTitle: GeoCode Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.GeoCode.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.geocode.geocode(v=AX.60)
 ms:contentKeyID: 65317128
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

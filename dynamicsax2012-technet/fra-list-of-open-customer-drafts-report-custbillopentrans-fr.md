@@ -4,7 +4,7 @@ TOCTitle: (FRA) List of open customer drafts report (CustBillOpenTrans_FR)
 ms:assetid: ad72f2d1-bf54-4d73-98a6-c9044472ba16
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335164(v=AX.60)
 ms:contentKeyID: 36687377
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

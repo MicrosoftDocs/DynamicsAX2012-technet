@@ -4,7 +4,7 @@ TOCTitle: GetAllStoreEmployeesRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetAllStoreEmployeesRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getallstoreemployeesrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62214980
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

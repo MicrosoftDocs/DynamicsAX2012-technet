@@ -4,7 +4,7 @@ TOCTitle: " freight forwarder"
 ms:assetid: DynamicsAXGlossary.2014316
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.2014316(v=AX.60)
 ms:contentKeyID: 62830110
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

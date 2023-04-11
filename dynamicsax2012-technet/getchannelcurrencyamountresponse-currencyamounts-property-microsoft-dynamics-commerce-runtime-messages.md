@@ -4,7 +4,7 @@ TOCTitle: CurrencyAmounts Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelCurrencyAmountResponse.CurrencyAmounts
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchannelcurrencyamountresponse.currencyamounts(v=AX.60)
 ms:contentKeyID: 62213026
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

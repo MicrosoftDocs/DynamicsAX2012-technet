@@ -4,7 +4,7 @@ TOCTitle: Generate a freight invoice and perform freight reconciliation
 ms:assetid: 9dc5d9ed-2bc5-4e54-80da-d35362546ff0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn770234(v=AX.60)
 ms:contentKeyID: 62524896
-author: Khairunj
+author: tonyafehr
 ms.date: 06/25/2014
 mtps_version: v=AX.60
 audience: Application User

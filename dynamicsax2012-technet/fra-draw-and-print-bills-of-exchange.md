@@ -4,7 +4,7 @@ TOCTitle: (FRA) Draw and print bills of exchange
 ms:assetid: 5c06df45-d2ca-4740-b8a6-74e14869d44b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242502(v=AX.60)
 ms:contentKeyID: 36057566
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

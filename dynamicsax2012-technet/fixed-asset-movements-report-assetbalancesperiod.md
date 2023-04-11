@@ -4,7 +4,7 @@ TOCTitle: Fixed asset movements report (AssetBalancesPeriod)
 ms:assetid: d680b372-bce4-4730-8edc-0c4c718dad7a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa557918(v=AX.60)
 ms:contentKeyID: 37820233
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

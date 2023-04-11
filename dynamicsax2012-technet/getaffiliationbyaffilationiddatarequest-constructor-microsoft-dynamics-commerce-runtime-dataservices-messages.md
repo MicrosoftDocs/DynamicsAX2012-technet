@@ -4,7 +4,7 @@ TOCTitle: GetAffiliationByAffilationIdDataRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetAffiliationByAffilationIdDataRequest.#ctor(System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getaffiliationbyaffilationiddatarequest.getaffiliationbyaffilationiddatarequest(v=AX.60)
 ms:contentKeyID: 65320063
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

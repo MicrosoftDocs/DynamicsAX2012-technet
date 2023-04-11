@@ -4,7 +4,7 @@ TOCTitle: (FRA) Set up a policy rule for spending thresholds by category (Public
 ms:assetid: 82d072c5-f44d-461e-9e67-19fe1f2954cf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208547(v=AX.60)
 ms:contentKeyID: 36056304
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

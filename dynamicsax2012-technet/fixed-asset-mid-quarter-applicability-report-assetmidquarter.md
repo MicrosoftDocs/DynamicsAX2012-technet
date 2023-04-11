@@ -4,7 +4,7 @@ TOCTitle: Fixed asset mid-quarter applicability report (AssetMidQuarter)
 ms:assetid: 64f52e76-101d-470c-9213-a676bdffc863
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585325(v=AX.60)
 ms:contentKeyID: 37832007
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

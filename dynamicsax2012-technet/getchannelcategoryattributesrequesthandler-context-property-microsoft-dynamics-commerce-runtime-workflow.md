@@ -4,7 +4,7 @@ TOCTitle: Context Property
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetChannelCategoryAttributesRequestHandler.Context
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getchannelcategoryattributesrequesthandler.context(v=AX.60)
 ms:contentKeyID: 65316165
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

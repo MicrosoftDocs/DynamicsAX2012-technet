@@ -4,7 +4,7 @@ TOCTitle: '(FRA) Key tasks: Mandats de paiement and bordereaux de mandat (Public
 ms:assetid: 834a3249-8e8a-4c6b-b111-442a01bfa157
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450746(v=AX.60)
 ms:contentKeyID: 36966684
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

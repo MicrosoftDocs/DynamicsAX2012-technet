@@ -4,7 +4,7 @@ TOCTitle: Generate and submit vendor payments
 ms:assetid: 1308d8d9-548a-4da5-b0c6-635e2ab92560
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230935(v=AX.60)
 ms:contentKeyID: 36056044
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (FRA) Generate a bill of exchange remittance file
 ms:assetid: f6ee8359-2083-43a9-9a1c-0430acae76fe
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243292(v=AX.60)
 ms:contentKeyID: 36060021
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Find support
 ms:assetid: f14f0ff8-d798-4cd0-a730-0a09957fdd25
 ms:mtpsurl: https://technet.microsoft.com/library/Dn756358(v=AX.60)
 ms:contentKeyID: 62524061
-author: Khairunj
+author: tonyafehr
 ms.date: 10/08/2014
 mtps_version: v=AX.60
 ---

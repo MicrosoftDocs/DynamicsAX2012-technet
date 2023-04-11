@@ -4,7 +4,7 @@ TOCTitle: Fixed asset reserve transactions report (AssetReserveTransactions)
 ms:assetid: de8b08c5-a93b-4ce9-ad7e-39967588f3f8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa591674(v=AX.60)
 ms:contentKeyID: 36687384
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

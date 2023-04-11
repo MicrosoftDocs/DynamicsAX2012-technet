@@ -4,7 +4,7 @@ TOCTitle: (FIN) Payment control report (VendOutPaymControl_FI_FOR)
 ms:assetid: 63a9e586-13df-409f-b5d5-18aa7c7282ee
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433498(v=AX.60)
 ms:contentKeyID: 36941265
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

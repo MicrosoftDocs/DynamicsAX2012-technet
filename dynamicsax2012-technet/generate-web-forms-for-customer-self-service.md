@@ -4,7 +4,7 @@ TOCTitle: Generate web forms for customer self-service
 ms:assetid: 0b402c8a-7b5b-4222-aaa5-92f81b7c4117
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569743(v=AX.60)
 ms:contentKeyID: 36055987
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (FIN) Generate a Finnish Intrastat declaration
 ms:assetid: 984fe965-37bc-4c34-9812-8c6d2c8a2c4c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209415(v=AX.60)
 ms:contentKeyID: 36058675
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

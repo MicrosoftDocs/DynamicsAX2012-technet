@@ -4,7 +4,7 @@ TOCTitle: Garnishments, tax levies, and administrative fees
 ms:assetid: 6d54d30b-38cd-48e8-a047-36b1adcbd3af
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497787(v=AX.60)
 ms:contentKeyID: 62200086
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

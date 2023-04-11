@@ -4,7 +4,7 @@ TOCTitle: Fixed-price projects - profit and loss report (ProjListEstimateWonFixe
 ms:assetid: fca45824-5faa-4c24-afb6-3e3c19f27270
 ms:mtpsurl: https://technet.microsoft.com/library/Aa634935(v=AX.60)
 ms:contentKeyID: 37832045
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

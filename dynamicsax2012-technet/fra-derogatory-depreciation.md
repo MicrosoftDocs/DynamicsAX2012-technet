@@ -4,7 +4,7 @@ TOCTitle: (FRA) Derogatory depreciation
 ms:assetid: 536d211c-fde1-41db-9e19-b15ee8440f18
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208952(v=AX.60)
 ms:contentKeyID: 36057297
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

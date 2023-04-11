@@ -4,7 +4,7 @@ TOCTitle: Find AX 2012 content
 ms:assetid: b69945d9-e766-4a15-9513-a5a847c953ce
 ms:mtpsurl: https://technet.microsoft.com/library/Hh881831(v=AX.60)
 ms:contentKeyID: 45769253
-author: Khairunj
+author: tonyafehr
 ms.date: 03/03/2015
 mtps_version: v=AX.60
 ---

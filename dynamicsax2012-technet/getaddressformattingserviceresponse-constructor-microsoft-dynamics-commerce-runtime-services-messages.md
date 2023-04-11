@@ -4,7 +4,7 @@ TOCTitle: GetAddressFormattingServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetAddressFormattingServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressFormattingInfo})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getaddressformattingserviceresponse.getaddressformattingserviceresponse(v=AX.60)
 ms:contentKeyID: 62210173
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

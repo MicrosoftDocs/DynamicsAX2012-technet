@@ -4,7 +4,7 @@ TOCTitle: (FRA) Print checks report (Cheque_FR)
 ms:assetid: f43da5af-b995-4db0-a319-dcb3dc96ebc0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335174(v=AX.60)
 ms:contentKeyID: 36687390
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

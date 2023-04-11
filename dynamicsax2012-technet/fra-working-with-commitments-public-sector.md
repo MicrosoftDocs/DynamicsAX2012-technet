@@ -4,7 +4,7 @@ TOCTitle: (FRA) Working with commitments (Public sector)
 ms:assetid: f485def0-209b-4c61-a529-39f961298876
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208607(v=AX.60)
 ms:contentKeyID: 36056398
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

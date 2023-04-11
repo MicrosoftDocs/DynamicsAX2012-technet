@@ -4,7 +4,7 @@ TOCTitle: Generate and print product labels
 ms:assetid: 92bb0377-2ec2-4d62-a481-033a1681cb8d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597174(v=AX.60)
 ms:contentKeyID: 39519234
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

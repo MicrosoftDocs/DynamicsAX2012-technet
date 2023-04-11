@@ -4,7 +4,7 @@ TOCTitle: Fixed asset depreciation books configuration key (AssetDepBook)
 ms:assetid: 1b978f95-99e5-47c6-9bfd-b4b46cbd8c6c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500149(v=AX.60)
 ms:contentKeyID: 37820179
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

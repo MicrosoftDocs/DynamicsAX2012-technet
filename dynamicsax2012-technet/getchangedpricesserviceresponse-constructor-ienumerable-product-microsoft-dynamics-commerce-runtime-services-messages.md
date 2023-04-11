@@ -4,7 +4,7 @@ TOCTitle: GetChangedPricesServiceResponse Constructor (IEnumerable(Product))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetChangedPricesServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.Product})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getchangedpricesserviceresponse.getchangedpricesserviceresponse(v=AX.60)
 ms:contentKeyID: 62210608
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

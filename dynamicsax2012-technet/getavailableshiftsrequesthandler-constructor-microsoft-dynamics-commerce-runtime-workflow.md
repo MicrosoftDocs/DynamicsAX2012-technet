@@ -4,7 +4,7 @@ TOCTitle: GetAvailableShiftsRequestHandler Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetAvailableShiftsRequestHandler.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getavailableshiftsrequesthandler.getavailableshiftsrequesthandler(v=AX.60)
 ms:contentKeyID: 62211884
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

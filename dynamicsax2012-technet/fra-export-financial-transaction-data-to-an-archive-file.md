@@ -4,7 +4,7 @@ TOCTitle: (FRA) Export financial transaction data to an archive file
 ms:assetid: 0d031c3a-a39e-4d31-8ee8-ed83e7700de6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230899(v=AX.60)
 ms:contentKeyID: 36056001
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

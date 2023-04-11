@@ -4,7 +4,7 @@ TOCTitle: Generate assembly and disassembly orders
 ms:assetid: 1e5ca3de-de9e-42c6-ba3e-0d4cecbc0ca8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497729(v=AX.60)
 ms:contentKeyID: 62344150
-author: Khairunj
+author: tonyafehr
 ms.date: 05/21/2014
 mtps_version: v=AX.60
 f1_keywords:

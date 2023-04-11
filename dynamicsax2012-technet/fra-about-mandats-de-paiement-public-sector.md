@@ -4,7 +4,7 @@ TOCTitle: (FRA) About mandats de paiement (Public sector)
 ms:assetid: adc03bf5-593c-430e-963a-e0cd45806f83
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450747(v=AX.60)
 ms:contentKeyID: 36966685
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

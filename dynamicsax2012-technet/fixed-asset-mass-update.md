@@ -4,7 +4,7 @@ TOCTitle: Fixed asset mass update
 ms:assetid: 60561904-f9a7-4750-96df-d8cf0d8aedc5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571109(v=AX.60)
 ms:contentKeyID: 36057618
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

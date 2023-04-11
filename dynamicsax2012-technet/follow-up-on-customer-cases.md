@@ -4,7 +4,7 @@ TOCTitle: Follow up on customer cases
 ms:assetid: 03c9f296-e84d-41b1-969f-6fca66d47ee9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230655(v=AX.60)
 ms:contentKeyID: 36055939
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

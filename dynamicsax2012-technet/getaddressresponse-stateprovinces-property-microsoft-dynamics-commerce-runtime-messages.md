@@ -4,7 +4,7 @@ TOCTitle: StateProvinces Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetAddressResponse.StateProvinces
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getaddressresponse.stateprovinces(v=AX.60)
 ms:contentKeyID: 62214499
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

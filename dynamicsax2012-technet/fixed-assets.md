@@ -4,7 +4,7 @@ TOCTitle: Fixed assets
 ms:assetid: 79c5f282-549d-4ad0-bded-cccc3e960758
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209261(v=AX.60)
 ms:contentKeyID: 36058242
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

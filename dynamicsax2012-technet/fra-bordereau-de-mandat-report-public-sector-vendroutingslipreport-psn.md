@@ -4,7 +4,7 @@ TOCTitle: (FRA) Bordereau de mandat report (Public sector) (VendRoutingSlipRepor
 ms:assetid: 92ec4a3b-23a3-4c8b-9eb4-1432b72add02
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450752(v=AX.60)
 ms:contentKeyID: 36966706
-author: Khairunj
+author: tonyafehr
 ms.date: 04/01/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (GBR) Create a purchase order that includes items subject to reverse c
 ms:assetid: 03fba58d-470a-4867-ac06-7592cd45b0ea
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230657(v=AX.60)
 ms:contentKeyID: 36055941
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Generate and submit vendor payments (Public sector)
 ms:assetid: d0c5fb22-a765-4cfb-8954-d2f13ebf2882
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208588(v=AX.60)
 ms:contentKeyID: 36056374
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

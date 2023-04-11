@@ -4,7 +4,7 @@ TOCTitle: Garnishment and tax levy enrollment tasks
 ms:assetid: 1aacc99e-b198-42fe-8da8-ee633c8076f4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497724(v=AX.60)
 ms:contentKeyID: 62200038
-author: Khairunj
+author: tonyafehr
 ms.date: 11/15/2014
 mtps_version: v=AX.60
 f1_keywords:

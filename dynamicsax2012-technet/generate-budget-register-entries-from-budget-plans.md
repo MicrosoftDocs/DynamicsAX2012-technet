@@ -4,7 +4,7 @@ TOCTitle: Generate budget register entries from budget plans
 ms:assetid: 0a60643e-df9a-4126-a7e1-4c900b574aac
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677321(v=AX.60)
 ms:contentKeyID: 49384094
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

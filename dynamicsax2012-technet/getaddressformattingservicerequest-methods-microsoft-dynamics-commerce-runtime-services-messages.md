@@ -4,7 +4,7 @@ TOCTitle: GetAddressFormattingServiceRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetAddressFormattingServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getaddressformattingservicerequest_methods(v=AX.60)
 ms:contentKeyID: 62207719
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

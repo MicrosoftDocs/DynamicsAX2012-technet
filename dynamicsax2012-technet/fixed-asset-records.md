@@ -4,7 +4,7 @@ TOCTitle: Fixed asset records
 ms:assetid: 5ea53226-d12a-466c-9bb8-cbd961cf6496
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527695(v=AX.60)
 ms:contentKeyID: 59626230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

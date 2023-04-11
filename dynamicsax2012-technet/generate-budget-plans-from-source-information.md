@@ -4,7 +4,7 @@ TOCTitle: Generate budget plans from source information
 ms:assetid: 10762d52-250d-4403-8d78-083dad9199e3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677325(v=AX.60)
 ms:contentKeyID: 49384099
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Generating payroll reports
 ms:assetid: 59e9512a-8ec9-4f4f-b2c8-2fde6b57c281
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677340(v=AX.60)
 ms:contentKeyID: 49384114
-author: Khairunj
+author: tonyafehr
 ms.date: 11/15/2014
 mtps_version: v=AX.60
 f1_keywords:
