@@ -4,7 +4,7 @@ TOCTitle: OldPassword Field
 ms:assetid: F:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceActionParameterNames.OldPassword
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.oldpassword(v=AX.60)
 ms:contentKeyID: 62203743
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

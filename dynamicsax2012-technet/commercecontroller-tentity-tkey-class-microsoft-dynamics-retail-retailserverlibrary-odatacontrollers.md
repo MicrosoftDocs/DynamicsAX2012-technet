@@ -4,7 +4,7 @@ TOCTitle: CommerceController(TEntity, TKey) Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController`2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn737927(v=AX.60)
 ms:contentKeyID: 62203134
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

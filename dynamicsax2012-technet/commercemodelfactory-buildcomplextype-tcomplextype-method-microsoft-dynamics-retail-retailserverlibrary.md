@@ -4,7 +4,7 @@ TOCTitle: BuildComplexType(TComplexType) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceModelFactory.BuildComplexType``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716236(v=AX.60)
 ms:contentKeyID: 62202501
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

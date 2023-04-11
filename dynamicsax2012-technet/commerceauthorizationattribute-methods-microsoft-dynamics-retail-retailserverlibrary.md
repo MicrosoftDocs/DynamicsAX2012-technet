@@ -4,7 +4,7 @@ TOCTitle: CommerceAuthorizationAttribute Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceAuthorizationAttribute
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceauthorizationattribute_methods(v=AX.60)
 ms:contentKeyID: 62203075
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

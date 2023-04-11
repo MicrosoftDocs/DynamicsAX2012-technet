@@ -4,7 +4,7 @@ TOCTitle: LogonKey Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.CommerceIdentity.LogonKey
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.commerceidentity.logonkey(v=AX.60)
 ms:contentKeyID: 65319122
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

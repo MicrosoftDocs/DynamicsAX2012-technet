@@ -4,7 +4,7 @@ TOCTitle: AddToCommerceList Method (String, CommerceListLine)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.CommerceListManager.AddToCommerceList(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceListLine)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.commercelistmanager.addtocommercelist(v=AX.60)
 ms:contentKeyID: 62207718
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

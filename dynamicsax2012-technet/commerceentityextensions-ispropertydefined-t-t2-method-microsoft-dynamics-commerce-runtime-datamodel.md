@@ -4,7 +4,7 @@ TOCTitle: IsPropertyDefined(T, T2) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceEntityExtensions.IsPropertyDefined``2(``0,System.Linq.Expressions.Expression{System.Func{``0,``1}})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn998602(v=AX.60)
 ms:contentKeyID: 65317033
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: CheckAccessManager Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.CommerceAuthorization.CheckAccessManager(Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.commerceauthorization.checkaccessmanager(v=AX.60)
 ms:contentKeyID: 62208112
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

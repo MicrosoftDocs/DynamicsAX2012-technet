@@ -4,7 +4,7 @@ TOCTitle: StaffIdClaimType Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceClaimType.StaffIdClaimType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commerceclaimtype.staffidclaimtype(v=AX.60)
 ms:contentKeyID: 62208105
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
