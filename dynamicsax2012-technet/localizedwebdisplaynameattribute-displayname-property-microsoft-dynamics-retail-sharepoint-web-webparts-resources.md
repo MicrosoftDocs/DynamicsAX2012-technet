@@ -4,7 +4,7 @@ TOCTitle: DisplayName Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Resources.LocalizedWebDisplayNameAttribute.DisplayName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.resources.localizedwebdisplaynameattribute.displayname(v=AX.60)
 ms:contentKeyID: 62203328
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

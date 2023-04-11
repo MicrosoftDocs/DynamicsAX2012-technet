@@ -4,7 +4,7 @@ TOCTitle: Journals and posting in cost accounting
 ms:assetid: 4799c426-3676-4688-8653-a7313b272d4a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496997(v=AX.60)
 ms:contentKeyID: 36056912
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GiftCardAmount Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.Listing.GiftCardAmount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.listing.giftcardamount(v=AX.60)
 ms:contentKeyID: 65318071
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

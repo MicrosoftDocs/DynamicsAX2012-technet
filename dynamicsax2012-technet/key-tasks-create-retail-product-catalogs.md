@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Create retail product catalogs'
 ms:assetid: e0af4c3e-0908-4bf9-8193-522a102bb772
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728712(v=AX.60)
 ms:contentKeyID: 49556617
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

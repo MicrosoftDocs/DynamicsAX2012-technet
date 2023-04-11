@@ -4,7 +4,7 @@ TOCTitle: EntryDateTime Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.LoyaltyCardTransaction.EntryDateTime
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.loyaltycardtransaction.entrydatetime(v=AX.60)
 ms:contentKeyID: 62209429
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

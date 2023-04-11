@@ -4,7 +4,7 @@ TOCTitle: Lean manufacturing configuration key (LeanManufacturing)
 ms:assetid: 8b4de806-056e-4a44-8537-c13574828f3c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500662(v=AX.60)
 ms:contentKeyID: 37822135
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

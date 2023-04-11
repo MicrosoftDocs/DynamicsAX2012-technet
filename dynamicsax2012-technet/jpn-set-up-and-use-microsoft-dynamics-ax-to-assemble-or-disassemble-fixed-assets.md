@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up and use Microsoft Dynamics AX to assemble or disassemble 
 ms:assetid: 06267752-0d30-472d-b4d9-0d76b7c0c5d8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716010(v=AX.60)
 ms:contentKeyID: 62200253
-author: Khairunj
+author: tonyafehr
 ms.date: 07/16/2014
 mtps_version: v=AX.60
 f1_keywords:

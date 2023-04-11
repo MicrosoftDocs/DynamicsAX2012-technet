@@ -4,7 +4,7 @@ TOCTitle: GetLoyaltyCardTransactions Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.LoyaltyController.GetLoyaltyCardTransactions(System.String,System.String,System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.loyaltycontroller.getloyaltycardtransactions(v=AX.60)
 ms:contentKeyID: 65316429
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Vendor payments and settlements'
 ms:assetid: c5d99b1a-bb20-416a-8ea1-4b7b7d4bc8e3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242843(v=AX.60)
 ms:contentKeyID: 36059305
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

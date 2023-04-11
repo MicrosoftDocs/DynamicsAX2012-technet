@@ -4,7 +4,7 @@ TOCTitle: (LTU) Review the asset packing slip details and print the packing slip
 ms:assetid: 82c9f850-6d73-4445-9bd8-f6d6b55e7212
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665128(v=AX.60)
 ms:contentKeyID: 49386709
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

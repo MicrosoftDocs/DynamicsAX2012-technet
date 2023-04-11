@@ -4,7 +4,7 @@ TOCTitle: Letter of guarantee expiration dates report (BankLGExpiryDate)
 ms:assetid: 4ac622f2-9f2d-4329-9d83-ee47fa8c7498
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352249(v=AX.60)
 ms:contentKeyID: 36687875
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

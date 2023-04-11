@@ -4,7 +4,7 @@ TOCTitle: ConfigurationIdentifier Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.KitConfigurationInformation.ConfigurationIdentifier
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.kitconfigurationinformation.configurationidentifier(v=AX.60)
 ms:contentKeyID: 62203601
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

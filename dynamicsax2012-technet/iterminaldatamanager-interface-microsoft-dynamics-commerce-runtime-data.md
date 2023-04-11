@@ -4,7 +4,7 @@ TOCTitle: ITerminalDataManager Interface
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Data.ITerminalDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.iterminaldatamanager(v=AX.60)
 ms:contentKeyID: 62208560
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

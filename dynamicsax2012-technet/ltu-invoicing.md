@@ -4,7 +4,7 @@ TOCTitle: (LTU) Invoicing
 ms:assetid: d4cf2bdb-6acf-4861-973a-dc165f0aba9c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665198(v=AX.60)
 ms:contentKeyID: 49386779
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

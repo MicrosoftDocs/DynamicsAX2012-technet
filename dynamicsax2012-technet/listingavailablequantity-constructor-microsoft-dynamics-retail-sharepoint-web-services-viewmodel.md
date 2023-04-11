@@ -4,7 +4,7 @@ TOCTitle: ListingAvailableQuantity Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ListingAvailableQuantity.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.listingavailablequantity.listingavailablequantity(v=AX.60)
 ms:contentKeyID: 62207120
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

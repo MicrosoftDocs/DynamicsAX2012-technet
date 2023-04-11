@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up sales tax reporting
 ms:assetid: 957a798a-8a83-48da-868b-cae9a7b837af
 ms:mtpsurl: https://technet.microsoft.com/library/Dn528957(v=AX.60)
 ms:contentKeyID: 59641346
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

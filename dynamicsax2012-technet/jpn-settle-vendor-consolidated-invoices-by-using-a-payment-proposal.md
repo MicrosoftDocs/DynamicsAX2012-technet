@@ -4,7 +4,7 @@ TOCTitle: (JPN) Settle vendor consolidated invoices by using a payment proposal
 ms:assetid: f2f2b651-ae4d-4bfe-890f-ab190c3dbba9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664989(v=AX.60)
 ms:contentKeyID: 49386573
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

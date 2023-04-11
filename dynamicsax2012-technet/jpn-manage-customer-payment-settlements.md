@@ -4,7 +4,7 @@ TOCTitle: (JPN) Manage customer payment settlements
 ms:assetid: 05a6dd11-1972-4900-837a-d08864718f5f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711002(v=AX.60)
 ms:contentKeyID: 49386413
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

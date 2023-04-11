@@ -4,7 +4,7 @@ TOCTitle: GetNumberOfDecimals Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV3.GetNumberOfDecimals(System.Decimal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv3.getnumberofdecimals(v=AX.60)
 ms:contentKeyID: 51677232
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

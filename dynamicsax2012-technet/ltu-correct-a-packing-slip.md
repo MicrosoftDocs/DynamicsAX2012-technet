@@ -4,7 +4,7 @@ TOCTitle: (LTU) Correct a packing slip
 ms:assetid: 6ee9bdf3-40aa-40ce-8d5a-1faa969a47bc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665110(v=AX.60)
 ms:contentKeyID: 49386692
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

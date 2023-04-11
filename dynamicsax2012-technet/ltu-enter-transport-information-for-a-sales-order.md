@@ -4,7 +4,7 @@ TOCTitle: (LTU) Enter transport information for a sales order
 ms:assetid: 31cabc00-c590-4f2c-a7a8-ac5956d67e54
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665052(v=AX.60)
 ms:contentKeyID: 49386634
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Equals Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemUnitQuantity.Equals
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemunitquantity.equals(v=AX.60)
 ms:contentKeyID: 49829094
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

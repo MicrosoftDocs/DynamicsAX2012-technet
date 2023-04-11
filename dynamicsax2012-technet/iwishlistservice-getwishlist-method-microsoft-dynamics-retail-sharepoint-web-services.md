@@ -4,7 +4,7 @@ TOCTitle: GetWishList Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.IWishListService.GetWishList(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.iwishlistservice.getwishlist(v=AX.60)
 ms:contentKeyID: 62206987
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

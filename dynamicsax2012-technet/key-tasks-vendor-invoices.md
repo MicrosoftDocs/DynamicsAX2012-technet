@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Vendor invoices'
 ms:assetid: 62f9fc46-4028-4358-99b1-c8a8cf008884
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209199(v=AX.60)
 ms:contentKeyID: 36057680
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

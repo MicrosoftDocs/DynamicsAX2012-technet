@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Create a kanban rule'
 ms:assetid: 774c0011-d9ad-425f-a5a9-1fb22a8a9018
 ms:mtpsurl: https://technet.microsoft.com/library/Hh850371(v=AX.60)
 ms:contentKeyID: 45442190
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

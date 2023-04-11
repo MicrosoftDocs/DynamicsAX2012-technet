@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up manufacturing execution'
 ms:assetid: bdada46b-1d4e-4213-907f-20fcae1c3e85
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242779(v=AX.60)
 ms:contentKeyID: 36059158
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

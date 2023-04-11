@@ -4,7 +4,7 @@ TOCTitle: LineDeliveryPreference Constructor (String, IEnumerable(DeliveryPrefer
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.LineDeliveryPreference.#ctor(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DeliveryPreferenceType})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.linedeliverypreference.linedeliverypreference(v=AX.60)
 ms:contentKeyID: 65320614
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

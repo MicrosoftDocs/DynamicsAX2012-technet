@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up phonetic names for vendors, employees, customers, contact
 ms:assetid: 62e52eab-c0f8-42c0-8463-648f34f03093
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711064(v=AX.60)
 ms:contentKeyID: 49386475
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

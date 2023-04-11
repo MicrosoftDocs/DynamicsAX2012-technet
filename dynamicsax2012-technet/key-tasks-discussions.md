@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Discussions'
 ms:assetid: c410613b-4a1f-4989-b98e-0006a32fdbfb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ966246(v=AX.60)
 ms:contentKeyID: 51439431
-author: Khairunj
+author: tonyafehr
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 audience: Application User

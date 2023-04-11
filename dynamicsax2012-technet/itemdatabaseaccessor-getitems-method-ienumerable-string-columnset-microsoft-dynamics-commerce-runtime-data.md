@@ -4,7 +4,7 @@ TOCTitle: GetItems Method (IEnumerable(String), ColumnSet)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ItemDatabaseAccessor.GetItems(System.Collections.Generic.IEnumerable{System.String},Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.itemdatabaseaccessor.getitems(v=AX.60)
 ms:contentKeyID: 62212102
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

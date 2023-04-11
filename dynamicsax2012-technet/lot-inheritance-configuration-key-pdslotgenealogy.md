@@ -4,7 +4,7 @@ TOCTitle: Lot inheritance configuration key (PDSLotGenealogy)
 ms:assetid: c038fe81-c08d-494d-a011-e6c4a11edb74
 ms:mtpsurl: https://technet.microsoft.com/library/Dn782847(v=AX.60)
 ms:contentKeyID: 62817386
-author: Khairunj
+author: tonyafehr
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---

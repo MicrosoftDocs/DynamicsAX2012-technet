@@ -4,7 +4,7 @@ TOCTitle: KitVariantContent Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitVariantContent
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitvariantcontent_properties(v=AX.60)
 ms:contentKeyID: 62214634
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

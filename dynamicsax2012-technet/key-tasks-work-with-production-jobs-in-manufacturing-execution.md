@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Work with production jobs in Manufacturing execution'
 ms:assetid: c4d53512-bb9e-491e-a0fc-9a619cad5778
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242841(v=AX.60)
 ms:contentKeyID: 36059297
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Existing worker positions'
 ms:assetid: 9cc83f70-ea9f-49b0-ace7-84c9a0ae161b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ729756(v=AX.60)
 ms:contentKeyID: 49564922
-author: Khairunj
+author: tonyafehr
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 f1_keywords:

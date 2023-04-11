@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up a vendor bank account for bank payments transfer
 ms:assetid: 47c6f762-f010-4c4d-a7a9-67428df291e2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665068(v=AX.60)
 ms:contentKeyID: 49386649
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

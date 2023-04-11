@@ -4,7 +4,7 @@ TOCTitle: Execute Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.LoyaltyCardService.Execute(Microsoft.Dynamics.Commerce.Runtime.Messages.Request)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.loyaltycardservice.execute(v=AX.60)
 ms:contentKeyID: 65322145
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

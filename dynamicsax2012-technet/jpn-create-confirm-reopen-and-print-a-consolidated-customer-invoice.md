@@ -4,7 +4,7 @@ TOCTitle: (JPN) Create, confirm, reopen, and print a consolidated customer invoi
 ms:assetid: bbd359d6-2e03-4852-9811-6ad5f254e649
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664961(v=AX.60)
 ms:contentKeyID: 49386545
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

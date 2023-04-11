@@ -4,7 +4,7 @@ TOCTitle: (JPN) Draw customer payments through bills of exchange
 ms:assetid: 01476c60-55c1-40f6-b5c6-b3fbd486c547
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710994(v=AX.60)
 ms:contentKeyID: 49386407
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

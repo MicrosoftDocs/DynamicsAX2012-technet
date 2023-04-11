@@ -4,7 +4,7 @@ TOCTitle: (LTU) Post a correcting invoice for a sales order
 ms:assetid: 7fd912e4-8473-4d4c-ae4e-845c1f3676cd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665130(v=AX.60)
 ms:contentKeyID: 49386711
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

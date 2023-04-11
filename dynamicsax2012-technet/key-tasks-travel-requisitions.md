@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Travel requisitions'
 ms:assetid: f8af6df0-7742-40a4-9921-cd439f3fd476
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299230(v=AX.60)
 ms:contentKeyID: 36384336
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

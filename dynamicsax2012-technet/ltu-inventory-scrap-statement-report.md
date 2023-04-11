@@ -4,7 +4,7 @@ TOCTitle: (LTU) Inventory scrap statement (report)
 ms:assetid: 771ce255-9f87-4371-ae20-4248f90c9ba2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874409(v=AX.60)
 ms:contentKeyID: 50619725
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

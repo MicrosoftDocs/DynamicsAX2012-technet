@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up and maintain procurement category hierarchies'
 ms:assetid: 590d8f83-2345-473d-bc3b-92eeacdee69e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208974(v=AX.60)
 ms:contentKeyID: 36057346
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

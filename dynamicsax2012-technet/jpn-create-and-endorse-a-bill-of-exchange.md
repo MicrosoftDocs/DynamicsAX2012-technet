@@ -4,7 +4,7 @@ TOCTitle: (JPN) Create and endorse a bill of exchange
 ms:assetid: c1c22cfc-9812-4f64-af12-b905eb9df72a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911062(v=AX.60)
 ms:contentKeyID: 52075312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

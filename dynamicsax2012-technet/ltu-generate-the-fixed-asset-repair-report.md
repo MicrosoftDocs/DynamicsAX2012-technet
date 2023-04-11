@@ -4,7 +4,7 @@ TOCTitle: (LTU) Generate the fixed asset repair report
 ms:assetid: 516125d5-7e61-4281-b047-a8a4e046dcc7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856109(v=AX.60)
 ms:contentKeyID: 50406408
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Link main accounts to main account categories
 ms:assetid: 6f061d82-e484-46bc-8818-6b2e593fba6d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231818(v=AX.60)
 ms:contentKeyID: 36058041
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

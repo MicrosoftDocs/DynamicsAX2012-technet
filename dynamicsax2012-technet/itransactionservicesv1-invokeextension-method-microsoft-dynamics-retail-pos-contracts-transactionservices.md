@@ -4,7 +4,7 @@ TOCTitle: InvokeExtension Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices.ITransactionServicesV1.InvokeExtension(System.String,System.Object[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.transactionservices.itransactionservicesv1.invokeextension(v=AX.60)
 ms:contentKeyID: 47128197
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

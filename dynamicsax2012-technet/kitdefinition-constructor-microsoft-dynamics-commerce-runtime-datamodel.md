@@ -4,7 +4,7 @@ TOCTitle: KitDefinition Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitDefinition.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitdefinition.kitdefinition(v=AX.60)
 ms:contentKeyID: 62212748
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

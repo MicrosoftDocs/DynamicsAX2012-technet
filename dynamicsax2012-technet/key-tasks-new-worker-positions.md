@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: New worker positions'
 ms:assetid: cf6ffc13-11af-4402-b6dd-8781408db244
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242914(v=AX.60)
 ms:contentKeyID: 36059479
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

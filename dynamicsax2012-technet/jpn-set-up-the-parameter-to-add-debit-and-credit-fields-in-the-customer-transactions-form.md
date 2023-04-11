@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up the parameter to add debit and credit fields in the Custo
 ms:assetid: 95c330ab-ca49-4323-a15e-9dbfdb1b0a0f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn282398(v=AX.60)
 ms:contentKeyID: 54906862
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

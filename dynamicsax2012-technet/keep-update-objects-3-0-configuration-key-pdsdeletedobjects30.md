@@ -4,7 +4,7 @@ TOCTitle: Keep update objects 3.0 configuration key (PdsDeletedObjects30)
 ms:assetid: edd673c3-25b7-4149-b11e-ddb806439198
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496442(v=AX.60)
 ms:contentKeyID: 37072025
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

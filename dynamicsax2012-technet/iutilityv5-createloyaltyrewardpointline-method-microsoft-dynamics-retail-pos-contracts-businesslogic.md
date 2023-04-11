@@ -4,7 +4,7 @@ TOCTitle: CreateLoyaltyRewardPointLine Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV5.CreateLoyaltyRewardPointLine
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv5.createloyaltyrewardpointline(v=AX.60)
 ms:contentKeyID: 62203324
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

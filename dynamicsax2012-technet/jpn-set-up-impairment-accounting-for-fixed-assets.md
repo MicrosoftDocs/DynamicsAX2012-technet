@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up impairment accounting for fixed assets
 ms:assetid: c88ab5ee-6e1e-4813-95d8-812fcc4d444b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn532268(v=AX.60)
 ms:contentKeyID: 59930767
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Lead qualifying process configuration key (smmSMLeadProcess)
 ms:assetid: 38cade19-eb36-446f-86b7-52bb2be323d0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416658(v=AX.60)
 ms:contentKeyID: 36931824
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (JPN) Setting up bank account information
 ms:assetid: f24315be-0284-4b25-9f09-4fb0ef402071
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664986(v=AX.60)
 ms:contentKeyID: 49386570
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Journalizing configuration key (LedgerBasicJournalizeTransactions)
 ms:assetid: b84081f4-c345-4e67-b5f7-c13694427ada
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467562(v=AX.60)
 ms:contentKeyID: 36991708
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

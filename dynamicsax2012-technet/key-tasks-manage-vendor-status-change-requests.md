@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage vendor status change requests'
 ms:assetid: fb018b50-da3d-4254-ac4e-b58f80438fff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ735276(v=AX.60)
 ms:contentKeyID: 49693277
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

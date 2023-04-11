@@ -4,7 +4,7 @@ TOCTitle: Ledger transaction reversal configuration key (TransactionReversal_Led
 ms:assetid: 734e1476-0e9f-427b-a253-ab89246dfde7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467554(v=AX.60)
 ms:contentKeyID: 36991701
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

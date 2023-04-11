@@ -4,7 +4,7 @@ TOCTitle: (JPN) Define tax reporting codes for sales tax codes and attach to tax
 ms:assetid: 1c11d9d8-c9fd-44d7-8f5c-d55e7f9f0a69
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711017(v=AX.60)
 ms:contentKeyID: 49386426
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

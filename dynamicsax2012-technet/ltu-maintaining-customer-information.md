@@ -4,7 +4,7 @@ TOCTitle: (LTU) Maintaining customer information
 ms:assetid: 1d7a750f-15e6-4ebb-b724-9f1bdddafae9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665030(v=AX.60)
 ms:contentKeyID: 49386612
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Listing Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.Listing
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.listing_properties(v=AX.60)
 ms:contentKeyID: 65316839
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

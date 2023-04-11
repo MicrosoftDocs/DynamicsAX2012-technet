@@ -4,7 +4,7 @@ TOCTitle: (LTU) Process sales orders overview
 ms:assetid: 4eeed755-6dc8-4f08-8291-b44c7a407c0a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665077(v=AX.60)
 ms:contentKeyID: 49386659
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

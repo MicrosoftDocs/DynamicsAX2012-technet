@@ -4,7 +4,7 @@ TOCTitle: KitVariantContent Constructor (Int64, ICollection(KitComponentKey))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitVariantContent.#ctor(System.Int64,System.Collections.Generic.ICollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.KitComponentKey})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitvariantcontent.kitvariantcontent(v=AX.60)
 ms:contentKeyID: 62206614
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Line property setup report (ProjListLineProperty)
 ms:assetid: db10439f-afef-40b8-af58-f0039d6f32da
 ms:mtpsurl: https://technet.microsoft.com/library/Aa620113(v=AX.60)
 ms:contentKeyID: 36941306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

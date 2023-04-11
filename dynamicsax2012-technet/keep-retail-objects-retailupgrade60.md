@@ -4,7 +4,7 @@ TOCTitle: Keep retail objects (RetailUpgrade60)
 ms:assetid: aeae2fd9-1841-4b26-a861-a4e63eb9efef
 ms:mtpsurl: https://technet.microsoft.com/library/Dn776323(v=AX.60)
 ms:contentKeyID: 62634606
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

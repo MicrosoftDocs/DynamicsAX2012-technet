@@ -4,7 +4,7 @@ TOCTitle: (JPN) Mark purchase invoices for consolidation and calculate due dates
 ms:assetid: 38893fa7-4b7f-4e4f-b58c-7f5c665bdd0d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711032(v=AX.60)
 ms:contentKeyID: 49386443
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

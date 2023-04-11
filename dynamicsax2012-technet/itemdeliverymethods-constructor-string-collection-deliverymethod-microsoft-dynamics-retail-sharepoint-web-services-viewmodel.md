@@ -4,7 +4,7 @@ TOCTitle: ItemDeliveryMethods Constructor (String, Collection(DeliveryMethod))
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ItemDeliveryMethods.#ctor(System.String,System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.DeliveryMethod})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.itemdeliverymethods.itemdeliverymethods(v=AX.60)
 ms:contentKeyID: 62207364
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

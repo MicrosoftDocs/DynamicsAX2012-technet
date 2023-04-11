@@ -4,7 +4,7 @@ TOCTitle: CreateDiscountItem Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtility.CreateDiscountItem
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutility.creatediscountitem(v=AX.60)
 ms:contentKeyID: 62205177
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

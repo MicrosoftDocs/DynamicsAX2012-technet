@@ -4,7 +4,7 @@ TOCTitle: (JPN) Settle customer consolidated invoices by using a payment journal
 ms:assetid: 87e4ae3b-2c12-4b50-92d8-db202198b29e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711085(v=AX.60)
 ms:contentKeyID: 49386495
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (JPN) Fixed assets
 ms:assetid: 35ede893-0ea7-4d47-9174-cba79927ff5b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn313052(v=AX.60)
 ms:contentKeyID: 54936299
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

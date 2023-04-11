@@ -4,7 +4,7 @@ TOCTitle: Join Enterprise Portal servers into a single server farm
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 08/28/2020
 mtps_version: v=AX.60
 ---

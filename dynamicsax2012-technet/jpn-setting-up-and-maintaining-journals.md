@@ -4,7 +4,7 @@ TOCTitle: (JPN) Setting up and maintaining journals
 ms:assetid: 21da489d-c4ab-42c6-a1b1-15a839e5ea67
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711018(v=AX.60)
 ms:contentKeyID: 49386427
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

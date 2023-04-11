@@ -4,7 +4,7 @@ TOCTitle: (JPN) Invoice customers
 ms:assetid: 96633a06-b765-492a-81c9-1c31de7366cb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711099(v=AX.60)
 ms:contentKeyID: 49386510
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up a bank account for bank payments transfer
 ms:assetid: 89478d32-1eae-4153-8d08-2f739cd591e0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665134(v=AX.60)
 ms:contentKeyID: 49386714
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: DeactivateAddress Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices.ITransactionServicesV1.DeactivateAddress(System.Boolean@,System.String@,System.Int64,System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.transactionservices.itransactionservicesv1.deactivateaddress(v=AX.60)
 ms:contentKeyID: 49829633
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

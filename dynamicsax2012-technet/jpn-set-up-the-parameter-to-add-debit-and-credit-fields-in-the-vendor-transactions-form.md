@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up the parameter to add debit and credit fields in the Vendo
 ms:assetid: b521ce80-cfd9-4fd5-a2e5-655b34f78043
 ms:mtpsurl: https://technet.microsoft.com/library/Dn282399(v=AX.60)
 ms:contentKeyID: 54906861
-author: Khairunj
+author: tonyafehr
 ms.date: 01/21/2017
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (JPN) Collect for product or service overview
 ms:assetid: 03e09b89-1315-40b3-8120-b864caebcb09
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711001(v=AX.60)
 ms:contentKeyID: 49386412
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

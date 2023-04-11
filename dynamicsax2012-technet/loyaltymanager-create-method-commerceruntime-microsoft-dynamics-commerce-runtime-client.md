@@ -4,7 +4,7 @@ TOCTitle: Create Method (CommerceRuntime)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.LoyaltyManager.Create(Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.loyaltymanager.create(v=AX.60)
 ms:contentKeyID: 62205953
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

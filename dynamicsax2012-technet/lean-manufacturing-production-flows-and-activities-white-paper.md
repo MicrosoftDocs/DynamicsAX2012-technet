@@ -4,7 +4,7 @@ TOCTitle: 'Lean Manufacturing: Production Flows and Activities'
 ms:assetid: b2eb87ec-4bf9-4ff7-a165-3c3c4d7b838f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272876(v=AX.60)
 ms:contentKeyID: 36584400
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

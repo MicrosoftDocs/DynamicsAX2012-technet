@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Free text invoices'
 ms:assetid: 1a677114-5983-4d48-8d00-4ab9ae531cd1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208454(v=AX.60)
 ms:contentKeyID: 36056120
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

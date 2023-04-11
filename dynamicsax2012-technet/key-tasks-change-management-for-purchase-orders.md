@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Change management for purchase orders'
 ms:assetid: 1f149219-fb27-4386-997b-139f053588c3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh802989(v=AX.60)
 ms:contentKeyID: 44080955
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

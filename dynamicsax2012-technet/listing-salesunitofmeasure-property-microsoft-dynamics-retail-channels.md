@@ -4,7 +4,7 @@ TOCTitle: SalesUnitOfMeasure Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Channels.Listing.SalesUnitOfMeasure
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.channels.listing.salesunitofmeasure(v=AX.60)
 ms:contentKeyID: 65317104
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

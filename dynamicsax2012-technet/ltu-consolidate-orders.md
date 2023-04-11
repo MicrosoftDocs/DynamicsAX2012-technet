@@ -4,7 +4,7 @@ TOCTitle: (LTU) Consolidate orders
 ms:assetid: 269ec1ee-8604-4633-bd5d-56d9393a689b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665037(v=AX.60)
 ms:contentKeyID: 49386619
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

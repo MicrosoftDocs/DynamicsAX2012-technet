@@ -4,7 +4,7 @@ TOCTitle: ITriggersV1 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.ITriggersV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.itriggersv1_properties(v=AX.60)
 ms:contentKeyID: 47129028
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

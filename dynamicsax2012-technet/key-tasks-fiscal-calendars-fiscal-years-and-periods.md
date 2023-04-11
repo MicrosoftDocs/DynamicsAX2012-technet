@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Fiscal calendars, fiscal years, and periods'
 ms:assetid: 149a5222-97df-404f-be70-c1ade1daf663
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242146(v=AX.60)
 ms:contentKeyID: 36056056
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: CreateLoyaltyItem Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV2.CreateLoyaltyItem
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv2.createloyaltyitem(v=AX.60)
 ms:contentKeyID: 49826235
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

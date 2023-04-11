@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up positive debit and credit amounts
 ms:assetid: c25cf6ed-ba5f-4766-956b-730088ed0230
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664962(v=AX.60)
 ms:contentKeyID: 49386546
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

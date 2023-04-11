@@ -4,7 +4,7 @@ TOCTitle: Journal list report (LedgerJournal)
 ms:assetid: 2959027e-e523-4885-a538-243cfcafd3b0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500587(v=AX.60)
 ms:contentKeyID: 36057549
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

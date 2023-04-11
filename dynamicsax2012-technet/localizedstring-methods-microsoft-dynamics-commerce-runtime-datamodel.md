@@ -4,7 +4,7 @@ TOCTitle: LocalizedString Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.LocalizedString
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.localizedstring_methods(v=AX.60)
 ms:contentKeyID: 62208025
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

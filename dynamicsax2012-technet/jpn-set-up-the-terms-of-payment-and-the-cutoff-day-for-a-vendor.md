@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up the terms of payment and the cutoff day for a vendor
 ms:assetid: 5b57da09-9b75-44b1-8e4d-875295b2130f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711058(v=AX.60)
 ms:contentKeyID: 49386469
-author: Khairunj
+author: tonyafehr
 ms.date: 01/21/2017
 mtps_version: v=AX.60
 audience: Application User

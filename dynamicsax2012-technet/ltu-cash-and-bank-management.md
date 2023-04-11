@@ -4,7 +4,7 @@ TOCTitle: (LTU) Cash and bank management
 ms:assetid: bd7b469d-3fec-4443-86e8-40d6e1b1127f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665176(v=AX.60)
 ms:contentKeyID: 49386757
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

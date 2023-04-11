@@ -4,7 +4,7 @@ TOCTitle: OnPreInit Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.LoginLayout.OnPreInit(System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.loginlayout.onpreinit(v=AX.60)
 ms:contentKeyID: 62203565
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

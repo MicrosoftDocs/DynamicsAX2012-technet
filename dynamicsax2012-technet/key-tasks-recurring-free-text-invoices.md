@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Recurring free text invoices'
 ms:assetid: e8bfcf86-86a2-48a3-b9f5-ee21d18c4248
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227473(v=AX.60)
 ms:contentKeyID: 36059840
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

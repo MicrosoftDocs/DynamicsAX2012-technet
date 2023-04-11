@@ -4,7 +4,7 @@ TOCTitle: NewCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices.ITransactionServicesV1.NewCustomer(System.Boolean@,System.String@,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomer@,System.Int64,System.Collections.Generic.IList{System.Int64}@)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.transactionservices.itransactionservicesv1.newcustomer(v=AX.60)
 ms:contentKeyID: 47128846
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

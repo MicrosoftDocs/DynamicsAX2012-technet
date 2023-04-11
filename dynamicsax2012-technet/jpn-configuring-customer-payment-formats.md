@@ -4,7 +4,7 @@ TOCTitle: (JPN) Configuring customer payment formats
 ms:assetid: d8a8036e-50a3-4859-b68a-53af7091e527
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664974(v=AX.60)
 ms:contentKeyID: 49386558
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

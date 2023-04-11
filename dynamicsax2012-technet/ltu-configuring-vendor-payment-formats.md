@@ -4,7 +4,7 @@ TOCTitle: (LTU) Configuring vendor payment formats
 ms:assetid: 5a6b79fb-f058-4b89-aa3b-ef726bcb6228
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665096(v=AX.60)
 ms:contentKeyID: 49386677
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

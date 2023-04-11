@@ -4,7 +4,7 @@ TOCTitle: (JPN) Transfer or lend assets overview
 ms:assetid: 3dc2ccbe-7f4b-40de-b402-be3cd0997e6d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn505755(v=AX.60)
 ms:contentKeyID: 59614111
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

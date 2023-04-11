@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Letter of credit or import collection for the import of it
 ms:assetid: 022dec01-5141-4a3f-8936-43b12f7acef1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242097(v=AX.60)
 ms:contentKeyID: 36055925
-author: Khairunj
+author: tonyafehr
 ms.date: 05/21/2016
 mtps_version: v=AX.60
 audience: Application User

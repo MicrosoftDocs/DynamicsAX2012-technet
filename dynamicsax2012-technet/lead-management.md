@@ -4,7 +4,7 @@ TOCTitle: Lead management
 ms:assetid: 7989d576-8708-4473-90fa-324846b68776
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213017(v=AX.60)
 ms:contentKeyID: 36058240
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

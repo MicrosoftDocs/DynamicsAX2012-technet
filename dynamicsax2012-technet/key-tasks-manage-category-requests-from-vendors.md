@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage category requests from vendors'
 ms:assetid: 2abe85e7-d779-418a-8a98-4d021738a62e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ735273(v=AX.60)
 ms:contentKeyID: 49693274
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

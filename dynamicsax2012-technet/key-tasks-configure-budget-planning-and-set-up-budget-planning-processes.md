@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Configure budget planning and set up budget planning proce
 ms:assetid: 70ce9e1b-d81c-4568-b631-e4cc929141de
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677344(v=AX.60)
 ms:contentKeyID: 49384118
-author: Khairunj
+author: tonyafehr
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 f1_keywords:

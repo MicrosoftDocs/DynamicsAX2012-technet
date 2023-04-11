@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Audit policies'
 ms:assetid: 6f34aced-dcd8-43ab-9d0f-763f8c5e2b7a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242643(v=AX.60)
 ms:contentKeyID: 36058043
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

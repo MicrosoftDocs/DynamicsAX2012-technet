@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Prepayments'
 ms:assetid: 047ed3e2-c3a7-4e7e-bc9e-9a8ce6ec6f11
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242104(v=AX.60)
 ms:contentKeyID: 36055947
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

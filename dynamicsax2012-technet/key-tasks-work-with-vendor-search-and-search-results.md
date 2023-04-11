@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Work with vendor search and search results'
 ms:assetid: 01f5affc-6ade-4ec0-9a43-cde7e080082c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242095(v=AX.60)
 ms:contentKeyID: 36055923
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

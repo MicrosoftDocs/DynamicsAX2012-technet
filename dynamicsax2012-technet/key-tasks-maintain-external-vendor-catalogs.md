@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Maintain external vendor catalogs'
 ms:assetid: b1bce455-9743-41b6-a53f-f04abbdc50cb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242747(v=AX.60)
 ms:contentKeyID: 36059054
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

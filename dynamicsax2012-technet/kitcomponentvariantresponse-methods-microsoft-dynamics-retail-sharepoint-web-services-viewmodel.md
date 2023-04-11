@@ -4,7 +4,7 @@ TOCTitle: KitComponentVariantResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.KitComponentVariantResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.kitcomponentvariantresponse_methods(v=AX.60)
 ms:contentKeyID: 62206811
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

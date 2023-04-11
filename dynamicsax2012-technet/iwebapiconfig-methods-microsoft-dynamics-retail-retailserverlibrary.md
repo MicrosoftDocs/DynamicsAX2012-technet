@@ -4,7 +4,7 @@ TOCTitle: IWebApiConfig Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.RetailServerLibrary.IWebApiConfig
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.iwebapiconfig_methods(v=AX.60)
 ms:contentKeyID: 62203087
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

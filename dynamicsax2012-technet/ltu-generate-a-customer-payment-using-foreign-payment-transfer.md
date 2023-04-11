@@ -4,7 +4,7 @@ TOCTitle: (LTU) Generate a customer payment using Foreign Payment Transfer
 ms:assetid: 4ddcb34f-e08d-4509-b859-c13523654ec7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665074(v=AX.60)
 ms:contentKeyID: 49386656
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up the export format for a foreign customer payment transfer
 ms:assetid: 504e3887-8581-42fb-ab93-9243c4f764bb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665079(v=AX.60)
 ms:contentKeyID: 49386661
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

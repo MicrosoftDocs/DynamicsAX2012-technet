@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage pay-when-paid projects'
 ms:assetid: 092d5135-8e25-47f2-bee0-e7d17d71bcd7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh351817(v=AX.60)
 ms:contentKeyID: 36676365
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

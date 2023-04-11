@@ -4,7 +4,7 @@ TOCTitle: (LTU) Organizations and organizational hierarchies
 ms:assetid: c96a067d-c794-410f-a552-a31d29a378eb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665189(v=AX.60)
 ms:contentKeyID: 49386770
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

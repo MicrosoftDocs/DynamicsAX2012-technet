@@ -4,7 +4,7 @@ TOCTitle: VariantInventoryDimensionId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemUnitQuantity.VariantInventoryDimensionId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemunitquantity.variantinventorydimensionid(v=AX.60)
 ms:contentKeyID: 49831799
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

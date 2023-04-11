@@ -4,7 +4,7 @@ TOCTitle: ExecuteStoredProcedure(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.KitTransactionDataManager.ExecuteStoredProcedure``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn694510(v=AX.60)
 ms:contentKeyID: 62204923
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

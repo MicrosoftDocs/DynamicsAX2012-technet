@@ -4,7 +4,7 @@ TOCTitle: (LTU) Fixed assets
 ms:assetid: 6ec8f9b3-071e-4d29-9737-ecd356b2af18
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665114(v=AX.60)
 ms:contentKeyID: 49386695
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

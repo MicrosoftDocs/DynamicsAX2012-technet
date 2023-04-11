@@ -4,7 +4,7 @@ TOCTitle: LoyaltyCard Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.LoyaltyCard.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.loyaltycard.loyaltycard(v=AX.60)
 ms:contentKeyID: 62205731
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

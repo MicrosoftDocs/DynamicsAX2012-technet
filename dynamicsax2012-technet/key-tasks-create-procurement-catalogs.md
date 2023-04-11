@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Create procurement catalogs'
 ms:assetid: 9be99b02-2681-42a0-95d9-c5c558385118
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209429(v=AX.60)
 ms:contentKeyID: 36058720
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
