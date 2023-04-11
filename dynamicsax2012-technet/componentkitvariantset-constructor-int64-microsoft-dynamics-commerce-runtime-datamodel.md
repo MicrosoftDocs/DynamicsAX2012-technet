@@ -4,7 +4,7 @@ TOCTitle: ComponentKitVariantSet Constructor (Int64)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ComponentKitVariantSet.#ctor(System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.componentkitvariantset.componentkitvariantset(v=AX.60)
 ms:contentKeyID: 62215223
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

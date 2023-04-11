@@ -4,7 +4,7 @@ TOCTitle: Cost and internal project configuration key (ProjBasicInternalProject)
 ms:assetid: 478915f1-5677-4aa4-8b24-2dfa41edae46
 ms:mtpsurl: https://technet.microsoft.com/library/Aa575989(v=AX.60)
 ms:contentKeyID: 39518957
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

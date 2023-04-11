@@ -4,7 +4,7 @@ TOCTitle: Configure jobs and subjobs in Retail Scheduler
 ms:assetid: ac7af386-fd6c-4f03-bea6-306db0537b87
 ms:mtpsurl: https://technet.microsoft.com/library/JJ680084(v=AX.60)
 ms:contentKeyID: 49558130
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Configure settings for Real-time Service
 ms:assetid: d263b65e-0928-48f6-abb2-81dc3918724b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn343753(v=AX.60)
 ms:contentKeyID: 56115644
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

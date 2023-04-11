@@ -4,7 +4,7 @@ TOCTitle: Components of the Retail online sample store
 ms:assetid: 21d00b1c-9e8c-4726-a5fc-34ec451a4403
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741225(v=AX.60)
 ms:contentKeyID: 62219114
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

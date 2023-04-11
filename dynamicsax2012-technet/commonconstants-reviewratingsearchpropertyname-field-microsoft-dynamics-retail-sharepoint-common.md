@@ -4,7 +4,7 @@ TOCTitle: ReviewRatingSearchPropertyName Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Common.CommonConstants.ReviewRatingSearchPropertyName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.commonconstants.reviewratingsearchpropertyname(v=AX.60)
 ms:contentKeyID: 62207506
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

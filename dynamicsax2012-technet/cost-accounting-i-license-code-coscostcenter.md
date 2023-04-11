@@ -4,7 +4,7 @@ TOCTitle: Cost accounting I license code (COSCostCenter)
 ms:assetid: b737cbc1-71f8-429d-a8c4-cec145a8d1bc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496430(v=AX.60)
 ms:contentKeyID: 37072010
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

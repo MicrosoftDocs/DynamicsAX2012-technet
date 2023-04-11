@@ -4,7 +4,7 @@ TOCTitle: Configure a subworkflow
 ms:assetid: d04b9e99-1c47-4cb4-8664-1ebc60c7a624
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362080(v=AX.60)
 ms:contentKeyID: 35132896
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

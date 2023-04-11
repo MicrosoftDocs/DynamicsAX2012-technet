@@ -4,7 +4,7 @@ TOCTitle: Create a currency code
 ms:assetid: a7092da3-b60a-40f4-ba8e-45e09c9bd377
 ms:mtpsurl: https://technet.microsoft.com/library/Hh351822(v=AX.60)
 ms:contentKeyID: 36676400
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

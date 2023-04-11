@@ -4,7 +4,7 @@ TOCTitle: Create a financial dimension
 ms:assetid: ac9eeb95-4cb0-4352-ae89-0524cdba31a5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242697(v=AX.60)
 ms:contentKeyID: 36058919
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

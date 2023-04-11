@@ -4,7 +4,7 @@ TOCTitle: Consolidating orders
 ms:assetid: e4131846-7bd0-4182-9c62-0bd21f8eda6d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243220(v=AX.60)
 ms:contentKeyID: 36059729
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

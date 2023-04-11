@@ -4,7 +4,7 @@ TOCTitle: Create a cost accounting accrual scheme
 ms:assetid: 21a5b215-784a-4a5c-b4fd-a3310b7f0465
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496790(v=AX.60)
 ms:contentKeyID: 36056167
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

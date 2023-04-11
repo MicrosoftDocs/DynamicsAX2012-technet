@@ -4,7 +4,7 @@ TOCTitle: Create a formula in Formula designer
 ms:assetid: bbacd6d2-ff06-4b66-9716-dca2328bd6e4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352342(v=AX.60)
 ms:contentKeyID: 36687973
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

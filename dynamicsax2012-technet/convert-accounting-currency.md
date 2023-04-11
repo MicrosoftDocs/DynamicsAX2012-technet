@@ -4,7 +4,7 @@ TOCTitle: Convert accounting currency
 ms:assetid: 7c9e5cb5-c8d1-4484-88f4-4fa1546b2e9d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213133(v=AX.60)
 ms:contentKeyID: 36058266
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

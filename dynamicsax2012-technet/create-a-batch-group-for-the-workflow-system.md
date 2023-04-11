@@ -4,7 +4,7 @@ TOCTitle: Create a batch group for the workflow system
 ms:assetid: e4777fab-5621-4ef9-8766-ccb830c27245
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732165(v=AX.60)
 ms:contentKeyID: 35133114
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

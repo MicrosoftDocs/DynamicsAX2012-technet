@@ -4,7 +4,7 @@ TOCTitle: Concurrency When Updating Data
 ms:assetid: d55d6f64-87d2-4ca9-929a-ce26127027ab
 ms:mtpsurl: https://technet.microsoft.com/library/Cc639058(v=AX.60)
 ms:contentKeyID: 35252031
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

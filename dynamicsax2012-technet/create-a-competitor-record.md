@@ -4,7 +4,7 @@ TOCTitle: Create a competitor record
 ms:assetid: 5827210a-c04a-4b43-8559-df467855cb0d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242480(v=AX.60)
 ms:contentKeyID: 36057340
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

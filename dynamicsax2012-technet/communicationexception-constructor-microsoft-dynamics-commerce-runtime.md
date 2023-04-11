@@ -4,7 +4,7 @@ TOCTitle: CommunicationException Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.CommunicationException.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.communicationexception.communicationexception(v=AX.60)
 ms:contentKeyID: 49826790
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

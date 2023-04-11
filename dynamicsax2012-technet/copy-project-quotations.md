@@ -4,7 +4,7 @@ TOCTitle: Copy project quotations
 ms:assetid: 4d11d472-bf65-435d-9ad3-ba5090471d01
 ms:mtpsurl: https://technet.microsoft.com/library/Bb147546(v=AX.60)
 ms:contentKeyID: 36057020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

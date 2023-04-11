@@ -4,7 +4,7 @@ TOCTitle: IsReadOnly Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.IsReadOnly
 ms:mtpsurl: https://technet.microsoft.com/library/Dn990470(v=AX.60)
 ms:contentKeyID: 65321410
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ConcurrentDictionary(TKey, TValue) Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/Dn967683(v=AX.60)
 ms:contentKeyID: 65319553
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

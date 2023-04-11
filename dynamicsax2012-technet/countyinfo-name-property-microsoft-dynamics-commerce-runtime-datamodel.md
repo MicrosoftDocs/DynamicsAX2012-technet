@@ -4,7 +4,7 @@ TOCTitle: Name Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CountyInfo.Name
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.countyinfo.name(v=AX.60)
 ms:contentKeyID: 49836015
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

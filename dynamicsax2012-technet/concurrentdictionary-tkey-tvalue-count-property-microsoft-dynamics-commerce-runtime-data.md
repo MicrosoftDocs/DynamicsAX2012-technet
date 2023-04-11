@@ -4,7 +4,7 @@ TOCTitle: Count Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Count
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968246(v=AX.60)
 ms:contentKeyID: 65320609
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

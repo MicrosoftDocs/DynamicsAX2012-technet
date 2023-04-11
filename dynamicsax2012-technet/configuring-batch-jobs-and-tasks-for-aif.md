@@ -4,7 +4,7 @@ TOCTitle: Configuring batch jobs and tasks for AIF
 ms:assetid: eec47dcc-29c1-4c0e-acac-970649dc597d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352328(v=AX.60)
 ms:contentKeyID: 36687958
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: FeatureActivated Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommerceRuntime.Features.Settings.CommerceRuntimeSettingsFeatureEventReceiver.FeatureActivated(Microsoft.SharePoint.SPFeatureReceiverProperties)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.features.settings.commerceruntimesettingsfeatureeventreceiver.featureactivated(v=AX.60)
 ms:contentKeyID: 62206340
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

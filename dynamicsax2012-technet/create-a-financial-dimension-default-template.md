@@ -4,7 +4,7 @@ TOCTitle: Create a financial dimension default template
 ms:assetid: 94b52d87-6425-4c8b-99db-968e98b1f8db
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209388(v=AX.60)
 ms:contentKeyID: 36058602
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

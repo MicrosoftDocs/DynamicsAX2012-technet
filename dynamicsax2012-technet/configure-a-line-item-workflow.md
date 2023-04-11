@@ -4,7 +4,7 @@ TOCTitle: Configure a line-item workflow
 ms:assetid: d1e15e0a-4bc8-4868-9417-29f1c0115974
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731961(v=AX.60)
 ms:contentKeyID: 35132901
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

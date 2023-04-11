@@ -4,7 +4,7 @@ TOCTitle: Consuming Web Services
 ms:assetid: da527d7c-6fbf-4cfb-ad12-d224fe4ae559
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272880(v=AX.60)
 ms:contentKeyID: 36584404
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

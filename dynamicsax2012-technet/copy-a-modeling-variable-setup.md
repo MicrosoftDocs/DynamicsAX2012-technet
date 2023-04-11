@@ -4,7 +4,7 @@ TOCTitle: Copy a modeling variable setup
 ms:assetid: 5c6b962a-ee33-43c6-a72b-eeea75f3f17b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549096(v=AX.60)
 ms:contentKeyID: 36057570
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

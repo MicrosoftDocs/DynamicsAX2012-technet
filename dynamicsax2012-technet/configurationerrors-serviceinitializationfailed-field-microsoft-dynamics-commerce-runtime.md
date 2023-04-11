@@ -4,7 +4,7 @@ TOCTitle: ServiceInitializationFailed Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.ConfigurationErrors.ServiceInitializationFailed
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configurationerrors.serviceinitializationfailed(v=AX.60)
 ms:contentKeyID: 49830293
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

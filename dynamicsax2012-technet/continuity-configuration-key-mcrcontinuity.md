@@ -4,7 +4,7 @@ TOCTitle: Continuity configuration key (MCRContinuity)
 ms:assetid: e891863a-4807-4bad-9f62-5a93af432db7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774950(v=AX.60)
 ms:contentKeyID: 62617669
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:

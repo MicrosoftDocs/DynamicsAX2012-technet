@@ -4,7 +4,7 @@ TOCTitle: ContinueShopping Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ContinueShopping
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.continueshopping_events(v=AX.60)
 ms:contentKeyID: 62204315
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

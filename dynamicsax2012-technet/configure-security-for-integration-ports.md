@@ -4,7 +4,7 @@ TOCTitle: Configure security
 ms:assetid: fec2d03e-d8bf-41c2-8fbd-1cb565b9449b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202131(v=AX.60)
 ms:contentKeyID: 35949394
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

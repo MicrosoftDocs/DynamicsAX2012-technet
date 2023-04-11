@@ -4,7 +4,7 @@ TOCTitle: Create a by-product
 ms:assetid: 614a7b32-93ba-4064-b90f-0f8573d5805f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209176(v=AX.60)
 ms:contentKeyID: 36057650
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Configure project budget control
 ms:assetid: 17d8d1f8-f5e5-4ea8-a4d5-9999eeaaa96a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208441(v=AX.60)
 ms:contentKeyID: 36056091
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

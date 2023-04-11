@@ -4,7 +4,7 @@ TOCTitle: Specify the version of Integration Services that the Data Import/Expor
 ms:assetid: 42117635-a8e9-48a2-9ec7-175d30e8e07b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn878167(v=AX.60)
 ms:contentKeyID: 63701236
-author: Khairunj
+author: tonyafehr
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

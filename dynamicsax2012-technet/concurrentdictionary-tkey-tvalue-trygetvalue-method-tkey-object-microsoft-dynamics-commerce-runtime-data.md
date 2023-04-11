@@ -4,7 +4,7 @@ TOCTitle: TryGetValue Method (TKey, Object)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.TryGetValue(`0,System.Object@)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn990900(v=AX.60)
 ms:contentKeyID: 65322090
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Controller long-term solvency report (ControllerLongTermSolvency)
 ms:assetid: 1320cd5c-3e6b-4629-a839-ee20c0a7b1e5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556859(v=AX.60)
 ms:contentKeyID: 39509589
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

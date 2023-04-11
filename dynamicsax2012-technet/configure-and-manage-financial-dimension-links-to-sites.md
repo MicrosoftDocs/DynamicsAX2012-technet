@@ -4,7 +4,7 @@ TOCTitle: Configure and manage financial dimension links to sites
 ms:assetid: 721cdfc8-1102-4bf9-b6e5-076599b1b766
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231846(v=AX.60)
 ms:contentKeyID: 44080993
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

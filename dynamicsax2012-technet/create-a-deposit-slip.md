@@ -4,7 +4,7 @@ TOCTitle: Create a deposit slip
 ms:assetid: 05b7745d-61cb-492d-858f-f9b273e11077
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569716(v=AX.60)
 ms:contentKeyID: 36055956
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

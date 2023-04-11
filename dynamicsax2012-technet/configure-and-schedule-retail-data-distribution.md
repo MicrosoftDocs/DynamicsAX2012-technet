@@ -4,7 +4,7 @@ TOCTitle: Configure and schedule retail data distribution
 ms:assetid: 65b29a72-c7a7-453e-8f97-8281548df0a6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679920(v=AX.60)
 ms:contentKeyID: 49557902
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

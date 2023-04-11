@@ -4,7 +4,7 @@ TOCTitle: Configure the new Reporting Services instance
 ms:assetid: 480a18d8-edd6-4f9a-bdc2-ba2a7a842916
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389764(v=AX.60)
 ms:contentKeyID: 36899744
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

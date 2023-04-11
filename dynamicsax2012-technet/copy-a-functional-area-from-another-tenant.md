@@ -4,7 +4,7 @@ TOCTitle: Copy a functional area from another tenant
 ms:assetid: b4904e77-656d-4502-badc-facac7d63a45
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413247(v=AX.60)
 ms:contentKeyID: 36918938
-author: Khairunj
+author: tonyafehr
 ms.date: 03/12/2013
 mtps_version: v=AX.60
 f1_keywords:

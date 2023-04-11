@@ -4,7 +4,7 @@ TOCTitle: Configuring ledger posting for projects
 ms:assetid: d36929fb-4b54-4862-8605-ee64d83dd196
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551068(v=AX.60)
 ms:contentKeyID: 36059511
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

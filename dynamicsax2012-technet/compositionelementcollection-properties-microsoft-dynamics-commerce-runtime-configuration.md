@@ -4,7 +4,7 @@ TOCTitle: CompositionElementCollection Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Configuration.CompositionElementCollection
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.compositionelementcollection_properties(v=AX.60)
 ms:contentKeyID: 49835749
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Controller short-term solvency report (ControllerShortTermSolvency)
 ms:assetid: 2a14ce5a-99ba-453c-9dd0-0971fff021c2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556862(v=AX.60)
 ms:contentKeyID: 39509592
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

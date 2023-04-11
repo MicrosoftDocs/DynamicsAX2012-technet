@@ -4,7 +4,7 @@ TOCTitle: Correct a vendor invoice that was matched to the wrong product receipt
 ms:assetid: fd0c1913-16fd-4641-b5c6-ff57545076f0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh454990(v=AX.60)
 ms:contentKeyID: 36993134
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Course confirmation list (HcmCourseConfirmation)
 ms:assetid: ad052aba-33c7-4e5d-b6ce-f69d71ef4959
 ms:mtpsurl: https://technet.microsoft.com/library/JJ841464(v=AX.60)
 ms:contentKeyID: 50411103
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

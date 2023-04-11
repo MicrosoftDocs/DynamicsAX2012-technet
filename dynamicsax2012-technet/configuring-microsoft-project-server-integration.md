@@ -4,7 +4,7 @@ TOCTitle: Configuring Microsoft Project Server integration
 ms:assetid: fa0d7bf3-df03-492a-8d40-addd16388b05
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227565(v=AX.60)
 ms:contentKeyID: 36060063
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Compile the product model
 ms:assetid: d9e70ffc-ca78-4ad5-9d56-7390e2150bdd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551203(v=AX.60)
 ms:contentKeyID: 36059657
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

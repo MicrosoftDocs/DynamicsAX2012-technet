@@ -4,7 +4,7 @@ TOCTitle: CreateSmallButton Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ControlFactory.CreateSmallButton(System.Web.UI.HtmlControls.HtmlButton,System.String,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createsmallbutton(v=AX.60)
 ms:contentKeyID: 62203128
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

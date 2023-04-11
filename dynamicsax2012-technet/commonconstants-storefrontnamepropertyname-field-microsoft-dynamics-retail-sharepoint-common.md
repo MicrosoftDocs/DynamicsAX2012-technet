@@ -4,7 +4,7 @@ TOCTitle: StorefrontNamePropertyName Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Common.CommonConstants.StorefrontNamePropertyName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.commonconstants.storefrontnamepropertyname(v=AX.60)
 ms:contentKeyID: 62202247
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

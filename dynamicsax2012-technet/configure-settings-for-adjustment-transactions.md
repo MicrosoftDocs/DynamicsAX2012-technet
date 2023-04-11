@@ -4,7 +4,7 @@ TOCTitle: Configure settings for adjustment transactions
 ms:assetid: 964b064e-9b96-4bca-9793-5145448847fb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209399(v=AX.60)
 ms:contentKeyID: 36058628
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

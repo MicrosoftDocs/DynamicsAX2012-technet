@@ -4,7 +4,7 @@ TOCTitle: Copy a forecast item
 ms:assetid: b48f131f-896f-48b1-89b1-4576673243a1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550448(v=AX.60)
 ms:contentKeyID: 36059077
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

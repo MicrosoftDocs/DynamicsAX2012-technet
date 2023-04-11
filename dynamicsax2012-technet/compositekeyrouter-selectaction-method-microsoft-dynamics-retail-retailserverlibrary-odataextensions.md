@@ -4,7 +4,7 @@ TOCTitle: SelectAction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.CompositeKeyRouter.SelectAction(System.Web.Http.OData.Routing.ODataPath,System.Web.Http.Controllers.HttpControllerContext,System.Linq.ILookup{System.String,System.Web.Http.Controllers.HttpActionDescriptor})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.compositekeyrouter.selectaction(v=AX.60)
 ms:contentKeyID: 62202134
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

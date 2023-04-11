@@ -4,7 +4,7 @@ TOCTitle: Compensation configuration key (HRMAdministrationCompensation)
 ms:assetid: caa199fc-e3ef-4e34-a8fa-1e7d838a1723
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467567(v=AX.60)
 ms:contentKeyID: 36991713
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

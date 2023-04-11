@@ -4,7 +4,7 @@ TOCTitle: Add Method (KeyValuePair(TKey, TValue))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Add(System.Collections.Generic.KeyValuePair{`0,`1})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn988675(v=AX.60)
 ms:contentKeyID: 65318226
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

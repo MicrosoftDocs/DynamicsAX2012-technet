@@ -4,7 +4,7 @@ TOCTitle: Create a batch group
 ms:assetid: 5153936f-a872-430d-bd17-4c910de871d4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548911(v=AX.60)
 ms:contentKeyID: 35132636
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Create a customer group
 ms:assetid: 0f85526f-bfea-4ac7-b08d-7cd7fe2443fb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496550(v=AX.60)
 ms:contentKeyID: 36056020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
