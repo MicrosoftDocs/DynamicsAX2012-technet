@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic Namespace
 ms:assetid: N:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic(v=AX.60)
 ms:contentKeyID: 47128443
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Retail Hardware Station
 ms:assetid: d1cb158d-926c-4521-9aa4-9d2495bd3b21
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741455(v=AX.60)
 ms:contentKeyID: 62219732
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

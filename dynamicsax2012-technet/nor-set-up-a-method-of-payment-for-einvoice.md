@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up a method of payment for eInvoice
 ms:assetid: 92218cf3-241e-452e-be59-7fc13e76c5a4
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232177(v=AX.60)
 ms:contentKeyID: 36058569
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Opportunity management
 ms:assetid: 161d463c-4722-4553-8578-dadbbc72b172
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230953(v=AX.60)
 ms:contentKeyID: 36056067
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

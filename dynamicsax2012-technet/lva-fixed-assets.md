@@ -4,7 +4,7 @@ TOCTitle: (LVA) Fixed assets
 ms:assetid: ddb7048b-b308-482d-bd68-5a2c960e9a88
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731068(v=AX.60)
 ms:contentKeyID: 49675308
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

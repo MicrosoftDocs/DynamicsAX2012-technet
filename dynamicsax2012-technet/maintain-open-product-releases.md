@@ -4,7 +4,7 @@ TOCTitle: Maintain open product releases
 ms:assetid: e00eea92-6d49-46b8-b58e-05c4eb1657f8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545535(v=AX.60)
 ms:contentKeyID: 37832540
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

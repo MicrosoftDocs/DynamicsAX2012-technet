@@ -4,7 +4,7 @@ TOCTitle: Manage your deployment
 ms:assetid: fdde3e44-fdc8-43e5-bb3c-52dc2c3e8713
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741582(v=AX.60)
 ms:contentKeyID: 62226740
-author: Khairunj
+author: tonyafehr
 ms.date: 09/20/2017
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Maintain organizational elements
 ms:assetid: d82957d2-1a60-4edc-bc45-482de6f5d88d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213708(v=AX.60)
 ms:contentKeyID: 36676413
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

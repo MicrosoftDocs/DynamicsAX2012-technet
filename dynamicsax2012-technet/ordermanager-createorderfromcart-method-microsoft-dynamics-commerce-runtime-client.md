@@ -4,7 +4,7 @@ TOCTitle: CreateOrderFromCart Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.CreateOrderFromCart(System.String,System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartTenderLine},System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.createorderfromcart(v=AX.60)
 ms:contentKeyID: 62208456
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

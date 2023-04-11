@@ -4,7 +4,7 @@ TOCTitle: Master data management configuration key (MDM)
 ms:assetid: 173f77d2-1389-4a4d-ba55-f0a0e7914525
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792362(v=AX.60)
 ms:contentKeyID: 62613989
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

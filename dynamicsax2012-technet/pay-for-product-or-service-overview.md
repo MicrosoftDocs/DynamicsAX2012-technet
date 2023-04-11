@@ -4,7 +4,7 @@ TOCTitle: Pay for product or service overview
 ms:assetid: 9540c3c4-a9cd-4d3e-89c6-88d26af74be5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232210(v=AX.60)
 ms:contentKeyID: 36058613
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

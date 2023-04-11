@@ -4,7 +4,7 @@ TOCTitle: GetReceipts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.GetReceipts(System.String,System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.ReceiptType,System.Boolean,System.Nullable{System.Int64},System.Boolean,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.getreceipts(v=AX.60)
 ms:contentKeyID: 65319634
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

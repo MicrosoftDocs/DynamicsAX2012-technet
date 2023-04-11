@@ -4,7 +4,7 @@ TOCTitle: Maintaining Installation-Specific Element IDs and Element Handles
 ms:assetid: e41443b8-1acf-4144-9b7f-2b7c216916ef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352326(v=AX.60)
 ms:contentKeyID: 36687956
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

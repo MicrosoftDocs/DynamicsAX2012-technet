@@ -4,7 +4,7 @@ TOCTitle: CheckoutControl Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.MvcHelperExtension.CheckoutControl(System.Web.Mvc.HtmlHelper,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.controls.mvchelperextension.checkoutcontrol(v=AX.60)
 ms:contentKeyID: 65316884
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

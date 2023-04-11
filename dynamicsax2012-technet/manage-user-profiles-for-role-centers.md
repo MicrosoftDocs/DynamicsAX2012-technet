@@ -4,7 +4,7 @@ TOCTitle: Manage user profiles for Role Centers
 ms:assetid: 17d05ce2-c635-4a7d-882e-5853ca9a2c80
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309608(v=AX.60)
 ms:contentKeyID: 35132562
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

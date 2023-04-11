@@ -4,7 +4,7 @@ TOCTitle: (LVA) Configuring customer invoices
 ms:assetid: e9b16ac2-2859-45e5-8f6b-b37ede0ea4ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731074(v=AX.60)
 ms:contentKeyID: 49675314
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

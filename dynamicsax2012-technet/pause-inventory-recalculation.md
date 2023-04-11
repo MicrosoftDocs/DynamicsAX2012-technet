@@ -4,7 +4,7 @@ TOCTitle: Pause inventory recalculation
 ms:assetid: 3cbb5338-8ce3-40d8-ab2e-03d23eb928b7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231159(v=AX.60)
 ms:contentKeyID: 36056666
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

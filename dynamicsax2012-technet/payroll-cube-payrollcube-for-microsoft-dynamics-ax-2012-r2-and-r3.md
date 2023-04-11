@@ -4,7 +4,7 @@ TOCTitle: Payroll cube (PayrollCube)
 ms:assetid: 502c2ffb-de77-43ba-92f5-e2857fe1e542
 ms:mtpsurl: https://technet.microsoft.com/library/Dn530764(v=AX.60)
 ms:contentKeyID: 59683043
-author: Khairunj
+author: tonyafehr
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

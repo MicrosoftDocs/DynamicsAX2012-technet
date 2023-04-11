@@ -4,7 +4,7 @@ TOCTitle: Manage deductions in the deduction workbench
 ms:assetid: ef11d6e5-7dfc-4af8-bc71-1dffc538a47e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497849(v=AX.60)
 ms:contentKeyID: 62200182
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

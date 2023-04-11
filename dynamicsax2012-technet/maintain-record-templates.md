@@ -4,7 +4,7 @@ TOCTitle: Maintain record templates
 ms:assetid: 0dcce7f1-b62e-4c16-b230-e732babd1bd5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230906(v=AX.60)
 ms:contentKeyID: 36676367
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

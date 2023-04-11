@@ -4,7 +4,7 @@ TOCTitle: Multiple interest rates configuration key (CustMultipleInterestRates)
 ms:assetid: 33546d63-cff1-4973-814e-e3409b35b32c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa553220(v=AX.60)
 ms:contentKeyID: 36997750
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

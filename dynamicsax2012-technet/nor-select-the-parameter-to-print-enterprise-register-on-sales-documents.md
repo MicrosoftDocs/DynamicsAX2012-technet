@@ -4,7 +4,7 @@ TOCTitle: (NOR) Select the parameter to print Enterprise register on sales docum
 ms:assetid: 79b8de2c-e726-473b-a9c2-2887c9707629
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304977(v=AX.60)
 ms:contentKeyID: 54899952
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

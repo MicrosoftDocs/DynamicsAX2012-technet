@@ -4,7 +4,7 @@ TOCTitle: Maintain project invoices
 ms:assetid: 90142164-7030-4050-9304-a6d631f0d292
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209367(v=AX.60)
 ms:contentKeyID: 36058530
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

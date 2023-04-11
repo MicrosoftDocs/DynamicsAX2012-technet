@@ -4,7 +4,7 @@ TOCTitle: P
 ms:assetid: DynamicsAXGlossary.P
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.p(v=AX.60)
 ms:contentKeyID: 36058016
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 ---

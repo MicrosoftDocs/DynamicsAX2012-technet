@@ -4,7 +4,7 @@ TOCTitle: (NOR) Configure EHF electronic invoicing
 ms:assetid: 935781c9-0825-47ce-8749-60dd1db42807
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304982(v=AX.60)
 ms:contentKeyID: 54899958
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

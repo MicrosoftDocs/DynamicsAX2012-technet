@@ -4,7 +4,7 @@ TOCTitle: Metadata Service Class Diagrams
 ms:assetid: 485901ed-c468-4b80-a28d-56adbb6af5e2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg845212(v=AX.60)
 ms:contentKeyID: 35243098
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

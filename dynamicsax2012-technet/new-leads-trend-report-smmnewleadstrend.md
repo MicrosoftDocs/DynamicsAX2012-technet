@@ -4,7 +4,7 @@ TOCTitle: New leads trend report (smmNewLeadsTrend)
 ms:assetid: 7a2c8fac-de74-4d1b-9b49-3ca3aa72274c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412248(v=AX.60)
 ms:contentKeyID: 36916358
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

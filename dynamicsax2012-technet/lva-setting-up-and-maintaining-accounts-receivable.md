@@ -4,7 +4,7 @@ TOCTitle: (LVA) Setting up and maintaining Accounts receivable
 ms:assetid: d75dee0b-aa3e-49f8-8f57-3ea758fefb34
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731066(v=AX.60)
 ms:contentKeyID: 49675306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

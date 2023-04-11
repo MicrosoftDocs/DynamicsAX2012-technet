@@ -4,7 +4,7 @@ TOCTitle: Manage employee benefits
 ms:assetid: 3d5ace67-322e-4f44-a176-b63e1518dfcc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271505(v=AX.60)
 ms:contentKeyID: 36384137
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

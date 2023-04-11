@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up the OCR method of payment
 ms:assetid: 5b0df91c-c259-4c43-9dcd-e8520e9f207e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242489(v=AX.60)
 ms:contentKeyID: 36057356
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

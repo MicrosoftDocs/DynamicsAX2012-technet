@@ -4,7 +4,7 @@ TOCTitle: Modify a form
 ms:assetid: c5805883-74c4-4bbe-a623-c711bf1e5a2f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937978(v=AX.60)
 ms:contentKeyID: 50950769
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

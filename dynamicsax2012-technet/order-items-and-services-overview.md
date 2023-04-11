@@ -4,7 +4,7 @@ TOCTitle: Order items and services overview
 ms:assetid: ba893393-b325-41f8-bf55-2a86e2c2c5b4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242767(v=AX.60)
 ms:contentKeyID: 36059126
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

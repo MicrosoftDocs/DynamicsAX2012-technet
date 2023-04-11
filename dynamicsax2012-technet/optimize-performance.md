@@ -4,7 +4,7 @@ TOCTitle: Optimize performance
 ms:assetid: f1a4e14e-d712-4a72-9bf2-f63d68969b2c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570100(v=AX.60)
 ms:contentKeyID: 39555429
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

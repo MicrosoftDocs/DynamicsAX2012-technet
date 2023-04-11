@@ -4,7 +4,7 @@ TOCTitle: Order status notification configuration key (MCROrderStatusNotificatio
 ms:assetid: 95e21493-dea4-441a-9124-9d8f9be0f1dd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774944(v=AX.60)
 ms:contentKeyID: 62617661
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:

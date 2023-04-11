@@ -4,7 +4,7 @@ TOCTitle: Mass deploy Retail components by using System Center Configuration Man
 ms:assetid: 15ded62a-f6d3-44a4-8fe6-93e7f19ea558
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497719(v=AX.60)
 ms:contentKeyID: 62200200
-author: Khairunj
+author: tonyafehr
 ms.date: 10/28/2016
 mtps_version: v=AX.60
 ---

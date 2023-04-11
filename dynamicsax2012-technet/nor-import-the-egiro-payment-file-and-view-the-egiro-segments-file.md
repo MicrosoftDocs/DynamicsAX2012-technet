@@ -4,7 +4,7 @@ TOCTitle: (NOR) Import the eGiro payment file and view the eGiro segments file
 ms:assetid: 275fe80a-2c7c-4529-ab85-1110e226bc1d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231002(v=AX.60)
 ms:contentKeyID: 36056210
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

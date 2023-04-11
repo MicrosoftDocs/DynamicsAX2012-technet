@@ -4,7 +4,7 @@ TOCTitle: PickingReceivingService Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.PickingReceivingService
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pickingreceivingservice(v=AX.60)
 ms:contentKeyID: 62204515
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

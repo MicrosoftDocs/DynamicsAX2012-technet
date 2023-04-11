@@ -4,7 +4,7 @@ TOCTitle: Managing batches of alerts
 ms:assetid: 37567d64-6619-4b26-a165-243f33d14324
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834349(v=AX.60)
 ms:contentKeyID: 46687535
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

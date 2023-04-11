@@ -4,7 +4,7 @@ TOCTitle: PaymentCardTypesResponse Constructor (Collection(PaymentCardType))
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.PaymentCardTypesResponse.#ctor(System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.PaymentCardType})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.paymentcardtypesresponse.paymentcardtypesresponse(v=AX.60)
 ms:contentKeyID: 62206291
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

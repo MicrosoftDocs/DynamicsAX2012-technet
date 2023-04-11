@@ -4,7 +4,7 @@ TOCTitle: Operations
 ms:assetid: 0efe06f4-bb29-4cd3-b61d-fe3cb32be5ca
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309590(v=AX.60)
 ms:contentKeyID: 35132544
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

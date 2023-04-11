@@ -4,7 +4,7 @@ TOCTitle: Pass returned items on to inspection
 ms:assetid: 66b722ce-d5a4-4cef-8bcb-3aebfff1afa3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231561(v=AX.60)
 ms:contentKeyID: 36057754
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

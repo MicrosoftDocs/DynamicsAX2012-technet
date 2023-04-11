@@ -4,7 +4,7 @@ TOCTitle: Managing customer information (Public sector)
 ms:assetid: 4d27c330-29e2-49de-bcea-384bba62abcd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208533(v=AX.60)
 ms:contentKeyID: 36056284
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (LTU) View and manually change the status of packing slips for a sales
 ms:assetid: ba70ea08-160c-4bd2-bb5b-30798f38fc15
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665173(v=AX.60)
 ms:contentKeyID: 49386754
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

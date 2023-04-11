@@ -4,7 +4,7 @@ TOCTitle: Modify a trigger
 ms:assetid: 07325aca-5ae7-4179-8850-108c1d78c0ff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937966(v=AX.60)
 ms:contentKeyID: 50950755
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

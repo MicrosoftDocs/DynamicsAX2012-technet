@@ -4,7 +4,7 @@ TOCTitle: Organizing products for presentation on the Enterprise Portal
 ms:assetid: aead2db8-125d-4c59-a1c8-6f032031c03a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697722(v=AX.60)
 ms:contentKeyID: 42518580
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

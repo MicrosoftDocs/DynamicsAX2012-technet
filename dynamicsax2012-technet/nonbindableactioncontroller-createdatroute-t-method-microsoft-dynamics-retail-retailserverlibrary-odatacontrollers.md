@@ -4,7 +4,7 @@ TOCTitle: CreatedAtRoute(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.NonBindableActionController.CreatedAtRoute``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn737039(v=AX.60)
 ms:contentKeyID: 62201744
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

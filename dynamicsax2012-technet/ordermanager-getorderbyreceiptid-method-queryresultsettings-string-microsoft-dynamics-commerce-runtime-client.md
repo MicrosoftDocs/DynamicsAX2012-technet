@@ -4,7 +4,7 @@ TOCTitle: GetOrderByReceiptId Method (QueryResultSettings, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.GetOrderByReceiptId(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.getorderbyreceiptid(v=AX.60)
 ms:contentKeyID: 65318937
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

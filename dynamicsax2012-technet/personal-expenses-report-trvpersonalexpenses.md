@@ -4,7 +4,7 @@ TOCTitle: Personal expenses report (TrvPersonalExpenses)
 ms:assetid: 011e7243-bf2a-4511-9f2e-9b07ebd13982
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412237(v=AX.60)
 ms:contentKeyID: 36916346
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

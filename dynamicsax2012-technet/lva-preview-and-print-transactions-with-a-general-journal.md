@@ -4,7 +4,7 @@ TOCTitle: (LVA) Preview and print transactions with a general journal
 ms:assetid: 778c6a64-83fc-43d8-ad0a-cea251d6489b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853410(v=AX.60)
 ms:contentKeyID: 50396780
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

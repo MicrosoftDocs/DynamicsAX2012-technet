@@ -4,7 +4,7 @@ TOCTitle: Managing vendor accounts
 ms:assetid: 939f80aa-9a34-4be6-944e-a99a20537fe7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271597(v=AX.60)
 ms:contentKeyID: 36384229
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

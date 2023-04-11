@@ -4,7 +4,7 @@ TOCTitle: CustomerAccountPaymentIsNotAllowedForCustomerOrderDepositAndCancellati
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.PaymentErrors.CustomerAccountPaymentIsNotAllowedForCustomerOrderDepositAndCancellation
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.paymenterrors.customeraccountpaymentisnotallowedforcustomerorderdepositandcancellation(v=AX.60)
 ms:contentKeyID: 65318068
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

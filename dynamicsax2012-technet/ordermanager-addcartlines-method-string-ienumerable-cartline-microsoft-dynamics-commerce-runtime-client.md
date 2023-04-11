@@ -4,7 +4,7 @@ TOCTitle: AddCartLines Method (String, IEnumerable(CartLine))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.AddCartLines(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.addcartlines(v=AX.60)
 ms:contentKeyID: 62209613
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

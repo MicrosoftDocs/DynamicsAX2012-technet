@@ -4,7 +4,7 @@ TOCTitle: Parameters Overview
 ms:assetid: 623870c9-36fe-4d40-83bd-662575d31005
 ms:mtpsurl: https://technet.microsoft.com/library/Hh528478(v=AX.60)
 ms:contentKeyID: 37835168
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Overview of a purchase requisition workflow
 ms:assetid: 8790f0f9-c672-41a8-9306-efb322bd427a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242844(v=AX.60)
 ms:contentKeyID: 36058430
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 audience: Application User

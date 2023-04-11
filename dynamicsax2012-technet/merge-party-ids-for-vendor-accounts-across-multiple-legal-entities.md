@@ -4,7 +4,7 @@ TOCTitle: Merge party IDs for vendor accounts across multiple legal entities
 ms:assetid: cae044de-d4c4-4b36-aeb8-425a332585c5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213660(v=AX.60)
 ms:contentKeyID: 36059336
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

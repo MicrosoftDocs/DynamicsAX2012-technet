@@ -4,7 +4,7 @@ TOCTitle: ChannelId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.NewCustomerServiceRequest.ChannelId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.newcustomerservicerequest.channelid(v=AX.60)
 ms:contentKeyID: 65322337
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

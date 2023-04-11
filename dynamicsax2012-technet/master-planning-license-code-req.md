@@ -4,7 +4,7 @@ TOCTitle: Master planning license code (Req)
 ms:assetid: d44d6c44-50bd-49ea-b5ef-432d78be6b0f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416691(v=AX.60)
 ms:contentKeyID: 36931852
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

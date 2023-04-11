@@ -4,7 +4,7 @@ TOCTitle: Equals Method (PaymentCard)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard.Equals(Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.paymentcard.equals(v=AX.60)
 ms:contentKeyID: 62207791
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

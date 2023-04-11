@@ -4,7 +4,7 @@ TOCTitle: UpdateCartLines Method (String, String, IEnumerable(CartLine), Nullabl
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.UpdateCartLines(System.String,System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine},System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.updatecartlines(v=AX.60)
 ms:contentKeyID: 62207621
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

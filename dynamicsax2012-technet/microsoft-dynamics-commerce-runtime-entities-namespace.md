@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Commerce.Runtime.Entities Namespace
 ms:assetid: N:Microsoft.Dynamics.Commerce.Runtime.Entities
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.entities(v=AX.60)
 ms:contentKeyID: 65319405
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

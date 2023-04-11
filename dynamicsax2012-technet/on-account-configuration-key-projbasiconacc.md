@@ -4,7 +4,7 @@ TOCTitle: On-account configuration key (ProjBasicOnAcc)
 ms:assetid: 4a387696-13c9-4e1c-bb04-d39a757485b8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa554849(v=AX.60)
 ms:contentKeyID: 39518958
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

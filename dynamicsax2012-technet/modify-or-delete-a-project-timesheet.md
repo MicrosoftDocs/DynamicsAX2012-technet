@@ -4,7 +4,7 @@ TOCTitle: Modify or delete a timesheet
 ms:assetid: 9cd5c044-405c-4662-bc3e-7827e013a369
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209437(v=AX.60)
 ms:contentKeyID: 36058737
-author: Khairunj
+author: tonyafehr
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:

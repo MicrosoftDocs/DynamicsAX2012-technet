@@ -4,7 +4,7 @@ TOCTitle: (MEX) Set up parameters and authorization codes for an electronic invo
 ms:assetid: a05f20e5-456e-4191-af93-93c44bde83e6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209448(v=AX.60)
 ms:contentKeyID: 36058768
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

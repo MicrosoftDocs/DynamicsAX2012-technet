@@ -4,7 +4,7 @@ TOCTitle: OrderHistory Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.OrderHistory
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.orderhistory_properties(v=AX.60)
 ms:contentKeyID: 62205823
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

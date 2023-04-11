@@ -4,7 +4,7 @@ TOCTitle: Modify the external item description
 ms:assetid: 12fb2cba-a1b1-49c0-b7dd-7729e2621ef4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271456(v=AX.60)
 ms:contentKeyID: 36384088
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

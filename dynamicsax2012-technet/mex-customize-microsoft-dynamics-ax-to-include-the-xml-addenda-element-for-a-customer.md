@@ -4,7 +4,7 @@ TOCTitle: (MEX) Customize Microsoft Dynamics AX to include the XML addenda eleme
 ms:assetid: 00649794-1532-4f2a-9362-a77f23d7d46b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242090(v=AX.60)
 ms:contentKeyID: 36055915
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (NOR) Setup report (BankPaymIdTypesSetup_NO)
 ms:assetid: c26923f7-b0ef-4480-ac2c-8bdc2585ec99
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433517(v=AX.60)
 ms:contentKeyID: 36941299
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

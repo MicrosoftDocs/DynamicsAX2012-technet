@@ -4,7 +4,7 @@ TOCTitle: (LVA) Print a report of used invoice numbers
 ms:assetid: 74070ab2-128f-4409-bf70-dee6028b0100
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721454(v=AX.60)
 ms:contentKeyID: 49730232
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

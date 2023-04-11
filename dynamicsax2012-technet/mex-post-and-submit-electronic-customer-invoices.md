@@ -4,7 +4,7 @@ TOCTitle: (MEX) Post and submit electronic customer invoices
 ms:assetid: 877b5c1f-160d-4faa-9aeb-475b5ee7233c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209330(v=AX.60)
 ms:contentKeyID: 36058426
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Retail online sample store reference
 ms:assetid: 2edb6f66-3dd4-49fc-8b0f-a276274ac9cb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720364(v=AX.60)
 ms:contentKeyID: 62221794
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Method Type Attribute
 ms:assetid: d0b383f0-e92d-492e-b0e7-1c50f70fe1aa
 ms:mtpsurl: https://technet.microsoft.com/library/Gg881191(v=AX.60)
 ms:contentKeyID: 35251829
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

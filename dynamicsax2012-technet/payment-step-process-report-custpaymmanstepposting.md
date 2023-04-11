@@ -4,7 +4,7 @@ TOCTitle: Payment step process report (CustPaymManStepPosting)
 ms:assetid: 9028902b-ff7d-4943-8a0d-171090471c6c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa616258(v=AX.60)
 ms:contentKeyID: 36956701
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

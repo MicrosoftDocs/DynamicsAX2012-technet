@@ -4,7 +4,7 @@ TOCTitle: Manufacturing execution configuration key (JmgJob)
 ms:assetid: 4620f5b5-9e92-4937-8d0c-bbb657dd3c9d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa554626(v=AX.60)
 ms:contentKeyID: 36997752
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

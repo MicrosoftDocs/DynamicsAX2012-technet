@@ -4,7 +4,7 @@ TOCTitle: Packing Duty configuration key (InventPackaging)
 ms:assetid: 9f5b0ddd-2d8b-4432-a9c1-0378c6d4f1af
 ms:mtpsurl: https://technet.microsoft.com/library/Aa588485(v=AX.60)
 ms:contentKeyID: 36993549
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

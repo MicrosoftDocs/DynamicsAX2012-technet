@@ -4,7 +4,7 @@ TOCTitle: Manage trade allowance funds
 ms:assetid: f691d673-82aa-4c43-9bf3-1b074e073272
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497857(v=AX.60)
 ms:contentKeyID: 62381661
-author: Khairunj
+author: tonyafehr
 ms.date: 05/27/2014
 mtps_version: v=AX.60
 f1_keywords:

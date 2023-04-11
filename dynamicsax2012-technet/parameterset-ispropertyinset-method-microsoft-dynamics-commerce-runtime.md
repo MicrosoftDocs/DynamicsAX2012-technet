@@ -4,7 +4,7 @@ TOCTitle: IsPropertyInSet Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ParameterSet.IsPropertyInSet(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.parameterset.ispropertyinset(v=AX.60)
 ms:contentKeyID: 62213188
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

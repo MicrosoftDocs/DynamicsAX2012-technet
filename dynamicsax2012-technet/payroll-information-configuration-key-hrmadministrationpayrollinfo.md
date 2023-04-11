@@ -4,7 +4,7 @@ TOCTitle: Payroll information configuration key (HRMAdministrationPayrollInfo)
 ms:assetid: c49ba565-35cb-4c87-85cf-4481c6d54fb9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467565(v=AX.60)
 ms:contentKeyID: 36991711
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up the export format for a local vendor payment transfer
 ms:assetid: 7d12c999-a344-4896-b8c4-31acdbeb5b20
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665123(v=AX.60)
 ms:contentKeyID: 49386704
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

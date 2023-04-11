@@ -4,7 +4,7 @@ TOCTitle: Mapping Microsoft Dynamics AX 2009 Reports to the Microsoft Dynamics A
 ms:assetid: 23bc97b8-2236-48ca-8eff-9b6f7e1a023d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731909(v=AX.60)
 ms:contentKeyID: 35132831
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

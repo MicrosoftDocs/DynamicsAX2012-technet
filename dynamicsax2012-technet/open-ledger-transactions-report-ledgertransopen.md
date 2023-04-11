@@ -4,7 +4,7 @@ TOCTitle: Open ledger transactions report (LedgerTransOpen)
 ms:assetid: 658cbf06-680e-4281-9760-71d60b62db7f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585375(v=AX.60)
 ms:contentKeyID: 36687364
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

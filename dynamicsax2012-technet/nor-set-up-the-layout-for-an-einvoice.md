@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up the layout for an eInvoice
 ms:assetid: 7011a4b5-5ae4-4797-94ca-54470bbe4a68
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231825(v=AX.60)
 ms:contentKeyID: 36058053
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

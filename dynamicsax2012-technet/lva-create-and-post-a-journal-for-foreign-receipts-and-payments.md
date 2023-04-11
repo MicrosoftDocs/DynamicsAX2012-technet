@@ -4,7 +4,7 @@ TOCTitle: (LVA) Create and post a journal for foreign receipts and payments
 ms:assetid: 45a0ceef-7c43-4219-a1eb-859aa5f642e1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853408(v=AX.60)
 ms:contentKeyID: 50396779
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

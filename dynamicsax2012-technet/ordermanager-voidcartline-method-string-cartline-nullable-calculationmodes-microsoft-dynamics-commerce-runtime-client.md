@@ -4,7 +4,7 @@ TOCTitle: VoidCartLine Method (String, CartLine, Nullable(CalculationModes))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.VoidCartLine(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.voidcartline(v=AX.60)
 ms:contentKeyID: 62215165
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

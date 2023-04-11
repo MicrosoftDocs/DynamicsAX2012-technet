@@ -4,7 +4,7 @@ TOCTitle: (MEX) Create and post credit notes for a sales order and a project sal
 ms:assetid: 0606f142-a86e-4aa9-92e7-fd2f80adef83
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242110(v=AX.60)
 ms:contentKeyID: 36055958
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

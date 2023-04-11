@@ -4,7 +4,7 @@ TOCTitle: Model store architecture
 ms:assetid: a1a5dbe2-04cc-45d4-94c9-5c81be5a84be
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362019(v=AX.60)
 ms:contentKeyID: 35132792
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

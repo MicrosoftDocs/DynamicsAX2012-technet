@@ -4,7 +4,7 @@ TOCTitle: Manage record level security
 ms:assetid: ddbe0898-8504-4203-8aa0-f2821aa7cd60
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570084(v=AX.60)
 ms:contentKeyID: 39555417
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

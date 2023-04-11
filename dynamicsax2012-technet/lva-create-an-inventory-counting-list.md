@@ -4,7 +4,7 @@ TOCTitle: (LVA) Create an inventory counting list
 ms:assetid: 8aa00731-53e1-48a8-86c2-d16c69e6abe2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721424(v=AX.60)
 ms:contentKeyID: 49729991
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

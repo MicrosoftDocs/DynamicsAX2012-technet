@@ -4,7 +4,7 @@ TOCTitle: Machine operator security role (JmgMachineOperator)
 ms:assetid: ff439d7f-4ab3-4301-a246-5d74876b79f2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527152(v=AX.60)
 ms:contentKeyID: 37823203
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

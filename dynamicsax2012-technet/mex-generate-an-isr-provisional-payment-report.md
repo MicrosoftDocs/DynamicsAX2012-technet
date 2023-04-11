@@ -4,7 +4,7 @@ TOCTitle: (MEX) Generate an ISR provisional payment report
 ms:assetid: e208da75-64af-47cd-8082-414b69dfc62c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227426(v=AX.60)
 ms:contentKeyID: 36059716
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

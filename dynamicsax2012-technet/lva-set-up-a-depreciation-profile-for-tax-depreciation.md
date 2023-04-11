@@ -4,7 +4,7 @@ TOCTitle: (LVA) Set up a depreciation profile for tax depreciation
 ms:assetid: e14dda68-4d4b-458b-a9de-ef3733dc93cf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911236(v=AX.60)
 ms:contentKeyID: 52075325
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

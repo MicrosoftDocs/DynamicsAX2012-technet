@@ -4,7 +4,7 @@ TOCTitle: Managing sales information
 ms:assetid: 8cf2205e-1404-4cda-a4e7-9780b2107f31
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271593(v=AX.60)
 ms:contentKeyID: 36384224
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

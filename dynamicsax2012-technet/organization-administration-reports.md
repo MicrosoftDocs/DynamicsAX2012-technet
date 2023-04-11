@@ -4,7 +4,7 @@ TOCTitle: Organization administration reports
 ms:assetid: 69a2928f-c27b-46ae-bfde-d807f19595bd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334490(v=AX.60)
 ms:contentKeyID: 36676477
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

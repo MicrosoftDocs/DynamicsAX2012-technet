@@ -4,7 +4,7 @@ TOCTitle: (LVA) Setting up and maintaining General ledger
 ms:assetid: 72a7e70d-70f7-4fbc-8b4b-0cd578ea0240
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731029(v=AX.60)
 ms:contentKeyID: 49675269
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

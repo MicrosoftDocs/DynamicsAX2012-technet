@@ -4,7 +4,7 @@ TOCTitle: Payment configuration key (MCRPayment)
 ms:assetid: 2e5df82a-bb3a-4881-b675-9a6a3e6dba3c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774941(v=AX.60)
 ms:contentKeyID: 62617662
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

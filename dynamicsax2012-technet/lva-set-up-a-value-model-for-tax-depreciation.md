@@ -4,7 +4,7 @@ TOCTitle: (LVA) Set up a value model for tax depreciation
 ms:assetid: 2b8694d9-403f-42f2-8910-72a0e453b780
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910992(v=AX.60)
 ms:contentKeyID: 52075316
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

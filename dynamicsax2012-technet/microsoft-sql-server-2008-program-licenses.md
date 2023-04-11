@@ -4,7 +4,7 @@ TOCTitle: 'Microsoft SQL Server 2008 Program Licenses '
 ms:assetid: 43d765a0-405c-4aae-a29b-e040114f534d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg188991(v=AX.60)
 ms:contentKeyID: 35410571
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

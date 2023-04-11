@@ -4,7 +4,7 @@ TOCTitle: (NOR) Enrollment process for the eInvoice service
 ms:assetid: 765a86ad-b433-4140-8885-e711f67c9bb3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212977(v=AX.60)
 ms:contentKeyID: 36058189
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

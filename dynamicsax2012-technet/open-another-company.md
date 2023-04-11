@@ -4,7 +4,7 @@ TOCTitle: Open another company
 ms:assetid: 6ba2e376-432e-4f2b-9318-9ccf649b9a96
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571190(v=AX.60)
 ms:contentKeyID: 37832506
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

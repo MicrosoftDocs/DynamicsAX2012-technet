@@ -4,7 +4,7 @@ TOCTitle: (LVA) Create a payment order by using a customer payment journal
 ms:assetid: 06bc0140-410a-46c1-99c5-5456bd4a3785
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720360(v=AX.60)
 ms:contentKeyID: 49721156
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

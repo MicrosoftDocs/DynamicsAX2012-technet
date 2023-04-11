@@ -4,7 +4,7 @@ TOCTitle: Offer a solution to the customer
 ms:assetid: 6f72ec77-c1f9-4ae1-810a-18c7fb198fde
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231820(v=AX.60)
 ms:contentKeyID: 36058045
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

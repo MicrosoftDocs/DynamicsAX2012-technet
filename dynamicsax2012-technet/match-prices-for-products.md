@@ -4,7 +4,7 @@ TOCTitle: Match prices for products
 ms:assetid: 13061fb3-96a8-4f62-94ec-7d6d4fc53ed4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715953(v=AX.60)
 ms:contentKeyID: 62200035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (NLD) Set up parameters to calculate collection fees for a collection 
 ms:assetid: e6464942-79a6-42c2-a443-b9c920178c3c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn789108(v=AX.60)
 ms:contentKeyID: 62519968
-author: Khairunj
+author: tonyafehr
 ms.date: 07/14/2014
 mtps_version: v=AX.60
 f1_keywords:

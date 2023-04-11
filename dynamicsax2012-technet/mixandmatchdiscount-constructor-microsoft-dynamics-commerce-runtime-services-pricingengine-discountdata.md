@@ -4,7 +4,7 @@ TOCTitle: MixAndMatchDiscount Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.MixAndMatchDiscount.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.mixandmatchdiscount.mixandmatchdiscount(v=AX.60)
 ms:contentKeyID: 62202442
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

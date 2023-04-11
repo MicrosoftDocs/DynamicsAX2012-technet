@@ -4,7 +4,7 @@ TOCTitle: Pay when paid configuration key (PSAPwp)
 ms:assetid: 00f7a64b-96cb-4547-b606-e63ef5848625
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500145(v=AX.60)
 ms:contentKeyID: 37820175
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

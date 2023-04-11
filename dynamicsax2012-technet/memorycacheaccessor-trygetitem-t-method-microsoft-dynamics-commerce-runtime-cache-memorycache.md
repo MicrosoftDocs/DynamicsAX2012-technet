@@ -4,7 +4,7 @@ TOCTitle: TryGetItem(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Cache.MemoryCache.MemoryCacheAccessor.TryGetItem``1(System.String,``0@,Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn989647(v=AX.60)
 ms:contentKeyID: 65320106
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

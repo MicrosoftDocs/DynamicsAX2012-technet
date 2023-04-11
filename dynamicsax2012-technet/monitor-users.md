@@ -4,7 +4,7 @@ TOCTitle: Monitor users
 ms:assetid: 2d98ea0a-d3bd-42cc-a96e-6a174c3c8d1e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496469(v=AX.60)
 ms:contentKeyID: 39555336
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

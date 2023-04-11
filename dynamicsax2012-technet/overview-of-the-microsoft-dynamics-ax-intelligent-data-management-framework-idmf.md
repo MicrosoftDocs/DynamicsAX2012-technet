@@ -4,7 +4,7 @@ TOCTitle: Intelligent Data Management Framework (IDMF)
 ms:assetid: c8ad334b-84ec-4ce4-8505-f7113ee8f21b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389766(v=AX.60)
 ms:contentKeyID: 36899745
-author: Khairunj
+author: tonyafehr
 ms.date: 10/12/2018
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Migrate data from Microsoft Dynamics Retail Management System (Retail 
 ms:assetid: ab056d98-0ca0-49ea-a616-a24728431b5d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736933(v=AX.60)
 ms:contentKeyID: 62200411
-author: Khairunj
+author: tonyafehr
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 f1_keywords:

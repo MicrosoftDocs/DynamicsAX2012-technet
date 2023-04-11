@@ -4,7 +4,7 @@ TOCTitle: Offboard workers
 ms:assetid: 119d6de7-462f-4735-8263-fc11fa4c88d2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230930(v=AX.60)
 ms:contentKeyID: 36056034
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

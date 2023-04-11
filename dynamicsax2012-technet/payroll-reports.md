@@ -4,7 +4,7 @@ TOCTitle: Payroll reports
 ms:assetid: 3503826f-f845-431d-b357-cd0c7fedfca6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ713633(v=AX.60)
 ms:contentKeyID: 49643129
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

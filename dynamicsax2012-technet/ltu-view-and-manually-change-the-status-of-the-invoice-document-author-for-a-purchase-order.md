@@ -4,7 +4,7 @@ TOCTitle: (LTU) View and manually change the status of the invoice document auth
 ms:assetid: 9d0bb8d1-7f85-44c6-9480-bfe06ab0f614
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665147(v=AX.60)
 ms:contentKeyID: 49386728
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

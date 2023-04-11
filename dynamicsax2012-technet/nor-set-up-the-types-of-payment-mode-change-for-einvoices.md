@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up the types of payment mode change for eInvoices
 ms:assetid: e7f31ffc-d255-41e0-96c9-f26d2f5ee75c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243234(v=AX.60)
 ms:contentKeyID: 36059825
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

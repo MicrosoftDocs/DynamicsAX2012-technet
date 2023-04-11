@@ -4,7 +4,7 @@ TOCTitle: Materials manager security role (InventMaterialsManager)
 ms:assetid: 6627dd63-fd6a-4ebb-9719-fa47afbb2c47
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527100(v=AX.60)
 ms:contentKeyID: 37823152
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

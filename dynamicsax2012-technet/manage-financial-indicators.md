@@ -4,7 +4,7 @@ TOCTitle: Manage financial indicators
 ms:assetid: 36792bee-81bc-4a79-8d01-2929ded5edbd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677297(v=AX.60)
 ms:contentKeyID: 49384068
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

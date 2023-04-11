@@ -4,7 +4,7 @@ TOCTitle: (NLD) Export financial data in XML format
 ms:assetid: d897dca4-a9b4-46a5-8eb6-944c094a8037
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227396(v=AX.60)
 ms:contentKeyID: 36059644
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

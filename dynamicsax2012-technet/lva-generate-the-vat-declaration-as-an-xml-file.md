@@ -4,7 +4,7 @@ TOCTitle: (LVA) Generate the VAT declaration as an XML file
 ms:assetid: a75a6b16-5cf3-4017-b4c0-531bedaf92bc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716013(v=AX.60)
 ms:contentKeyID: 62200256
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

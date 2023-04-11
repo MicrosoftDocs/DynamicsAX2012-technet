@@ -4,7 +4,7 @@ TOCTitle: Perform a single-computer installation of Microsoft Dynamics AX
 ms:assetid: 7f91b4a4-8c21-4daf-9439-4bc810354217
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731846(v=AX.60)
 ms:contentKeyID: 35132699
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

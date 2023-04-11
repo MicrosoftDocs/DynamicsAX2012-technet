@@ -4,7 +4,7 @@ TOCTitle: Maintain information for dependents and beneficiaries
 ms:assetid: 8e3466af-19a9-472b-a468-0b194fcd0e5f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209360(v=AX.60)
 ms:contentKeyID: 36058510
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

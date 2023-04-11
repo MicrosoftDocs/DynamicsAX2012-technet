@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up eGiro parameters
 ms:assetid: bf5bb268-8940-42b7-b6e4-e5b07da9c333
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213626(v=AX.60)
 ms:contentKeyID: 36059258
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

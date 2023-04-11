@@ -4,7 +4,7 @@ TOCTitle: Modify a project stage
 ms:assetid: 5e04c140-252e-4c32-bc08-678953a6b3f1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242518(v=AX.60)
 ms:contentKeyID: 36811406
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

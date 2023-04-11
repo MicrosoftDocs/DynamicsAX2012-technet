@@ -4,7 +4,7 @@ TOCTitle: Named user license count report (SysUserLicenseCountReport)
 ms:assetid: 8871eaf3-15a2-47a2-b088-f82c3e519a75
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335160(v=AX.60)
 ms:contentKeyID: 36687372
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

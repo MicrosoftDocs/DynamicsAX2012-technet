@@ -4,7 +4,7 @@ TOCTitle: (LVA) Collect for product or service overview
 ms:assetid: 6d733293-4772-4c33-925f-abc0a485ac13
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720363(v=AX.60)
 ms:contentKeyID: 49721160
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

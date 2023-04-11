@@ -4,7 +4,7 @@ TOCTitle: Pick an item
 ms:assetid: cc3d40cc-ec23-4f79-b010-865ee00adc93
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213668(v=AX.60)
 ms:contentKeyID: 36059449
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

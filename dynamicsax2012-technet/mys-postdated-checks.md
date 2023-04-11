@@ -4,7 +4,7 @@ TOCTitle: (MYS) Postdated checks
 ms:assetid: a46d0a64-4d5a-42d3-890c-99e56f753359
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213409(v=AX.60)
 ms:contentKeyID: 36058857
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

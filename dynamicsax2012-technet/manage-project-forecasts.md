@@ -4,7 +4,7 @@ TOCTitle: Manage project forecasts
 ms:assetid: 63fb5f53-f2af-4522-a7b8-e2933d287a3c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209217(v=AX.60)
 ms:contentKeyID: 36057705
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

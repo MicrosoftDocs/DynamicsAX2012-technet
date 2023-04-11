@@ -4,7 +4,7 @@ TOCTitle: PickAndPackOrderRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.PickAndPackOrderRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.pickandpackorderrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62202082
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

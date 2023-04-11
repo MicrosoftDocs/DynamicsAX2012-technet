@@ -4,7 +4,7 @@ TOCTitle: Patterns white papers
 ms:assetid: 6f32fa82-2b8f-4260-91cf-142f8963d0c7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272868(v=AX.60)
 ms:contentKeyID: 36584392
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Move service order lines
 ms:assetid: 88aad8be-c462-442d-9528-c8111d4b2039
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498228(v=AX.60)
 ms:contentKeyID: 36058453
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

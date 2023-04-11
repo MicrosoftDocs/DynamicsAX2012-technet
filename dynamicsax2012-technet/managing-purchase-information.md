@@ -4,7 +4,7 @@ TOCTitle: Managing purchase information
 ms:assetid: 19b0930a-0b3d-4de8-a8a6-78afa592102e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271463(v=AX.60)
 ms:contentKeyID: 36384095
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

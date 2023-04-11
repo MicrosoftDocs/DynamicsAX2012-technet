@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up the transportation parameter in a project invoice
 ms:assetid: e2d22ba4-c49d-4706-aca1-b1296069db41
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678075(v=AX.60)
 ms:contentKeyID: 49386798
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

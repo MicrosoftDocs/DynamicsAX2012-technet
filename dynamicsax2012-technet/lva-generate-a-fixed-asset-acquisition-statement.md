@@ -4,7 +4,7 @@ TOCTitle: (LVA) Generate a fixed asset acquisition statement
 ms:assetid: ab3eaf3b-675d-4a01-8ee4-fc223df9e549
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853413(v=AX.60)
 ms:contentKeyID: 50396782
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: MixAndMatchDiscountPercent Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PeriodicDiscount.MixAndMatchDiscountPercent
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.periodicdiscount.mixandmatchdiscountpercent(v=AX.60)
 ms:contentKeyID: 49850733
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

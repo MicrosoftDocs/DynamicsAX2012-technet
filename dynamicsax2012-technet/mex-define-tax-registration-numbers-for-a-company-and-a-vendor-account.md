@@ -4,7 +4,7 @@ TOCTitle: (MEX) Define tax registration numbers for a company and a vendor accou
 ms:assetid: 6b0da322-8f95-4a70-9ab9-82c820074c05
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242611(v=AX.60)
 ms:contentKeyID: 36057986
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up and maintain payment IDs
 ms:assetid: 3397b283-32c8-4cf1-95be-306e27acfffb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231083(v=AX.60)
 ms:contentKeyID: 36056542
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

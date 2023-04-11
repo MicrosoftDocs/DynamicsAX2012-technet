@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up the file types and parameters to archive files
 ms:assetid: c3467400-be6b-480a-8076-904b2c9cc300
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213638(v=AX.60)
 ms:contentKeyID: 36059287
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: AddReasonCodeLineToTenderLine Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.AddReasonCodeLineToTenderLine(System.String,System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeLine)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.addreasoncodelinetotenderline(v=AX.60)
 ms:contentKeyID: 62204784
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

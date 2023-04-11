@@ -4,7 +4,7 @@ TOCTitle: Maintaining vendor transactions
 ms:assetid: 7d28406f-e435-4561-a109-185cb9947bcd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271576(v=AX.60)
 ms:contentKeyID: 36384207
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

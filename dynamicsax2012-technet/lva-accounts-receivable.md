@@ -4,7 +4,7 @@ TOCTitle: (LVA) Accounts receivable
 ms:assetid: 7f0f38ae-0a7a-4fc7-8777-b576af4fd281
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731040(v=AX.60)
 ms:contentKeyID: 49675280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

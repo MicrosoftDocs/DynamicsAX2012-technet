@@ -4,7 +4,7 @@ TOCTitle: (MEX) Generate the DIOT declaration report (DIOTDeclaration_MX)
 ms:assetid: 0c8a571c-2452-4d8c-8532-df96ec37feab
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335132(v=AX.60)
 ms:contentKeyID: 36687341
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

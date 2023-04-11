@@ -4,7 +4,7 @@ TOCTitle: NeedChannelIdFromPrincipal Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.MakePaymentRequest.NeedChannelIdFromPrincipal
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.makepaymentrequest.needchannelidfromprincipal(v=AX.60)
 ms:contentKeyID: 65321246
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ManualCardNumberNotAllowed Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.PaymentErrors.ManualCardNumberNotAllowed
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.paymenterrors.manualcardnumbernotallowed(v=AX.60)
 ms:contentKeyID: 62209509
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Master Planning configuration key (Req)
 ms:assetid: e227adb2-4acc-47e7-95f7-fdcc62bff941
 ms:mtpsurl: https://technet.microsoft.com/library/Aa599692(v=AX.60)
 ms:contentKeyID: 36941232
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

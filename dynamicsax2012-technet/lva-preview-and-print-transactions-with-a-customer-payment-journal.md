@@ -4,7 +4,7 @@ TOCTitle: (LVA) Preview and print transactions with a customer payment journal
 ms:assetid: dca23869-1789-4a03-8c2a-afe5dcf925b1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721433(v=AX.60)
 ms:contentKeyID: 49729997
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

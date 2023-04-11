@@ -4,7 +4,7 @@ TOCTitle: Move-AXModel
 ms:assetid: 45883544-60A2-4F54-A6B5-11DB86BC137E
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720254(v=AX.60)
 ms:contentKeyID: 49720044
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: XMLDocument Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.PickReceiveDocument.XMLDocument
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.pickreceivedocument.xmldocument(v=AX.60)
 ms:contentKeyID: 62209239
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

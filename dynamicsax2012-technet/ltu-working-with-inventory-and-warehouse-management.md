@@ -4,7 +4,7 @@ TOCTitle: (LTU) Working with Inventory and warehouse management
 ms:assetid: ba40991d-e830-43a3-8d41-5ab89dbd0a0b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665172(v=AX.60)
 ms:contentKeyID: 49386753
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (LVA) Warehouse operations overview
 ms:assetid: 5fafbf37-b08f-493d-bbb8-99822c96e97e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731027(v=AX.60)
 ms:contentKeyID: 49675266
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up the Avtalegiro method of payment
 ms:assetid: 174bd380-2b4c-4a28-96a3-7d74c98fc4aa
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230961(v=AX.60)
 ms:contentKeyID: 36056082
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

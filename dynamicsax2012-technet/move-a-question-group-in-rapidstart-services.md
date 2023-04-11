@@ -4,7 +4,7 @@ TOCTitle: Move a question group in RapidStart Services
 ms:assetid: ed5e2b78-9057-402e-ae45-5507adf8c0b1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413255(v=AX.60)
 ms:contentKeyID: 36918946
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

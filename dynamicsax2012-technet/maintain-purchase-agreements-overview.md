@@ -4,7 +4,7 @@ TOCTitle: Maintain purchase agreements overview
 ms:assetid: 0c51294e-f5ff-4463-866d-566d000a2c77
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242126(v=AX.60)
 ms:contentKeyID: 36055994
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

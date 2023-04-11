@@ -4,7 +4,7 @@ TOCTitle: Overview of Reporting Services
 ms:assetid: 38f68dc5-b863-44bf-b913-a640bb3a9cfd
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309644(v=AX.60)
 ms:contentKeyID: 35132837
-author: Khairunj
+author: tonyafehr
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

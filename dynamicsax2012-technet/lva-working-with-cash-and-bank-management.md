@@ -4,7 +4,7 @@ TOCTitle: (LVA) Working with Cash and bank management
 ms:assetid: 0e2c35b7-c450-4dd2-be89-d5e3a11725da
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731001(v=AX.60)
 ms:contentKeyID: 49675241
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Perform a foreign currency revaluation
 ms:assetid: f98eeac2-160b-4bcc-938b-5cbbad1a137a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499830(v=AX.60)
 ms:contentKeyID: 39519383
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Payment schedule configuration key (PaymSched)
 ms:assetid: e83b3bd2-2d18-44e1-b7ee-d38df9f436b9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467573(v=AX.60)
 ms:contentKeyID: 36991720
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

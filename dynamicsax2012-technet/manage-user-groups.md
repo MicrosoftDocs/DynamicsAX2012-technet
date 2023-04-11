@@ -4,7 +4,7 @@ TOCTitle: Manage user groups
 ms:assetid: a7af6909-7748-493c-91aa-d78ce3c618ff
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834422(v=AX.60)
 ms:contentKeyID: 39555395
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

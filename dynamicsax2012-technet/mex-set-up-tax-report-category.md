@@ -4,7 +4,7 @@ TOCTitle: (MEX) Set up tax report category
 ms:assetid: 2127b708-2929-4914-990e-47b11d4505fc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208471(v=AX.60)
 ms:contentKeyID: 36056162
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

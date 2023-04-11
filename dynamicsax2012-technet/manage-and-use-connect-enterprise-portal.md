@@ -4,7 +4,7 @@ TOCTitle: Manage and use Connect (Enterprise Portal)
 ms:assetid: 1f47cb15-99a5-44bf-ba7e-cd6c96e5ec38
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208464(v=AX.60)
 ms:contentKeyID: 36056150
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

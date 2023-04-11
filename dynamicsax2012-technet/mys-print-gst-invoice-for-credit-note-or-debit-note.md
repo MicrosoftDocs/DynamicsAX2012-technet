@@ -4,7 +4,7 @@ TOCTitle: (MYS) Print GST invoice for credit note or debit note
 ms:assetid: d75a1a11-dff9-4a43-bd51-aba697a77d39
 ms:mtpsurl: https://technet.microsoft.com/library/Dn858083(v=AX.60)
 ms:contentKeyID: 63400915
-author: Khairunj
+author: tonyafehr
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 audience: Application User

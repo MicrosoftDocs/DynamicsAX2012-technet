@@ -4,7 +4,7 @@ TOCTitle: Platform Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.PaymentServiceRequestBase.Platform
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.paymentservicerequestbase.platform(v=AX.60)
 ms:contentKeyID: 65318907
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

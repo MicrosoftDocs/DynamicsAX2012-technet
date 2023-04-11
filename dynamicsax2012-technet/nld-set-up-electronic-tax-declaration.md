@@ -4,7 +4,7 @@ TOCTitle: (NLD) Set up electronic tax declaration
 ms:assetid: 2f44db86-7c87-4257-964e-29621a33d647
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231023(v=AX.60)
 ms:contentKeyID: 36056296
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

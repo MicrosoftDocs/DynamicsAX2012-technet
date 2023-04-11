@@ -4,7 +4,7 @@ TOCTitle: OOBStorefrontEventReceiver Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Features.OOBStorefront.OOBStorefrontEventReceiver
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.features.oobstorefront.oobstorefronteventreceiver_methods(v=AX.60)
 ms:contentKeyID: 62207150
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

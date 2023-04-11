@@ -4,7 +4,7 @@ TOCTitle: Overview of Product Builder and multisite
 ms:assetid: ff4a9c8c-3617-4194-bdd6-0308b2425562
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243318(v=AX.60)
 ms:contentKeyID: 36676423
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

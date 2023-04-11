@@ -4,7 +4,7 @@ TOCTitle: Maintain planned orders
 ms:assetid: ad1ae9d7-0fb6-433b-bc33-150050a1a665
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498581(v=AX.60)
 ms:contentKeyID: 36058924
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

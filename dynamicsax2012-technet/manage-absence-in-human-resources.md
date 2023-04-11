@@ -4,7 +4,7 @@ TOCTitle: Manage absence in Human resources
 ms:assetid: e7a70ca1-bd30-4594-82b2-c32430d644a8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243232(v=AX.60)
 ms:contentKeyID: 36676414
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

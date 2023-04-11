@@ -4,7 +4,7 @@ TOCTitle: My cases Role Center report (Case_MyCases)
 ms:assetid: 99bf3a95-1dd1-49dd-b789-26909e025394
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404045(v=AX.60)
 ms:contentKeyID: 36956704
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

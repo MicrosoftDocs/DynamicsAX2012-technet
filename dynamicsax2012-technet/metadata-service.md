@@ -4,7 +4,7 @@ TOCTitle: Metadata Service
 ms:assetid: c736aa71-20e8-4d7f-8270-ca393aafc8a0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg880762(v=AX.60)
 ms:contentKeyID: 35251136
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (LVA) Create and print a sales credit note invoice with bank account d
 ms:assetid: 6b2ea58e-23e7-4903-8ec9-c384609fcedd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721423(v=AX.60)
 ms:contentKeyID: 49729987
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

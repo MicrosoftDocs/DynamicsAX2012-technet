@@ -4,7 +4,7 @@ TOCTitle: NavigationReader Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SP.CommonFeatures.NavigationReader
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.navigationreader_methods(v=AX.60)
 ms:contentKeyID: 62206436
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

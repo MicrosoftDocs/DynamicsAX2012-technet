@@ -4,7 +4,7 @@ TOCTitle: Payroll
 ms:assetid: d79efff3-eef8-4b58-b46c-9ef7274cf0de
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677365(v=AX.60)
 ms:contentKeyID: 49384141
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

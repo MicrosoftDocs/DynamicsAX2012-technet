@@ -4,7 +4,7 @@ TOCTitle: Manage your category assignments
 ms:assetid: 92df16d3-05f3-42c6-8cdf-4481d8dc96ba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271596(v=AX.60)
 ms:contentKeyID: 36384227
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

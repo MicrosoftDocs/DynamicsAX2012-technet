@@ -4,7 +4,7 @@ TOCTitle: (LVA) Set up an account for a person or company to receive payments
 ms:assetid: 9288a585-de17-4d1c-b1dc-901b74e28d52
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856156(v=AX.60)
 ms:contentKeyID: 50406996
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

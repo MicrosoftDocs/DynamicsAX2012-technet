@@ -4,7 +4,7 @@ TOCTitle: Map task groups to capabilities
 ms:assetid: a8e2f50e-1a6b-4c2c-a0cc-0d584d4b81bf
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731889(v=AX.60)
 ms:contentKeyID: 35132799
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

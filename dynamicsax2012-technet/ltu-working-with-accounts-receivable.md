@@ -4,7 +4,7 @@ TOCTitle: (LTU) Working with Accounts receivable
 ms:assetid: aab5bf45-b6a1-4fdd-883c-fc8e827007e6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665160(v=AX.60)
 ms:contentKeyID: 49386740
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

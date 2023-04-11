@@ -4,7 +4,7 @@ TOCTitle: Per diem rules
 ms:assetid: 767ea337-0fdc-4e76-a09b-e1a77f376707
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212980(v=AX.60)
 ms:contentKeyID: 36058194
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

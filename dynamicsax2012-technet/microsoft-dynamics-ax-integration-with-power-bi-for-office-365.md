@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX integration with Power BI for Office 365
 ms:assetid: c1efcf85-e9a3-4d2d-8d24-9709e58b3fc7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn768397(v=AX.60)
 ms:contentKeyID: 62500050
-author: Khairunj
+author: tonyafehr
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 ---

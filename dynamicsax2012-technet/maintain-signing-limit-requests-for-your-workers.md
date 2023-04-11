@@ -5,7 +5,7 @@ ms:assetid: 7a9ec1b3-0ce5-4696-932c-50232d0f4a73
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271573(v=AX.60)
 ms:contentKeyID: 36384204
 ms.author: anbichse
-author: Khairunj
+author: tonyafehr
 ms.date: 12/02/2020
 mtps_version: v=AX.60
 f1_keywords:

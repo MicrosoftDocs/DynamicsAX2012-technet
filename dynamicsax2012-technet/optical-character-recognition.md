@@ -4,7 +4,7 @@ TOCTitle: " optical character recognition"
 ms:assetid: DynamicsAXGlossary.86682
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.86682(v=AX.60)
 ms:contentKeyID: 45765421
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

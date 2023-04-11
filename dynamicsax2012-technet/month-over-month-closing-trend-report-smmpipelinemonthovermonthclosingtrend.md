@@ -4,7 +4,7 @@ TOCTitle: Month over month closing trend report (smmPipelineMonthOverMonthClosin
 ms:assetid: ec0d87ca-6cae-4a22-a1a6-c74f188900f8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh394889(v=AX.60)
 ms:contentKeyID: 36916372
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

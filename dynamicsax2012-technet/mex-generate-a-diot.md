@@ -4,7 +4,7 @@ TOCTitle: (MEX) Generate a DIOT
 ms:assetid: d067b7cf-435b-456f-8f34-3a2b18bbbfbf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242917(v=AX.60)
 ms:contentKeyID: 36059487
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (LVA) Print a statement of foreign payments received in domestic banks
 ms:assetid: fc22a7dc-bc8b-4420-96b3-9f8e6775da88
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911244(v=AX.60)
 ms:contentKeyID: 52075327
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

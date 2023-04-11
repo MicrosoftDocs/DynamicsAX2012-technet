@@ -4,7 +4,7 @@ TOCTitle: Modify a request for quotation
 ms:assetid: 77b0b7b8-4718-465c-9f25-ba5a60937b09
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212993(v=AX.60)
 ms:contentKeyID: 36676393
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

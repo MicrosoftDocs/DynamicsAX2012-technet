@@ -4,7 +4,7 @@ TOCTitle: NotificationException Constructor (String, Notification, String, Excep
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.NotificationException.#ctor(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.Notification,System.String,System.Exception)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.notificationexception.notificationexception(v=AX.60)
 ms:contentKeyID: 62211208
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

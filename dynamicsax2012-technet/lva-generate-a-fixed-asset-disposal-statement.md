@@ -4,7 +4,7 @@ TOCTitle: (LVA) Generate a fixed asset disposal statement
 ms:assetid: 444c3976-a11a-4f6f-91cf-959d387ea1d7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853407(v=AX.60)
 ms:contentKeyID: 50396777
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (MEX) Generate the tax summary report
 ms:assetid: eb768a5b-bd17-4e66-abd8-045d79de3056
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227489(v=AX.60)
 ms:contentKeyID: 36059876
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

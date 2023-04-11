@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up United VAT invoice for vendors
 ms:assetid: 700e688c-2a69-4ffe-94eb-408b849b6baa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665113(v=AX.60)
 ms:contentKeyID: 49386694
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

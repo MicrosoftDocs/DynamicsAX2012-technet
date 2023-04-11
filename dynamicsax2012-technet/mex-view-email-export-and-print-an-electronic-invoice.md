@@ -4,7 +4,7 @@ TOCTitle: (MEX) View, email, export, and print an electronic invoice
 ms:assetid: 82b619e2-296b-4cf3-80c7-a5616377b490
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209315(v=AX.60)
 ms:contentKeyID: 36058373
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

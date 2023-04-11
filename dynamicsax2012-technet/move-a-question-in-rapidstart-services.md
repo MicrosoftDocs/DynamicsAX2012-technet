@@ -4,7 +4,7 @@ TOCTitle: Move a question in RapidStart Services
 ms:assetid: 24d5adc6-4744-420a-ac03-1312e0f9f706
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413227(v=AX.60)
 ms:contentKeyID: 36918918
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

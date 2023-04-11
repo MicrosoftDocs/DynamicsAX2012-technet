@@ -4,7 +4,7 @@ TOCTitle: Manage KPIs
 ms:assetid: 9a0eb18c-9639-4b5a-ab91-deac75a283ce
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677301(v=AX.60)
 ms:contentKeyID: 49384072
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

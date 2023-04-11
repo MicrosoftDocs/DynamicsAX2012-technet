@@ -4,7 +4,7 @@ TOCTitle: (LVA) View a customer settlement transaction
 ms:assetid: 70743010-b828-405c-a476-73466a0e17a1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838781(v=AX.60)
 ms:contentKeyID: 50120663
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

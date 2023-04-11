@@ -4,7 +4,7 @@ TOCTitle: Manage load balancing
 ms:assetid: 26ddbe6b-3b03-4d6f-a591-fb75339d81fc
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309627(v=AX.60)
 ms:contentKeyID: 35949272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: NewDataSet Properties
 ms:assetid: Properties.T:NewDataSet
 ms:mtpsurl: https://technet.microsoft.com/library/newdataset_properties(v=AX.60)
 ms:contentKeyID: 65315844
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

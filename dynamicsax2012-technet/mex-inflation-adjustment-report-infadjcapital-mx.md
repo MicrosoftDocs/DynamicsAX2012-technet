@@ -4,7 +4,7 @@ TOCTitle: (MEX) Inflation adjustment report (InfAdjCapital_MX)
 ms:assetid: ad0929cb-8bf1-482e-9c63-6463d2771d82
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416708(v=AX.60)
 ms:contentKeyID: 36931901
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Manage quick links
 ms:assetid: 273bd672-c1c4-4408-a0da-c154bbe5a36c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208488(v=AX.60)
 ms:contentKeyID: 36056208
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

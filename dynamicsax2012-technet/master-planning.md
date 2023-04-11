@@ -4,7 +4,7 @@ TOCTitle: Master planning
 ms:assetid: 4e2e1079-3a31-49f7-b5ae-240b256b0f32
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208761(v=AX.60)
 ms:contentKeyID: 36057043
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

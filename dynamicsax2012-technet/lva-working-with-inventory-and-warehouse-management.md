@@ -4,7 +4,7 @@ TOCTitle: (LVA) Working with Inventory and warehouse management
 ms:assetid: a47c6fb7-9665-41fd-ab18-53cbca9653fc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731052(v=AX.60)
 ms:contentKeyID: 49675292
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

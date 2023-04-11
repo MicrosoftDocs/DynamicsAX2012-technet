@@ -4,7 +4,7 @@ TOCTitle: Manage organization information for workers overview
 ms:assetid: a40b53fd-4520-439b-b436-5ce2258af627
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213407(v=AX.60)
 ms:contentKeyID: 44431619
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

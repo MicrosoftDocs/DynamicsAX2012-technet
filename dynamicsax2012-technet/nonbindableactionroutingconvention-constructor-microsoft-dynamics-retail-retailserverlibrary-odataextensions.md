@@ -4,7 +4,7 @@ TOCTitle: NonBindableActionRoutingConvention Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataExtensions.NonBindableActionRoutingConvention.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odataextensions.nonbindableactionroutingconvention.nonbindableactionroutingconvention(v=AX.60)
 ms:contentKeyID: 62203350
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

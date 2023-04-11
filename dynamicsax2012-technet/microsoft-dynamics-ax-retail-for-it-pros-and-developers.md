@@ -4,7 +4,7 @@ TOCTitle: Retail
 ms:assetid: fb782d05-4648-4155-8185-4c587dff6352
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710398(v=AX.60)
 ms:contentKeyID: 49384290
-author: Khairunj
+author: tonyafehr
 ms.date: 10/26/2016
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Pay expense/commission/salary overview
 ms:assetid: 54ebb5cc-e556-4767-853e-f30a0d03be8f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212800(v=AX.60)
 ms:contentKeyID: 36057311
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

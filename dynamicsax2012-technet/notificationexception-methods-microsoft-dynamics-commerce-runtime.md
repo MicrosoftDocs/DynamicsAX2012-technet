@@ -4,7 +4,7 @@ TOCTitle: NotificationException Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.NotificationException
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.notificationexception_methods(v=AX.60)
 ms:contentKeyID: 49831798
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

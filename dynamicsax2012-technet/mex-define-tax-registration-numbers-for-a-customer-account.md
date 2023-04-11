@@ -4,7 +4,7 @@ TOCTitle: (MEX) Define tax registration numbers for a customer account
 ms:assetid: 842a449d-d6ff-4488-a489-3f67ed683540
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209318(v=AX.60)
 ms:contentKeyID: 36058384
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

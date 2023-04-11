@@ -4,7 +4,7 @@ TOCTitle: (NOR) View and analyze archived files
 ms:assetid: ab10b741-68d4-4abf-b643-244cb6dddbc8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243089(v=AX.60)
 ms:contentKeyID: 36058908
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

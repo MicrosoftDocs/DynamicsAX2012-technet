@@ -4,7 +4,7 @@ TOCTitle: (NOR) OCR payments
 ms:assetid: c85badb5-8497-4723-8911-86017040f421
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213649(v=AX.60)
 ms:contentKeyID: 36059318
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

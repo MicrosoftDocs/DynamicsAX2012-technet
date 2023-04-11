@@ -4,7 +4,7 @@ TOCTitle: (NLD) Create, send, and import the ICP tax declaration electronically
 ms:assetid: 0e03c8ea-ff12-4d38-a90f-636f49088caf
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230908(v=AX.60)
 ms:contentKeyID: 36056006
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

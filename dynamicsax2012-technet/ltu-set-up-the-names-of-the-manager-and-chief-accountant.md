@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up the names of the manager and accountant general
 ms:assetid: 105501da-4492-4b6c-b381-89936b25282b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665022(v=AX.60)
 ms:contentKeyID: 49386604
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: SaveCustomerOrder Method (String, String, TokenizedPaymentCard, String
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.SaveCustomerOrder(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.TokenizedPaymentCard,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.savecustomerorder(v=AX.60)
 ms:contentKeyID: 65315759
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

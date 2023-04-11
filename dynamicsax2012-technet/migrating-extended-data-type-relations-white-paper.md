@@ -4,7 +4,7 @@ TOCTitle: Migrating Extended Data Type Relations
 ms:assetid: 87af83b7-02b3-4c74-a1fe-01f4e9b58f40
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272870(v=AX.60)
 ms:contentKeyID: 36584394
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

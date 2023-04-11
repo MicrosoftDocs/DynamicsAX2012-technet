@@ -4,7 +4,7 @@ TOCTitle: Marketing automation license code (smmMarketingAutomation)
 ms:assetid: cd3c3067-6220-4347-ab43-88c4ecb18e6e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416690(v=AX.60)
 ms:contentKeyID: 36931851
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
