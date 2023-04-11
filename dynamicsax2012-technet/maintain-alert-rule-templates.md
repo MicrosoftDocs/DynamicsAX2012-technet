@@ -4,7 +4,7 @@ TOCTitle: Maintain alert rule templates
 ms:assetid: dd002c42-8a59-4e8c-8d75-041ec0e610b1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570081(v=AX.60)
 ms:contentKeyID: 46687569
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

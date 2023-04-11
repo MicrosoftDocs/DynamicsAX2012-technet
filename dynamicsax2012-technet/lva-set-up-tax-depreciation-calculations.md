@@ -4,7 +4,7 @@ TOCTitle: (LVA) Set up tax depreciation calculations
 ms:assetid: b1955b4e-a716-44ce-8462-eee476820c98
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911013(v=AX.60)
 ms:contentKeyID: 52075324
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

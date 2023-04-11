@@ -4,7 +4,7 @@ TOCTitle: Optimize-AXModelStore
 ms:assetid: B1A6F7BA-79ED-43B0-A3F3-DAF4E1246662
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720277(v=AX.60)
 ms:contentKeyID: 49720066
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2013
 mtps_version: v=AX.60
 ---

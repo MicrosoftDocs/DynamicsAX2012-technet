@@ -4,7 +4,7 @@ TOCTitle: Maintain open customer transactions
 ms:assetid: f4455ca0-b4ab-4354-8637-2ae8d19bd9ce
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227534(v=AX.60)
 ms:contentKeyID: 36059986
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

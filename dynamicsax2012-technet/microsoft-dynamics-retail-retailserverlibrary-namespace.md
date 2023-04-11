@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Retail.RetailServerLibrary Namespace
 ms:assetid: N:Microsoft.Dynamics.Retail.RetailServerLibrary
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary(v=AX.60)
 ms:contentKeyID: 62202651
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Managing relationships
 ms:assetid: a6dc7a64-db07-47b8-abf6-e5aecf0383bd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271618(v=AX.60)
 ms:contentKeyID: 36384250
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

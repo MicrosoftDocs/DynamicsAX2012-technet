@@ -4,7 +4,7 @@ TOCTitle: (MEX) Set up print management options for an electronic invoice
 ms:assetid: 8cb8f8ff-6ea3-48f2-be97-6860e9e206fd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209349(v=AX.60)
 ms:contentKeyID: 36058483
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

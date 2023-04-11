@@ -4,7 +4,7 @@ TOCTitle: (LVA) Print a statement of foreign receipts and payments via foreign b
 ms:assetid: a3665ceb-c5e3-4db8-9fb0-2b34bf738659
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721457(v=AX.60)
 ms:contentKeyID: 49730235
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

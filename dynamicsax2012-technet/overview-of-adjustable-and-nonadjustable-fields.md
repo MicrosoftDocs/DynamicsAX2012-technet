@@ -4,7 +4,7 @@ TOCTitle: Overview of adjustable and nonadjustable fields
 ms:assetid: 7d033834-373a-4657-b307-deeaf19d42c7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209270(v=AX.60)
 ms:contentKeyID: 36058272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

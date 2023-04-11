@@ -4,7 +4,7 @@ TOCTitle: Maintain intercompany purchase orders
 ms:assetid: 604264be-7985-4894-bb5c-cec66e4a0401
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571104(v=AX.60)
 ms:contentKeyID: 36057613
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

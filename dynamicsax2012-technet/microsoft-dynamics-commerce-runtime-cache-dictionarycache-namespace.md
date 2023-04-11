@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache Namespace
 ms:assetid: N:Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.cache.dictionarycache(v=AX.60)
 ms:contentKeyID: 65319986
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

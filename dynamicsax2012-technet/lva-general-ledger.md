@@ -4,7 +4,7 @@ TOCTitle: (LVA) General ledger
 ms:assetid: ee3986fe-c91b-48b5-95f4-f95f76874185
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731075(v=AX.60)
 ms:contentKeyID: 49675315
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

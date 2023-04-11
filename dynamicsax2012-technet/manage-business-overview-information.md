@@ -4,7 +4,7 @@ TOCTitle: Manage business overview information
 ms:assetid: 3ca6940a-eacd-4da0-840d-a816e562fc61
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242231(v=AX.60)
 ms:contentKeyID: 36056664
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

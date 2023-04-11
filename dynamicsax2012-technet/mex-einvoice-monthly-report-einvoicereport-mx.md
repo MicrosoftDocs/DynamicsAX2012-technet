@@ -4,7 +4,7 @@ TOCTitle: (MEX) Einvoice monthly report (EInvoiceReport_MX)
 ms:assetid: d715a1fe-9dc5-4e7b-8881-ec9d3cc404f5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh371730(v=AX.60)
 ms:contentKeyID: 36814944
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

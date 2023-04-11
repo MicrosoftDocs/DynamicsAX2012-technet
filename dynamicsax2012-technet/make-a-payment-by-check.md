@@ -4,7 +4,7 @@ TOCTitle: Make a payment by check
 ms:assetid: 31baab1e-a686-4627-8714-21be0cc2016c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570052(v=AX.60)
 ms:contentKeyID: 36056344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

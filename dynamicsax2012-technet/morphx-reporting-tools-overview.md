@@ -4,7 +4,7 @@ TOCTitle: MorphX Reporting Tools Overview
 ms:assetid: 0a0b6d19-aa25-49e8-8889-0786633579f1
 ms:mtpsurl: https://technet.microsoft.com/library/Cc967358(v=AX.60)
 ms:contentKeyID: 35290294
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

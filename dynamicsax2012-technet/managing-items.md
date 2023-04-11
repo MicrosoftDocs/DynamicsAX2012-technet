@@ -4,7 +4,7 @@ TOCTitle: Managing items
 ms:assetid: b3f8e14a-ef77-4422-9aa6-eeb7ab8fe3e0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271628(v=AX.60)
 ms:contentKeyID: 36384260
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

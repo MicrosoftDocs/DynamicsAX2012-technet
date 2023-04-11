@@ -4,7 +4,7 @@ TOCTitle: ShippingInventLocationId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.OrgUnit.ShippingInventLocationId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.orgunit.shippinginventlocationid(v=AX.60)
 ms:contentKeyID: 62213214
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

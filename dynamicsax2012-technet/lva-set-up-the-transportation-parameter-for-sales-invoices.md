@@ -4,7 +4,7 @@ TOCTitle: (LVA) Set up the transportation parameter for sales invoices
 ms:assetid: a6673187-6ced-4bb2-ae80-bbaacde6df04
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731054(v=AX.60)
 ms:contentKeyID: 49675294
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

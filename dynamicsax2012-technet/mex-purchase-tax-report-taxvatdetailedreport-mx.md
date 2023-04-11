@@ -4,7 +4,7 @@ TOCTitle: (MEX) Purchase tax report (TaxVATDetailedReport_MX)
 ms:assetid: b62e4aba-6e09-48a2-99b2-3b37a0fd82d4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335165(v=AX.60)
 ms:contentKeyID: 36687378
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Developer Forms
 ms:assetid: 7243ed09-984f-4c31-b471-3cecf1b7d200
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272141(v=AX.60)
 ms:contentKeyID: 36542901
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

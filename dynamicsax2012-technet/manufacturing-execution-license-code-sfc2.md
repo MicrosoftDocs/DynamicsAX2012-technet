@@ -4,7 +4,7 @@ TOCTitle: Manufacturing execution license code (SFC2)
 ms:assetid: fc5eb6c5-ec17-4253-aae7-fa13efcb00ff
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456323(v=AX.60)
 ms:contentKeyID: 36997784
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

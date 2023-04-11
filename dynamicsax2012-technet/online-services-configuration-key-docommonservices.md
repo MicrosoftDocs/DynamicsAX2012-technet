@@ -4,7 +4,7 @@ TOCTitle: Online Services configuration key (DOCommonServices)
 ms:assetid: b8cc1e6f-de18-4957-97df-0d8a745a9183
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467563(v=AX.60)
 ms:contentKeyID: 36991709
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

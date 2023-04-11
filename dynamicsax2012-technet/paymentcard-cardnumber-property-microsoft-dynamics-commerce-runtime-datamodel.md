@@ -4,7 +4,7 @@ TOCTitle: CardNumber Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard.CardNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.paymentcard.cardnumber(v=AX.60)
 ms:contentKeyID: 49836444
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

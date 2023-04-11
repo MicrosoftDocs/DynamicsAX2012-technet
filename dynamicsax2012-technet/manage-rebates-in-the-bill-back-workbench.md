@@ -4,7 +4,7 @@ TOCTitle: Manage rebates in the bill back workbench
 ms:assetid: 16a4407d-b566-4587-bfc6-3d6cdba13900
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497717(v=AX.60)
 ms:contentKeyID: 62490076
-author: Khairunj
+author: tonyafehr
 ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:

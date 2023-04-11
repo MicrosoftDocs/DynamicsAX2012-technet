@@ -4,7 +4,7 @@ TOCTitle: AddReasonCodeLineToCart Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.AddReasonCodeLineToCart(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeLine)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.addreasoncodelinetocart(v=AX.60)
 ms:contentKeyID: 62209830
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

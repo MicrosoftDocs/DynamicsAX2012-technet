@@ -4,7 +4,7 @@ TOCTitle: Marketing automation configuration key (smmMA)
 ms:assetid: 111b6561-fa62-48bb-923e-3dc15ea8ed4b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571875(v=AX.60)
 ms:contentKeyID: 36931813
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

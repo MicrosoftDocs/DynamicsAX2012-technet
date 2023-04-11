@@ -4,7 +4,7 @@ TOCTitle: Marketing manager security role (CRMMarketingManager)
 ms:assetid: b6f8e6a9-3c5f-44c0-b14d-7916ae4b53f6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527127(v=AX.60)
 ms:contentKeyID: 37823177
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (MYS) Print GST customer invoices with a relief clause
 ms:assetid: ceb8c657-37c6-437c-9a3a-311e87665cfc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn858082(v=AX.60)
 ms:contentKeyID: 63400914
-author: Khairunj
+author: tonyafehr
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

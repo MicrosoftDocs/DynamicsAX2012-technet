@@ -4,7 +4,7 @@ TOCTitle: Make the sale overview
 ms:assetid: 3d3a8aad-35de-41fe-abf6-87cb898d20f5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231162(v=AX.60)
 ms:contentKeyID: 36056676
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

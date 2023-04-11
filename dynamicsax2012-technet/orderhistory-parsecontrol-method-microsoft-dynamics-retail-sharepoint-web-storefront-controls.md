@@ -4,7 +4,7 @@ TOCTitle: ParseControl Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.OrderHistory.ParseControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.orderhistory.parsecontrol(v=AX.60)
 ms:contentKeyID: 62204820
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

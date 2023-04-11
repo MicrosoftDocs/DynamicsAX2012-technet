@@ -4,7 +4,7 @@ TOCTitle: Pick, put, and pack an outbound load
 ms:assetid: 30305963-f259-49e0-8700-4afdd77bd321
 ms:mtpsurl: https://technet.microsoft.com/library/Dn770231(v=AX.60)
 ms:contentKeyID: 62583044
-author: Khairunj
+author: tonyafehr
 ms.date: 07/11/2014
 mtps_version: v=AX.60
 audience: Application User

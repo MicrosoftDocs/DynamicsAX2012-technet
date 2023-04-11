@@ -4,7 +4,7 @@ TOCTitle: Payroll manager security role (HcmPayrollManager)
 ms:assetid: afb4a500-e9a1-4590-9c38-86987752a3c5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527121(v=AX.60)
 ms:contentKeyID: 37823172
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

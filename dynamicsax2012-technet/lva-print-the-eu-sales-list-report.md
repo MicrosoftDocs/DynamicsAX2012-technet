@@ -4,7 +4,7 @@ TOCTitle: (LVA) Print the EU sales list report
 ms:assetid: 938ae824-7a86-4174-8e3d-9bf1057f6b51
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721428(v=AX.60)
 ms:contentKeyID: 49729992
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

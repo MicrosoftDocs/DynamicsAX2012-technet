@@ -4,7 +4,7 @@ TOCTitle: PagedResult(TEntity) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.PagedResult`1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn739106(v=AX.60)
 ms:contentKeyID: 62211919
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (MEX) Set up a sales tax code for an electronic invoice
 ms:assetid: fbd15922-b607-4e34-be19-bdc2f59ee285
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227573(v=AX.60)
 ms:contentKeyID: 36060085
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

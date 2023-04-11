@@ -4,7 +4,7 @@ TOCTitle: Manage template BOMs on object relations
 ms:assetid: 9519e96c-9a0f-4b24-b3a5-493bf023d1ff
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498422(v=AX.60)
 ms:contentKeyID: 36058611
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

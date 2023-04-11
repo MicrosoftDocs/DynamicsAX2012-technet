@@ -4,7 +4,7 @@ TOCTitle: GetCurrentShiftNonSaleOperations Method (NonSalesTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.NonSaleTenderOperationDataManager.GetCurrentShiftNonSaleOperations(Microsoft.Dynamics.Commerce.Runtime.DataModel.NonSalesTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.nonsaletenderoperationdatamanager.getcurrentshiftnonsaleoperations(v=AX.60)
 ms:contentKeyID: 62208902
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

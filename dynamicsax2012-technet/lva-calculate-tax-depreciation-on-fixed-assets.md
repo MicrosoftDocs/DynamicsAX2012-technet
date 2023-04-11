@@ -4,7 +4,7 @@ TOCTitle: (LVA) Calculate tax depreciation on fixed assets
 ms:assetid: 1ba4adbc-8b6c-4d3b-869a-82325c8ecdc7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910991(v=AX.60)
 ms:contentKeyID: 52075317
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

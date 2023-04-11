@@ -4,7 +4,7 @@ TOCTitle: PaymentCardTypesResponse Constructor (Collection(PaymentCardType))
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.PaymentCardTypesResponse.#ctor(System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.PaymentCardType})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.paymentcardtypesresponse.paymentcardtypesresponse(v=AX.60)
 ms:contentKeyID: 65316370
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Commerce.Runtime.Helpers Namespace
 ms:assetid: N:Microsoft.Dynamics.Commerce.Runtime.Helpers
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.helpers(v=AX.60)
 ms:contentKeyID: 62207724
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (MEX) Create and post a sales order and a project sales order as elect
 ms:assetid: c7050d39-6467-49a2-88de-a3710128861a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242845(v=AX.60)
 ms:contentKeyID: 36059309
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

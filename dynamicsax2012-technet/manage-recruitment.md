@@ -4,7 +4,7 @@ TOCTitle: Manage recruitment
 ms:assetid: 6a8da444-bc8e-4101-b4b6-b528057eb282
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231771(v=AX.60)
 ms:contentKeyID: 37072057
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

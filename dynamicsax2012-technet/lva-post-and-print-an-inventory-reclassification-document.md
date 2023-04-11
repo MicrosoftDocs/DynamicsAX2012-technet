@@ -4,7 +4,7 @@ TOCTitle: (LVA) Post and print an inventory reclassification document
 ms:assetid: 4d4218fc-365b-431d-89e5-84469454208d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721452(v=AX.60)
 ms:contentKeyID: 49730230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

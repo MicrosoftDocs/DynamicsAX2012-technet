@@ -4,7 +4,7 @@ TOCTitle: Managing customer accounts
 ms:assetid: 3863d73e-3a4d-44f0-a359-c0d98bbdc70c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271499(v=AX.60)
 ms:contentKeyID: 36384131
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

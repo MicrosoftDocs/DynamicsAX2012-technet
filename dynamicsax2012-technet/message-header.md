@@ -4,7 +4,7 @@ TOCTitle: Message Header
 ms:assetid: d290df0a-0902-49c3-a732-b2b85eb92fb3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa872025(v=AX.60)
 ms:contentKeyID: 35251912
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

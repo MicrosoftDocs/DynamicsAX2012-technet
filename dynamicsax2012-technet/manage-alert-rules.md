@@ -4,7 +4,7 @@ TOCTitle: Manage alert rules
 ms:assetid: e5e032e6-ced4-435f-ba23-937ec8e8b140
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573182(v=AX.60)
 ms:contentKeyID: 46687570
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

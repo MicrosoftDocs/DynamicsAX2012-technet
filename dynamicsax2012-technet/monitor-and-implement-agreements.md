@@ -4,7 +4,7 @@ TOCTitle: Monitor and implement agreements
 ms:assetid: b53469e6-347c-43ba-a6c7-12e9af800809
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232424(v=AX.60)
 ms:contentKeyID: 42517336
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Payment advice report (CustPaymManOutputReport)
 ms:assetid: 32495a32-96cd-4636-80b1-80d47876e8a8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538448(v=AX.60)
 ms:contentKeyID: 39508871
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

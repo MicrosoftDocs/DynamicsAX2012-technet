@@ -4,7 +4,7 @@ TOCTitle: (MEX) Create and post a free text invoice as an electronic invoice
 ms:assetid: 7477c323-24e6-4a1a-9aca-ae13d5979e5d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209236(v=AX.60)
 ms:contentKeyID: 36058157
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

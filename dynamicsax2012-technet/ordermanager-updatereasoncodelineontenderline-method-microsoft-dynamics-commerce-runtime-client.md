@@ -4,7 +4,7 @@ TOCTitle: UpdateReasonCodeLineOnTenderLine Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.UpdateReasonCodeLineOnTenderLine(System.String,System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeLine)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.updatereasoncodelineontenderline(v=AX.60)
 ms:contentKeyID: 62208027
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

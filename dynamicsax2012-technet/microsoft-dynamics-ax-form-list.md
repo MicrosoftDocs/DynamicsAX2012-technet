@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX form list
 ms:assetid: ba262817-edf2-493c-9cd4-7160a4beb22f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn798955(v=AX.60)
 ms:contentKeyID: 62803606
-author: Khairunj
+author: tonyafehr
 ms.date: 08/22/2014
 mtps_version: v=AX.60
 f1_keywords:

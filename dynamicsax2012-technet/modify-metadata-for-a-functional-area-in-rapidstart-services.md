@@ -4,7 +4,7 @@ TOCTitle: Modify metadata for a functional area in RapidStart Services
 ms:assetid: 67adc7b4-14c0-44b9-864c-59aa83ca9adc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413238(v=AX.60)
 ms:contentKeyID: 36918929
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

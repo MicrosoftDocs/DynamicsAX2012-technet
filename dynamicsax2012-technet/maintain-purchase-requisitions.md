@@ -4,7 +4,7 @@ TOCTitle: Maintain purchase requisitions
 ms:assetid: badb4a74-9cac-48e5-a2de-0929327a7172
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242768(v=AX.60)
 ms:contentKeyID: 36059129
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

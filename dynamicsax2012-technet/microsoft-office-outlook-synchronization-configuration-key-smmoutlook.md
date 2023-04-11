@@ -4,7 +4,7 @@ TOCTitle: Microsoft Office Outlook Synchronization configuration key (smmOutlook
 ms:assetid: 51759963-e5a9-4333-b3ed-ad3595b63868
 ms:mtpsurl: https://technet.microsoft.com/library/Aa576651(v=AX.60)
 ms:contentKeyID: 36956677
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

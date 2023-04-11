@@ -4,7 +4,7 @@ TOCTitle: Maintaining customer information
 ms:assetid: 7e12596c-f3c7-4e63-b51f-5f787d16f1ab
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213143(v=AX.60)
 ms:contentKeyID: 36058314
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

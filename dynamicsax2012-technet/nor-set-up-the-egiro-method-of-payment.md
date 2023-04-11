@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up the eGiro method of payment
 ms:assetid: 78329917-cc24-4137-b760-2d554d3072b5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213003(v=AX.60)
 ms:contentKeyID: 36058223
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

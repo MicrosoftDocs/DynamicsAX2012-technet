@@ -4,7 +4,7 @@ TOCTitle: (LVA) Post and print an inventory write-down document
 ms:assetid: 1be759cd-34b4-49cd-9ce1-4f9d5f3cb247
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721448(v=AX.60)
 ms:contentKeyID: 49730226
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

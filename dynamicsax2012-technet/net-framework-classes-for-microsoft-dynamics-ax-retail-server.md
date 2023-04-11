@@ -4,7 +4,7 @@ TOCTitle: Retail Server reference
 ms:assetid: 3cdf6b8a-c2a0-4b2e-b77b-1cddd0e4f498
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720363(v=AX.60)
 ms:contentKeyID: 62221793
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

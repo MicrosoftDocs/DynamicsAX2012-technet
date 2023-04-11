@@ -4,7 +4,7 @@ TOCTitle: Manage an AOS configuration
 ms:assetid: 4aab5e81-921d-4f7f-b379-adffcb8febce
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569618(v=AX.60)
 ms:contentKeyID: 35949290
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

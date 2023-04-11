@@ -4,7 +4,7 @@ TOCTitle: (MEX) Summary tax report (TaxVatSummaryReport_MX)
 ms:assetid: 8ffb916f-2203-4b44-a3ba-f610b972ae1d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335161(v=AX.60)
 ms:contentKeyID: 36687373
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

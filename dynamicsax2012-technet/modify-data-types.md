@@ -4,7 +4,7 @@ TOCTitle: Modify data types
 ms:assetid: 7b533e0b-f64d-410e-99ae-0296ace50900
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834488(v=AX.60)
 ms:contentKeyID: 35132691
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

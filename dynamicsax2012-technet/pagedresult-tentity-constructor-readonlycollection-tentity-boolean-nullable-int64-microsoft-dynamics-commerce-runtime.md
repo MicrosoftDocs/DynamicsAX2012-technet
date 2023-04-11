@@ -4,7 +4,7 @@ TOCTitle: PagedResult(TEntity) Constructor (ReadOnlyCollection(TEntity), Boolean
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.PagedResult`1.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{`0},System.Boolean,System.Nullable{System.Int64})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn685794(v=AX.60)
 ms:contentKeyID: 62211513
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

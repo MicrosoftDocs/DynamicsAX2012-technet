@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up the export format for a local customer payment transfer
 ms:assetid: 248c9d01-18e7-41ab-a258-31969350fa76
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665036(v=AX.60)
 ms:contentKeyID: 49386617
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

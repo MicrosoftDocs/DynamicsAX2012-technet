@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX 2012 Production Floor App
 ms:assetid: 31998e7c-7f8b-4b1b-ad25-fb1504376e41
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741471(v=AX.60)
 ms:contentKeyID: 62231592
-author: Khairunj
+author: tonyafehr
 ms.date: 06/27/2014
 mtps_version: v=AX.60
 ---

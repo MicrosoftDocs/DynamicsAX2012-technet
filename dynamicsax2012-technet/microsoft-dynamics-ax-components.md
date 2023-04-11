@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX components
 ms:assetid: edf3904f-2c2d-412a-8afa-47dcdbf2396e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732276(v=AX.60)
 ms:contentKeyID: 35133218
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

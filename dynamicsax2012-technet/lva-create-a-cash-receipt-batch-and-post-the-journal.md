@@ -4,7 +4,7 @@ TOCTitle: (LVA) Create a cash receipt batch and post the journal
 ms:assetid: 7d5ffb08-67de-4053-b3b4-03979f982765
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838782(v=AX.60)
 ms:contentKeyID: 50120664
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

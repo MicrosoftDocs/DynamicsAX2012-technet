@@ -4,7 +4,7 @@ TOCTitle: Managing alerts
 ms:assetid: 87417b00-bc30-4ae9-9f78-cf3a26db40d3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834407(v=AX.60)
 ms:contentKeyID: 46687552
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up the Telepay 2.01 method of payment
 ms:assetid: ec0806e1-0f5c-45d5-9983-fde5bb4e8999
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243252(v=AX.60)
 ms:contentKeyID: 36059891
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

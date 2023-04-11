@@ -4,7 +4,7 @@ TOCTitle: (LVA) Process closing transactions overview
 ms:assetid: a1935c8c-9252-4f81-9ea9-ef89bbfe2075
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731050(v=AX.60)
 ms:contentKeyID: 49675290
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

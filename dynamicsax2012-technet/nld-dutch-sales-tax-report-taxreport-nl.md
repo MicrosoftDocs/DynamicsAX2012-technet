@@ -4,7 +4,7 @@ TOCTitle: (NLD) Dutch sales tax report (TaxReport_NL)
 ms:assetid: 1ed9f1d5-f92c-45a4-a6c6-40ec3c380042
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692459(v=AX.60)
 ms:contentKeyID: 41702354
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

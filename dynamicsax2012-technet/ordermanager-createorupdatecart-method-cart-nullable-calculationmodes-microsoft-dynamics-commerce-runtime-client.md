@@ -4,7 +4,7 @@ TOCTitle: CreateOrUpdateCart Method (Cart, Nullable(CalculationModes))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.CreateOrUpdateCart(Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.createorupdatecart(v=AX.60)
 ms:contentKeyID: 62207618
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

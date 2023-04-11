@@ -4,7 +4,7 @@ TOCTitle: On-hand inventory report (InventOnhand)
 ms:assetid: 87bcf61f-33ff-4e30-a099-445721df8f32
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227364(v=AX.60)
 ms:contentKeyID: 36059575
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

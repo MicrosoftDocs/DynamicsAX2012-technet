@@ -4,7 +4,7 @@ TOCTitle: Merge party IDs for customer accounts across multiple legal entities
 ms:assetid: e8b62f58-9306-40c0-b403-7e9b8cd43216
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243240(v=AX.60)
 ms:contentKeyID: 36059838
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

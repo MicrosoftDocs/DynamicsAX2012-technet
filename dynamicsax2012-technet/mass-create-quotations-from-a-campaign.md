@@ -4,7 +4,7 @@ TOCTitle: Mass create quotations from a campaign
 ms:assetid: 8e4f3c5a-81f1-43d4-a7b8-7328475a59ee
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498358(v=AX.60)
 ms:contentKeyID: 36058516
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

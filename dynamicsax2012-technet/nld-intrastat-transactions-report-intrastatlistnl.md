@@ -4,7 +4,7 @@ TOCTitle: (NLD) Intrastat transactions report (IntrastatListNL)
 ms:assetid: dd74e941-04d7-4a58-9af7-d2667c1686d7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433524(v=AX.60)
 ms:contentKeyID: 36941308
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

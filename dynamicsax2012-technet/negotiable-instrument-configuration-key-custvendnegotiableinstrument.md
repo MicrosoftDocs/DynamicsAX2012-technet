@@ -4,7 +4,7 @@ TOCTitle: Negotiable instrument configuration key (CustVendNegotiableInstrument)
 ms:assetid: ac6257a2-6e62-4ddc-b3b7-7550e2d5b51a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450735(v=AX.60)
 ms:contentKeyID: 36966671
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

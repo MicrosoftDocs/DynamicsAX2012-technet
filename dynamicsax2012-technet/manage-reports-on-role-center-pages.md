@@ -4,7 +4,7 @@ TOCTitle: Manage reports on Role Center pages
 ms:assetid: 9aaf4dcf-67ad-4797-a1bf-f9f63000dcf0
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362010(v=AX.60)
 ms:contentKeyID: 39509596
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

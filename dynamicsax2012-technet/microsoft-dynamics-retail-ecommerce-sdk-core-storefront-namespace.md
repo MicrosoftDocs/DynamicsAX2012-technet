@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Storefront Namespace
 ms:assetid: N:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Storefront
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.storefront(v=AX.60)
 ms:contentKeyID: 65318199
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

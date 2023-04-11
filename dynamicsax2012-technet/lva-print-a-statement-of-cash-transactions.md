@@ -4,7 +4,7 @@ TOCTitle: (LVA) Print a statement of cash transactions
 ms:assetid: 0f58bcbc-6c58-4e15-8115-f56f09871d05
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721447(v=AX.60)
 ms:contentKeyID: 49730225
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

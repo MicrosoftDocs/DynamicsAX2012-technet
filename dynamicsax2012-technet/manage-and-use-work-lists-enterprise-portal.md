@@ -4,7 +4,7 @@ TOCTitle: Manage and use work lists
 ms:assetid: ae8cf0ee-e177-4aa8-907a-cd150df76e3f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242708(v=AX.60)
 ms:contentKeyID: 36058944
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

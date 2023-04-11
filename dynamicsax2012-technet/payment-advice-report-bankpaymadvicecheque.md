@@ -4,7 +4,7 @@ TOCTitle: Payment advice report (BankPaymAdviceCheque)
 ms:assetid: 9a09b812-818c-4ddd-853d-b5f7f404657f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa617011(v=AX.60)
 ms:contentKeyID: 37832024
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

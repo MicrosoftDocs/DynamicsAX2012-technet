@@ -4,7 +4,7 @@ TOCTitle: (NOR) Payment lines report (CustVendPaymJournal)
 ms:assetid: a917f40a-ae47-4cd5-8fdf-974213bafc07
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433515(v=AX.60)
 ms:contentKeyID: 36941296
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

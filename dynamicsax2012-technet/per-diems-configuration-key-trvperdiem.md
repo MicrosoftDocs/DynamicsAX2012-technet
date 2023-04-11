@@ -4,7 +4,7 @@ TOCTitle: Per diems configuration key (TrvPerDiem)
 ms:assetid: 701466bf-ca54-4e4e-ae25-81aef8bd48b6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416679(v=AX.60)
 ms:contentKeyID: 36931838
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

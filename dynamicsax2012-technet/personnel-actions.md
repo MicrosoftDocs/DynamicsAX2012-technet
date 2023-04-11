@@ -4,7 +4,7 @@ TOCTitle: Personnel actions
 ms:assetid: 98a3ea89-d4b0-4e5e-874a-a734081dfa7d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527696(v=AX.60)
 ms:contentKeyID: 59626234
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

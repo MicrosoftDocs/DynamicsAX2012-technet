@@ -4,7 +4,7 @@ TOCTitle: GetSalesOrdersByCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.OrderController.GetSalesOrdersByCustomer(System.String,System.Boolean,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.ISearchEngine)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.ordercontroller.getsalesordersbycustomer(v=AX.60)
 ms:contentKeyID: 65317464
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

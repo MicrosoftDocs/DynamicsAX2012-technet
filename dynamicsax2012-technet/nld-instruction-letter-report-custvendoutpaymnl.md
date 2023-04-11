@@ -4,7 +4,7 @@ TOCTitle: (NLD) Instruction letter report (CustVendOutPaymNL)
 ms:assetid: 39a9177b-3c62-47d1-9bfd-63af73d0cb45
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692462(v=AX.60)
 ms:contentKeyID: 41702358
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

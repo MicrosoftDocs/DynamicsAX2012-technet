@@ -4,7 +4,7 @@ TOCTitle: Online Store
 ms:assetid: 56364854-9730-4afa-8cf7-ae337ce2257a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937972(v=AX.60)
 ms:contentKeyID: 50950762
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

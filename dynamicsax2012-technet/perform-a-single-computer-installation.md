@@ -4,7 +4,7 @@ TOCTitle: Perform a single-computer installation
 ms:assetid: f8fe95af-2975-403e-b918-5685faf4a9c4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497063(v=AX.60)
 ms:contentKeyID: 35133297
-author: Khairunj
+author: tonyafehr
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 ---

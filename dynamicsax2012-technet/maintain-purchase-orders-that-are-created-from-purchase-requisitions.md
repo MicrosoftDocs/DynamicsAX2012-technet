@@ -4,7 +4,7 @@ TOCTitle: Maintain purchase orders that are created from purchase requisitions
 ms:assetid: 026b7b21-347c-4ba4-b926-83d9ae463313
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242100(v=AX.60)
 ms:contentKeyID: 36055929
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

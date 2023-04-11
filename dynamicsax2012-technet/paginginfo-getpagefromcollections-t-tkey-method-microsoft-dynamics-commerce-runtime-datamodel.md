@@ -4,7 +4,7 @@ TOCTitle: GetPageFromCollections(T, TKey) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PagingInfo.GetPageFromCollections``2(System.Func{``0,``1},System.Collections.Generic.ICollection{``0}[])
 ms:mtpsurl: https://technet.microsoft.com/library/Dn998795(v=AX.60)
 ms:contentKeyID: 65317478
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

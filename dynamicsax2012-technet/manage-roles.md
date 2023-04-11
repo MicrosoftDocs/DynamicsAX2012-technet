@@ -4,7 +4,7 @@ TOCTitle: Manage roles
 ms:assetid: 4eba9b84-5e5d-47d5-927b-da7407ccfcf5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292605(v=AX.60)
 ms:contentKeyID: 36655944
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

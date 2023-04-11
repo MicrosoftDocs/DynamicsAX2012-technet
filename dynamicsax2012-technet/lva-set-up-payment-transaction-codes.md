@@ -4,7 +4,7 @@ TOCTitle: (LVA) Set up payment transaction codes
 ms:assetid: b514dcdb-6e68-479f-bb22-2afd3e78214b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720365(v=AX.60)
 ms:contentKeyID: 49721161
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

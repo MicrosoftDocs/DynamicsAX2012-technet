@@ -4,7 +4,7 @@ TOCTitle: (MEX) Set up the inflation adjustment parameters
 ms:assetid: 19930efb-020f-49b4-aa05-479612ad62a0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208451(v=AX.60)
 ms:contentKeyID: 36056114
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

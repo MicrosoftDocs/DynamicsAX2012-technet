@@ -4,7 +4,7 @@ TOCTitle: Page_Load Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.OrderHistory.Page_Load(System.Object,System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.orderhistory.page_load(v=AX.60)
 ms:contentKeyID: 62203572
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: CustomerToSave Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.NewCustomerServiceRequest.CustomerToSave
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.newcustomerservicerequest.customertosave(v=AX.60)
 ms:contentKeyID: 65316853
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

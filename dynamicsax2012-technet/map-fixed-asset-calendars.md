@@ -4,7 +4,7 @@ TOCTitle: Map fixed asset calendars
 ms:assetid: 213880ef-3752-481a-b71b-9e1dc1a498cc
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751366(v=AX.60)
 ms:contentKeyID: 35132574
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Optional APIs configuration key (SysAPI)
 ms:assetid: 7fbe9c50-610c-4067-a47e-fe8ff05ce6b7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa615662(v=AX.60)
 ms:contentKeyID: 36997758
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

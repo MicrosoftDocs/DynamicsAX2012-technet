@@ -4,7 +4,7 @@ TOCTitle: Picking list report (WMSPickingList_OrderPick)
 ms:assetid: a94ac96c-821a-4bb1-9e69-04ee0ff8dd21
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209485(v=AX.60)
 ms:contentKeyID: 36060173
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

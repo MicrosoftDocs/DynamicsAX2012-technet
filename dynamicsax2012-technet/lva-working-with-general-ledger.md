@@ -4,7 +4,7 @@ TOCTitle: (LVA) Working with General ledger
 ms:assetid: e81d2c38-2e4f-43ff-ba2f-72fd111740b7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731064(v=AX.60)
 ms:contentKeyID: 49675304
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

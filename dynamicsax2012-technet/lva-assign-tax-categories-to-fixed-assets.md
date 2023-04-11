@@ -4,7 +4,7 @@ TOCTitle: (LVA) Assign tax categories to fixed assets
 ms:assetid: a7ee3a33-a1af-4147-b5a0-14d10f61a295
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911008(v=AX.60)
 ms:contentKeyID: 52075322
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

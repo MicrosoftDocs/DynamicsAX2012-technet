@@ -4,7 +4,7 @@ TOCTitle: (MEX) Create and post inflation adjustment ledger transactions
 ms:assetid: 55163329-e611-47b3-b2d8-f900f04da137
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208960(v=AX.60)
 ms:contentKeyID: 36057313
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

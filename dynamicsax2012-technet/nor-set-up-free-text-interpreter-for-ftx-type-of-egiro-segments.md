@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up free-text interpreter for FTX type of eGiro segments
 ms:assetid: eb71528d-6893-45fa-ae8d-881719ccd418
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243251(v=AX.60)
 ms:contentKeyID: 36059873
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

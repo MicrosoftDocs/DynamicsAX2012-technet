@@ -4,7 +4,7 @@ TOCTitle: (LVA) Post and print an inventory movement
 ms:assetid: 33760164-3187-48f5-9bbc-9095bcb7a342
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731016(v=AX.60)
 ms:contentKeyID: 49675256
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

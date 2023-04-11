@@ -4,7 +4,7 @@ TOCTitle: DeleteCartLines Method (String, String, IEnumerable(String))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.DeleteCartLines(System.String,System.String,System.Collections.Generic.IEnumerable{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.deletecartlines(v=AX.60)
 ms:contentKeyID: 62213843
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

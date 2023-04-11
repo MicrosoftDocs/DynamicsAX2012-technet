@@ -4,7 +4,7 @@ TOCTitle: (NOR) EHF electronic documents
 ms:assetid: d2d2e150-509f-4769-b78a-42847d83edcc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304984(v=AX.60)
 ms:contentKeyID: 54899960
-author: Khairunj
+author: tonyafehr
 ms.date: 02/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Manage project budgets
 ms:assetid: bec764e4-8b61-4bfb-8786-075e178ac111
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242821(v=AX.60)
 ms:contentKeyID: 36059251
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

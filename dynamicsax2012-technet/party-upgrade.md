@@ -4,7 +4,7 @@ TOCTitle: Party upgrade
 ms:assetid: 2d40df97-53af-416e-8450-1b66b7a4e55c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751375(v=AX.60)
 ms:contentKeyID: 35132591
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

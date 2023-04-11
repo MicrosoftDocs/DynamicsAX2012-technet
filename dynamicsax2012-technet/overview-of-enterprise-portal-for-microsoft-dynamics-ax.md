@@ -4,7 +4,7 @@ TOCTitle: Overview of Enterprise Portal for Microsoft Dynamics AX
 ms:assetid: 5c731ae4-5882-41cc-9748-6b0e65a1664d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731806(v=AX.60)
 ms:contentKeyID: 35132652
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

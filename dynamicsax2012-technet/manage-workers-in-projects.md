@@ -4,7 +4,7 @@ TOCTitle: Manage workers in projects
 ms:assetid: 01b493bc-8690-4112-a8ae-4f0c77aa0aa6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569691(v=AX.60)
 ms:contentKeyID: 36055922
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

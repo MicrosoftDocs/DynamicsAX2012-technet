@@ -4,7 +4,7 @@ TOCTitle: Mass delete quotations
 ms:assetid: fb4e2095-5606-4bba-9fef-0a05e8cbb3c4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499876(v=AX.60)
 ms:contentKeyID: 36060076
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

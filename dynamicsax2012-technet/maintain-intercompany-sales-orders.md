@@ -4,7 +4,7 @@ TOCTitle: Maintain intercompany sales orders
 ms:assetid: a466102f-fe5b-4e02-b61b-3bfcf1a850ec
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550178(v=AX.60)
 ms:contentKeyID: 36058820
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

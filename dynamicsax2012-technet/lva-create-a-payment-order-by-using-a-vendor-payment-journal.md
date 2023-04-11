@@ -4,7 +4,7 @@ TOCTitle: (LVA) Create a payment order by using a vendor payment journal
 ms:assetid: f2ab85dc-488a-44fb-b019-fc92e42a18d9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720371(v=AX.60)
 ms:contentKeyID: 49721167
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

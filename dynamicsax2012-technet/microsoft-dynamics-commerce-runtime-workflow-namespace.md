@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Commerce.Runtime.Workflow Namespace
 ms:assetid: N:Microsoft.Dynamics.Commerce.Runtime.Workflow
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow(v=AX.60)
 ms:contentKeyID: 49823488
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

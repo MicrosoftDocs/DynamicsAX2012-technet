@@ -4,7 +4,7 @@ TOCTitle: (MEX) Create and post invoices for a non-managed vendor
 ms:assetid: bcff924c-9e6b-4553-9fe0-c3c765abe9a3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242772(v=AX.60)
 ms:contentKeyID: 36059145
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Manager security role (HcmManager)
 ms:assetid: 7827677b-40c9-4cb2-bb1b-c4c70ca207fd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527104(v=AX.60)
 ms:contentKeyID: 37823156
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

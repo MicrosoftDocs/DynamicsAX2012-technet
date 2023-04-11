@@ -4,7 +4,7 @@ TOCTitle: Payment fee list report (CustPaymManFeeHist)
 ms:assetid: b08c04c0-758b-4920-8d29-0d8832489ca3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527786(v=AX.60)
 ms:contentKeyID: 37832028
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 f1_keywords:

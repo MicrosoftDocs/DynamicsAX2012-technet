@@ -4,7 +4,7 @@ TOCTitle: Paging and Query Service Results
 ms:assetid: 03ac49bb-14ef-4210-93b6-a51263a9cb9c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg843447(v=AX.60)
 ms:contentKeyID: 35240242
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

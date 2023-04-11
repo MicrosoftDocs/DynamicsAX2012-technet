@@ -4,7 +4,7 @@ TOCTitle: SetReadOnly Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ParameterSet.SetReadOnly
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.parameterset.setreadonly(v=AX.60)
 ms:contentKeyID: 49844013
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

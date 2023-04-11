@@ -4,7 +4,7 @@ TOCTitle: Mass hire project report (HcmMassHireProjectReport)
 ms:assetid: 55a2cb38-b481-4671-a2eb-d2d7f74417ae
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870690(v=AX.60)
 ms:contentKeyID: 50469195
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

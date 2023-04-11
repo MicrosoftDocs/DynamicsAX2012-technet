@@ -4,7 +4,7 @@ TOCTitle: Monitor the status of workflows
 ms:assetid: 65b9ed72-f4ad-44a3-ae0f-8812d1ca236a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538453(v=AX.60)
 ms:contentKeyID: 39508877
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

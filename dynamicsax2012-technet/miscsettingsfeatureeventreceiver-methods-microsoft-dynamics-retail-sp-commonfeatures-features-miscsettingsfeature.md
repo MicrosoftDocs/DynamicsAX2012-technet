@@ -4,7 +4,7 @@ TOCTitle: MiscSettingsFeatureEventReceiver Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.MiscSettingsFeature.MiscSettingsFeatureEventReceiver
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.features.miscsettingsfeature.miscsettingsfeatureeventreceiver_methods(v=AX.60)
 ms:contentKeyID: 62205815
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

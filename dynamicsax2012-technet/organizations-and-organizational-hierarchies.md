@@ -4,7 +4,7 @@ TOCTitle: Organizations and organizational hierarchies
 ms:assetid: 795401d0-6886-44f4-982c-ab677e27da18
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209258(v=AX.60)
 ms:contentKeyID: 36058236
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

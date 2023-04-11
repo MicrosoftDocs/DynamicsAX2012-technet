@@ -4,7 +4,7 @@ TOCTitle: Migrate data by using the Data Import/Export Framework (DIXF)
 ms:assetid: d651a60f-c6b9-43f8-ac5c-982f9cf7e101
 ms:mtpsurl: https://technet.microsoft.com/library/JJ225596(v=AX.60)
 ms:contentKeyID: 48457370
-author: Khairunj
+author: tonyafehr
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 f1_keywords:

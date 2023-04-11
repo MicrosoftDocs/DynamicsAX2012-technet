@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up payment specifications for an eInvoice
 ms:assetid: 5199086d-c090-4ef5-9331-c519b98d12ee
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212779(v=AX.60)
 ms:contentKeyID: 36057269
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Manage reports
 ms:assetid: 5477de81-fdec-402b-92d4-24ee92337364
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208957(v=AX.60)
 ms:contentKeyID: 36057306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

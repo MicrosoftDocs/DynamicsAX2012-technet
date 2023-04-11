@@ -4,7 +4,7 @@ TOCTitle: Picking
 ms:assetid: cc24722a-23d5-47f5-b9bf-8ae85bc9c6bd
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213667(v=AX.60)
 ms:contentKeyID: 36059448
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

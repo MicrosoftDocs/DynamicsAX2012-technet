@@ -4,7 +4,7 @@ TOCTitle: Perform a catalog area analysis
 ms:assetid: 64af9179-b487-4f09-8ebe-23c1a859c8c6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497781(v=AX.60)
 ms:contentKeyID: 62200082
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

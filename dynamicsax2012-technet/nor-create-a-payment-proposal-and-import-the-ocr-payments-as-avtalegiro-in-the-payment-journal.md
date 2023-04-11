@@ -4,7 +4,7 @@ TOCTitle: (NOR) Create a payment proposal and import the OCR payments as Avtaleg
 ms:assetid: 79dd6f82-2f68-489c-8959-b63b1ccfc46c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213019(v=AX.60)
 ms:contentKeyID: 36058243
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

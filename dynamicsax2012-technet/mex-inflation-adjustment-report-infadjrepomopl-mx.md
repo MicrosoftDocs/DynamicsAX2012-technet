@@ -4,7 +4,7 @@ TOCTitle: (MEX) Inflation adjustment report (InfAdjRepomoPL_MX)
 ms:assetid: 89a74f2e-b3e1-4a13-8d2a-bc36362bb158
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416707(v=AX.60)
 ms:contentKeyID: 36931899
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

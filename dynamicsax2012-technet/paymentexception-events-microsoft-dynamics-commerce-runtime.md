@@ -4,7 +4,7 @@ TOCTitle: PaymentException Events
 ms:assetid: Events.T:Microsoft.Dynamics.Commerce.Runtime.PaymentException
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.paymentexception_events(v=AX.60)
 ms:contentKeyID: 65321844
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

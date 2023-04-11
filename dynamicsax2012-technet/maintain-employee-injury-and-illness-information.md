@@ -4,7 +4,7 @@ TOCTitle: Maintain employee injury and illness information
 ms:assetid: c439a39e-f97d-42b0-9e9e-19a88ed27a21
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335177(v=AX.60)
 ms:contentKeyID: 36687400
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

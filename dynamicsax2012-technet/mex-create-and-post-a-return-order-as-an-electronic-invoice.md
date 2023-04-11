@@ -4,7 +4,7 @@ TOCTitle: (MEX) Create and post a return order as an electronic invoice
 ms:assetid: 0beffe39-4e06-4ad1-8601-2b4c9a57846f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242125(v=AX.60)
 ms:contentKeyID: 36055991
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (NOR) Set up error codes for eInvoices
 ms:assetid: 26f72c13-f3a6-4e18-984f-645e3c37d397
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231001(v=AX.60)
 ms:contentKeyID: 36056205
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

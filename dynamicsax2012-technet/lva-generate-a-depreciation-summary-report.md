@@ -4,7 +4,7 @@ TOCTitle: (LVA) Generate a depreciation summary report
 ms:assetid: d812d366-de7a-4883-b835-1f2c1434490e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853418(v=AX.60)
 ms:contentKeyID: 50396787
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

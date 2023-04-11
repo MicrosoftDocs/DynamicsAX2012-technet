@@ -4,7 +4,7 @@ TOCTitle: Maintaining standard costs in a manufacturing environment
 ms:assetid: 06da8111-538a-491d-aaf7-6fe51fe5e5c0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230676(v=AX.60)
 ms:contentKeyID: 36055964
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

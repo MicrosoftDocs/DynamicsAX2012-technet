@@ -4,7 +4,7 @@ TOCTitle: Payment management configuration key (PaymMan)
 ms:assetid: 80851aa0-d140-4683-9f91-79ca2f888ae3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467556(v=AX.60)
 ms:contentKeyID: 36991702
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

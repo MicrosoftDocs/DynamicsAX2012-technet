@@ -4,7 +4,7 @@ TOCTitle: Checkout Method (String, String, PaymentCard, String, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.Checkout(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.checkout(v=AX.60)
 ms:contentKeyID: 65319230
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

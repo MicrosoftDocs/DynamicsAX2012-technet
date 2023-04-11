@@ -4,7 +4,7 @@ TOCTitle: Mapping the LedgerTrans table to General Journal Tables
 ms:assetid: c5f6fee2-39d3-4366-95d6-3812224428b0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292603(v=AX.60)
 ms:contentKeyID: 36655941
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

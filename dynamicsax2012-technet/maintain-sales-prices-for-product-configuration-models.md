@@ -4,7 +4,7 @@ TOCTitle: Maintain sales prices for product configuration models
 ms:assetid: 193b8926-123e-441c-a754-08bf319e1647
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527689(v=AX.60)
 ms:contentKeyID: 59626222
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

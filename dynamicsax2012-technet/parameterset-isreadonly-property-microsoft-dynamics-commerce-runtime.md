@@ -4,7 +4,7 @@ TOCTitle: IsReadOnly Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.ParameterSet.IsReadOnly
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.parameterset.isreadonly(v=AX.60)
 ms:contentKeyID: 49832017
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

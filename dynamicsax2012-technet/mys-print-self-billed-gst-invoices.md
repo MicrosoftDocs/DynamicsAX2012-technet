@@ -4,7 +4,7 @@ TOCTitle: (MYS) Print self-billed GST invoices
 ms:assetid: 74839207-2f46-41d7-aa00-1d5b6465903f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn858081(v=AX.60)
 ms:contentKeyID: 63400913
-author: Khairunj
+author: tonyafehr
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Modify Reporting Services configuration files
 ms:assetid: 42ffe10a-7536-41e8-b8de-d45179b15fca
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389762(v=AX.60)
 ms:contentKeyID: 36899741
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

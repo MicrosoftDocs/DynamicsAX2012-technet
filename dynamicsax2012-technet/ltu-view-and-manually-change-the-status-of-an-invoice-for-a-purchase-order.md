@@ -4,7 +4,7 @@ TOCTitle: (LTU) View and manually change the status of an invoice for a purchase
 ms:assetid: 72a5b6be-2375-4607-baf3-769a457ed638
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665122(v=AX.60)
 ms:contentKeyID: 49386703
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Modify or delete a timesheet in Enterprise Portal
 ms:assetid: 4cb78bfa-93b3-49bc-9528-e90630155334
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271524(v=AX.60)
 ms:contentKeyID: 36384156
-author: Khairunj
+author: tonyafehr
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:

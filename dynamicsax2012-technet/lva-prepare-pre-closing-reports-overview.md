@@ -4,7 +4,7 @@ TOCTitle: (LVA) Prepare pre-closing reports overview
 ms:assetid: 103bc829-547c-48c1-8d20-b73d38b98bd3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731003(v=AX.60)
 ms:contentKeyID: 49675243
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

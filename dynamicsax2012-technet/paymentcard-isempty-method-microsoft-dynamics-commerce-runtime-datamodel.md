@@ -4,7 +4,7 @@ TOCTitle: IsEmpty Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard.IsEmpty
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.paymentcard.isempty(v=AX.60)
 ms:contentKeyID: 62210852
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

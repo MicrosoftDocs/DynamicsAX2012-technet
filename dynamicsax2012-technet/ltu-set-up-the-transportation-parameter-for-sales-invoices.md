@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up the transportation parameter for sales invoices
 ms:assetid: 8338b618-83f9-4565-b94a-aeb8a9392323
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665132(v=AX.60)
 ms:contentKeyID: 49386713
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

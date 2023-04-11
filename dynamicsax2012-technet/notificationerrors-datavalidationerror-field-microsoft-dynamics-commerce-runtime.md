@@ -4,7 +4,7 @@ TOCTitle: DataValidationError Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.NotificationErrors.DataValidationError
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.notificationerrors.datavalidationerror(v=AX.60)
 ms:contentKeyID: 62202972
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

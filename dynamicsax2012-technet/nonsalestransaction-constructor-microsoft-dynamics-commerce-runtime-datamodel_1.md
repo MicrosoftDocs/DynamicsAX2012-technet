@@ -4,7 +4,7 @@ TOCTitle: NonSalesTransaction Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.NonSalesTransaction.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.nonsalestransaction.nonsalestransaction(v=AX.60)
 ms:contentKeyID: 62215005
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

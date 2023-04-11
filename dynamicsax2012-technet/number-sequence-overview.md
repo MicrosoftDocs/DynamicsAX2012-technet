@@ -4,7 +4,7 @@ TOCTitle: Number sequence overview
 ms:assetid: a2913331-a267-44db-94f9-f35ce3318796
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209457(v=AX.60)
 ms:contentKeyID: 36058801
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

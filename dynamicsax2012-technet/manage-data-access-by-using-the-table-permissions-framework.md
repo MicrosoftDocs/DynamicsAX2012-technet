@@ -4,7 +4,7 @@ TOCTitle: Manage data access by using the Table Permissions Framework
 ms:assetid: 101d7291-6637-4519-9859-1b357398939d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh965683(v=AX.60)
 ms:contentKeyID: 46331993
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

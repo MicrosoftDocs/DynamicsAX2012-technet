@@ -4,7 +4,7 @@ TOCTitle: Microsoft Project Server integration configuration key (ProjServerInte
 ms:assetid: 35cdeb23-f606-4e60-af99-d188bb02bf44
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580488(v=AX.60)
 ms:contentKeyID: 39518953
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

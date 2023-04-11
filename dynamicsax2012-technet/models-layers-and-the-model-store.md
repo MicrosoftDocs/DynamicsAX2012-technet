@@ -4,7 +4,7 @@ TOCTitle: Models, Layers, and the Model Store
 ms:assetid: cc7eb6ff-a5de-4a7e-a758-af783ce0ace0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335184(v=AX.60)
 ms:contentKeyID: 36687408
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

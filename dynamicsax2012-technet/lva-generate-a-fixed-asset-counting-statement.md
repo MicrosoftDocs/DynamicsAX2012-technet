@@ -4,7 +4,7 @@ TOCTitle: (LVA) Generate a fixed asset counting statement
 ms:assetid: c92f23a1-ec39-4bd0-be49-f1a6e967d197
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853416(v=AX.60)
 ms:contentKeyID: 50396785
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

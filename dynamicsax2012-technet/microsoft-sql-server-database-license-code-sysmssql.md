@@ -4,7 +4,7 @@ TOCTitle: Microsoft SQL Server database license code (SysMSSQL)
 ms:assetid: 7d2d4109-223c-4f3c-9e5a-53a0576847b7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412235(v=AX.60)
 ms:contentKeyID: 36916343
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

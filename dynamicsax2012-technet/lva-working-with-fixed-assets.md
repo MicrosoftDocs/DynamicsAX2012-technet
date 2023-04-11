@@ -4,7 +4,7 @@ TOCTitle: (LVA) Working with Fixed assets
 ms:assetid: 1911b14d-92a6-4274-9318-e9f206ece50b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731007(v=AX.60)
 ms:contentKeyID: 49675247
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

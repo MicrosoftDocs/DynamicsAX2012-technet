@@ -4,7 +4,7 @@ TOCTitle: Moving products
 ms:assetid: c0d05abc-7c6a-41be-b12b-1359f27f17da
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213632(v=AX.60)
 ms:contentKeyID: 36059267
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

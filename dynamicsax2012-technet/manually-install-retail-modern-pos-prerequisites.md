@@ -4,7 +4,7 @@ TOCTitle: Manually install Retail Modern POS prerequisites
 ms:assetid: 661dc32b-0eae-470e-a21e-085d48e5b384
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741446(v=AX.60)
 ms:contentKeyID: 62219722
-author: Khairunj
+author: tonyafehr
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 dev_langs:

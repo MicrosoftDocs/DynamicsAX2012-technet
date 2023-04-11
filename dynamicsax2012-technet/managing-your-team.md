@@ -4,7 +4,7 @@ TOCTitle: Managing your team
 ms:assetid: 79509b34-fd4e-4d37-8beb-72f8cd010f59
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271570(v=AX.60)
 ms:contentKeyID: 36384201
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (NOR) Norwegian sales tax report (TaxReport_NO)
 ms:assetid: b860ff24-675d-4be0-ad5b-635c073ba86e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352284(v=AX.60)
 ms:contentKeyID: 36687911
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

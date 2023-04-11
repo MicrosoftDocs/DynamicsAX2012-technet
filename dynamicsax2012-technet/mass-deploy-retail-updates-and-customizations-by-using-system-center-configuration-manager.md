@@ -4,7 +4,7 @@ TOCTitle: Mass deploy retail updates and customizations by using System Center C
 ms:assetid: 188cd18c-6dbf-4ed4-b359-af5386e1a370
 ms:mtpsurl: https://technet.microsoft.com/library/Dn858396(v=AX.60)
 ms:contentKeyID: 63417189
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

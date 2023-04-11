@@ -4,7 +4,7 @@ TOCTitle: Pallets configuration key (WMSPallet)
 ms:assetid: 99469b7c-c74d-4465-abaf-ff08f57dc7a8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa588168(v=AX.60)
 ms:contentKeyID: 36941221
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

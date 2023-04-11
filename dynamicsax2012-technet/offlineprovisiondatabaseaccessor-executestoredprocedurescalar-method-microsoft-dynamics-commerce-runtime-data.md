@@ -4,7 +4,7 @@ TOCTitle: ExecuteStoredProcedureScalar Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.OfflineProvisionDatabaseAccessor.ExecuteStoredProcedureScalar
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.offlineprovisiondatabaseaccessor.executestoredprocedurescalar(v=AX.60)
 ms:contentKeyID: 65321384
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

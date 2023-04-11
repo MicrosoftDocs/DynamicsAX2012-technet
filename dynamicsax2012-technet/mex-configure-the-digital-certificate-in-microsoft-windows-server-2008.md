@@ -4,7 +4,7 @@ TOCTitle: (MEX) Configure the digital certificate in Microsoft Windows Server 20
 ms:assetid: bd3fadf8-3543-49a9-8707-e180adba8c55
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242774(v=AX.60)
 ms:contentKeyID: 36059149
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

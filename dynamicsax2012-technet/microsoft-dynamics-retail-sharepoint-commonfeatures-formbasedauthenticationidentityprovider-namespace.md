@@ -4,7 +4,7 @@ TOCTitle: Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.FormBasedAuthentic
 ms:assetid: N:Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.FormBasedAuthenticationIdentityProvider
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.commonfeatures.formbasedauthenticationidentityprovider(v=AX.60)
 ms:contentKeyID: 62205620
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

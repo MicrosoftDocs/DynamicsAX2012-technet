@@ -4,7 +4,7 @@ TOCTitle: Operators for validation rules
 ms:assetid: 7697acc0-6100-4822-9805-420c9af44c48
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550039(v=AX.60)
 ms:contentKeyID: 36058195
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

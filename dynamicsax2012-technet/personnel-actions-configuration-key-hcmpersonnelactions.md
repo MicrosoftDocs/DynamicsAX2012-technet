@@ -4,7 +4,7 @@ TOCTitle: Personnel actions configuration key (HcmPersonnelActions)
 ms:assetid: 9155c053-05c6-41d9-aca1-ffc3d5c06999
 ms:mtpsurl: https://technet.microsoft.com/library/JJ729778(v=AX.60)
 ms:contentKeyID: 49564946
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

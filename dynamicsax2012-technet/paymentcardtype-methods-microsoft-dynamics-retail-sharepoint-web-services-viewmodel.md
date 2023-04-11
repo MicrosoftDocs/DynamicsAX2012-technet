@@ -4,7 +4,7 @@ TOCTitle: PaymentCardType Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.PaymentCardType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.paymentcardtype_methods(v=AX.60)
 ms:contentKeyID: 62206800
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

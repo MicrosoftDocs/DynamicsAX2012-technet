@@ -4,7 +4,7 @@ TOCTitle: Make closing adjustments in the closing sheet
 ms:assetid: 23cf0baa-4e01-4e56-8b69-e9f8cb39b54d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496805(v=AX.60)
 ms:contentKeyID: 36056184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

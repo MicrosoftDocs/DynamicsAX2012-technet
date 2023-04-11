@@ -4,7 +4,7 @@ TOCTitle: Managing employee competencies
 ms:assetid: 157c4b84-50ce-497b-b373-2347098aa75d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271458(v=AX.60)
 ms:contentKeyID: 36384090
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

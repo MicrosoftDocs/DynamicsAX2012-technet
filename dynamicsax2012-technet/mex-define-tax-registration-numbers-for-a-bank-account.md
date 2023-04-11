@@ -4,7 +4,7 @@ TOCTitle: (MEX) Define tax registration numbers for a bank account
 ms:assetid: 1ec654fd-6655-44fa-814f-6679b996a1d8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208463(v=AX.60)
 ms:contentKeyID: 36056149
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

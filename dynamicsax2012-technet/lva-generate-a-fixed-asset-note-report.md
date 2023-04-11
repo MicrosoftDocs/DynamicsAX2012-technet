@@ -4,7 +4,7 @@ TOCTitle: (LVA) Generate a fixed asset note report
 ms:assetid: 27efda69-7a57-497d-841f-ddc38b45922b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853405(v=AX.60)
 ms:contentKeyID: 50396775
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

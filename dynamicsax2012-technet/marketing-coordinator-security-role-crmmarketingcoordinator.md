@@ -4,7 +4,7 @@ TOCTitle: Marketing coordinator security role (CRMMarketingCoordinator)
 ms:assetid: d18f9812-9f45-4853-a08b-08baa25b9556
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527138(v=AX.60)
 ms:contentKeyID: 37823189
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

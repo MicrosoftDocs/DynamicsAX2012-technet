@@ -4,7 +4,7 @@ TOCTitle: (LVA) Run a cash receipt update
 ms:assetid: 2ea64f4d-9156-468f-bd75-6a7031907e47
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721420(v=AX.60)
 ms:contentKeyID: 49729985
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

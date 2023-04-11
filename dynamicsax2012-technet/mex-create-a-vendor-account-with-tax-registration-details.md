@@ -4,7 +4,7 @@ TOCTitle: (MEX) Create a vendor account with tax registration details
 ms:assetid: a327f1d6-c1bb-442f-b02a-c376ce949a4b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209460(v=AX.60)
 ms:contentKeyID: 36058805
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

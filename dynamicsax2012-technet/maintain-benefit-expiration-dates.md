@@ -4,7 +4,7 @@ TOCTitle: Maintain benefit expiration dates
 ms:assetid: 7fdb9475-0e61-41a2-927e-20deba9b6034
 ms:mtpsurl: https://technet.microsoft.com/library/Dn282390(v=AX.60)
 ms:contentKeyID: 54906704
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

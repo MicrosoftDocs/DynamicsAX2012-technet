@@ -4,7 +4,7 @@ TOCTitle: Maintain postdated checks for vendors
 ms:assetid: 449c4496-1f15-4e47-84f1-1400ce43ee3a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242378(v=AX.60)
 ms:contentKeyID: 36056886
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

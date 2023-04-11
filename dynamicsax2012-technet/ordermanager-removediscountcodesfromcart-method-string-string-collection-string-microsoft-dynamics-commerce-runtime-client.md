@@ -4,7 +4,7 @@ TOCTitle: RemoveDiscountCodesFromCart Method (String, String, Collection(String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.OrderManager.RemoveDiscountCodesFromCart(System.String,System.String,System.Collections.ObjectModel.Collection{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.ordermanager.removediscountcodesfromcart(v=AX.60)
 ms:contentKeyID: 65322735
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
