@@ -4,7 +4,7 @@ TOCTitle: IssueOrAddToGiftCardRequest Constructor (String, String, Decimal, Stri
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.IssueOrAddToGiftCardRequest.#ctor(System.String,System.String,System.Decimal,System.String,System.Boolean,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.issueoraddtogiftcardrequest.issueoraddtogiftcardrequest(v=AX.60)
 ms:contentKeyID: 65322598
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

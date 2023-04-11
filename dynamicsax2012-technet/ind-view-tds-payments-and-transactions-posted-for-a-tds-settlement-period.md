@@ -4,7 +4,7 @@ TOCTitle: (IND) View TDS payments and transactions posted for a TDS settlement p
 ms:assetid: c3a69acb-37ab-42db-ac94-aad98ba91478
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664857(v=AX.60)
 ms:contentKeyID: 49386186
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

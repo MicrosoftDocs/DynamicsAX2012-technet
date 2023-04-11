@@ -4,7 +4,7 @@ TOCTitle: Install the Reporting Services extensions
 ms:assetid: d876745a-a2e7-4ce8-b608-beca6f8548dd
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362088(v=AX.60)
 ms:contentKeyID: 28119595
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

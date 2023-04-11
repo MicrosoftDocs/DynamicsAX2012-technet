@@ -4,7 +4,7 @@ TOCTitle: (IND) View posted purchase transactions from an invoice journal
 ms:assetid: 6c38ef75-0dbd-47e2-aabf-41191296abae
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677899(v=AX.60)
 ms:contentKeyID: 49385866
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

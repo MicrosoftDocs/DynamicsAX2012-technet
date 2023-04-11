@@ -4,7 +4,7 @@ TOCTitle: Interest configuration key (CustInterest)
 ms:assetid: 2526ae53-9dfd-498b-8c96-5e1c87dfce6d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467543(v=AX.60)
 ms:contentKeyID: 36991690
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

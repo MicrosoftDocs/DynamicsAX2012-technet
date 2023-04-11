@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up general ledger parameters for the EPCG incentive scheme
 ms:assetid: 6c38aa6e-be2f-41c5-8ec8-500bd8c3ba64
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677907(v=AX.60)
 ms:contentKeyID: 49385883
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

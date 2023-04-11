@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up the EXIM Duty Free Import Authorization (DFIA) incent
 ms:assetid: 8050240b-50d1-4404-ab57-755bee2ceadc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677987(v=AX.60)
 ms:contentKeyID: 49385950
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

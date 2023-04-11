@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up a reverse charge percentage
 ms:assetid: de59884a-db33-4eda-9337-e6df6973361e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304995(v=AX.60)
 ms:contentKeyID: 54900003
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

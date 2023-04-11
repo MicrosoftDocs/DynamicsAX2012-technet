@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify tax amounts for an incentive scheme by using a bill of en
 ms:assetid: 02c450a4-a502-453b-b22a-23cfa7e62d25
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664437(v=AX.60)
 ms:contentKeyID: 49385526
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

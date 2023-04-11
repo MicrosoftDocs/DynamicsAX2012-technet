@@ -4,7 +4,7 @@ TOCTitle: Intercompany accounting configuration key (LedgerAdvIntercompanyAccoun
 ms:assetid: a3ba2f79-8037-45e6-8371-75e1d48f0fc1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416685(v=AX.60)
 ms:contentKeyID: 36931846
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

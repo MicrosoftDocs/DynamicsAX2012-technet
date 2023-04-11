@@ -4,7 +4,7 @@ TOCTitle: (IND) View transactions in the general journal
 ms:assetid: e5b0af3c-6e08-40aa-a409-3dc9f0814f8a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710910(v=AX.60)
 ms:contentKeyID: 49386322
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

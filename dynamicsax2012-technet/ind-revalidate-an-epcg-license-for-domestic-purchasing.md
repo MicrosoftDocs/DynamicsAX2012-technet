@@ -4,7 +4,7 @@ TOCTitle: (IND) Revalidate an EPCG license for domestic purchasing
 ms:assetid: 4f063203-c9e1-40b1-97dd-809c61cf8c4e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664691(v=AX.60)
 ms:contentKeyID: 49385765
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

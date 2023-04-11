@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up a VAT commodity code
 ms:assetid: 67991415-c8e6-4785-bce0-595e75913eaa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677876(v=AX.60)
 ms:contentKeyID: 49385840
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

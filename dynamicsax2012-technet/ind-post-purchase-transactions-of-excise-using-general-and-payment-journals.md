@@ -4,7 +4,7 @@ TOCTitle: (IND) Post purchase transactions of excise using general and payment j
 ms:assetid: f6db237e-6162-4256-9879-534819780328
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710964(v=AX.60)
 ms:contentKeyID: 49386376
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up excise tax codes
 ms:assetid: 5a7ac4ba-2b50-4769-9751-cb40a60a0c1b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677839(v=AX.60)
 ms:contentKeyID: 49385805
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

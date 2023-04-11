@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up VAT schedules
 ms:assetid: 0069d5cb-6204-4a4a-88ef-30224544355f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664422(v=AX.60)
 ms:contentKeyID: 49385510
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

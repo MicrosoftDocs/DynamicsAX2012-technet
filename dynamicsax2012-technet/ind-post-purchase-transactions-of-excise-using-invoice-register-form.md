@@ -4,7 +4,7 @@ TOCTitle: (IND) Post purchase transactions of excise using Invoice register form
 ms:assetid: e68288bf-3fb5-44f2-9ab2-0fcdb58b4ec5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710891(v=AX.60)
 ms:contentKeyID: 49386304
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Redeem an EPCG license
 ms:assetid: 9c1b5acc-5657-469f-ba28-38540d72d100
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664725(v=AX.60)
 ms:contentKeyID: 49386056
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

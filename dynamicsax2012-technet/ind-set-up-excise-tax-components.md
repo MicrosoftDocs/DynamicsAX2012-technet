@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up excise tax components
 ms:assetid: 42176eeb-14a2-4ab0-9a33-13973a269c19
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664647(v=AX.60)
 ms:contentKeyID: 49385724
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

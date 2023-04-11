@@ -4,7 +4,7 @@ TOCTitle: (ISL) Set up an invoice declaration for vendors
 ms:assetid: 4b2bf11d-2ff2-4be0-aebd-173ba7b975c4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208723(v=AX.60)
 ms:contentKeyID: 36056990
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

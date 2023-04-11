@@ -4,7 +4,7 @@ TOCTitle: (ITA) Post and print a packing slip with transportation delivery detai
 ms:assetid: d2074768-636d-4f9d-8e11-f7db7609ef23
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242922(v=AX.60)
 ms:contentKeyID: 36059503
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

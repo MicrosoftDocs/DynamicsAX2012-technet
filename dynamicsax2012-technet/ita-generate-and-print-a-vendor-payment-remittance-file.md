@@ -4,7 +4,7 @@ TOCTitle: (ITA) Generate and print a vendor payment remittance file
 ms:assetid: ed151652-b4a8-47e9-8cec-32e9da1b9c6a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227498(v=AX.60)
 ms:contentKeyID: 36059899
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

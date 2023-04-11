@@ -4,7 +4,7 @@ TOCTitle: IssueOrAddToGiftCardRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.IssueOrAddToGiftCardRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.issueoraddtogiftcardrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62208911
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

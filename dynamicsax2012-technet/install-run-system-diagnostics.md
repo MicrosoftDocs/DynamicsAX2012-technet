@@ -4,7 +4,7 @@ TOCTitle: Install and run System diagnostics
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 02/19/2021
 mtps_version: v=AX.60
 ---

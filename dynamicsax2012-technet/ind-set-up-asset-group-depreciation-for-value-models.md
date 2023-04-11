@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up asset group depreciation for value models
 ms:assetid: 001579f0-1b41-4c21-b4bf-315924b493ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664421(v=AX.60)
 ms:contentKeyID: 49385511
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

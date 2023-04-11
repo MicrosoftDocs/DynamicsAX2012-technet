@@ -4,7 +4,7 @@ TOCTitle: ISettingsV1 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.Settings.ISettingsV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.settings.isettingsv1_properties(v=AX.60)
 ms:contentKeyID: 47128368
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

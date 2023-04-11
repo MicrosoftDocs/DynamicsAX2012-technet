@@ -4,7 +4,7 @@ TOCTitle: InventoryManager Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Client.InventoryManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.inventorymanager_methods(v=AX.60)
 ms:contentKeyID: 49837065
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

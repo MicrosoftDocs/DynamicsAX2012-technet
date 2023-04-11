@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax codes for TCS tax types
 ms:assetid: a90e64ed-ed62-491a-817a-53b7354cbb3f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664778(v=AX.60)
 ms:contentKeyID: 49386113
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

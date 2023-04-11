@@ -4,7 +4,7 @@ TOCTitle: GetAllRetailDiscounts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2.GetAllRetailDiscounts
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanagerv2.getallretaildiscounts(v=AX.60)
 ms:contentKeyID: 62211769
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

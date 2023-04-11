@@ -4,7 +4,7 @@ TOCTitle: GetApplyInterStateTaxIndia Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IndiaTaxDataManager.GetApplyInterStateTaxIndia(Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.indiataxdatamanager.getapplyinterstatetaxindia(v=AX.60)
 ms:contentKeyID: 65319714
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

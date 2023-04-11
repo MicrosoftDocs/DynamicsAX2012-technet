@@ -4,7 +4,7 @@ TOCTitle: Install help server
 ms:assetid: 705de82a-9883-4ff3-831a-1386457e0824
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731828(v=AX.60)
 ms:contentKeyID: 35132677
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

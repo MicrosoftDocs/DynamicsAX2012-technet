@@ -4,7 +4,7 @@ TOCTitle: Invoice register and invoice approval journal configuration key (VendI
 ms:assetid: 582aeb4a-47a3-4d5c-891d-34533d857bd6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467550(v=AX.60)
 ms:contentKeyID: 36991697
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

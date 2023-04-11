@@ -4,7 +4,7 @@ TOCTitle: SalesLineId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.InsufficientQuantityAvailableNotification.SalesLineId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.insufficientquantityavailablenotification.saleslineid(v=AX.60)
 ms:contentKeyID: 65323014
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

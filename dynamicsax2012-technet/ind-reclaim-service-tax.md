@@ -4,7 +4,7 @@ TOCTitle: (IND) Reclaim service tax
 ms:assetid: 4e430b4f-631b-40f8-8d42-c25b6ccdb285
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664686(v=AX.60)
 ms:contentKeyID: 49385759
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) View fixed asset group balances and profiles for depreciation bo
 ms:assetid: 38c02189-ac9a-4f8a-8840-29cd110feb47
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664619(v=AX.60)
 ms:contentKeyID: 49385696
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

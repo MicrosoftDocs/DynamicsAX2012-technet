@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up sales taxes for multiple taxation transactions
 ms:assetid: 8dcb33c1-89b4-4b86-99f3-e86bd2e08a68
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678042(v=AX.60)
 ms:contentKeyID: 49386003
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

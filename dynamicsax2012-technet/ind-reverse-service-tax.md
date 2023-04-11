@@ -4,7 +4,7 @@ TOCTitle: (IND) Reverse service tax
 ms:assetid: abdf7af5-3d71-44e3-b5c9-9548f629ae44
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664785(v=AX.60)
 ms:contentKeyID: 49386107
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

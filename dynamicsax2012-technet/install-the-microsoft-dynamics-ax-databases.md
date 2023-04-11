@@ -4,7 +4,7 @@ TOCTitle: Install the Microsoft Dynamics AX databases
 ms:assetid: bccedbf4-d5fe-4f2b-9767-31bb82c4f037
 ms:mtpsurl: https://technet.microsoft.com/library/Ee355075(v=AX.60)
 ms:contentKeyID: 35132842
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

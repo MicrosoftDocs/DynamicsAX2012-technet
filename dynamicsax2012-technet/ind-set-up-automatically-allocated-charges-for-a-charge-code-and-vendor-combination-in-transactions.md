@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up automatically allocated charges for a charge code and ven
 ms:assetid: e488dd79-f078-4de6-a07f-c8019cc6268b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710882(v=AX.60)
 ms:contentKeyID: 49386295
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

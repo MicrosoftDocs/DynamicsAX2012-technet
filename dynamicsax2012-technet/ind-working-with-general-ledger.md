@@ -4,7 +4,7 @@ TOCTitle: (IND) Working with General ledger
 ms:assetid: 21f67df0-2edd-4815-81c6-ba15fd23fd12
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664553(v=AX.60)
 ms:contentKeyID: 49385632
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (ITA) Reverse a conditional sales tax transaction and generate the sal
 ms:assetid: 8a982476-3c0c-4a11-bc52-83c140459514
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209344(v=AX.60)
 ms:contentKeyID: 36058467
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

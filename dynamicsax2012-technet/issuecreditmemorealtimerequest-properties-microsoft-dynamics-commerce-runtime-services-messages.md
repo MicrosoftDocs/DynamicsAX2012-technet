@@ -4,7 +4,7 @@ TOCTitle: IssueCreditMemoRealtimeRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.IssueCreditMemoRealtimeRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.issuecreditmemorealtimerequest_properties(v=AX.60)
 ms:contentKeyID: 65319095
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

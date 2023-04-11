@@ -4,7 +4,7 @@ TOCTitle: (IND) Process sales orders overview
 ms:assetid: be19145e-2321-4787-9f83-70147d803e36
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664829(v=AX.60)
 ms:contentKeyID: 49386160
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: SetTotalDiscPercent Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransactionV1.SetTotalDiscPercent(System.Decimal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iretailtransactionv1.settotaldiscpercent(v=AX.60)
 ms:contentKeyID: 49842057
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

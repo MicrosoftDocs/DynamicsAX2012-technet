@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up the SION
 ms:assetid: 57aab86b-e72f-41a0-936b-227233b3b4f9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677829(v=AX.60)
 ms:contentKeyID: 49385793
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

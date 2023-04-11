@@ -4,7 +4,7 @@ TOCTitle: Install Report Designer for Management Reporter
 ms:assetid: 654ea989-41a0-4e71-8dbb-f03865c2621b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507081(v=AX.60)
 ms:contentKeyID: 59623133
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

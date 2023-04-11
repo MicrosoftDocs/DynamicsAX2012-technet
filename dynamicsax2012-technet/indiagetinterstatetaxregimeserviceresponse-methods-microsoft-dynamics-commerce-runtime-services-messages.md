@@ -4,7 +4,7 @@ TOCTitle: IndiaGetInterStateTaxRegimeServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.IndiaGetInterStateTaxRegimeServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.indiagetinterstatetaxregimeserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 65320830
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

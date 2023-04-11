@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up a split based on delivery information and landing charges
 ms:assetid: 5254db1f-81a2-4e0b-9c2a-c6b7f50d4009
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664699(v=AX.60)
 ms:contentKeyID: 49385772
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: DeliveryMethod Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPRDocumentV1.DeliveryMethod
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprdocumentv1.deliverymethod(v=AX.60)
 ms:contentKeyID: 47343887
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

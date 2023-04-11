@@ -4,7 +4,7 @@ TOCTitle: (IND) Post transactions in general and payment journals
 ms:assetid: d6bf486d-e580-41cc-bb93-01dbd7775bc9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664921(v=AX.60)
 ms:contentKeyID: 49386250
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

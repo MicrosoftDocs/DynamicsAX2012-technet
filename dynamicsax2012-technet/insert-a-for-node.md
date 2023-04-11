@@ -4,7 +4,7 @@ TOCTitle: Insert a FOR node
 ms:assetid: 7899933c-5ba1-41b5-a1b3-f6e93c42e6be
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550050(v=AX.60)
 ms:contentKeyID: 36058227
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

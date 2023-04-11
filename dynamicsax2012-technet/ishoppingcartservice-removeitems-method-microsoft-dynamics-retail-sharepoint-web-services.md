@@ -4,7 +4,7 @@ TOCTitle: RemoveItems Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.IShoppingCartService.RemoveItems(System.Boolean,System.Collections.Generic.ICollection{System.String},Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShoppingCartDataLevel)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.ishoppingcartservice.removeitems(v=AX.60)
 ms:contentKeyID: 62203169
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

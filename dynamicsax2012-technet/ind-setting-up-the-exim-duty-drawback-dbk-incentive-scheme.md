@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up the EXIM Duty Drawback (DBK) incentive scheme
 ms:assetid: e27c71b3-5697-4e18-8a16-e1e298fbba43
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710877(v=AX.60)
 ms:contentKeyID: 49386290
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

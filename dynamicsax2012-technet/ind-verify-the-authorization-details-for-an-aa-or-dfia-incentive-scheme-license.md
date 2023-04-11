@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify the authorization details for an AA or DFIA incentive sch
 ms:assetid: fcef2cf5-790f-42e0-9c74-7ac69c90cbde
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710986(v=AX.60)
 ms:contentKeyID: 49386399
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

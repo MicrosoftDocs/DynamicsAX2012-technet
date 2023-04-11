@@ -4,7 +4,7 @@ TOCTitle: (IND) View fixed asset group balances and profiles for value models
 ms:assetid: c01c25de-365d-4bf7-91c8-caebf1c09ce7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664839(v=AX.60)
 ms:contentKeyID: 49386169
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Install Retail essentials at headquarters
 ms:assetid: c2aa753b-f03b-4cee-b588-3c24eee3824c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741221(v=AX.60)
 ms:contentKeyID: 62219111
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: CalculateAttributeSignature Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.IProductListingAttributeSignature.CalculateAttributeSignature(System.Collections.Generic.IDictionary{System.String,Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.AttributeProductListing})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.iproductlistingattributesignature.calculateattributesignature(v=AX.60)
 ms:contentKeyID: 65318139
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

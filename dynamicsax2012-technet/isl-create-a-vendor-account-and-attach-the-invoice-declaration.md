@@ -4,7 +4,7 @@ TOCTitle: (ISL) Create a vendor account and attach the invoice declaration
 ms:assetid: 1da6a6e8-3fe4-4331-8136-ee798ee677ab
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208459(v=AX.60)
 ms:contentKeyID: 36056143
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

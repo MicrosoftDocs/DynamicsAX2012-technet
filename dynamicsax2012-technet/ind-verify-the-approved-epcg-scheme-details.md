@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify the approved EPCG scheme details
 ms:assetid: 228e14be-7c05-45d8-a831-f8104be0be0a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664561(v=AX.60)
 ms:contentKeyID: 49385639
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

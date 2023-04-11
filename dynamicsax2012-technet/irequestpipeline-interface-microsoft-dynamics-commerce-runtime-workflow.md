@@ -4,7 +4,7 @@ TOCTitle: IRequestPipeline Interface
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Workflow.IRequestPipeline
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.irequestpipeline(v=AX.60)
 ms:contentKeyID: 49831447
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

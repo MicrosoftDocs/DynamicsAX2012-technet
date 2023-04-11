@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up automatically allocated charges for customers in Accounts
 ms:assetid: c37889bf-244b-499a-a7ed-1a2966a65bb8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664884(v=AX.60)
 ms:contentKeyID: 49386217
-author: Khairunj
+author: tonyafehr
 ms.date: 09/19/2014
 mtps_version: v=AX.60
 audience: Application User

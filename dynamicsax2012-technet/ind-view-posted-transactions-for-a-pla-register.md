@@ -4,7 +4,7 @@ TOCTitle: (IND) View posted transactions for a PLA register
 ms:assetid: 0b36d29d-f6fc-425a-a5b0-0ab787ba2be0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664468(v=AX.60)
 ms:contentKeyID: 49385548
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

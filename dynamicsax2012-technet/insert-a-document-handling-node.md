@@ -4,7 +4,7 @@ TOCTitle: Insert a Document handling node
 ms:assetid: 46d62539-886b-430d-a1d7-72e6f9205920
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496991(v=AX.60)
 ms:contentKeyID: 36056906
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

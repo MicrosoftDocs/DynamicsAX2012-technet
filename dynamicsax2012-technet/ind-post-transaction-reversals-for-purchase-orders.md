@@ -4,7 +4,7 @@ TOCTitle: (IND) Post transaction reversals for purchase orders
 ms:assetid: 021152e6-b3f1-4ed5-8e6c-503a9f4baeee
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664431(v=AX.60)
 ms:contentKeyID: 49385521
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

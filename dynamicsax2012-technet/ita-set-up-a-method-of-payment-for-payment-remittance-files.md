@@ -4,7 +4,7 @@ TOCTitle: (ITA) Set up a method of payment for payment remittance files
 ms:assetid: de7e833c-2ce9-42e3-85e3-4bfa685bfcc4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227412(v=AX.60)
 ms:contentKeyID: 36059688
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

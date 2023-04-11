@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify posted tax information for approved AA and DFIA authoriza
 ms:assetid: bf82fdcf-070a-4504-b7ae-1dde9db814a3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664836(v=AX.60)
 ms:contentKeyID: 49386166
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

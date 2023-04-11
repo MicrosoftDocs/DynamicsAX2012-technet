@@ -4,7 +4,7 @@ TOCTitle: Issue worker payments
 ms:assetid: 068274eb-0019-4374-8ec9-f644d77c64d0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677320(v=AX.60)
 ms:contentKeyID: 49384092
-author: Khairunj
+author: tonyafehr
 ms.date: 11/15/2014
 mtps_version: v=AX.60
 f1_keywords:

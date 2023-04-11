@@ -4,7 +4,7 @@ TOCTitle: (IND) Retail customer order taxes in India
 ms:assetid: fb74332b-3cbc-424f-bc76-78209900f2cb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268485(v=AX.60)
 ms:contentKeyID: 54917024
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

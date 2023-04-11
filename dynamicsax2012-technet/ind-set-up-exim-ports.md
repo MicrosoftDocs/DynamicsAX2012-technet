@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up EXIM ports
 ms:assetid: d96db641-4d7c-439e-b034-f00e24ae6066
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664931(v=AX.60)
 ms:contentKeyID: 49386260
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

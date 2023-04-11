@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up excise tax groups
 ms:assetid: 5952f91e-fdd5-47bf-ba56-ccd4a4bb058b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677840(v=AX.60)
 ms:contentKeyID: 49385804
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

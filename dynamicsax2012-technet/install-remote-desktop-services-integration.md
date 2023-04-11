@@ -4,7 +4,7 @@ TOCTitle: Install Remote Desktop Services integration
 ms:assetid: 59891698-40b9-4d94-b75a-14e0c1e2231b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731800(v=AX.60)
 ms:contentKeyID: 35132645
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Invoice journal configuration key (VendInvoiceRegister)
 ms:assetid: 28557176-ba54-4225-bab6-568bf1ee47df
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467545(v=AX.60)
 ms:contentKeyID: 36991692
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

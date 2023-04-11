@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up and maintaining Accounts receivable
 ms:assetid: a57f2447-e384-446f-8b20-018c60efe4b9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664738(v=AX.60)
 ms:contentKeyID: 49386068
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

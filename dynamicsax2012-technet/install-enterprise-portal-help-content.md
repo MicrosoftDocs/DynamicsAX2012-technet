@@ -4,7 +4,7 @@ TOCTitle: Install Enterprise Portal Help content
 ms:assetid: 55371efb-f62f-46dc-866c-483ac74dd0ee
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433511(v=AX.60)
 ms:contentKeyID: 36941292
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

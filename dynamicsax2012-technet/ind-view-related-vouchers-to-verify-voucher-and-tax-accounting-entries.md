@@ -4,7 +4,7 @@ TOCTitle: (IND) View related vouchers to verify voucher and tax accounting entri
 ms:assetid: 503615c4-4040-40a8-8475-2dec3ba1f409
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664697(v=AX.60)
 ms:contentKeyID: 49385778
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

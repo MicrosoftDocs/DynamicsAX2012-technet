@@ -4,7 +4,7 @@ TOCTitle: Intercompany configuration key (TradeInterCompany)
 ms:assetid: da9f64ff-682d-4ee3-93ba-5830ea891f31
 ms:mtpsurl: https://technet.microsoft.com/library/Aa620011(v=AX.60)
 ms:contentKeyID: 36991716
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

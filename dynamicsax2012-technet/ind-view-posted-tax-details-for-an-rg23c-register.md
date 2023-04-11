@@ -4,7 +4,7 @@ TOCTitle: (IND) View posted tax details for an RG23C register
 ms:assetid: faf759f5-2f0e-45ff-9243-96c38633244e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710982(v=AX.60)
 ms:contentKeyID: 49386394
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Tax thresholds and tax concession certificates
 ms:assetid: 7264e8f3-69ce-420e-aa4d-936aa1f4527d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527715(v=AX.60)
 ms:contentKeyID: 59626290
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

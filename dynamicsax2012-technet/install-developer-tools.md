@@ -4,7 +4,7 @@ TOCTitle: Install developer tools
 ms:assetid: b7b8f212-2d22-4171-b250-c966d733eb2a
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362049(v=AX.60)
 ms:contentKeyID: 35132827
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

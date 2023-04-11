@@ -4,7 +4,7 @@ TOCTitle: (IND) Split purchase documents
 ms:assetid: 87b4a04d-fdb4-402e-bf8a-c9fa2f11ef33
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678018(v=AX.60)
 ms:contentKeyID: 49385979
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

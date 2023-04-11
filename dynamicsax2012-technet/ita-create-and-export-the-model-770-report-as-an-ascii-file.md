@@ -4,7 +4,7 @@ TOCTitle: (ITA) Create and export the Model 770 report as an ASCII file
 ms:assetid: 933893a6-abeb-42dd-b915-2d212838471e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh528493(v=AX.60)
 ms:contentKeyID: 37835229
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Settle and verify posted TDS transactions
 ms:assetid: b481955f-afff-42fd-8f97-5c01df9d3f22
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664796(v=AX.60)
 ms:contentKeyID: 49386126
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

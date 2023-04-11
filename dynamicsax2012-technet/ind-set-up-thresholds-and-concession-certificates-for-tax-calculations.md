@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up thresholds and concession certificates for tax calculatio
 ms:assetid: 36b6d073-903e-41fc-90fd-5a0882bf72b5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527712(v=AX.60)
 ms:contentKeyID: 59626285
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

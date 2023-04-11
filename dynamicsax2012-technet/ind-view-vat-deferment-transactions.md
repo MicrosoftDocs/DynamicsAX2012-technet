@@ -4,7 +4,7 @@ TOCTitle: (IND) View VAT deferment transactions
 ms:assetid: 20f6f7ee-4b31-483c-88bb-f488398bc4c6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664547(v=AX.60)
 ms:contentKeyID: 49385626
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up and maintaining Inventory and warehouse management
 ms:assetid: 284992eb-202e-4f1f-b186-d433d44703f6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664574(v=AX.60)
 ms:contentKeyID: 49385652
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

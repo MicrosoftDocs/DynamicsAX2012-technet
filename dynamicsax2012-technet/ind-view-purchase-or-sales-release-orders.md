@@ -4,7 +4,7 @@ TOCTitle: (IND) View purchase or sales release orders
 ms:assetid: 0277eb4f-3031-4ad1-b199-c2b4ac1322f3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664433(v=AX.60)
 ms:contentKeyID: 49385523
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

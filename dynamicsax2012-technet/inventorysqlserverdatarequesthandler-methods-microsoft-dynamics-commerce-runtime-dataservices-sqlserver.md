@@ -4,7 +4,7 @@ TOCTitle: InventorySqlServerDataRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.InventorySqlServerDataRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.inventorysqlserverdatarequesthandler_methods(v=AX.60)
 ms:contentKeyID: 65321015
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

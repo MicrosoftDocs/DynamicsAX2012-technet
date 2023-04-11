@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up an assessable value for customs
 ms:assetid: ce0376ea-77f6-4282-b1c5-6f8d96d59215
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664923(v=AX.60)
 ms:contentKeyID: 49386252
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

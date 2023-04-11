@@ -4,7 +4,7 @@ TOCTitle: Install the RapidStart Connector
 ms:assetid: 26262a76-5b5c-4308-be11-4dcdc722bebe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh771574(v=AX.60)
 ms:contentKeyID: 43881147
-author: Khairunj
+author: tonyafehr
 ms.date: 09/30/2015
 mtps_version: v=AX.60
 ---

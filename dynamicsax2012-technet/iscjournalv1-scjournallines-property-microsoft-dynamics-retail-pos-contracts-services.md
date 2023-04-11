@@ -4,7 +4,7 @@ TOCTitle: SCJournalLines Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISCJournalV1.SCJournalLines
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iscjournalv1.scjournallines(v=AX.60)
 ms:contentKeyID: 47344181
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify adjusted TDS transactions with correct or reversed TDS ra
 ms:assetid: d7d0ba34-e759-479a-a6f0-209f313719f5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664927(v=AX.60)
 ms:contentKeyID: 49386256
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

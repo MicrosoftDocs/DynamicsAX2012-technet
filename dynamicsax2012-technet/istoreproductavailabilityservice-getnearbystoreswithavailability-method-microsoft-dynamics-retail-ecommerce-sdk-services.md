@@ -4,7 +4,7 @@ TOCTitle: GetNearbyStoresWithAvailability Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.IStoreProductAvailabilityService.GetNearbyStoresWithAvailability(System.Decimal,System.Decimal,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.TransactionItem})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.istoreproductavailabilityservice.getnearbystoreswithavailability(v=AX.60)
 ms:contentKeyID: 65318611
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

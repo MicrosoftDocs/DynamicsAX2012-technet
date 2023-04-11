@@ -4,7 +4,7 @@ TOCTitle: Install-AXReportInstanceExtensions
 ms:assetid: AF5B6237-DC91-4824-8CB7-4996E817E8A9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn508126(v=AX.60)
 ms:contentKeyID: 59670214
-author: Khairunj
+author: tonyafehr
 ms.date: 12/09/2013
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Install Microsoft Dynamics AX 2012
 ms:assetid: fbe52b68-1294-4398-b233-f8ec37c6d531
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362138(v=AX.60)
 ms:contentKeyID: 35133330
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 ---

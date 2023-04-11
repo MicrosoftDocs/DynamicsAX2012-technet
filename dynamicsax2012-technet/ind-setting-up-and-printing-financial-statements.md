@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up and printing financial statements
 ms:assetid: bc14d104-ecd6-40cc-a333-5ddf6dfdf4e3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664818(v=AX.60)
 ms:contentKeyID: 49386147
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

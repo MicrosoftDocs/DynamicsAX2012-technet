@@ -4,7 +4,7 @@ TOCTitle: ToTaxGroup Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ITaxOverrideV1.ToTaxGroup
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.itaxoverridev1.totaxgroup(v=AX.60)
 ms:contentKeyID: 49851726
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

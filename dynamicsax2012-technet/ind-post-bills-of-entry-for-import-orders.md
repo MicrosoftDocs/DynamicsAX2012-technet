@@ -4,7 +4,7 @@ TOCTitle: (IND) Post bills of entry for import orders
 ms:assetid: cc4613d7-fd2a-4f94-8f4d-8fe26f91d78d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733171(v=AX.60)
 ms:contentKeyID: 49685139
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

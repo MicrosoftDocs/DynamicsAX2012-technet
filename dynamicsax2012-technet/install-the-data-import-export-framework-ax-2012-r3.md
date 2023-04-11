@@ -4,7 +4,7 @@ TOCTitle: Install the Data import/export framework (AX 2012 R3)
 ms:assetid: ddd9b75d-82df-4ecf-aecd-b5c8d017ea04
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720760(v=AX.60)
 ms:contentKeyID: 62231555
-author: Khairunj
+author: tonyafehr
 ms.date: 04/13/2015
 mtps_version: v=AX.60
 f1_keywords:

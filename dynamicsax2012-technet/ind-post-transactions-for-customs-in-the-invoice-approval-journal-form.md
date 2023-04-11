@@ -4,7 +4,7 @@ TOCTitle: (IND) Post transactions for customs in the Invoice approval journal fo
 ms:assetid: db48ed85-f3d3-4998-a73c-397d1f4748f9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664932(v=AX.60)
 ms:contentKeyID: 49386261
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

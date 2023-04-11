@@ -4,7 +4,7 @@ TOCTitle: (IND) Settle withholding tax payments and enter withholding tax challa
 ms:assetid: b6e8a9dd-c69e-43ea-b1fb-890193a12acf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664827(v=AX.60)
 ms:contentKeyID: 49386158
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

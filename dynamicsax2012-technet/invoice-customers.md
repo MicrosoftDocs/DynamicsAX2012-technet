@@ -4,7 +4,7 @@ TOCTitle: Invoice customers
 ms:assetid: ed1e318c-f8a2-45f7-a13d-4732851cc373
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243258(v=AX.60)
 ms:contentKeyID: 36059901
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

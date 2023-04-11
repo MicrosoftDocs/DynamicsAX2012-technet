@@ -4,7 +4,7 @@ TOCTitle: (IND) View TCS payments and transactions posted for a TCS settlement p
 ms:assetid: f282a803-63d6-4aef-bc33-15d75d58189d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710949(v=AX.60)
 ms:contentKeyID: 49386361
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

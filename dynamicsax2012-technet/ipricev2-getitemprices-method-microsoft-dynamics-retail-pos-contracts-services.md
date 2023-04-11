@@ -4,7 +4,7 @@ TOCTitle: GetItemPrices Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPriceV2.GetItemPrices(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISaleLineItem},System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ipricev2.getitemprices(v=AX.60)
 ms:contentKeyID: 62204123
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

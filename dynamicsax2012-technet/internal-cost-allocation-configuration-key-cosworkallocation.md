@@ -4,7 +4,7 @@ TOCTitle: Internal Cost Allocation configuration key (COSWorkAllocation)
 ms:assetid: 2e6adbcc-679d-46a8-acfd-eccbab954728
 ms:mtpsurl: https://technet.microsoft.com/library/Aa552625(v=AX.60)
 ms:contentKeyID: 37820181
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

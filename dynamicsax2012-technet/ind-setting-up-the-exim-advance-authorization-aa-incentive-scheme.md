@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up the EXIM Advance Authorization (AA) incentive scheme
 ms:assetid: 8a436e1e-c1c6-40c0-a30d-cf766afe3897
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678005(v=AX.60)
 ms:contentKeyID: 49385966
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

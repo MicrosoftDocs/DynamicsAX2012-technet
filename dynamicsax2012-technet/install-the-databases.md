@@ -4,7 +4,7 @@ TOCTitle: Install the databases
 ms:assetid: fc482e2d-d35b-41b8-9ce5-f10c00f6f3e8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh860085(v=AX.60)
 ms:contentKeyID: 45693615
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

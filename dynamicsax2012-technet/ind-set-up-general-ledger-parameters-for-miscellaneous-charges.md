@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up General ledger parameters for miscellaneous charges
 ms:assetid: be015e87-5c7c-4a8d-b3f9-60278141737b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664854(v=AX.60)
 ms:contentKeyID: 49386184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

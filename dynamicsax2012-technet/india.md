@@ -4,7 +4,7 @@ TOCTitle: India
 ms:assetid: 8865ead6-f55f-4125-ac7b-f072ef21c3d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677995(v=AX.60)
 ms:contentKeyID: 49385958
-author: Khairunj
+author: tonyafehr
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

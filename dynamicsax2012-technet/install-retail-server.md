@@ -4,7 +4,7 @@ TOCTitle: Install Retail Server
 ms:assetid: 15458480-7197-4909-bdab-0999b2fb5b43
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741428(v=AX.60)
 ms:contentKeyID: 62219706
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

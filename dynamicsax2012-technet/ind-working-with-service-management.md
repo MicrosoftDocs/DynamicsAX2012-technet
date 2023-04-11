@@ -4,7 +4,7 @@ TOCTitle: (IND) Working with Service management
 ms:assetid: 989c8b0c-04d6-4c10-993b-0ec122f7444c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678056(v=AX.60)
 ms:contentKeyID: 49386017
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

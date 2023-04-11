@@ -4,7 +4,7 @@ TOCTitle: Install Management Reporter server components
 ms:assetid: a5908e80-5fbe-49f8-9f2c-448b7f4cf67f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507082(v=AX.60)
 ms:contentKeyID: 59623130
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

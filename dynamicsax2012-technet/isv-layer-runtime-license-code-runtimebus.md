@@ -4,7 +4,7 @@ TOCTitle: ISV layer runtime license code (RuntimeBUS)
 ms:assetid: aba9bf8b-cc37-455f-8010-efcd041a19d4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456317(v=AX.60)
 ms:contentKeyID: 36997764
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

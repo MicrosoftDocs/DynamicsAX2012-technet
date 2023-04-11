@@ -4,7 +4,7 @@ TOCTitle: InventDimId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPRDocumentLineV1.InventDimId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprdocumentlinev1.inventdimid(v=AX.60)
 ms:contentKeyID: 47344294
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

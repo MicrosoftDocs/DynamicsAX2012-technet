@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up a shipping bill voucher reference in Accounts receivable
 ms:assetid: b51a9933-4b77-4abf-9fe3-f6b5298c68c7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664795(v=AX.60)
 ms:contentKeyID: 49386125
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

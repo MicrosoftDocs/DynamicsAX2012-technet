@@ -4,7 +4,7 @@ TOCTitle: (IND) Working with Fixed assets
 ms:assetid: d2200f97-5db5-4001-8881-f982e4b2cb69
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664904(v=AX.60)
 ms:contentKeyID: 49386232
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

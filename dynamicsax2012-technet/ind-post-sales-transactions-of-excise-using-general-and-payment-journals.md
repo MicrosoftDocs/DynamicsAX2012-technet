@@ -4,7 +4,7 @@ TOCTitle: (IND) Post sales transactions of excise using general and payment jour
 ms:assetid: 1c67898c-6465-4886-aa3c-ba6d7d377271
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664532(v=AX.60)
 ms:contentKeyID: 49385611
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

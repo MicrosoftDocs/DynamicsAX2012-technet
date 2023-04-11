@@ -4,7 +4,7 @@ TOCTitle: Intelligent Data Management Framework (IDMF) installation guide
 ms:assetid: 7e0c8bb2-39a3-4618-b33c-dfd62bbea9fe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389759(v=AX.60)
 ms:contentKeyID: 36899739
-author: Khairunj
+author: tonyafehr
 ms.date: 10/11/2018
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up receipt formats
 ms:assetid: b4fbba60-23d0-4290-ba26-cf8016a38995
 ms:mtpsurl: https://technet.microsoft.com/library/Dn308521(v=AX.60)
 ms:contentKeyID: 54971747
-author: Khairunj
+author: tonyafehr
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 f1_keywords:

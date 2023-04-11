@@ -4,7 +4,7 @@ TOCTitle: GetLoyaltyCardStatus Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.IShoppingCartService.GetLoyaltyCardStatus(System.Boolean,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.ishoppingcartservice.getloyaltycardstatus(v=AX.60)
 ms:contentKeyID: 62207326
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

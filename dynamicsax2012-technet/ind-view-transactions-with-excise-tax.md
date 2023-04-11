@@ -4,7 +4,7 @@ TOCTitle: (IND) View transactions with excise tax
 ms:assetid: ada58c70-f8a7-4de4-b225-adc5a9594447
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664792(v=AX.60)
 ms:contentKeyID: 49386122
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

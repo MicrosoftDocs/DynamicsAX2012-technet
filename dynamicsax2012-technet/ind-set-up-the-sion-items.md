@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up the SION items
 ms:assetid: 7aaaaad3-d2cc-473d-9d3c-893db81850e7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677954(v=AX.60)
 ms:contentKeyID: 49385917
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

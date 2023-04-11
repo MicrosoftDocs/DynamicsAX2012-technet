@@ -4,7 +4,7 @@ TOCTitle: (IND) View excise register balances for stock transfer transactions
 ms:assetid: ebe1211b-be23-4041-980e-998129bfc4fd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710931(v=AX.60)
 ms:contentKeyID: 49386343
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

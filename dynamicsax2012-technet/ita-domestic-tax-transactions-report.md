@@ -4,7 +4,7 @@ TOCTitle: (ITA) Domestic tax transactions (report)
 ms:assetid: 0a518c4d-f571-4b3b-984b-14e4341646b6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874405(v=AX.60)
 ms:contentKeyID: 50619722
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (IND) View VAT transaction information
 ms:assetid: bd239fe5-14f1-4069-a3e9-bbd0018ab832
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664825(v=AX.60)
 ms:contentKeyID: 49386156
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

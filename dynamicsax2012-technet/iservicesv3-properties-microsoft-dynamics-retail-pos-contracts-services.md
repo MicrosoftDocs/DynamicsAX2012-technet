@@ -4,7 +4,7 @@ TOCTitle: IServicesV3 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IServicesV3
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv3_properties(v=AX.60)
 ms:contentKeyID: 62206002
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

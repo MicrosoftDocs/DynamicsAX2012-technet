@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up asset group depreciation for depreciation books
 ms:assetid: 9ce7b204-d548-4b04-bd99-0ef59c624376
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664704(v=AX.60)
 ms:contentKeyID: 49386035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Install integration components
 ms:assetid: d6985ee9-064b-4bee-b18f-d745f93fa8f6
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362086(v=AX.60)
 ms:contentKeyID: 35133043
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

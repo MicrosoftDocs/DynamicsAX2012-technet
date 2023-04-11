@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up tax codes for incentive scheme groups
 ms:assetid: ac5ef9bd-e53a-4d82-9ee9-e387f800208e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664765(v=AX.60)
 ms:contentKeyID: 49386115
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

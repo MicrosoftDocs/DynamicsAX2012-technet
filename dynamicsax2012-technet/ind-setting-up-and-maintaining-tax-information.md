@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up and maintaining tax information
 ms:assetid: 7e227a42-5e80-47bc-b458-9f5680b28426
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677955(v=AX.60)
 ms:contentKeyID: 49385919
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

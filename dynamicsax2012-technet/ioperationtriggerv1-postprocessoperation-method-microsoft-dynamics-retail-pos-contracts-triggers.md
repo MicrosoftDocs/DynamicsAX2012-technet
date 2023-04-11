@@ -4,7 +4,7 @@ TOCTitle: PostProcessOperation Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IOperationTriggerV1.PostProcessOperation(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.PosisOperations)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.ioperationtriggerv1.postprocessoperation(v=AX.60)
 ms:contentKeyID: 49848670
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) View transactions for customs in the journal voucher form
 ms:assetid: fc09683d-36b0-45a8-a932-b266b358ea92
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710984(v=AX.60)
 ms:contentKeyID: 49386397
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Install an Application Object Server (AOS) instance
 ms:assetid: 8f75137a-fb46-4f22-849a-8153feb7ed8e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834510(v=AX.60)
 ms:contentKeyID: 35132759
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

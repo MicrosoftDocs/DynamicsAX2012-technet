@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up and maintaining Accounts payable
 ms:assetid: 66651479-efae-4fef-874d-a63d6c3ca781
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677872(v=AX.60)
 ms:contentKeyID: 49385835
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

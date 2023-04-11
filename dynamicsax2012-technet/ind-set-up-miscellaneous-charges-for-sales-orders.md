@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up miscellaneous charges for sales orders
 ms:assetid: b7fb2e01-f04e-4f0d-b6de-2d211968e4db
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664832(v=AX.60)
 ms:contentKeyID: 49386162
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

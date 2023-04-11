@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up EXIM authorization schemes for DFIA
 ms:assetid: 567b574c-4f40-4e4b-8557-1cd0de57109e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677824(v=AX.60)
 ms:contentKeyID: 49385787
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

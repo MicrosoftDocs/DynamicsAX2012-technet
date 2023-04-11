@@ -4,7 +4,7 @@ TOCTitle: (IND) Tax information in intercompany transactions
 ms:assetid: df365d86-4c35-47cf-b0fb-aac9027b1321
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710896(v=AX.60)
 ms:contentKeyID: 49386306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

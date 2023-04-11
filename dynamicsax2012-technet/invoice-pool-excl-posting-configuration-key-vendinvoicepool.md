@@ -4,7 +4,7 @@ TOCTitle: Invoice pool excl. posting configuration key (VendInvoicePool)
 ms:assetid: da9635f8-76fa-45fd-b8bd-2d8161779f92
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467569(v=AX.60)
 ms:contentKeyID: 36991715
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

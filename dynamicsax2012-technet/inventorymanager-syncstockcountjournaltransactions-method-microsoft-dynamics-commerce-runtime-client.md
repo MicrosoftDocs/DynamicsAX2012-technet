@@ -4,7 +4,7 @@ TOCTitle: SyncStockCountJournalTransactions Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.InventoryManager.SyncStockCountJournalTransactions(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.inventorymanager.syncstockcountjournaltransactions(v=AX.60)
 ms:contentKeyID: 62211886
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

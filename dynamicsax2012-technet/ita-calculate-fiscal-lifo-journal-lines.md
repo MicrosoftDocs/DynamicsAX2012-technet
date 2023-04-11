@@ -4,7 +4,7 @@ TOCTitle: (ITA) Calculate fiscal LIFO journal lines
 ms:assetid: 254ad970-adaf-4205-b4d8-0a1f98e365ab
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496817(v=AX.60)
 ms:contentKeyID: 36056192
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (ITA) Set up information for Model 770 reporting
 ms:assetid: 7787a3d9-06c8-46ce-a5c2-f08e79dcbc2d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh856770(v=AX.60)
 ms:contentKeyID: 45688018
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

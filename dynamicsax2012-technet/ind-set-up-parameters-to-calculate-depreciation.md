@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up parameters to calculate depreciation
 ms:assetid: 61465f58-f096-4145-852b-258fb8725418
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677857(v=AX.60)
 ms:contentKeyID: 49385819
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

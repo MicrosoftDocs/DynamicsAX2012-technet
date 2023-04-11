@@ -4,7 +4,7 @@ TOCTitle: (IND) View the VAT deferment schedule installment for a purchase order
 ms:assetid: f28bcc76-ede0-467f-8a7d-ec05665d4934
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710926(v=AX.60)
 ms:contentKeyID: 49386339
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

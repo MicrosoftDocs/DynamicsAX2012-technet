@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up taxes for intercompany transactions
 ms:assetid: 4a99d713-cddc-4590-862c-bb8a473788ed
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664682(v=AX.60)
 ms:contentKeyID: 49385756
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

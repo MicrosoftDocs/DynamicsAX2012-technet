@@ -4,7 +4,7 @@ TOCTitle: IPricingDataManager Interface
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanager(v=AX.60)
 ms:contentKeyID: 49843516
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

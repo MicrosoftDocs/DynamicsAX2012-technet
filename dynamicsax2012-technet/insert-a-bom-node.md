@@ -4,7 +4,7 @@ TOCTitle: Insert a BOM node
 ms:assetid: fe8135aa-3b35-4315-bbb6-a7ceb4cedc34
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573446(v=AX.60)
 ms:contentKeyID: 36060118
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

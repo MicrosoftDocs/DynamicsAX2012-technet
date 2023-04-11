@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up service tax information for customers
 ms:assetid: 778f8a56-50c8-4483-a06a-629d20ec7dcd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677939(v=AX.60)
 ms:contentKeyID: 49385902
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

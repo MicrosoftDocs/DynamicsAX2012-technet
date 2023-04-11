@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up automatically allocated charges for a charges code, vendo
 ms:assetid: b85f064a-2c11-4c12-bed1-7f6a0dc6d25f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664835(v=AX.60)
 ms:contentKeyID: 49386165
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up tax information for vendors and purchase transactions
 ms:assetid: dbb83c1c-0ea5-4be7-bd0f-3e3083628ca5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710879(v=AX.60)
 ms:contentKeyID: 49386292
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

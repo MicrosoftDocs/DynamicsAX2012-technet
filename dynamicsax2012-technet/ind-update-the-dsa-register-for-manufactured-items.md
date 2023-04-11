@@ -4,7 +4,7 @@ TOCTitle: (IND) Update the DSA register for manufactured items
 ms:assetid: 1d16de20-34e7-44a2-bf59-4538b6b77efc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664535(v=AX.60)
 ms:contentKeyID: 49385616
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

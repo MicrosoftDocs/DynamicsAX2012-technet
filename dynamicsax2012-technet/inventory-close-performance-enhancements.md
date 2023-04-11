@@ -4,7 +4,7 @@ TOCTitle: Inventory close performance enhancements
 ms:assetid: f7a67865-2ee4-453d-b26f-f4376645069b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870686(v=AX.60)
 ms:contentKeyID: 50469188
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

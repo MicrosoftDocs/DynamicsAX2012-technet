@@ -4,7 +4,7 @@ TOCTitle: (IND) Sales orders in general
 ms:assetid: f6d89a42-024b-4506-bc00-caf4267995a5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710941(v=AX.60)
 ms:contentKeyID: 49386353
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

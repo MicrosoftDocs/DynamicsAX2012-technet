@@ -4,7 +4,7 @@ TOCTitle: (IND) Specify dates to calculate excise tax in invoices and journals
 ms:assetid: 8e46cf53-d4b3-4dd9-b5d7-c6cd639d8a30
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678045(v=AX.60)
 ms:contentKeyID: 49386006
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
