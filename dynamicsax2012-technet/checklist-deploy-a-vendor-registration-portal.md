@@ -4,7 +4,7 @@ TOCTitle: 'Checklist: Deploy a vendor registration portal'
 ms:assetid: ed9c97a7-40aa-439d-9c95-f7ba8c06582d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732273(v=AX.60)
 ms:contentKeyID: 35133215
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

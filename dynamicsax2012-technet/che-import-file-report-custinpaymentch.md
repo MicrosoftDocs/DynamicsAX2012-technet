@@ -4,7 +4,7 @@ TOCTitle: (CHE) Import file report (CustInPaymentCH)
 ms:assetid: 42a68981-8f09-4231-932c-d91653c54a2d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404035(v=AX.60)
 ms:contentKeyID: 36956688
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

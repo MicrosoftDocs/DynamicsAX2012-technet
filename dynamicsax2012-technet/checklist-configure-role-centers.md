@@ -4,7 +4,7 @@ TOCTitle: 'Checklist: Configure Role Centers'
 ms:assetid: 17abe92f-40df-4d5f-9f8d-4842c0a1d001
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309607(v=AX.60)
 ms:contentKeyID: 35132561
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: 'Checklist: Deploy an unsolicited vendor portal'
 ms:assetid: 2d8fab1b-be13-4594-a37e-56550f03bb4b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575202(v=AX.60)
 ms:contentKeyID: 39555335
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

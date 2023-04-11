@@ -4,7 +4,7 @@ TOCTitle: Checklists for deploying Enterprise Portal sites
 ms:assetid: 10958f47-99a9-4c08-bdd2-1d31f17d3bda
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751353(v=AX.60)
 ms:contentKeyID: 35132549
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

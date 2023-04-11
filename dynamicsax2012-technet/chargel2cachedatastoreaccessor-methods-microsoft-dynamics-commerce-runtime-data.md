@@ -4,7 +4,7 @@ TOCTitle: ChargeL2CacheDataStoreAccessor Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.ChargeL2CacheDataStoreAccessor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.chargel2cachedatastoreaccessor_methods(v=AX.60)
 ms:contentKeyID: 65322667
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

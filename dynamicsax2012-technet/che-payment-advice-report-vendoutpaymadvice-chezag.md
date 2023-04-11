@@ -4,7 +4,7 @@ TOCTitle: (CHE) Payment advice report (VendOutPaymAdvice_CHEZAG)
 ms:assetid: b11fb81f-a2c5-408c-80ec-7f36a3ffc29e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404046(v=AX.60)
 ms:contentKeyID: 36956706
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

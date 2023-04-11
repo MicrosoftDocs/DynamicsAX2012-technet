@@ -4,7 +4,7 @@ TOCTitle: CheckAccessRequest Constructor (CommercePrincipal, RetailOperation)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.CheckAccessRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal,Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailOperation)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.checkaccessrequest.checkaccessrequest(v=AX.60)
 ms:contentKeyID: 62212270
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

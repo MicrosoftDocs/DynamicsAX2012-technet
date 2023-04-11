@@ -4,7 +4,7 @@ TOCTitle: Check the update history after a batch job
 ms:assetid: 4f3f20cd-0d84-45e9-b18d-88b3839c1181
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497127(v=AX.60)
 ms:contentKeyID: 36057212
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Check ledger transactions report (LedgerCheckTrans)
 ms:assetid: 0273bada-4bbb-473f-9cec-8c078a7781af
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570211(v=AX.60)
 ms:contentKeyID: 36687338
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

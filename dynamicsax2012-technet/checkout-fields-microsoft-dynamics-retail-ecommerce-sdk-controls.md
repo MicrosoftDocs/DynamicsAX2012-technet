@@ -4,7 +4,7 @@ TOCTitle: Checkout Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Controls.Checkout
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.controls.checkout_fields(v=AX.60)
 ms:contentKeyID: 65317935
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

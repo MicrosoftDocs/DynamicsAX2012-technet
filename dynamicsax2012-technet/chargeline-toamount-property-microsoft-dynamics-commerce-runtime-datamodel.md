@@ -4,7 +4,7 @@ TOCTitle: ToAmount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeLine.ToAmount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.chargeline.toamount(v=AX.60)
 ms:contentKeyID: 62212084
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

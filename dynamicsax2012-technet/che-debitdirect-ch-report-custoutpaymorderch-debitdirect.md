@@ -4,7 +4,7 @@ TOCTitle: (CHE) DebitDirect (CH) report (CustOutPaymOrderCH_DebitDirect)
 ms:assetid: 61305999-891b-4620-887b-460603698462
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527129(v=AX.60)
 ms:contentKeyID: 37823180
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

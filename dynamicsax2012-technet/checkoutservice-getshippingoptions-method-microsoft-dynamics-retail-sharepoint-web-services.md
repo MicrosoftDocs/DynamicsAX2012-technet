@@ -4,7 +4,7 @@ TOCTitle: GetShippingOptions Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.CheckoutService.GetShippingOptions
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.checkoutservice.getshippingoptions(v=AX.60)
 ms:contentKeyID: 62206275
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
