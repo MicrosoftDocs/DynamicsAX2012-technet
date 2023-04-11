@@ -4,7 +4,7 @@ TOCTitle: Update a rebate program type
 ms:assetid: 55dd2674-8b80-4c96-a727-fcf79f2a64ac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352206(v=AX.60)
 ms:contentKeyID: 36687840
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

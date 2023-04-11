@@ -4,7 +4,7 @@ TOCTitle: Trade agreements configuration key (TradeAgreements)
 ms:assetid: ec14a834-1be3-4022-abdd-05f31dec8d8c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa599795(v=AX.60)
 ms:contentKeyID: 36997778
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

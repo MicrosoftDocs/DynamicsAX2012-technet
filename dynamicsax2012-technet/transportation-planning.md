@@ -4,7 +4,7 @@ TOCTitle: Transportation planning
 ms:assetid: b2316414-6f6f-4bd7-ad7c-82ddc52ad114
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553192(v=AX.60)
 ms:contentKeyID: 62221424
-author: Khairunj
+author: tonyafehr
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

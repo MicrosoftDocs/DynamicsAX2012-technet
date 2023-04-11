@@ -4,7 +4,7 @@ TOCTitle: Troubleshooting the Help server
 ms:assetid: 101d572f-df9f-4bce-b3d0-aecc5d222fb3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751351(v=AX.60)
 ms:contentKeyID: 35132547
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

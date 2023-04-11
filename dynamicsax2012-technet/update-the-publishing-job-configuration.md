@@ -4,7 +4,7 @@ TOCTitle: Update the Publishing Job Configuration
 ms:assetid: 14539c45-0e22-4d10-9940-809e3748affb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn168132(v=AX.60)
 ms:contentKeyID: 53257401
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

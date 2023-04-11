@@ -4,7 +4,7 @@ TOCTitle: (SWE) Remove order entry statistics
 ms:assetid: a937d09f-c8b3-4b75-a6dc-0944b6e15bcd
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243070(v=AX.60)
 ms:contentKeyID: 36058893
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

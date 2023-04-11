@@ -4,7 +4,7 @@ TOCTitle: Transfer Orders configuration key (InventTransferOrders)
 ms:assetid: fba1c24e-f8df-4960-8e7e-e69d7bd549fa
 ms:mtpsurl: https://technet.microsoft.com/library/Aa634862(v=AX.60)
 ms:contentKeyID: 36993560
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

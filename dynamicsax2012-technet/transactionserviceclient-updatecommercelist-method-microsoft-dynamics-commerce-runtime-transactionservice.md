@@ -4,7 +4,7 @@ TOCTitle: UpdateCommerceList Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.UpdateCommerceList(Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceList)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.updatecommercelist(v=AX.60)
 ms:contentKeyID: 62202689
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

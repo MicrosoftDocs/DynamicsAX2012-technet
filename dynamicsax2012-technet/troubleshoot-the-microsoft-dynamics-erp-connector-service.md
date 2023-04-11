@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot the Microsoft Dynamics ERP Connector service
 ms:assetid: 2cf6d8d4-bfcf-4807-80dc-d3d07285066b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn193991(v=AX.60)
 ms:contentKeyID: 52348246
-author: Khairunj
+author: tonyafehr
 ms.date: 03/16/2013
 mtps_version: v=AX.60
 ---

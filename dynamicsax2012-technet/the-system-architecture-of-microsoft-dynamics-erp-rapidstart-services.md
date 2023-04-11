@@ -4,7 +4,7 @@ TOCTitle: The system architecture of Microsoft Dynamics ERP RapidStart Services
 ms:assetid: f17f421f-c52b-4f94-8108-41cb6c9d956c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn221773(v=AX.60)
 ms:contentKeyID: 54161570
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

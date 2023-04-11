@@ -4,7 +4,7 @@ TOCTitle: StockCountJournalTransaction Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.SyncStockCountResponse.StockCountJournalTransaction
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.syncstockcountresponse.stockcountjournaltransaction(v=AX.60)
 ms:contentKeyID: 62213457
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

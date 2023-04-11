@@ -4,7 +4,7 @@ TOCTitle: SupportedLanguage Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.SupportedLanguage
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.supportedlanguage_methods(v=AX.60)
 ms:contentKeyID: 49856574
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

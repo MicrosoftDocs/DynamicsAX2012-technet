@@ -4,7 +4,7 @@ TOCTitle: Update the expiration date for an inventory batch
 ms:assetid: 3a1763be-e1a0-420b-8fc9-0305c6ac807e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352196(v=AX.60)
 ms:contentKeyID: 36687829
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

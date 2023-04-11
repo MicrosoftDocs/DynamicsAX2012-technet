@@ -4,7 +4,7 @@ TOCTitle: Update alternative quotations
 ms:assetid: 8a3247db-d11e-4a0c-9afd-98a9ee5967e7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498240(v=AX.60)
 ms:contentKeyID: 36058465
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

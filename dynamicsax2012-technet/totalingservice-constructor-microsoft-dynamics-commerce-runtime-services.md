@@ -4,7 +4,7 @@ TOCTitle: TotalingService Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TotalingService.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.totalingservice.totalingservice(v=AX.60)
 ms:contentKeyID: 49841395
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: UtcRequiredPublicNonStaticProperties Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache.UtcRequiredPublicNonStaticProperties
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.typecache.utcrequiredpublicnonstaticproperties(v=AX.60)
 ms:contentKeyID: 65320585
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

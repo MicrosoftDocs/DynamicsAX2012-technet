@@ -4,7 +4,7 @@ TOCTitle: Unit texts
 ms:assetid: c26ff11e-ec41-47cd-b1cf-95736a790e7f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731921(v=AX.60)
 ms:contentKeyID: 35132849
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

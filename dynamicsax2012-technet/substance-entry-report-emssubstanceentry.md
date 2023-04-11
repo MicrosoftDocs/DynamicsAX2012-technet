@@ -4,7 +4,7 @@ TOCTitle: Substance entry report (EMSSubstanceEntry)
 ms:assetid: d00dce8f-4ad1-40c5-953c-0a70e2cc096f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412256(v=AX.60)
 ms:contentKeyID: 36916368
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

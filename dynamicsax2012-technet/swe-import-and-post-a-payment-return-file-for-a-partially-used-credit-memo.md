@@ -4,7 +4,7 @@ TOCTitle: (SWE) Import and post a payment return file for a partially used credi
 ms:assetid: 8589284e-6bbd-4f2a-aed9-927994372bcb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209326(v=AX.60)
 ms:contentKeyID: 36058406
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

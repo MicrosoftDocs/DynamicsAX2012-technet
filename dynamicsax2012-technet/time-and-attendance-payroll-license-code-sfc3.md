@@ -4,7 +4,7 @@ TOCTitle: Time and attendance payroll license code (SFC3)
 ms:assetid: 79ecf304-b878-4848-beab-746aac7b6ec7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441663(v=AX.60)
 ms:contentKeyID: 36993547
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

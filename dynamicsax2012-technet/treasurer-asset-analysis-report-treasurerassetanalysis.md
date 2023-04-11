@@ -4,7 +4,7 @@ TOCTitle: Treasurer asset analysis report (TreasurerAssetAnalysis)
 ms:assetid: 2c0610ca-dfec-4a9c-aa6b-6c239ed95635
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556864(v=AX.60)
 ms:contentKeyID: 39509594
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

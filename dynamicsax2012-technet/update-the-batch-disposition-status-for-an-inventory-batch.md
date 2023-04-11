@@ -4,7 +4,7 @@ TOCTitle: Update the batch disposition status for an inventory batch
 ms:assetid: 7aaa78f3-c2c6-4541-931e-715bcba8eece
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352216(v=AX.60)
 ms:contentKeyID: 36687851
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

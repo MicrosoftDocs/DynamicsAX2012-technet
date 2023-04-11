@@ -4,7 +4,7 @@ TOCTitle: ChannelConfiguration Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode.ChannelConfiguration
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcode.channelconfiguration(v=AX.60)
 ms:contentKeyID: 49831737
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: TypeCastActivity(TResult) Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.TypeCastActivity`1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn988920(v=AX.60)
 ms:contentKeyID: 65318370
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

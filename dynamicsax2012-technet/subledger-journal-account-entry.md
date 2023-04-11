@@ -4,7 +4,7 @@ TOCTitle: " subledger journal account entry"
 ms:assetid: DynamicsAXGlossary.1370465
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1370465(v=AX.60)
 ms:contentKeyID: 36056913
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Test-AXReportServerConfiguration
 ms:assetid: 356343E9-8FE5-433E-8EA3-2FA346311E1D
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720250(v=AX.60)
 ms:contentKeyID: 49720038
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

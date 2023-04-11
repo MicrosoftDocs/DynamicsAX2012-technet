@@ -4,7 +4,7 @@ TOCTitle: Transactions report (CustTransList)
 ms:assetid: b4a43280-1756-4459-be15-73c2a7f50381
 ms:mtpsurl: https://technet.microsoft.com/library/Aa589792(v=AX.60)
 ms:contentKeyID: 36956707
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

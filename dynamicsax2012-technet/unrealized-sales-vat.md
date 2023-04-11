@@ -4,7 +4,7 @@ TOCTitle: " unrealized sales VAT"
 ms:assetid: DynamicsAXGlossary.2015316
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.2015316(v=AX.60)
 ms:contentKeyID: 62830127
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

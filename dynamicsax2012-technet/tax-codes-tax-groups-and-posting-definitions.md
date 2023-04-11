@@ -4,7 +4,7 @@ TOCTitle: Tax codes, tax groups, and posting definitions
 ms:assetid: 57b01627-e821-491d-b460-c4225b4dfc68
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527692(v=AX.60)
 ms:contentKeyID: 59626226
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

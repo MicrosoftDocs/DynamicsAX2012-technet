@@ -4,7 +4,7 @@ TOCTitle: System administrator security role (-SYSADMIN-)
 ms:assetid: f720da4f-c711-4d26-98fd-5af703f48907
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527716(v=AX.60)
 ms:contentKeyID: 37831921
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

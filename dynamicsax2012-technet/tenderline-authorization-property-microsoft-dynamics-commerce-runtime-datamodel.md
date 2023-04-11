@@ -4,7 +4,7 @@ TOCTitle: Authorization Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TenderLine.Authorization
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tenderline.authorization(v=AX.60)
 ms:contentKeyID: 49832741
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

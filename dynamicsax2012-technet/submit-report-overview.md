@@ -4,7 +4,7 @@ TOCTitle: Submit report overview
 ms:assetid: 4b0dc7cb-ce5f-46fa-9c36-bb7bec9db848
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212724(v=AX.60)
 ms:contentKeyID: 36056982
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

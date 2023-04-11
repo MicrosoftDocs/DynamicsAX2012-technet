@@ -4,7 +4,7 @@ TOCTitle: Total accounts receivable in the past periods chart report (LedgerTota
 ms:assetid: 9e740062-9602-4ad0-8dda-79e7d5dc714b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692472(v=AX.60)
 ms:contentKeyID: 41702369
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

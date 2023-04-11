@@ -4,7 +4,7 @@ TOCTitle: GetTimeSpan Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TimeZoneExtensions.GetTimeSpan(System.Collections.Generic.List{Microsoft.Dynamics.Commerce.Runtime.DataModel.TimeZoneInterval},System.DateTime)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.timezoneextensions.gettimespan(v=AX.60)
 ms:contentKeyID: 65322759
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

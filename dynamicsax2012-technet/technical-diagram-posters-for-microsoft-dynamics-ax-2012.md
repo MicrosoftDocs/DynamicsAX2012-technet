@@ -4,7 +4,7 @@ TOCTitle: Technical diagram posters for Microsoft Dynamics AX 2012
 ms:assetid: 5af8b750-b9be-4b49-becf-63fdff4d9786
 ms:mtpsurl: https://technet.microsoft.com/library/Dn249831(v=AX.60)
 ms:contentKeyID: 54769594
-author: Khairunj
+author: tonyafehr
 ms.date: 07/19/2016
 mtps_version: v=AX.60
 ---

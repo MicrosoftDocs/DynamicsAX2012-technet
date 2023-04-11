@@ -4,7 +4,7 @@ TOCTitle: Transfer absence journals for approval
 ms:assetid: 7be99dd3-442a-4081-bd3a-a0a3910c3cdf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571369(v=AX.60)
 ms:contentKeyID: 36966730
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

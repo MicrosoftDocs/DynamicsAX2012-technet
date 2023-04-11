@@ -4,7 +4,7 @@ TOCTitle: (SWE) Set up parameters for a control unit in Microsoft Dynamics AX fo
 ms:assetid: a1d8ca52-7052-4d19-b8f8-842e7882d3a8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn857499(v=AX.60)
 ms:contentKeyID: 63396901
-author: Khairunj
+author: tonyafehr
 ms.date: 12/12/2014
 mtps_version: v=AX.60
 f1_keywords:

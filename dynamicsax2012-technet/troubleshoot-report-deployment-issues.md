@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot Report Deployment Issues
 ms:assetid: af490e4f-607e-47ae-be12-a5cecb7b9ec7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724094(v=AX.60)
 ms:contentKeyID: 35133452
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

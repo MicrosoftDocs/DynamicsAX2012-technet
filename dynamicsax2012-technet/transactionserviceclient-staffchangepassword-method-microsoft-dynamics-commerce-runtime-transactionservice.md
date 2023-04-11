@@ -4,7 +4,7 @@ TOCTitle: StaffChangePassword Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.StaffChangePassword(System.String,System.String,System.String,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.staffchangepassword(v=AX.60)
 ms:contentKeyID: 62208120
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

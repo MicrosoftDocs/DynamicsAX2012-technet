@@ -4,7 +4,7 @@ TOCTitle: TaxCurrencyCode Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxCodeInterval.TaxCurrencyCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxcodeinterval.taxcurrencycode(v=AX.60)
 ms:contentKeyID: 62214622
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

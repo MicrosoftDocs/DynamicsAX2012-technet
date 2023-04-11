@@ -4,7 +4,7 @@ TOCTitle: GetUnitOfMeasureConversions Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.UnitOfMeasureConversionDataManager.GetUnitOfMeasureConversions(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemUnitConversion},Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.unitofmeasureconversiondatamanager.getunitofmeasureconversions(v=AX.60)
 ms:contentKeyID: 65316288
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: RenderControl Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.SubmitOrder.RenderControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.submitorder.rendercontrol(v=AX.60)
 ms:contentKeyID: 62207304
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

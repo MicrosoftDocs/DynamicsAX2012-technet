@@ -4,7 +4,7 @@ TOCTitle: Trend by operating unit report (RetailTrendByChannel)
 ms:assetid: 92300900-d26e-457c-bc67-ad8e53860d9a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ862345(v=AX.60)
 ms:contentKeyID: 50181522
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

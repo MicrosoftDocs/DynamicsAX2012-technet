@@ -4,7 +4,7 @@ TOCTitle: Task recorder
 ms:assetid: 5f681f94-d8e7-470b-ac73-94a18ec28f92
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497765(v=AX.60)
 ms:contentKeyID: 62200077
-author: Khairunj
+author: tonyafehr
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 audience: Application User

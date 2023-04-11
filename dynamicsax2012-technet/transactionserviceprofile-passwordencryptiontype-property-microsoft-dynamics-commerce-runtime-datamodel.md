@@ -4,7 +4,7 @@ TOCTitle: PasswordEncryptionType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TransactionServiceProfile.PasswordEncryptionType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.transactionserviceprofile.passwordencryptiontype(v=AX.60)
 ms:contentKeyID: 62210367
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

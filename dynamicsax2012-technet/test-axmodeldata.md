@@ -4,7 +4,7 @@ TOCTitle: Test-AXModelData
 ms:assetid: 3C0ECDB1-9201-4C47-8E95-3034243D9BD1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720251(v=AX.60)
 ms:contentKeyID: 49720041
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

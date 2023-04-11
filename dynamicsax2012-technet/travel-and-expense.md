@@ -4,7 +4,7 @@ TOCTitle: Travel and expense
 ms:assetid: 1563e8b2-8a7f-4697-bef8-d96045f9729b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242148(v=AX.60)
 ms:contentKeyID: 36056061
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

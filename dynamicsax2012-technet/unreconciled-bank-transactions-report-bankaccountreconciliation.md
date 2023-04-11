@@ -4,7 +4,7 @@ TOCTitle: Unreconciled bank transactions report (BankAccountReconciliation)
 ms:assetid: 0079ae9f-77f2-4ac1-b847-b4027448c295
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548475(v=AX.60)
 ms:contentKeyID: 36931891
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

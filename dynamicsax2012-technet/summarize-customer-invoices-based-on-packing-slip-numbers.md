@@ -4,7 +4,7 @@ TOCTitle: Summarize customer invoices based on packing slip numbers
 ms:assetid: 13265c84-76c3-4b01-8e32-e85318776400
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230936(v=AX.60)
 ms:contentKeyID: 37822138
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

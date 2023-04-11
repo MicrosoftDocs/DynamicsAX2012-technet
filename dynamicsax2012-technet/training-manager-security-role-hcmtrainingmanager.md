@@ -4,7 +4,7 @@ TOCTitle: Training manager security role (HcmTrainingManager)
 ms:assetid: 4d6764ef-8502-462a-8ecc-1d14e172ec61
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527086(v=AX.60)
 ms:contentKeyID: 37823138
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

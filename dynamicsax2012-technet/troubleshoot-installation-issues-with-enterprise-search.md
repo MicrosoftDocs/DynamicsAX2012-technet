@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot installation issues with Enterprise Search
 ms:assetid: 7d38c40f-3ae5-4a10-b159-9519c6ed9150
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575226(v=AX.60)
 ms:contentKeyID: 39555372
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

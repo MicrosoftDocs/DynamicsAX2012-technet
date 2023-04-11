@@ -4,7 +4,7 @@ TOCTitle: Synchronize the job table
 ms:assetid: f0cbf941-d0ed-4380-8439-2284b843ed8b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551588(v=AX.60)
 ms:contentKeyID: 36688043
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

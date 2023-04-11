@@ -4,7 +4,7 @@ TOCTitle: SaveCustomerOrder Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.SaveCustomerOrder(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.CustomerOrderType,Microsoft.Dynamics.Commerce.Runtime.DataModel.CustomerOrderMode,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.savecustomerorder(v=AX.60)
 ms:contentKeyID: 62211678
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

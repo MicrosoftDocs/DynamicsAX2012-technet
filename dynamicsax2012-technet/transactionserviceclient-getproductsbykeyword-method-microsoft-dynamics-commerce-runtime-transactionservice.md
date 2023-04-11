@@ -4,7 +4,7 @@ TOCTitle: GetProductsByKeyword Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.GetProductsByKeyword(System.Int64,System.Int64,System.Int64,System.String,System.Int32,System.Int32,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.getproductsbykeyword(v=AX.60)
 ms:contentKeyID: 62210389
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

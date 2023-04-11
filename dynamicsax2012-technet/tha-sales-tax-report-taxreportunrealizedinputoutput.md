@@ -4,7 +4,7 @@ TOCTitle: (THA) Sales tax report (TaxReportUnrealizedInputOutput)
 ms:assetid: 29954b8c-9da2-4e2c-9e5a-0619bb3bb1ef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335138(v=AX.60)
 ms:contentKeyID: 36687348
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

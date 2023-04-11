@@ -4,7 +4,7 @@ TOCTitle: Try out Microsoft Dynamics ERP RapidStart Services
 ms:assetid: f722c99e-2d52-43d8-9e8f-edaba44d93f1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn194013(v=AX.60)
 ms:contentKeyID: 52348268
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

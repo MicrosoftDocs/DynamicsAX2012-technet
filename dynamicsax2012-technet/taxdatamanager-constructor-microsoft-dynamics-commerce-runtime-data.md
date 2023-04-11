@@ -4,7 +4,7 @@ TOCTitle: TaxDataManager Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.TaxDataManager.#ctor(Microsoft.Dynamics.Commerce.Runtime.RequestContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.taxdatamanager.taxdatamanager(v=AX.60)
 ms:contentKeyID: 62205567
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

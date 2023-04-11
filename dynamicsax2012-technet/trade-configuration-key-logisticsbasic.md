@@ -4,7 +4,7 @@ TOCTitle: Trade configuration key (LogisticsBasic)
 ms:assetid: 0202b064-f27d-45fc-b40b-d40a59544dad
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570180(v=AX.60)
 ms:contentKeyID: 36993540
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

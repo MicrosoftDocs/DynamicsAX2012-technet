@@ -4,7 +4,7 @@ TOCTitle: Tune data access settings
 ms:assetid: f799430e-56b0-4b77-abdc-517820390dd2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569634(v=AX.60)
 ms:contentKeyID: 36584409
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: System maintenance tasks
 ms:assetid: bda33310-cefb-428a-9654-65a04f8400f1
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362059(v=AX.60)
 ms:contentKeyID: 37822173
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

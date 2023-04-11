@@ -4,7 +4,7 @@ TOCTitle: (SWE) Export financial information for auditors
 ms:assetid: 30e4ed09-a7e1-4542-a93e-a16a33578497
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231030(v=AX.60)
 ms:contentKeyID: 36056322
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

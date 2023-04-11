@@ -4,7 +4,7 @@ TOCTitle: Trade Agreement Evaluation Policies
 ms:assetid: 96a561ab-baea-4474-8a16-2cf29d6c0e21
 ms:mtpsurl: https://technet.microsoft.com/library/JJ860378(v=AX.60)
 ms:contentKeyID: 50470850
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

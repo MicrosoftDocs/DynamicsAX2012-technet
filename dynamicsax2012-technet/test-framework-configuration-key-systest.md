@@ -4,7 +4,7 @@ TOCTitle: Test Framework configuration key (SysTest)
 ms:assetid: 293e7c43-484f-4579-8c37-a1d35f8ae0c9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500580(v=AX.60)
 ms:contentKeyID: 36997748
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

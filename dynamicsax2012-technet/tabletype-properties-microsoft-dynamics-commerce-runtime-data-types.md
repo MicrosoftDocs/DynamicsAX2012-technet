@@ -4,7 +4,7 @@ TOCTitle: TableType Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Data.Types.TableType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.tabletype_properties(v=AX.60)
 ms:contentKeyID: 65319486
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

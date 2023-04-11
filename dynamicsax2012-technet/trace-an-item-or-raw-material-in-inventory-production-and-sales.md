@@ -4,7 +4,7 @@ TOCTitle: Trace an item or raw material in inventory, production, and sales
 ms:assetid: 4b75fcbe-7b63-4c44-b6fd-2ae2a936a962
 ms:mtpsurl: https://technet.microsoft.com/library/Dn313036(v=AX.60)
 ms:contentKeyID: 54936280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

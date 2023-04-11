@@ -4,7 +4,7 @@ TOCTitle: Update best before dates for inventory batches
 ms:assetid: e77a9b79-2c5e-4c56-ab65-a5684ccc2e13
 ms:mtpsurl: https://technet.microsoft.com/library/Hh328598(v=AX.60)
 ms:contentKeyID: 36688024
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

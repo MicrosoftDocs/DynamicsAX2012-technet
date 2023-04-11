@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot the Intelligent Data Management Framework (IDMF)
 ms:assetid: 9f836125-8100-4137-a8fb-61e380af575b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389765(v=AX.60)
 ms:contentKeyID: 36899743
-author: Khairunj
+author: tonyafehr
 ms.date: 10/11/2018
 mtps_version: v=AX.60
 ---

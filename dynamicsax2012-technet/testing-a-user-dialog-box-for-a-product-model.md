@@ -4,7 +4,7 @@ TOCTitle: Testing a user dialog box for a product model
 ms:assetid: e18e1fc1-6acc-4f23-91d5-d451f192ef44
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551347(v=AX.60)
 ms:contentKeyID: 36059709
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

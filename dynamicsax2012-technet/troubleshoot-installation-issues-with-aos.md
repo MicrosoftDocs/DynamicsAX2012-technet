@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot installation issues with AOS
 ms:assetid: e5b619c0-a99c-4841-bfc4-5d78ac5e1975
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575257(v=AX.60)
 ms:contentKeyID: 39555424
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

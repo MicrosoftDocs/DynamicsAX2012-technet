@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot issues when running the Setup wizard to install the Repor
 ms:assetid: df0437d7-d50e-4acf-9354-e6c8f68af661
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496434(v=AX.60)
 ms:contentKeyID: 37072016
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

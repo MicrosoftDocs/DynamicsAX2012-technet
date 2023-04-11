@@ -4,7 +4,7 @@ TOCTitle: Update the OLAP data source
 ms:assetid: d19dbb45-bf32-4f36-b7d2-722c149df5ae
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202068(v=AX.60)
 ms:contentKeyID: 35949310
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Transaction Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.Transaction
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.transaction_methods(v=AX.60)
 ms:contentKeyID: 65318610
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

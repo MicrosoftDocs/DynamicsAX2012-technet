@@ -4,7 +4,7 @@ TOCTitle: GetFactorForQuantity Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.UnitOfMeasureConversionExtension.GetFactorForQuantity(Microsoft.Dynamics.Commerce.Runtime.DataModel.UnitOfMeasureConversion,System.Decimal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.unitofmeasureconversionextension.getfactorforquantity(v=AX.60)
 ms:contentKeyID: 49839519
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Unpick items before loading
 ms:assetid: 784f9e8e-5139-415a-9e49-3324d7f31db9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213004(v=AX.60)
 ms:contentKeyID: 37832509
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

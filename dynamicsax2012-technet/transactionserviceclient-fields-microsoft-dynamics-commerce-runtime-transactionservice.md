@@ -4,7 +4,7 @@ TOCTitle: TransactionServiceClient Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient_fields(v=AX.60)
 ms:contentKeyID: 62209976
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

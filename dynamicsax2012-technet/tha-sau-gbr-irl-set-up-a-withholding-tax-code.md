@@ -4,7 +4,7 @@ TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax code
 ms:assetid: 9850397e-bc51-4361-88a9-9d6adad712c2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209416(v=AX.60)
 ms:contentKeyID: 36058676
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

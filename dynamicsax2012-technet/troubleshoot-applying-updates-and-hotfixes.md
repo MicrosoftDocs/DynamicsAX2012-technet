@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot applying updates and hotfixes
 ms:assetid: 8ec5b487-267a-46ff-bfb7-8efc6ec61dee
 ms:mtpsurl: https://technet.microsoft.com/library/JJ161010(v=AX.60)
 ms:contentKeyID: 47903500
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

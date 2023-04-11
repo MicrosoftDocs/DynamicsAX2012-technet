@@ -4,7 +4,7 @@ TOCTitle: Transfer a customer postdated check to a vendor
 ms:assetid: 6270c8b9-d1da-44b3-b5db-5fd9f7c73459
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209194(v=AX.60)
 ms:contentKeyID: 36057671
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

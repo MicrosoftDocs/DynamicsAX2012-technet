@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot the installation
 ms:assetid: f950cc1e-d3fb-4792-a2f8-cf9fe48ff752
 ms:mtpsurl: https://technet.microsoft.com/library/Ee355092(v=AX.60)
 ms:contentKeyID: 35133305
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

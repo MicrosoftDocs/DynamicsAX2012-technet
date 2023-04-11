@@ -4,7 +4,7 @@ TOCTitle: Update-type events
 ms:assetid: b95b53e3-db9b-4f0b-8c49-55a5c88a3d39
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498848(v=AX.60)
 ms:contentKeyID: 46687566
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

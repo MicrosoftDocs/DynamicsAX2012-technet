@@ -4,7 +4,7 @@ TOCTitle: (THA, SAU, GBR, IRL) Create an item withholding tax group and attach a
 ms:assetid: 867a8f50-68c6-4585-a045-2ffef953d5be
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209327(v=AX.60)
 ms:contentKeyID: 36058416
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

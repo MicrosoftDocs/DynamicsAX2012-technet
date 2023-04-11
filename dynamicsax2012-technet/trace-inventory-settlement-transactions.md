@@ -4,7 +4,7 @@ TOCTitle: Trace inventory settlement transactions
 ms:assetid: 68eed109-25e8-4893-99e5-148f577133f7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231574(v=AX.60)
 ms:contentKeyID: 36057960
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

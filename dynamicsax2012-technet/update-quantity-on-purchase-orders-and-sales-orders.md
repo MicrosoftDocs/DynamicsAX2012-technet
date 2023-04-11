@@ -4,7 +4,7 @@ TOCTitle: Update quantity on purchase orders and sales orders
 ms:assetid: 7fbeaa75-2c00-4723-a21f-a3b4375b14da
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209299(v=AX.60)
 ms:contentKeyID: 36058337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

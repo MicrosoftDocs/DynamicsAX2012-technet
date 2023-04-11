@@ -4,7 +4,7 @@ TOCTitle: TakenToSafe Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TenderType.TakenToSafe
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tendertype.takentosafe(v=AX.60)
 ms:contentKeyID: 62209761
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: STSFormBasedAuthWebConfigDeactivationJob Constructor (String, )
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.STSFormBasedAuthWebConfigDeactivationJob.#ctor(System.String,Microsoft.SharePoint.Administration.SPWebApplication)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.stsformbasedauthwebconfigdeactivationjob.stsformbasedauthwebconfigdeactivationjob(v=AX.60)
 ms:contentKeyID: 62204273
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

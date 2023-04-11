@@ -4,7 +4,7 @@ TOCTitle: Update time and attendance information
 ms:assetid: 1d81683c-aa77-468a-9788-8b8bf316f9a3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496772(v=AX.60)
 ms:contentKeyID: 36056142
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: CalculateTaxAmount Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCodeIndia.CalculateTaxAmount(System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcodeindia.calculatetaxamount(v=AX.60)
 ms:contentKeyID: 62210178
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

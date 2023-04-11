@@ -4,7 +4,7 @@ TOCTitle: Support for Previous POS Versions
 ms:assetid: 22b69bd2-790c-4327-a00e-a5217f9f5c39
 ms:mtpsurl: https://technet.microsoft.com/library/Dn265943(v=AX.60)
 ms:contentKeyID: 54889627
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

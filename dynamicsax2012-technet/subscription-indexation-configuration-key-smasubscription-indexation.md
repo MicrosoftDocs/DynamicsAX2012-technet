@@ -4,7 +4,7 @@ TOCTitle: Subscription Indexation configuration key (SMASubscription_Indexation)
 ms:assetid: d9206ba8-5017-4396-b381-a4d87759818a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa619636(v=AX.60)
 ms:contentKeyID: 36993557
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

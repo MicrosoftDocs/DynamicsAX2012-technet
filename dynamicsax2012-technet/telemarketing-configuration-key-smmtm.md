@@ -4,7 +4,7 @@ TOCTitle: Telemarketing configuration key (SmmTM)
 ms:assetid: 2c32882d-dfe3-4e04-a587-16a1d1fb21e4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500792(v=AX.60)
 ms:contentKeyID: 36931821
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

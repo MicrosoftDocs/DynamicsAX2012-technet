@@ -4,7 +4,7 @@ TOCTitle: Time and material configuration key (ProjBasicTimeMaterial)
 ms:assetid: 370e2819-b587-47fa-949f-17737d3cd98f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa553452(v=AX.60)
 ms:contentKeyID: 39518954
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

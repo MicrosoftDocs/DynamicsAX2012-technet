@@ -4,7 +4,7 @@ TOCTitle: Time and attendance Enterprise Portal configuration key (JmgEPSFCEmplo
 ms:assetid: 50884156-723f-4813-a619-9d90c6f05a88
 ms:mtpsurl: https://technet.microsoft.com/library/Aa576516(v=AX.60)
 ms:contentKeyID: 37831973
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

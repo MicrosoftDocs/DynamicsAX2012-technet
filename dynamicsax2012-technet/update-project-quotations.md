@@ -4,7 +4,7 @@ TOCTitle: Update project quotations
 ms:assetid: 7d4f3880-05eb-4ad5-bc75-0e72cbff1513
 ms:mtpsurl: https://technet.microsoft.com/library/Bb176039(v=AX.60)
 ms:contentKeyID: 36058300
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

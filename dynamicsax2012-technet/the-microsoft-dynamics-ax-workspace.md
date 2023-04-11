@@ -4,7 +4,7 @@ TOCTitle: The Microsoft Dynamics AX workspace
 ms:assetid: 1a6cad45-a2a9-4726-82ae-2a7ca3e52c61
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230970(v=AX.60)
 ms:contentKeyID: 36056121
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

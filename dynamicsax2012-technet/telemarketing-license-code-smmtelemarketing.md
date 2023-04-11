@@ -4,7 +4,7 @@ TOCTitle: Telemarketing license code (smmTelemarketing)
 ms:assetid: cc8a0649-b81a-42a2-9085-4817432af863
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416689(v=AX.60)
 ms:contentKeyID: 36931850
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

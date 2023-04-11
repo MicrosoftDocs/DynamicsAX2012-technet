@@ -4,7 +4,7 @@ TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax group and attach it to a
 ms:assetid: d3d81746-583d-4e35-b564-8afe5bc23332
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242926(v=AX.60)
 ms:contentKeyID: 36059515
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

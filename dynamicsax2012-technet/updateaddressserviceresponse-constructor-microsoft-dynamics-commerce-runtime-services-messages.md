@@ -4,7 +4,7 @@ TOCTitle: UpdateAddressServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UpdateAddressServiceResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer,Microsoft.Dynamics.Commerce.Runtime.DataModel.Address)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.updateaddressserviceresponse.updateaddressserviceresponse(v=AX.60)
 ms:contentKeyID: 65319757
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

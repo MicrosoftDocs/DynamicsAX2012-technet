@@ -4,7 +4,7 @@ TOCTitle: TaxCodeIntervalIndia Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxCodeIntervalIndia
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxcodeintervalindia(v=AX.60)
 ms:contentKeyID: 62208748
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

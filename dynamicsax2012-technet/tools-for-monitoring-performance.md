@@ -4,7 +4,7 @@ TOCTitle: Tools for monitoring performance
 ms:assetid: 2e740397-8bf2-41d1-8855-98b4397a5b83
 ms:mtpsurl: https://technet.microsoft.com/library/JJ149695(v=AX.60)
 ms:contentKeyID: 47541246
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

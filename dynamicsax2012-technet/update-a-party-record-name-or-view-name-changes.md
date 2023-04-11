@@ -4,7 +4,7 @@ TOCTitle: Update a party record name or view name changes
 ms:assetid: a422a31c-d675-4b53-bedf-6d3cbb22671d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524758(v=AX.60)
 ms:contentKeyID: 37072064
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
