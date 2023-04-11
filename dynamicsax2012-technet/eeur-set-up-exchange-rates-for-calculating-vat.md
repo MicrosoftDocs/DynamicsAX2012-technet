@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up exchange rates for calculating VAT
 ms:assetid: 2aaa883b-5787-4c79-b3c1-d0cfb20fe02e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ852135(v=AX.60)
 ms:contentKeyID: 50281221
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

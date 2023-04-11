@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up monetary unit declensions
 ms:assetid: 6d259616-910d-447c-8a35-c3ffe3086234
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677562(v=AX.60)
 ms:contentKeyID: 49384865
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

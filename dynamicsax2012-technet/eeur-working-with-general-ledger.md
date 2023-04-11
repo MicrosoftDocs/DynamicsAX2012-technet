@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Working with General ledger
 ms:assetid: 37ec33cb-5179-4cb0-aa2b-8e2b611b7c5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710697(v=AX.60)
 ms:contentKeyID: 49385094
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

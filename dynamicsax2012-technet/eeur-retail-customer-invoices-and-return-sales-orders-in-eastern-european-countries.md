@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Retail customer invoices and return sales orders in Eastern Eur
 ms:assetid: 4585c22a-a557-45d0-9312-81f4df2c76e4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268480(v=AX.60)
 ms:contentKeyID: 54917019
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

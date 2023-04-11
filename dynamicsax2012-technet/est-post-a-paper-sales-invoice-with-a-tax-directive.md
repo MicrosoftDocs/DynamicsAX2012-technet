@@ -4,7 +4,7 @@ TOCTitle: (EST) Post a paper sales invoice with a tax directive
 ms:assetid: 30bb541a-418f-4135-9aba-8ed6d10b6d19
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710819(v=AX.60)
 ms:contentKeyID: 49385215
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

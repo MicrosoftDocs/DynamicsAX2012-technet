@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Setting up and maintaining Retail
 ms:assetid: df489cce-50cd-419e-937d-230b0ad0711b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn313242(v=AX.60)
 ms:contentKeyID: 54964138
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

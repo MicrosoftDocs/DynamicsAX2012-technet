@@ -4,7 +4,7 @@ TOCTitle: (ESP) Create electronic payment files
 ms:assetid: 9557f358-dd21-4afa-ba65-43d6899a8643
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209395(v=AX.60)
 ms:contentKeyID: 36058618
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

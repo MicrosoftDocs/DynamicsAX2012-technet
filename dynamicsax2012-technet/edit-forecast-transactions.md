@@ -4,7 +4,7 @@ TOCTitle: Edit forecast transactions
 ms:assetid: c7264bc5-a453-46c3-bff4-4dc09d454052
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550850(v=AX.60)
 ms:contentKeyID: 36059312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

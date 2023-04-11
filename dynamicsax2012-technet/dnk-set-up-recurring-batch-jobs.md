@@ -4,7 +4,7 @@ TOCTitle: (DNK) Set up recurring batch jobs
 ms:assetid: 233bf405-9201-44ab-8509-ed61229f47e1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208476(v=AX.60)
 ms:contentKeyID: 36056181
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

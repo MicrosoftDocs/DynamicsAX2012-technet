@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Working with Inventory and warehouse management
 ms:assetid: e8b9b292-a002-47d4-86e9-0d68474d0d40
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710791(v=AX.60)
 ms:contentKeyID: 49385186
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

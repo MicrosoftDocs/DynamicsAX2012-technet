@@ -4,7 +4,7 @@ TOCTitle: ExtendedWebAppWebConfigDeactivationJob Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SP.CommonFeatures.ExtendedWebAppWebConfigDeactivationJob
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.extendedwebappwebconfigdeactivationjob_properties(v=AX.60)
 ms:contentKeyID: 62202672
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

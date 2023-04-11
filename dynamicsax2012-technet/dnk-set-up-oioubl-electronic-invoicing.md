@@ -4,7 +4,7 @@ TOCTitle: (DNK) Set up OIOUBL electronic invoicing
 ms:assetid: ea462138-3c01-4110-a148-13431a182328
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227478(v=AX.60)
 ms:contentKeyID: 36059848
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

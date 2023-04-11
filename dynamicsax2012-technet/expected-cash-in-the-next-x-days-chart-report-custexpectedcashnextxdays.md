@@ -4,7 +4,7 @@ TOCTitle: Expected cash in the next x days chart report (CustExpectedCashNextXDa
 ms:assetid: fb9c7bd6-6aab-4e7e-bb8c-ed6646136de2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538467(v=AX.60)
 ms:contentKeyID: 39508898
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

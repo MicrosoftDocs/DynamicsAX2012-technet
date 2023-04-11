@@ -4,7 +4,7 @@ TOCTitle: Encumbrance process configuration key (LedgerEncumbrance)
 ms:assetid: 6868757b-03b2-4a74-a8f8-ddb25c39f07e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500154(v=AX.60)
 ms:contentKeyID: 37820185
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

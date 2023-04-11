@@ -4,7 +4,7 @@ TOCTitle: (EST) Generate and export a vendor payment in a telebank format
 ms:assetid: b5ba5bcc-614a-4f65-a993-c66f40dbbe28
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664187(v=AX.60)
 ms:contentKeyID: 49385277
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

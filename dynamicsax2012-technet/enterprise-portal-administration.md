@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal administration
 ms:assetid: 89cfacf1-f1ef-4d21-b9f1-94e1f3d8c5a0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271588(v=AX.60)
 ms:contentKeyID: 36384219
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

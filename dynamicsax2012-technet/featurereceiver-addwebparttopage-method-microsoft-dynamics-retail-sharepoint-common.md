@@ -4,7 +4,7 @@ TOCTitle: AddWebPartToPage Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.FeatureReceiver.AddWebPartToPage(Microsoft.SharePoint.SPWeb,System.Web.UI.WebControls.WebParts.WebPart,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.addwebparttopage(v=AX.60)
 ms:contentKeyID: 62202960
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

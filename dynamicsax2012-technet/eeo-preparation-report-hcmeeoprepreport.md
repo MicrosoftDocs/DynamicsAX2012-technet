@@ -4,7 +4,7 @@ TOCTitle: EEO preparation report (HcmEEOPrepReport)
 ms:assetid: 94bd1532-3b78-44f3-bc80-e9cd7810f9cb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268418(v=AX.60)
 ms:contentKeyID: 54916955
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

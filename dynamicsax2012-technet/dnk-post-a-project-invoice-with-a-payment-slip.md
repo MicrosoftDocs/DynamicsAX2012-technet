@@ -4,7 +4,7 @@ TOCTitle: (DNK) Post a project invoice with a payment slip
 ms:assetid: 09983149-a1cf-46fb-87bd-83522d7e8cde
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242122(v=AX.60)
 ms:contentKeyID: 36055980
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

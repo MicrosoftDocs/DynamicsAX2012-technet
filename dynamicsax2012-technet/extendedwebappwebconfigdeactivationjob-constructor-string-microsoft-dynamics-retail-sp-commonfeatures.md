@@ -4,7 +4,7 @@ TOCTitle: ExtendedWebAppWebConfigDeactivationJob Constructor (String, )
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.ExtendedWebAppWebConfigDeactivationJob.#ctor(System.String,Microsoft.SharePoint.Administration.SPWebApplication)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.extendedwebappwebconfigdeactivationjob.extendedwebappwebconfigdeactivationjob(v=AX.60)
 ms:contentKeyID: 62204414
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

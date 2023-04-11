@@ -4,7 +4,7 @@ TOCTitle: Eliminate transactions
 ms:assetid: 5e479a55-2817-4387-a255-e3459d4edef6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242521(v=AX.60)
 ms:contentKeyID: 36057581
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

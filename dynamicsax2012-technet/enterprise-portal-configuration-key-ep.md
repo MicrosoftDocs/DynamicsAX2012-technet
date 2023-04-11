@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal configuration key (EP)
 ms:assetid: a2b4e7b8-3387-4bfe-b000-c16eaac2bed5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa588648(v=AX.60)
 ms:contentKeyID: 36997763
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

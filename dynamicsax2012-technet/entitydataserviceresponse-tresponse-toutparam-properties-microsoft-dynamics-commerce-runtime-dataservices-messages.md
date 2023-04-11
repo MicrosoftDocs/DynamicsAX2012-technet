@@ -4,7 +4,7 @@ TOCTitle: EntityDataServiceResponse(TResponse, TOutParam) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.EntityDataServiceResponse`2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968082(v=AX.60)
 ms:contentKeyID: 65320447
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

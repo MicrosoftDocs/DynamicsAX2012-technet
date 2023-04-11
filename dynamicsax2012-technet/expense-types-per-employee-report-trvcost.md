@@ -4,7 +4,7 @@ TOCTitle: Expense types per employee report (TrvCost)
 ms:assetid: fe0124e7-d3e4-464d-8a90-7d1b29a14ef5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh394893(v=AX.60)
 ms:contentKeyID: 36916376
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

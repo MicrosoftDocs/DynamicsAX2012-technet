@@ -4,7 +4,7 @@ TOCTitle: Enter into single-user mode
 ms:assetid: b417a37d-18ed-48fb-84df-136820c4dc66
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731904(v=AX.60)
 ms:contentKeyID: 35132822
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

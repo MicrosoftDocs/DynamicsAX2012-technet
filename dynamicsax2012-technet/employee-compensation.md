@@ -4,7 +4,7 @@ TOCTitle: " employee compensation"
 ms:assetid: DynamicsAXGlossary.1506323
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1506323(v=AX.60)
 ms:contentKeyID: 36057516
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

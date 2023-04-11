@@ -4,7 +4,7 @@ TOCTitle: Example of Inbound XML Message
 ms:assetid: c1aed2aa-b605-4185-9d13-b6379781fa3d
 ms:mtpsurl: https://technet.microsoft.com/library/Bb530212(v=AX.60)
 ms:contentKeyID: 35250096
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 dev_langs:

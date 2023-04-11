@@ -4,7 +4,7 @@ TOCTitle: (ESP) Assign due date limits to terms of payment to calculate invoice 
 ms:assetid: dd04736b-9669-4602-b279-a30a103cc1bd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923622(v=AX.60)
 ms:contentKeyID: 50934003
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

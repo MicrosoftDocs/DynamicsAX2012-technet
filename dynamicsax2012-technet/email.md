@@ -4,7 +4,7 @@ TOCTitle: Email
 ms:assetid: adfe2ef8-2ff9-4cbd-97c9-e59dee5d4b76
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834427(v=AX.60)
 ms:contentKeyID: 46687564
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

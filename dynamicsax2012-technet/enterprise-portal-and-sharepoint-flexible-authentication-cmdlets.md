@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal and SharePoint flexible authentication cmdlets
 ms:assetid: 2F5BB4C2-EFE6-B0AC-7282-4DDC658DFFFB
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720248(v=AX.60)
 ms:contentKeyID: 49720040
-author: Khairunj
+author: tonyafehr
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

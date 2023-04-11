@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Create a credit note for correction
 ms:assetid: 77404e22-50ea-461f-afc4-9ef8dec8f047
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678243(v=AX.60)
 ms:contentKeyID: 49386966
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

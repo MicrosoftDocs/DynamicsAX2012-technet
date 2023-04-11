@@ -4,7 +4,7 @@ TOCTitle: Enroll and remove benefits for workers
 ms:assetid: 38c5702d-35a6-4619-a7eb-ab894add5b42
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242207(v=AX.60)
 ms:contentKeyID: 36056627
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

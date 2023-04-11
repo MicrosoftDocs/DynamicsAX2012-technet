@@ -4,7 +4,7 @@ TOCTitle: OpenDrawer Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.DropAndDeclareTransaction.OpenDrawer
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.dropanddeclaretransaction.opendrawer(v=AX.60)
 ms:contentKeyID: 62210692
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

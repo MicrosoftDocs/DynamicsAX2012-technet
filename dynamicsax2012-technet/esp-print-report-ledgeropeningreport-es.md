@@ -4,7 +4,7 @@ TOCTitle: (ESP) Print report (LedgerOpeningReport_ES)
 ms:assetid: 035e472a-0a2c-435a-81ef-a10913f67321
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416705(v=AX.60)
 ms:contentKeyID: 36931892
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

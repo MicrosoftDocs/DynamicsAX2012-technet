@@ -4,7 +4,7 @@ TOCTitle: Enable price details on orders
 ms:assetid: 886db97e-d55e-480d-9140-eada9a1858cc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497797(v=AX.60)
 ms:contentKeyID: 62110072
-author: Khairunj
+author: tonyafehr
 ms.date: 04/14/2014
 mtps_version: v=AX.60
 f1_keywords:

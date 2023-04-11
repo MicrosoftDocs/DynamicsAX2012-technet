@@ -4,7 +4,7 @@ TOCTitle: EmailReceipt Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.EmailReceipt
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.emailreceipt_methods(v=AX.60)
 ms:contentKeyID: 62202774
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

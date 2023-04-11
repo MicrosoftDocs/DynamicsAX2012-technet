@@ -4,7 +4,7 @@ TOCTitle: (EST) Create an original free text invoice reference
 ms:assetid: 36809ad1-b724-40d8-8265-801c070debea
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710822(v=AX.60)
 ms:contentKeyID: 49385219
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

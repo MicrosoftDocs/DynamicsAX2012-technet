@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Post the pre-acquisition and acquisition of a fixed asset
 ms:assetid: ee60e228-4ff3-493c-869e-77e627def734
 ms:mtpsurl: https://technet.microsoft.com/library/JJ714484(v=AX.60)
 ms:contentKeyID: 49651581
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

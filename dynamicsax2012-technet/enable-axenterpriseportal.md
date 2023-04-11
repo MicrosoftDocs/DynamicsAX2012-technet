@@ -4,7 +4,7 @@ TOCTitle: Enable-AXEnterprisePortal
 ms:assetid: A794347A-EA1B-47FF-A466-0B887A00D194
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720276(v=AX.60)
 ms:contentKeyID: 49720065
-author: Khairunj
+author: tonyafehr
 ms.date: 02/19/2013
 mtps_version: v=AX.60
 ---

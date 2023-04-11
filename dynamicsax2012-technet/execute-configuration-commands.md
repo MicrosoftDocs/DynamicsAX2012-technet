@@ -4,7 +4,7 @@ TOCTitle: Execute configuration commands
 ms:assetid: a18308bc-4a72-48e1-8661-c1ec390282bd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569627(v=AX.60)
 ms:contentKeyID: 36941326
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

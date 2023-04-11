@@ -4,7 +4,7 @@ TOCTitle: Estimate hour rate report (ProjListEstimateHourRate)
 ms:assetid: 5c0272fd-cdbc-4b6c-9e31-2f52581b8206
 ms:mtpsurl: https://technet.microsoft.com/library/Aa583957(v=AX.60)
 ms:contentKeyID: 37832004
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

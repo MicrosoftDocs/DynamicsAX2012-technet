@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Adjust a transaction that has been posted to a project
 ms:assetid: 2d5c647a-94bc-4484-a12e-fe20a925731d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ683247(v=AX.60)
 ms:contentKeyID: 49685129
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: 'Example: Fault in an Outbound Message'
 ms:assetid: 88e4978e-93a3-4cf2-9044-e302d495e085
 ms:mtpsurl: https://technet.microsoft.com/library/Cc602982(v=AX.60)
 ms:contentKeyID: 35246280
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

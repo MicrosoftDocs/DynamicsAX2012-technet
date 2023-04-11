@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up retail parameters for cash operations
 ms:assetid: e2aa7d20-d5a3-4574-a383-06eeb51b2c2a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn313048(v=AX.60)
 ms:contentKeyID: 54936295
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

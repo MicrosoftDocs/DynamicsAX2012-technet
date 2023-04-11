@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Configure reason code requirements for credit notes
 ms:assetid: 46e58a1f-b285-4745-a22b-92048dddd8f4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853388(v=AX.60)
 ms:contentKeyID: 50396757
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

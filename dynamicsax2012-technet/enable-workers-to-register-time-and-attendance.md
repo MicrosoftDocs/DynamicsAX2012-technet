@@ -4,7 +4,7 @@ TOCTitle: Enable workers to register time and attendance
 ms:assetid: 1c38b67b-09a3-4dbe-9603-3cd558bdbb02
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569936(v=AX.60)
 ms:contentKeyID: 36056133
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

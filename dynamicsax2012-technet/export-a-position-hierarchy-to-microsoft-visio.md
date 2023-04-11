@@ -4,7 +4,7 @@ TOCTitle: Export a position hierarchy to Microsoft Visio
 ms:assetid: 79881797-e510-4020-8516-9cd642191af7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn221767(v=AX.60)
 ms:contentKeyID: 54160222
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

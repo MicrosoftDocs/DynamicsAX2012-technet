@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal and Microsoft Excel
 ms:assetid: 536207e5-18a4-4a67-a052-6d792154faab
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271535(v=AX.60)
 ms:contentKeyID: 36384167
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

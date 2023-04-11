@@ -4,7 +4,7 @@ TOCTitle: Enter vendor invoices in an invoice pool
 ms:assetid: ae5c8ccc-d8bb-4a91-a896-e4e35853683f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498594(v=AX.60)
 ms:contentKeyID: 36058942
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

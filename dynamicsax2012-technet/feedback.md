@@ -4,7 +4,7 @@ TOCTitle: Feedback
 ms:assetid: 8af53f91-33c0-4015-9045-231774ab5aa8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227375(v=AX.60)
 ms:contentKeyID: 36059606
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

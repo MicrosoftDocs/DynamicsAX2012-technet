@@ -4,7 +4,7 @@ TOCTitle: Energy consumption Role Center report (EMSEnergyConsumption)
 ms:assetid: 95052289-23e3-4cc6-a6be-df5d35f60e3c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404044(v=AX.60)
 ms:contentKeyID: 36956703
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

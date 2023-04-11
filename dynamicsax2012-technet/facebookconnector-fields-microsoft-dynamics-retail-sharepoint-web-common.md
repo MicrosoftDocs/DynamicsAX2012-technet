@@ -4,7 +4,7 @@ TOCTitle: FacebookConnector Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Retail.SharePoint.Web.Common.FacebookConnector
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.facebookconnector_fields(v=AX.60)
 ms:contentKeyID: 62205834
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

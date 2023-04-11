@@ -4,7 +4,7 @@ TOCTitle: Enable/disable the rule debugger
 ms:assetid: 526707cc-16e4-422c-b5bc-1b7ece83fa39
 ms:mtpsurl: https://technet.microsoft.com/library/Ff395356(v=AX.60)
 ms:contentKeyID: 36057287
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

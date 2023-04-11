@@ -4,7 +4,7 @@ TOCTitle: Enter and post invoices in the Invoice register form
 ms:assetid: 34e5195d-8d0d-4ab1-a255-e521d94c8e5a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570120(v=AX.60)
 ms:contentKeyID: 36966711
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Document XML Generation
 ms:assetid: b0a11426-9ad7-46fa-8159-0a8b81df2264
 ms:mtpsurl: https://technet.microsoft.com/library/Aa856184(v=AX.60)
 ms:contentKeyID: 35249736
-author: Khairunj
+author: tonyafehr
 ms.date: 11/26/2012
 mtps_version: v=AX.60
 dev_langs:

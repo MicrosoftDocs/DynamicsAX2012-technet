@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Adjust the cost value of on-hand inventory
 ms:assetid: e81d59f7-f042-49aa-845b-b611b7a920db
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711302(v=AX.60)
 ms:contentKeyID: 49387120
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Edit the text of a question in RapidStart Services
 ms:assetid: 469cda3d-54f6-4b0e-b1f4-5028f1dc38c7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413232(v=AX.60)
 ms:contentKeyID: 36918923
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

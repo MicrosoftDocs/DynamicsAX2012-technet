@@ -4,7 +4,7 @@ TOCTitle: Enable license code authoring and editing license code (SysLicenseCode
 ms:assetid: 44721439-b5f5-40b6-a72a-41e2b5cf2585
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456312(v=AX.60)
 ms:contentKeyID: 36997751
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

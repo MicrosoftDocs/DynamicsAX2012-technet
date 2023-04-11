@@ -4,7 +4,7 @@ TOCTitle: (ESP) Setting up Spanish tax
 ms:assetid: 7f231102-367d-41e5-9269-7d9dfc46a176
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209294(v=AX.60)
 ms:contentKeyID: 36058328
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

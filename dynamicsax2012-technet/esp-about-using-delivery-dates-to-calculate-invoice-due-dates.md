@@ -4,7 +4,7 @@ TOCTitle: (ESP) About using delivery dates to calculate invoice due dates
 ms:assetid: 2d854698-d871-45e9-a9fe-098c673ac140
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923402(v=AX.60)
 ms:contentKeyID: 50934002
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

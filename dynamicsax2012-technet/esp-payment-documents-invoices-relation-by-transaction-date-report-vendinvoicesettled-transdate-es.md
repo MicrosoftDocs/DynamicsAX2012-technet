@@ -4,7 +4,7 @@ TOCTitle: (ESP) Payment documents-invoices relation by transaction date report (
 ms:assetid: 40969048-3e1e-4da0-bd47-51cfe2a9c90f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352247(v=AX.60)
 ms:contentKeyID: 36687873
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

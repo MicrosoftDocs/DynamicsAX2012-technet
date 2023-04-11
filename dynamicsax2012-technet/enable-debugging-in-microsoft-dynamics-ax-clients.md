@@ -4,7 +4,7 @@ TOCTitle: Enable debugging in Microsoft Dynamics AX clients
 ms:assetid: bd7f8809-1a8e-4918-8bba-d8692caead90
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202098(v=AX.60)
 ms:contentKeyID: 35949352
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Setting up company officials
 ms:assetid: 6ddcf2df-1a6c-4cdd-9db2-e57cfa6f9689
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710727(v=AX.60)
 ms:contentKeyID: 49385124
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

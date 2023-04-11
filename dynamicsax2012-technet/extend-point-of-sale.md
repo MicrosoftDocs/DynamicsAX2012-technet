@@ -4,7 +4,7 @@ TOCTitle: Extend Point of Sale
 ms:assetid: 971317d1-61cc-4336-ba94-32cb5d345996
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937973(v=AX.60)
 ms:contentKeyID: 50950761
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: '(EEUR) Key tasks: Set up officials to certify financial documents'
 ms:assetid: e493419a-1835-4be6-a565-e8e814d9959d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874421(v=AX.60)
 ms:contentKeyID: 50619738
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

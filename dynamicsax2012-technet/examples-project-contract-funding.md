@@ -4,7 +4,7 @@ TOCTitle: 'Examples: Project contract funding'
 ms:assetid: 6eb89b24-46e9-4ca4-b951-81cafbb6517b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh771576(v=AX.60)
 ms:contentKeyID: 43881149
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

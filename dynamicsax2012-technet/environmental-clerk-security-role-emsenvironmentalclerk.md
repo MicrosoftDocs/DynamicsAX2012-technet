@@ -4,7 +4,7 @@ TOCTitle: Environmental clerk security role (EMSEnvironmentalClerk)
 ms:assetid: 4ac172a7-3a66-4a2d-94e5-296e381ce3ca
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527085(v=AX.60)
 ms:contentKeyID: 37823137
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

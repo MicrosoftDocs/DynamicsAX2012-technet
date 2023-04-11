@@ -4,7 +4,7 @@ TOCTitle: EmployeeTimeRegistrationResponse Constructor (DateTimeOffset)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.EmployeeTimeRegistrationResponse.#ctor(System.DateTimeOffset)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.employeetimeregistrationresponse.employeetimeregistrationresponse(v=AX.60)
 ms:contentKeyID: 62209050
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

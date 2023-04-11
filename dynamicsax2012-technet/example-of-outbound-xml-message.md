@@ -4,7 +4,7 @@ TOCTitle: Example of Outbound XML Message
 ms:assetid: ab56d274-e0d1-4d6d-8365-4114395b7059
 ms:mtpsurl: https://technet.microsoft.com/library/Bb530211(v=AX.60)
 ms:contentKeyID: 35249616
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Create a cash order by using a slip journal
 ms:assetid: 39bbd418-fbb5-4526-93ca-92cc900e6f0d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677504(v=AX.60)
 ms:contentKeyID: 49384807
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

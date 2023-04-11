@@ -4,7 +4,7 @@ TOCTitle: Filter a list page
 ms:assetid: 0f53a58a-1b25-4f18-a7e2-ed47699f5700
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230916(v=AX.60)
 ms:contentKeyID: 36687337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

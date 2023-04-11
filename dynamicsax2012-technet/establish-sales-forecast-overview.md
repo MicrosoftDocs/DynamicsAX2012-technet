@@ -4,7 +4,7 @@ TOCTitle: Establish sales forecast overview
 ms:assetid: 52656a42-20ce-4554-b990-31ead35d43c4
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212787(v=AX.60)
 ms:contentKeyID: 36057284
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

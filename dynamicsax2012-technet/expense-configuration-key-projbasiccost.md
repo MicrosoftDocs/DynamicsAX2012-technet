@@ -4,7 +4,7 @@ TOCTitle: Expense configuration key (ProjBasicCost)
 ms:assetid: a0c815b0-4ad6-4bb7-94e1-6474d7cbf440
 ms:mtpsurl: https://technet.microsoft.com/library/Aa617633(v=AX.60)
 ms:contentKeyID: 39518963
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ValidateEmployeePassword Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.EmployeeDataManager.ValidateEmployeePassword(System.Int64,System.String,System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.LogOnType,Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.employeedatamanager.validateemployeepassword(v=AX.60)
 ms:contentKeyID: 65322848
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

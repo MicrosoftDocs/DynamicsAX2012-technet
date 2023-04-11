@@ -4,7 +4,7 @@ TOCTitle: Extend a Retail Server OData Controller
 ms:assetid: 5ce0f87f-885d-4c0e-bed7-adfaf94b2c0b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741447(v=AX.60)
 ms:contentKeyID: 62219724
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

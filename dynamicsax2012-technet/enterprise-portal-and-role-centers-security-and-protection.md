@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal and Role Centers security and protection
 ms:assetid: 272f6b6b-d619-409c-8fdb-35d545676414
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751371(v=AX.60)
 ms:contentKeyID: 35132584
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

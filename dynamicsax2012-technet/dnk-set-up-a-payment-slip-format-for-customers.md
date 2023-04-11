@@ -4,7 +4,7 @@ TOCTitle: (DNK) Set up a payment slip format for customers
 ms:assetid: a1223925-466c-4ef7-891c-6be505e1472e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209451(v=AX.60)
 ms:contentKeyID: 36058776
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

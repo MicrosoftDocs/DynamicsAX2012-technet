@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Cancel a posted free text invoice
 ms:assetid: 70e0f7b6-9008-42fb-9f14-550324ec3638
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730990(v=AX.60)
 ms:contentKeyID: 49675232
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

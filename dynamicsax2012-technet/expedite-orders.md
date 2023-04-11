@@ -4,7 +4,7 @@ TOCTitle: Expedite orders
 ms:assetid: 4a8b566a-8dba-4d29-98d8-f35f2f26beb6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497748(v=AX.60)
 ms:contentKeyID: 62200064
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

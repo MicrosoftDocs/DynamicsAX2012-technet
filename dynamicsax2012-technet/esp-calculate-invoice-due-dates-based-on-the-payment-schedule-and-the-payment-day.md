@@ -4,7 +4,7 @@ TOCTitle: (ESP) Calculate invoice due dates based on the payment schedule and th
 ms:assetid: 4c1163d8-2c22-4980-a10d-191ad08e932b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304973(v=AX.60)
 ms:contentKeyID: 54899951
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

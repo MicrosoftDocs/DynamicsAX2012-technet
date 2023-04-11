@@ -4,7 +4,7 @@ TOCTitle: ExtendedControllerAttribute Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ExtendedControllerAttribute.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.extendedcontrollerattribute.extendedcontrollerattribute(v=AX.60)
 ms:contentKeyID: 62203157
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

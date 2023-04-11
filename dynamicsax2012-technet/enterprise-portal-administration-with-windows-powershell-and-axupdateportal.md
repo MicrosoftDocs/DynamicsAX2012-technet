@@ -4,7 +4,7 @@ TOCTitle: Enterprise Portal administration with Windows PowerShell and AXUpdateP
 ms:assetid: b34adf60-46d0-4b8f-8561-b07b5ff41bf4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677310(v=AX.60)
 ms:contentKeyID: 49384081
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

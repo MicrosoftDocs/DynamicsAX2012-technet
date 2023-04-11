@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Setting up and maintaining Accounts receivable
 ms:assetid: f6403cc4-6013-44d7-9b21-578ad811902c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710795(v=AX.60)
 ms:contentKeyID: 49385191
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

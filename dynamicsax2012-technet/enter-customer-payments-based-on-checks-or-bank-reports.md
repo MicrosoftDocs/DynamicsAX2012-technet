@@ -4,7 +4,7 @@ TOCTitle: Enter customer payments based on checks or bank reports
 ms:assetid: b6553ad5-ccb3-4c35-bcad-63de9cd588b5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232432(v=AX.60)
 ms:contentKeyID: 36059091
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

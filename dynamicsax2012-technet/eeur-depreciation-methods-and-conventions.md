@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Depreciation methods and conventions
 ms:assetid: 07fdd3fc-3557-4e70-8eac-8478a41b6d30
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710674(v=AX.60)
 ms:contentKeyID: 49385071
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

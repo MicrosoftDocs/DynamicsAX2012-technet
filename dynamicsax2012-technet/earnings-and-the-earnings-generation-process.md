@@ -4,7 +4,7 @@ TOCTitle: Earnings and the earnings generation process
 ms:assetid: fe4c112d-17a0-47fa-be7a-0f7663223da4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876711(v=AX.60)
 ms:contentKeyID: 63385356
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

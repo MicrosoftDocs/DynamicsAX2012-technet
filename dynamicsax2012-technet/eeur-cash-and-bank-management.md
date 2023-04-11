@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Cash and bank management
 ms:assetid: a9796c35-dae6-4373-b84a-8bdb5e736094
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710752(v=AX.60)
 ms:contentKeyID: 49385149
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

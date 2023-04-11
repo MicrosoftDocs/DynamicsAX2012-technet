@@ -4,7 +4,7 @@ TOCTitle: Document Schema Rules
 ms:assetid: 38458b10-5803-4320-89cc-0db6076f0e41
 ms:mtpsurl: https://technet.microsoft.com/library/Aa636469(v=AX.60)
 ms:contentKeyID: 35242832
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

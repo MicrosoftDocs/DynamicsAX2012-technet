@@ -4,7 +4,7 @@ TOCTitle: SetDefaultPage Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.FeatureReceiver.SetDefaultPage(Microsoft.SharePoint.SPWeb,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.featurereceiver.setdefaultpage(v=AX.60)
 ms:contentKeyID: 62206376
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

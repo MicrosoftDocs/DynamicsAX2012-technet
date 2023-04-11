@@ -4,7 +4,7 @@ TOCTitle: Dispatching service order activities
 ms:assetid: d170f8d7-0c68-470f-80e1-2d8283211daa
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213684(v=AX.60)
 ms:contentKeyID: 36059497
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

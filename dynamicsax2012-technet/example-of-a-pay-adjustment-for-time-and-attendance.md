@@ -4,7 +4,7 @@ TOCTitle: Example of a pay adjustment for time and attendance
 ms:assetid: f5b2960f-f966-4354-bc19-0c3df5775e10
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551648(v=AX.60)
 ms:contentKeyID: 36060004
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

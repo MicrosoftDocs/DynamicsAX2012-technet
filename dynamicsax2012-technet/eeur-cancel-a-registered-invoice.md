@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Cancel a registered invoice
 ms:assetid: a955b5bc-c8b0-48f2-9094-3bac5a7bb2cf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730996(v=AX.60)
 ms:contentKeyID: 49675238
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

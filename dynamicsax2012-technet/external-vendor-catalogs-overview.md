@@ -4,7 +4,7 @@ TOCTitle: External vendor catalogs overview
 ms:assetid: 4fb0db50-89cf-4a8d-bd43-5bef11b6683c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208904(v=AX.60)
 ms:contentKeyID: 36057228
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

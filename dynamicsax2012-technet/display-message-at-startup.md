@@ -4,7 +4,7 @@ TOCTitle: Display message at startup
 ms:assetid: 56172705-0a15-46c4-87ab-a17c23c76b37
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569647(v=AX.60)
 ms:contentKeyID: 35949298
-author: Khairunj
+author: tonyafehr
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 ---

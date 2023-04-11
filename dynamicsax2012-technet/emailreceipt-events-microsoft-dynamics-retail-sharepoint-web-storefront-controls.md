@@ -4,7 +4,7 @@ TOCTitle: EmailReceipt Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.EmailReceipt
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.emailreceipt_events(v=AX.60)
 ms:contentKeyID: 62207218
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

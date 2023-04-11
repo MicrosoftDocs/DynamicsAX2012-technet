@@ -4,7 +4,7 @@ TOCTitle: Elimination rules for transactions
 ms:assetid: 0e14c0d5-fa26-49fe-bad6-c4ec5b7101ab
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230910(v=AX.60)
 ms:contentKeyID: 37820197
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

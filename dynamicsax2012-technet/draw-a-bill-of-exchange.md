@@ -4,7 +4,7 @@ TOCTitle: Draw a bill of exchange
 ms:assetid: 7131006e-ae43-4284-9608-4d452605b12f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571313(v=AX.60)
 ms:contentKeyID: 36655932
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

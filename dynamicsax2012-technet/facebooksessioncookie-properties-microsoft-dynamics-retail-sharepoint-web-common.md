@@ -4,7 +4,7 @@ TOCTitle: FacebookSessionCookie Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Common.FacebookSessionCookie
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.facebooksessioncookie_properties(v=AX.60)
 ms:contentKeyID: 62206448
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

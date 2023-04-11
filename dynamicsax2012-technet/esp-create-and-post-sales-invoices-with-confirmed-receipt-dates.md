@@ -4,7 +4,7 @@ TOCTitle: (ESP) Create and post sales invoices with confirmed receipt dates
 ms:assetid: 736b2be2-7fb5-4ea9-9a1a-0b3807a85027
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923604(v=AX.60)
 ms:contentKeyID: 52075221
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

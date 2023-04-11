@@ -4,7 +4,7 @@ TOCTitle: Earning code examples
 ms:assetid: 826c594e-8d18-4264-99c4-082bdffcc180
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677346(v=AX.60)
 ms:contentKeyID: 49384120
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

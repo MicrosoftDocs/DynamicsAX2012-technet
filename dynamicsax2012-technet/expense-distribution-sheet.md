@@ -4,7 +4,7 @@ TOCTitle: Expense distribution sheet
 ms:assetid: d6221c53-86f2-4138-b0bc-b70e984c4b17
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499386(v=AX.60)
 ms:contentKeyID: 36059533
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

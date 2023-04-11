@@ -4,7 +4,7 @@ TOCTitle: (EST) Create a vendor balance notice
 ms:assetid: 02c5f130-595c-4662-adfb-8d949531dd89
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710799(v=AX.60)
 ms:contentKeyID: 49385195
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

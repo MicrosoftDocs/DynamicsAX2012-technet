@@ -4,7 +4,7 @@ TOCTitle: 'Extend the Commerce Data Exchange: Real-time Service'
 ms:assetid: 79f7d449-f804-4ded-b7f2-92d86b6713d9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126098(v=AX.60)
 ms:contentKeyID: 52075233
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

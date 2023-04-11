@@ -4,7 +4,7 @@ TOCTitle: Expense management license code (Trv)
 ms:assetid: 2ae5b033-58dd-492a-95ba-e252a3be5518
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416656(v=AX.60)
 ms:contentKeyID: 36931820
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (ESP) Spanish VAT register book report (TaxBookReport_ES)
 ms:assetid: aaa70411-fc3c-4a62-b853-035f0e814fc5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352283(v=AX.60)
 ms:contentKeyID: 36687910
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Duplicate a product configuration model
 ms:assetid: 470ce113-9de8-40b4-8402-2784e2742d0f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580629(v=AX.60)
 ms:contentKeyID: 39519119
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

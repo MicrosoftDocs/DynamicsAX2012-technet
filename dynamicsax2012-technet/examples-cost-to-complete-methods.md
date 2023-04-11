@@ -4,7 +4,7 @@ TOCTitle: 'Examples: Cost to complete methods'
 ms:assetid: c40745f0-3290-4efc-9f38-8e9104b3ca0e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550721(v=AX.60)
 ms:contentKeyID: 43894516
-author: Khairunj
+author: tonyafehr
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 f1_keywords:

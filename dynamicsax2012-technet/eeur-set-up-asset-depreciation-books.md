@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Set up asset depreciation books
 ms:assetid: 091aa6e5-3d5e-431a-b0fd-3187fb67946e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710675(v=AX.60)
 ms:contentKeyID: 49385072
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

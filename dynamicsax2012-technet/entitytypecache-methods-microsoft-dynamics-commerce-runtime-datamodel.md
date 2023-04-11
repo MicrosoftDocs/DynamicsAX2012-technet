@@ -4,7 +4,7 @@ TOCTitle: EntityTypeCache Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.EntityTypeCache
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.entitytypecache_methods(v=AX.60)
 ms:contentKeyID: 65316874
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

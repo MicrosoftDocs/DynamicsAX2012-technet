@@ -4,7 +4,7 @@ TOCTitle: (ESP) Print promissory note report (BankPromissoryNote_ES)
 ms:assetid: 217ddd0c-a7c8-490b-9cf8-d853bf235803
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352238(v=AX.60)
 ms:contentKeyID: 36687864
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

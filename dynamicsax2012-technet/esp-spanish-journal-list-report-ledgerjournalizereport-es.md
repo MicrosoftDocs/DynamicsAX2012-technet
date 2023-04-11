@@ -4,7 +4,7 @@ TOCTitle: (ESP) Spanish journal list report (LedgerJournalizeReport_ES)
 ms:assetid: 1a9c1868-52fd-44e2-a79d-e0b99f853de2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352236(v=AX.60)
 ms:contentKeyID: 36687861
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

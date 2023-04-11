@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Generate financial reports
 ms:assetid: 13c03b3d-4462-47c1-a1ee-274f80a6d3cf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910961(v=AX.60)
 ms:contentKeyID: 52075291
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

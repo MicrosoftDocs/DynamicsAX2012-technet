@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Cash management for retail points of sale
 ms:assetid: 3f7182fd-ec77-437a-b0c7-888bd33152a2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268477(v=AX.60)
 ms:contentKeyID: 54917017
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

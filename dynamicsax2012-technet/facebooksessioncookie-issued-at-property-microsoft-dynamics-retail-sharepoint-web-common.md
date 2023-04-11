@@ -4,7 +4,7 @@ TOCTitle: Issued_At Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Common.FacebookSessionCookie.Issued_At
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.facebooksessioncookie.issued_at(v=AX.60)
 ms:contentKeyID: 62205049
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

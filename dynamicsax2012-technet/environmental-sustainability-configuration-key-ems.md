@@ -4,7 +4,7 @@ TOCTitle: Environmental sustainability configuration key (EMS)
 ms:assetid: a0cd63ec-8e45-4c86-80fb-72f81b4ed69c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416684(v=AX.60)
 ms:contentKeyID: 36931845
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Enter a one-time depreciation transaction
 ms:assetid: 7a1cf27e-b239-46e6-ac17-9f2289451538
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550066(v=AX.60)
 ms:contentKeyID: 36058245
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

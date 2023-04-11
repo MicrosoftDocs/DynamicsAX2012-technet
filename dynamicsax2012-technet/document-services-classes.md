@@ -4,7 +4,7 @@ TOCTitle: Document Services Classes
 ms:assetid: 58d95442-703d-4ef1-a4c4-9af0ef45b3a0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa606696(v=AX.60)
 ms:contentKeyID: 35244339
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

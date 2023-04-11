@@ -4,7 +4,7 @@ TOCTitle: Enterprise Search architecture
 ms:assetid: 1bc490b8-fa42-4910-b3b7-6728e05d1dc0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751361(v=AX.60)
 ms:contentKeyID: 35132568
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

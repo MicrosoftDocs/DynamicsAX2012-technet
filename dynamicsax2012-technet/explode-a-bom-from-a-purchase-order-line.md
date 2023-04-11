@@ -4,7 +4,7 @@ TOCTitle: Explode a BOM from a purchase order line
 ms:assetid: 5cb2dc78-685c-4a6f-ab73-67eaeaf58ea4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549097(v=AX.60)
 ms:contentKeyID: 36057573
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

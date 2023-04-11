@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Create report cell operations
 ms:assetid: 5b0882c2-a10f-4e22-ae82-c9612173be0e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910979(v=AX.60)
 ms:contentKeyID: 52075298
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

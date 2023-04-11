@@ -4,7 +4,7 @@ TOCTitle: (DNK) Create and post a credit note for a project invoice for a public
 ms:assetid: e3c59ed3-565e-4980-a4c1-773ca3fbde59
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227429(v=AX.60)
 ms:contentKeyID: 36059726
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

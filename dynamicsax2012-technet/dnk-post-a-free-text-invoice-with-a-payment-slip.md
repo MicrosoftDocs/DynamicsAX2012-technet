@@ -4,7 +4,7 @@ TOCTitle: (DNK) Post a free text invoice with a payment slip
 ms:assetid: 8268d812-02ae-48e3-a31d-25ad57095f40
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209313(v=AX.60)
 ms:contentKeyID: 36058370
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

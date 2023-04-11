@@ -4,7 +4,7 @@ TOCTitle: GetBreakCategoryByJob Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.EmployeeTimeRegistrationWorkflowHelper.GetBreakCategoryByJob(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.employeetimeregistrationworkflowhelper.getbreakcategorybyjob(v=AX.60)
 ms:contentKeyID: 62207904
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

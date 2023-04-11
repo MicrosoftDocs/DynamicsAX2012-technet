@@ -4,7 +4,7 @@ TOCTitle: Electronic signature configuration key (SIG)
 ms:assetid: d860bec1-be34-4ced-9154-4d608d441dea
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416694(v=AX.60)
 ms:contentKeyID: 36931855
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Encumber purchase orders
 ms:assetid: 79668209-8a70-4966-b4f5-eb98548b99eb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209259(v=AX.60)
 ms:contentKeyID: 36058237
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

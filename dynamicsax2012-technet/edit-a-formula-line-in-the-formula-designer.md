@@ -4,7 +4,7 @@ TOCTitle: Edit a formula line in the Formula designer
 ms:assetid: cd3843f8-ba6f-44d7-9c1b-3caf62c3fe3f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352358(v=AX.60)
 ms:contentKeyID: 36687989
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (EST) Create an original sales invoice reference
 ms:assetid: 91875330-b007-4cc1-a24a-adfd04522cf9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710865(v=AX.60)
 ms:contentKeyID: 49385261
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

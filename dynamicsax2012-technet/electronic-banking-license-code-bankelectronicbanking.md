@@ -4,7 +4,7 @@ TOCTitle: Electronic banking license code (BankElectronicBanking)
 ms:assetid: 9409534d-cfeb-408c-b533-5a9eb96b00e0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433464(v=AX.60)
 ms:contentKeyID: 36941219
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

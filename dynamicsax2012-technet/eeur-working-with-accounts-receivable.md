@@ -4,7 +4,7 @@ TOCTitle: (EEUR) Working with Accounts receivable
 ms:assetid: 3ea47a04-522f-4402-81d1-c466efb9b445
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710701(v=AX.60)
 ms:contentKeyID: 49385098
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
