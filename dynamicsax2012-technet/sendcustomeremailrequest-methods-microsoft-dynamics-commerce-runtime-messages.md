@@ -4,7 +4,7 @@ TOCTitle: SendCustomerEmailRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.SendCustomerEmailRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.sendcustomeremailrequest_methods(v=AX.60)
 ms:contentKeyID: 49841369
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

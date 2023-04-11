@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up WIP and FP estimates for a tax accounting register
 ms:assetid: f414511a-2afd-47ea-87d9-958d700a1b54
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923613(v=AX.60)
 ms:contentKeyID: 52075452
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

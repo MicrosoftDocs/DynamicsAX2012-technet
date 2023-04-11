@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Help secure cube data so that managers see only the data fo
 ms:assetid: c45d649f-747d-46ad-beca-514514062b8e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ129500(v=AX.60)
 ms:contentKeyID: 46661152
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

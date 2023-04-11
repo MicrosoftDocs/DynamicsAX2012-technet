@@ -4,7 +4,7 @@ TOCTitle: (RUS) Settle an advance payment from a customer with a facture
 ms:assetid: 6a2d9512-35b8-4ec7-a93f-23c1fd83b199
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678335(v=AX.60)
 ms:contentKeyID: 49387565
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

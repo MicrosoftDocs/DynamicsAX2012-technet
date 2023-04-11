@@ -4,7 +4,7 @@ TOCTitle: Sequencing configuration key (PMFSequencing)
 ms:assetid: ca6bf0b0-f3ac-4792-98a8-f648ab39990a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn782849(v=AX.60)
 ms:contentKeyID: 62817389
-author: Khairunj
+author: tonyafehr
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---

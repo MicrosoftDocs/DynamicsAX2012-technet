@@ -4,7 +4,7 @@ TOCTitle: Security and protection for reporting
 ms:assetid: 37b73e48-e2c4-4c8f-b080-d657da51ec3e
 ms:mtpsurl: https://technet.microsoft.com/library/Ee873253(v=AX.60)
 ms:contentKeyID: 28119342
-author: Khairunj
+author: tonyafehr
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the per diem expense rates
 ms:assetid: 09d73782-fe32-49cc-bd73-0501fe669c9d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711374(v=AX.60)
 ms:contentKeyID: 49387193
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

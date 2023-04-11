@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a revenue, consumption, and transit account to post sales
 ms:assetid: e2617eb3-7d67-4e2f-bed8-3689e937a324
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923601(v=AX.60)
 ms:contentKeyID: 53382725
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

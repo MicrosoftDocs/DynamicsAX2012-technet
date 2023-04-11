@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an inventory profile for a transferable item
 ms:assetid: aaaa7a29-8fa7-4cb3-8fed-8e47ad4eca86
 ms:mtpsurl: https://technet.microsoft.com/library/JJ852150(v=AX.60)
 ms:contentKeyID: 50281236
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

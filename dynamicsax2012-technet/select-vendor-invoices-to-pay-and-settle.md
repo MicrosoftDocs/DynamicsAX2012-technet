@@ -4,7 +4,7 @@ TOCTitle: Select vendor invoices to pay and settle
 ms:assetid: 57474fe8-3e55-4eeb-865d-2eb22e180f65
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242473(v=AX.60)
 ms:contentKeyID: 36057329
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

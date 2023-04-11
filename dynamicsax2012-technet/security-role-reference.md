@@ -4,7 +4,7 @@ TOCTitle: Security role reference
 ms:assetid: b02dc748-c4db-4c1d-b662-0d13ccf15fd3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527122(v=AX.60)
 ms:contentKeyID: 37823173
-author: Khairunj
+author: tonyafehr
 ms.date: 07/22/2014
 mtps_version: v=AX.60
 ---

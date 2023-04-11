@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an RCOAD code for a sales tax authority
 ms:assetid: 8d877c1a-af8b-493f-8ca1-2794d302f7eb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678470(v=AX.60)
 ms:contentKeyID: 49387699
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

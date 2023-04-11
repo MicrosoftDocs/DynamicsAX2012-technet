@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up profit tax registers
 ms:assetid: 65f43c14-cc80-48dc-9a8a-8e8ec81c3609
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911486(v=AX.60)
 ms:contentKeyID: 52075389
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

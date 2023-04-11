@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Automatic settlement and prioritization'
 ms:assetid: a0c9cfe3-e3e9-42fa-991a-64795efa6352
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692489(v=AX.60)
 ms:contentKeyID: 41702387
-author: Khairunj
+author: tonyafehr
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 audience: Application User

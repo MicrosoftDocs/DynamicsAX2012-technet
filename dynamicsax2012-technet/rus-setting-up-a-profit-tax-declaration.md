@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up a profit tax declaration
 ms:assetid: df5f19f2-4e93-4783-98cc-0938a7f8c92f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711683(v=AX.60)
 ms:contentKeyID: 49388007
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

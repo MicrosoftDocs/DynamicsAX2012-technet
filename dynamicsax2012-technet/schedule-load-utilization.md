@@ -4,7 +4,7 @@ TOCTitle: Schedule load utilization
 ms:assetid: e912969d-548a-46e9-b735-999e21d9ca49
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728718(v=AX.60)
 ms:contentKeyID: 49556623
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

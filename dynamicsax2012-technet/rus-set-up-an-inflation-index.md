@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an inflation index
 ms:assetid: 4af1e875-26a9-47a3-acc5-7b0784a88755
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856112(v=AX.60)
 ms:contentKeyID: 50406410
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

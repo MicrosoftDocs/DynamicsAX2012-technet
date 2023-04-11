@@ -4,7 +4,7 @@ TOCTitle: Sales tax deviations report (TaxDeviation)
 ms:assetid: 6eb6028f-3c71-459d-b652-a43d415b0e0a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586002(v=AX.60)
 ms:contentKeyID: 37820217
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

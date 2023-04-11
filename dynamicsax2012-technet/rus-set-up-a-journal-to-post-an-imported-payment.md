@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a journal to post an imported payment
 ms:assetid: eacd238a-7242-45a2-b2d3-4d943f520444
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711736(v=AX.60)
 ms:contentKeyID: 49388060
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

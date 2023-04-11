@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up dynamic sections for electronic reporting
 ms:assetid: 03dd6e59-4f02-4fc6-b8bb-84d80f8ea369
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664159(v=AX.60)
 ms:contentKeyID: 49384741
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

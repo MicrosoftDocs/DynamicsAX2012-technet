@@ -4,7 +4,7 @@ TOCTitle: Select or enter a new address for a party record
 ms:assetid: 2cdbf2e6-8ac9-44c1-a258-7e0b0e2be780
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524749(v=AX.60)
 ms:contentKeyID: 37072046
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

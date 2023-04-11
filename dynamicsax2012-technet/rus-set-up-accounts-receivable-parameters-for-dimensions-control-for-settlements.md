@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up accounts receivable parameters for dimensions control for
 ms:assetid: 4943489a-8958-4ef5-95e7-c07d53850fb7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665348(v=AX.60)
 ms:contentKeyID: 49387436
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Security architecture of the Microsoft Dynamics AX application
 ms:assetid: 7d8a9cda-d97f-4b99-acd7-a42b9b662656
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496919(v=AX.60)
 ms:contentKeyID: 35132694
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: CardAuthorizationTokenResponseXml Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveCustomerOrderServiceRequest.CardAuthorizationTokenResponseXml
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savecustomerorderservicerequest.cardauthorizationtokenresponsexml(v=AX.60)
 ms:contentKeyID: 62209912
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

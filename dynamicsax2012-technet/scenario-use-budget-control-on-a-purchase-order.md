@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Use budget control on a purchase order'
 ms:assetid: add8a26f-13ed-4d4f-92e4-9a5d093cfb02
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242700(v=AX.60)
 ms:contentKeyID: 36058931
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

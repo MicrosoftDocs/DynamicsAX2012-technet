@@ -4,7 +4,7 @@ TOCTitle: Service management
 ms:assetid: 2bcad1c0-6eaf-435e-a414-cdc1321f422c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208509(v=AX.60)
 ms:contentKeyID: 36056249
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

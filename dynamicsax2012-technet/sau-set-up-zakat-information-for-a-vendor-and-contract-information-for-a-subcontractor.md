@@ -4,7 +4,7 @@ TOCTitle: (SAU) Set up Zakat information for a vendor and contract information f
 ms:assetid: 8083de75-ff8e-446e-b856-7aa9dea5e9fb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209303(v=AX.60)
 ms:contentKeyID: 36058344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

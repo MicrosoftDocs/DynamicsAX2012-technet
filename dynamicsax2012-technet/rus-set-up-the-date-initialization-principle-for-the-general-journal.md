@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the date initialization principle for the general journal
 ms:assetid: a931a0b0-15c6-4ea7-96b0-74db158cf84f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678581(v=AX.60)
 ms:contentKeyID: 49387809
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

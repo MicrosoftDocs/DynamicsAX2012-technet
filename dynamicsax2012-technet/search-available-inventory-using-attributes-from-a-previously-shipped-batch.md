@@ -4,7 +4,7 @@ TOCTitle: Search available inventory using attributes from a previously shipped 
 ms:assetid: 90540c7d-160d-4cb6-b05d-ff9d8251a43c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352291(v=AX.60)
 ms:contentKeyID: 36687919
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up budget revenue codes for fixed asset taxes
 ms:assetid: 23b9091b-41e2-4917-b8ab-1bca394d21b4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711473(v=AX.60)
 ms:contentKeyID: 49387289
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

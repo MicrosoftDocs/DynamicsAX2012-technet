@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the automatic creation of a deferrals card
 ms:assetid: c9b6b540-9cbe-4be4-acf0-4d2842b7586f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711609(v=AX.60)
 ms:contentKeyID: 49387933
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

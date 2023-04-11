@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a document location for the NVFA accounting card (No. MB-
 ms:assetid: 58f8a0d3-e482-4954-b87e-e338224e966d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839667(v=AX.60)
 ms:contentKeyID: 50396813
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

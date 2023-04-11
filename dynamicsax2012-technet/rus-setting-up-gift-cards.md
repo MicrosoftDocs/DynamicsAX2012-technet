@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up gift cards
 ms:assetid: e68b563d-b028-48d4-bf34-3e7c6b5c48c0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497788(v=AX.60)
 ms:contentKeyID: 62200277
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

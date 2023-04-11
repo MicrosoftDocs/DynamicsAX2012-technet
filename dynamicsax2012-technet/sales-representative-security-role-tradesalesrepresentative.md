@@ -4,7 +4,7 @@ TOCTitle: Sales representative security role (TradeSalesRepresentative)
 ms:assetid: 088c9766-5215-4ce0-9942-960ce18179e8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh544039(v=AX.60)
 ms:contentKeyID: 37823120
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

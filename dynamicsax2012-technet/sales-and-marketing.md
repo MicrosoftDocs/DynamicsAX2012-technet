@@ -4,7 +4,7 @@ TOCTitle: Sales and marketing
 ms:assetid: f3c9707a-0c2b-4bd8-9b04-9aace9f04ede
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227532(v=AX.60)
 ms:contentKeyID: 36059982
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

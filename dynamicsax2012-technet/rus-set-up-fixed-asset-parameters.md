@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up fixed asset parameters
 ms:assetid: 979c9aaf-9749-4665-9eb5-5c59c1ee537e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678510(v=AX.60)
 ms:contentKeyID: 49387739
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

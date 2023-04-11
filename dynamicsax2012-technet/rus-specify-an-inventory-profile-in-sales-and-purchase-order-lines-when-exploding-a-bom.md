@@ -4,7 +4,7 @@ TOCTitle: (RUS) Specify an inventory profile in sales and purchase order lines w
 ms:assetid: 9bfba623-6486-4ee4-a56d-82862b1d662d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678533(v=AX.60)
 ms:contentKeyID: 49387762
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Schedule production activities
 ms:assetid: 15396fb2-ed9c-4901-8551-41b023df3caf
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230950(v=AX.60)
 ms:contentKeyID: 36056060
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

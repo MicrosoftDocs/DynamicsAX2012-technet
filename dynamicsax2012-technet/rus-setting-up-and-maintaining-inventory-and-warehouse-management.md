@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up and maintaining Inventory and warehouse management
 ms:assetid: 4a89a216-e907-436f-b24f-e1b9332bacc6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665352(v=AX.60)
 ms:contentKeyID: 49387440
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

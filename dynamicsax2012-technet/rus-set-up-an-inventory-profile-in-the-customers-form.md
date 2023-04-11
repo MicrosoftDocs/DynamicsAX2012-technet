@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an inventory profile in the Customers form
 ms:assetid: a8f43624-f4cc-4b42-a37b-d6bfb9cef1ad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733268(v=AX.60)
 ms:contentKeyID: 49685235
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

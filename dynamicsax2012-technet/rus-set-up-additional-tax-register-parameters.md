@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up additional tax register parameters
 ms:assetid: 46766658-a7c2-40bf-b050-6296bb659a81
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665338(v=AX.60)
 ms:contentKeyID: 49387426
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the tax agent transactions
 ms:assetid: 9eb51a58-bfd5-4f16-8972-e9fe3d3b4c46
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678541(v=AX.60)
 ms:contentKeyID: 49387770
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

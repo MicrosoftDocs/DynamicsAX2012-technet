@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up depreciation
 ms:assetid: e62840bb-04ee-4a93-a025-de645b088b86
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711713(v=AX.60)
 ms:contentKeyID: 49388036
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up tracking dimensions for an inventory owner
 ms:assetid: e8ad758a-6bee-402e-b0a4-9e1b28b587e5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733400(v=AX.60)
 ms:contentKeyID: 49685267
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

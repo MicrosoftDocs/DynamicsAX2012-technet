@@ -4,7 +4,7 @@ TOCTitle: (RUS) Settle tax liabilities
 ms:assetid: d7c6cf1a-f3df-44e8-93e1-66e03a47e458
 ms:mtpsurl: https://technet.microsoft.com/library/Dn771649(v=AX.60)
 ms:contentKeyID: 62553201
-author: Khairunj
+author: tonyafehr
 ms.date: 07/11/2014
 mtps_version: v=AX.60
 f1_keywords:

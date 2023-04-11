@@ -4,7 +4,7 @@ TOCTitle: DocumentStatusValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrder.DocumentStatusValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesorder.documentstatusvalue(v=AX.60)
 ms:contentKeyID: 62210959
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

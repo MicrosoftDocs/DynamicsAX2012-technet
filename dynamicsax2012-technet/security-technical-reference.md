@@ -4,7 +4,7 @@ TOCTitle: Security technical reference
 ms:assetid: 16807427-1f83-4a98-90ba-3c87e919bb4c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn385334(v=AX.60)
 ms:contentKeyID: 56554587
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

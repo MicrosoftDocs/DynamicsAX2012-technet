@@ -4,7 +4,7 @@ TOCTitle: SecurityException Events
 ms:assetid: Events.T:Microsoft.Dynamics.Commerce.Runtime.SecurityException
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.securityexception_events(v=AX.60)
 ms:contentKeyID: 65319965
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

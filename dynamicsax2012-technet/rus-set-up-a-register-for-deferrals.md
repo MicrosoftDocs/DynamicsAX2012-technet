@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for deferrals
 ms:assetid: aae2467b-eef8-4f93-adc0-03c4525212c7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711502(v=AX.60)
 ms:contentKeyID: 49387827
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

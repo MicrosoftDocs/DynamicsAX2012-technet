@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a sales tax code to calculate customs payments
 ms:assetid: 169134ff-75e8-4d0e-a5ac-65f78b72316b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733183(v=AX.60)
 ms:contentKeyID: 49685151
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

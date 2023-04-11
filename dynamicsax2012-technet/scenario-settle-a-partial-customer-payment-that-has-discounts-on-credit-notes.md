@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Settle a partial customer payment that has discounts on cre
 ms:assetid: 3de1a679-f764-4f7d-abdc-31c03d9b5195
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545518(v=AX.60)
 ms:contentKeyID: 37832498
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

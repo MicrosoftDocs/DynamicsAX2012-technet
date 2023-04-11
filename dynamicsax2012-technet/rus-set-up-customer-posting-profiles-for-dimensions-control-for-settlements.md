@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up customer posting profiles for dimensions control for sett
 ms:assetid: eb446466-ca2b-49ce-abca-b7d2ba4e0385
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711731(v=AX.60)
 ms:contentKeyID: 49388054
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

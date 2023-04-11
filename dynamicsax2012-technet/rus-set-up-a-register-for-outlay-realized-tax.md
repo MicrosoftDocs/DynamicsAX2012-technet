@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for outlay - realized tax
 ms:assetid: 1db16c80-18a1-4d71-bd6e-c0fab7845ed5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126119(v=AX.60)
 ms:contentKeyID: 52075354
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

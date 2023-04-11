@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an inventory posting profile
 ms:assetid: b658f113-cabe-4876-b879-fc47b41d25a4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733274(v=AX.60)
 ms:contentKeyID: 49685240
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

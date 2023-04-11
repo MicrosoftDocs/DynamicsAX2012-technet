@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up dynamic requisites
 ms:assetid: 1f00c90c-d714-4e91-843c-6edc68e01f09
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677474(v=AX.60)
 ms:contentKeyID: 49384778
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

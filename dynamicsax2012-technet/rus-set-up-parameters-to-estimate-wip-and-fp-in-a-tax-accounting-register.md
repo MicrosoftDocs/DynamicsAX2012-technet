@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up parameters to estimate WIP and FP in a tax accounting reg
 ms:assetid: 3010ba8e-2f8f-4b23-8c96-d59fb0b2fc62
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923404(v=AX.60)
 ms:contentKeyID: 52075363
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

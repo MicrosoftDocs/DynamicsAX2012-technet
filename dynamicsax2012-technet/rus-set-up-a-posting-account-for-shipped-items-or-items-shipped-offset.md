@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a posting account for shipped items or items shipped offs
 ms:assetid: b556c7ef-8784-4d8b-8ddd-883c8d334890
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923583(v=AX.60)
 ms:contentKeyID: 52075427
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

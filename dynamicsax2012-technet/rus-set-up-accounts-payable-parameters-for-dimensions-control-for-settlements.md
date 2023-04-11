@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up accounts payable parameters for dimensions control for se
 ms:assetid: 3c2d8393-90ca-4328-b315-a6fac004e7c2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665303(v=AX.60)
 ms:contentKeyID: 49387392
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

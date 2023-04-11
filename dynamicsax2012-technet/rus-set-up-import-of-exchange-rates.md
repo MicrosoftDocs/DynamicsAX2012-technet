@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up import of exchange rates
 ms:assetid: d0c546d6-db2e-4e84-9816-b5dc7936f93e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711642(v=AX.60)
 ms:contentKeyID: 49387966
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

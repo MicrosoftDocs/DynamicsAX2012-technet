@@ -4,7 +4,7 @@ TOCTitle: GetKey Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.SalesOrdersController.GetKey(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrder)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.salesorderscontroller.getkey(v=AX.60)
 ms:contentKeyID: 62203098
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

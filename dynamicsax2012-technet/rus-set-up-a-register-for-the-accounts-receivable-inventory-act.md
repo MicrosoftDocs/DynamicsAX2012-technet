@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for the accounts receivable inventory act
 ms:assetid: abdec5f8-6ff6-4a4c-a9a1-3e7e0879e11e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711503(v=AX.60)
 ms:contentKeyID: 49387828
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

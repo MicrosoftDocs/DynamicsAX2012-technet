@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up composite cell type requisites
 ms:assetid: 12330976-f99e-4933-b7d3-1c1dfb300cf4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677460(v=AX.60)
 ms:contentKeyID: 49384763
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

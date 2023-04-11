@@ -4,7 +4,7 @@ TOCTitle: (SAU) Enter Zakat information for journal transactions
 ms:assetid: c5e76058-c46d-4b11-acfb-a4d2c21dbf43
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242844(v=AX.60)
 ms:contentKeyID: 36059306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

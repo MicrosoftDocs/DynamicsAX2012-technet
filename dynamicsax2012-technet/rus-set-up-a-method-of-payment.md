@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a method of payment
 ms:assetid: 8099649d-8879-4a2d-ac6e-8518f799a69f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678416(v=AX.60)
 ms:contentKeyID: 49387646
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

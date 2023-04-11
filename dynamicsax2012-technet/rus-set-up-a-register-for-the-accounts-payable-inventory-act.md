@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for the accounts payable inventory act
 ms:assetid: e8d62bf4-e7e0-4a52-8a14-970b475679aa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711732(v=AX.60)
 ms:contentKeyID: 49388055
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

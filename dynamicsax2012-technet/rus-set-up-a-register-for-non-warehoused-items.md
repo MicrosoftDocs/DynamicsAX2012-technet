@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for non-warehoused items
 ms:assetid: 24360cc7-17c7-4032-8697-9d39742a515e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839656(v=AX.60)
 ms:contentKeyID: 50396802
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

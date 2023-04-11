@@ -4,7 +4,7 @@ TOCTitle: SavePurchaseOrderServiceRequest Constructor (Boolean, PurchaseOrder)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SavePurchaseOrderServiceRequest.#ctor(System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.PurchaseOrder)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savepurchaseorderservicerequest.savepurchaseorderservicerequest(v=AX.60)
 ms:contentKeyID: 65315535
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

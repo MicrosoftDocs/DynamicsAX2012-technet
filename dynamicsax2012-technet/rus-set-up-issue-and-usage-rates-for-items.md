@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up issue and usage rates for items
 ms:assetid: ea9cf8fb-dfc8-4f93-ae15-47c16bfe43f9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853243(v=AX.60)
 ms:contentKeyID: 50396523
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the advance holder
 ms:assetid: 64b83e5f-0c03-439a-a0a2-46c554cd8e5d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665456(v=AX.60)
 ms:contentKeyID: 49387543
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

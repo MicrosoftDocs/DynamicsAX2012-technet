@@ -4,7 +4,7 @@ TOCTitle: Service subscription license code (ServiceSubscription)
 ms:assetid: 1596dc10-c296-4f7b-98a8-29e83d8a0591
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441660(v=AX.60)
 ms:contentKeyID: 36993541
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

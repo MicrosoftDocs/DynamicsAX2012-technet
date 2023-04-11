@@ -4,7 +4,7 @@ TOCTitle: ServiceBase(T) Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase`1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn988306(v=AX.60)
 ms:contentKeyID: 65317352
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

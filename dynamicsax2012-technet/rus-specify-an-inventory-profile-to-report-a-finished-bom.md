@@ -4,7 +4,7 @@ TOCTitle: (RUS) Specify an inventory profile to report a finished BOM
 ms:assetid: b9c817e7-95c3-4dde-8cbf-302ef70d8a71
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711547(v=AX.60)
 ms:contentKeyID: 49387872
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up parameters for the NVFA statement of writing-off (No. MB-
 ms:assetid: a3377767-e004-4192-aebd-0db3567e10be
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853211(v=AX.60)
 ms:contentKeyID: 50396492
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

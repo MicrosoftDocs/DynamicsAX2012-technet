@@ -4,7 +4,7 @@ TOCTitle: Service management license code (ServiceManagement)
 ms:assetid: efdf1fc0-7b84-42c1-8913-4ec3f8968a07
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456322(v=AX.60)
 ms:contentKeyID: 36997780
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

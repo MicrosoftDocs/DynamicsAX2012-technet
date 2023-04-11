@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a foreign bank
 ms:assetid: bf8c3678-d958-488b-89be-d1ed2de73610
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733279(v=AX.60)
 ms:contentKeyID: 49685246
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

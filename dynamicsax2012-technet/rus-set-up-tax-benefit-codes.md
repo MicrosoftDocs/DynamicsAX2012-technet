@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up tax benefit codes
 ms:assetid: fb271879-9c9d-49f0-bab4-715fd790d2d2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678644(v=AX.60)
 ms:contentKeyID: 49388126
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: DeserializeObjectDataContractFromXml(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializationHelper.DeserializeObjectDataContractFromXml``1(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn719072(v=AX.60)
 ms:contentKeyID: 62214687
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

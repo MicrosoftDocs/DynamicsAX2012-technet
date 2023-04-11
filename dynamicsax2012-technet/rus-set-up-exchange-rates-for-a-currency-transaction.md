@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up exchange rates for a currency transaction
 ms:assetid: cabeed29-c429-4d52-91af-1ec69198f5d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856181(v=AX.60)
 ms:contentKeyID: 50407020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

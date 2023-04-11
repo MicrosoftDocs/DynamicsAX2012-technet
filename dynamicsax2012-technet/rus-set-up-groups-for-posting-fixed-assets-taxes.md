@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up groups for posting fixed assets taxes
 ms:assetid: df3f524e-fa75-4f19-b1a8-b23f3c43171c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711698(v=AX.60)
 ms:contentKeyID: 49388021
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

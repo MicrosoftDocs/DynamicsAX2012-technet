@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up purchase and sales agreement classifications
 ms:assetid: 56e5feaf-5a7f-43ee-8540-aa338d3f7c5a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853183(v=AX.60)
 ms:contentKeyID: 50396464
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

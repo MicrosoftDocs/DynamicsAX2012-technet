@@ -4,7 +4,7 @@ TOCTitle: (RUS) Sheet of FA and depreciation charges report (RAssetDepreciation)
 ms:assetid: b711062f-d0a7-4438-9c48-2cda35933192
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992745(v=AX.60)
 ms:contentKeyID: 51739431
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

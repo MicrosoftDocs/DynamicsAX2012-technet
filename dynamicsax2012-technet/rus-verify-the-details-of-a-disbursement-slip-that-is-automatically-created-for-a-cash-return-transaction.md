@@ -4,7 +4,7 @@ TOCTitle: (RUS) Verify the details of a disbursement slip that is automatically 
 ms:assetid: 6a0dd9cd-51cc-4013-ac05-1ead85102723
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716019(v=AX.60)
 ms:contentKeyID: 62200267
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

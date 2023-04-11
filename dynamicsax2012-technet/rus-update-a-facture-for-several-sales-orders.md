@@ -4,7 +4,7 @@ TOCTitle: (RUS) Update a facture for several sales orders
 ms:assetid: 11248845-21a7-4e67-a617-cebf1470295c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711397(v=AX.60)
 ms:contentKeyID: 49387215
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

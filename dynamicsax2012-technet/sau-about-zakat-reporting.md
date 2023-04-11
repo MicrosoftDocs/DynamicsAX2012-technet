@@ -4,7 +4,7 @@ TOCTitle: (SAU) About Zakat reporting
 ms:assetid: 926c33a1-564a-467a-be03-2dc498ed6540
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209381(v=AX.60)
 ms:contentKeyID: 36058570
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

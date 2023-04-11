@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up folders to save exported electronic documents to and stor
 ms:assetid: 2c1afc6c-083c-42ca-a569-4e88cd683248
 ms:mtpsurl: https://technet.microsoft.com/library/JJ735278(v=AX.60)
 ms:contentKeyID: 49693279
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

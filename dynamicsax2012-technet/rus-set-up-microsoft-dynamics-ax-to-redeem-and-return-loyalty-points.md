@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up Microsoft Dynamics AX to redeem and return loyalty points
 ms:assetid: 5095aa35-ea1f-4ff8-ae22-976b2439398a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497735(v=AX.60)
 ms:contentKeyID: 62200263
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

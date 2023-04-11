@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up parameters to create corrective and revised factures
 ms:assetid: dda1a7d4-a86e-486e-b108-6ac33a588faa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923599(v=AX.60)
 ms:contentKeyID: 52075446
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

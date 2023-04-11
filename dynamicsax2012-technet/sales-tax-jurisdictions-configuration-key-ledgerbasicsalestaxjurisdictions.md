@@ -4,7 +4,7 @@ TOCTitle: Sales tax jurisdictions configuration key (LedgerBasicSalesTaxJurisdic
 ms:assetid: a36691a8-aa25-4191-b4c7-92faf3ee64eb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467559(v=AX.60)
 ms:contentKeyID: 36991705
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

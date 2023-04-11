@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Settle a vendor payment with an invoice'
 ms:assetid: 8f050a69-6483-4b6e-be7e-034f328ccfcf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597170(v=AX.60)
 ms:contentKeyID: 39519230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

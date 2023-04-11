@@ -4,7 +4,7 @@ TOCTitle: SearchArea Constructor (Decimal, Decimal, Double, DistanceUnit)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.SearchArea.#ctor(System.Decimal,System.Decimal,System.Double,Microsoft.Dynamics.Commerce.Runtime.DataModel.DistanceUnit)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.searcharea.searcharea(v=AX.60)
 ms:contentKeyID: 49846730
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an intermediate bank account for a foreign vendor
 ms:assetid: 143d4fb6-888b-4506-9d64-949fc9e7ab2f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711410(v=AX.60)
 ms:contentKeyID: 49387228
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

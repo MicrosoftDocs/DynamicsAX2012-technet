@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up employee posting profiles for dimensions control for sett
 ms:assetid: a1416fea-1f0a-4290-b97d-cdd569d9b5db
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678545(v=AX.60)
 ms:contentKeyID: 49387774
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

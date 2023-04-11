@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up tax register journals
 ms:assetid: 8b503dc5-ef50-4525-bd79-65aa434ded10
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678459(v=AX.60)
 ms:contentKeyID: 49387688
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

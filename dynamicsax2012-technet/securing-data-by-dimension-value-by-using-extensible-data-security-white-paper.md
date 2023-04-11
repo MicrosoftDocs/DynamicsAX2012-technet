@@ -4,7 +4,7 @@ TOCTitle: Securing Data by Dimension Value by using Extensible Data Security
 ms:assetid: 6d1a6f29-e60b-4046-9f5b-1a23b608f4f7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335188(v=AX.60)
 ms:contentKeyID: 36687413
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

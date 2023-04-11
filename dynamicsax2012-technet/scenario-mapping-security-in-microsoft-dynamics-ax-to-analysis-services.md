@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Mapping security in Microsoft Dynamics AX to Analysis Servi
 ms:assetid: 509f0bbf-e63d-4c12-9f6a-6484aeb08b2a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ129499(v=AX.60)
 ms:contentKeyID: 46661153
-author: Khairunj
+author: tonyafehr
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

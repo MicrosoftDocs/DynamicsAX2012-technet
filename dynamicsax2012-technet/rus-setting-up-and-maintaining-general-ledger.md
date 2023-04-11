@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up and maintaining General ledger
 ms:assetid: f3dc9b0d-6c94-4d6f-b7e1-7054318e0d51
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678600(v=AX.60)
 ms:contentKeyID: 49388082
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

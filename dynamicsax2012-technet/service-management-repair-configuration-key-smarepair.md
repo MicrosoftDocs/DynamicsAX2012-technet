@@ -4,7 +4,7 @@ TOCTitle: Service Management - Repair configuration key (SMARepair)
 ms:assetid: f44d7dd5-8e36-4b1e-a9a7-d20c12aa7245
 ms:mtpsurl: https://technet.microsoft.com/library/Aa600294(v=AX.60)
 ms:contentKeyID: 36997783
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

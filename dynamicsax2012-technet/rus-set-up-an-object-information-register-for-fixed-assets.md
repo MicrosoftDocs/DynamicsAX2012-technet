@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an object information register for fixed assets
 ms:assetid: 2acd9f2d-1c50-4626-992f-05eaafaf950b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665228(v=AX.60)
 ms:contentKeyID: 49387317
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up reverse transactions
 ms:assetid: 92d5b927-3eb0-49c1-b770-2f883c15f39a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678490(v=AX.60)
 ms:contentKeyID: 49387719
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

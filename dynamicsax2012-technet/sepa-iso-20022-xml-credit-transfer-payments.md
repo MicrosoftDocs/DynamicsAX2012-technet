@@ -4,7 +4,7 @@ TOCTitle: SEPA (ISO 20022 XML) credit transfer payments
 ms:assetid: 8de7fabb-f144-4dd4-8b68-0d31c96cb9da
 ms:mtpsurl: https://technet.microsoft.com/library/JJ571732(v=AX.60)
 ms:contentKeyID: 48770978
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

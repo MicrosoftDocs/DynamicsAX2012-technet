@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a depreciation register (nonlinear method) for intangible
 ms:assetid: c03fb9e1-8d93-4783-860a-3f249e46ed38
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711572(v=AX.60)
 ms:contentKeyID: 49387896
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

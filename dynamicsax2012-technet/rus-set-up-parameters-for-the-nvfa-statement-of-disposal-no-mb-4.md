@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up parameters for the NVFA statement of disposal (No. MB-4)
 ms:assetid: 15e13674-c7c6-4013-a6ca-7bd058a58440
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853157(v=AX.60)
 ms:contentKeyID: 50396439
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a transit tax group to redraw miscellaneous charges to th
 ms:assetid: 4cd4d69d-f81e-4537-b0e7-ed08eb043205
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733217(v=AX.60)
 ms:contentKeyID: 49685185
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

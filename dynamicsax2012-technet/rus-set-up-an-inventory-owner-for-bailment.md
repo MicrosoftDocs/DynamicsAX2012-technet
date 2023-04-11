@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an inventory owner for bailment
 ms:assetid: 8c2551e1-0edd-4ca4-af55-f3558e435ac1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733255(v=AX.60)
 ms:contentKeyID: 49685222
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up sales tax codes for customer advance payment
 ms:assetid: 4cc66b56-774e-45e3-80fc-658fd28925ab
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665362(v=AX.60)
 ms:contentKeyID: 49387450
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

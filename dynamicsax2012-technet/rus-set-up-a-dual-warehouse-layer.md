@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a dual warehouse layer
 ms:assetid: e764ee10-064b-4821-be17-40154fa6924b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733298(v=AX.60)
 ms:contentKeyID: 49685265
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

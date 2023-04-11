@@ -4,7 +4,7 @@ TOCTitle: Sales performance by products report (RetailSalesPerfromanceByProduct)
 ms:assetid: 307572bc-f431-4a96-975a-e72ba8358b12
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697609(v=AX.60)
 ms:contentKeyID: 42518413
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

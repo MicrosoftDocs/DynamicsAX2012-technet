@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up types of issue and usage rates
 ms:assetid: c882934a-0ebb-45f9-a86c-5349fbdedb02
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853229(v=AX.60)
 ms:contentKeyID: 50396509
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

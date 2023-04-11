@@ -4,7 +4,7 @@ TOCTitle: LineId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.SelectedItemShippingOptions.LineId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.selecteditemshippingoptions.lineid(v=AX.60)
 ms:contentKeyID: 62202034
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

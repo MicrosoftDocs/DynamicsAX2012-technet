@@ -4,7 +4,7 @@ TOCTitle: SearchResultsLayout Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.SearchResultsLayout
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.searchresultslayout_events(v=AX.60)
 ms:contentKeyID: 62202052
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

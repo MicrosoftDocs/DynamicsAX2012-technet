@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up and maintaining warehouse operations
 ms:assetid: ef81ac4a-9d80-419f-b52d-e720d34374f6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678601(v=AX.60)
 ms:contentKeyID: 49388083
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

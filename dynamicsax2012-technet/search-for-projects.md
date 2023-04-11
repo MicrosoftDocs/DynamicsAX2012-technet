@@ -4,7 +4,7 @@ TOCTitle: Search for projects
 ms:assetid: 43de98c1-ca28-41db-a1d3-6bc414fd22c2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496968(v=AX.60)
 ms:contentKeyID: 36056881
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

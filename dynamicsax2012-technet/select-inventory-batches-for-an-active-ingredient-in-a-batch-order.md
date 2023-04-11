@@ -4,7 +4,7 @@ TOCTitle: Select inventory batches for an active ingredient in a batch order
 ms:assetid: 14b055b1-6f66-41ec-b6c7-a7d4033c572d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838723(v=AX.60)
 ms:contentKeyID: 50120606
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

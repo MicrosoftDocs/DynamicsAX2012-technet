@@ -4,7 +4,7 @@ TOCTitle: Select campaign targets
 ms:assetid: 9a5cdd84-6f0d-49f6-ad7f-b8bababa463f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498455(v=AX.60)
 ms:contentKeyID: 36058705
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

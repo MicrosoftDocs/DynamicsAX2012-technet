@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an advance holder group
 ms:assetid: d2f856d6-10cc-4912-9b2b-c922af277ead
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711649(v=AX.60)
 ms:contentKeyID: 49387973
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

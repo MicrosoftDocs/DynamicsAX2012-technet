@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up dynamic table requisites for text formats
 ms:assetid: 80d1f4ab-8a96-4c9e-92fb-1485b58b17d5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677587(v=AX.60)
 ms:contentKeyID: 49384890
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

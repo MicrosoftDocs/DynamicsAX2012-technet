@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up general ledger parameters for exchange adjustment
 ms:assetid: 3bdb7ba9-7f9d-4d7f-bc8f-6634e4d8ce8d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853171(v=AX.60)
 ms:contentKeyID: 50396451
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

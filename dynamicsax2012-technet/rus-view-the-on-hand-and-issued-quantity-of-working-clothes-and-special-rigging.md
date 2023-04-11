@@ -4,7 +4,7 @@ TOCTitle: (RUS) View the on-hand and issued quantity of working clothes and spec
 ms:assetid: ea139b58-0c7f-4d62-860f-fa7bbc2c23b2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923608(v=AX.60)
 ms:contentKeyID: 52075448
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

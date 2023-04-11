@@ -4,7 +4,7 @@ TOCTitle: (RUS) Transfer orders for bailment
 ms:assetid: e92e59c2-5601-45ea-9e62-59f354b296bb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733299(v=AX.60)
 ms:contentKeyID: 49685266
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

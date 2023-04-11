@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up tax on fixed assets in Cash and bank management
 ms:assetid: a96dc731-4f98-4bd9-a119-b20f7682adc7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711492(v=AX.60)
 ms:contentKeyID: 49387817
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

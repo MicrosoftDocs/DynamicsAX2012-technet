@@ -4,7 +4,7 @@ TOCTitle: Sales management configuration key (SmmSM)
 ms:assetid: 31ceffc6-6f58-43d8-9053-f1e36a5295ee
 ms:mtpsurl: https://technet.microsoft.com/library/Aa501325(v=AX.60)
 ms:contentKeyID: 36931822
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

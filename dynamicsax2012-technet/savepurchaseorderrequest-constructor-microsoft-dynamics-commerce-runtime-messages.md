@@ -4,7 +4,7 @@ TOCTitle: SavePurchaseOrderRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SavePurchaseOrderRequest.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savepurchaseorderrequest.savepurchaseorderrequest(v=AX.60)
 ms:contentKeyID: 62206517
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

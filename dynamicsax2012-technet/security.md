@@ -4,7 +4,7 @@ TOCTitle: Security
 ms:assetid: 38013c34-ccc1-46f2-9b2a-7de700f324a1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731779(v=AX.60)
 ms:contentKeyID: 35132605
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

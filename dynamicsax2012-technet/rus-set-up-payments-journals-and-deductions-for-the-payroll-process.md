@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up payments, journals, and deductions for the payroll proces
 ms:assetid: 3fd4cc75-bbc8-4a26-83c3-051017598c77
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435984(v=AX.60)
 ms:contentKeyID: 56732185
-author: Khairunj
+author: tonyafehr
 ms.date: 07/04/2014
 mtps_version: v=AX.60
 f1_keywords:

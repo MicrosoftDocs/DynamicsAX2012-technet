@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the calculation of assessed tax
 ms:assetid: 6e281290-270f-453c-a39d-659f76404a5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678343(v=AX.60)
 ms:contentKeyID: 49387573
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

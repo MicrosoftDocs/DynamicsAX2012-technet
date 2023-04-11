@@ -4,7 +4,7 @@ TOCTitle: SaveStockCountJournalTransactionServiceResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveStockCountJournalTransactionServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savestockcountjournaltransactionserviceresponse_properties(v=AX.60)
 ms:contentKeyID: 62214867
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

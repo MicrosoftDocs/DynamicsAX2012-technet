@@ -4,7 +4,7 @@ TOCTitle: SaveCartLinesRequest Constructor (Cart, IEnumerable(CartLine), Transac
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveCartLinesRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine},Microsoft.Dynamics.Commerce.Runtime.DataModel.TransactionOperationType,System.Nullable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CalculationModes})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savecartlinesrequest.savecartlinesrequest(v=AX.60)
 ms:contentKeyID: 62213147
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

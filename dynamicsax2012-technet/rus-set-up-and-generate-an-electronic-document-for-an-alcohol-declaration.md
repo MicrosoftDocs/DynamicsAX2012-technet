@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up and generate an electronic document for an alcohol declar
 ms:assetid: 9cf6a920-bbf9-4260-a859-72f15743c3c3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn494961(v=AX.60)
 ms:contentKeyID: 60513660
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

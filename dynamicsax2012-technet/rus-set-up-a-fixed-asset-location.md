@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a fixed asset location
 ms:assetid: 8002a829-c7b8-43a2-9108-091fbec1ee1a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678412(v=AX.60)
 ms:contentKeyID: 49387642
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

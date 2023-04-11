@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up parameters to process gift card operations as prepayments
 ms:assetid: 60251fbc-a129-4fd1-bdd6-6455eb05f1e5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497737(v=AX.60)
 ms:contentKeyID: 62200266
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

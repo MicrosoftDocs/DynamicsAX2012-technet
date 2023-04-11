@@ -4,7 +4,7 @@ TOCTitle: (SAU) Setting up Zakat reporting
 ms:assetid: 42f0dd69-b02d-4f6a-a1df-0805666b6ba3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242376(v=AX.60)
 ms:contentKeyID: 36056877
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

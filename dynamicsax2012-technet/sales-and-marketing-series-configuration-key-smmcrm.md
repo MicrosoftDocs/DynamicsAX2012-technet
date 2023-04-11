@@ -4,7 +4,7 @@ TOCTitle: Sales and marketing series configuration key (SmmCRM)
 ms:assetid: 52c308a3-f59d-42b5-97d3-e18daaf1aa3b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa582710(v=AX.60)
 ms:contentKeyID: 36931835
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

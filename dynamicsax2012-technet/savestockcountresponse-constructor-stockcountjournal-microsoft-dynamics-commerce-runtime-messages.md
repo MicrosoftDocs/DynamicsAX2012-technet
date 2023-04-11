@@ -4,7 +4,7 @@ TOCTitle: SaveStockCountResponse Constructor (StockCountJournal)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveStockCountResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.StockCountJournal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savestockcountresponse.savestockcountresponse(v=AX.60)
 ms:contentKeyID: 62205130
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

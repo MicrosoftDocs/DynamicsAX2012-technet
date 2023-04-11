@@ -4,7 +4,7 @@ TOCTitle: SendEmailServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SendEmailServiceRequest.#ctor(System.String,System.Collections.Generic.ICollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.NameValuePair},System.String,System.Object,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.sendemailservicerequest.sendemailservicerequest(v=AX.60)
 ms:contentKeyID: 65321501
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

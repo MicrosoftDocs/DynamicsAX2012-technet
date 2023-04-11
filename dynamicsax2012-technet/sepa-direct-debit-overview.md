@@ -4,7 +4,7 @@ TOCTitle: SEPA direct debit overview
 ms:assetid: 0815eaa6-1e9b-4fd8-9921-819431357e3a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268411(v=AX.60)
 ms:contentKeyID: 54916949
-author: Khairunj
+author: tonyafehr
 ms.date: 07/18/2014
 mtps_version: v=AX.60
 f1_keywords:

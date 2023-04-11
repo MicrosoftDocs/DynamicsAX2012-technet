@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a method of payment for currency transactions
 ms:assetid: c65bf8d9-10f7-4a3b-b267-19c4c6f8fce2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856192(v=AX.60)
 ms:contentKeyID: 50407075
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

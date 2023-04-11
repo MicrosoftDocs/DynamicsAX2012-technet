@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for outlay - realized
 ms:assetid: bbbc7c76-ec62-4450-88ce-0320d0b3dc3b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839686(v=AX.60)
 ms:contentKeyID: 50396832
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Temporarily inactivate and reactivate a fixed asset
 ms:assetid: 4b46c72c-e223-4a38-a6aa-17ddb33ed67c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665354(v=AX.60)
 ms:contentKeyID: 49387442
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

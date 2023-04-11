@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for accounts receivable bad debt reserve movem
 ms:assetid: 77b6b1fd-c597-430a-86b2-88e75bef26dd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678372(v=AX.60)
 ms:contentKeyID: 49387602
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

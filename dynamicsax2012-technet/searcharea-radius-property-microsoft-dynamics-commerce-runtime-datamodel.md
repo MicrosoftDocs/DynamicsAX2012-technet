@@ -4,7 +4,7 @@ TOCTitle: Radius Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SearchArea.Radius
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.searcharea.radius(v=AX.60)
 ms:contentKeyID: 49845761
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

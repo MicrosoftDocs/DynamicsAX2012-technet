@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up permission groups to regulate the return of sold items
 ms:assetid: 61010684-1800-46e5-9b23-73618850e86e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn530768(v=AX.60)
 ms:contentKeyID: 59683048
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

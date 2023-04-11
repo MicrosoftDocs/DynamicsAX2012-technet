@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up and maintaining Sales and marketing
 ms:assetid: 7f4084c1-b2ae-40fa-b44d-4863a744dacd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678406(v=AX.60)
 ms:contentKeyID: 49387636
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

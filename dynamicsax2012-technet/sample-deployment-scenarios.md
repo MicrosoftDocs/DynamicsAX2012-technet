@@ -4,7 +4,7 @@ TOCTitle: Sample deployment scenarios
 ms:assetid: 2c1fee73-a8e4-48a1-b456-223ba102a92c
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309633(v=AX.60)
 ms:contentKeyID: 39555334
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

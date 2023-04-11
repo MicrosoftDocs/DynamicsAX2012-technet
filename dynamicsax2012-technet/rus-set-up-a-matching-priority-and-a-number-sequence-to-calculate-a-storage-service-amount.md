@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a matching priority and a number sequence to calculate a 
 ms:assetid: 82478394-2aff-4c67-9e90-f3f5b634e4ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678424(v=AX.60)
 ms:contentKeyID: 49387654
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) View the loyalty points discount amount for a retail store trans
 ms:assetid: 0f96b992-1366-4853-a9dd-f976564333c9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497728(v=AX.60)
 ms:contentKeyID: 62200260
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

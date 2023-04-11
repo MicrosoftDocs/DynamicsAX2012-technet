@@ -4,7 +4,7 @@ TOCTitle: InvoiceDate Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesInvoice.InvoiceDate
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesinvoice.invoicedate(v=AX.60)
 ms:contentKeyID: 62213586
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

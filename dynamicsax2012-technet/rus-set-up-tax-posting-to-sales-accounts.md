@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up tax posting to sales accounts
 ms:assetid: 3465adac-9ea2-4f08-b328-bcca6110fd61
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665264(v=AX.60)
 ms:contentKeyID: 49387353
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

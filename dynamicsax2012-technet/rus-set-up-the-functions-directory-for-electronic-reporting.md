@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the functions directory for electronic reporting
 ms:assetid: a4ea6b5e-f7da-4a85-a21d-2477417fff98
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677638(v=AX.60)
 ms:contentKeyID: 49384941
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

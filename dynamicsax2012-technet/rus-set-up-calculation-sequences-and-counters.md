@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up calculation sequences and counters
 ms:assetid: 36be22ba-236f-4b14-99f3-b9bc4c92bad8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665279(v=AX.60)
 ms:contentKeyID: 49387368
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

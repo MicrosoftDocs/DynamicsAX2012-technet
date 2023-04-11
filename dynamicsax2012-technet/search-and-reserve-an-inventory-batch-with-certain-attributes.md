@@ -4,7 +4,7 @@ TOCTitle: Search and reserve an inventory batch with certain attributes
 ms:assetid: dabc91cd-e135-4546-add5-ec9c2279a56e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh328583(v=AX.60)
 ms:contentKeyID: 36688005
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

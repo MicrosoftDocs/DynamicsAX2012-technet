@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up parameters for advance holders
 ms:assetid: 7b8e22c4-d224-4625-b305-0d384076149f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678387(v=AX.60)
 ms:contentKeyID: 49387618
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

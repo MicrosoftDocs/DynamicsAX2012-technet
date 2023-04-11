@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up calculation procedures for the payroll process
 ms:assetid: 1b0755ec-903b-4317-aa43-863748ee7f3d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435987(v=AX.60)
 ms:contentKeyID: 56732188
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

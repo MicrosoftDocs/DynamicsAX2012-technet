@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up number sequences for NVFAs, working clothes, and special 
 ms:assetid: 85305495-1530-4c71-898f-0c8537b32bfb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853201(v=AX.60)
 ms:contentKeyID: 50396482
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Sales vs. target report (SalesVsTarget)
 ms:assetid: 451fe29c-9dfe-403b-b886-ac7c2e139b21
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412244(v=AX.60)
 ms:contentKeyID: 36916353
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

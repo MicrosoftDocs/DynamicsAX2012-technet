@@ -4,7 +4,7 @@ TOCTitle: Sales tax payment by code report (TaxReportById)
 ms:assetid: fd9a89ec-8621-4a76-bafb-ce531951f9e2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa600760(v=AX.60)
 ms:contentKeyID: 36931907
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

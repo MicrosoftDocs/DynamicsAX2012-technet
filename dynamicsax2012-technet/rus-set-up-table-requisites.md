@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up table requisites
 ms:assetid: 9cca460d-82e7-4fa2-ba11-baa866b1ddb8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677625(v=AX.60)
 ms:contentKeyID: 49384928
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a posting profile for cash management
 ms:assetid: 7e2d87cd-a228-4643-a554-4d233c773cec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678402(v=AX.60)
 ms:contentKeyID: 49387632
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

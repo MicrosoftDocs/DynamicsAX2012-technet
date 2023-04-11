@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up a goods cost calculation register
 ms:assetid: d7b8726a-7769-4d62-a645-173e56f90c22
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923594(v=AX.60)
 ms:contentKeyID: 53382723
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

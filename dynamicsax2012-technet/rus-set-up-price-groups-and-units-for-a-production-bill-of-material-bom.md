@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up price groups and units for a production bill of material 
 ms:assetid: 4d212b16-73c2-4560-9aea-a3aff0ba27fe
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665364(v=AX.60)
 ms:contentKeyID: 49387453
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

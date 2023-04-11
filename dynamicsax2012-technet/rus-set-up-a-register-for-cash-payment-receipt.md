@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for cash payment receipt
 ms:assetid: 13166020-b196-4912-a4e9-370428e83a86
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711406(v=AX.60)
 ms:contentKeyID: 49387225
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

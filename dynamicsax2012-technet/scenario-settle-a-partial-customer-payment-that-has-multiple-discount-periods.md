@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Settle a partial customer payment that has multiple discoun
 ms:assetid: e97ec73f-21aa-4e63-9e8e-75a8a20a5ab7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545536(v=AX.60)
 ms:contentKeyID: 37832546
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) View the cash transactions
 ms:assetid: 21aff2e6-8065-43cd-aa41-08f8e72f8777
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711463(v=AX.60)
 ms:contentKeyID: 49387280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

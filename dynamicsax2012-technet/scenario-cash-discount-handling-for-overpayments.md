@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Cash discount handling for overpayments'
 ms:assetid: 15ca32c1-9e68-43a0-8c0d-09cfbd53d2e2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545514(v=AX.60)
 ms:contentKeyID: 37832491
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 audience: Application User

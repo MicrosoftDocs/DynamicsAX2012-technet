@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Use the "Date to use to calculate discounts" field to contr
 ms:assetid: 8d2245f5-495c-491b-b70a-602d2fb5cbb1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597164(v=AX.60)
 ms:contentKeyID: 39519221
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

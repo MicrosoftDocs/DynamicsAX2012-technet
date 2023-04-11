@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up types of work
 ms:assetid: 750ff48e-e28e-4655-a524-db23897fc5cd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839676(v=AX.60)
 ms:contentKeyID: 50396822
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

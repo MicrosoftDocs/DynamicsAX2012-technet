@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up inventory parameters to create storno accounting transact
 ms:assetid: 0ed1049d-b8a8-4d85-8ea8-7b215103f26c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711393(v=AX.60)
 ms:contentKeyID: 49387211
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

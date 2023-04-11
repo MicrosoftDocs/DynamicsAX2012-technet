@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a transit account to redraw miscellaneous charges to thir
 ms:assetid: 87986403-3908-4b77-888a-85d0728f4e50
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733251(v=AX.60)
 ms:contentKeyID: 49685217
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

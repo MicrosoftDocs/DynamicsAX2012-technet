@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Upgrade a country-specific or region-specific system'
 ms:assetid: cead63b6-d48b-4e97-821e-d41e1b3ca152
 ms:mtpsurl: https://technet.microsoft.com/library/Dn198674(v=AX.60)
 ms:contentKeyID: 53874074
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

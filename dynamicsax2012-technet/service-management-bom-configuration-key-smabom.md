@@ -4,7 +4,7 @@ TOCTitle: Service Management - BOM configuration key (SMABom)
 ms:assetid: f3828eb3-9d44-4b26-aa2d-818b14bbd597
 ms:mtpsurl: https://technet.microsoft.com/library/Aa600234(v=AX.60)
 ms:contentKeyID: 36997781
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

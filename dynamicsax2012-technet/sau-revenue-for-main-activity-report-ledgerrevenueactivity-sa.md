@@ -4,7 +4,7 @@ TOCTitle: (SAU) Revenue for main activity report (LedgerRevenueActivity_SA)
 ms:assetid: 122253bc-e182-4fbb-8cad-f26391adfbc0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh371724(v=AX.60)
 ms:contentKeyID: 36814937
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

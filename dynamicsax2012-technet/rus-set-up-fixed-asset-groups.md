@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up fixed asset groups
 ms:assetid: 43dd1581-6702-4964-9b88-92bf9e1d2edc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923414(v=AX.60)
 ms:contentKeyID: 52075373
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

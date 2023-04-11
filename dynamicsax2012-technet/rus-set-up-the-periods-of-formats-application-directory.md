@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the periods of formats application directory
 ms:assetid: 5deb01fd-4c55-4c13-b555-332bb5da037e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677542(v=AX.60)
 ms:contentKeyID: 49384846
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

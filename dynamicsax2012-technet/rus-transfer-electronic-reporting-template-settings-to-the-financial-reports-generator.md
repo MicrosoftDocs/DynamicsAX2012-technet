@@ -4,7 +4,7 @@ TOCTitle: (RUS) Transfer electronic reporting template settings to the Financial
 ms:assetid: eb3d1c15-8a47-4e76-8c71-0f352260cded
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923610(v=AX.60)
 ms:contentKeyID: 52075449
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

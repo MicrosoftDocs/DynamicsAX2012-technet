@@ -4,7 +4,7 @@ TOCTitle: Sales tax reporting codes report (TaxCodeReportSetup)
 ms:assetid: d8a381fc-0869-455b-b5a2-74599c39397f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa619593(v=AX.60)
 ms:contentKeyID: 36931903
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

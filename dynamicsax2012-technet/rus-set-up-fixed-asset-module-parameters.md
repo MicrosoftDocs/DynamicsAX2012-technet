@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up fixed asset module parameters
 ms:assetid: fbb5d08b-38f9-4077-8b05-58942c255c83
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678657(v=AX.60)
 ms:contentKeyID: 49388140
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

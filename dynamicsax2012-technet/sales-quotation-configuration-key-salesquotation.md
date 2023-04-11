@@ -4,7 +4,7 @@ TOCTitle: Sales quotation configuration key (SalesQuotation)
 ms:assetid: 2049f786-4eda-4670-a9af-ab12a13dcf06
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499661(v=AX.60)
 ms:contentKeyID: 36997745
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

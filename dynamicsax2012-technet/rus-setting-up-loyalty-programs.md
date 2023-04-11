@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up loyalty programs
 ms:assetid: a8d7dd63-c140-4bff-950d-1200e518b130
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497755(v=AX.60)
 ms:contentKeyID: 62200272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

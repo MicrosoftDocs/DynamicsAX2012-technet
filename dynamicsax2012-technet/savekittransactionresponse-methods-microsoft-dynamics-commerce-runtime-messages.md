@@ -4,7 +4,7 @@ TOCTitle: SaveKitTransactionResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveKitTransactionResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savekittransactionresponse_methods(v=AX.60)
 ms:contentKeyID: 62210185
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

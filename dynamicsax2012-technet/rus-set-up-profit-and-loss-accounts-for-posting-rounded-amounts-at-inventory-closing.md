@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up profit and loss accounts for posting rounded amounts at i
 ms:assetid: eaa3f967-104e-41eb-9abc-e8353d9ecab5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126131(v=AX.60)
 ms:contentKeyID: 52075454
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

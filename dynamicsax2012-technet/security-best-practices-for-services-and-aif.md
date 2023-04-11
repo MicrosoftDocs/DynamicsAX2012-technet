@@ -4,7 +4,7 @@ TOCTitle: Security best practices for services and AIF
 ms:assetid: ab145079-5dcd-43da-8f4a-5d27a54c0f7c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834425(v=AX.60)
 ms:contentKeyID: 36941317
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

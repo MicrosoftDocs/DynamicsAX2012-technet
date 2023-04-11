@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up inventory parameters
 ms:assetid: 9b136448-a337-46e3-9cf4-ef92072d0e74
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678518(v=AX.60)
 ms:contentKeyID: 49387748
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

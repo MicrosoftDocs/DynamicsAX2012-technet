@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a ledger posting group to post tax for shipped goods
 ms:assetid: 9d41ebfb-f50b-469a-a1b4-93bcda178402
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853210(v=AX.60)
 ms:contentKeyID: 50396491
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

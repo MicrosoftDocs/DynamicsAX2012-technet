@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an inventory unit and unit operator to calculate the stor
 ms:assetid: 3618a5f5-dead-4ef0-82bd-062f9cb823b8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733199(v=AX.60)
 ms:contentKeyID: 49685167
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (SAU) Adjust Zakat information for a voucher transaction
 ms:assetid: cc534529-9c22-43c2-8864-0505f019978b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242901(v=AX.60)
 ms:contentKeyID: 36059450
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

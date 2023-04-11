@@ -4,7 +4,7 @@ TOCTitle: (RUS) View CD data in purchase book lines
 ms:assetid: dfc8e49e-d2ab-4d5e-87ee-91c977851c27
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711703(v=AX.60)
 ms:contentKeyID: 49388026
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

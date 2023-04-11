@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up fixed asset parameters for NVFAs
 ms:assetid: 9b811261-da0b-4961-85fc-b225df1aab6a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853209(v=AX.60)
 ms:contentKeyID: 50396490
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

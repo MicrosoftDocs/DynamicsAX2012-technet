@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up sales tax codes for tax calculation
 ms:assetid: 17b9e565-e65d-41db-b5ad-af9cea54065f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711432(v=AX.60)
 ms:contentKeyID: 49387250
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Working with Accounts receivable
 ms:assetid: 2154e38d-b71f-43f2-927a-dca4d9d391b9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711462(v=AX.60)
 ms:contentKeyID: 49387279
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

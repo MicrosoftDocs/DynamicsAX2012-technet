@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an RCOAD code for a company
 ms:assetid: 721e691b-451e-488a-b7f1-d553d47b272e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678360(v=AX.60)
 ms:contentKeyID: 49387590
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

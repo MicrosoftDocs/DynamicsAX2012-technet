@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up aggregation parameters for registering POS sales and retu
 ms:assetid: 0130aa5a-d725-45a8-83f3-f0f11b82b98b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716015(v=AX.60)
 ms:contentKeyID: 62200258
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
