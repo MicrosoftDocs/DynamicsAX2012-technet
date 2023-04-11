@@ -4,7 +4,7 @@ TOCTitle: ItemIdSearchTableType Constructor (IEnumerable(ProductLookupClause))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.ItemIdSearchTableType.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductLookupClause})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.itemidsearchtabletype.itemidsearchtabletype(v=AX.60)
 ms:contentKeyID: 65320563
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

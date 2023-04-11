@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Courses'
 ms:assetid: 8f5d3c5d-c3b6-4742-8de6-716c3defc6c6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677350(v=AX.60)
 ms:contentKeyID: 49384124
-author: Khairunj
+author: tonyafehr
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 f1_keywords:

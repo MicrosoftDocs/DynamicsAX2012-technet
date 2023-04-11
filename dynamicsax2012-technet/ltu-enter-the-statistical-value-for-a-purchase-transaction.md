@@ -4,7 +4,7 @@ TOCTitle: (LTU) Enter the statistical value for a purchase transaction
 ms:assetid: 047af217-fb1a-4d06-a10e-beb4840a4f46
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665006(v=AX.60)
 ms:contentKeyID: 49386588
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

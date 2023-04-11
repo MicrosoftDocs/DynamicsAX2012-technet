@@ -4,7 +4,7 @@ TOCTitle: (JPN) Maintaining customer information
 ms:assetid: 3ae762af-571e-452f-b1e5-90c6a228cc25
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711034(v=AX.60)
 ms:contentKeyID: 49386444
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

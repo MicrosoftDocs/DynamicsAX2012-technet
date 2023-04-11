@@ -4,7 +4,7 @@ TOCTitle: Journalize sales orders
 ms:assetid: 84c9e4e7-c242-4d6a-ad07-26aee4db8350
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571569(v=AX.60)
 ms:contentKeyID: 36058396
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

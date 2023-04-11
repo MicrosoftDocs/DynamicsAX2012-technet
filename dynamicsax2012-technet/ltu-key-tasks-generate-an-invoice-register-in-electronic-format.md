@@ -4,7 +4,7 @@ TOCTitle: '(LTU) Key tasks: Generate an invoice register in electronic format'
 ms:assetid: fae9988f-a417-4744-baf9-ba7cb2b45bd7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn528956(v=AX.60)
 ms:contentKeyID: 59641345
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

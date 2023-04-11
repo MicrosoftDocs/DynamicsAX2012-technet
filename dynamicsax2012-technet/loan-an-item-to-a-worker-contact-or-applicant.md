@@ -4,7 +4,7 @@ TOCTitle: Loan an item to a worker, contact, or applicant
 ms:assetid: 280c7e2f-6e3c-4208-862e-4cb6963af940
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496837(v=AX.60)
 ms:contentKeyID: 36676378
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Create a schedule based on a project in Microsoft Dynamics
 ms:assetid: dd3cb698-22af-4b4f-9264-f68f307344b3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227409(v=AX.60)
 ms:contentKeyID: 36059681
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Assign workers to projects based on availability'
 ms:assetid: 4e390353-cec1-4cd3-b1d1-de67f216adef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208763(v=AX.60)
 ms:contentKeyID: 36057047
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

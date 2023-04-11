@@ -4,7 +4,7 @@ TOCTitle: Leads configuration key (SmmLead)
 ms:assetid: 3c54c1e3-5deb-4f26-bd97-197cfef1adf4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416659(v=AX.60)
 ms:contentKeyID: 36931825
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (LTU) Project management and accounting
 ms:assetid: 1ae9c5db-0030-430c-b174-b1455ce422d7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665027(v=AX.60)
 ms:contentKeyID: 49386610
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

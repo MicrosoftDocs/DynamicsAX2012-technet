@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Order items and services from a catalog'
 ms:assetid: 7fe13bf9-be99-49df-8da0-bff0df85235c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271579(v=AX.60)
 ms:contentKeyID: 36384210
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (JPN) Accounts payable
 ms:assetid: 922917b4-05c8-4119-b86a-c3003aee2804
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711093(v=AX.60)
 ms:contentKeyID: 49386504
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

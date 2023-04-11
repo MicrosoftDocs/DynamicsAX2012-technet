@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Collections'
 ms:assetid: 07ca5728-3521-47d2-9426-f2c34eb5c194
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242116(v=AX.60)
 ms:contentKeyID: 36055970
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

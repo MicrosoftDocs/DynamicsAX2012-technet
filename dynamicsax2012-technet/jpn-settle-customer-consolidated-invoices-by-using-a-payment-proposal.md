@@ -4,7 +4,7 @@ TOCTitle: (JPN) Settle customer consolidated invoices by using a payment proposa
 ms:assetid: 121c408e-a706-4fa1-88cd-1754f8d70aae
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711007(v=AX.60)
 ms:contentKeyID: 49386420
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up vendor category requests'
 ms:assetid: e0a34904-3bbc-40bd-9324-a5d09c49f21d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227421(v=AX.60)
 ms:contentKeyID: 36059704
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

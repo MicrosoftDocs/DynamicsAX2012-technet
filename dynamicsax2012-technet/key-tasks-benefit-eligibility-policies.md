@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Benefit eligibility policies'
 ms:assetid: 7c5cdb65-4ccd-4ec8-94f4-0a2077f749cb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677345(v=AX.60)
 ms:contentKeyID: 49384119
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

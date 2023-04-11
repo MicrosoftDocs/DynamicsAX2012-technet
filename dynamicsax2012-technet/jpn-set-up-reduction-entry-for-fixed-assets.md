@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up reduction entry for fixed assets
 ms:assetid: 68f11d07-89ad-45bc-9552-0603f9d122af
 ms:mtpsurl: https://technet.microsoft.com/library/Dn518244(v=AX.60)
 ms:contentKeyID: 61223078
-author: Khairunj
+author: tonyafehr
 ms.date: 12/05/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Lean manufacturing license code (LeanManufacturing)
 ms:assetid: 23c502ac-47b9-4956-b4ba-ea9eb2514b44
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500661(v=AX.60)
 ms:contentKeyID: 37822134
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

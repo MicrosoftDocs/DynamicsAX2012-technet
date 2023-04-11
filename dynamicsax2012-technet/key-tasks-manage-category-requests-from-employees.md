@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage category requests from employees'
 ms:assetid: e304e9ef-0efa-4e21-b86b-6a5b3a364dd5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ735275(v=AX.60)
 ms:contentKeyID: 49693276
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

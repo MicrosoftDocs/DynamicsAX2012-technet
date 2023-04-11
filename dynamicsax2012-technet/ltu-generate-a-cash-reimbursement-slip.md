@@ -4,7 +4,7 @@ TOCTitle: (LTU) Generate a cash reimbursement slip
 ms:assetid: f17db486-1cd1-457b-91cd-16e0e212e282
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678095(v=AX.60)
 ms:contentKeyID: 49386819
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

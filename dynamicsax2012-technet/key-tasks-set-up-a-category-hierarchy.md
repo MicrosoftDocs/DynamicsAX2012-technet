@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up a category hierarchy'
 ms:assetid: 4612aa8c-96b2-4d9e-8b85-3f1bbf0b62bb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242386(v=AX.60)
 ms:contentKeyID: 36056900
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

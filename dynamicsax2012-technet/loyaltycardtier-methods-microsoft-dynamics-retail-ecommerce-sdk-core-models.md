@@ -4,7 +4,7 @@ TOCTitle: LoyaltyCardTier Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.LoyaltyCardTier
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.loyaltycardtier_methods(v=AX.60)
 ms:contentKeyID: 65316609
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (LTU) Accounts receivable
 ms:assetid: dce09ef7-0f2c-489e-8202-d1b583a6e55f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665207(v=AX.60)
 ms:contentKeyID: 49386788
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: BasePriceWithCurrency Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ListingPrice.BasePriceWithCurrency
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.listingprice.basepricewithcurrency(v=AX.60)
 ms:contentKeyID: 65317751
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

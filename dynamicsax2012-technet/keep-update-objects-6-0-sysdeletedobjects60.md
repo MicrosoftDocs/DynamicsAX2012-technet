@@ -4,7 +4,7 @@ TOCTitle: Keep update objects 6.0 (SysDeletedObjects60)
 ms:assetid: 86cd5720-c472-4e0e-b885-4f8488afa99b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500156(v=AX.60)
 ms:contentKeyID: 37820187
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

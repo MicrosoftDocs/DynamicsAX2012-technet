@@ -4,7 +4,7 @@ TOCTitle: WriteTrace Method (String, String, , UInt32, String, Object )
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.LoggingService.WriteTrace(System.String,System.String,Microsoft.SharePoint.Administration.TraceSeverity,System.UInt32,System.String,System.Object[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.loggingservice.writetrace(v=AX.60)
 ms:contentKeyID: 62205220
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

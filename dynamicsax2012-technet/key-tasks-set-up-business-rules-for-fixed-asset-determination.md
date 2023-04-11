@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up business rules for fixed asset determination'
 ms:assetid: 1851814e-c357-43ad-a8cd-0a548e7d1f18
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208442(v=AX.60)
 ms:contentKeyID: 36056096
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

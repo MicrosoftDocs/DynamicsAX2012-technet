@@ -4,7 +4,7 @@ TOCTitle: (JPN) Mark sales invoices for consolidation and calculate due dates
 ms:assetid: b7cf6ea2-e148-4ead-8bbd-7cc738341386
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664957(v=AX.60)
 ms:contentKeyID: 49386541
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

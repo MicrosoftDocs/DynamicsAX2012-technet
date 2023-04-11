@@ -4,7 +4,7 @@ TOCTitle: ItemVariantInventoryDimensionTableType Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.Types.ItemVariantInventoryDimensionTableType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.itemvariantinventorydimensiontabletype_methods(v=AX.60)
 ms:contentKeyID: 65319381
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up the terms of payment and the cutoff day for a customer
 ms:assetid: b313025b-d484-4ba7-a3b7-11e105300cad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711225(v=AX.60)
 ms:contentKeyID: 49386535
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

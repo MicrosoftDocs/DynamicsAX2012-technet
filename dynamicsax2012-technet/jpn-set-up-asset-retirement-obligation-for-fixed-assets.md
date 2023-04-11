@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up asset retirement obligation for fixed assets
 ms:assetid: 78081364-da7c-4af7-9cae-cffec0018bc9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479198(v=AX.60)
 ms:contentKeyID: 59633804
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

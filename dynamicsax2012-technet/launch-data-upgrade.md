@@ -4,7 +4,7 @@ TOCTitle: Launch data upgrade
 ms:assetid: 0413b647-718a-4371-984f-84fbdf685a24
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751344(v=AX.60)
 ms:contentKeyID: 35132530
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

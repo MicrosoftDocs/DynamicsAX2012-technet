@@ -4,7 +4,7 @@ TOCTitle: Learn about functional areas in RapidStart Services
 ms:assetid: a696fc08-0f54-4f3d-8f9c-9606eeefbdb8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413245(v=AX.60)
 ms:contentKeyID: 36918936
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

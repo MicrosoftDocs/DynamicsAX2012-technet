@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Pay for performance'
 ms:assetid: d81f848d-a147-4e55-a498-07679c2dbebf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781103(v=AX.60)
 ms:contentKeyID: 43894520
-author: Khairunj
+author: tonyafehr
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 audience: Application User

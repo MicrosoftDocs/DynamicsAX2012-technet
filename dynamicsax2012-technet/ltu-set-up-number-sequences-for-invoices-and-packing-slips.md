@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up number sequences for invoices and packing slips
 ms:assetid: 58b2d7d1-b370-4daf-aa78-cccbe0a2c616
 ms:mtpsurl: https://technet.microsoft.com/library/Dn133078(v=AX.60)
 ms:contentKeyID: 53348353
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

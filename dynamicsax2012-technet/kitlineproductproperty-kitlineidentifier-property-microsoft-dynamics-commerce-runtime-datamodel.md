@@ -4,7 +4,7 @@ TOCTitle: KitLineIdentifier Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitLineProductProperty.KitLineIdentifier
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitlineproductproperty.kitlineidentifier(v=AX.60)
 ms:contentKeyID: 62208425
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

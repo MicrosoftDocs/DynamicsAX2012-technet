@@ -4,7 +4,7 @@ TOCTitle: (JPN) Draw vendor payments through promissory notes
 ms:assetid: 8cf3e23c-2c68-46ac-aa66-a595f1afbf5b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711090(v=AX.60)
 ms:contentKeyID: 49386500
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

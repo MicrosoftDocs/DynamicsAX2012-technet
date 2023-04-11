@@ -4,7 +4,7 @@ TOCTitle: (JPN) About consolidating invoices
 ms:assetid: 8aa3b0dd-33ca-4a6a-ad1e-e488b5616909
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711087(v=AX.60)
 ms:contentKeyID: 49386499
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

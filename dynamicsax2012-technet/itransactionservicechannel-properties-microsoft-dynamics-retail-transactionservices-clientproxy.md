@@ -4,7 +4,7 @@ TOCTitle: ITransactionServiceChannel Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ITransactionServiceChannel
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.itransactionservicechannel_properties(v=AX.60)
 ms:contentKeyID: 49851463
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

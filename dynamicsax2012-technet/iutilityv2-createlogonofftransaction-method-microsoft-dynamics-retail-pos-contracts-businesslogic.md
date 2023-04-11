@@ -4,7 +4,7 @@ TOCTitle: CreateLogOnOffTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV2.CreateLogOnOffTransaction(System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv2.createlogonofftransaction(v=AX.60)
 ms:contentKeyID: 49849071
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

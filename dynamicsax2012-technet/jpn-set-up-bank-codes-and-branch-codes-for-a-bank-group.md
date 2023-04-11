@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up bank codes and branch codes for a bank group
 ms:assetid: 726f0e8e-e820-4f3c-a735-c6d63de7de7c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711075(v=AX.60)
 ms:contentKeyID: 49386486
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

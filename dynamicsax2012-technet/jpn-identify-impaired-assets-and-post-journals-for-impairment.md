@@ -4,7 +4,7 @@ TOCTitle: (JPN) Identify impaired assets and post journals for impairment
 ms:assetid: 836d62b1-bc88-470a-b56a-70261da6626d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn530767(v=AX.60)
 ms:contentKeyID: 59683045
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

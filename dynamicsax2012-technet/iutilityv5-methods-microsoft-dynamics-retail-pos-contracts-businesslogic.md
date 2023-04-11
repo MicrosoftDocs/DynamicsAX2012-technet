@@ -4,7 +4,7 @@ TOCTitle: IUtilityV5 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IUtilityV5
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iutilityv5_methods(v=AX.60)
 ms:contentKeyID: 62202345
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

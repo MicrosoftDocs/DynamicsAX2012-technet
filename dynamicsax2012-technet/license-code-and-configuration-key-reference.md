@@ -4,7 +4,7 @@ TOCTitle: License code and configuration key reference
 ms:assetid: 732b64a0-25bb-44ee-9254-dbecf10a63c9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh378074(v=AX.60)
 ms:contentKeyID: 36870656
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

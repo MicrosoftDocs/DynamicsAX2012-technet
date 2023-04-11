@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up vendor add requests'
 ms:assetid: 7cf92c10-76ff-4090-b9d6-15b97ffa6521
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209269(v=AX.60)
 ms:contentKeyID: 36058271
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

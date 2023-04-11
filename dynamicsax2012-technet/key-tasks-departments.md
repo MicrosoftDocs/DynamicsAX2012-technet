@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Departments'
 ms:assetid: 1ff7cc45-70e5-4c87-a148-e214aaea95ee
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208468(v=AX.60)
 ms:contentKeyID: 36056157
-author: Khairunj
+author: tonyafehr
 ms.date: 09/03/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: PaySalesOrder Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.TransactionServices.ITransactionServicesV1.PaySalesOrder(System.Boolean@,System.String@,System.String,System.Decimal,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.transactionservices.itransactionservicesv1.paysalesorder(v=AX.60)
 ms:contentKeyID: 47128956
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

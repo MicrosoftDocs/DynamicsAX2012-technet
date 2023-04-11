@@ -4,7 +4,7 @@ TOCTitle: (JPN) Depreciate and retire a fixed asset with asset retirement obliga
 ms:assetid: 0b24253e-e4d6-4563-931e-8d5fb76da572
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479197(v=AX.60)
 ms:contentKeyID: 59633803
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

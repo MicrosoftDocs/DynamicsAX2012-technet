@@ -4,7 +4,7 @@ TOCTitle: KitLineProductProperty Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitLineProductProperty
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitlineproductproperty_methods(v=AX.60)
 ms:contentKeyID: 62211842
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

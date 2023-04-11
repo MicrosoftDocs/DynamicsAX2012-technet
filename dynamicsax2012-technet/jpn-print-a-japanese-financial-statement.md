@@ -4,7 +4,7 @@ TOCTitle: (JPN) Print a Japanese financial statement
 ms:assetid: 10877d0c-a18d-4c58-95e5-a9e52b9785b4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711005(v=AX.60)
 ms:contentKeyID: 49386416
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up a number sequence code for the officials
 ms:assetid: 2c05ac0f-4c0a-4ff7-b055-b1629a018812
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665046(v=AX.60)
 ms:contentKeyID: 49386628
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

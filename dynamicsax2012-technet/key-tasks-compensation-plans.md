@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Compensation plans'
 ms:assetid: 8136620d-1758-4068-9348-2fd62273fc60
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781095(v=AX.60)
 ms:contentKeyID: 43894507
-author: Khairunj
+author: tonyafehr
 ms.date: 09/03/2014
 mtps_version: v=AX.60
 f1_keywords:

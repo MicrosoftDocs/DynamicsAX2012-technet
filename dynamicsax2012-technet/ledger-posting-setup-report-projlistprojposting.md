@@ -4,7 +4,7 @@ TOCTitle: Ledger posting setup report (ProjListProjPosting)
 ms:assetid: 53e037c9-3839-45e4-9b0b-7a68762b0beb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa582885(v=AX.60)
 ms:contentKeyID: 36941255
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

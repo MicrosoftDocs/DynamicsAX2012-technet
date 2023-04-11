@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage vendor payment retention for projects'
 ms:assetid: b84c57d9-256b-4a54-b223-c6afcdb10970
 ms:mtpsurl: https://technet.microsoft.com/library/Hh351823(v=AX.60)
 ms:contentKeyID: 36676406
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

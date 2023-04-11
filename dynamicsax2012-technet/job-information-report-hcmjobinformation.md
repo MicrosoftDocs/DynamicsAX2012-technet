@@ -4,7 +4,7 @@ TOCTitle: Job information report (HcmJobInformation)
 ms:assetid: 116d208e-507a-46d5-bbfe-8f958630e78a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870688(v=AX.60)
 ms:contentKeyID: 50469194
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

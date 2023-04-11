@@ -4,7 +4,7 @@ TOCTitle: KitLineProductProperty Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitLineProductProperty.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitlineproductproperty.kitlineproductproperty(v=AX.60)
 ms:contentKeyID: 62206744
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

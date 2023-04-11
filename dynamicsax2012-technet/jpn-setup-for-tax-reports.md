@@ -4,7 +4,7 @@ TOCTitle: (JPN) Setup for tax reports
 ms:assetid: 6c8fd05e-f034-49cb-838d-f65808e681d9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711071(v=AX.60)
 ms:contentKeyID: 49386483
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

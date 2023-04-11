@@ -4,7 +4,7 @@ TOCTitle: (LTU) Maintaining vendor information
 ms:assetid: f6eec906-badd-4e6a-bf80-90c48676b93a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678102(v=AX.60)
 ms:contentKeyID: 49386826
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Release products'
 ms:assetid: 2f55f42e-1c5a-4bfe-b7f0-288ff18cca6e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208544(v=AX.60)
 ms:contentKeyID: 36056298
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: List of Reporting Projects
 ms:assetid: 99cb0ac5-4c8b-41c6-af2a-7936e03690cb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496433(v=AX.60)
 ms:contentKeyID: 37072015
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

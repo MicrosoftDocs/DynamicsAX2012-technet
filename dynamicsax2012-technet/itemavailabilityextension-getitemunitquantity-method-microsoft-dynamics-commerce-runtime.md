@@ -4,7 +4,7 @@ TOCTitle: GetItemUnitQuantity Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ItemAvailabilityExtension.GetItemUnitQuantity(Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemAvailability)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.itemavailabilityextension.getitemunitquantity(v=AX.60)
 ms:contentKeyID: 65322448
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Vendor invoice policies'
 ms:assetid: cece6b77-79c6-43d1-9970-413da5f82465
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242911(v=AX.60)
 ms:contentKeyID: 36059472
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: FeatureActivated Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.LoggingServiceFeature.LoggingServiceFeatureEventReceiver.FeatureActivated(Microsoft.SharePoint.SPFeatureReceiverProperties)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.features.loggingservicefeature.loggingservicefeatureeventreceiver.featureactivated(v=AX.60)
 ms:contentKeyID: 62207185
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

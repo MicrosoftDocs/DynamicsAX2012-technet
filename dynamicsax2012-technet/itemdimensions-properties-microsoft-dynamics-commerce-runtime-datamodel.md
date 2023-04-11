@@ -4,7 +4,7 @@ TOCTitle: ItemDimensions Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemDimensions
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemdimensions_properties(v=AX.60)
 ms:contentKeyID: 49826703
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

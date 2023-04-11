@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Process production jobs in Manufacturing execution'
 ms:assetid: 7fbe1c7f-d6eb-4faa-aa28-9f12c158b91a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209297(v=AX.60)
 ms:contentKeyID: 36058334
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

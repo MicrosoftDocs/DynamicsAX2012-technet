@@ -4,7 +4,7 @@ TOCTitle: (JPN) Create row definitions for a Japanese financial statement
 ms:assetid: eaef2ea8-fecf-4d4e-a700-4c66185a1f87
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664984(v=AX.60)
 ms:contentKeyID: 49386568
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

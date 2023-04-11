@@ -4,7 +4,7 @@ TOCTitle: (JPN) Configure and calculate fixed asset depreciation
 ms:assetid: c6ea5abd-69bc-4767-81a0-249e9d2f1b71
 ms:mtpsurl: https://technet.microsoft.com/library/Dn473951(v=AX.60)
 ms:contentKeyID: 59371905
-author: Khairunj
+author: tonyafehr
 ms.date: 12/03/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: IssuedPoints Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.LoyaltyRewardPoint.IssuedPoints
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.loyaltyrewardpoint.issuedpoints(v=AX.60)
 ms:contentKeyID: 62209198
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

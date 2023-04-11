@@ -4,7 +4,7 @@ TOCTitle: KitLineDefinition Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitLineDefinition
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitlinedefinition_methods(v=AX.60)
 ms:contentKeyID: 62215227
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

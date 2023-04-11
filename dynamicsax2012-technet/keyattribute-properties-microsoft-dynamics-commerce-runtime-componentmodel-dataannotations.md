@@ -4,7 +4,7 @@ TOCTitle: KeyAttribute Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations.KeyAttribute
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.componentmodel.dataannotations.keyattribute_properties(v=AX.60)
 ms:contentKeyID: 65321161
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

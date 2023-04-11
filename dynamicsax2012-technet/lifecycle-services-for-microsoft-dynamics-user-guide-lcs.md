@@ -4,7 +4,7 @@ TOCTitle: Lifecycle Services for Microsoft Dynamics User Guide (LCS)
 ms:assetid: 9ec52ef7-1787-4ce0-bb99-47114a2f8abb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268616(v=AX.60)
 ms:contentKeyID: 54918854
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

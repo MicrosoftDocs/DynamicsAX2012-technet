@@ -4,7 +4,7 @@ TOCTitle: ItemUnitQuantity Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemUnitQuantity
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemunitquantity_properties(v=AX.60)
 ms:contentKeyID: 49847491
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

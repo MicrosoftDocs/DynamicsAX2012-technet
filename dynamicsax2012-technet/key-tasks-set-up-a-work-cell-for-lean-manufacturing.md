@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up a work cell for lean manufacturing'
 ms:assetid: 2af1e8c0-d77b-418f-8f7f-0c84a93a7a1d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208503(v=AX.60)
 ms:contentKeyID: 36056241
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

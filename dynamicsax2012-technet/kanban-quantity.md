@@ -4,7 +4,7 @@ TOCTitle: " kanban quantity"
 ms:assetid: DynamicsAXGlossary.1370642
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1370642(v=AX.60)
 ms:contentKeyID: 36057022
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

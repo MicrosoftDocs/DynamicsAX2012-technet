@@ -4,7 +4,7 @@ TOCTitle: (JPN) Apply reduction entry and depreciate fixed assets
 ms:assetid: 3785b26c-222e-4f76-b0e0-625f01e3bb92
 ms:mtpsurl: https://technet.microsoft.com/library/Dn518243(v=AX.60)
 ms:contentKeyID: 61223079
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

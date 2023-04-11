@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up and calculate the bank payment fees for a vendor
 ms:assetid: a1c51150-2032-4083-877f-30b30ae02ea0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn313058(v=AX.60)
 ms:contentKeyID: 54936304
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (LTU) Create a transfer packing slip for a fixed asset
 ms:assetid: caa254fa-81e8-4d77-aa72-695d15ef9667
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665191(v=AX.60)
 ms:contentKeyID: 49386772
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

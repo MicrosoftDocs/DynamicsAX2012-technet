@@ -4,7 +4,7 @@ TOCTitle: (JPN) Create sales tax reporting codes for Japan report layout
 ms:assetid: 313c8479-71b7-412b-b603-733091c477fa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711026(v=AX.60)
 ms:contentKeyID: 49386437
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

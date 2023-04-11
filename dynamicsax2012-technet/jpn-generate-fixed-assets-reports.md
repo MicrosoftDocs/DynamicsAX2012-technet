@@ -4,7 +4,7 @@ TOCTitle: (JPN) Generate Fixed assets reports
 ms:assetid: 8b0e06b3-a875-45df-af26-ab702374fc47
 ms:mtpsurl: https://technet.microsoft.com/library/Dn636900(v=AX.60)
 ms:contentKeyID: 61223080
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

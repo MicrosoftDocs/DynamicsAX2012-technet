@@ -4,7 +4,7 @@ TOCTitle: TaxRatePercent Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.LineTaxResult.TaxRatePercent
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.linetaxresult.taxratepercent(v=AX.60)
 ms:contentKeyID: 49826169
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

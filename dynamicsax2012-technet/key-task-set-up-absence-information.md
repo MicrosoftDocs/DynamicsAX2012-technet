@@ -4,7 +4,7 @@ TOCTitle: 'Key task: Set up absence information'
 ms:assetid: 2ad57f5f-78c0-41d3-88c4-1f6a55ddbb4f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496453(v=AX.60)
 ms:contentKeyID: 37072035
-author: Khairunj
+author: tonyafehr
 ms.date: 09/02/2014
 mtps_version: v=AX.60
 f1_keywords:

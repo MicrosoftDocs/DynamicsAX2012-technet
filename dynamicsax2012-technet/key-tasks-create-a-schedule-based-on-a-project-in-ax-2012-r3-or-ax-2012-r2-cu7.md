@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Create a schedule based on a project in AX 2012 R3 or AX 2
 ms:assetid: e55b39f0-f7ed-423b-beb2-0694660f556b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn529054(v=AX.60)
 ms:contentKeyID: 59643366
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

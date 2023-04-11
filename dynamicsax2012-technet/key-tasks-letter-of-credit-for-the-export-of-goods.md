@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Letter of credit for the export of goods'
 ms:assetid: 38f64566-5d72-4891-85cf-e237c72fed41
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242208(v=AX.60)
 ms:contentKeyID: 36056628
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

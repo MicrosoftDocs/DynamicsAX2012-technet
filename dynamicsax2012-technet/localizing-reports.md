@@ -4,7 +4,7 @@ TOCTitle: Localizing Reports
 ms:assetid: 17cdb422-e5d2-44fa-baf6-508605c975cc
 ms:mtpsurl: https://technet.microsoft.com/library/Cc566887(v=AX.60)
 ms:contentKeyID: 28119314
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

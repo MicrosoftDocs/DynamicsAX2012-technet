@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Create and submit a purchase requisition'
 ms:assetid: 606c8fa1-45ba-40ed-8b66-32b4a9fd921b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209152(v=AX.60)
 ms:contentKeyID: 36057620
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Review new vendor requests from employees'
 ms:assetid: cda48608-976b-423b-a6fe-d495dfd89707
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242908(v=AX.60)
 ms:contentKeyID: 36059463
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

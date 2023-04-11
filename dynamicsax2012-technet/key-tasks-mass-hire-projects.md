@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Mass hire projects'
 ms:assetid: ac834d58-a587-4234-94e2-49a1c6fcb8c0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh694715(v=AX.60)
 ms:contentKeyID: 42117770
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

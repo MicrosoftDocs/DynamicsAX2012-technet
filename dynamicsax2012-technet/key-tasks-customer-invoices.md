@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Customer invoices'
 ms:assetid: 284a30a9-ca94-4beb-b661-c4f13ab3a278
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208491(v=AX.60)
 ms:contentKeyID: 36056215
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

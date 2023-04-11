@@ -4,7 +4,7 @@ TOCTitle: (LTU) Set up a company address in the Lithuanian address format
 ms:assetid: fcb3a9e0-3dcc-4d5a-9868-cd8329b4e179
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678110(v=AX.60)
 ms:contentKeyID: 49386835
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

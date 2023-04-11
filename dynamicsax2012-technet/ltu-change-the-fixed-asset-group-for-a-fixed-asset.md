@@ -4,7 +4,7 @@ TOCTitle: (LTU) Change the fixed asset group for a fixed asset
 ms:assetid: 6d31f49c-d20b-4792-b57f-a9f2cdbf7cc5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665108(v=AX.60)
 ms:contentKeyID: 49386690
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

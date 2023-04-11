@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage prospective vendor requests'
 ms:assetid: e67d7faa-338f-42c5-ac29-c0ff5039cc6f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227458(v=AX.60)
 ms:contentKeyID: 36059803
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

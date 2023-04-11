@@ -4,7 +4,7 @@ TOCTitle: Clear Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.L2CacheDataStoreAccessor.Clear
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.l2cachedatastoreaccessor.clear(v=AX.60)
 ms:contentKeyID: 65321769
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

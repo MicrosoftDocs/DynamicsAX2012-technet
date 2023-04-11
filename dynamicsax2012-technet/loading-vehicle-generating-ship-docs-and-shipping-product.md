@@ -4,7 +4,7 @@ TOCTitle: Loading vehicle, generating ship docs and shipping product
 ms:assetid: bb5abfbb-afcd-441d-a443-92dbe6f0ac0c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213595(v=AX.60)
 ms:contentKeyID: 36059130
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

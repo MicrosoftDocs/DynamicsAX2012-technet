@@ -4,7 +4,7 @@ TOCTitle: (JPN) Configure for bill of exchange upgrade
 ms:assetid: 4cb380d8-be1e-4c21-8838-da0d6feaf934
 ms:mtpsurl: https://technet.microsoft.com/library/JJ714191(v=AX.60)
 ms:contentKeyID: 49651300
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

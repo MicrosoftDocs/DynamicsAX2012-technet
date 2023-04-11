@@ -4,7 +4,7 @@ TOCTitle: (JPN) Setting up and maintaining Accounts payable
 ms:assetid: f3ff6457-21a4-4099-bf36-8100c3e792b5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664990(v=AX.60)
 ms:contentKeyID: 49386575
-author: Khairunj
+author: tonyafehr
 ms.date: 02/22/2017
 mtps_version: v=AX.60
 audience: Application User

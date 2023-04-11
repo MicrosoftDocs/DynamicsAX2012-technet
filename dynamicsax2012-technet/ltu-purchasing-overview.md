@@ -4,7 +4,7 @@ TOCTitle: (LTU) Purchasing overview
 ms:assetid: f3da65af-c19d-41e6-a1a0-6a11bf8ed2fd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678096(v=AX.60)
 ms:contentKeyID: 49386820
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

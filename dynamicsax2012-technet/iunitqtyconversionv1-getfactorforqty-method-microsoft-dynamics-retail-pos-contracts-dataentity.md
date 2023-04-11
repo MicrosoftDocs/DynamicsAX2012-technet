@@ -4,7 +4,7 @@ TOCTitle: GetFactorForQty Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IUnitQtyConversionV1.GetFactorForQty(System.Decimal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iunitqtyconversionv1.getfactorforqty(v=AX.60)
 ms:contentKeyID: 49854044
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

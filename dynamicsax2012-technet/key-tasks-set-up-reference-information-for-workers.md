@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up reference information for workers'
 ms:assetid: d0e6bcbf-02be-47e2-be4a-fb08ab17aa0f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh454989(v=AX.60)
 ms:contentKeyID: 36993130
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

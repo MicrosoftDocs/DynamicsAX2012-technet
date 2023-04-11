@@ -4,7 +4,7 @@ TOCTitle: IsComponent Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.KitComponent.IsComponent
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.kitcomponent.iscomponent(v=AX.60)
 ms:contentKeyID: 62204762
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

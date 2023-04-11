@@ -4,7 +4,7 @@ TOCTitle: Equals Method (ItemVariantInventoryDimension)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemVariantInventoryDimension.Equals(Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemVariantInventoryDimension)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemvariantinventorydimension.equals(v=AX.60)
 ms:contentKeyID: 49841433
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: BeginClose Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ITransactionServiceChannel.BeginClose
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.itransactionservicechannel.beginclose(v=AX.60)
 ms:contentKeyID: 49851003
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

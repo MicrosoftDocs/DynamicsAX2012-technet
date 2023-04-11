@@ -4,7 +4,7 @@ TOCTitle: (JPN) Configuring required Accounts receivable information
 ms:assetid: 509914ce-c972-4f60-9d4a-8ede066ed036
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711048(v=AX.60)
 ms:contentKeyID: 49386460
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

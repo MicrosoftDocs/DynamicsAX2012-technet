@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up a consolidated invoice for a customer
 ms:assetid: a612d01c-12c4-4d62-be8d-0ed4bfe28fb1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711218(v=AX.60)
 ms:contentKeyID: 49386529
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

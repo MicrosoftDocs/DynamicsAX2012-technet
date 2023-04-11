@@ -4,7 +4,7 @@ TOCTitle: AvailableQuantity Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemAvailableStore.AvailableQuantity
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemavailablestore.availablequantity(v=AX.60)
 ms:contentKeyID: 65316059
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

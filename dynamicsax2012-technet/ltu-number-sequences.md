@@ -4,7 +4,7 @@ TOCTitle: (LTU) Number sequences
 ms:assetid: 6917df2b-3d9e-4879-913b-a1ed0c4ea8d0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665106(v=AX.60)
 ms:contentKeyID: 49386688
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

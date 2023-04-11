@@ -4,7 +4,7 @@ TOCTitle: ToString Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemUnit.ToString
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemunit.tostring(v=AX.60)
 ms:contentKeyID: 49831476
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

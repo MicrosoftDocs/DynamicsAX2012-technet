@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Set up a production flow'
 ms:assetid: b2a13b52-ed32-42b9-b5ec-6c9ec57d3c71
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527161(v=AX.60)
 ms:contentKeyID: 37823212
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

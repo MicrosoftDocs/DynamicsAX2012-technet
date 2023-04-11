@@ -4,7 +4,7 @@ TOCTitle: (JPN) Consumption tax report
 ms:assetid: 340a1f92-75f2-4a15-b8fe-49e96309bcd4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711028(v=AX.60)
 ms:contentKeyID: 49386439
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

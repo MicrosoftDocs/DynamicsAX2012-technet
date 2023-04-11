@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage customer payment retention for projects'
 ms:assetid: f25015ab-14b9-4a9a-9836-cc0d38980896
 ms:mtpsurl: https://technet.microsoft.com/library/Hh351824(v=AX.60)
 ms:contentKeyID: 36676419
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

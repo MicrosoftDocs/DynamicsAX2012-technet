@@ -4,7 +4,7 @@ TOCTitle: Items in quarantine report (InventQuarantineOrder)
 ms:assetid: c7068d7a-683c-495c-b34e-23ce68324095
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209581(v=AX.60)
 ms:contentKeyID: 36060409
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Consolidate purchase requisitions'
 ms:assetid: 7d1c7a88-9a03-48fb-9949-6207a37de651
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209279(v=AX.60)
 ms:contentKeyID: 36058293
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Applicants'
 ms:assetid: 9908ac96-9e7c-4e8a-83f5-db76ee498cbf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597184(v=AX.60)
 ms:contentKeyID: 39519249
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

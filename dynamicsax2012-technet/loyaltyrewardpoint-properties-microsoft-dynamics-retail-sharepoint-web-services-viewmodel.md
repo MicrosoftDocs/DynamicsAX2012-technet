@@ -4,7 +4,7 @@ TOCTitle: LoyaltyRewardPoint Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.LoyaltyRewardPoint
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.loyaltyrewardpoint_properties(v=AX.60)
 ms:contentKeyID: 62204207
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

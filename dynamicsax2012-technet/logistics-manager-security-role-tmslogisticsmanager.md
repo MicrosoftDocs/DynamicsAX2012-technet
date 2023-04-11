@@ -4,7 +4,7 @@ TOCTitle: Logistics manager security role (TMSLogisticsManager)
 ms:assetid: e5db6fff-305a-4e07-97e0-e3c6e3457843
 ms:mtpsurl: https://technet.microsoft.com/library/Dn743814(v=AX.60)
 ms:contentKeyID: 62279207
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Customer payments and settlements'
 ms:assetid: 18919f74-3ef6-4911-952b-549b206ae7ea
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208443(v=AX.60)
 ms:contentKeyID: 36056101
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

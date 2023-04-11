@@ -4,7 +4,7 @@ TOCTitle: (JPN) Create a calculation worksheet and print the consumption tax rep
 ms:assetid: a57449da-7ad9-4cec-aa51-44907c6b588b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711215(v=AX.60)
 ms:contentKeyID: 49386527
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

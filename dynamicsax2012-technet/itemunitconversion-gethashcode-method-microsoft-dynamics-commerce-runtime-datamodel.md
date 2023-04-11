@@ -4,7 +4,7 @@ TOCTitle: GetHashCode Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemUnitConversion.GetHashCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemunitconversion.gethashcode(v=AX.60)
 ms:contentKeyID: 49836724
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

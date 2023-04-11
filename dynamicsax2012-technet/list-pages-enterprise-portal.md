@@ -4,7 +4,7 @@ TOCTitle: List pages
 ms:assetid: e1d97b94-f4b0-49b8-b3a5-8b7749bf6f52
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227425(v=AX.60)
 ms:contentKeyID: 36059715
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

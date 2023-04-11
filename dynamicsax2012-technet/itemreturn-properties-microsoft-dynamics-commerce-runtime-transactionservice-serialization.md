@@ -4,7 +4,7 @@ TOCTitle: ItemReturn Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.ItemReturn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.itemreturn_properties(v=AX.60)
 ms:contentKeyID: 49849042
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

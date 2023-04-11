@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up a T-account journal and T-accounts
 ms:assetid: 019f4fff-944b-41a4-b84e-4ffa40820a10
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710995(v=AX.60)
 ms:contentKeyID: 49386408
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

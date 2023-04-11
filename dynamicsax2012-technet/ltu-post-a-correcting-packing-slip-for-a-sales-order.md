@@ -4,7 +4,7 @@ TOCTitle: (LTU) Post a correcting packing slip for a sales order
 ms:assetid: d25be5ab-a664-45f3-b3a2-0b670990a8e5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665194(v=AX.60)
 ms:contentKeyID: 49386776
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

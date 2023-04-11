@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up a consolidated invoice for a vendor
 ms:assetid: 491e16a5-2d73-46b9-b87d-438548bc5c87
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711044(v=AX.60)
 ms:contentKeyID: 49386455
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

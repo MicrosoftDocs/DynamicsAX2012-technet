@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up depreciation and depreciation methods
 ms:assetid: c8935f79-f46d-4fae-8ec4-851833bf349d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn408184(v=AX.60)
 ms:contentKeyID: 56285049
-author: Khairunj
+author: tonyafehr
 ms.date: 12/03/2014
 mtps_version: v=AX.60
 f1_keywords:

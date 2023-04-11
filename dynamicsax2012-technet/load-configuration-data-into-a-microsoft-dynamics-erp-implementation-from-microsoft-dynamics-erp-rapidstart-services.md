@@ -4,7 +4,7 @@ TOCTitle: Load configuration data into a Microsoft Dynamics ERP implementation f
 ms:assetid: e49f0a8b-c938-4982-8baf-2a9980953e0a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn194012(v=AX.60)
 ms:contentKeyID: 52348264
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

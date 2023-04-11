@@ -4,7 +4,7 @@ TOCTitle: Liquidate, extend, or cancel a letter of guarantee
 ms:assetid: fbcadb03-13c6-4a10-aa41-927a44b84e1e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227572(v=AX.60)
 ms:contentKeyID: 36060083
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

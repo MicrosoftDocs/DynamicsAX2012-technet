@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up and generate a cash flow statement
 ms:assetid: c4aa8754-db8c-4597-b719-1969bbefc314
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664967(v=AX.60)
 ms:contentKeyID: 49386551
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

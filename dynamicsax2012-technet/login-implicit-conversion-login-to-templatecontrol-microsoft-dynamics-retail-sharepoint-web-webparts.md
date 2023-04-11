@@ -4,7 +4,7 @@ TOCTitle: Implicit Conversion (Login to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Login)~System.Web.UI.TemplateControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.login.op_implicit(v=AX.60)
 ms:contentKeyID: 62203571
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

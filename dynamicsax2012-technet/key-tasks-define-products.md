@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Define products'
 ms:assetid: 0a7ebc8c-8684-4349-a403-3b30c33350ad
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242124(v=AX.60)
 ms:contentKeyID: 36055986
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

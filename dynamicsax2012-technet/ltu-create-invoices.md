@@ -4,7 +4,7 @@ TOCTitle: (LTU) Create invoices
 ms:assetid: fc2ab597-18d9-4c38-9683-dbd05f85a3d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678107(v=AX.60)
 ms:contentKeyID: 49386831
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

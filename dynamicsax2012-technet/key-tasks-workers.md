@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Workers'
 ms:assetid: dd673ce0-e287-4c1b-b6cd-f7c57a144392
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227410(v=AX.60)
 ms:contentKeyID: 36059683
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

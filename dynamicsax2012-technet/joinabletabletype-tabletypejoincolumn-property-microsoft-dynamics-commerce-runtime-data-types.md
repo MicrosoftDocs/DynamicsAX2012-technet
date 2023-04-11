@@ -4,7 +4,7 @@ TOCTitle: TableTypeJoinColumn Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.JoinableTableType.TableTypeJoinColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.joinabletabletype.tabletypejoincolumn(v=AX.60)
 ms:contentKeyID: 65320100
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Key tasks: Manage signing-limit policies'
 ms:assetid: b21300ed-94aa-4894-967b-8344e6ec1f50
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242748(v=AX.60)
 ms:contentKeyID: 36059057
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

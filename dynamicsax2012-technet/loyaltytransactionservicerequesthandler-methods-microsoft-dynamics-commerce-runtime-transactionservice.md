@@ -4,7 +4,7 @@ TOCTitle: LoyaltyTransactionServiceRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.TransactionService.LoyaltyTransactionServiceRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.loyaltytransactionservicerequesthandler_methods(v=AX.60)
 ms:contentKeyID: 65320498
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

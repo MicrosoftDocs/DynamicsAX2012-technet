@@ -4,7 +4,7 @@ TOCTitle: Equals Method (ItemWarehouse)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemWarehouse.Equals(Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemWarehouse)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemwarehouse.equals(v=AX.60)
 ms:contentKeyID: 49826214
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

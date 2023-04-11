@@ -4,7 +4,7 @@ TOCTitle: Load configuration data from RapidStart Services into a Microsoft Dyna
 ms:assetid: 77a09159-b04e-4159-85db-9e10618a1d94
 ms:mtpsurl: https://technet.microsoft.com/library/Dn193997(v=AX.60)
 ms:contentKeyID: 52348251
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

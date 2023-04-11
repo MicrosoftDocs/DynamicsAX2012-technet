@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up for bills of exchange
 ms:assetid: 6de3e247-e629-4043-8a70-d615b7558867
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711072(v=AX.60)
 ms:contentKeyID: 49386485
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (JPN) Set up financial statements
 ms:assetid: a4c9d3c7-1e88-42ce-8a32-e90ff830e73b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711211(v=AX.60)
 ms:contentKeyID: 49386522
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
