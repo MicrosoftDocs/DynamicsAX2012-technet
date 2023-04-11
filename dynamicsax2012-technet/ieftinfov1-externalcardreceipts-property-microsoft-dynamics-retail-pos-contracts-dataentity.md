@@ -4,7 +4,7 @@ TOCTitle: ExternalCardReceipts Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IEFTInfoV1.ExternalCardReceipts
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ieftinfov1.externalcardreceipts(v=AX.60)
 ms:contentKeyID: 47128081
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

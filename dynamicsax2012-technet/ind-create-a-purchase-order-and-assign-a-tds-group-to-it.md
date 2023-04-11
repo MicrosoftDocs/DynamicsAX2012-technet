@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a purchase order with TDS
 ms:assetid: 7faa8321-b7bd-44be-8a18-ea107190b9cc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677984(v=AX.60)
 ms:contentKeyID: 49385948
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

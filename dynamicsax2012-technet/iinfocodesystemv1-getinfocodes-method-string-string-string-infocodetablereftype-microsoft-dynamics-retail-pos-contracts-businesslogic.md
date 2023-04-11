@@ -4,7 +4,7 @@ TOCTitle: GetInfocodes Method (String, String, String, InfoCodeTableRefType)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IInfoCodeSystemV1.GetInfocodes(System.String,System.String,System.String,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.InfoCodeTableRefType)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iinfocodesystemv1.getinfocodes(v=AX.60)
 ms:contentKeyID: 47128860
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

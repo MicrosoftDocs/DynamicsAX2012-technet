@@ -4,7 +4,7 @@ TOCTitle: GetCardTypes Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.IChannelDataManager.GetCardTypes
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ichanneldatamanager.getcardtypes(v=AX.60)
 ms:contentKeyID: 62215021
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

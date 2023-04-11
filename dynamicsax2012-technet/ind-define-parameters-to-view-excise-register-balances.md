@@ -4,7 +4,7 @@ TOCTitle: (IND) Define parameters to view excise register balances
 ms:assetid: c06f0ae9-3e70-4619-9a91-bd1853223a57
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664862(v=AX.60)
 ms:contentKeyID: 49386192
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

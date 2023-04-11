@@ -4,7 +4,7 @@ TOCTitle: Import ISV upgraded layer model(s) into new model store
 ms:assetid: 5ff81125-b4a1-426f-bde9-7f9d7dee5549
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733492(v=AX.60)
 ms:contentKeyID: 49685461
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

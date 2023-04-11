@@ -4,7 +4,7 @@ TOCTitle: KeyLockSupervisorPositionEvent Event
 ms:assetid: E:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IKeyLockV1.KeyLockSupervisorPositionEvent
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ikeylockv1.keylocksupervisorpositionevent(v=AX.60)
 ms:contentKeyID: 47344140
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

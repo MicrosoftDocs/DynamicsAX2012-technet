@@ -4,7 +4,7 @@ TOCTitle: (IND) Number sequences for Indian financial documents
 ms:assetid: 134dd341-3bde-4ab1-b5a2-77a599ee7f26
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733169(v=AX.60)
 ms:contentKeyID: 49685137
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

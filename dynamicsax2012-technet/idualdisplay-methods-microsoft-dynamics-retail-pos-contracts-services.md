@@ -4,7 +4,7 @@ TOCTitle: IDualDisplay Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDualDisplay
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idualdisplay_methods(v=AX.60)
 ms:contentKeyID: 47343948
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

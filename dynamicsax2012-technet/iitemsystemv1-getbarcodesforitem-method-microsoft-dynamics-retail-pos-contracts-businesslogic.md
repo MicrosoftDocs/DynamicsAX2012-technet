@@ -4,7 +4,7 @@ TOCTitle: GetBarcodesForItem Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IItemSystemV1.GetBarcodesForItem(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iitemsystemv1.getbarcodesforitem(v=AX.60)
 ms:contentKeyID: 47128647
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

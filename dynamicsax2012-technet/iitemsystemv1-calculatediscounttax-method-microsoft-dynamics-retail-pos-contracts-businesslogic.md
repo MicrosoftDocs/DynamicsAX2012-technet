@@ -4,7 +4,7 @@ TOCTitle: CalculateDiscountTax Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IItemSystemV1.CalculateDiscountTax(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iitemsystemv1.calculatediscounttax(v=AX.60)
 ms:contentKeyID: 47128831
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

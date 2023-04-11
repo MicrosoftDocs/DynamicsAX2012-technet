@@ -4,7 +4,7 @@ TOCTitle: (IND) Create TDS ledger accounts
 ms:assetid: bbafe956-1c3c-4513-8be5-55dbd081009a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664838(v=AX.60)
 ms:contentKeyID: 49386168
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

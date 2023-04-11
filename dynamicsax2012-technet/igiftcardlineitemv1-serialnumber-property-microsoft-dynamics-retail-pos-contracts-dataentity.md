@@ -4,7 +4,7 @@ TOCTitle: SerialNumber Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IGiftCardLineItemV1.SerialNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.igiftcardlineitemv1.serialnumber(v=AX.60)
 ms:contentKeyID: 49847814
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Define the formula to calculate sales tax
 ms:assetid: 535ce6d4-95c8-4bd9-802e-5a78fbfcc507
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677819(v=AX.60)
 ms:contentKeyID: 49385782
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Manage service tax transactions for General ledger
 ms:assetid: e43378d2-1715-4819-ab89-9f548778c049
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710881(v=AX.60)
 ms:contentKeyID: 49386293
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

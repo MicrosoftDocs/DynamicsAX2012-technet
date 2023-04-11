@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate and post depreciation for a fixed asset group using de
 ms:assetid: 0cdee331-7c29-473e-8e05-f4e5bdd0207d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664481(v=AX.60)
 ms:contentKeyID: 49385560
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

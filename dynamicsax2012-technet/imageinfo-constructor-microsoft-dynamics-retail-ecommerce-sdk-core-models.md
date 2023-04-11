@@ -4,7 +4,7 @@ TOCTitle: ImageInfo Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ImageInfo.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.imageinfo.imageinfo(v=AX.60)
 ms:contentKeyID: 65316474
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

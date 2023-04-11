@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach an import invoice number and post the order
 ms:assetid: 2c5ce66f-fee6-4c7d-924a-7c5bde68cc48
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664584(v=AX.60)
 ms:contentKeyID: 49385662
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

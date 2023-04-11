@@ -4,7 +4,7 @@ TOCTitle: (IND) Maintain service tax transactions for Accounts receivable
 ms:assetid: a6252732-0167-4d46-a0bb-ebb1dcd4f028
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664741(v=AX.60)
 ms:contentKeyID: 49386072
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

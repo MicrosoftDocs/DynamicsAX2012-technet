@@ -4,7 +4,7 @@ TOCTitle: (IND) Manage sales tax transactions for General ledger
 ms:assetid: 0be7e99e-c022-42ec-a5dd-478e95cfa330
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664474(v=AX.60)
 ms:contentKeyID: 49385553
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

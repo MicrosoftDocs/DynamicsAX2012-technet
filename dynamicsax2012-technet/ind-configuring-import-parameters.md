@@ -4,7 +4,7 @@ TOCTitle: (IND) Configuring import parameters
 ms:assetid: ace3f744-1fc6-4656-8b4a-fadaba70de3f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664788(v=AX.60)
 ms:contentKeyID: 49386105
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: EntrySourceCode Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IEFTInfoV1.EntrySourceCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ieftinfov1.entrysourcecode(v=AX.60)
 ms:contentKeyID: 47128963
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

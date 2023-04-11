@@ -4,7 +4,7 @@ TOCTitle: (IND) Accounts receivable
 ms:assetid: a2b6b1be-a900-49ed-b98a-14d35efec667
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664750(v=AX.60)
 ms:contentKeyID: 49386081
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

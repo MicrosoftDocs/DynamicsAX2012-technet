@@ -4,7 +4,7 @@ TOCTitle: (IND) Define TCS group, PAN, and TAN information for customers
 ms:assetid: f6f047cf-9b72-4ccb-adfe-712fb99831d9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710943(v=AX.60)
 ms:contentKeyID: 49386355
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

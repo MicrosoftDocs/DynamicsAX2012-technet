@@ -4,7 +4,7 @@ TOCTitle: (IND) About EXIM duty drawback (DBK) incentive schemes
 ms:assetid: 8c0c6201-6e45-47aa-a3b1-0c3bdd543b22
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678028(v=AX.60)
 ms:contentKeyID: 49385989
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

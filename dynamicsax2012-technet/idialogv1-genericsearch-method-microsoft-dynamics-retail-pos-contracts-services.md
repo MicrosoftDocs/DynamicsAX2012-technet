@@ -4,7 +4,7 @@ TOCTitle: GenericSearch Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialogV1.GenericSearch(System.Data.DataTable,System.Data.DataRow@)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.genericsearch(v=AX.60)
 ms:contentKeyID: 47343917
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

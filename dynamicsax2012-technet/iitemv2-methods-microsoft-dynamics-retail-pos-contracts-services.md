@@ -4,7 +4,7 @@ TOCTitle: IItemV2 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IItemV2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iitemv2_methods(v=AX.60)
 ms:contentKeyID: 62203695
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

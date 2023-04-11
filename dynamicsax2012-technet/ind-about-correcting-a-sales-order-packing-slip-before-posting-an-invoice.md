@@ -4,7 +4,7 @@ TOCTitle: (IND) About correcting a sales order packing slip before posting an in
 ms:assetid: 89be5f86-d277-41b9-b333-8b69b0d45dce
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678003(v=AX.60)
 ms:contentKeyID: 49385964
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

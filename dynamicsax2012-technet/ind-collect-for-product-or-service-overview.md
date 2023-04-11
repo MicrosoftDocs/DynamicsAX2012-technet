@@ -4,7 +4,7 @@ TOCTitle: (IND) Collect for product or service overview
 ms:assetid: 55fb9025-b464-4ce4-a04e-cf9cd7352b5f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677828(v=AX.60)
 ms:contentKeyID: 49385792
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

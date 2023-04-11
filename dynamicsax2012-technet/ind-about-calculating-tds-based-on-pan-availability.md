@@ -4,7 +4,7 @@ TOCTitle: (IND) About calculating TDS based on PAN availability
 ms:assetid: 88e88c5b-efea-4550-b438-b832bdb56429
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678001(v=AX.60)
 ms:contentKeyID: 49385961
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

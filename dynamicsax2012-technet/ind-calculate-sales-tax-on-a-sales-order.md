@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate sales tax on a sales order
 ms:assetid: 7db941ff-36e6-4fb0-b917-5d06980d0e81
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677975(v=AX.60)
 ms:contentKeyID: 49385939
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

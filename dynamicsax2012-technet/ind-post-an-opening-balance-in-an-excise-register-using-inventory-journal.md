@@ -4,7 +4,7 @@ TOCTitle: (IND) Post an opening balance in an excise register using inventory jo
 ms:assetid: 959f3508-4bfb-4849-b007-def4ad27ae2f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664703(v=AX.60)
 ms:contentKeyID: 49386033
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

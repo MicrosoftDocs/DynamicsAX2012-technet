@@ -4,7 +4,7 @@ TOCTitle: GetValue Method (String, Type)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseResult.GetValue(System.String,System.Type)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.idatabaseresult.getvalue(v=AX.60)
 ms:contentKeyID: 65318157
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach sales tax codes to sales tax groups
 ms:assetid: 914fb9ce-c1a1-411a-8cb4-fa37df1c2616
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678035(v=AX.60)
 ms:contentKeyID: 49385995
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

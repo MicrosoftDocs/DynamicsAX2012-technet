@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate sales tax in an invoice approval journal
 ms:assetid: 9d03ab86-8b71-4c5c-852f-238c4f63a948
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664727(v=AX.60)
 ms:contentKeyID: 49386058
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

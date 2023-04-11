@@ -4,7 +4,7 @@ TOCTitle: (IND) About setting up service tax settlements
 ms:assetid: b1e5718b-d265-4b7e-b178-fab2142b77c1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664783(v=AX.60)
 ms:contentKeyID: 49386103
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: ICashTenderCountTransactionV1 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICashTenderCountTransactionV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.icashtendercounttransactionv1_properties(v=AX.60)
 ms:contentKeyID: 49843549
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a tax registration group
 ms:assetid: 01c516a8-8c97-4d04-9054-2e80ae0dbe4b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664429(v=AX.60)
 ms:contentKeyID: 49385517
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

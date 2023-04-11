@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach fixed asset numbers to fixed asset groups and value model
 ms:assetid: abd2febf-37bc-4911-916e-d4024f4a0467
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664762(v=AX.60)
 ms:contentKeyID: 49386093
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

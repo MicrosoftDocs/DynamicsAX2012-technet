@@ -4,7 +4,7 @@ TOCTitle: (IND) Create and post a sales return order for a not inventoried item
 ms:assetid: c01ca6d3-1445-4aec-9ea5-b8bce85b414e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664861(v=AX.60)
 ms:contentKeyID: 49386190
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

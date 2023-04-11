@@ -4,7 +4,7 @@ TOCTitle: (IND) Create credit notes in sales orders for service tax transactions
 ms:assetid: 325f4b6b-4276-43d6-bb69-745816876cff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664596(v=AX.60)
 ms:contentKeyID: 49385673
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

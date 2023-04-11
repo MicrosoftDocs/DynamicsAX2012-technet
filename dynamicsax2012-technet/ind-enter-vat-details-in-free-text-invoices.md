@@ -4,7 +4,7 @@ TOCTitle: (IND) Enter VAT details in free text invoices
 ms:assetid: 1e76dc58-bebb-4616-b2a8-3979f0607e67
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664543(v=AX.60)
 ms:contentKeyID: 49385622
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

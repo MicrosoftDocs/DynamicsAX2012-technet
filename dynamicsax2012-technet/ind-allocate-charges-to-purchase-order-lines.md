@@ -4,7 +4,7 @@ TOCTitle: (IND) Allocate charges to purchase order lines
 ms:assetid: 706feeb0-38b7-4714-9b72-fd2d68ea2e19
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677925(v=AX.60)
 ms:contentKeyID: 49385889
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

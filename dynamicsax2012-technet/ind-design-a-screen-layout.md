@@ -4,7 +4,7 @@ TOCTitle: (IND) Design a screen layout
 ms:assetid: 9b59412a-e095-43d4-ba98-67d351b51221
 ms:mtpsurl: https://technet.microsoft.com/library/Dn308520(v=AX.60)
 ms:contentKeyID: 54971746
-author: Khairunj
+author: tonyafehr
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 f1_keywords:

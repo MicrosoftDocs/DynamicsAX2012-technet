@@ -4,7 +4,7 @@ TOCTitle: (IND) Manage excise transactions for General ledger
 ms:assetid: a333e956-c70c-4804-98ae-cb70da4293a8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664753(v=AX.60)
 ms:contentKeyID: 49386084
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

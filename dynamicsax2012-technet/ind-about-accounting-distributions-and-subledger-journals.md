@@ -4,7 +4,7 @@ TOCTitle: (IND) About accounting distributions and subledger journals
 ms:assetid: d1193649-3950-4445-8748-1d6b53ef7133
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664902(v=AX.60)
 ms:contentKeyID: 49386233
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

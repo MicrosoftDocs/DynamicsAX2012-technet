@@ -4,7 +4,7 @@ TOCTitle: PutChannelConfiguration Method (ChannelConfiguration, Int64)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedChannelDataManager.PutChannelConfiguration(Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelConfiguration,System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedchanneldatamanager.putchannelconfiguration(v=AX.60)
 ms:contentKeyID: 62203252
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

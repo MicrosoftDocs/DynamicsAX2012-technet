@@ -4,7 +4,7 @@ TOCTitle: (IND) Adjust advance payments for TCS authority vendors
 ms:assetid: 239614be-12a4-4a10-baab-e9a15952828c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664556(v=AX.60)
 ms:contentKeyID: 49385634
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

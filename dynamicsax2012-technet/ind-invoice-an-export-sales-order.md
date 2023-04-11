@@ -4,7 +4,7 @@ TOCTitle: (IND) Invoice an export sales order
 ms:assetid: e5ff7862-3c4a-4c09-8f4b-caf7687cf7a3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710889(v=AX.60)
 ms:contentKeyID: 49386302
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

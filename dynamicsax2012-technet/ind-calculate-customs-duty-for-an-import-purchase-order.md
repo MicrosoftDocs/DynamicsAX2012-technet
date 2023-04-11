@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate customs duty for an import purchase order
 ms:assetid: 87d074bf-6b5a-411f-8bcf-c4ec7cc4658f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677992(v=AX.60)
 ms:contentKeyID: 49385955
-author: Khairunj
+author: tonyafehr
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:

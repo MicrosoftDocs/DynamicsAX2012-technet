@@ -4,7 +4,7 @@ TOCTitle: PartnerData Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILineItemV1.PartnerData
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ilineitemv1.partnerdata(v=AX.60)
 ms:contentKeyID: 49831438
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

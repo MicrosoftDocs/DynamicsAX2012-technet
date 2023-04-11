@@ -4,7 +4,7 @@ TOCTitle: (IND) Maintain VAT transactions for Accounts receivable
 ms:assetid: 3face482-8444-4a1e-a408-8cc8c1b1d039
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664642(v=AX.60)
 ms:contentKeyID: 49385721
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Import credit card transactions
 ms:assetid: 124fcf5e-85ce-4ea9-ab14-401e0f17d263
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230932(v=AX.60)
 ms:contentKeyID: 36811395
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: PutItemsByBarcode Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedItemDataManager.PutItemsByBarcode(System.String,Microsoft.Dynamics.Commerce.Runtime.ColumnSet,Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemBarcode)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icacheditemdatamanager.putitemsbybarcode(v=AX.60)
 ms:contentKeyID: 62214539
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

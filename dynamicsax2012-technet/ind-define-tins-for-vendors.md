@@ -4,7 +4,7 @@ TOCTitle: (IND) Define TINs for vendors
 ms:assetid: 0b6e6e17-bcc0-48ed-96c1-db696faf2951
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664471(v=AX.60)
 ms:contentKeyID: 49385550
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a tax setoff rule to settle an excise recoverable amount
 ms:assetid: 16a357bd-7ebf-43df-b956-5bf56b7cff7b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn344872(v=AX.60)
 ms:contentKeyID: 56117708
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

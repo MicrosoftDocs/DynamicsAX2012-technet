@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate TCS on payments and bills of exchange
 ms:assetid: f78917d5-ca32-4d3e-b0ff-f8f1aea36bca
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710945(v=AX.60)
 ms:contentKeyID: 49386357
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

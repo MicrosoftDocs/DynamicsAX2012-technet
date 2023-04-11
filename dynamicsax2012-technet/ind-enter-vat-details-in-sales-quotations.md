@@ -4,7 +4,7 @@ TOCTitle: (IND) Enter VAT details in sales quotations
 ms:assetid: a42d11a9-4465-4925-9443-87f1175995b8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664735(v=AX.60)
 ms:contentKeyID: 49386065
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

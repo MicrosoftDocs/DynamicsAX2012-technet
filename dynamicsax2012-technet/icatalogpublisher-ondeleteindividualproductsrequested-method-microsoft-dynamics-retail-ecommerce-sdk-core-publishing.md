@@ -4,7 +4,7 @@ TOCTitle: OnDeleteIndividualProductsRequested Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ICatalogPublisher.OnDeleteIndividualProductsRequested(System.Collections.Generic.IList{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ListingIdentity})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.icatalogpublisher.ondeleteindividualproductsrequested(v=AX.60)
 ms:contentKeyID: 65316326
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

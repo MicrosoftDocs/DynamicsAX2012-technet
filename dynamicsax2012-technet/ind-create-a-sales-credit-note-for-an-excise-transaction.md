@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a sales credit note for an excise transaction
 ms:assetid: e1c31c80-c4af-4dc1-862e-578ab462e7d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710898(v=AX.60)
 ms:contentKeyID: 49386313
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

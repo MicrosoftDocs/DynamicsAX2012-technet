@@ -4,7 +4,7 @@ TOCTitle: Import or export quick links
 ms:assetid: a55127a1-50fc-4033-8e8a-e683ec25cb73
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362022(v=AX.60)
 ms:contentKeyID: 39509597
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

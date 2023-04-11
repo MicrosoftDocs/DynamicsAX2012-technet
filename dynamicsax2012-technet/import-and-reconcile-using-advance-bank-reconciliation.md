@@ -4,7 +4,7 @@ TOCTitle: Import and reconcile using advance bank reconciliation
 ms:assetid: 5615a135-0cbb-45de-a2e0-07ddcc4ebd4e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ729753(v=AX.60)
 ms:contentKeyID: 49564919
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

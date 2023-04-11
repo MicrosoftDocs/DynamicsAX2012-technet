@@ -4,7 +4,7 @@ TOCTitle: (IND) Inquiries for EPCG transactions
 ms:assetid: 7cea9e69-9b1d-4dc9-8db3-730e8eb287a2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677964(v=AX.60)
 ms:contentKeyID: 49385929
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

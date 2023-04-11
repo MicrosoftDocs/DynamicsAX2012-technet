@@ -4,7 +4,7 @@ TOCTitle: (IND) Define type of shift and industry for value models and attach to
 ms:assetid: 5a76c5f3-1a6a-4811-8667-d03341338723
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677842(v=AX.60)
 ms:contentKeyID: 49385808
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

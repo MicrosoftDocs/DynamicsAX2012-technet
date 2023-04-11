@@ -4,7 +4,7 @@ TOCTitle: LogOnKey Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IExtendedLogOnInfoV1.LogOnKey
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iextendedlogoninfov1.logonkey(v=AX.60)
 ms:contentKeyID: 49821273
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

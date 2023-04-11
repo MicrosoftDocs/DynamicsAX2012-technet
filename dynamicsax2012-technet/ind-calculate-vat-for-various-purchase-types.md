@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate VAT for various purchase types
 ms:assetid: 48718f9a-908f-46e2-a288-fe045de36e79
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664671(v=AX.60)
 ms:contentKeyID: 49385734
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

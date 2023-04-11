@@ -4,7 +4,7 @@ TOCTitle: (IND) Maintain excise tax transactions for Accounts payable
 ms:assetid: b46b868d-184d-4bae-9d90-fd0309af7d98
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664817(v=AX.60)
 ms:contentKeyID: 49386151
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

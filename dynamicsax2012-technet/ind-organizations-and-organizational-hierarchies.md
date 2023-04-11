@@ -4,7 +4,7 @@ TOCTitle: (IND) Organizations and organizational hierarchies
 ms:assetid: 7ca331cc-bba4-4780-82bd-3e8e842b80ee
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677937(v=AX.60)
 ms:contentKeyID: 49385899
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

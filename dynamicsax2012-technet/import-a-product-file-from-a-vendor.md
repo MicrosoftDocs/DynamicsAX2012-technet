@@ -4,7 +4,7 @@ TOCTitle: Import a product file from a vendor
 ms:assetid: c3ea6a29-24e0-43d3-90dd-80d5bd4271bd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597236(v=AX.60)
 ms:contentKeyID: 39519310
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

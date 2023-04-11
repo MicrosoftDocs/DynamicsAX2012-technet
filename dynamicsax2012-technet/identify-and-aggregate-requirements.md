@@ -4,7 +4,7 @@ TOCTitle: Identify and aggregate requirements
 ms:assetid: 0b84da5f-cc1e-4b7f-bca1-f74b8040bb48
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230889(v=AX.60)
 ms:contentKeyID: 36055988
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

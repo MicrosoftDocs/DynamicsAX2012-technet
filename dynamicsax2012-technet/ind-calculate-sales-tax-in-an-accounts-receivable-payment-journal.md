@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate sales tax in an Accounts receivable payment journal
 ms:assetid: 0e740d81-1f2c-42c0-a630-ac621755d4bd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664488(v=AX.60)
 ms:contentKeyID: 49385567
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

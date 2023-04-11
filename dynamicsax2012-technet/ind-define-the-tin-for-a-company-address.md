@@ -4,7 +4,7 @@ TOCTitle: (IND) Define the TIN for a company address
 ms:assetid: 67cb4009-4111-4550-84c3-d47a5bba8351
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677887(v=AX.60)
 ms:contentKeyID: 49385850
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

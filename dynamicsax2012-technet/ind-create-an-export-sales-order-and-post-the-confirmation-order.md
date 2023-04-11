@@ -4,7 +4,7 @@ TOCTitle: (IND) Create an export sales order and post the confirmation order
 ms:assetid: 55f3b2c8-c233-4612-a8d9-9704f9f6c058
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677823(v=AX.60)
 ms:contentKeyID: 49385785
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

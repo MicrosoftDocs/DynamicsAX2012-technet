@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate TCS on invoices using the Free text invoice form
 ms:assetid: 88c279a9-12e4-440d-b2e8-1fd9a3b11968
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678022(v=AX.60)
 ms:contentKeyID: 49385983
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

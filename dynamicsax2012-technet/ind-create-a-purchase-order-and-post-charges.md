@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a purchase order and post charges
 ms:assetid: 7d47c31d-5f53-4c18-86c9-b7288f16936a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677944(v=AX.60)
 ms:contentKeyID: 49385907
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

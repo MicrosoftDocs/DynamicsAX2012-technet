@@ -4,7 +4,7 @@ TOCTitle: (IND) Create tax ledger posting groups for a customs tax type
 ms:assetid: 4b783ff9-3600-47b3-beb6-760fc6b8d004
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664678(v=AX.60)
 ms:contentKeyID: 49385751
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

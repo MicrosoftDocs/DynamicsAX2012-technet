@@ -4,7 +4,7 @@ TOCTitle: (IND) Activate challan information forms for a posted journal line wit
 ms:assetid: 5c893d02-239f-4e0d-b933-c6e7fcbdf272
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677850(v=AX.60)
 ms:contentKeyID: 49385814
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

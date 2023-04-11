@@ -4,7 +4,7 @@ TOCTitle: IDatabaseConnection Interface
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseConnection
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.idatabaseconnection(v=AX.60)
 ms:contentKeyID: 65318191
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

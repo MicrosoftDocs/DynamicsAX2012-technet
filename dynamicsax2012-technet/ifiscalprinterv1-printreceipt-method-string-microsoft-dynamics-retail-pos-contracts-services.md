@@ -4,7 +4,7 @@ TOCTitle: PrintReceipt Method (String)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IFiscalPrinterV1.PrintReceipt(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinterv1.printreceipt(v=AX.60)
 ms:contentKeyID: 62201863
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: ShowMessage Method (Int32, MessageBoxButtons)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialogV1.ShowMessage(System.Int32,System.Windows.Forms.MessageBoxButtons)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.showmessage(v=AX.60)
 ms:contentKeyID: 47343945
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

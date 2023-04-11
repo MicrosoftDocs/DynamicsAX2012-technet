@@ -4,7 +4,7 @@ TOCTitle: (IND) Activate service tax parameters
 ms:assetid: e9f6d275-aabd-42f7-b2f2-55e95ff3c5ab
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710924(v=AX.60)
 ms:contentKeyID: 49386336
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

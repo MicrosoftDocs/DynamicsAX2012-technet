@@ -4,7 +4,7 @@ TOCTitle: LogOn Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.ILogonLogoffSystemV1.LogOn(System.String,System.String,System.String,System.String,System.String@,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.ilogonlogoffsystemv1.logon(v=AX.60)
 ms:contentKeyID: 47129152
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

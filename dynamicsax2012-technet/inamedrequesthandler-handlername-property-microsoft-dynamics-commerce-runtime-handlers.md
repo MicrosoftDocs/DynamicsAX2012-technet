@@ -4,7 +4,7 @@ TOCTitle: HandlerName Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Handlers.INamedRequestHandler.HandlerName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.handlers.inamedrequesthandler.handlername(v=AX.60)
 ms:contentKeyID: 65320850
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

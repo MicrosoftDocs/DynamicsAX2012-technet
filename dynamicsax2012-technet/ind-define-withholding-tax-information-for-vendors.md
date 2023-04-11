@@ -4,7 +4,7 @@ TOCTitle: (IND) Define withholding tax information for vendors
 ms:assetid: c1bfad9a-3ad6-4245-8054-0d33cfbba163
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664873(v=AX.60)
 ms:contentKeyID: 49386203
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

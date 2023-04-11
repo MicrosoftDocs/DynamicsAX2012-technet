@@ -4,7 +4,7 @@ TOCTitle: (IND) About customer payments
 ms:assetid: 5347cd29-b5bb-4dcd-af46-3d8f08f6d63c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664700(v=AX.60)
 ms:contentKeyID: 49385774
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

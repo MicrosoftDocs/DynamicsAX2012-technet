@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a day-based fiscal calendar and fiscal year
 ms:assetid: 79f75b05-fe04-4cb9-9e85-029d6fd158c0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677949(v=AX.60)
 ms:contentKeyID: 49385913
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Create EXIM authorization schemes for confirmed sales orders
 ms:assetid: 1e6d00e3-54b0-4eae-a499-cd37c32f461a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664542(v=AX.60)
 ms:contentKeyID: 49385621
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

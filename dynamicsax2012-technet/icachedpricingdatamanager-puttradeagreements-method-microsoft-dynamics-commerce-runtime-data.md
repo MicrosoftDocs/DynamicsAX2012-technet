@@ -4,7 +4,7 @@ TOCTitle: PutTradeAgreements Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedPricingDataManager.PutTradeAgreements(Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceDiscountType,Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceDiscountItemCode,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceDiscountAccountCode,System.Collections.Generic.IEnumerable{System.String},System.String,System.String,System.Decimal,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant,System.DateTimeOffset,System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.TradeAgreement})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedpricingdatamanager.puttradeagreements(v=AX.60)
 ms:contentKeyID: 62203247
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

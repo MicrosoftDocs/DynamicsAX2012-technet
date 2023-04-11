@@ -4,7 +4,7 @@ TOCTitle: DisplayText Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ILineDisplay.DisplayText
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ilinedisplay.displaytext(v=AX.60)
 ms:contentKeyID: 47343911
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

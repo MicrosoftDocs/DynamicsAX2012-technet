@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach an EPCG incentive scheme to an import order
 ms:assetid: a533d482-4c3f-4741-a6ba-db7ca61b196d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664737(v=AX.60)
 ms:contentKeyID: 49386069
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

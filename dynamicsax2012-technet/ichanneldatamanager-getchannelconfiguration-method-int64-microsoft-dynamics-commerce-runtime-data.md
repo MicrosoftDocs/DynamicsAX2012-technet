@@ -4,7 +4,7 @@ TOCTitle: GetChannelConfiguration Method (Int64)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IChannelDataManager.GetChannelConfiguration(System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ichanneldatamanager.getchannelconfiguration(v=AX.60)
 ms:contentKeyID: 62209993
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

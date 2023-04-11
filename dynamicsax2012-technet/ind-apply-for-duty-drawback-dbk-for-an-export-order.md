@@ -4,7 +4,7 @@ TOCTitle: (IND) Apply for duty drawback (DBK) for an export order
 ms:assetid: 98e4fa44-5d89-4960-b687-3a3f42cc431a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678062(v=AX.60)
 ms:contentKeyID: 49386023
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

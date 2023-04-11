@@ -4,7 +4,7 @@ TOCTitle: IDiscountTriggerV2 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IDiscountTriggerV2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.idiscounttriggerv2_methods(v=AX.60)
 ms:contentKeyID: 49851452
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (IND) Enable customs and EXIM incentive schemes
 ms:assetid: 92fcbbf0-c466-4f28-951f-78e1c955c3b5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678061(v=AX.60)
 ms:contentKeyID: 49386022
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

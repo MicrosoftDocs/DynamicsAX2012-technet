@@ -4,7 +4,7 @@ TOCTitle: (IND) Enter concession certificate information for withholding tax cod
 ms:assetid: 3b9170dd-858f-45c4-9aeb-84f83f6f53f3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664637(v=AX.60)
 ms:contentKeyID: 49385714
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

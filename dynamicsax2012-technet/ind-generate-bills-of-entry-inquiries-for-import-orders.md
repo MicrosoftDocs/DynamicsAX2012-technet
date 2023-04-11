@@ -4,7 +4,7 @@ TOCTitle: (IND) Generate bills of entry inquiries for import orders
 ms:assetid: f68de257-d4cd-4d49-8c95-d9a2ab8cb777
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710962(v=AX.60)
 ms:contentKeyID: 49386374
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

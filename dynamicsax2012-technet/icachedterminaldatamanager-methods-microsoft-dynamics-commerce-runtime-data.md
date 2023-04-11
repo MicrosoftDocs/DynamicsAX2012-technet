@@ -4,7 +4,7 @@ TOCTitle: ICachedTerminalDataManager Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedTerminalDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedterminaldatamanager_methods(v=AX.60)
 ms:contentKeyID: 62213059
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

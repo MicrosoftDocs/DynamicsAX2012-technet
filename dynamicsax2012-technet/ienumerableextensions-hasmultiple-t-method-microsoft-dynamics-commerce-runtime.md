@@ -4,7 +4,7 @@ TOCTitle: HasMultiple(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.IEnumerableExtensions.HasMultiple``1(System.Collections.Generic.IEnumerable{``0})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn695837(v=AX.60)
 ms:contentKeyID: 62207244
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

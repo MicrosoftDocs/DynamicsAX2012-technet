@@ -4,7 +4,7 @@ TOCTitle: GetChargeConfigurationsByHeader Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IChargeDataManager.GetChargeConfigurationsByHeader(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeLevel,Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeConfigurationHeader)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ichargedatamanager.getchargeconfigurationsbyheader(v=AX.60)
 ms:contentKeyID: 65322644
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

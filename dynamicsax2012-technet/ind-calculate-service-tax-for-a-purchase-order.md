@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate service tax for a purchase order
 ms:assetid: e83a922e-d0bc-4d60-87c6-d35d39f4e2b6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710917(v=AX.60)
 ms:contentKeyID: 49386329
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

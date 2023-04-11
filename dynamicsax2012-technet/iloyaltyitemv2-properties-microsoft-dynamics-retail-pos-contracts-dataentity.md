@@ -4,7 +4,7 @@ TOCTitle: ILoyaltyItemV2 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILoyaltyItemV2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iloyaltyitemv2_properties(v=AX.60)
 ms:contentKeyID: 62202039
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

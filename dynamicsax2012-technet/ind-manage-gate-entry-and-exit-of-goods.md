@@ -4,7 +4,7 @@ TOCTitle: (IND) Manage gate entry and exit of goods
 ms:assetid: 5346537b-e655-47d8-9e59-c7bbc06fac32
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876577(v=AX.60)
 ms:contentKeyID: 63378993
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a tax journal for customs
 ms:assetid: 7ddc9f42-5f75-404a-a863-f27b31d9793d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677974(v=AX.60)
 ms:contentKeyID: 49385937
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

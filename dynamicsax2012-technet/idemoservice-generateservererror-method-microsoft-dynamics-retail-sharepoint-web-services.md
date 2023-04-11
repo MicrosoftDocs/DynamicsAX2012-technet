@@ -4,7 +4,7 @@ TOCTitle: GenerateServerError Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.IDemoService.GenerateServerError
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.idemoservice.generateservererror(v=AX.60)
 ms:contentKeyID: 62204208
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

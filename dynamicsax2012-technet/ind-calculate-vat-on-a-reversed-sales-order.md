@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate VAT on a reversed sales order
 ms:assetid: ca7d98c8-4ed2-4fae-9961-3678f3683b52
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664914(v=AX.60)
 ms:contentKeyID: 49386243
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

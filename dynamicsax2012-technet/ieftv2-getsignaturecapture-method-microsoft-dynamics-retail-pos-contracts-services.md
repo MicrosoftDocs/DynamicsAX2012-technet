@@ -4,7 +4,7 @@ TOCTitle: GetSignatureCapture Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IEFTV2.GetSignatureCapture
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ieftv2.getsignaturecapture(v=AX.60)
 ms:contentKeyID: 49845355
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

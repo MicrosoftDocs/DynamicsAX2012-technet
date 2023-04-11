@@ -4,7 +4,7 @@ TOCTitle: IMSR Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IMSR
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.imsr_events(v=AX.60)
 ms:contentKeyID: 47343929
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

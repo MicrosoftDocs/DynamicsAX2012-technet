@@ -4,7 +4,7 @@ TOCTitle: Identify Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IBiometricDeviceV1.Identify(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IExtendedLogOnInfo,System.Collections.Generic.ICollection{System.Byte[]})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ibiometricdevicev1.identify(v=AX.60)
 ms:contentKeyID: 49843783
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

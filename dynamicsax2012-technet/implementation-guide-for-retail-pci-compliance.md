@@ -4,7 +4,7 @@ TOCTitle: Implementation guide for Retail PCI compliance
 ms:assetid: 5f2b8063-fc65-43a4-ba5b-0f2499d032f5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn385337(v=AX.60)
 ms:contentKeyID: 56554590
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate VAT for various sales order types
 ms:assetid: 85d7f503-2f83-485c-b5ec-81b4374e30ce
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677985(v=AX.60)
 ms:contentKeyID: 49385949
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

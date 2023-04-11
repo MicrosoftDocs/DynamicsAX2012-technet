@@ -4,7 +4,7 @@ TOCTitle: (IND) Create service orders manually
 ms:assetid: e8cd47e7-ce2e-4939-9d6c-5351e51e9fad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710921(v=AX.60)
 ms:contentKeyID: 49386333
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

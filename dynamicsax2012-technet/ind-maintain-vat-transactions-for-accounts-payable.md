@@ -4,7 +4,7 @@ TOCTitle: (IND) Maintain VAT transactions for Accounts payable
 ms:assetid: 17f18cd5-eb55-46fd-aeb9-394e450fc046
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664517(v=AX.60)
 ms:contentKeyID: 49385596
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

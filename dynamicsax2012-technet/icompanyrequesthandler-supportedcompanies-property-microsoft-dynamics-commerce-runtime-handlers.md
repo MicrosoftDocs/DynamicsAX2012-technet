@@ -4,7 +4,7 @@ TOCTitle: SupportedCompanies Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Handlers.ICompanyRequestHandler.SupportedCompanies
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.handlers.icompanyrequesthandler.supportedcompanies(v=AX.60)
 ms:contentKeyID: 65322725
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Imported vendor catalogs overview
 ms:assetid: 28a7181b-1cfa-4f15-85a4-0ec3118ded8b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208492(v=AX.60)
 ms:contentKeyID: 36056216
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

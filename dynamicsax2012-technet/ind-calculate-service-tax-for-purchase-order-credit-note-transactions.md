@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate service tax for purchase order credit note transaction
 ms:assetid: 3ec8f7b8-0577-445b-b75a-fa1b44be8bdf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664639(v=AX.60)
 ms:contentKeyID: 49385717
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

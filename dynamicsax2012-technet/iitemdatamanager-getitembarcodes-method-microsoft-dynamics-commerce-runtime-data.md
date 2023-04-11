@@ -4,7 +4,7 @@ TOCTitle: GetItemBarcodes Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IItemDataManager.GetItemBarcodes(System.Collections.Generic.IEnumerable{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.iitemdatamanager.getitembarcodes(v=AX.60)
 ms:contentKeyID: 62210068
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

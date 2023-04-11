@@ -4,7 +4,7 @@ TOCTitle: (IND) Create EXIM authorization schemes for export orders
 ms:assetid: 780a8aeb-8733-433a-b963-229ed23ba61f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677943(v=AX.60)
 ms:contentKeyID: 49385906
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

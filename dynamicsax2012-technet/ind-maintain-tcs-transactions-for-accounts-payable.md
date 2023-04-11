@@ -4,7 +4,7 @@ TOCTitle: (IND) Maintain TCS transactions for Accounts payable
 ms:assetid: 0b9a4c9e-c40a-40e4-a2ed-9fabc28bee32
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664473(v=AX.60)
 ms:contentKeyID: 49385552
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Generate annexure 58 for returned items
 ms:assetid: f848a56d-09ad-4880-baea-2de0f4b592f5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876579(v=AX.60)
 ms:contentKeyID: 63378995
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

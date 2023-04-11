@@ -4,7 +4,7 @@ TOCTitle: (IND) Create tax codes for customs
 ms:assetid: 2b997829-3592-4334-ab1c-c64cf1eb0419
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664586(v=AX.60)
 ms:contentKeyID: 49385769
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

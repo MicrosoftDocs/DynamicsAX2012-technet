@@ -4,7 +4,7 @@ TOCTitle: Merge(TKey, TValue) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.IDictionaryExtensions.Merge``2(System.Collections.Generic.IDictionary{``0,``1},System.Collections.Generic.IEnumerable{System.Collections.Generic.KeyValuePair{``0,``1}})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn718436(v=AX.60)
 ms:contentKeyID: 62213559
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

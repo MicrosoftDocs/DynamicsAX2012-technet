@@ -4,7 +4,7 @@ TOCTitle: (IND) Create service tax codes
 ms:assetid: 1255067f-f900-4bbe-98fa-c7bb6976beb3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664498(v=AX.60)
 ms:contentKeyID: 49385577
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

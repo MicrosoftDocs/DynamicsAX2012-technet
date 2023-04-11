@@ -4,7 +4,7 @@ TOCTitle: ICashDrawerV1 Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICashDrawerV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icashdrawerv1_events(v=AX.60)
 ms:contentKeyID: 47344333
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

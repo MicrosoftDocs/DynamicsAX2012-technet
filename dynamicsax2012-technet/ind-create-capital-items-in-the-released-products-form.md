@@ -4,7 +4,7 @@ TOCTitle: (IND) Create capital items in the Released products form
 ms:assetid: f98d2e7d-f5b8-4bf0-a833-e84ecb20d65e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710974(v=AX.60)
 ms:contentKeyID: 49386386
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
