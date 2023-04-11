@@ -4,7 +4,7 @@ TOCTitle: Getting started
 ms:assetid: 30d8619b-cd71-4816-82f1-8248e9adff51
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731772(v=AX.60)
 ms:contentKeyID: 35132597
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define Groupings in a Data Region'
 ms:assetid: abd03155-dd57-4b20-8c6c-0ca7449493e1
 ms:mtpsurl: https://technet.microsoft.com/library/Cc635503(v=AX.60)
 ms:contentKeyID: 28119558
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

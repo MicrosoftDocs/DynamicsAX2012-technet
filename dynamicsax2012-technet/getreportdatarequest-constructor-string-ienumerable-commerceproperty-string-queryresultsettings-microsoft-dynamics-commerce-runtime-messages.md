@@ -4,7 +4,7 @@ TOCTitle: GetReportDataRequest Constructor (String, IEnumerable(CommerceProperty
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetReportDataRequest.#ctor(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceProperty},System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getreportdatarequest.getreportdatarequest(v=AX.60)
 ms:contentKeyID: 65321921
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

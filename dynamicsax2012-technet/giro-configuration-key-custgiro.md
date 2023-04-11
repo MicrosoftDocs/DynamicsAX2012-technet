@@ -4,7 +4,7 @@ TOCTitle: Giro configuration key (CustGiro)
 ms:assetid: 2787b0ca-7224-4e32-9e65-9935792c221a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467544(v=AX.60)
 ms:contentKeyID: 36991691
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

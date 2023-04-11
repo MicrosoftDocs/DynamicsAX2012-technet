@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define Interactive Sort on Fields in a Data Region'
 ms:assetid: 108acf7b-2404-4003-bf37-151d481bfb38
 ms:mtpsurl: https://technet.microsoft.com/library/Ee873246(v=AX.60)
 ms:contentKeyID: 28119310
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Human resource manager security role (HcmHumanResourceManager)
 ms:assetid: e1c54180-f97e-439d-9178-488da2793e7a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527144(v=AX.60)
 ms:contentKeyID: 37823195
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

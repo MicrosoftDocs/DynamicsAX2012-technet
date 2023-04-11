@@ -4,7 +4,7 @@ TOCTitle: (HUN) Receive and enter payments
 ms:assetid: 5edaa5c4-f8e7-4993-be5e-4514728d5b18
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664289(v=AX.60)
 ms:contentKeyID: 49385378
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

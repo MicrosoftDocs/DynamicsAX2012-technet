@@ -4,7 +4,7 @@ TOCTitle: Gross margin return on inventory investments (GMROII) by category repo
 ms:assetid: 1c95c1a9-6830-446d-85f4-a02e68e63e12
 ms:mtpsurl: https://technet.microsoft.com/library/JJ851125(v=AX.60)
 ms:contentKeyID: 50173434
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

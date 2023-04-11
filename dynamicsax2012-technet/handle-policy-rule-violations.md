@@ -4,7 +4,7 @@ TOCTitle: Handle policy rule violations
 ms:assetid: bc94cb39-d0a3-40cd-8ef2-fbd2da450082
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242770(v=AX.60)
 ms:contentKeyID: 36059135
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

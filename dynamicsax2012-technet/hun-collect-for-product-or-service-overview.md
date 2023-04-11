@@ -4,7 +4,7 @@ TOCTitle: (HUN) Collect for product or service overview
 ms:assetid: 7ecd9162-2215-4b99-9491-3fbcc9bfaba7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664318(v=AX.60)
 ms:contentKeyID: 49385407
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

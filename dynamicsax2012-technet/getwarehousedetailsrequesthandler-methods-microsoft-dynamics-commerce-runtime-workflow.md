@@ -4,7 +4,7 @@ TOCTitle: GetWarehouseDetailsRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetWarehouseDetailsRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getwarehousedetailsrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62207869
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

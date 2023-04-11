@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Basic Inbound Integration Port'
 ms:assetid: b127d90f-9402-4755-9df9-a660eb73d2bb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496439(v=AX.60)
 ms:contentKeyID: 37072021
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

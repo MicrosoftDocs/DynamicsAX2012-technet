@@ -4,7 +4,7 @@ TOCTitle: ItemId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStoreAvailabilityRealtimeRequest.ItemId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getstoreavailabilityrealtimerequest.itemid(v=AX.60)
 ms:contentKeyID: 65321767
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

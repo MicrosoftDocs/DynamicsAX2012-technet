@@ -4,7 +4,7 @@ TOCTitle: 'How to: Preview a Report Design'
 ms:assetid: 1066a063-4bfb-4f2e-926b-cf39fde4bf6d
 ms:mtpsurl: https://technet.microsoft.com/library/Cc519705(v=AX.60)
 ms:contentKeyID: 28119309
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Human resources II license code (HRMManagement)
 ms:assetid: 4a9d9ae0-1657-4593-abfc-b13eb29c2f8c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416674(v=AX.60)
 ms:contentKeyID: 36931831
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

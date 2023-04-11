@@ -4,7 +4,7 @@ TOCTitle: 'How to: List Models in a Model Store'
 ms:assetid: fd8c9a60-d3c0-4332-a296-2c973f8b89d8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433542(v=AX.60)
 ms:contentKeyID: 36941335
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

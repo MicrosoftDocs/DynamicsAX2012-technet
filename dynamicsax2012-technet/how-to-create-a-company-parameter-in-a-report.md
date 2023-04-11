@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Company Parameter in a Report'
 ms:assetid: cb6e7bb6-1dc6-4745-b8aa-e45553bde9fe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh533448(v=AX.60)
 ms:contentKeyID: 39056464
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

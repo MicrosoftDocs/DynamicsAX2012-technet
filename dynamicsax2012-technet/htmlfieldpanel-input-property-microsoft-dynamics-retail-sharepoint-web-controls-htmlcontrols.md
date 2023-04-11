@@ -4,7 +4,7 @@ TOCTitle: Input Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlFieldPanel.Input
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlfieldpanel.input(v=AX.60)
 ms:contentKeyID: 62205843
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

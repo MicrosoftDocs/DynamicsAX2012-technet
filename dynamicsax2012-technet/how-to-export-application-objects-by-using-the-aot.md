@@ -4,7 +4,7 @@ TOCTitle: 'How to: Export Application Objects by Using the AOT'
 ms:assetid: 4a7cae70-6025-47c1-94e6-8026ddba3668
 ms:mtpsurl: https://technet.microsoft.com/library/Aa605219(v=AX.60)
 ms:contentKeyID: 35243223
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

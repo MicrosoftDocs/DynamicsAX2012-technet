@@ -4,7 +4,7 @@ TOCTitle: PostLogon Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IApplicationTriggerV1.PostLogon(System.Boolean,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.iapplicationtriggerv1.postlogon(v=AX.60)
 ms:contentKeyID: 47128448
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

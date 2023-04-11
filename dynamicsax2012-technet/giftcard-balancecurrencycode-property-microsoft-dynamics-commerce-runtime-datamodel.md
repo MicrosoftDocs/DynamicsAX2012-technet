@@ -4,7 +4,7 @@ TOCTitle: BalanceCurrencyCode Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.GiftCard.BalanceCurrencyCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.giftcard.balancecurrencycode(v=AX.60)
 ms:contentKeyID: 62212378
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

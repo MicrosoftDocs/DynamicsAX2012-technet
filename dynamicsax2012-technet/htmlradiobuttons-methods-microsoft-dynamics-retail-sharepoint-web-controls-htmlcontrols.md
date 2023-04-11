@@ -4,7 +4,7 @@ TOCTitle: HtmlRadioButtons Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlRadioButtons
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlradiobuttons_methods(v=AX.60)
 ms:contentKeyID: 62202301
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

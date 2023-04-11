@@ -4,7 +4,7 @@ TOCTitle: (HUN) Close Accounts receivable overview
 ms:assetid: 9322b1c0-4b05-4fa8-a98c-012276431517
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728742(v=AX.60)
 ms:contentKeyID: 49556652
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

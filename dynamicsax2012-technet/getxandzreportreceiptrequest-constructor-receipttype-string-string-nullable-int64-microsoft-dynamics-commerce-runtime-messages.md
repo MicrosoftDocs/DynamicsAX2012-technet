@@ -4,7 +4,7 @@ TOCTitle: GetXAndZReportReceiptRequest Constructor (ReceiptType, String, String,
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetXAndZReportReceiptRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.ReceiptType,System.String,System.String,System.Nullable{System.Int64})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getxandzreportreceiptrequest.getxandzreportreceiptrequest(v=AX.60)
 ms:contentKeyID: 65317559
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

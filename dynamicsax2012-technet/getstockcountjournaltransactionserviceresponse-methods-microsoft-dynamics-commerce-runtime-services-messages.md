@@ -4,7 +4,7 @@ TOCTitle: GetStockCountJournalTransactionServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStockCountJournalTransactionServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getstockcountjournaltransactionserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 62212818
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

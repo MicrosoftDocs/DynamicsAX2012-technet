@@ -4,7 +4,7 @@ TOCTitle: 'How to: Import Pages into the AOT'
 ms:assetid: a7861d47-e9ef-4742-8661-036156113c86
 ms:mtpsurl: https://technet.microsoft.com/library/Cc616468(v=AX.60)
 ms:contentKeyID: 35245593
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

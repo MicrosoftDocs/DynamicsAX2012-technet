@@ -4,7 +4,7 @@ TOCTitle: (HUN) Setting up a tax reimbursement slip
 ms:assetid: f5780cc6-132c-4eee-b52a-7ac45db50a7a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664409(v=AX.60)
 ms:contentKeyID: 49385497
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

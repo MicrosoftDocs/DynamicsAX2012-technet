@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add a Data Region to a Report'
 ms:assetid: 1f78ad21-1c42-44c8-8289-18c0a007cb4a
 ms:mtpsurl: https://technet.microsoft.com/library/Cc584561(v=AX.60)
 ms:contentKeyID: 28119318
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

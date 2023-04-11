@@ -4,7 +4,7 @@ TOCTitle: 'How to: Find the Data Source For a Report'
 ms:assetid: aab91ecb-c126-4973-bfc3-cb505369406b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724092(v=AX.60)
 ms:contentKeyID: 35133450
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

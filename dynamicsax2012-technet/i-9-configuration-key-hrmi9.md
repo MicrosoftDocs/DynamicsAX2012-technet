@@ -4,7 +4,7 @@ TOCTitle: I-9 configuration key (HRMi9)
 ms:assetid: 51e4b5e4-b2a9-4671-ab94-9cd24c79ea18
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416677(v=AX.60)
 ms:contentKeyID: 36931834
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

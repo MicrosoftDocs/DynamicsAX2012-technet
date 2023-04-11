@@ -4,7 +4,7 @@ TOCTitle: Guidelines for Adding Code to Document Service Classes
 ms:assetid: 6acef8bb-5e1e-4642-952a-84c04ef768bb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa653971(v=AX.60)
 ms:contentKeyID: 35244790
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

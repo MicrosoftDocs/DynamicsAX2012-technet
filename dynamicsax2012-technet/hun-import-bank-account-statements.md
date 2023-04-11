@@ -4,7 +4,7 @@ TOCTitle: (HUN) Import bank account statements
 ms:assetid: 63b89980-94ef-4607-a332-2289b5e8a2d6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664295(v=AX.60)
 ms:contentKeyID: 49385384
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

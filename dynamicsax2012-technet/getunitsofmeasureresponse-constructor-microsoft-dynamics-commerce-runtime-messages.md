@@ -4,7 +4,7 @@ TOCTitle: GetUnitsOfMeasureResponse Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.GetUnitsOfMeasureResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getunitsofmeasureresponse.getunitsofmeasureresponse(v=AX.60)
 ms:contentKeyID: 62213336
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

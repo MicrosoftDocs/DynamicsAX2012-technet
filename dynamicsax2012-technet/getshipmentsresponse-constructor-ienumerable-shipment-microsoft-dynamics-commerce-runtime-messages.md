@@ -4,7 +4,7 @@ TOCTitle: GetShipmentsResponse Constructor (IEnumerable(Shipment))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetShipmentsResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getshipmentsresponse.getshipmentsresponse(v=AX.60)
 ms:contentKeyID: 49846381
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

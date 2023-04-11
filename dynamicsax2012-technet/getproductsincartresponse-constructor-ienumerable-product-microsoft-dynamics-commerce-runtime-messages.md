@@ -4,7 +4,7 @@ TOCTitle: GetProductsInCartResponse Constructor (IEnumerable(Product))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetProductsInCartResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.Product})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getproductsincartresponse.getproductsincartresponse(v=AX.60)
 ms:contentKeyID: 62206885
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

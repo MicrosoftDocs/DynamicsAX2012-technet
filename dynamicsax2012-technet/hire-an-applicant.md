@@ -4,7 +4,7 @@ TOCTitle: Hire an applicant
 ms:assetid: ebfc5320-1c4f-40ee-a232-4b67e956549f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551517(v=AX.60)
 ms:contentKeyID: 44081059
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

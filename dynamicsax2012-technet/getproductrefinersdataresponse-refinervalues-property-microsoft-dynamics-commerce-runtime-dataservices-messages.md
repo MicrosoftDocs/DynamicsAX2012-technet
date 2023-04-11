@@ -4,7 +4,7 @@ TOCTitle: RefinerValues Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductRefinersDataResponse.RefinerValues
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getproductrefinersdataresponse.refinervalues(v=AX.60)
 ms:contentKeyID: 65320956
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

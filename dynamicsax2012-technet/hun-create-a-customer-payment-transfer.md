@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create a customer payment transfer
 ms:assetid: 7169d037-c9f0-4be1-8d0a-1a593dbbb515
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664307(v=AX.60)
 ms:contentKeyID: 49385396
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

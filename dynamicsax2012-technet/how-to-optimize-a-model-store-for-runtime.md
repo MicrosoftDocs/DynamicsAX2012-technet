@@ -4,7 +4,7 @@ TOCTitle: 'How to: Optimize a Model Store for Runtime'
 ms:assetid: 84cd8b9d-fc39-45d9-8115-78383e2996b6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433531(v=AX.60)
 ms:contentKeyID: 36941319
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

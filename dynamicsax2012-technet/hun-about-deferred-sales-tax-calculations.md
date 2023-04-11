@@ -4,7 +4,7 @@ TOCTitle: (HUN) About deferred sales tax calculations
 ms:assetid: 3a8788c1-3efd-4faf-86b3-8f0999492c43
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664263(v=AX.60)
 ms:contentKeyID: 49385353
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

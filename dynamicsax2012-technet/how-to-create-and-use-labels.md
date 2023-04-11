@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create and Use Labels'
 ms:assetid: 2017ee25-394b-47c1-9432-9bd5e333a402
 ms:mtpsurl: https://technet.microsoft.com/library/Aa620083(v=AX.60)
 ms:contentKeyID: 35241543
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

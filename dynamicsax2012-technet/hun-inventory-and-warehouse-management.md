@@ -4,7 +4,7 @@ TOCTitle: (HUN) Inventory and warehouse management
 ms:assetid: 39d08230-1230-48c6-abf5-5efa23ecb207
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664261(v=AX.60)
 ms:contentKeyID: 49385350
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

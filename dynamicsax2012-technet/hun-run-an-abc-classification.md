@@ -4,7 +4,7 @@ TOCTitle: (HUN) Run an ABC classification
 ms:assetid: a9ed1818-1ed2-4c15-9b90-f67c8a1b3592
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664350(v=AX.60)
 ms:contentKeyID: 49385438
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

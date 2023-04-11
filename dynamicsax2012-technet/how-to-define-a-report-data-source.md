@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define a Report Data Source'
 ms:assetid: 275748a0-522d-4d6c-839b-4dad8d12a4e5
 ms:mtpsurl: https://technet.microsoft.com/library/Cc585332(v=AX.60)
 ms:contentKeyID: 28119324
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 f1_keywords:

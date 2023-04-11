@@ -4,7 +4,7 @@ TOCTitle: How to use product modeling
 ms:assetid: 1cb54ba6-b267-4cd4-9249-d9c3aab204a5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550968(v=AX.60)
 ms:contentKeyID: 36689189
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: History by customer transaction report (CustLedgerTrans)
 ms:assetid: eba247b3-e808-44a1-a280-77615f4cbcd2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa599765(v=AX.60)
 ms:contentKeyID: 36956717
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Menu Item for a Report'
 ms:assetid: 977bb61d-6f9e-4540-9d24-86a006980965
 ms:mtpsurl: https://technet.microsoft.com/library/Cc606402(v=AX.60)
 ms:contentKeyID: 28119533
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

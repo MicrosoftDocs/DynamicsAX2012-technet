@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define a Report with Dynamic Filters'
 ms:assetid: 35832fa4-e07b-4ead-ad53-87fb41a8939e
 ms:mtpsurl: https://technet.microsoft.com/library/Ee873252(v=AX.60)
 ms:contentKeyID: 28119340
-author: Khairunj
+author: tonyafehr
 ms.date: 10/12/2013
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: " human capital management cycle"
 ms:assetid: DynamicsAXGlossary.1512549
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1512549(v=AX.60)
 ms:contentKeyID: 36057678
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

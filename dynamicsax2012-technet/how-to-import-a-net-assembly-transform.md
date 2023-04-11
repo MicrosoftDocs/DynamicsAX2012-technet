@@ -4,7 +4,7 @@ TOCTitle: 'How to: Import a .NET Assembly Transform'
 ms:assetid: 972112ef-46a3-4432-8cf3-d79e83b5e438
 ms:mtpsurl: https://technet.microsoft.com/library/Gg879513(v=AX.60)
 ms:contentKeyID: 35247753
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

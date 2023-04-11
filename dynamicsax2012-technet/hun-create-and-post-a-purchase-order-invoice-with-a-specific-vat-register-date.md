@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create and post a purchase order invoice with a specific VAT reg
 ms:assetid: d213fdc0-51f0-4bbf-96c0-57eda34ec91e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664382(v=AX.60)
 ms:contentKeyID: 49385471
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

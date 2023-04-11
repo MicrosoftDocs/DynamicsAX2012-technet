@@ -4,7 +4,7 @@ TOCTitle: GetAndIncrementStoreSeed Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IApplicationServiceV1.GetAndIncrementStoreSeed(Microsoft.Dynamics.Retail.Pos.Contracts.Services.NumberSequenceSeedType)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iapplicationservicev1.getandincrementstoreseed(v=AX.60)
 ms:contentKeyID: 47343935
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

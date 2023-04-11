@@ -4,7 +4,7 @@ TOCTitle: (HUN) Working with Sales and marketing
 ms:assetid: f2ac2840-6c53-420e-84ec-f02368f76559
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664412(v=AX.60)
 ms:contentKeyID: 49385500
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

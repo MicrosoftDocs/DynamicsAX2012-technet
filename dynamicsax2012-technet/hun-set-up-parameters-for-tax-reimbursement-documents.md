@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up parameters for tax reimbursement documents
 ms:assetid: e117a608-cf6a-4af8-a9a8-adebce1501d2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664392(v=AX.60)
 ms:contentKeyID: 49385480
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

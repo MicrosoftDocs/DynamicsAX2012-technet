@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create an ODC file for a Business Overview Web Part'
 ms:assetid: 5adb5104-a84f-432b-aed0-6ecc5ce057fb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh128831(v=AX.60)
 ms:contentKeyID: 35588430
-author: Khairunj
+author: tonyafehr
 ms.date: 11/11/2013
 mtps_version: v=AX.60
 ---

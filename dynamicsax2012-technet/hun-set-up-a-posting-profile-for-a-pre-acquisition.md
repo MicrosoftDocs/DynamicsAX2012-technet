@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up a posting profile for a pre-acquisition
 ms:assetid: 7af6bb85-c2c9-4c49-9946-b59f71371866
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664310(v=AX.60)
 ms:contentKeyID: 49385399
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

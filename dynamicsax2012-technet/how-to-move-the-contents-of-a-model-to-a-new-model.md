@@ -4,7 +4,7 @@ TOCTitle: 'How to: Move the Contents of a Model to a New Model'
 ms:assetid: d9612531-19db-4487-b617-32a899f81ed4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433539(v=AX.60)
 ms:contentKeyID: 36941332
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

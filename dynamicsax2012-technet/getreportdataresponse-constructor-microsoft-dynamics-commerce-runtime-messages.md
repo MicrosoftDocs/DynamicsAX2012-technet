@@ -4,7 +4,7 @@ TOCTitle: GetReportDataResponse Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.GetReportDataResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getreportdataresponse.getreportdataresponse(v=AX.60)
 ms:contentKeyID: 62214453
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

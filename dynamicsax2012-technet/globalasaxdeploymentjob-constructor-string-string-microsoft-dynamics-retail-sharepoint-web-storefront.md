@@ -4,7 +4,7 @@ TOCTitle: GlobalASAXDeploymentJob Constructor (String, , String)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.GlobalASAXDeploymentJob.#ctor(System.String,Microsoft.SharePoint.Administration.SPWebApplication,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.globalasaxdeploymentjob.globalasaxdeploymentjob(v=AX.60)
 ms:contentKeyID: 62206246
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

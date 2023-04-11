@@ -4,7 +4,7 @@ TOCTitle: GetProductRefinersServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetProductRefinersServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getproductrefinersserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 65318824
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

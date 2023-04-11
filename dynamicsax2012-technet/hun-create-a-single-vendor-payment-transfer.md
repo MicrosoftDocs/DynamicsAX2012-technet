@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create a single vendor payment transfer
 ms:assetid: 9fe36acb-6575-4f98-a3bb-cb46275ceb1c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664341(v=AX.60)
 ms:contentKeyID: 49385430
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

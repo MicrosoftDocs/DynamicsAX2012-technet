@@ -4,7 +4,7 @@ TOCTitle: 'How to: Use a Query in a Report'
 ms:assetid: 1dc9040d-12ed-473a-9c09-242665ac8116
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456295(v=AX.60)
 ms:contentKeyID: 36997721
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

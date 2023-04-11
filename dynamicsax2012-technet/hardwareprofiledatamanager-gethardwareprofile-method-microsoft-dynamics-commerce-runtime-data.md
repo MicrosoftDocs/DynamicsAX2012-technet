@@ -4,7 +4,7 @@ TOCTitle: GetHardwareProfile Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.HardwareProfileDataManager.GetHardwareProfile(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.hardwareprofiledatamanager.gethardwareprofile(v=AX.60)
 ms:contentKeyID: 62215013
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

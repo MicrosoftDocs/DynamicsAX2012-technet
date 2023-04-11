@@ -4,7 +4,7 @@ TOCTitle: HtmlParagraph Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlParagraph
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlparagraph_properties(v=AX.60)
 ms:contentKeyID: 62207526
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

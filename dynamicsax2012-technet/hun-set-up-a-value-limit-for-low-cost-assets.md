@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up a value limit for low-cost assets
 ms:assetid: 7bab4f63-b8ae-4e53-a9d8-31ea69f6de4f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664312(v=AX.60)
 ms:contentKeyID: 49385401
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

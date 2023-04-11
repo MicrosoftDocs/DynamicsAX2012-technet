@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create and print a tax reimbursement document
 ms:assetid: 95573223-4fbe-4ee2-ba23-0a287510d3a5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664334(v=AX.60)
 ms:contentKeyID: 49385422
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

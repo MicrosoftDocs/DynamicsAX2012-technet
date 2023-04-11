@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up a ledger account for tax discrepancies
 ms:assetid: 60e558c3-bea0-45d2-b7b2-ff549b5d43f4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664290(v=AX.60)
 ms:contentKeyID: 49385379
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (HUN) Edit the invoice date on the customer transaction form
 ms:assetid: 673f3238-001b-405c-b314-363f83e8c1b0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664297(v=AX.60)
 ms:contentKeyID: 49385385
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

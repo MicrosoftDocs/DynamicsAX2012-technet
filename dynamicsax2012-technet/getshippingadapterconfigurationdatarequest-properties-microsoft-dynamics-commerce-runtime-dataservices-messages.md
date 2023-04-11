@@ -4,7 +4,7 @@ TOCTitle: GetShippingAdapterConfigurationDataRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetShippingAdapterConfigurationDataRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getshippingadapterconfigurationdatarequest_properties(v=AX.60)
 ms:contentKeyID: 65319167
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

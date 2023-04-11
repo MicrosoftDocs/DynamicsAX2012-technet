@@ -4,7 +4,7 @@ TOCTitle: Human resource II configuration key (HRMManagement)
 ms:assetid: cc144fb6-2c76-4cff-a2c5-7b2884f36283
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416688(v=AX.60)
 ms:contentKeyID: 36931849
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

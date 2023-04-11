@@ -4,7 +4,7 @@ TOCTitle: GetProductsInCartResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetProductsInCartResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getproductsincartresponse.getproductsincartresponse(v=AX.60)
 ms:contentKeyID: 62202407
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

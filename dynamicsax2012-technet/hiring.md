@@ -4,7 +4,7 @@ TOCTitle: Hiring
 ms:assetid: 501aa786-b204-4ac0-8771-f94c5cb8553e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh351820(v=AX.60)
 ms:contentKeyID: 36676387
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

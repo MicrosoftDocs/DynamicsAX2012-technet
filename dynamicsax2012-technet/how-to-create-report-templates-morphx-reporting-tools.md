@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create Report Templates'
 ms:assetid: 9138f635-8d6a-4383-8dd2-a6c0e3f89ca8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa661024(v=AX.60)
 ms:contentKeyID: 35290310
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

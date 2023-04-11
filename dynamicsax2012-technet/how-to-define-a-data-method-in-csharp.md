@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define a Data Method in C#'
 ms:assetid: b96b3a08-89c1-47bf-a388-acf066efd6df
 ms:mtpsurl: https://technet.microsoft.com/library/Cc636690(v=AX.60)
 ms:contentKeyID: 28119572
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

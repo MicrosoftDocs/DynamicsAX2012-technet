@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Document Query'
 ms:assetid: a6dea210-2723-4b34-96b8-8dcaa3ac5f76
 ms:mtpsurl: https://technet.microsoft.com/library/Aa851589(v=AX.60)
 ms:contentKeyID: 35248439
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

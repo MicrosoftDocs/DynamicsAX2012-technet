@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up an average exchange rate calculation
 ms:assetid: 2579c3e3-aa06-4214-8231-44e91475e215
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664239(v=AX.60)
 ms:contentKeyID: 49385328
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

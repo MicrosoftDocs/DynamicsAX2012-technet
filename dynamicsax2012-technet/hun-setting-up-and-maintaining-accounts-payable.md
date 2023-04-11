@@ -4,7 +4,7 @@ TOCTitle: (HUN) Setting up and maintaining Accounts payable
 ms:assetid: bca44356-7d76-4965-866a-6ef8c262d332
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664363(v=AX.60)
 ms:contentKeyID: 49385451
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

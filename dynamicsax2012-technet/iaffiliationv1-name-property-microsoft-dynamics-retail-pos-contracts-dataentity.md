@@ -4,7 +4,7 @@ TOCTitle: Name Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IAffiliationV1.Name
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iaffiliationv1.name(v=AX.60)
 ms:contentKeyID: 62203505
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

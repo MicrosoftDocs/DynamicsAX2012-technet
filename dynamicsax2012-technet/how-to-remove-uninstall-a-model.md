@@ -4,7 +4,7 @@ TOCTitle: 'How to: Remove (Uninstall) a Model'
 ms:assetid: 6552673a-a386-4349-9438-64c0de94ca7d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433514(v=AX.60)
 ms:contentKeyID: 36941295
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

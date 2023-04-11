@@ -4,7 +4,7 @@ TOCTitle: Hyper-V Benchmark for Microsoft Dynamics AX 2012
 ms:assetid: 68c32c12-0738-44c4-a42b-b25882643016
 ms:mtpsurl: https://technet.microsoft.com/library/Hh881829(v=AX.60)
 ms:contentKeyID: 45769251
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

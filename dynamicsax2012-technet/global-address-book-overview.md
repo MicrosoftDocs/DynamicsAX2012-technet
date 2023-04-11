@@ -4,7 +4,7 @@ TOCTitle: Global address book overview
 ms:assetid: 63e7cc64-2204-4bbe-9396-391e670d12b7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231541(v=AX.60)
 ms:contentKeyID: 36057700
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User

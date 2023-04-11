@@ -4,7 +4,7 @@ TOCTitle: AddRadioButton Method (String, String, Boolean, HtmlControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlRadioButtons.AddRadioButton(System.String,System.String,System.Boolean,System.Web.UI.HtmlControls.HtmlControl)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlradiobuttons.addradiobutton(v=AX.60)
 ms:contentKeyID: 62207667
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

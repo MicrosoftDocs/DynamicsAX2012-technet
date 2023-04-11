@@ -4,7 +4,7 @@ TOCTitle: (HUN) About indirect trade
 ms:assetid: 2ba9601b-8a73-4346-bbee-b77b17f12d10
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874423(v=AX.60)
 ms:contentKeyID: 50619740
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

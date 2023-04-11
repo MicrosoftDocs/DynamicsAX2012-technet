@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up the round-off weight for Intrastat transactions
 ms:assetid: 2b317d59-e456-4872-9279-4586eb28a5d7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664244(v=AX.60)
 ms:contentKeyID: 49385334
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

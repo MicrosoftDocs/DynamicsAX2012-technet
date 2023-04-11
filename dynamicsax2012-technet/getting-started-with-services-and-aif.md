@@ -4,7 +4,7 @@ TOCTitle: Getting started with services and AIF
 ms:assetid: 9e749bd4-6267-4d7b-a48b-d71d0d187c63
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731879(v=AX.60)
 ms:contentKeyID: 35132785
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

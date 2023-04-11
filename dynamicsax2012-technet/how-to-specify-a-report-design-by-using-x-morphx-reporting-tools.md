@@ -4,7 +4,7 @@ TOCTitle: 'How to: Specify a Report Design by Using X++'
 ms:assetid: 78f9b36b-cdcf-4b6f-8ab8-4881ba89ee18
 ms:mtpsurl: https://technet.microsoft.com/library/Aa611590(v=AX.60)
 ms:contentKeyID: 35290301
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up an export format
 ms:assetid: 2f9c4fd1-08ef-4f96-9008-ea347f245b01
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664251(v=AX.60)
 ms:contentKeyID: 49385340
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

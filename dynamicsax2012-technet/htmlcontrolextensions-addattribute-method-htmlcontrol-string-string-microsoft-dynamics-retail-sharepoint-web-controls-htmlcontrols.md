@@ -4,7 +4,7 @@ TOCTitle: AddAttribute Method (HtmlControl, String, String)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlControlExtensions.AddAttribute(System.Web.UI.HtmlControls.HtmlControl,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlcontrolextensions.addattribute(v=AX.60)
 ms:contentKeyID: 62207372
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

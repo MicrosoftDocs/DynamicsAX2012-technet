@@ -4,7 +4,7 @@ TOCTitle: 'How to: Print a Range of Pages from a Report'
 ms:assetid: 66caf3fa-436e-462f-a935-3b9ab0c5bab8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa609374(v=AX.60)
 ms:contentKeyID: 35290300
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

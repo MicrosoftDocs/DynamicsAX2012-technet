@@ -4,7 +4,7 @@ TOCTitle: (HUN) Specify cash round-off amounts for cash order lines
 ms:assetid: 4f64bf08-7dd6-42ae-86c5-cf1c72bb268c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664280(v=AX.60)
 ms:contentKeyID: 49385369
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

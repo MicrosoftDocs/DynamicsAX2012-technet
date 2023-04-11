@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add a Visual Studio Project to Microsoft Dynamics AX Version 
 ms:assetid: 387359f5-30f7-4433-94c4-0a804eb02050
 ms:mtpsurl: https://technet.microsoft.com/library/Gg886625(v=AX.60)
 ms:contentKeyID: 35267992
-author: Khairunj
+author: tonyafehr
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---

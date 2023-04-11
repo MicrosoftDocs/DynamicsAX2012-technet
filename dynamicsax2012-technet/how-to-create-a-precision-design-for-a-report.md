@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Precision Design for a Report'
 ms:assetid: 7749d609-65c9-4933-84c9-173e6cc37aca
 ms:mtpsurl: https://technet.microsoft.com/library/Cc593896(v=AX.60)
 ms:contentKeyID: 28119381
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

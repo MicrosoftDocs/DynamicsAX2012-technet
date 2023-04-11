@@ -4,7 +4,7 @@ TOCTitle: Gross profit in past periods chart report (LedgerGrossProfitinthePastX
 ms:assetid: 6346315b-8114-49ad-bf6d-fdf6a327bb74
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781078(v=AX.60)
 ms:contentKeyID: 43894478
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create Report Links'
 ms:assetid: 89cf087d-e2c7-4318-a49b-8c8179ac09be
 ms:mtpsurl: https://technet.microsoft.com/library/Bb314839(v=AX.60)
 ms:contentKeyID: 35290303
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: GetStoreLocationsResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetStoreLocationsResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getstorelocationsresponse_properties(v=AX.60)
 ms:contentKeyID: 49852616
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

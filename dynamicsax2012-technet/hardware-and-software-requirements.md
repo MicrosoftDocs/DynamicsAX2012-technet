@@ -4,7 +4,7 @@ TOCTitle: Hardware and software requirements
 ms:assetid: 9119f383-fc94-48c2-8e77-4eb83c656779
 ms:mtpsurl: https://technet.microsoft.com/library/Dd361989(v=AX.60)
 ms:contentKeyID: 35132761
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

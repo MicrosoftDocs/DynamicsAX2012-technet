@@ -4,7 +4,7 @@ TOCTitle: GetRemoteProductsByCategoryServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRemoteProductsByCategoryServiceRequest.#ctor(System.Int64,System.Nullable{System.Int64},System.Int64,System.String,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getremoteproductsbycategoryservicerequest.getremoteproductsbycategoryservicerequest(v=AX.60)
 ms:contentKeyID: 65319313
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (HUN) Transfer an EU purchase or EU sales transaction to the EU sales 
 ms:assetid: 81fe7963-42d1-45b2-8b53-27739cc0436a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664322(v=AX.60)
 ms:contentKeyID: 49385411
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

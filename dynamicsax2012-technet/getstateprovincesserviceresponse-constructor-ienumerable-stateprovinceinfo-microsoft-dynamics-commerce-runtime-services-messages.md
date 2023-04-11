@@ -4,7 +4,7 @@ TOCTitle: GetStateProvincesServiceResponse Constructor (IEnumerable(StateProvinc
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStateProvincesServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.StateProvinceInfo})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getstateprovincesserviceresponse.getstateprovincesserviceresponse(v=AX.60)
 ms:contentKeyID: 62211418
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

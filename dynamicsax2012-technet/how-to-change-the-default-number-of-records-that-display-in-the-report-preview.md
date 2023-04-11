@@ -4,7 +4,7 @@ TOCTitle: 'How to: Change the Default Number of Records that Display in the Repo
 ms:assetid: d0a62a8f-e8b5-4587-beb2-cd56c5d6cc43
 ms:mtpsurl: https://technet.microsoft.com/library/Ee910032(v=AX.60)
 ms:contentKeyID: 28119589
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

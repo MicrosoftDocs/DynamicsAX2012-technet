@@ -4,7 +4,7 @@ TOCTitle: 'How to: Export and Import a Model Store'
 ms:assetid: 754c52af-4025-4495-979c-f99d8c5b7d89
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433530(v=AX.60)
 ms:contentKeyID: 36941318
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

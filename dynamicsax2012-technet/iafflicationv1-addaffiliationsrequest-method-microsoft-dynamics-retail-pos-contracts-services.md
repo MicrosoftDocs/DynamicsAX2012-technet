@@ -4,7 +4,7 @@ TOCTitle: AddAffiliationsRequest Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IAfflicationV1.AddAffiliationsRequest(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction,System.Collections.Generic.IList{Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IAffiliation})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iafflicationv1.addaffiliationsrequest(v=AX.60)
 ms:contentKeyID: 62203931
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add or Delete a Field Group in a Data Region'
 ms:assetid: 0ea1fbf2-83be-47a3-9733-0ffb2c7768d6
 ms:mtpsurl: https://technet.microsoft.com/library/Ee873245(v=AX.60)
 ms:contentKeyID: 28119308
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

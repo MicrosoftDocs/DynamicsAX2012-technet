@@ -4,7 +4,7 @@ TOCTitle: (HUN) Link a prepayment to an advance invoice
 ms:assetid: f3cb6017-2a76-40fc-ab57-89be9b5429ca
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664407(v=AX.60)
 ms:contentKeyID: 49385495
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

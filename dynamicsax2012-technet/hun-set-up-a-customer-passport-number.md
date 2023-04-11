@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up a customer passport number
 ms:assetid: 4636289f-7d2e-491b-97af-fc5b4d289408
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664269(v=AX.60)
 ms:contentKeyID: 49385358
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

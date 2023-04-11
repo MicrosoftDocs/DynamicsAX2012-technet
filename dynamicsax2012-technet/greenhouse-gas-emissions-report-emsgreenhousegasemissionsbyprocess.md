@@ -4,7 +4,7 @@ TOCTitle: Greenhouse gas emissions report (EMSGreenhouseGasEmissionsByProcess)
 ms:assetid: eda222b8-25f3-4e84-bfef-5da109cf38c6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389752(v=AX.60)
 ms:contentKeyID: 36899731
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

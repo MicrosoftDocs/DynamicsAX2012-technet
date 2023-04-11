@@ -4,7 +4,7 @@ TOCTitle: SelectAffiliations Method (IList(String))
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IAfflicationV1.SelectAffiliations(System.Collections.Generic.IList{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iafflicationv1.selectaffiliations(v=AX.60)
 ms:contentKeyID: 62205927
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

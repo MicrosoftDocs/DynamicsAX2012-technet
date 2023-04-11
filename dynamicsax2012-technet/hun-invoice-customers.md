@@ -4,7 +4,7 @@ TOCTitle: (HUN) Invoice customers
 ms:assetid: 59d2a4c6-4a39-4439-84f4-179c1495e6a8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664284(v=AX.60)
 ms:contentKeyID: 49385373
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

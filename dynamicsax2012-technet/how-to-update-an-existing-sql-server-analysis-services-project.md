@@ -4,7 +4,7 @@ TOCTitle: 'How to: Update an Existing SQL Server Analysis Services Project'
 ms:assetid: bb15b5df-7080-432f-bef9-bdd8f1a233a0
 ms:mtpsurl: https://technet.microsoft.com/library/Cc618242(v=AX.60)
 ms:contentKeyID: 28119577
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2012
 mtps_version: v=AX.60
 ---

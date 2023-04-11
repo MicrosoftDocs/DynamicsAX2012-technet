@@ -4,7 +4,7 @@ TOCTitle: Grant users access to reports
 ms:assetid: 08d399b0-92b0-49b2-8e7b-9404ee227251
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496432(v=AX.60)
 ms:contentKeyID: 35132533
-author: Khairunj
+author: tonyafehr
 ms.date: 04/14/2015
 mtps_version: v=AX.60
 ---

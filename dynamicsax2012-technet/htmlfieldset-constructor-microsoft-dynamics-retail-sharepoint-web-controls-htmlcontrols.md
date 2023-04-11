@@ -4,7 +4,7 @@ TOCTitle: HtmlFieldSet Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlFieldSet.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlfieldset.htmlfieldset(v=AX.60)
 ms:contentKeyID: 62205026
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

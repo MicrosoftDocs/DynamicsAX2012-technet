@@ -4,7 +4,7 @@ TOCTitle: IApplicationV2 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.IApplicationV2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.iapplicationv2_properties(v=AX.60)
 ms:contentKeyID: 49839095
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

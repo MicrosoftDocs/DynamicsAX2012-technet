@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up parameters for the EU sales and purchases list
 ms:assetid: f68c2715-130d-4dc5-844a-04ff2480924c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733166(v=AX.60)
 ms:contentKeyID: 49685134
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

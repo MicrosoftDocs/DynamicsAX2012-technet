@@ -4,7 +4,7 @@ TOCTitle: (HUN) Customer advance invoices journal report (CustAdvanceInvoiceJour
 ms:assetid: 2fd61e93-b979-48d4-b28f-4f51f86829e8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn133209(v=AX.60)
 ms:contentKeyID: 53365027
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

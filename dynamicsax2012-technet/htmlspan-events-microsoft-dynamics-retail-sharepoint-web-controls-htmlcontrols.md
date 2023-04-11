@@ -4,7 +4,7 @@ TOCTitle: HtmlSpan Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlSpan
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlspan_events(v=AX.60)
 ms:contentKeyID: 62206293
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

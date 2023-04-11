@@ -4,7 +4,7 @@ TOCTitle: 'How to: Deploy an Existing SQL Server Analysis Services Project'
 ms:assetid: 55ee3a4b-5889-418a-9a02-756b65f5f00f
 ms:mtpsurl: https://technet.microsoft.com/library/Cc590284(v=AX.60)
 ms:contentKeyID: 28119357
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

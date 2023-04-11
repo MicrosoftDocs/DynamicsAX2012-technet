@@ -4,7 +4,7 @@ TOCTitle: HtmlFieldPanel Constructor (HtmlLabel, HtmlControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlFieldPanel.#ctor(Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlLabel,System.Web.UI.HtmlControls.HtmlControl)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlfieldpanel.htmlfieldpanel(v=AX.60)
 ms:contentKeyID: 62202365
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:
