@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up posting profiles for stock transfer
 ms:assetid: 7d455eef-ce03-46de-8c29-f9ebc97646b9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677967(v=AX.60)
 ms:contentKeyID: 49385930
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Working with Accounts payable
 ms:assetid: 6af5b825-803b-4bfb-aa1e-702bfae6eeff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677896(v=AX.60)
 ms:contentKeyID: 49385858
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

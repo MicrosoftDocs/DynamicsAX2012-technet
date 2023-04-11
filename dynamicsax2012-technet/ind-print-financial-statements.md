@@ -4,7 +4,7 @@ TOCTitle: (IND) Print financial statements
 ms:assetid: 161ab2e3-2ea9-4bd3-b137-86cbfabd1b39
 ms:mtpsurl: https://technet.microsoft.com/library/JJ682107(v=AX.60)
 ms:contentKeyID: 49655603
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

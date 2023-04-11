@@ -4,7 +4,7 @@ TOCTitle: PaySalesInvoice Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesInvoiceV2.PaySalesInvoice(System.Boolean@,System.String@,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISalesInvoiceLineItem,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.isalesinvoicev2.paysalesinvoice(v=AX.60)
 ms:contentKeyID: 62203524
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

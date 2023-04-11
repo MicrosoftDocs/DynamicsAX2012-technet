@@ -4,7 +4,7 @@ TOCTitle: Install business intelligence components
 ms:assetid: bd0638b4-3738-41b6-b0f5-2d648a8d49d5
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362058(v=AX.60)
 ms:contentKeyID: 28119578
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Inventory counting
 ms:assetid: 70ff4219-5c79-4e32-9c18-b06b6dc11a19
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231830(v=AX.60)
 ms:contentKeyID: 36058062
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

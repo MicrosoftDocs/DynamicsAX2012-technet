@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up excise tax ledger posting groups
 ms:assetid: 142758f6-a7fe-4787-a39d-69b1de34abf8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664507(v=AX.60)
 ms:contentKeyID: 49385586
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

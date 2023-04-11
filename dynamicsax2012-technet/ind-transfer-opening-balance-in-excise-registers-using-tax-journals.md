@@ -4,7 +4,7 @@ TOCTitle: (IND) Transfer opening balance in excise registers using tax journals
 ms:assetid: fdca32b6-7377-4cc0-b89f-cfed6ae05d72
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710973(v=AX.60)
 ms:contentKeyID: 49386385
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Sales and marketing
 ms:assetid: d245757e-58fb-43c6-be3e-ab2c4ff92cad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664937(v=AX.60)
 ms:contentKeyID: 49386266
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

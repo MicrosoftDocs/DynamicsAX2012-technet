@@ -4,7 +4,7 @@ TOCTitle: PrintSlip Method (String)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPrinterV1.PrintSlip(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprinterv1.printslip(v=AX.60)
 ms:contentKeyID: 47343883
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

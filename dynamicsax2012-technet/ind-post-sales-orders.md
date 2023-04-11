@@ -4,7 +4,7 @@ TOCTitle: (IND) Post sales orders
 ms:assetid: 63cd7130-aa36-4611-b6ea-794372bcd7f9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677869(v=AX.60)
 ms:contentKeyID: 49385833
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

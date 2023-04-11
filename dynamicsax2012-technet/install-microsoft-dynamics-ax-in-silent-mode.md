@@ -4,7 +4,7 @@ TOCTitle: Install Microsoft Dynamics AX in silent mode
 ms:assetid: f47e24e7-a3d8-4af9-b2b4-6eb2ec728a91
 ms:mtpsurl: https://technet.microsoft.com/library/Ee355091(v=AX.60)
 ms:contentKeyID: 35133264
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

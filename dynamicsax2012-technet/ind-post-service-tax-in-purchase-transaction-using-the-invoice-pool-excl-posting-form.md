@@ -4,7 +4,7 @@ TOCTitle: (IND) Post service tax in purchase transaction using the Invoice pool 
 ms:assetid: 01ab9409-e917-423b-81b3-512f184fcbd6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664430(v=AX.60)
 ms:contentKeyID: 49385519
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

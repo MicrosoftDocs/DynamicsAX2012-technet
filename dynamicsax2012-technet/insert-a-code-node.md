@@ -4,7 +4,7 @@ TOCTitle: Insert a Code node
 ms:assetid: 78dde46c-239c-4edb-921d-1c1b39ea4354
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550054(v=AX.60)
 ms:contentKeyID: 36058230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

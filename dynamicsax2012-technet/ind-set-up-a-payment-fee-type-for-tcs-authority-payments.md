@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up a payment fee type for TCS authority payments
 ms:assetid: 9d4f4bf9-391b-42ba-83ec-d85af4e54a0f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664707(v=AX.60)
 ms:contentKeyID: 49386038
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

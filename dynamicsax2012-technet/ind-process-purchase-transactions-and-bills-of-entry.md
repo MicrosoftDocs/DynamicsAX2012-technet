@@ -4,7 +4,7 @@ TOCTitle: (IND) Process purchase transactions and bills of entry
 ms:assetid: 7ab50fa7-423a-43a5-8b61-1418c926c9bb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677930(v=AX.60)
 ms:contentKeyID: 49385892
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

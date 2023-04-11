@@ -4,7 +4,7 @@ TOCTitle: ContinueOperation Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IPreTriggerResultV1.ContinueOperation
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.ipretriggerresultv1.continueoperation(v=AX.60)
 ms:contentKeyID: 47129145
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

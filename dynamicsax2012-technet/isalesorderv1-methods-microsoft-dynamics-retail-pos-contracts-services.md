@@ -4,7 +4,7 @@ TOCTitle: ISalesOrderV1 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesOrderV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.isalesorderv1_methods(v=AX.60)
 ms:contentKeyID: 47344508
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

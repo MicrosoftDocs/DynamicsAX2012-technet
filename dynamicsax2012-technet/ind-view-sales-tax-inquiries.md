@@ -4,7 +4,7 @@ TOCTitle: (IND) View sales tax inquiries
 ms:assetid: 7db8652d-864e-4af0-988a-1bfefe5edfd8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677948(v=AX.60)
 ms:contentKeyID: 49385911
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

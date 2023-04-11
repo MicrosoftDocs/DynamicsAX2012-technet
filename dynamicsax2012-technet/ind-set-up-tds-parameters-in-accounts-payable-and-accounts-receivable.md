@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up TDS parameters in Accounts payable and Accounts receivabl
 ms:assetid: cbe7edb8-f7ef-4f52-b9c0-6f66e00d88da
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664912(v=AX.60)
 ms:contentKeyID: 49386241
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

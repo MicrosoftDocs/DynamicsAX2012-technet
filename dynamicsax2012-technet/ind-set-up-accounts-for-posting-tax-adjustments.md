@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up accounts for posting tax adjustments
 ms:assetid: 92afc928-3bfa-4112-8d5d-07396bf6b27a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678059(v=AX.60)
 ms:contentKeyID: 49386020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

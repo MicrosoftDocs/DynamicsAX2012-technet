@@ -4,7 +4,7 @@ TOCTitle: (IND) View charges for purchase orders
 ms:assetid: ded77cdc-2abf-4406-9d83-4f8b43e57ee6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664945(v=AX.60)
 ms:contentKeyID: 49386274
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Post excise tax transactions from the customer payment journal
 ms:assetid: cf2d40b0-9954-4b14-a927-b1124587488a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664899(v=AX.60)
 ms:contentKeyID: 49386228
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

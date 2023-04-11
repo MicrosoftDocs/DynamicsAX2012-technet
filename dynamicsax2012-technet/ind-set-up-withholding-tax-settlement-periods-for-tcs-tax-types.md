@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax settlement periods for TCS tax types
 ms:assetid: bdfa2d51-0aca-48a0-9dad-54a29b0ad651
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664831(v=AX.60)
 ms:contentKeyID: 49386161
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

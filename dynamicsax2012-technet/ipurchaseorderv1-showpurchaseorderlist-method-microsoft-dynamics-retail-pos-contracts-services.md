@@ -4,7 +4,7 @@ TOCTitle: ShowPurchaseOrderList Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPurchaseOrderV1.ShowPurchaseOrderList
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ipurchaseorderv1.showpurchaseorderlist(v=AX.60)
 ms:contentKeyID: 47343950
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

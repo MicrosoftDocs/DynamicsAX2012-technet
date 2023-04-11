@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up excise settlement periods
 ms:assetid: 3741f80c-0b84-4f92-aa52-cb4ca6dbc647
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664622(v=AX.60)
 ms:contentKeyID: 49385699
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

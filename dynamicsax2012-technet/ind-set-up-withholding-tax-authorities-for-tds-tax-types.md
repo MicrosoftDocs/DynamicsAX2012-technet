@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax authorities for TDS tax types
 ms:assetid: 1c31763f-7496-4c5a-9084-eb4327e33074
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664531(v=AX.60)
 ms:contentKeyID: 49385610
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Invoice subscription transactions
 ms:assetid: df957dc3-e38f-42a3-82f5-a427b0036e6d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551288(v=AX.60)
 ms:contentKeyID: 36059700
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

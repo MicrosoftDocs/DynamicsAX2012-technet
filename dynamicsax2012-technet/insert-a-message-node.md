@@ -4,7 +4,7 @@ TOCTitle: Insert a Message node
 ms:assetid: 4a61d4c8-7db7-49cb-9f7d-856ba7ca8e01
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497010(v=AX.60)
 ms:contentKeyID: 36056966
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

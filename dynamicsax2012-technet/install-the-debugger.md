@@ -4,7 +4,7 @@ TOCTitle: Install the debugger
 ms:assetid: 8a34aa8c-9d94-4d5a-89c5-988c573e50dd
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309746(v=AX.60)
 ms:contentKeyID: 35132713
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

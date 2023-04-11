@@ -4,7 +4,7 @@ TOCTitle: Initialization checklists
 ms:assetid: f7b239e1-2b59-4016-aa62-819fe54471da
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497061(v=AX.60)
 ms:contentKeyID: 35133278
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

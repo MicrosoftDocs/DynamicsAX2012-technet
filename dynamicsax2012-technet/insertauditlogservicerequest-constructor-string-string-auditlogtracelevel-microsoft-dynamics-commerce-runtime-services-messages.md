@@ -4,7 +4,7 @@ TOCTitle: InsertAuditLogServiceRequest Constructor (String, String, AuditLogTrac
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.InsertAuditLogServiceRequest.#ctor(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.AuditLogTraceLevel)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.insertauditlogservicerequest.insertauditlogservicerequest(v=AX.60)
 ms:contentKeyID: 65317788
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

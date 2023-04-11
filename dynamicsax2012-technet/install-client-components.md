@@ -4,7 +4,7 @@ TOCTitle: Install client components
 ms:assetid: fbe287b7-2c43-4e4b-bd96-67751ab778fc
 ms:mtpsurl: https://technet.microsoft.com/library/Gg723974(v=AX.60)
 ms:contentKeyID: 35133326
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Installment billing configuration key (MCRInstallmentBilling)
 ms:assetid: c9f2a7e0-cb0d-42df-96e8-530f000f8488
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774949(v=AX.60)
 ms:contentKeyID: 62617667
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

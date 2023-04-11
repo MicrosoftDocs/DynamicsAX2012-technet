@@ -4,7 +4,7 @@ TOCTitle: ISalesOrderV2 Interface
 ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesOrderV2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.isalesorderv2(v=AX.60)
 ms:contentKeyID: 49819635
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

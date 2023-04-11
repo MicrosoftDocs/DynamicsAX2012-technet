@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up duty drawback (DBK) rates and values
 ms:assetid: 08cbb79a-c114-4217-8a06-6b9b912095f9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664461(v=AX.60)
 ms:contentKeyID: 49385540
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify and settle duty drawback voucher transactions
 ms:assetid: a8231b44-1000-47d1-8fc4-388ed52acc0c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664749(v=AX.60)
 ms:contentKeyID: 49386080
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

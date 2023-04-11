@@ -4,7 +4,7 @@ TOCTitle: Install Management Reporter components
 ms:assetid: 180649b5-cdf9-4084-856d-05c7cfd32c5a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720280(v=AX.60)
 ms:contentKeyID: 62221413
-author: Khairunj
+author: tonyafehr
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 ---

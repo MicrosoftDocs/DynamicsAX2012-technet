@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up service codes for service goods
 ms:assetid: d38e66a7-0f5d-4068-a73c-5b8b470a0451
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664942(v=AX.60)
 ms:contentKeyID: 49386273
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

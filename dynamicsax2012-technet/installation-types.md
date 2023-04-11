@@ -4,7 +4,7 @@ TOCTitle: Installation types
 ms:assetid: 92f26050-7766-4852-a288-2c4084c058f0
 ms:mtpsurl: https://technet.microsoft.com/library/Dd361994(v=AX.60)
 ms:contentKeyID: 35132765
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

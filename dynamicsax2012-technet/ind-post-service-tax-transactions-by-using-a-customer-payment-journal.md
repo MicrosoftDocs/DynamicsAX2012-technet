@@ -4,7 +4,7 @@ TOCTitle: (IND) Post service tax transactions by using a customer payment journa
 ms:assetid: 868ef98b-c0b4-4a8f-b80d-c6934c217c1b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678011(v=AX.60)
 ms:contentKeyID: 49385972
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up parameters to define a depreciation threshold
 ms:assetid: 08830920-1a85-4dad-97b3-cd4b8c3c5978
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664457(v=AX.60)
 ms:contentKeyID: 49385536
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax component groups for TCS tax types
 ms:assetid: 252126d2-d858-48ea-a1ae-abfa9be5d86e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664562(v=AX.60)
 ms:contentKeyID: 49385642
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

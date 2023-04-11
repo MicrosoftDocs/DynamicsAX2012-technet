@@ -4,7 +4,7 @@ TOCTitle: ReceivePurchaseOrder Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPurchaseOrderV1.ReceivePurchaseOrder(System.String,System.String,Microsoft.Dynamics.Retail.Pos.Contracts.Services.PRCountingType)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ipurchaseorderv1.receivepurchaseorder(v=AX.60)
 ms:contentKeyID: 47344100
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

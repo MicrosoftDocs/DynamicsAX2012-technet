@@ -4,7 +4,7 @@ TOCTitle: Invoice pool excl. posting report (VendInvoicePoolNotPosted)
 ms:assetid: a91d30ce-5b38-4e2a-b8a5-7ad798fa3708
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538458(v=AX.60)
 ms:contentKeyID: 39508886
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

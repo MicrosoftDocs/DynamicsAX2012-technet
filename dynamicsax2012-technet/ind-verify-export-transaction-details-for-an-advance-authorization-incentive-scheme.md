@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify the export transaction details for the Advanced Authoriza
 ms:assetid: d150599e-73a1-4d58-8205-d66f22431a64
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664939(v=AX.60)
 ms:contentKeyID: 49386268
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

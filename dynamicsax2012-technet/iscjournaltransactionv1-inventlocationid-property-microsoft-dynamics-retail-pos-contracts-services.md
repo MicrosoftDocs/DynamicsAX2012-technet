@@ -4,7 +4,7 @@ TOCTitle: InventLocationId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISCJournalTransactionV1.InventLocationId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iscjournaltransactionv1.inventlocationid(v=AX.60)
 ms:contentKeyID: 47344229
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

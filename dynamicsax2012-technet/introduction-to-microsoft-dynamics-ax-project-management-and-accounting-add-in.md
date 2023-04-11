@@ -4,7 +4,7 @@ TOCTitle: Introduction to Microsoft Dynamics AX Project Management and Accountin
 ms:assetid: 59a18425-f0c1-4715-b1ea-35d8df708917
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208976(v=AX.60)
 ms:contentKeyID: 36057349
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

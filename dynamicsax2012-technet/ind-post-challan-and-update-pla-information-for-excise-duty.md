@@ -4,7 +4,7 @@ TOCTitle: (IND) Post challan and update PLA information for excise duty
 ms:assetid: 67996478-eb68-4910-9832-edda403e0e96
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677886(v=AX.60)
 ms:contentKeyID: 49385851
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up tax ledger posting groups
 ms:assetid: 493b22e1-45ff-4013-a5d1-fe6eaddb158a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664676(v=AX.60)
 ms:contentKeyID: 49385749
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

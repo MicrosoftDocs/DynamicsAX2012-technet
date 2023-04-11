@@ -4,7 +4,7 @@ TOCTitle: (IND) Post invoice transactions for excisable goods using a Purchase s
 ms:assetid: 33eccebc-cefd-4fbb-b4bb-290203a2294a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664600(v=AX.60)
 ms:contentKeyID: 49385677
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

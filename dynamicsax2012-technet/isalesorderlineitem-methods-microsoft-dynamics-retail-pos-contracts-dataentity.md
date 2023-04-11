@@ -4,7 +4,7 @@ TOCTitle: ISalesOrderLineItem Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISalesOrderLineItem
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.isalesorderlineitem_methods(v=AX.60)
 ms:contentKeyID: 49820158
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

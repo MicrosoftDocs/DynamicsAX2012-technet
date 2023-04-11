@@ -4,7 +4,7 @@ TOCTitle: (IND) Shipping overview
 ms:assetid: a31e1000-92cd-4a6d-bffc-362e586d4635
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664731(v=AX.60)
 ms:contentKeyID: 49386062
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

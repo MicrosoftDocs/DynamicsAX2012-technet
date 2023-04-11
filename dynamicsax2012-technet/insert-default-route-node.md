@@ -4,7 +4,7 @@ TOCTitle: Insert default route node
 ms:assetid: 942729cb-0cf4-4754-a602-22b4f964c2d7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498392(v=AX.60)
 ms:contentKeyID: 36058592
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

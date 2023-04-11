@@ -4,7 +4,7 @@ TOCTitle: Indirect cost configuration key (PSAIndirectCost)
 ms:assetid: 603adac4-ab50-4a6f-abc6-f8fd178bbd31
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500153(v=AX.60)
 ms:contentKeyID: 37820184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

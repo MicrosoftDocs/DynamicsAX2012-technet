@@ -4,7 +4,7 @@ TOCTitle: Install-AXModel
 ms:assetid: DB557C03-D683-482D-B906-8CA920488470
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720288(v=AX.60)
 ms:contentKeyID: 49720078
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

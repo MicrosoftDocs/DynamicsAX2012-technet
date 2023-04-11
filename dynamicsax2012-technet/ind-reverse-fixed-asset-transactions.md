@@ -4,7 +4,7 @@ TOCTitle: (IND) Reverse fixed asset transactions
 ms:assetid: db45e7ac-8388-4bb1-adc6-aea4baae9e44
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710876(v=AX.60)
 ms:contentKeyID: 49386289
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

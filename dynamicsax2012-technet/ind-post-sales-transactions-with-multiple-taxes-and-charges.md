@@ -4,7 +4,7 @@ TOCTitle: (IND) Post sales transactions with multiple taxes and charges
 ms:assetid: 77d34a86-b7c3-4baf-8672-1508c88723e6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677916(v=AX.60)
 ms:contentKeyID: 49385870
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Update certificate numbers and dates for withholding tax  transa
 ms:assetid: 75f887e8-7719-4e7d-b168-a715216cf859
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677933(v=AX.60)
 ms:contentKeyID: 49385896
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

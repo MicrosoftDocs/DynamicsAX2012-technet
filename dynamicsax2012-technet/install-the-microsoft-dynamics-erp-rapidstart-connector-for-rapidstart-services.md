@@ -4,7 +4,7 @@ TOCTitle: Install the Microsoft Dynamics ERP RapidStart Connector for RapidStart
 ms:assetid: 6090d764-4615-4ea5-bba5-90cbaff4df96
 ms:mtpsurl: https://technet.microsoft.com/library/Dn193996(v=AX.60)
 ms:contentKeyID: 52348249
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

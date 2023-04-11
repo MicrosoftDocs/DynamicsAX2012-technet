@@ -4,7 +4,7 @@ TOCTitle: (IND) Post VAT information using the Invoice register form
 ms:assetid: 48cc678e-a752-4df0-b5e5-b3e3b66138ab
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664674(v=AX.60)
 ms:contentKeyID: 49385747
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

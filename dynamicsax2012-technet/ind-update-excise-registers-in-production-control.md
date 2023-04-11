@@ -4,7 +4,7 @@ TOCTitle: (IND) Update excise registers in production control
 ms:assetid: e606fe9f-2f50-42d5-bb52-d9d6883966c2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710912(v=AX.60)
 ms:contentKeyID: 49386324
-author: Khairunj
+author: tonyafehr
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up general ledger parameters for an EXIM AA incentive scheme
 ms:assetid: 6a913e17-049b-4ae7-aa7a-508277cd3a5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677897(v=AX.60)
 ms:contentKeyID: 49385860
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetStockCountJournalTransactions Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.InventoryManager.GetStockCountJournalTransactions(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.inventorymanager.getstockcountjournaltransactions(v=AX.60)
 ms:contentKeyID: 62206308
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Intrastat in Microsoft Dynamics AX 2012 R2
 ms:assetid: 7d1a8c63-b5e6-4ae6-860d-071e8e6b5341
 ms:mtpsurl: https://technet.microsoft.com/library/Dn452003(v=AX.60)
 ms:contentKeyID: 56713171
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Inventory and warehouse management reports
 ms:assetid: 8fcadcb2-6a37-42f8-88a8-ad17d51d5d15
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334495(v=AX.60)
 ms:contentKeyID: 36676483
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up tax components for customs
 ms:assetid: 428e1355-9978-44d1-9fb8-d93f1b983e01
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664653(v=AX.60)
 ms:contentKeyID: 49385771
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

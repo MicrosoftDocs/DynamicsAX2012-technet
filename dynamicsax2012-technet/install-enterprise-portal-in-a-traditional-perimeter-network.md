@@ -4,7 +4,7 @@ TOCTitle: Install Enterprise Portal in a traditional perimeter network
 ms:assetid: 935a3dc1-157c-4020-a75a-c5ad593484d5
 ms:mtpsurl: https://technet.microsoft.com/library/Dd361998(v=AX.60)
 ms:contentKeyID: 36607353
-author: Khairunj
+author: tonyafehr
 ms.date: 02/04/2015
 mtps_version: v=AX.60
 f1_keywords:

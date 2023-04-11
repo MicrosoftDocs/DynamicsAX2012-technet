@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up tax registration numbers
 ms:assetid: 9338fdc9-fa9c-4b89-b576-bc8bad1dd848
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678041(v=AX.60)
 ms:contentKeyID: 49386000
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

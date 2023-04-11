@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax components for TDS tax types
 ms:assetid: 8890a0fa-6987-4dbc-931c-5bcd4df0fab8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678021(v=AX.60)
 ms:contentKeyID: 49385982
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Reverse TDS payments and post the payment journal
 ms:assetid: 11449c7d-d5a6-412d-8e5f-7000f7d94b5d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664492(v=AX.60)
 ms:contentKeyID: 49385571
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) View posted transaction details for an RG23D register
 ms:assetid: f4274e13-0890-4436-872d-21fb0456b406
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710954(v=AX.60)
 ms:contentKeyID: 49386366
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

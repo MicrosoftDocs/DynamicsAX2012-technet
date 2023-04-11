@@ -4,7 +4,7 @@ TOCTitle: (IND) Withholding tax for advance payments and prepayments
 ms:assetid: 3659c0dd-43c0-43ea-a190-da4a4c9751db
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664610(v=AX.60)
 ms:contentKeyID: 49385688
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

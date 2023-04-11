@@ -4,7 +4,7 @@ TOCTitle: (IND) View posted item details for an RG23A register
 ms:assetid: 350236c0-4da4-44b1-b98b-172ac4abd49f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664605(v=AX.60)
 ms:contentKeyID: 49385682
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

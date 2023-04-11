@@ -4,7 +4,7 @@ TOCTitle: (IND) Split sales transactions
 ms:assetid: 0e200024-7b09-493b-b29e-84a11cb728f2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664485(v=AX.60)
 ms:contentKeyID: 49385564
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

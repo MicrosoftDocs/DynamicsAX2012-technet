@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up incentive scheme parameters for DFIA
 ms:assetid: bc860ea5-b4d5-446d-bc38-ebfce6d1ccd6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664847(v=AX.60)
 ms:contentKeyID: 49386177
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

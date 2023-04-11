@@ -4,7 +4,7 @@ TOCTitle: LogOnDevice Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPeripheralsV2.LogOnDevice
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iperipheralsv2.logondevice(v=AX.60)
 ms:contentKeyID: 49844942
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

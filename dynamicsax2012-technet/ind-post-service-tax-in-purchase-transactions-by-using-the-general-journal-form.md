@@ -4,7 +4,7 @@ TOCTitle: (IND) Post service tax in purchase transactions by using the General j
 ms:assetid: ab3f66a3-dca9-413c-8a42-b446ba96f493
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664759(v=AX.60)
 ms:contentKeyID: 49386089
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

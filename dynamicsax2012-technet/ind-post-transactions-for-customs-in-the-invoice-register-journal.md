@@ -4,7 +4,7 @@ TOCTitle: (IND) Post transactions for customs in the Invoice register journal
 ms:assetid: 8c71a79e-f0f2-40e0-ac6b-1f9b0e136767
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678014(v=AX.60)
 ms:contentKeyID: 49385974
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

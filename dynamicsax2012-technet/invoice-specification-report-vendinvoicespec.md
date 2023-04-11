@@ -4,7 +4,7 @@ TOCTitle: Invoice specification report (VendInvoiceSpec)
 ms:assetid: e75d39de-1d39-4fb1-8c53-9407736e17c4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa558598(v=AX.60)
 ms:contentKeyID: 37832040
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

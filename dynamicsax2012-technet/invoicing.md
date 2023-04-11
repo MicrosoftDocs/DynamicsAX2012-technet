@@ -4,7 +4,7 @@ TOCTitle: Invoicing
 ms:assetid: c2063095-64ff-48bf-8cfe-607e3745d357
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550704(v=AX.60)
 ms:contentKeyID: 36059276
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

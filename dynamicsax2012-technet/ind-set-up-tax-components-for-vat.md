@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up tax components for VAT
 ms:assetid: 67259b6a-661c-4048-b86d-76ccd8201743
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677878(v=AX.60)
 ms:contentKeyID: 49385842
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

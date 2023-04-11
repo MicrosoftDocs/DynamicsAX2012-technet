@@ -4,7 +4,7 @@ TOCTitle: (IND) Record the purchase of a DFIA or AA license
 ms:assetid: ccf57c51-db58-4c64-922a-b7967f7019cc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664919(v=AX.60)
 ms:contentKeyID: 49386247
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

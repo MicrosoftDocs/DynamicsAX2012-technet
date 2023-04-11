@@ -4,7 +4,7 @@ TOCTitle: RoundAmount Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IRoundingV1.RoundAmount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iroundingv1.roundamount(v=AX.60)
 ms:contentKeyID: 47344375
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

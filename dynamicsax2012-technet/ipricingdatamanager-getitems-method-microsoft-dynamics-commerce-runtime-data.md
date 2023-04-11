@@ -4,7 +4,7 @@ TOCTitle: GetItems Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManager.GetItems(System.Collections.Generic.IEnumerable{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ipricingdatamanager.getitems(v=AX.60)
 ms:contentKeyID: 62214780
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

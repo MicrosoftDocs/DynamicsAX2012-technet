@@ -4,7 +4,7 @@ TOCTitle: Information technology manager security role (SysServerITManager)
 ms:assetid: 4eb3e209-f8a9-4ccc-a999-7565f3110b56
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527087(v=AX.60)
 ms:contentKeyID: 37823139
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Install the synchronization proxy for Microsoft Project Server
 ms:assetid: 1b3a19a1-cfbf-4bfe-85cb-b66ae4c615e7
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309614(v=AX.60)
 ms:contentKeyID: 35132566
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: IPrintingV3 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IPrintingV3
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iprintingv3_methods(v=AX.60)
 ms:contentKeyID: 62206031
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

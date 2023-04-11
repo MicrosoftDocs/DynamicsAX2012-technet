@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up and maintaining goods
 ms:assetid: ef7258bd-cf31-4374-beaa-a2849206017e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710916(v=AX.60)
 ms:contentKeyID: 49386328
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

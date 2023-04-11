@@ -4,7 +4,7 @@ TOCTitle: Install a Retail channel database
 ms:assetid: 6c7f96f3-1fc2-4cc5-9c48-2d3876e91856
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741218(v=AX.60)
 ms:contentKeyID: 62219106
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

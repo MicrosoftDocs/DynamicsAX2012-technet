@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax settlement periods for TDS tax types
 ms:assetid: 6c524e4e-4e05-4dbf-a01b-d7ec8268b451
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677908(v=AX.60)
 ms:contentKeyID: 49385884
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

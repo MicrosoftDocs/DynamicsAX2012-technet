@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax codes for TDS tax types
 ms:assetid: 59f2fac8-33c1-49e2-8cb8-7b9b460a65cd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677837(v=AX.60)
 ms:contentKeyID: 49385801
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

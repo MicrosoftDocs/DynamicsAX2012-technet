@@ -4,7 +4,7 @@ TOCTitle: Infolog report (SysInfoLog)
 ms:assetid: 61aad186-afb1-45f0-bfa4-4598d55039a4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh801189(v=AX.60)
 ms:contentKeyID: 43976708
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

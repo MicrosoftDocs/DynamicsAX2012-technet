@@ -4,7 +4,7 @@ TOCTitle: (IND) Split a DFIA license
 ms:assetid: afc41858-4f2e-463f-a632-528a4090d60d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664800(v=AX.60)
 ms:contentKeyID: 49386130
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Intercompany license code (TradeInterCompany)
 ms:assetid: b2c171a6-9889-4a17-ba9b-2d46d8d42f51
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467561(v=AX.60)
 ms:contentKeyID: 36991707
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

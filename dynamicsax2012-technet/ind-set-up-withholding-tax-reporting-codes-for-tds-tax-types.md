@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up withholding tax reporting codes for TDS tax types
 ms:assetid: 116d218c-c15b-4a68-aba4-a4eff0c19b76
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664494(v=AX.60)
 ms:contentKeyID: 49385573
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

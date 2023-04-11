@@ -4,7 +4,7 @@ TOCTitle: IScanner Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IScanner
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iscanner_events(v=AX.60)
 ms:contentKeyID: 47344205
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

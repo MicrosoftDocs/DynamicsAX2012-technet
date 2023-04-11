@@ -4,7 +4,7 @@ TOCTitle: (IND) View goods receipt notes
 ms:assetid: b0bc7ac3-a967-4659-9f74-c43931bb2357
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664801(v=AX.60)
 ms:contentKeyID: 49386131
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

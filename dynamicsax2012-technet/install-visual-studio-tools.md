@@ -4,7 +4,7 @@ TOCTitle: Install Visual Studio Tools
 ms:assetid: 03fbd4fd-0e0e-48d6-bf02-a0e600883a37
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309576(v=AX.60)
 ms:contentKeyID: 35132529
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

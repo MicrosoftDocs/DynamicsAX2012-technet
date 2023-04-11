@@ -4,7 +4,7 @@ TOCTitle: (IND) Sales tax hierarchies
 ms:assetid: 1b865da6-19f0-4a13-8d2c-050319de6415
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479043(v=AX.60)
 ms:contentKeyID: 59632411
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Install Retail Headquarters
 ms:assetid: 1c05c344-96a3-4619-801f-a3f4038ad442
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575193(v=AX.60)
 ms:contentKeyID: 39555323
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

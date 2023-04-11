@@ -4,7 +4,7 @@ TOCTitle: (IND) Post purchase transactions of excise using the Invoice approval 
 ms:assetid: 9f1bc90e-d89f-4b94-847e-004208508558
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664718(v=AX.60)
 ms:contentKeyID: 49386048
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

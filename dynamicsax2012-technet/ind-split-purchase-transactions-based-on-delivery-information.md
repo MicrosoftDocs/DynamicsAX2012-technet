@@ -4,7 +4,7 @@ TOCTitle: (IND) Split purchase transactions based on delivery information
 ms:assetid: 8f2bb2fb-b3f4-4e3d-992b-d322a8efd8df
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678049(v=AX.60)
 ms:contentKeyID: 49386012
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

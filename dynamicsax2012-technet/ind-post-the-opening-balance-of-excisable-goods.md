@@ -4,7 +4,7 @@ TOCTitle: (IND) Post the opening balance of excisable goods
 ms:assetid: c553648e-5231-4759-a396-5bf5837e2fea
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664863(v=AX.60)
 ms:contentKeyID: 49386193
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) View information about Advance Authorization (AA) transactions
 ms:assetid: 39b7ee60-f660-46ea-9430-eafe0c5d4a33
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664628(v=AX.60)
 ms:contentKeyID: 49385705
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: LoyaltyPercentageDiscount Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISaleLineItemV4.LoyaltyPercentageDiscount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.isalelineitemv4.loyaltypercentagediscount(v=AX.60)
 ms:contentKeyID: 62205589
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

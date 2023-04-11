@@ -4,7 +4,7 @@ TOCTitle: Integration components
 ms:assetid: 83e7ad94-bb3b-4bf2-b9ba-91f1ffe971ba
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309735(v=AX.60)
 ms:contentKeyID: 35132707
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

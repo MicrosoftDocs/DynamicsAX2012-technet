@@ -4,7 +4,7 @@ TOCTitle: Integrate a Service into the Commerce Runtime
 ms:assetid: abd7fca1-a4d8-42bf-8a50-a974e8f2828b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ916619(v=AX.60)
 ms:contentKeyID: 50934009
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

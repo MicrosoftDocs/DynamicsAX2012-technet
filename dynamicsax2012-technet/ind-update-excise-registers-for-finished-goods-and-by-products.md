@@ -4,7 +4,7 @@ TOCTitle: (IND) Update excise registers for finished goods and by-products
 ms:assetid: cd5753b1-df36-4348-9ee9-032b0fcfc417
 ms:mtpsurl: https://technet.microsoft.com/library/Dn857500(v=AX.60)
 ms:contentKeyID: 63396903
-author: Khairunj
+author: tonyafehr
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:

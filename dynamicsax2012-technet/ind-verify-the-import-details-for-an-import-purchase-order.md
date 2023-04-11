@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify the import details for an import purchase order
 ms:assetid: 53eaa34f-769e-4d33-8d3a-4b76756bbe1e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677821(v=AX.60)
 ms:contentKeyID: 49385784
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

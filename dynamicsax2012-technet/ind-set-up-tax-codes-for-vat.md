@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up tax codes for VAT
 ms:assetid: 9e09d9ce-b539-47b7-9b0d-99d102434020
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664708(v=AX.60)
 ms:contentKeyID: 49386039
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

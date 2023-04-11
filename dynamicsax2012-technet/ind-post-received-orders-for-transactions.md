@@ -4,7 +4,7 @@ TOCTitle: (IND) Post received orders for transactions
 ms:assetid: 280d1b91-f460-41ab-830a-15753c622c74
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664579(v=AX.60)
 ms:contentKeyID: 49385656
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

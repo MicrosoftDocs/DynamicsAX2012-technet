@@ -4,7 +4,7 @@ TOCTitle: (IND) View the excise register balance
 ms:assetid: f505ce4f-eaa6-46d9-a9e4-0b528d9a2aad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710960(v=AX.60)
 ms:contentKeyID: 49386373
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

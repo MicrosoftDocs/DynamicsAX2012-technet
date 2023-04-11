@@ -4,7 +4,7 @@ TOCTitle: Integration with Microsoft Dynamics CRM (ProjCRMIntegration)
 ms:assetid: 247d8d4b-0d8e-4a69-a678-9e0193565fa6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn781485(v=AX.60)
 ms:contentKeyID: 62807573
-author: Khairunj
+author: tonyafehr
 ms.date: 08/19/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Install multiple instances of Reporting Services on the same computer 
 ms:assetid: 0aca4bf4-aac9-4acd-9323-7547a8583c9f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389760(v=AX.60)
 ms:contentKeyID: 36899738
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

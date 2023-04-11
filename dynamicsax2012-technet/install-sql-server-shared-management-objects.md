@@ -4,7 +4,7 @@ TOCTitle: Install SQL Server Shared Management Objects
 ms:assetid: 7da728c6-9079-48fd-8dcb-1ce64759a412
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731842(v=AX.60)
 ms:contentKeyID: 35132695
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

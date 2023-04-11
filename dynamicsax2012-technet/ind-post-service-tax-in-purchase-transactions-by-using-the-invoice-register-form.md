@@ -4,7 +4,7 @@ TOCTitle: (IND) Post service tax in purchase transactions by using the Invoice r
 ms:assetid: a3082937-4e46-41a2-812a-27fac753f01b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664754(v=AX.60)
 ms:contentKeyID: 49386085
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

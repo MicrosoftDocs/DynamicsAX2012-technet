@@ -4,7 +4,7 @@ TOCTitle: (IND) Update the abatement certificate for service tax transactions
 ms:assetid: 7ddd6806-f6bf-4c20-a860-86588392ad4f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677953(v=AX.60)
 ms:contentKeyID: 49385915
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

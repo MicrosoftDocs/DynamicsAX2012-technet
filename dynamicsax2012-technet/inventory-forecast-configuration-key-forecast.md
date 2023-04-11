@@ -4,7 +4,7 @@ TOCTitle: Inventory forecast configuration key (Forecast)
 ms:assetid: 1c0534e3-7e59-4213-8fee-b37618bfb815
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572866(v=AX.60)
 ms:contentKeyID: 37822133
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

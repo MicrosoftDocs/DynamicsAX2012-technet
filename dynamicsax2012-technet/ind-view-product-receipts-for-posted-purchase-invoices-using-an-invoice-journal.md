@@ -4,7 +4,7 @@ TOCTitle: (IND) View product receipts for posted purchase invoices using an invo
 ms:assetid: 85042496-1506-4769-898a-d1795728c9c7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677978(v=AX.60)
 ms:contentKeyID: 49385941
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

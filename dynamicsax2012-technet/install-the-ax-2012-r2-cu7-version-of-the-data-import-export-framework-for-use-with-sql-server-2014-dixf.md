@@ -4,7 +4,7 @@ TOCTitle: Install the AX 2012 R2 CU7 DIXF for SQL Server 2014
 ms:assetid: 2427411b-d3b1-4382-85b5-d9a8f9eb5ff9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn878170(v=AX.60)
 ms:contentKeyID: 63701237
-author: Khairunj
+author: tonyafehr
 ms.date: 09/06/2018
 mtps_version: v=AX.60
 ---

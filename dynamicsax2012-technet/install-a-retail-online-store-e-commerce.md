@@ -4,7 +4,7 @@ TOCTitle: Install an online store (e-commerce)
 ms:assetid: fc2c4afa-99e3-4333-9c46-e06b80f6aa37
 ms:mtpsurl: https://technet.microsoft.com/library/JJ991927(v=AX.60)
 ms:contentKeyID: 51595730
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

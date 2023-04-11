@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up schedule column header and footer notes
 ms:assetid: 50031f32-405c-425f-a5dd-aa010e656061
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664692(v=AX.60)
 ms:contentKeyID: 49385764
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

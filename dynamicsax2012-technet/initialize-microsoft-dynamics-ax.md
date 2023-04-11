@@ -4,7 +4,7 @@ TOCTitle: Initialize Microsoft Dynamics AX
 ms:assetid: ba7f64a8-c5c3-4a9a-927b-21afc16f92af
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548672(v=AX.60)
 ms:contentKeyID: 35132835
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

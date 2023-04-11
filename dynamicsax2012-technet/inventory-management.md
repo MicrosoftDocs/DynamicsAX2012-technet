@@ -4,7 +4,7 @@ TOCTitle: Inventory management
 ms:assetid: fe841168-60a4-49d4-8cf5-4eab8b1cd0ed
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227590(v=AX.60)
 ms:contentKeyID: 36060122
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

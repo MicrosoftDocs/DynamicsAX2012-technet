@@ -4,7 +4,7 @@ TOCTitle: InventorySqlServerDataRequestHandler Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.InventorySqlServerDataRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.inventorysqlserverdatarequesthandler_properties(v=AX.60)
 ms:contentKeyID: 65318903
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Invoice matching configuration key (PurchInvoiceMatching)
 ms:assetid: 301ffc0c-ab4c-485b-b0e7-826e1f180112
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441661(v=AX.60)
 ms:contentKeyID: 36993543
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

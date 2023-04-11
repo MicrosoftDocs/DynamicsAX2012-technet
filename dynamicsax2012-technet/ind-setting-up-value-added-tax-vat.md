@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up Value Added Tax (VAT)
 ms:assetid: c77e67d6-ecc8-4f03-b0f3-59cbe5ea2d3f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664872(v=AX.60)
 ms:contentKeyID: 49386201
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

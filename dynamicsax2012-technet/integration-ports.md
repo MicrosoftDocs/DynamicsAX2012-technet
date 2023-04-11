@@ -4,7 +4,7 @@ TOCTitle: Integration ports
 ms:assetid: 6797e3b5-f1a2-44b2-8c41-d7fecf170317
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731821(v=AX.60)
 ms:contentKeyID: 35132669
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

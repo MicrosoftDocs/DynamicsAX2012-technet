@@ -4,7 +4,7 @@ TOCTitle: CreatePackingSlip Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ISalesOrderV1.CreatePackingSlip(System.Boolean@,System.String@,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.isalesorderv1.createpackingslip(v=AX.60)
 ms:contentKeyID: 47343864
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

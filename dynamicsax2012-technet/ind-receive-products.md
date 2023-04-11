@@ -4,7 +4,7 @@ TOCTitle: (IND) Receive products
 ms:assetid: 24397e3c-8fe1-4996-b56c-8259ab9cb66f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664564(v=AX.60)
 ms:contentKeyID: 49385641
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

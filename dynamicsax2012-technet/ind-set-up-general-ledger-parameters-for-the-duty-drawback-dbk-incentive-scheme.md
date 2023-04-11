@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up general ledger parameters for the duty drawback (DBK) inc
 ms:assetid: 8ed1c678-3a6a-4446-b8c4-9d9b01b54a9e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678032(v=AX.60)
 ms:contentKeyID: 49385993
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

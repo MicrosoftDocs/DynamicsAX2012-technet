@@ -4,7 +4,7 @@ TOCTitle: Insert a Switch node
 ms:assetid: a227c9d5-6d6c-48f6-b8e4-ac3a54c30eb2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571824(v=AX.60)
 ms:contentKeyID: 36058794
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

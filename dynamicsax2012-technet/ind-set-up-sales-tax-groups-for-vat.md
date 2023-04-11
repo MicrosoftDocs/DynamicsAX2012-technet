@@ -4,7 +4,7 @@ TOCTitle: (IND) Set up sales tax groups for VAT
 ms:assetid: 62973f46-beb9-4f14-a7c9-ad4acb2c4c84
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677866(v=AX.60)
 ms:contentKeyID: 49385828
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

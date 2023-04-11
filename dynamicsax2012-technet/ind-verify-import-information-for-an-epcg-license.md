@@ -4,7 +4,7 @@ TOCTitle: (IND) Verify import information for an EPCG license
 ms:assetid: bbe59b27-f9a8-4c7d-843e-6a10b7da93a9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664842(v=AX.60)
 ms:contentKeyID: 49386172
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

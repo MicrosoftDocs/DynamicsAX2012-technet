@@ -4,7 +4,7 @@ TOCTitle: Install Retail essentials at the store or at the point of sale
 ms:assetid: 1ad177a8-6fa2-4b42-87b0-ea60c84683d5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741217(v=AX.60)
 ms:contentKeyID: 62219112
-author: Khairunj
+author: tonyafehr
 ms.date: 01/28/2015
 mtps_version: v=AX.60
 ---

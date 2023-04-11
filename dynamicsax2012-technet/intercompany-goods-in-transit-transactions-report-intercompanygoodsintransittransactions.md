@@ -4,7 +4,7 @@ TOCTitle: Intercompany goods in transit transactions report (InterCompanyGoodsIn
 ms:assetid: 8df7de28-ac55-4720-bcae-1ca2a15000a5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227393(v=AX.60)
 ms:contentKeyID: 36059639
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

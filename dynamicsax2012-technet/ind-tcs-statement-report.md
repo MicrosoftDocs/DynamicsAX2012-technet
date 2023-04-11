@@ -4,7 +4,7 @@ TOCTitle: (IND) TCS statement (report)
 ms:assetid: 5aa4801c-09fd-41a4-91fb-ee1b65571f35
 ms:mtpsurl: https://technet.microsoft.com/library/JJ969578(v=AX.60)
 ms:contentKeyID: 51554464
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

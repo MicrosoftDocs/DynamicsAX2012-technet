@@ -4,7 +4,7 @@ TOCTitle: Investment configuration key (ProjAdvEstimateInvestment)
 ms:assetid: 1c15c516-fc07-42cb-8680-135ce9f2cf0a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572873(v=AX.60)
 ms:contentKeyID: 39518951
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

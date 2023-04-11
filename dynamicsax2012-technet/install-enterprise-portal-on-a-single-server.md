@@ -4,7 +4,7 @@ TOCTitle: Install Enterprise Portal on a single server
 ms:assetid: bd70dc6c-4a58-4097-a3cb-0e235528d60e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731916(v=AX.60)
 ms:contentKeyID: 35132843
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

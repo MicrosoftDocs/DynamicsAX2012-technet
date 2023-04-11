@@ -4,7 +4,7 @@ TOCTitle: 'Install Commerce Data Exchange: Async Client'
 ms:assetid: b92197bb-6406-4e58-ad94-8ed453eae4c4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741220(v=AX.60)
 ms:contentKeyID: 62219109
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

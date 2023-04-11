@@ -4,7 +4,7 @@ TOCTitle: (IND) View posted transactions for a DSA register
 ms:assetid: 198b00e3-fdde-4c2f-94b8-d03fa53c4332
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664524(v=AX.60)
 ms:contentKeyID: 49385602
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

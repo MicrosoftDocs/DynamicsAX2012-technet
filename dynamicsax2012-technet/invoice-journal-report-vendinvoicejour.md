@@ -4,7 +4,7 @@ TOCTitle: Invoice journal report (VendInvoiceJour)
 ms:assetid: 6857d716-0a34-401b-867e-fc3b71f44511
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585532(v=AX.60)
 ms:contentKeyID: 36676475
-author: Khairunj
+author: tonyafehr
 ms.date: 09/02/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Setting up Tax Deducted at Source (TDS)
 ms:assetid: f27c3ee7-8133-4771-bc1e-cbc239295e68
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710925(v=AX.60)
 ms:contentKeyID: 49386337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
