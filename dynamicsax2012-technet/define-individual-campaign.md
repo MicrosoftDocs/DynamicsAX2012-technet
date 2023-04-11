@@ -4,7 +4,7 @@ TOCTitle: Define individual campaign
 ms:assetid: 359aba6a-0ab2-4141-ba04-b058a5c2444d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231096(v=AX.60)
 ms:contentKeyID: 36056566
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

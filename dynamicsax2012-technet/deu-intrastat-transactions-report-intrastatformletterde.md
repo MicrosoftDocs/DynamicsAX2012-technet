@@ -4,7 +4,7 @@ TOCTitle: (DEU) Intrastat transactions report (IntrastatFormLetterDE)
 ms:assetid: 79d821c8-5cfa-403a-aa3e-bcd5f2daa6e8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh371727(v=AX.60)
 ms:contentKeyID: 36814940
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

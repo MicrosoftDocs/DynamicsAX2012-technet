@@ -4,7 +4,7 @@ TOCTitle: Defining and maintaining procurement categories
 ms:assetid: 9c9837b7-57d6-4562-80a9-e5a75bed75ce
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209435(v=AX.60)
 ms:contentKeyID: 36058731
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

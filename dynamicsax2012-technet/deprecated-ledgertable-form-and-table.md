@@ -4,7 +4,7 @@ TOCTitle: LedgerTable form and table
 ms:assetid: 94a06d39-815a-4359-97a4-992222eac13a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527175(v=AX.60)
 ms:contentKeyID: 59623307
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

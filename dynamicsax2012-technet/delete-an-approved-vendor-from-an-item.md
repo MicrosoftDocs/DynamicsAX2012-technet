@@ -4,7 +4,7 @@ TOCTitle: Delete an approved vendor from an item
 ms:assetid: 3f47710c-43dc-40ac-a6c3-648f03361eb9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242253(v=AX.60)
 ms:contentKeyID: 36056703
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

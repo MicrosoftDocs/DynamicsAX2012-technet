@@ -4,7 +4,7 @@ TOCTitle: .chm Help files
 ms:assetid: f7a3d1bb-86e5-4f3b-9a88-07903f7cdc54
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527237(v=AX.60)
 ms:contentKeyID: 59623365
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

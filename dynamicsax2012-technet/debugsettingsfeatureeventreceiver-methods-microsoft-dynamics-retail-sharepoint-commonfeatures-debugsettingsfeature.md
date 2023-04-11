@@ -4,7 +4,7 @@ TOCTitle: DebugSettingsFeatureEventReceiver Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.CommonFeatures.DebugSettingsFeature.DebugSettingsFeatureEventReceiver
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.commonfeatures.debugsettingsfeature.debugsettingsfeatureeventreceiver_methods(v=AX.60)
 ms:contentKeyID: 62207314
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

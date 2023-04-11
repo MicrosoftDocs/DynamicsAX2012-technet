@@ -4,7 +4,7 @@ TOCTitle: (DEU) Import account statement (transactions) report (LedgerInAccountS
 ms:assetid: 5c877272-45e8-4f3c-a7ca-44e4d98b6f72
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496436(v=AX.60)
 ms:contentKeyID: 37072018
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Define an active ingredient in a formula line
 ms:assetid: cc76ede2-2e30-401d-9eea-9ba96db18e88
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838749(v=AX.60)
 ms:contentKeyID: 50120632
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

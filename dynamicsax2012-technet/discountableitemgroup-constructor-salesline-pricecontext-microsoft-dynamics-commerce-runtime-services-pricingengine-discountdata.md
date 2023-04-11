@@ -4,7 +4,7 @@ TOCTitle: DiscountableItemGroup Constructor (SalesLine, PriceContext)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountableItemGroup.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine,Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountableitemgroup.discountableitemgroup(v=AX.60)
 ms:contentKeyID: 62211428
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Delete a question group in RapidStart Services
 ms:assetid: 27136859-5e3c-4727-83c6-d951e40a69f5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413228(v=AX.60)
 ms:contentKeyID: 36918919
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

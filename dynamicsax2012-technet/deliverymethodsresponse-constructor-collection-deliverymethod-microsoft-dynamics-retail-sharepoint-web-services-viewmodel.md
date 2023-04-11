@@ -4,7 +4,7 @@ TOCTitle: DeliveryMethodsResponse Constructor (Collection(DeliveryMethod))
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.DeliveryMethodsResponse.#ctor(System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.DeliveryMethod})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.deliverymethodsresponse.deliverymethodsresponse(v=AX.60)
 ms:contentKeyID: 62207519
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

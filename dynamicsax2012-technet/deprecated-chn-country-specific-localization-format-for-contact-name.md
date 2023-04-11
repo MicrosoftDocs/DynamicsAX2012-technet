@@ -4,7 +4,7 @@ TOCTitle: (CHN) Country-specific localization format for Contact name
 ms:assetid: 66e5b8e1-5297-43a2-95a0-d93cb3589d22
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527136(v=AX.60)
 ms:contentKeyID: 59623265
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

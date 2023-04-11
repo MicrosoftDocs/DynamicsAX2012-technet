@@ -4,7 +4,7 @@ TOCTitle: Define the types of work orders that a mobile device can process
 ms:assetid: 58229dec-28ad-4707-b918-b39a76a4a26e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553164(v=AX.60)
 ms:contentKeyID: 62200073
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

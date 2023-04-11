@@ -4,7 +4,7 @@ TOCTitle: Deploy updates in a retail environment
 ms:assetid: eaecf1b3-93dd-4211-97e3-6552441ef014
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305851(v=AX.60)
 ms:contentKeyID: 54911460
-author: Khairunj
+author: tonyafehr
 ms.date: 03/09/2016
 mtps_version: v=AX.60
 ---

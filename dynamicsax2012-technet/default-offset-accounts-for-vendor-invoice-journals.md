@@ -4,7 +4,7 @@ TOCTitle: Default offset accounts for vendor invoice journals
 ms:assetid: ca0941c2-b422-4cb4-b38d-252f11823adc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn454568(v=AX.60)
 ms:contentKeyID: 57085673
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

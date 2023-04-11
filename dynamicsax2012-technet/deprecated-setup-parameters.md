@@ -4,7 +4,7 @@ TOCTitle: Setup parameters
 ms:assetid: 9256a529-5734-4767-85c2-0be9d279ec1e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527173(v=AX.60)
 ms:contentKeyID: 59623301
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

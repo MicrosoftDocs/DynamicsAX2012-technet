@@ -4,7 +4,7 @@ TOCTitle: Defining reason codes and stages for service orders
 ms:assetid: f4d35770-7429-40ce-953a-06ba3a213c1e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243285(v=AX.60)
 ms:contentKeyID: 36059995
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

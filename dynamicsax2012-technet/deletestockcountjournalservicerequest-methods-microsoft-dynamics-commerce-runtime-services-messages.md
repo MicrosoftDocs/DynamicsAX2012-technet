@@ -4,7 +4,7 @@ TOCTitle: DeleteStockCountJournalServiceRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.DeleteStockCountJournalServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.deletestockcountjournalservicerequest_methods(v=AX.60)
 ms:contentKeyID: 62209662
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

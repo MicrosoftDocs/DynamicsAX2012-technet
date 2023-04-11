@@ -4,7 +4,7 @@ TOCTitle: Purchase requisition parameters
 ms:assetid: 2ad9007a-b0ab-4d78-9f17-02dc84179c02
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527119(v=AX.60)
 ms:contentKeyID: 59623248
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

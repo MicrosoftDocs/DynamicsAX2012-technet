@@ -4,7 +4,7 @@ TOCTitle: (DEU) Set up electronic tax declaration
 ms:assetid: 411dea33-8b5d-4d05-a6a7-03f1244c2def
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231361(v=AX.60)
 ms:contentKeyID: 36056727
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

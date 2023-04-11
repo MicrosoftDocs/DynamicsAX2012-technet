@@ -4,7 +4,7 @@ TOCTitle: Delete posted inventory journals
 ms:assetid: 27975d05-9bd6-4d59-8a66-8e9d9287f532
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496832(v=AX.60)
 ms:contentKeyID: 36056212
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: DiscountCalculator Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountCalculator
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountcalculator(v=AX.60)
 ms:contentKeyID: 62201889
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

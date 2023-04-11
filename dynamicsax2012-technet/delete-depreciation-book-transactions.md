@@ -4,7 +4,7 @@ TOCTitle: Delete depreciation book transactions
 ms:assetid: b336f57a-f3b6-44ed-a77c-acc4719703f0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571898(v=AX.60)
 ms:contentKeyID: 36059066
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

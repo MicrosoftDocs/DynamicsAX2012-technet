@@ -4,7 +4,7 @@ TOCTitle: Deploying Customizations and Solutions by using Models and the Model S
 ms:assetid: 1f02ca10-b388-4f53-b50d-1701d302e8bd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335181(v=AX.60)
 ms:contentKeyID: 36687405
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Define sales prices for products
 ms:assetid: 2d85dac8-5091-44c2-8b3f-a869390fb76d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh802994(v=AX.60)
 ms:contentKeyID: 44080966
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

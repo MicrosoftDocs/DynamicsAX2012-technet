@@ -4,7 +4,7 @@ TOCTitle: Delete alerts
 ms:assetid: 1df1dd48-58c6-4771-8cad-2c39221a63ed
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496775(v=AX.60)
 ms:contentKeyID: 46687531
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

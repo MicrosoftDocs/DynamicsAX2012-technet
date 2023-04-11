@@ -4,7 +4,7 @@ TOCTitle: X++ Reporting Framework
 ms:assetid: 95a34245-f7ce-4854-978d-aa71c4be0d3c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527177(v=AX.60)
 ms:contentKeyID: 59623304
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

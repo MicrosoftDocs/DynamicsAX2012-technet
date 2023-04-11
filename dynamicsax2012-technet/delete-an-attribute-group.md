@@ -4,7 +4,7 @@ TOCTitle: Delete an attribute group
 ms:assetid: cf02ab59-b282-458f-97c3-2030111ae41a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597246(v=AX.60)
 ms:contentKeyID: 39519324
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

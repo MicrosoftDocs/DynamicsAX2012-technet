@@ -4,7 +4,7 @@ TOCTitle: DeviceAuthenticationException Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DeviceAuthenticationException
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.deviceauthenticationexception(v=AX.60)
 ms:contentKeyID: 62213757
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

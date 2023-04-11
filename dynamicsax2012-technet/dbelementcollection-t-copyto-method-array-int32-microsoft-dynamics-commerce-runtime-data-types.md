@@ -4,7 +4,7 @@ TOCTitle: CopyTo Method (Array, Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.CopyTo(System.Array,System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn969366(v=AX.60)
 ms:contentKeyID: 65322979
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

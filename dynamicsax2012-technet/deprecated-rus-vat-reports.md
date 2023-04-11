@@ -4,7 +4,7 @@ TOCTitle: (RUS) VAT reports
 ms:assetid: 46dea059-f813-463e-b023-a89721d777fe
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507113(v=AX.60)
 ms:contentKeyID: 59623202
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

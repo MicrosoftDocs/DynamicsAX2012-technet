@@ -4,7 +4,7 @@ TOCTitle: Demand forecasting configuration key (ReqDemandPlanning)
 ms:assetid: be0b6859-be00-4a28-a3f8-6bd3b7450026
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716002(v=AX.60)
 ms:contentKeyID: 62200225
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BEL) EU sales list transfer
 ms:assetid: 7a0cba9c-35a6-46d7-96ff-2372d4a044f2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527151(v=AX.60)
 ms:contentKeyID: 59623280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

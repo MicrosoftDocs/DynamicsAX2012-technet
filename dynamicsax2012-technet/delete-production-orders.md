@@ -4,7 +4,7 @@ TOCTitle: Delete production orders
 ms:assetid: 8c2fc32a-79ac-43b1-88d9-3ac5487b64f2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498330(v=AX.60)
 ms:contentKeyID: 36058478
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

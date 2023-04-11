@@ -4,7 +4,7 @@ TOCTitle: Define the look and feel of mobile device displays
 ms:assetid: 837eb722-acda-423a-974c-4d3fac2bc002
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553175(v=AX.60)
 ms:contentKeyID: 62200110
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: X++ editor
 ms:assetid: f5619251-ae6d-4d03-b015-f222b200e67f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527260(v=AX.60)
 ms:contentKeyID: 59623388
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

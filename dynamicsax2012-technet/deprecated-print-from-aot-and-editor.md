@@ -4,7 +4,7 @@ TOCTitle: Print from AOT and Editor
 ms:assetid: 20293ee1-70c9-425f-a296-0041d674f143
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507152(v=AX.60)
 ms:contentKeyID: 59623237
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

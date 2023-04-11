@@ -4,7 +4,7 @@ TOCTitle: Deactivate a formula version
 ms:assetid: 020d0dbf-a182-48c8-9e42-a751f9833b6f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352176(v=AX.60)
 ms:contentKeyID: 36687807
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

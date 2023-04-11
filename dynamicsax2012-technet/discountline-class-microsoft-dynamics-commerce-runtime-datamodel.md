@@ -4,7 +4,7 @@ TOCTitle: DiscountLine Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataModel.DiscountLine
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.discountline(v=AX.60)
 ms:contentKeyID: 49854457
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

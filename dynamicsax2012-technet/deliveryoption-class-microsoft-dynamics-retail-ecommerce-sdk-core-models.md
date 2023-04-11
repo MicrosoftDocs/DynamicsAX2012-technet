@@ -4,7 +4,7 @@ TOCTitle: DeliveryOption Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.DeliveryOption
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.deliveryoption(v=AX.60)
 ms:contentKeyID: 65316681
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

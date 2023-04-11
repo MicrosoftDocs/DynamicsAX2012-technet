@@ -4,7 +4,7 @@ TOCTitle: DeviceAuthenticationException Events
 ms:assetid: Events.T:Microsoft.Dynamics.Commerce.Runtime.DeviceAuthenticationException
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.deviceauthenticationexception_events(v=AX.60)
 ms:contentKeyID: 65320739
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

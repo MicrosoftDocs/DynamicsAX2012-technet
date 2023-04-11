@@ -4,7 +4,7 @@ TOCTitle: X++ Workflow API
 ms:assetid: 4da73073-94df-4170-8939-329f0fc939c2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507135(v=AX.60)
 ms:contentKeyID: 59623223
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

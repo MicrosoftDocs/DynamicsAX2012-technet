@@ -4,7 +4,7 @@ TOCTitle: (NLD) Import account statements in the MT940 format
 ms:assetid: cf9315af-eeba-456a-91f6-6aa7eb8dd839
 ms:mtpsurl: https://technet.microsoft.com/library/Dn621053(v=AX.60)
 ms:contentKeyID: 62200295
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

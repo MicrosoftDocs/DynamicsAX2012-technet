@@ -4,7 +4,7 @@ TOCTitle: (IND) Percent exempt replaces load on inventory
 ms:assetid: 05c16505-7cf1-47e8-a81d-a759dfb698e9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507112(v=AX.60)
 ms:contentKeyID: 59623201
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

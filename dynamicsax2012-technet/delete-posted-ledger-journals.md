@@ -4,7 +4,7 @@ TOCTitle: Delete posted ledger journals
 ms:assetid: 29e84e00-c9cf-46c0-99f7-83323c1b1863
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496855(v=AX.60)
 ms:contentKeyID: 36056225
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

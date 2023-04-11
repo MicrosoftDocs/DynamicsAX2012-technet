@@ -4,7 +4,7 @@ TOCTitle: Delete project journals
 ms:assetid: b1c9c606-9c92-41e6-aeb7-29d6065c4feb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781098(v=AX.60)
 ms:contentKeyID: 43894511
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

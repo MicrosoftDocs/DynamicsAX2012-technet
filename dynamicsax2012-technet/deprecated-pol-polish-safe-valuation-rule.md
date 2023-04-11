@@ -4,7 +4,7 @@ TOCTitle: (POL) Polish safe valuation rule
 ms:assetid: 0e8c8c15-d053-450c-8234-d243a433fdb9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507128(v=AX.60)
 ms:contentKeyID: 59623217
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Define processes and stages for campaigns, leads, and opportunities
 ms:assetid: c6fc9b46-5b49-44f1-8b06-d31c9c6e9cc6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213644(v=AX.60)
 ms:contentKeyID: 36059308
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

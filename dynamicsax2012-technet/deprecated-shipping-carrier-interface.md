@@ -4,7 +4,7 @@ TOCTitle: Shipping carrier interface
 ms:assetid: d714925c-d1c9-4b59-b1d6-812fdc64c58d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn753831(v=AX.60)
 ms:contentKeyID: 62486008
-author: Khairunj
+author: tonyafehr
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

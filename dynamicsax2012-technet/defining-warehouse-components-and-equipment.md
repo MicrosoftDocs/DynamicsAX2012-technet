@@ -4,7 +4,7 @@ TOCTitle: Defining warehouse components and equipment
 ms:assetid: 20196678-4379-4a59-a877-e38a950393ce
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230980(v=AX.60)
 ms:contentKeyID: 36056159
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

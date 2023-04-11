@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX 2009 benefits setup forms
 ms:assetid: abc9aa41-7e84-415b-b28d-940d154e9158
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527204(v=AX.60)
 ms:contentKeyID: 59623333
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

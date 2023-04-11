@@ -4,7 +4,7 @@ TOCTitle: Deploy services and AIF
 ms:assetid: 1c0f4750-239f-495c-b3cf-be975be78a9e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751363(v=AX.60)
 ms:contentKeyID: 35132570
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Deploy Microsoft Dynamics AX Web parts to a SharePoint site
 ms:assetid: d0481af6-10c3-48ac-bec3-a8a68c3accc8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575250(v=AX.60)
 ms:contentKeyID: 39555413
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

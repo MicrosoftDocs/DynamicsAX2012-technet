@@ -4,7 +4,7 @@ TOCTitle: Microsoft Business Solutions Perimeter Network Configuration Wizard
 ms:assetid: 5a060d70-5221-4b05-9b4d-f33f17754107
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527158(v=AX.60)
 ms:contentKeyID: 59623287
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

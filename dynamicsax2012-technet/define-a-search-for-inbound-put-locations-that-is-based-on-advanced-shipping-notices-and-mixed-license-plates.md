@@ -4,7 +4,7 @@ TOCTitle: Define a search for inbound put locations that is based on advanced sh
 ms:assetid: 3444f8fa-6ab8-4437-a4d1-a5d96a7b0972
 ms:mtpsurl: https://technet.microsoft.com/library/Mt740363(v=AX.60)
 ms:contentKeyID: 73212214
-author: Khairunj
+author: tonyafehr
 ms.date: 07/15/2016
 mtps_version: v=AX.60
 audience: Application User

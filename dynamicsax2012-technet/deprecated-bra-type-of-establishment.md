@@ -4,7 +4,7 @@ TOCTitle: (BRA) Type of establishment
 ms:assetid: 012064a4-18d5-4d30-8903-a5245f238123
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507109(v=AX.60)
 ms:contentKeyID: 59623199
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

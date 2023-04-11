@@ -4,7 +4,7 @@ TOCTitle: Define pack size categories and location stocking limits
 ms:assetid: f36c836e-799b-4ace-b3b6-190d6967b9b7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553212(v=AX.60)
 ms:contentKeyID: 62200187
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Define Budgeting parameters and number sequences
 ms:assetid: ff5559b1-295e-4cc0-b034-2eb61f286890
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227593(v=AX.60)
 ms:contentKeyID: 36060131
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

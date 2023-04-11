@@ -4,7 +4,7 @@ TOCTitle: Deactivate past workers
 ms:assetid: 2c16432e-5688-49a6-9d26-3bdc825475d1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn505748(v=AX.60)
 ms:contentKeyID: 59604021
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

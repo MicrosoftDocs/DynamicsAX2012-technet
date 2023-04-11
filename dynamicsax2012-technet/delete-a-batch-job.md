@@ -4,7 +4,7 @@ TOCTitle: Delete a batch job
 ms:assetid: 52acf8ba-d0b7-4677-8bab-12b0e2913cdb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548919(v=AX.60)
 ms:contentKeyID: 36057289
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

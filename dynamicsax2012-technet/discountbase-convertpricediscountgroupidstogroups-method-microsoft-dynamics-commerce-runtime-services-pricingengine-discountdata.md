@@ -4,7 +4,7 @@ TOCTitle: ConvertPriceDiscountGroupIdsToGroups Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase.ConvertPriceDiscountGroupIdsToGroups(System.Collections.Generic.ISet{System.Int64},Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.convertpricediscountgroupidstogroups(v=AX.60)
 ms:contentKeyID: 62212379
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

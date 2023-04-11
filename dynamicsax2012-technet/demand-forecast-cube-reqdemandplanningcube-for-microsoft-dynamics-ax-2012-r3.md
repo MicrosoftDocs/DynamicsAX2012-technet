@@ -4,7 +4,7 @@ TOCTitle: Demand forecast cube (ReqDemandPlanningCube
 ms:assetid: 2dedf602-3be7-4f0e-bcb9-83809f7b4001
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716004(v=AX.60)
 ms:contentKeyID: 62200227
-author: Khairunj
+author: tonyafehr
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (BRA) CNPJ or CPF validation by using categories
 ms:assetid: 1269d6e8-05c6-4090-a819-06dced8f215d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507134(v=AX.60)
 ms:contentKeyID: 59623222
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

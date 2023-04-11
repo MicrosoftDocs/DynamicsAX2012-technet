@@ -4,7 +4,7 @@ TOCTitle: IndexOf Method (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.IndexOf(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn998819(v=AX.60)
 ms:contentKeyID: 65317503
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

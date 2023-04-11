@@ -4,7 +4,7 @@ TOCTitle: Define and maintain the disallowed vendors list
 ms:assetid: 3ba21984-54eb-474a-8b21-e90729fed06b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433533(v=AX.60)
 ms:contentKeyID: 36941322
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

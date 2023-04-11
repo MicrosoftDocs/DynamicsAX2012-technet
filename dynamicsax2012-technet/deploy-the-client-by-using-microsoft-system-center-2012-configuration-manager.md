@@ -4,7 +4,7 @@ TOCTitle: Deploy the client by using Microsoft System Center 2012 Configuration 
 ms:assetid: 9527b874-0f9d-46cf-acef-3d8b02d659fa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ841390(v=AX.60)
 ms:contentKeyID: 50408939
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

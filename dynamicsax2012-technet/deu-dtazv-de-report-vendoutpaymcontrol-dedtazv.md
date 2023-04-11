@@ -4,7 +4,7 @@ TOCTitle: (DEU) DTAZV (DE) report (VendOutPaymControl_DEDTAZV)
 ms:assetid: dc8f00dc-70e9-4da5-b753-c99b8ec9b085
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524742(v=AX.60)
 ms:contentKeyID: 37072038
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

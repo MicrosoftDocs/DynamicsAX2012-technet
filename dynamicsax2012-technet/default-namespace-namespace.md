@@ -4,7 +4,7 @@ TOCTitle: ( Default Namespace )
 ms:assetid: 'n:'
 ms:mtpsurl: https://technet.microsoft.com/library/ms123458(v=VS.80)
 ms:contentKeyID: 187581
-author: Khairunj
+author: tonyafehr
 ms.date: 07/18/2007
 mtps_version: v=VS.80
 f1_keywords:

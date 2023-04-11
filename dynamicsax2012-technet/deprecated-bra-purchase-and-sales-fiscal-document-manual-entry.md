@@ -4,7 +4,7 @@ TOCTitle: (BRA) Purchase and sales fiscal document manual entry
 ms:assetid: fb311f75-e8b6-4094-9572-f1f8e5dcbea4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527269(v=AX.60)
 ms:contentKeyID: 59623397
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

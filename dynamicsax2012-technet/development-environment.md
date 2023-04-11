@@ -4,7 +4,7 @@ TOCTitle: Development environment
 ms:assetid: 4edac9a1-dd91-4a10-8feb-b0eb4dd2935b
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309674(v=AX.60)
 ms:contentKeyID: 35132633
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

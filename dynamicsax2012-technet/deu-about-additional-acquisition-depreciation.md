@@ -4,7 +4,7 @@ TOCTitle: (DEU) About additional acquisition depreciation
 ms:assetid: 60ff4708-d075-4d5c-88d2-d3dfda3ca666
 ms:mtpsurl: https://technet.microsoft.com/library/JJ851017(v=AX.60)
 ms:contentKeyID: 50041963
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

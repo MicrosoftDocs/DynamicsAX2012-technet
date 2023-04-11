@@ -4,7 +4,7 @@ TOCTitle: (IND) Duty Entitlement Pass Book (DEPB)
 ms:assetid: 2d95e40e-9597-4ee7-93de-dddfd2ccf8f4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507142(v=AX.60)
 ms:contentKeyID: 59623227
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

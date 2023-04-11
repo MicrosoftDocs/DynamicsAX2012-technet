@@ -4,7 +4,7 @@ TOCTitle: Development configuration key (SysDevelopmentMorphX)
 ms:assetid: d9683edb-77a6-4583-b0de-b488bdb158cb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa619761(v=AX.60)
 ms:contentKeyID: 36997776
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

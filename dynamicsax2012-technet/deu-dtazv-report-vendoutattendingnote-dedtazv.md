@@ -4,7 +4,7 @@ TOCTitle: (DEU) DTAZV report (VendOutAttendingNote_DEDTAZV)
 ms:assetid: 262c4df2-0d04-4583-858a-32ccd245a011
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335136(v=AX.60)
 ms:contentKeyID: 36687346
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

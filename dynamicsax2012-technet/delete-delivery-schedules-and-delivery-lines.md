@@ -4,7 +4,7 @@ TOCTitle: Delete delivery schedules and delivery lines
 ms:assetid: 3d2b3435-ca67-4456-a2f6-5ef9ab87e65e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242235(v=AX.60)
 ms:contentKeyID: 36056674
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

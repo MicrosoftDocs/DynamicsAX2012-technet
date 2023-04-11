@@ -4,7 +4,7 @@ TOCTitle: (IND) Deprecation of TDS certificates (Form 16A)
 ms:assetid: 78135193-a8c8-4390-88e7-ae575dc44d8b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527146(v=AX.60)
 ms:contentKeyID: 59623275
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

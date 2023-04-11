@@ -4,7 +4,7 @@ TOCTitle: Configurable item check box
 ms:assetid: e15c1e6c-394b-48e7-a1ee-7502aeaee011
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527227(v=AX.60)
 ms:contentKeyID: 59623355
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

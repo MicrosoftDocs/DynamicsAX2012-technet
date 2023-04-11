@@ -4,7 +4,7 @@ TOCTitle: Delivery date control configuration key (SalesDeliveryDateControl)
 ms:assetid: 1e4aeb8c-7463-4d62-bfed-813a493e6e23
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499462(v=AX.60)
 ms:contentKeyID: 36997743
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

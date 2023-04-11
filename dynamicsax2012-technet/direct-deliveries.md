@@ -4,7 +4,7 @@ TOCTitle: Direct deliveries
 ms:assetid: a203434a-7793-4e06-b8a6-912f924edb85
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571822(v=AX.60)
 ms:contentKeyID: 39519265
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

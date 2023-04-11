@@ -4,7 +4,7 @@ TOCTitle: (DEU) Export GDPdU data
 ms:assetid: a9e2b295-0ba6-43a0-b747-d3a5d0f8331c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa589213(v=AX.60)
 ms:contentKeyID: 36058898
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

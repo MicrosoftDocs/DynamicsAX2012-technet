@@ -4,7 +4,7 @@ TOCTitle: Delete service orders
 ms:assetid: 08e02307-d3d4-4be9-9c55-ea467d91cc48
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569731(v=AX.60)
 ms:contentKeyID: 36055976
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (LVA) State invoice numbering
 ms:assetid: 6bcab8bc-c42a-4ef3-a97a-89bd47eaba58
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527139(v=AX.60)
 ms:contentKeyID: 59623268
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

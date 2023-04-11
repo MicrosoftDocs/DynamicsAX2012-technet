@@ -4,7 +4,7 @@ TOCTitle: Developing Solutions for Microsoft Dynamics AX in a Shared AOS Develop
 ms:assetid: 89199019-a8d3-45ca-8991-e04d50180e83
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352230(v=AX.60)
 ms:contentKeyID: 36687855
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
