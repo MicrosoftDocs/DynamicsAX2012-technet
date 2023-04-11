@@ -4,7 +4,7 @@ TOCTitle: Business connector users license code (SysCOMUsers)
 ms:assetid: 320a3a93-996d-4c56-87ca-85aba1d141e9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450727(v=AX.60)
 ms:contentKeyID: 36966663
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

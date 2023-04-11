@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a project debit note
 ms:assetid: ed956e1a-25bf-47dd-aaa0-891b864b9833
 ms:mtpsurl: https://technet.microsoft.com/library/JJ916231(v=AX.60)
 ms:contentKeyID: 50877512
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up taxation origin for items
 ms:assetid: b74e8659-0ecd-438e-8226-82e163f2aac7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710601(v=AX.60)
 ms:contentKeyID: 49384490
-author: Khairunj
+author: tfehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

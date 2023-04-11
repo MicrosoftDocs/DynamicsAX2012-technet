@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up a number sequence for Bordero payments
 ms:assetid: 9e84ca08-6b79-4ebc-8fc1-25a75945c5d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911311(v=AX.60)
 ms:contentKeyID: 52075261
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

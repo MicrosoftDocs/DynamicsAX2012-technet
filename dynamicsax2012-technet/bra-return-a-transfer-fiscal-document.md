@@ -4,7 +4,7 @@ TOCTitle: (BRA) Return a transfer fiscal document
 ms:assetid: e3d0201b-f676-4e19-baff-586eabbbae30
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933535(v=AX.60)
 ms:contentKeyID: 50935149
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

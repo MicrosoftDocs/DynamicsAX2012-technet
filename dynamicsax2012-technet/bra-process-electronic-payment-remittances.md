@@ -4,7 +4,7 @@ TOCTitle: (BRA) Process electronic payment remittances
 ms:assetid: b6dfc0bc-f391-4dc7-beb8-d056bdb3da9d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730976(v=AX.60)
 ms:contentKeyID: 49675206
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

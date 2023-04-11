@@ -4,7 +4,7 @@ TOCTitle: (BRA) Process the sale of items to salespersons
 ms:assetid: d6e62d6c-d0a2-443c-84ef-b887f4f58046
 ms:mtpsurl: https://technet.microsoft.com/library/JJ863739(v=AX.60)
 ms:contentKeyID: 50396421
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

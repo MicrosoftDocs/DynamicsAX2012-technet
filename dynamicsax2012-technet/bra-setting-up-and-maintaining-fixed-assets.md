@@ -4,7 +4,7 @@ TOCTitle: (BRA) Setting up and maintaining Fixed assets
 ms:assetid: 201a7cfa-67db-45cc-a2b6-6200556c959d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710434(v=AX.60)
 ms:contentKeyID: 49384326
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

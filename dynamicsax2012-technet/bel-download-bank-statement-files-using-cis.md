@@ -4,7 +4,7 @@ TOCTitle: (BEL) Download bank statement files using CIS
 ms:assetid: 6aba7bd5-3c4b-4d93-b4bc-f768bfc62d95
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242610(v=AX.60)
 ms:contentKeyID: 36057983
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

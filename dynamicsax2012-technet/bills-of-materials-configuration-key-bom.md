@@ -4,7 +4,7 @@ TOCTitle: Bills of materials configuration key (BOM)
 ms:assetid: e9cb2fee-c633-4426-861e-bd854439383d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa592252(v=AX.60)
 ms:contentKeyID: 36997777
-author: Khairunj
+author: tfehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

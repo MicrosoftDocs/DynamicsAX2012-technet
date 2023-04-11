@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up the CFOP codes
 ms:assetid: 9441235e-0f15-47bf-8bc9-36c8eb608805
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933526(v=AX.60)
 ms:contentKeyID: 50935139
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

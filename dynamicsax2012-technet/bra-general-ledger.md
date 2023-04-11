@@ -4,7 +4,7 @@ TOCTitle: (BRA) General ledger
 ms:assetid: 82c41ec2-d8da-4766-91c9-be75ddcdf928
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710549(v=AX.60)
 ms:contentKeyID: 49384439
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

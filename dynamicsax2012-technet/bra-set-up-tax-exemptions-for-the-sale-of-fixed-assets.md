@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up tax exemptions for the sale of fixed assets
 ms:assetid: 615c44e2-d140-41cc-a2d7-d4dd4d663287
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710518(v=AX.60)
 ms:contentKeyID: 49384409
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

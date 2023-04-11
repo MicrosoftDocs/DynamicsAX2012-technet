@@ -4,7 +4,7 @@ TOCTitle: (CAN, USA) Accrued purchases report (VendAccruedPurchases_NA)
 ms:assetid: 8a9e1dc0-cf71-4f5f-86d3-f0db27725806
 ms:mtpsurl: https://technet.microsoft.com/library/Aa598272(v=AX.60)
 ms:contentKeyID: 37832019
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

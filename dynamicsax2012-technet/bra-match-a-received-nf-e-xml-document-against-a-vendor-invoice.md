@@ -4,7 +4,7 @@ TOCTitle: (BRA) Match a received NF-e XML document against a vendor invoice
 ms:assetid: 9e48008f-a3f7-4884-bd19-78edfebc48f9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn753711(v=AX.60)
 ms:contentKeyID: 62485055
-author: Khairunj
+author: tfehr
 ms.date: 06/09/2014
 mtps_version: v=AX.60
 f1_keywords:

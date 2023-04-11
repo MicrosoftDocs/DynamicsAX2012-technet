@@ -4,7 +4,7 @@ TOCTitle: CapturePaymentServiceRequest Constructor (TenderLine, PaymentCard)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CapturePaymentServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.TenderLine,Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.capturepaymentservicerequest.capturepaymentservicerequest(v=AX.60)
 ms:contentKeyID: 65315813
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

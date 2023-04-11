@@ -4,7 +4,7 @@ TOCTitle: CalculatePaymentAmountServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculatePaymentAmountServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.calculatepaymentamountserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 62214011
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a sales complementary fiscal document
 ms:assetid: 555f5e54-127c-49d9-b1dc-46ef6c956ece
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710509(v=AX.60)
 ms:contentKeyID: 49384400
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

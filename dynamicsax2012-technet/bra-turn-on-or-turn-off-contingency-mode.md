@@ -4,7 +4,7 @@ TOCTitle: (BRA) Turn on or turn off contingency mode
 ms:assetid: 26590a7a-7da2-4880-b9f0-84e5db693bb0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933500(v=AX.60)
 ms:contentKeyID: 50935115
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

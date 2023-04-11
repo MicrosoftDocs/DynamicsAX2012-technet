@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate an outgoing electronic fiscal document for a service sa
 ms:assetid: 86f4346c-cae9-4cb0-8c34-a810ee7ec47a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710556(v=AX.60)
 ms:contentKeyID: 49384446
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

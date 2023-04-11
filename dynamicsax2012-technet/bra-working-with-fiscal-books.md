@@ -4,7 +4,7 @@ TOCTitle: (BRA) Working with fiscal books
 ms:assetid: f6897d86-5f5d-41b6-b772-cb57c3fa06b9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305890(v=AX.60)
 ms:contentKeyID: 54912986
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

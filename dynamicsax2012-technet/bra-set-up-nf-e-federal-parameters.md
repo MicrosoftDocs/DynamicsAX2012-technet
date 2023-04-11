@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up NF-e federal parameters
 ms:assetid: 45298749-f4bb-4cb9-8696-87687243a37a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933512(v=AX.60)
 ms:contentKeyID: 50935128
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

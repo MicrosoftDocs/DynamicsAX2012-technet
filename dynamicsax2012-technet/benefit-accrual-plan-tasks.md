@@ -4,7 +4,7 @@ TOCTitle: Benefit accrual plan tasks
 ms:assetid: 020cfd57-205e-44a8-81b1-e07de7fb2474
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677319(v=AX.60)
 ms:contentKeyID: 49384090
-author: Khairunj
+author: tfehr
 ms.date: 11/11/2015
 mtps_version: v=AX.60
 f1_keywords:

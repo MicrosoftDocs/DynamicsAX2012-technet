@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create a correction letter
 ms:assetid: 164a7b5a-c140-4624-96e8-5cfe5b6a8890
 ms:mtpsurl: https://technet.microsoft.com/library/JJ917351(v=AX.60)
 ms:contentKeyID: 50952840
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

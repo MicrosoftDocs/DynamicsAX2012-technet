@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate and validate the SPED ECD statement
 ms:assetid: 8d84db97-4bf2-4e79-bef6-2c6c4b47c1d7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600279(v=AX.60)
 ms:contentKeyID: 62200243
-author: Khairunj
+author: tfehr
 ms.date: 05/07/2014
 mtps_version: v=AX.60
 f1_keywords:

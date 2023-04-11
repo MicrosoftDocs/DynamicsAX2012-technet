@@ -4,7 +4,7 @@ TOCTitle: GetReportData Method (String, IEnumerable(CommerceProperty), String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.BusinessIntelligenceManager.GetReportData(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceProperty},System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.businessintelligencemanager.getreportdata(v=AX.60)
 ms:contentKeyID: 65316242
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (BEL) Sales tax corrections report (TaxReportCorrectionBE)
 ms:assetid: 95cd3d9f-6a6c-47bb-aab1-48a4055657e3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692470(v=AX.60)
 ms:contentKeyID: 41702367
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

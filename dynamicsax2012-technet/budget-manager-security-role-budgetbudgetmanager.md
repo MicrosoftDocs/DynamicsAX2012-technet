@@ -4,7 +4,7 @@ TOCTitle: Budget manager security role (BudgetBudgetManager)
 ms:assetid: 60833b73-f679-4777-b40f-e87de6f85c2c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527096(v=AX.60)
 ms:contentKeyID: 37823148
-author: Khairunj
+author: tfehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

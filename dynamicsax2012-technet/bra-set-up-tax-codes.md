@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up tax codes
 ms:assetid: c53c7ba6-9ce2-4aa2-b7f8-cbccbad8dff7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ682106(v=AX.60)
 ms:contentKeyID: 49655602
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

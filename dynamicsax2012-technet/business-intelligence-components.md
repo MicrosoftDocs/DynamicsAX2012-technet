@@ -4,7 +4,7 @@ TOCTitle: Business intelligence components
 ms:assetid: 508c9297-8986-4188-9da5-c342ff26c332
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731794(v=AX.60)
 ms:contentKeyID: 35132635
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

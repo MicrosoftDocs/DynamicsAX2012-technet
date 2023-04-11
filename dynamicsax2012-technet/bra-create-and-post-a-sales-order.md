@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a sales order
 ms:assetid: fea69605-a462-4041-8b29-e6da584c9f0b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ822924(v=AX.60)
 ms:contentKeyID: 50117581
-author: Khairunj
+author: tfehr
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

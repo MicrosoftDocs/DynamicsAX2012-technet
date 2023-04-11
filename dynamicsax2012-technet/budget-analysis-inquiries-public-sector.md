@@ -4,7 +4,7 @@ TOCTitle: Budget analysis inquiries (Public sector)
 ms:assetid: a8102d21-014b-437f-a6d5-efb8b1fc7d85
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715993(v=AX.60)
 ms:contentKeyID: 62200218
-author: Khairunj
+author: tfehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

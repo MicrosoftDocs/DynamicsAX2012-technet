@@ -4,7 +4,7 @@ TOCTitle: (BEL) Generate and upload payments by using Generic ISO20022 credit tr
 ms:assetid: c01357bc-32c3-436e-97c7-367a88e8ed56
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500669(v=AX.60)
 ms:contentKeyID: 37822158
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

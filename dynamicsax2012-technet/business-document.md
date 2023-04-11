@@ -4,7 +4,7 @@ TOCTitle: " business document"
 ms:assetid: DynamicsAXGlossary.1465556
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1465556(v=AX.60)
 ms:contentKeyID: 36057080
-author: Khairunj
+author: tfehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

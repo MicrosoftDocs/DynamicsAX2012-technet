@@ -4,7 +4,7 @@ TOCTitle: ServiceAccountId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CardTokenInfo.ServiceAccountId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cardtokeninfo.serviceaccountid(v=AX.60)
 ms:contentKeyID: 65321307
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

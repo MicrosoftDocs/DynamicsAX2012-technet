@@ -4,7 +4,7 @@ TOCTitle: (BRA) Manage vendor settlements
 ms:assetid: 61602dfc-2dc6-40c6-950a-44a88e715552
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710521(v=AX.60)
 ms:contentKeyID: 49384412
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

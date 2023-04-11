@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up, import, and verify NF-e XML documents and DANFE that you
 ms:assetid: 1ddf4c84-168e-45b1-a2a7-407b784dfcf8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479042(v=AX.60)
 ms:contentKeyID: 59632410
-author: Khairunj
+author: tfehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Batch server overview
 ms:assetid: 0ce6ebff-7781-41ed-9a61-199d9638f487
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309586(v=AX.60)
 ms:contentKeyID: 35132538
-author: Khairunj
+author: tfehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up Brazilian parameters
 ms:assetid: 8d8fb2f6-6a27-4abe-8585-78391de8bf2e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853381(v=AX.60)
 ms:contentKeyID: 50396750
-author: Khairunj
+author: tfehr
 ms.date: 07/08/2015
 mtps_version: v=AX.60
 f1_keywords:

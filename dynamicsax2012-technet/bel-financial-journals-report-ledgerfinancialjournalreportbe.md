@@ -4,7 +4,7 @@ TOCTitle: (BEL) Financial journals report (LedgerFinancialJournalReportBE)
 ms:assetid: be05a8e9-de7e-41e2-a339-79d76034a1e3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527156(v=AX.60)
 ms:contentKeyID: 37823207
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

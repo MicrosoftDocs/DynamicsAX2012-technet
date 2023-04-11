@@ -4,7 +4,7 @@ TOCTitle: (BEL) Belgian sales tax by vendor report (TaxAmountByVendor_BE)
 ms:assetid: d26e9ee2-c885-4557-b6d4-91e8b86c4741
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527158(v=AX.60)
 ms:contentKeyID: 37823209
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

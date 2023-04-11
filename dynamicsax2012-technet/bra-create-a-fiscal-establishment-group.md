@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create a fiscal establishment group
 ms:assetid: 4157bbb4-c7b7-4c80-85cc-5f9e77a505f5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910982(v=AX.60)
 ms:contentKeyID: 52075245
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

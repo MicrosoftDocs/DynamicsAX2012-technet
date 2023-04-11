@@ -4,7 +4,7 @@ TOCTitle: BUS Runtime configuration key (RuntimeBUS)
 ms:assetid: b7ead02d-4106-4e04-bb8f-68b1aa6a2e29
 ms:mtpsurl: https://technet.microsoft.com/library/Aa598608(v=AX.60)
 ms:contentKeyID: 36997766
-author: Khairunj
+author: tfehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate DANFE as PDF files
 ms:assetid: 382d48d6-6fcb-47fc-8494-f0c681fa3b49
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527706(v=AX.60)
 ms:contentKeyID: 59626284
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

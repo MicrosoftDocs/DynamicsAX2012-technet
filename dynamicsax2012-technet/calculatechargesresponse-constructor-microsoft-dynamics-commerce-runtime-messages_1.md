@@ -4,7 +4,7 @@ TOCTitle: CalculateChargesResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.CalculateChargesResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.calculatechargesresponse.calculatechargesresponse(v=AX.60)
 ms:contentKeyID: 62213312
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

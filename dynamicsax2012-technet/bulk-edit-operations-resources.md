@@ -4,7 +4,7 @@ TOCTitle: Bulk edit operations resources
 ms:assetid: 47d081e6-ffec-4b9c-814c-35428ca7c34b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242394(v=AX.60)
 ms:contentKeyID: 36056919
-author: Khairunj
+author: tfehr
 ms.date: 09/16/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Post an NF-e from a project invoice
 ms:assetid: 21d77e19-7018-4411-a904-607a2605bd44
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933501(v=AX.60)
 ms:contentKeyID: 50935114
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

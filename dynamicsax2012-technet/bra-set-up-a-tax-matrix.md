@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up a tax matrix
 ms:assetid: 7ec568e6-dbd0-4d5f-a50c-ca4c68df0060
 ms:mtpsurl: https://technet.microsoft.com/library/JJ943750(v=AX.60)
 ms:contentKeyID: 51028416
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

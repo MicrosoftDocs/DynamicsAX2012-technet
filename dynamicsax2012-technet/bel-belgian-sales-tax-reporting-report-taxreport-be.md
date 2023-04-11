@@ -4,7 +4,7 @@ TOCTitle: (BEL) Belgian sales tax reporting report (TaxReport_BE)
 ms:assetid: 93cfa6f6-72b1-4731-856a-83d904622d22
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527154(v=AX.60)
 ms:contentKeyID: 37823205
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Configuring required General ledger information
 ms:assetid: dfbfad8f-3150-45f8-a163-87977d08f96b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663952(v=AX.60)
 ms:contentKeyID: 49384543
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

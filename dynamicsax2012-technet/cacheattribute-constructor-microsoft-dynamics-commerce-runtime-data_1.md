@@ -4,7 +4,7 @@ TOCTitle: CacheAttribute Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.CacheAttribute.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.cacheattribute.cacheattribute(v=AX.60)
 ms:contentKeyID: 65315979
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

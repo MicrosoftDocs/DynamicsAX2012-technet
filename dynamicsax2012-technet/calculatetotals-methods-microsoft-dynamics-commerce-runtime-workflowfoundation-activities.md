@@ -4,7 +4,7 @@ TOCTitle: CalculateTotals Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.CalculateTotals
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.calculatetotals_methods(v=AX.60)
 ms:contentKeyID: 65319112
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

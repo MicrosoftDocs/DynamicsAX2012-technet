@@ -4,7 +4,7 @@ TOCTitle: (BRA) Free text invoices
 ms:assetid: c6ad3061-1f15-4afa-a968-e5c8e182eab8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663922(v=AX.60)
 ms:contentKeyID: 49384508
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

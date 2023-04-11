@@ -4,7 +4,7 @@ TOCTitle: 'Business process: Planning and processing outbound loads for shipping
 ms:assetid: 6fede9e9-7d02-488c-bf49-e53fa86c1e22
 ms:mtpsurl: https://technet.microsoft.com/library/Dn770233(v=AX.60)
 ms:contentKeyID: 62583046
-author: Khairunj
+author: tfehr
 ms.date: 07/11/2014
 mtps_version: v=AX.60
 f1_keywords:

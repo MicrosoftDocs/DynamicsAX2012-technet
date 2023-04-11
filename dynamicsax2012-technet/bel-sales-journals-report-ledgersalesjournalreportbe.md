@@ -4,7 +4,7 @@ TOCTitle: (BEL) Sales journals report (LedgerSalesJournalReportBE)
 ms:assetid: c9e95d37-c325-472f-858d-67f9885c46c6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527157(v=AX.60)
 ms:contentKeyID: 37823208
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

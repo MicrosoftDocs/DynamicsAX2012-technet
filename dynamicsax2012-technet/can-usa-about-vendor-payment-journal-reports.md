@@ -4,7 +4,7 @@ TOCTitle: (CAN, USA) About vendor payment journal reports
 ms:assetid: 53e2b3b0-1017-43cb-9363-ad4d1638142f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548929(v=AX.60)
 ms:contentKeyID: 36057301
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

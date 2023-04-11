@@ -4,7 +4,7 @@ TOCTitle: CardTypeInfo Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.CardTypeInfo.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cardtypeinfo.cardtypeinfo(v=AX.60)
 ms:contentKeyID: 62210070
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

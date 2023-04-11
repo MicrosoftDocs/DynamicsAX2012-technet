@@ -4,7 +4,7 @@ TOCTitle: (BRA) Working with Fixed assets
 ms:assetid: e4fed087-419c-485e-9d34-f11096cb29dd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663965(v=AX.60)
 ms:contentKeyID: 49384550
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
