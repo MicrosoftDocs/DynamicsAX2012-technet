@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reconciliation cash ledger report (RCashLedgerReconciliationCont
 ms:assetid: 9195ab1b-9858-4682-b445-abdc5314254f
 ms:mtpsurl: https://technet.microsoft.com/library/Xx187161(v=AX.60)
 ms:contentKeyID: 52055987
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

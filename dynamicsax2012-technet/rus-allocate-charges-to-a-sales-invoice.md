@@ -4,7 +4,7 @@ TOCTitle: (RUS) Allocate charges to a sales invoice
 ms:assetid: 78c99643-4a16-47be-a05a-b432622facef
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853194(v=AX.60)
 ms:contentKeyID: 50396479
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

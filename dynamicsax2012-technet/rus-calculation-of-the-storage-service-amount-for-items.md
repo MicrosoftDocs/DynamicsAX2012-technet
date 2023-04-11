@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculation of the storage service amount for items
 ms:assetid: 11f313eb-d4e0-47e0-ac7f-7abf734664f0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711401(v=AX.60)
 ms:contentKeyID: 49387221
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

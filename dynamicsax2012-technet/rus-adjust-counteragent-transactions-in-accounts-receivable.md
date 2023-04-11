@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjust counteragent transactions in accounts receivable
 ms:assetid: 4355c1a1-d8d2-4d60-8172-1ada2ba2c929
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665322(v=AX.60)
 ms:contentKeyID: 49387411
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

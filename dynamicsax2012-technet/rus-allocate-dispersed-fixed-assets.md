@@ -4,7 +4,7 @@ TOCTitle: (RUS) Allocate dispersed fixed assets
 ms:assetid: 0f8f3286-eb99-4c53-b3e7-148f5dd83e2c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711396(v=AX.60)
 ms:contentKeyID: 49387214
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

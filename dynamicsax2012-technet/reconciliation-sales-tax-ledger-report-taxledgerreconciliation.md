@@ -4,7 +4,7 @@ TOCTitle: Reconciliation sales tax/ledger report (TaxLedgerReconciliation)
 ms:assetid: f2358031-c7da-4469-9e99-6c7ddd160b18
 ms:mtpsurl: https://technet.microsoft.com/library/Aa620735(v=AX.60)
 ms:contentKeyID: 43894493
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

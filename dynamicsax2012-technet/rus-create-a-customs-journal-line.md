@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a customs journal line
 ms:assetid: 980703d7-eb8b-4358-8462-d56b39abb013
 ms:mtpsurl: https://technet.microsoft.com/library/JJ917356(v=AX.60)
 ms:contentKeyID: 50952845
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

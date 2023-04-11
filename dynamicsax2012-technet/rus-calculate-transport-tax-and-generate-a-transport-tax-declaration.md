@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate transport tax and generate a transport tax declaration
 ms:assetid: 47080df1-cf5b-4c04-9673-e27cecb415d9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665340(v=AX.60)
 ms:contentKeyID: 49387428
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

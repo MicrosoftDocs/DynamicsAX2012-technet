@@ -4,7 +4,7 @@ TOCTitle: RFID business processing configuration key (RFIDBusinessProcessing)
 ms:assetid: d6644930-b324-4d7f-986f-8a566085d216
 ms:mtpsurl: https://technet.microsoft.com/library/Aa557913(v=AX.60)
 ms:contentKeyID: 36941230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

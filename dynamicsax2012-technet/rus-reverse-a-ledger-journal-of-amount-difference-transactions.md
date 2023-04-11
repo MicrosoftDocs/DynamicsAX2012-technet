@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reverse a ledger journal of amount difference transactions
 ms:assetid: ee00a188-a56a-4cec-9e1e-adc8e505f78a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923611(v=AX.60)
 ms:contentKeyID: 53382727
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculation algorithm for WIP and FP estimation
 ms:assetid: 7c427813-6d39-439c-bbbd-8c4edbad2580
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923548(v=AX.60)
 ms:contentKeyID: 52075397
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

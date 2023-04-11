@@ -4,7 +4,7 @@ TOCTitle: (RUS) Export a cash due announcement report to Excel
 ms:assetid: 21bc89ad-ceb5-4682-b1c8-7ef231f4d40d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711464(v=AX.60)
 ms:contentKeyID: 49387281
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: RetailPublishingJobSettings Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.RetailPublishingJobSettings
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.retailpublishingjobsettings_fields(v=AX.60)
 ms:contentKeyID: 65317499
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

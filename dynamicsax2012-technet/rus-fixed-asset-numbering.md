@@ -4,7 +4,7 @@ TOCTitle: (RUS) Fixed asset numbering
 ms:assetid: 7ed8077d-9de7-48cb-8993-27d727c674c1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678404(v=AX.60)
 ms:contentKeyID: 49387634
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

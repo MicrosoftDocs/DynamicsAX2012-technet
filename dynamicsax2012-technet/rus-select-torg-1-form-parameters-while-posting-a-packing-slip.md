@@ -4,7 +4,7 @@ TOCTitle: (RUS) Select TORG-1 form parameters while posting a packing slip
 ms:assetid: 56ce84be-7118-4e16-a0f0-3762343dc9b0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665394(v=AX.60)
 ms:contentKeyID: 49387482
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

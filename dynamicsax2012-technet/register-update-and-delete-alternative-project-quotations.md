@@ -4,7 +4,7 @@ TOCTitle: Register, update, and delete alternative project quotations
 ms:assetid: 7d874dbb-a9ef-4436-8580-e59e77ea4c8a
 ms:mtpsurl: https://technet.microsoft.com/library/Bb176092(v=AX.60)
 ms:contentKeyID: 36058307
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

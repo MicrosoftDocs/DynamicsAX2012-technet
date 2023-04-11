@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reverse a receipt transaction
 ms:assetid: 3129b911-eac3-40da-87e0-38577f18c051
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665254(v=AX.60)
 ms:contentKeyID: 49387344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

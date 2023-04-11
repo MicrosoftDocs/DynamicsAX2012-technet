@@ -4,7 +4,7 @@ TOCTitle: Resource scheduling configuration key (PSAABS)
 ms:assetid: 789a4146-b406-49d4-b89c-46af402c5442
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500155(v=AX.60)
 ms:contentKeyID: 37820186
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

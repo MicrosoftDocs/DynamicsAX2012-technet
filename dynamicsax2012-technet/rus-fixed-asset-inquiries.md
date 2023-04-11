@@ -4,7 +4,7 @@ TOCTitle: (RUS) Fixed asset inquiries
 ms:assetid: e4090014-bdd7-42c0-8382-bf6887491bc6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711718(v=AX.60)
 ms:contentKeyID: 49388041
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

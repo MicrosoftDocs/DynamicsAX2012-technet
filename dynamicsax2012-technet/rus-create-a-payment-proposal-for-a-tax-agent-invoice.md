@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a payment proposal for a tax agent invoice
 ms:assetid: 84c98b3f-55bb-4b67-a809-d156879bad79
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678437(v=AX.60)
 ms:contentKeyID: 49387667
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

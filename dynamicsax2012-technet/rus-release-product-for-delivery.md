@@ -4,7 +4,7 @@ TOCTitle: (RUS) Release product for delivery
 ms:assetid: d86aa7d5-13bb-4ae9-999d-a0c27bf4e3fe
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711672(v=AX.60)
 ms:contentKeyID: 49387995
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

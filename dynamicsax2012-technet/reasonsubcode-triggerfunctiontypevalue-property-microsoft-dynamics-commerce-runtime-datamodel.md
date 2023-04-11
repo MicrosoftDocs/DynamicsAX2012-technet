@@ -4,7 +4,7 @@ TOCTitle: TriggerFunctionTypeValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonSubCode.TriggerFunctionTypeValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasonsubcode.triggerfunctiontypevalue(v=AX.60)
 ms:contentKeyID: 62208711
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

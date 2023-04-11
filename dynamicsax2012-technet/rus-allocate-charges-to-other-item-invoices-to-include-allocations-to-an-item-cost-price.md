@@ -4,7 +4,7 @@ TOCTitle: (RUS) Allocate charges to other item invoices to include allocations t
 ms:assetid: 2f75fa31-ac2f-46f0-8b9f-9d7650ba78b2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733195(v=AX.60)
 ms:contentKeyID: 49685163
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

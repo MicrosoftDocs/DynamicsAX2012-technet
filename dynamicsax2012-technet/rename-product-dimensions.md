@@ -4,7 +4,7 @@ TOCTitle: Rename product dimensions
 ms:assetid: 1d09964b-89e0-4420-9624-9ffba68fb7a4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569940(v=AX.60)
 ms:contentKeyID: 36056139
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

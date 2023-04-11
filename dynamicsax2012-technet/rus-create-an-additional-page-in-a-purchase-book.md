@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create an additional page in a purchase book
 ms:assetid: 3fe92961-9f5e-4b18-a8dd-ed00ac87fff6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665315(v=AX.60)
 ms:contentKeyID: 49387404
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Register an absence (Enterprise Portal)
 ms:assetid: 4109eb13-51bd-4529-9139-66b0af78e6a4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271514(v=AX.60)
 ms:contentKeyID: 36384146
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

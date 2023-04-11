@@ -4,7 +4,7 @@ TOCTitle: Remove a batch order from a consolidated batch order
 ms:assetid: f8b32cca-23db-4a60-b32c-407ba504af0d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh328614(v=AX.60)
 ms:contentKeyID: 36688046
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

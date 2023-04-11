@@ -4,7 +4,7 @@ TOCTitle: Remove outliers from historical transaction data when calculating a de
 ms:assetid: 78156831-8a36-4421-8b7c-be1de68e8e10
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715969(v=AX.60)
 ms:contentKeyID: 62200097
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create, post, and print a by-product journal from a report as fi
 ms:assetid: 27530c69-6d36-4529-9db5-987459fc77af
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665215(v=AX.60)
 ms:contentKeyID: 49387305
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

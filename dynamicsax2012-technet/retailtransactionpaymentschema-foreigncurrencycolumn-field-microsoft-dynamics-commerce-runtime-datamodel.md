@@ -4,7 +4,7 @@ TOCTitle: ForeignCurrencyColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailTransactionPaymentSchema.ForeignCurrencyColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.foreigncurrencycolumn(v=AX.60)
 ms:contentKeyID: 65321011
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Register a fixed asset acquisition using an invoice journal
 ms:assetid: 34bbdc29-e838-45cf-bcda-2b590cf36e4a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665269(v=AX.60)
 ms:contentKeyID: 49387358
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

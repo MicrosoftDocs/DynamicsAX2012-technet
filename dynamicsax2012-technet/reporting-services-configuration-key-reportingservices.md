@@ -4,7 +4,7 @@ TOCTitle: Reporting Services configuration key (ReportingServices)
 ms:assetid: 121754bd-4c2c-488a-9070-efab7c78b409
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572083(v=AX.60)
 ms:contentKeyID: 36941195
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

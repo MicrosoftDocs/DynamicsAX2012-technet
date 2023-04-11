@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the intangible assets depreciation (nonlinear method) 
 ms:assetid: f8080591-bfeb-4a29-a4ff-1beed0456acb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678626(v=AX.60)
 ms:contentKeyID: 49388108
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

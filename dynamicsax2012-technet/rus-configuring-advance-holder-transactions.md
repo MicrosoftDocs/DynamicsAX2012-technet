@@ -4,7 +4,7 @@ TOCTitle: (RUS) Configuring advance holder transactions
 ms:assetid: 38e26f85-4b24-4051-b96c-2711c7e5ffbc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665288(v=AX.60)
 ms:contentKeyID: 49387377
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Reporting currency configuration key (CurrencySecondaryCurrency)
 ms:assetid: 3d8ec911-48d2-4612-a411-328b7c8e90a9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433450(v=AX.60)
 ms:contentKeyID: 36941202
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

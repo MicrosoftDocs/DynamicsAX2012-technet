@@ -4,7 +4,7 @@ TOCTitle: (RUS) Fiscal printer integration for retail sales
 ms:assetid: 54cd21aa-a998-4eb9-aea0-bcf3bf3f1634
 ms:mtpsurl: https://technet.microsoft.com/library/Dn510393(v=AX.60)
 ms:contentKeyID: 59944201
-author: Khairunj
+author: tonyafehr
 ms.date: 02/27/2015
 mtps_version: v=AX.60
 f1_keywords:

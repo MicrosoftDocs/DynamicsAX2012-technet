@@ -4,7 +4,7 @@ TOCTitle: Registration/Picking configuration key (LogisticsRegistration)
 ms:assetid: 67ade66a-0318-4de6-885b-3813a4aaf350
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585476(v=AX.60)
 ms:contentKeyID: 36993546
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

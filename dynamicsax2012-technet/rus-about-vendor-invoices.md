@@ -4,7 +4,7 @@ TOCTitle: (RUS) About vendor invoices
 ms:assetid: d1f41d18-a115-4fc5-83f6-7b1075149c27
 ms:mtpsurl: https://technet.microsoft.com/library/JJ841095(v=AX.60)
 ms:contentKeyID: 50406254
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

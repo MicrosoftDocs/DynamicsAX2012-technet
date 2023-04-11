@@ -4,7 +4,7 @@ TOCTitle: SetCheckAccessRetailOperationAction Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.RequestContextExtensions.SetCheckAccessRetailOperationAction(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.Action{Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailOperation})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.requestcontextextensions.setcheckaccessretailoperationaction(v=AX.60)
 ms:contentKeyID: 65319750
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

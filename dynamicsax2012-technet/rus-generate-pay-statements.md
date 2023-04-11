@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate pay statements
 ms:assetid: a4165fe6-422b-4441-9f3d-7116f7503cd7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435955(v=AX.60)
 ms:contentKeyID: 56730928
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

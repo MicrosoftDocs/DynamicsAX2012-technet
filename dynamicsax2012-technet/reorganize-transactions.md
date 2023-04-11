@@ -4,7 +4,7 @@ TOCTitle: Reorganize transactions
 ms:assetid: 07d75286-c2ff-42c7-ad12-f91141d83fd3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569727(v=AX.60)
 ms:contentKeyID: 36966679
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

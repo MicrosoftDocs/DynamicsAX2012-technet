@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate and post a facture for an advance report
 ms:assetid: 4c4b562b-9012-439d-a305-e483c2f26cf4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665359(v=AX.60)
 ms:contentKeyID: 49387447
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a transport tax declaration
 ms:assetid: d57c2f41-966e-4c76-98dc-6e1445e9e010
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711647(v=AX.60)
 ms:contentKeyID: 49387971
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

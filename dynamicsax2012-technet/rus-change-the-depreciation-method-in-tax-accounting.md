@@ -4,7 +4,7 @@ TOCTitle: (RUS) Change the depreciation method in tax accounting
 ms:assetid: 7b0d2b04-fae2-4f94-9942-f5fa17e0ec7f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678386(v=AX.60)
 ms:contentKeyID: 49387615
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

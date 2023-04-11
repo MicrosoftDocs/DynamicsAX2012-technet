@@ -4,7 +4,7 @@ TOCTitle: Return order registered and received report (ReturnAcknowledgmentAndDo
 ms:assetid: 8e6c158b-d88a-46b2-89ee-78dea7c5b0e3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227436(v=AX.60)
 ms:contentKeyID: 36059739
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

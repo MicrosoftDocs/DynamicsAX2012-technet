@@ -4,7 +4,7 @@ TOCTitle: (RUS) Pay for product or service overview
 ms:assetid: c3f00346-023b-4c0a-8671-b92c31b4e12c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711580(v=AX.60)
 ms:contentKeyID: 49387903
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

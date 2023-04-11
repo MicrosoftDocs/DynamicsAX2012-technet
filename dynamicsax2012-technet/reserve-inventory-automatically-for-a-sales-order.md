@@ -4,7 +4,7 @@ TOCTitle: Reserve inventory automatically for a sales order
 ms:assetid: fa98af3d-7bd5-4c8e-8529-3de458a6db10
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499864(v=AX.60)
 ms:contentKeyID: 36060070
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

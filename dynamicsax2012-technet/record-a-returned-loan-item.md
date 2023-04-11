@@ -4,7 +4,7 @@ TOCTitle: Record a returned loan item
 ms:assetid: e85d3692-3a99-4908-8259-7c74f45a6296
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573198(v=AX.60)
 ms:contentKeyID: 36676415
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Retail sales by store report (RetailSalesByStore)
 ms:assetid: 56320442-923b-480c-94fa-85336578b584
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697612(v=AX.60)
 ms:contentKeyID: 42518421
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

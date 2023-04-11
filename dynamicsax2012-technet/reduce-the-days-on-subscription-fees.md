@@ -4,7 +4,7 @@ TOCTitle: Reduce the days on subscription fees
 ms:assetid: e4141215-b18e-4818-8be9-b260beb8611c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551390(v=AX.60)
 ms:contentKeyID: 36059730
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

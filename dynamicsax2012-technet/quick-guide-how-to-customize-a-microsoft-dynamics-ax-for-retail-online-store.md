@@ -4,7 +4,7 @@ TOCTitle: 'Quick Guide: How to customize an online store'
 ms:assetid: bf349222-f278-446f-bc27-e2fb2bf53ba0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn387566(v=AX.60)
 ms:contentKeyID: 58487399
-author: Khairunj
+author: tonyafehr
 ms.date: 07/29/2015
 mtps_version: v=AX.60
 ---

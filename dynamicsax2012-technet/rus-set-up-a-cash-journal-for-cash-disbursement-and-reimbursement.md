@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a cash journal for cash disbursement and reimbursement
 ms:assetid: c45e03a1-4ac0-4531-8cbe-647fbc9bd782
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711583(v=AX.60)
 ms:contentKeyID: 49387907
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

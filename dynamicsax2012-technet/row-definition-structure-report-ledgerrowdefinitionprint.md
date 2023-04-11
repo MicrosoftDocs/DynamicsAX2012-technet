@@ -4,7 +4,7 @@ TOCTitle: Row definition structure report (LedgerRowDefinitionPrint)
 ms:assetid: d8bbe672-33ce-4093-9c42-1f0d01dd7510
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781084(v=AX.60)
 ms:contentKeyID: 43894490
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

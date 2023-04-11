@@ -4,7 +4,7 @@ TOCTitle: Registration employees configuration key (JmgRegistrationEmployees)
 ms:assetid: 8a5b072d-5cbd-48a9-bd72-a0b93dd83552
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456315(v=AX.60)
 ms:contentKeyID: 36997760
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

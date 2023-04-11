@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reverse a ledger journal of transport tax transactions
 ms:assetid: 5d56eece-cb36-450e-aebe-6318dec1f825
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665425(v=AX.60)
 ms:contentKeyID: 49387513
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

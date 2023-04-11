@@ -4,7 +4,7 @@ TOCTitle: Reassign activities
 ms:assetid: e0b1abbe-e68e-4cb3-bec2-7f8fcac5bfae
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243206(v=AX.60)
 ms:contentKeyID: 62629948
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User

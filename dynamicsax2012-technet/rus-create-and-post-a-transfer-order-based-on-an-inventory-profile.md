@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a transfer order based on an inventory profile
 ms:assetid: 794bb713-5802-402f-a89f-436eada4646a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733244(v=AX.60)
 ms:contentKeyID: 49685211
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

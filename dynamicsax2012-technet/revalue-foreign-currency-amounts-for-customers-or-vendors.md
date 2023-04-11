@@ -4,7 +4,7 @@ TOCTitle: Revalue foreign currency amounts for customers or vendors
 ms:assetid: 580d037b-650b-4c5f-84f6-a6193cc907bd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549065(v=AX.60)
 ms:contentKeyID: 36057338
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

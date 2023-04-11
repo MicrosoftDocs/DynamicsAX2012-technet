@@ -4,7 +4,7 @@ TOCTitle: (RUS) Managing deferred expenses
 ms:assetid: 7cd4d6c8-eb84-4d28-afd3-f262f3d782b6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678394(v=AX.60)
 ms:contentKeyID: 49387624
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

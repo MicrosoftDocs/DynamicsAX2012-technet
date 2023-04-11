@@ -4,7 +4,7 @@ TOCTitle: Questions and answers report (KMQuestionandAnswer)
 ms:assetid: 92b5e127-3e30-4d06-a7a3-b352c3ef4154
 ms:mtpsurl: https://technet.microsoft.com/library/Aa616627(v=AX.60)
 ms:contentKeyID: 39508884
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

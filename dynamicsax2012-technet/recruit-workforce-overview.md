@@ -4,7 +4,7 @@ TOCTitle: Recruit workforce overview
 ms:assetid: d88202db-7162-4c09-b6b2-926dc222cbc9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213709(v=AX.60)
 ms:contentKeyID: 44081052
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

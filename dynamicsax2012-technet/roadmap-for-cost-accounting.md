@@ -4,7 +4,7 @@ TOCTitle: Roadmap for Cost Accounting
 ms:assetid: d6be4d60-f2a7-4050-b750-cb7eba75a04d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn781408(v=AX.60)
 ms:contentKeyID: 62807373
-author: Khairunj
+author: tonyafehr
 ms.date: 08/20/2014
 mtps_version: v=AX.60
 audience: Application User

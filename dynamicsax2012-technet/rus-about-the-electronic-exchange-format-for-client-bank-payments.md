@@ -4,7 +4,7 @@ TOCTitle: (RUS) About the electronic exchange format for client bank payments
 ms:assetid: 53d82898-fe3b-488f-8462-3aa7895b904b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665392(v=AX.60)
 ms:contentKeyID: 49387480
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

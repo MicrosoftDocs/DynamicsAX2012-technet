@@ -4,7 +4,7 @@ TOCTitle: Run inventory recalculation
 ms:assetid: 27c08fd7-f997-4ebb-93e8-04c93f84f1f2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231004(v=AX.60)
 ms:contentKeyID: 36056214
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

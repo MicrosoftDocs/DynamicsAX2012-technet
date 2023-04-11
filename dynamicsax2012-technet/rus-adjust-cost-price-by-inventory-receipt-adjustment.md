@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjust cost price by inventory receipt adjustment
 ms:assetid: f6b125bd-3378-42d0-a986-86653aff13a3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678619(v=AX.60)
 ms:contentKeyID: 49388101
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

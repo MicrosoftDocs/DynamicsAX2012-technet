@@ -4,7 +4,7 @@ TOCTitle: Release a transfer order for picking
 ms:assetid: d011fcc3-fc67-4041-af41-c297a9f4d18f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550995(v=AX.60)
 ms:contentKeyID: 36059484
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a customs counteragent
 ms:assetid: a196d3af-4564-440e-a7ea-5e753f6a4e51
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733263(v=AX.60)
 ms:contentKeyID: 49685230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

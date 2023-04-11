@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the accounts receivable movement register
 ms:assetid: d35d54e2-98be-4771-a527-8bb0ae696c61
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711639(v=AX.60)
 ms:contentKeyID: 49387963
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: RetailDiscountLineItem Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.RetailDiscountLineItem
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.retaildiscountlineitem_methods(v=AX.60)
 ms:contentKeyID: 62209726
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

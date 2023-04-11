@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the fixed asset object information register
 ms:assetid: caad52c9-4831-418f-aa40-5bdbd2fcc868
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711602(v=AX.60)
 ms:contentKeyID: 49387926
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

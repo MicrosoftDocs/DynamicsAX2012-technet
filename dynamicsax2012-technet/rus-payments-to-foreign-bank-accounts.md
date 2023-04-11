@@ -4,7 +4,7 @@ TOCTitle: (RUS) Payments to foreign bank accounts
 ms:assetid: eba77033-3465-4489-be85-807d8814c44c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678587(v=AX.60)
 ms:contentKeyID: 49388069
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

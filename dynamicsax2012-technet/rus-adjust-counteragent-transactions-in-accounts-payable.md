@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjust counteragent transactions in accounts payable
 ms:assetid: 9c91a0e5-7078-4c46-9e31-ac164eccbae7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678535(v=AX.60)
 ms:contentKeyID: 49387763
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

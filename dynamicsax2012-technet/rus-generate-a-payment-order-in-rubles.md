@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a payment order in rubles
 ms:assetid: 01e8e5b6-4079-4cd5-b6ad-12db3cb93d74
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711346(v=AX.60)
 ms:contentKeyID: 49387164
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

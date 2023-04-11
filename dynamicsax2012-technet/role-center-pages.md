@@ -4,7 +4,7 @@ TOCTitle: Role Center pages
 ms:assetid: 9b478386-029c-4934-8890-068af7c4c130
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209426(v=AX.60)
 ms:contentKeyID: 36058714
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

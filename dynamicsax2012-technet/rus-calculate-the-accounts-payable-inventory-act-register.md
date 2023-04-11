@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the accounts payable inventory act register
 ms:assetid: 3c908b90-184d-416d-a29d-045742c309ff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665305(v=AX.60)
 ms:contentKeyID: 49387394
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Reverse a posted check
 ms:assetid: e3727e47-80cf-493a-add4-4c5d8e912ea6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243217(v=AX.60)
 ms:contentKeyID: 36059722
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Retail reports
 ms:assetid: 9d3ac48a-111c-49f8-9b0b-1d73b2095a12
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697683(v=AX.60)
 ms:contentKeyID: 42518430
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

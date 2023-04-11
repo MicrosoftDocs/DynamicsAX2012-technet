@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjust the cost price in reporting currency by on-hand adjustmen
 ms:assetid: 23033383-4874-4373-a045-cfa979b770fe
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733187(v=AX.60)
 ms:contentKeyID: 49685155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

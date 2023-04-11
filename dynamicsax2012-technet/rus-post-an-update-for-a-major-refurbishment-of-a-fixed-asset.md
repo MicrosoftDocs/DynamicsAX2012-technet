@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post an update for a major refurbishment of a fixed asset
 ms:assetid: f7b986da-0b64-48c3-bd3e-2e8cf05d4a04
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923614(v=AX.60)
 ms:contentKeyID: 52075455
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

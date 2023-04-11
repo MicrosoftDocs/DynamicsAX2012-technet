@@ -4,7 +4,7 @@ TOCTitle: Retail stores (Retail essentials)
 ms:assetid: 6e96af8e-8819-402a-a03c-aeed5147b412
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736890(v=AX.60)
 ms:contentKeyID: 62200367
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

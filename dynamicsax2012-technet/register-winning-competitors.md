@@ -4,7 +4,7 @@ TOCTitle: Register winning competitors
 ms:assetid: f75155e6-f86b-42f4-b21c-422848883e4b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499788(v=AX.60)
 ms:contentKeyID: 36060030
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

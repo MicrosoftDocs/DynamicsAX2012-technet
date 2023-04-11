@@ -4,7 +4,7 @@ TOCTitle: PopulatePaymentSchema Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailTransactionPaymentSchema.PopulatePaymentSchema(Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataTable)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.retailtransactionpaymentschema.populatepaymentschema(v=AX.60)
 ms:contentKeyID: 65318543
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

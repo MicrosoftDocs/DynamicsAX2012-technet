@@ -4,7 +4,7 @@ TOCTitle: Reporting and analytics
 ms:assetid: d0049e36-5566-4031-8423-ade435d8bc33
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213680(v=AX.60)
 ms:contentKeyID: 37832536
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

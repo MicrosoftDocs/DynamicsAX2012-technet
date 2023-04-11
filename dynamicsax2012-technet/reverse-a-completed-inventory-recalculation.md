@@ -4,7 +4,7 @@ TOCTitle: Reverse a completed inventory recalculation
 ms:assetid: 6665163b-1c8c-4d85-a563-c6aec0492dbf
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231554(v=AX.60)
 ms:contentKeyID: 36057753
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

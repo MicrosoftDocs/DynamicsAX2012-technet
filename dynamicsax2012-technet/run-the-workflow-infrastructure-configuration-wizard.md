@@ -4,7 +4,7 @@ TOCTitle: Run the Workflow infrastructure configuration wizard
 ms:assetid: 23e5f8d8-d2c8-4323-bb42-5de1a18af6bc
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309625(v=AX.60)
 ms:contentKeyID: 35132580
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

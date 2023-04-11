@@ -4,7 +4,7 @@ TOCTitle: RequiredProductProperties Methods
 ms:assetid: Methods.T:RequiredProductProperties
 ms:mtpsurl: https://technet.microsoft.com/library/requiredproductproperties_methods(v=AX.60)
 ms:contentKeyID: 65315953
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Retail configuration key (RetailRetail)
 ms:assetid: 97af6243-7d23-48be-bfa4-3846d9d1e436
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697601(v=AX.60)
 ms:contentKeyID: 42518402
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

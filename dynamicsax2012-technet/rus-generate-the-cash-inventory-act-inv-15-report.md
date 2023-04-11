@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the Cash Inventory Act (Inv-15) report
 ms:assetid: 45e6e60b-b668-460d-b453-0702f4400e01
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665334(v=AX.60)
 ms:contentKeyID: 49387422
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

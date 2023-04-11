@@ -4,7 +4,7 @@ TOCTitle: Rebates configuration key (PdsRebate)
 ms:assetid: e72affb8-625e-41af-9b74-7f7f43c80b2f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496440(v=AX.60)
 ms:contentKeyID: 37072022
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

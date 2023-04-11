@@ -4,7 +4,7 @@ TOCTitle: ChannelReferenceIdColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.RetailTransactionTableSchema.ChannelReferenceIdColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.channelreferenceidcolumn(v=AX.60)
 ms:contentKeyID: 65315538
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

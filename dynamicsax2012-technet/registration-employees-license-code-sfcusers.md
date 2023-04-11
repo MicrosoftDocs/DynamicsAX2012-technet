@@ -4,7 +4,7 @@ TOCTitle: Registration employees license code (SFCUsers)
 ms:assetid: 9c8c1f81-156e-48df-8049-ee6c053ae9a7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456316(v=AX.60)
 ms:contentKeyID: 36997762
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

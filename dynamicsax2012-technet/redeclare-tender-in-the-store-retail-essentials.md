@@ -4,7 +4,7 @@ TOCTitle: Redeclare tender in the store (Retail essentials)
 ms:assetid: 391282ff-ca81-4798-b1df-27f0bd0d8026
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716073(v=AX.60)
 ms:contentKeyID: 62200336
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

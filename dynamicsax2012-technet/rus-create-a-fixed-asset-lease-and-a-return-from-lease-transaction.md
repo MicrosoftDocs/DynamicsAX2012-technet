@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a fixed asset lease and a return from lease transaction
 ms:assetid: 4ed19934-55ba-409c-8121-1f50dcf15ec1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665372(v=AX.60)
 ms:contentKeyID: 49387460
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Import exchange rates from the CBRF website
 ms:assetid: 7f6e9730-18a6-4fa0-b204-e795839a5a6b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678408(v=AX.60)
 ms:contentKeyID: 49387639
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

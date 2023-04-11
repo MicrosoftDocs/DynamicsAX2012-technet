@@ -4,7 +4,7 @@ TOCTitle: (RUS) Correspondence
 ms:assetid: 97ab6baf-5d46-444c-a059-f03ab0da7c70
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678502(v=AX.60)
 ms:contentKeyID: 49387732
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

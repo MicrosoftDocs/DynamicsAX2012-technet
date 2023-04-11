@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a customer as a foreign counteragent
 ms:assetid: 1fdae449-da0a-49ba-8ab9-25964ed0b59d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711459(v=AX.60)
 ms:contentKeyID: 49387276
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

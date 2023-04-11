@@ -4,7 +4,7 @@ TOCTitle: (RUS) About profit tax registers
 ms:assetid: a19f5352-38a9-45db-870d-98cbeef3fce6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856175(v=AX.60)
 ms:contentKeyID: 50407014
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

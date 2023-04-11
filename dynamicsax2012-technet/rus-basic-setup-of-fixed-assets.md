@@ -4,7 +4,7 @@ TOCTitle: (RUS) Basic setup of Fixed assets
 ms:assetid: 9c6ca7c3-9172-449f-9953-3954f3f5a428
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678528(v=AX.60)
 ms:contentKeyID: 49387757
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

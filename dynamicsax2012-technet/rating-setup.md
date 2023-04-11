@@ -4,7 +4,7 @@ TOCTitle: Rating setup
 ms:assetid: 8b5cda99-7c53-44d8-8d3b-bf233adee8c7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553178(v=AX.60)
 ms:contentKeyID: 62200114
-author: Khairunj
+author: tonyafehr
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

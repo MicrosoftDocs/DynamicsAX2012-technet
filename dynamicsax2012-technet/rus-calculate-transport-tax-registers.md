@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate transport tax registers
 ms:assetid: ca6df6a7-e649-4366-b4bd-3c1ded4344c3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711613(v=AX.60)
 ms:contentKeyID: 49387937
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

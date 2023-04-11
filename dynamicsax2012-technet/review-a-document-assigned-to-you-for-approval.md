@@ -4,7 +4,7 @@ TOCTitle: Review a document assigned to you for approval
 ms:assetid: aaf6bdee-e5c0-4a64-a39b-43268c2de415
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243087(v=AX.60)
 ms:contentKeyID: 35949341
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

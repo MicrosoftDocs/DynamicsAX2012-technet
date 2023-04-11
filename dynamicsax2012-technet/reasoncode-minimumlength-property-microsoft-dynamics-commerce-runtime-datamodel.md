@@ -4,7 +4,7 @@ TOCTitle: MinimumLength Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCode.MinimumLength
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncode.minimumlength(v=AX.60)
 ms:contentKeyID: 62213410
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

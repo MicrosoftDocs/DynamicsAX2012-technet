@@ -4,7 +4,7 @@ TOCTitle: Record level security license code (SysRecordLevelSecurity)
 ms:assetid: 9e7c3872-50de-4093-9045-fbd3fd198490
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404028(v=AX.60)
 ms:contentKeyID: 36956678
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

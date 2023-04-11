@@ -4,7 +4,7 @@ TOCTitle: Query Service Security
 ms:assetid: 797fe421-73e1-4759-a582-aaf11b0422b7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg862440(v=AX.60)
 ms:contentKeyID: 35246051
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a deferrals write-off ratio
 ms:assetid: 0afc695c-f851-4ceb-996d-5be1b817906d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711379(v=AX.60)
 ms:contentKeyID: 49387198
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

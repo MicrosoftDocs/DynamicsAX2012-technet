@@ -4,7 +4,7 @@ TOCTitle: (RUS) Adjust a cost price using the adjustment wizard
 ms:assetid: dfb9f2a7-77b2-4cad-b7a4-5111ed786982
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126130(v=AX.60)
 ms:contentKeyID: 52075441
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a tax cost price journal
 ms:assetid: 85f4fc5f-39c0-41a5-84b1-ebd759514232
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923553(v=AX.60)
 ms:contentKeyID: 52075401
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

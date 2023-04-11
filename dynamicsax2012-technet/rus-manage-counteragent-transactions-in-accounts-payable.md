@@ -4,7 +4,7 @@ TOCTitle: (RUS) Manage counteragent transactions in Accounts payable
 ms:assetid: f83ed63f-e6d2-4827-9275-9e5d72461def
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678628(v=AX.60)
 ms:contentKeyID: 49388110
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

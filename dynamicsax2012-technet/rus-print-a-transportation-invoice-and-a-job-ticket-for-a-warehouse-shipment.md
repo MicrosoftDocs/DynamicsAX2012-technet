@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print a transportation invoice and a job ticket for a warehouse 
 ms:assetid: 5b0aff87-00a0-498b-beae-553d6514c18d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665414(v=AX.60)
 ms:contentKeyID: 49387502
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

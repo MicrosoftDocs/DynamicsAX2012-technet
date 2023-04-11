@@ -4,7 +4,7 @@ TOCTitle: ReasonCodeSqlServerDataRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices.ReasonCodes.ReasonCodeSqlServerDataRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.dataservices.reasoncodes.reasoncodesqlserverdatarequesthandler_methods(v=AX.60)
 ms:contentKeyID: 65317358
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

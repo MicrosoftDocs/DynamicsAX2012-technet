@@ -4,7 +4,7 @@ TOCTitle: Reset shelf life dates for an inventory batch
 ms:assetid: ba1f65ac-8124-4686-a12f-d4a517b41ac8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352341(v=AX.60)
 ms:contentKeyID: 36687971
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

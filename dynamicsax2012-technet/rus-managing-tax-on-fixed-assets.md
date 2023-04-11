@@ -4,7 +4,7 @@ TOCTitle: (RUS) Managing tax on fixed assets
 ms:assetid: 52dbb09a-55ce-4f25-bbda-d5451aa0ffc2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665388(v=AX.60)
 ms:contentKeyID: 49387476
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Maintaining customer information
 ms:assetid: 30c52c82-0a30-4b06-bdc6-8443aa1d4173
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665253(v=AX.60)
 ms:contentKeyID: 49387342
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

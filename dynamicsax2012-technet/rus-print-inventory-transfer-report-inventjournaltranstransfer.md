@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print inventory transfer report (InventJournalTransTransfer)
 ms:assetid: 96e6c898-7228-4fe3-9dd8-5492daa5870e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn144858(v=AX.60)
 ms:contentKeyID: 52225282
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

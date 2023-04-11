@@ -4,7 +4,7 @@ TOCTitle: Retail warehouse manager security role (RetailWarehouseManager)
 ms:assetid: 1e805264-42e2-4a92-a521-89db042dae68
 ms:mtpsurl: https://technet.microsoft.com/library/Hh848739(v=AX.60)
 ms:contentKeyID: 45430232
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

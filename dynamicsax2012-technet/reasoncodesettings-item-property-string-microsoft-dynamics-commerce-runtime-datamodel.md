@@ -4,7 +4,7 @@ TOCTitle: Item Property (String)
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeSettings.Item(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncodesettings.item(v=AX.60)
 ms:contentKeyID: 65321836
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

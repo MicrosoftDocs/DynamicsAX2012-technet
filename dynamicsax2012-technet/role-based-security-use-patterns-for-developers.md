@@ -4,7 +4,7 @@ TOCTitle: Role-based Security Use Patterns for Developers
 ms:assetid: 9c259794-9c0f-42e0-9126-05b15192253b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn246482(v=AX.60)
 ms:contentKeyID: 54673189
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

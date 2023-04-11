@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the accounts receivable inventory act register
 ms:assetid: eab0c3f6-7d40-49d5-8322-4e3bfdc36a6b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711725(v=AX.60)
 ms:contentKeyID: 49388048
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

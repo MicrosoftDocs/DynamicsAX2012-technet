@@ -4,7 +4,7 @@ TOCTitle: Recall a document
 ms:assetid: ea3ab400-25e5-40d9-8c66-ea706aaa356b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271684(v=AX.60)
 ms:contentKeyID: 36384317
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Register of payment orders printing report (BankPaymentOrderJour
 ms:assetid: f42cd9ea-7e8f-4851-a3f0-d556f40b9fe2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992748(v=AX.60)
 ms:contentKeyID: 51739435
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

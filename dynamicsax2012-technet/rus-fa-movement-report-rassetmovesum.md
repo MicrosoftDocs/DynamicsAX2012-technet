@@ -4,7 +4,7 @@ TOCTitle: (RUS) FA movement report (RAssetMoveSum)
 ms:assetid: f3fecdd2-5dd3-4f3c-b82e-b772199e2cac
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992746(v=AX.60)
 ms:contentKeyID: 51739432
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

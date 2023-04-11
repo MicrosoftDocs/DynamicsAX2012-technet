@@ -4,7 +4,7 @@ TOCTitle: (RUS) Register special rigging manually
 ms:assetid: a29f6e1c-3053-45d7-b28d-3195abb43dde
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923573(v=AX.60)
 ms:contentKeyID: 52075419
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: RequestHandlerActivity(TResponse) Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.RequestHandlerActivity`1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn989552(v=AX.60)
 ms:contentKeyID: 65320012
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

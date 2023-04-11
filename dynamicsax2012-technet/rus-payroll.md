@@ -4,7 +4,7 @@ TOCTitle: (RUS) Payroll
 ms:assetid: de58627a-caaa-433f-a9b6-03226ccb7f2f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435959(v=AX.60)
 ms:contentKeyID: 56730930
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

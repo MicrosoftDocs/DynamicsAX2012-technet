@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a purchase book
 ms:assetid: 468d621b-5b1c-4159-ac1a-600f7553bcbf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665339(v=AX.60)
 ms:contentKeyID: 49387427
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

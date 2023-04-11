@@ -4,7 +4,7 @@ TOCTitle: Retain workforce overview
 ms:assetid: 931e5b8a-f14f-46ca-8f3c-95ae2d5e4521
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232188(v=AX.60)
 ms:contentKeyID: 36676398
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

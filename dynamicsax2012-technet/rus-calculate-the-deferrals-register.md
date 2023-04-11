@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the deferrals register
 ms:assetid: fd76c580-0f28-4017-8560-2dc2b758c96f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678652(v=AX.60)
 ms:contentKeyID: 49388134
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

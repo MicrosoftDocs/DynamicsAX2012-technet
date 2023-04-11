@@ -4,7 +4,7 @@ TOCTitle: Retail Commerce Data Exchange backward compatibility configuration key
 ms:assetid: 0410de6a-c477-4783-b087-bdc4bc0a2356
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792360(v=AX.60)
 ms:contentKeyID: 62613988
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

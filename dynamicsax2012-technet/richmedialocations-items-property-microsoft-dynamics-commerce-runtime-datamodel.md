@@ -4,7 +4,7 @@ TOCTitle: Items Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations.Items
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.richmedialocations.items(v=AX.60)
 ms:contentKeyID: 62213411
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

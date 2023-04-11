@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a ledger journal of transport tax transactions
 ms:assetid: 6c5a48a8-435a-4639-88be-aafed325c837
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678341(v=AX.60)
 ms:contentKeyID: 49387571
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

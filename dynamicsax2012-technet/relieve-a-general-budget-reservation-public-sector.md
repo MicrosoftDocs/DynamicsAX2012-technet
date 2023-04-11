@@ -4,7 +4,7 @@ TOCTitle: Relieve a general budget reservation (Public sector)
 ms:assetid: 99336a75-c941-4d88-b791-bab15db9a354
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792458(v=AX.60)
 ms:contentKeyID: 65205503
-author: Khairunj
+author: tonyafehr
 ms.date: 05/05/2015
 mtps_version: v=AX.60
 f1_keywords:

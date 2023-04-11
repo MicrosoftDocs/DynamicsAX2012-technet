@@ -4,7 +4,7 @@ TOCTitle: (RUS) Cancel an amortization of unrecoverable debt in Accounts payable
 ms:assetid: d1cade1d-e533-4a6f-80e5-f9ab0b1fdc7a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711646(v=AX.60)
 ms:contentKeyID: 49387970
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

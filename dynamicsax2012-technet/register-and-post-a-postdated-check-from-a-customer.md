@@ -4,7 +4,7 @@ TOCTitle: Register and post a postdated check from a customer
 ms:assetid: 539c21ed-e0ca-4a51-aac5-1ad4145efa6e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208953(v=AX.60)
 ms:contentKeyID: 36057299
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

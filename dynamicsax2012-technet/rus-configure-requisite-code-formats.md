@@ -4,7 +4,7 @@ TOCTitle: (RUS) Configure requisite code formats
 ms:assetid: e43bcf9b-d8c0-4280-8f5e-57dbad4434ac
 ms:mtpsurl: https://technet.microsoft.com/library/JJ913265(v=AX.60)
 ms:contentKeyID: 52075450
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

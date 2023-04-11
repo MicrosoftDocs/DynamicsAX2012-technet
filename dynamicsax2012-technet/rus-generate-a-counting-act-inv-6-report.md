@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a Counting act (INV-6) report
 ms:assetid: ae11ea9f-f07f-4eab-9f28-cd5b0cf9e397
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853218(v=AX.60)
 ms:contentKeyID: 50396498
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

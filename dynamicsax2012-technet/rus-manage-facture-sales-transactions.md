@@ -4,7 +4,7 @@ TOCTitle: (RUS) Manage facture sales transactions
 ms:assetid: 9bed53d4-abf3-4da1-80ed-4bc042b9f9b1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678527(v=AX.60)
 ms:contentKeyID: 49387756
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

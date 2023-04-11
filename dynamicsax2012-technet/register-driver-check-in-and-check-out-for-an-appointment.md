@@ -4,7 +4,7 @@ TOCTitle: Register driver check-in and check-out for an appointment
 ms:assetid: 0a85ef94-19c8-429f-8078-02bff3ef232d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn770229(v=AX.60)
 ms:contentKeyID: 62583043
-author: Khairunj
+author: tonyafehr
 ms.date: 07/11/2014
 mtps_version: v=AX.60
 f1_keywords:

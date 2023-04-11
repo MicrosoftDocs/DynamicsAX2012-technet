@@ -4,7 +4,7 @@ TOCTitle: ReadChangedProductsSession Constructor (Guid, Int32, Char )
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReadChangedProductsSession.#ctor(System.Guid,System.Int32,System.Char[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.readchangedproductssession.readchangedproductssession(v=AX.60)
 ms:contentKeyID: 62203201
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

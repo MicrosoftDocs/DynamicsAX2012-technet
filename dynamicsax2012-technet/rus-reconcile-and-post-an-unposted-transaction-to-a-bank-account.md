@@ -4,7 +4,7 @@ TOCTitle: (RUS) Reconcile and post an unposted transaction to a bank account
 ms:assetid: c51472eb-ab77-4f61-bc26-3e1d50ba508b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711585(v=AX.60)
 ms:contentKeyID: 49387909
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

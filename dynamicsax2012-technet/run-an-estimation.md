@@ -4,7 +4,7 @@ TOCTitle: Run an estimation
 ms:assetid: 181f2ffb-aa08-4244-b400-8724c7a75125
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569905(v=AX.60)
 ms:contentKeyID: 36056093
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

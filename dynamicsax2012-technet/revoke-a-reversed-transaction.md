@@ -4,7 +4,7 @@ TOCTitle: Revoke a reversed transaction
 ms:assetid: 8bb3c3c4-cae0-498d-9693-e1601ed24434
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498253(v=AX.60)
 ms:contentKeyID: 36058473
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

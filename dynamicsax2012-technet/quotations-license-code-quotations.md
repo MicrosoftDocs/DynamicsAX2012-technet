@@ -4,7 +4,7 @@ TOCTitle: Quotations license code (Quotations)
 ms:assetid: 0c753319-63fb-4771-aa44-e88c9289ae01
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433441(v=AX.60)
 ms:contentKeyID: 36941191
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

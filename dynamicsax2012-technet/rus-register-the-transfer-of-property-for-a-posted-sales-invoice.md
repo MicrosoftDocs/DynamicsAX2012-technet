@@ -4,7 +4,7 @@ TOCTitle: (RUS) Register the transfer of property for a posted sales invoice
 ms:assetid: 6d7617a2-3c10-46a4-86d9-c78c04de2489
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853192(v=AX.60)
 ms:contentKeyID: 50396473
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

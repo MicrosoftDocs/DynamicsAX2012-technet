@@ -4,7 +4,7 @@ TOCTitle: (RUS) Inventory close
 ms:assetid: 889b7005-b81d-4f27-a93d-ecf677e349a6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678452(v=AX.60)
 ms:contentKeyID: 49387682
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

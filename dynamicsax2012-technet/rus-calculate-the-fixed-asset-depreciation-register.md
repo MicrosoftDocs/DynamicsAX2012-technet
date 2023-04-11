@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the fixed asset depreciation register
 ms:assetid: 7fafa6cc-b903-416e-9b34-2eb182fa2d5a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678407(v=AX.60)
 ms:contentKeyID: 49387638
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

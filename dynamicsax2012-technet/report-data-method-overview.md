@@ -4,7 +4,7 @@ TOCTitle: Report Data Method Overview
 ms:assetid: 39b24dd9-f078-4197-8468-fb7c193eaeec
 ms:mtpsurl: https://technet.microsoft.com/library/Cc587341(v=AX.60)
 ms:contentKeyID: 28119344
-author: Khairunj
+author: tonyafehr
 ms.date: 05/28/2013
 mtps_version: v=AX.60
 ---

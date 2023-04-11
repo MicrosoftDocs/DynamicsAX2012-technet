@@ -4,7 +4,7 @@ TOCTitle: Reporting Project Overview
 ms:assetid: e3bc01b5-3b27-4909-a667-b11ddb40cc72
 ms:mtpsurl: https://technet.microsoft.com/library/Cc622374(v=AX.60)
 ms:contentKeyID: 28119604
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 f1_keywords:

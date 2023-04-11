@@ -4,7 +4,7 @@ TOCTitle: Registration in Manufacturing execution
 ms:assetid: 1e853a12-ab2b-481c-8cfb-276f5d8c1ae5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208462(v=AX.60)
 ms:contentKeyID: 36056147
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

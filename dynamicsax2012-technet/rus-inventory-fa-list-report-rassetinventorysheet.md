@@ -4,7 +4,7 @@ TOCTitle: (RUS) Inventory FA list report (RAssetInventorySheet)
 ms:assetid: afb9b458-42da-497d-9318-4f7ad0df0262
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955223(v=AX.60)
 ms:contentKeyID: 51831854
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

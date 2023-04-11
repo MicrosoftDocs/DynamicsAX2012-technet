@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate deferrals by using the periodic process
 ms:assetid: aa438157-06cd-49d2-8107-b8a76371bf35
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711499(v=AX.60)
 ms:contentKeyID: 49387824
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

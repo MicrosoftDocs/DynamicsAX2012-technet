@@ -4,7 +4,7 @@ TOCTitle: (RUS) Cancel the allocation of charges on vendor invoices
 ms:assetid: 51150529-42a6-4407-8d89-4c3d6acb1dbe
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733221(v=AX.60)
 ms:contentKeyID: 49685189
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

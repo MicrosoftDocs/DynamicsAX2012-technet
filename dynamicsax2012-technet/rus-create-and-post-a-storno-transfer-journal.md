@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a storno transfer journal
 ms:assetid: 76775a97-fb14-41d6-a470-4229559b74c4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678369(v=AX.60)
 ms:contentKeyID: 49387599
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

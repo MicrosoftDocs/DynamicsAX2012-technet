@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a receipt transaction for the deferral
 ms:assetid: c6f4818d-f23b-4730-a31f-42c2ddbd8745
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711588(v=AX.60)
 ms:contentKeyID: 49387912
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

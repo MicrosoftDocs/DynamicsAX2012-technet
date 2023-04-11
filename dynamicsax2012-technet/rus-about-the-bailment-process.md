@@ -4,7 +4,7 @@ TOCTitle: (RUS) About the bailment process
 ms:assetid: e03737bf-0af4-4c71-9c80-ebce6bc7b99e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733293(v=AX.60)
 ms:contentKeyID: 49685260
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

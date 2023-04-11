@@ -4,7 +4,7 @@ TOCTitle: Recalculate replacement costs and insured values
 ms:assetid: a8624c7e-a616-479e-9d78-0b135aac0ca0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243062(v=AX.60)
 ms:contentKeyID: 39519270
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

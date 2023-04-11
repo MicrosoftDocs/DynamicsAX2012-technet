@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post taxes in a general journal for vendors
 ms:assetid: e5b3111e-ea34-48b0-9d6f-a4ead38ab2c1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711722(v=AX.60)
 ms:contentKeyID: 49388045
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

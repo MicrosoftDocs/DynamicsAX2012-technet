@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post taxes in a purchase order
 ms:assetid: 1579173b-0f91-4a7f-b305-6dd8cb443ec6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711415(v=AX.60)
 ms:contentKeyID: 49387233
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

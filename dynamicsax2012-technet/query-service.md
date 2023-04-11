@@ -4,7 +4,7 @@ TOCTitle: Query Service
 ms:assetid: e38c417e-475e-4c5f-8c4c-7c73bb80241a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg847959(v=AX.60)
 ms:contentKeyID: 35253152
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2013
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Requests for quotation and scoring methods
 ms:assetid: 55a51918-d1dc-4527-9b43-cd20214dcab7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn621054(v=AX.60)
 ms:contentKeyID: 62200071
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

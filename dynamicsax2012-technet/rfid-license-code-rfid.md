@@ -4,7 +4,7 @@ TOCTitle: RFID license code (RFID)
 ms:assetid: 24fa95b9-2497-4d44-87ea-bba4c50a54a7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433446(v=AX.60)
 ms:contentKeyID: 36941197
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

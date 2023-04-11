@@ -4,7 +4,7 @@ TOCTitle: Run inventory close
 ms:assetid: a16d1e1d-139e-4d37-966b-8de222be51f1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213391(v=AX.60)
 ms:contentKeyID: 36058784
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

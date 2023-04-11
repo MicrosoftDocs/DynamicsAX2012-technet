@@ -4,7 +4,7 @@ TOCTitle: Resources configuration key (WrkCtr)
 ms:assetid: f43c8fad-483f-4a9a-befb-8a9db0612f2b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa600283(v=AX.60)
 ms:contentKeyID: 36997782
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

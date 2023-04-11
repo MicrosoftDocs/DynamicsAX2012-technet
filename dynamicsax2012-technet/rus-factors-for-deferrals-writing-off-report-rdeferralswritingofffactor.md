@@ -4,7 +4,7 @@ TOCTitle: (RUS) Factors for deferrals writing off report (RDeferralsWritingOffFa
 ms:assetid: 8a90ab78-c2dc-445e-80ea-0de79412ad37
 ms:mtpsurl: https://technet.microsoft.com/library/JJ945854(v=AX.60)
 ms:contentKeyID: 51543174
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

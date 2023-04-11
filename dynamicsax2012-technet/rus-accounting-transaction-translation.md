@@ -4,7 +4,7 @@ TOCTitle: (RUS) Accounting transaction translation
 ms:assetid: e2ad2e4b-b773-4016-bd4a-223f8432159a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856118(v=AX.60)
 ms:contentKeyID: 50406416
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

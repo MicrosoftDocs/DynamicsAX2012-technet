@@ -4,7 +4,7 @@ TOCTitle: (RUS) Configure fiscal printers to generate a fiscal receipt
 ms:assetid: 6bf3a747-fc4c-4bf4-9481-1286ac51ff07
 ms:mtpsurl: https://technet.microsoft.com/library/Dn510394(v=AX.60)
 ms:contentKeyID: 59944202
-author: Khairunj
+author: tonyafehr
 ms.date: 09/26/2014
 mtps_version: v=AX.60
 f1_keywords:

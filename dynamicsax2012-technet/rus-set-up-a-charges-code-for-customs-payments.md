@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a charges code for customs payments
 ms:assetid: 449ec1b8-ecf9-4e6e-909a-1ab3a55c04e4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733212(v=AX.60)
 ms:contentKeyID: 49685180
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

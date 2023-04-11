@@ -4,7 +4,7 @@ TOCTitle: Record developments
 ms:assetid: 604e381e-97e9-4436-972f-ab86ff781874
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571106(v=AX.60)
 ms:contentKeyID: 43894502
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

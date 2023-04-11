@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create, verify, and print a corrective or revised facture
 ms:assetid: c40dddc1-3316-496b-acfc-b7483b45f76a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923587(v=AX.60)
 ms:contentKeyID: 52075430
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

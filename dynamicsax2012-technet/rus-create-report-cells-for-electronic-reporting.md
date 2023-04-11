@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create report cells for electronic reporting
 ms:assetid: 06735d71-91f4-40d1-9ee8-67607a5be96a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711362(v=AX.60)
 ms:contentKeyID: 49387179
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

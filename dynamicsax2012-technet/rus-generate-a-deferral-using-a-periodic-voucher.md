@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a deferral using a periodic voucher
 ms:assetid: 90ee0677-f96f-4ca8-ab0e-c13ba8998ab6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678477(v=AX.60)
 ms:contentKeyID: 49387705
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

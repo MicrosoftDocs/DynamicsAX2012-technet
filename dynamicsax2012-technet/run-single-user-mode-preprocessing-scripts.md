@@ -4,7 +4,7 @@ TOCTitle: Run single-user mode preprocessing scripts
 ms:assetid: 70619580-7926-45af-92c9-d91bd3c26b6d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731829(v=AX.60)
 ms:contentKeyID: 35132678
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

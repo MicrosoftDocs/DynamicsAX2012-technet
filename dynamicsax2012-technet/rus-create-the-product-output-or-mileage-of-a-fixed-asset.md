@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create the product output or mileage of a fixed asset
 ms:assetid: b680b283-ad2b-4855-bc4f-2b0705d51488
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711543(v=AX.60)
 ms:contentKeyID: 49387869
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

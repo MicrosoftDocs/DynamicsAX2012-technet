@@ -4,7 +4,7 @@ TOCTitle: Retail store metrics report (RetailStoreMetrics)
 ms:assetid: 33813c84-b933-4db7-ac28-16655cccdce7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697610(v=AX.60)
 ms:contentKeyID: 42518414
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

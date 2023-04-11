@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and update a facture for a corrected purchase order
 ms:assetid: a3355f81-27ac-4ebd-a2ac-0c258a532d2b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678557(v=AX.60)
 ms:contentKeyID: 49387787
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

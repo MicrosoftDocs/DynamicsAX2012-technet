@@ -4,7 +4,7 @@ TOCTitle: ChannelCurrencyColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.RetailTransactionTableSchema.ChannelCurrencyColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.retailtransactiontableschema.channelcurrencycolumn(v=AX.60)
 ms:contentKeyID: 65316529
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

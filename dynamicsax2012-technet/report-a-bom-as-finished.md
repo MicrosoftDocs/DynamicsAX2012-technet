@@ -4,7 +4,7 @@ TOCTitle: Report a BOM as finished
 ms:assetid: 158f940f-5414-4344-ac57-32310d90f17c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569796(v=AX.60)
 ms:contentKeyID: 36056063
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

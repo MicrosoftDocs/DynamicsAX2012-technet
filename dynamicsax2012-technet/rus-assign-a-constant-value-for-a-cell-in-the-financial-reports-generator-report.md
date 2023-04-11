@@ -4,7 +4,7 @@ TOCTitle: (RUS) Assign a constant value for a cell in the Financial reports gene
 ms:assetid: da3412eb-82f8-4739-b2cc-3cb5540a9f4e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923597(v=AX.60)
 ms:contentKeyID: 52075443
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

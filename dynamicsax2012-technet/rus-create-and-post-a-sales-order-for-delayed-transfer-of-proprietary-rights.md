@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a sales order for delayed transfer of proprietar
 ms:assetid: 9ce587c2-8090-469e-a272-742f0064da66
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856174(v=AX.60)
 ms:contentKeyID: 50407013
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

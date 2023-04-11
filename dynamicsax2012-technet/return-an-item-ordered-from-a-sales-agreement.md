@@ -4,7 +4,7 @@ TOCTitle: Return an item ordered from a sales agreement
 ms:assetid: 27056300-0566-453e-9a7f-40c0aa439f52
 ms:mtpsurl: https://technet.microsoft.com/library/JJ683225(v=AX.60)
 ms:contentKeyID: 49684847
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

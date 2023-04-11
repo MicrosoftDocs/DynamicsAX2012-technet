@@ -4,7 +4,7 @@ TOCTitle: RequiredProductPropertiesProperty Properties
 ms:assetid: Properties.T:RequiredProductPropertiesProperty
 ms:mtpsurl: https://technet.microsoft.com/library/requiredproductpropertiesproperty_properties(v=AX.60)
 ms:contentKeyID: 65317058
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

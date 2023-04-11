@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create an outgoing or incoming payment
 ms:assetid: 63c340e6-60f9-4a63-bc27-0771c275cc35
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665451(v=AX.60)
 ms:contentKeyID: 49387537
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

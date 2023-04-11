@@ -4,7 +4,7 @@ TOCTitle: (RUS) Deferrals listing report (RDeferralsListing)
 ms:assetid: adfbc353-63df-4a4d-99c5-8a68821ae4b3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955220(v=AX.60)
 ms:contentKeyID: 51831852
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

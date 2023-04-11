@@ -4,7 +4,7 @@ TOCTitle: (RUS) History of lease report (RAssetLendingHistory)
 ms:assetid: 62b72035-63f6-4752-8e51-36cec231ac6f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992744(v=AX.60)
 ms:contentKeyID: 51739433
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a purchase order based on an inventory profile
 ms:assetid: 811201ea-f726-4080-bf1e-3c656233808b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733248(v=AX.60)
 ms:contentKeyID: 49685215
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Reverse changes in a dispatch board
 ms:assetid: 382a13d1-53c4-41c1-942b-ce659eec9c42
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231124(v=AX.60)
 ms:contentKeyID: 62629944
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User

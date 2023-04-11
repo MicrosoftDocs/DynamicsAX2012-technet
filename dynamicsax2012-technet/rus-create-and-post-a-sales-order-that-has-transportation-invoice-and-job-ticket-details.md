@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a sales order that has transportation invoice an
 ms:assetid: cfb3b4da-ff65-4f96-9459-82b993975039
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711626(v=AX.60)
 ms:contentKeyID: 49387950
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

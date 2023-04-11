@@ -4,7 +4,7 @@ TOCTitle: (RUS) Configure parameters for time management
 ms:assetid: 2e0d0002-c1b5-465a-93c1-7363f452aafc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn452005(v=AX.60)
 ms:contentKeyID: 56713176
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

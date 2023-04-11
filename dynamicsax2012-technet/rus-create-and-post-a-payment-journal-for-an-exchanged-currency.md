@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a payment journal for an exchanged currency
 ms:assetid: b7e97c74-bbda-49c1-b24c-08468bec1c3e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856176(v=AX.60)
 ms:contentKeyID: 50407015
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

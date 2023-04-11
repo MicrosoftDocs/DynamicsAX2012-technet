@@ -4,7 +4,7 @@ TOCTitle: (RUS) Depreciate a fixed asset by using a fixed asset journal
 ms:assetid: 399a6980-d47f-4525-802b-6fd100b2d4b3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665293(v=AX.60)
 ms:contentKeyID: 49387382
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

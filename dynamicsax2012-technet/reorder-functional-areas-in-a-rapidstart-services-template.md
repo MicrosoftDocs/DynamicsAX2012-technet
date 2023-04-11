@@ -4,7 +4,7 @@ TOCTitle: Reorder functional areas in a RapidStart Services template
 ms:assetid: 421b689f-a9e4-4c81-bbf4-b5d7837520e8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413231(v=AX.60)
 ms:contentKeyID: 36918922
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

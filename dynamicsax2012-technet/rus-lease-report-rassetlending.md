@@ -4,7 +4,7 @@ TOCTitle: (RUS) Lease report (RAssetLending)
 ms:assetid: f45b043a-cc08-4ba3-a56c-00e152430356
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992747(v=AX.60)
 ms:contentKeyID: 51739434
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

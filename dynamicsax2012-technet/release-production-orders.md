@@ -4,7 +4,7 @@ TOCTitle: Release production orders
 ms:assetid: 70c36618-6a5e-4593-b2b4-5b37ca239475
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571307(v=AX.60)
 ms:contentKeyID: 36058059
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Review the progress on questions in a configuration project in Microso
 ms:assetid: f1ad010c-9807-47df-98ae-1dc876d55daf
 ms:mtpsurl: https://technet.microsoft.com/library/Dn194015(v=AX.60)
 ms:contentKeyID: 52348267
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

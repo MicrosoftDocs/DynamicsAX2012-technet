@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a query for electronic reporting
 ms:assetid: 5683cf1f-cad1-4e11-8ded-eac9ce26c4a5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677535(v=AX.60)
 ms:contentKeyID: 49384839
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

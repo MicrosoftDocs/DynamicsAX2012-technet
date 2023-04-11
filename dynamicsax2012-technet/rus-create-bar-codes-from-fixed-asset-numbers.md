@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create bar codes from fixed asset numbers
 ms:assetid: 0e449131-ac14-4706-8658-7c09e5fdf066
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711387(v=AX.60)
 ms:contentKeyID: 49387205
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

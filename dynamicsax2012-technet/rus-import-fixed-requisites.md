@@ -4,7 +4,7 @@ TOCTitle: (RUS) Import fixed requisites
 ms:assetid: d2904d81-c789-4271-869b-9f25511b8a3d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677810(v=AX.60)
 ms:contentKeyID: 49385010
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Reports (Retail essentials)
 ms:assetid: 503f6f3a-1d47-4eae-90d4-6dff03b82fbc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716092(v=AX.60)
 ms:contentKeyID: 62200354
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

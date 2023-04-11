@@ -4,7 +4,7 @@ TOCTitle: (RUS) Registration process for by-products and defective items
 ms:assetid: 38c9fd8f-7817-41c5-8713-7235e6bdd7fe
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665289(v=AX.60)
 ms:contentKeyID: 49387378
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: ReasonCodeRequiredNotification Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeRequiredNotification.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCode},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeRequirement})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.reasoncoderequirednotification.reasoncoderequirednotification(v=AX.60)
 ms:contentKeyID: 65322571
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Notifications Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.Response.Notifications
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.response.notifications(v=AX.60)
 ms:contentKeyID: 49852660
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

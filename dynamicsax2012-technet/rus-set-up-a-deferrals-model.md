@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a deferrals model
 ms:assetid: 165057d0-5921-4004-b0d0-7dd41af7157c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711427(v=AX.60)
 ms:contentKeyID: 49387245
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

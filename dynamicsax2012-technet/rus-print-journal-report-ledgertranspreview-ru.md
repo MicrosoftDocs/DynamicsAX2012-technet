@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print journal report (LedgerTransPreview_RU)
 ms:assetid: 694430fc-367f-4313-baaa-d33594eebb60
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126095(v=AX.60)
 ms:contentKeyID: 52075230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

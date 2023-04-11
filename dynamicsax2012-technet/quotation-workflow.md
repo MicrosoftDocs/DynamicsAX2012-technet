@@ -4,7 +4,7 @@ TOCTitle: Quotation workflow
 ms:assetid: a99635c1-8c99-48eb-8de8-d43750bb4acf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550321(v=AX.60)
 ms:contentKeyID: 36058894
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

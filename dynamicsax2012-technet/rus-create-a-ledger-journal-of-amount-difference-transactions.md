@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a ledger journal of amount difference transactions
 ms:assetid: 4c4743b6-2b6c-4816-a58f-b244d2e0ff76
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665357(v=AX.60)
 ms:contentKeyID: 49387445
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

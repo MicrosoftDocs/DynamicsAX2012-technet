@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a vacation resolution
 ms:assetid: c5d1ac7f-f56e-4393-a40e-50ba40486ec0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435957(v=AX.60)
 ms:contentKeyID: 56730929
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

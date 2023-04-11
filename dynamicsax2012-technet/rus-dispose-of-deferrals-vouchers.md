@@ -4,7 +4,7 @@ TOCTitle: (RUS) Dispose of deferrals vouchers
 ms:assetid: 14fc4f68-8b8a-4c11-90fb-85108c03fa5d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711414(v=AX.60)
 ms:contentKeyID: 49387232
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

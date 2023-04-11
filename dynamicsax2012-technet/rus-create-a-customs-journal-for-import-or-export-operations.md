@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a customs journal for import or export operations
 ms:assetid: 4e051c03-6306-4d1b-b027-01d6e40ac17e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911377(v=AX.60)
 ms:contentKeyID: 52075381
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Assign a fixed requisite value for a report cell
 ms:assetid: 4353384c-e6e0-4ebd-95cc-f6ea8b776ef3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923411(v=AX.60)
 ms:contentKeyID: 52075370
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create a ledger journal of tax difference transactions
 ms:assetid: 51bb9b74-3888-4ee5-880d-b78134c2e1fd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911378(v=AX.60)
 ms:contentKeyID: 52075382
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

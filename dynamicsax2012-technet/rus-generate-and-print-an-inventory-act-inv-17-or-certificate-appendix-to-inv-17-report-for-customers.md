@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate and print an Inventory act (INV-17) or Certificate (App
 ms:assetid: f8f96e8d-b58a-45b4-a363-3411f73619e2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678645(v=AX.60)
 ms:contentKeyID: 49388127
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

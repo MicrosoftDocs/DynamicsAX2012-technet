@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate the Acceptance report in storage (MX-1)
 ms:assetid: ed72a9bc-d15e-4a89-aea1-f88d1b79b79c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856186(v=AX.60)
 ms:contentKeyID: 50407025
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

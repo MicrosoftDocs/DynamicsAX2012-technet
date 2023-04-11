@@ -4,7 +4,7 @@ TOCTitle: (RUS) Configure organizational information
 ms:assetid: d07f0628-c9fe-4689-ae01-8945a767352f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn452010(v=AX.60)
 ms:contentKeyID: 56713183
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

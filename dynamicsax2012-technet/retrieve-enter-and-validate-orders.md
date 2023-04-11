@@ -4,7 +4,7 @@ TOCTitle: Retrieve, enter, and validate orders
 ms:assetid: 106f2587-b58f-4b4d-bd59-79ebae241366
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230925(v=AX.60)
 ms:contentKeyID: 36056026
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

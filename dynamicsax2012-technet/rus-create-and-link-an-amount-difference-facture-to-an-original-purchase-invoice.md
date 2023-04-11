@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and link an amount difference facture to an original purc
 ms:assetid: 6978f1d9-ce6d-4129-9e5c-5e81ac483228
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853190(v=AX.60)
 ms:contentKeyID: 50396471
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

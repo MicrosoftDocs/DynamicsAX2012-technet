@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create profit or loss transactions for a currency conversion or 
 ms:assetid: 9a302a8e-29c6-49f0-bb32-bfc1b078e839
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923565(v=AX.60)
 ms:contentKeyID: 52075412
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

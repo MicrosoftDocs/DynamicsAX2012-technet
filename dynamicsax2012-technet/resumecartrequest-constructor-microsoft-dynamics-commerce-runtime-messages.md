@@ -4,7 +4,7 @@ TOCTitle: ResumeCartRequest Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.ResumeCartRequest.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.resumecartrequest.resumecartrequest(v=AX.60)
 ms:contentKeyID: 62210980
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

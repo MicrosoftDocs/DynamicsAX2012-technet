@@ -4,7 +4,7 @@ TOCTitle: (RUS) FA disposal report (RAssetDisposal)
 ms:assetid: 29334fb5-81d3-4ea1-85c9-3ca1a57f4aa6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955217(v=AX.60)
 ms:contentKeyID: 51831847
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Import or export templates and related data
 ms:assetid: 98326465-0e8d-4f7d-9774-9b0df9913ee6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677621(v=AX.60)
 ms:contentKeyID: 49384923
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

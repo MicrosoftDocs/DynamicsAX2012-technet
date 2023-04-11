@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and link an amount difference facture to an original sale
 ms:assetid: 491c431d-cbae-4ffd-9b0b-685c47b79b4b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853177(v=AX.60)
 ms:contentKeyID: 50396458
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a storno transfer journal by copying journals
 ms:assetid: 05a1a672-1696-47cb-a930-dbf2861d97eb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711354(v=AX.60)
 ms:contentKeyID: 49387172
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

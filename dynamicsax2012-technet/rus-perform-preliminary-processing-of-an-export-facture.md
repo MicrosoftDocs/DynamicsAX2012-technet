@@ -4,7 +4,7 @@ TOCTitle: (RUS) Perform preliminary processing of an export facture
 ms:assetid: 5db7e8bf-b4e6-4aae-9ac9-cbc7f7931e16
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665430(v=AX.60)
 ms:contentKeyID: 49387518
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

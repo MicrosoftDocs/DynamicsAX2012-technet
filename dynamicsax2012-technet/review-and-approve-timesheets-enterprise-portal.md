@@ -4,7 +4,7 @@ TOCTitle: Review and approve timesheets
 ms:assetid: 8252d9b6-4576-4b29-a552-2e5ac07241f0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271583(v=AX.60)
 ms:contentKeyID: 36384214
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

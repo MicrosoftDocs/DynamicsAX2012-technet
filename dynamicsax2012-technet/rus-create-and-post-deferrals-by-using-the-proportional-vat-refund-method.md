@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post deferrals by using the Proportional VAT refund m
 ms:assetid: 58043f5c-74a6-497e-8fde-4e0a38b0b926
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665401(v=AX.60)
 ms:contentKeyID: 49387489
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

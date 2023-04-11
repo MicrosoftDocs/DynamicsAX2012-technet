@@ -4,7 +4,7 @@ TOCTitle: (RUS) Prepayments in Retail for Russia
 ms:assetid: c5588433-d198-4a3f-9a12-3c79a4293f06
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268486(v=AX.60)
 ms:contentKeyID: 54917025
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

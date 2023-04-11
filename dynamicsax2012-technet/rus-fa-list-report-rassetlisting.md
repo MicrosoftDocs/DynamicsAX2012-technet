@@ -4,7 +4,7 @@ TOCTitle: (RUS) FA list report (RAssetListing)
 ms:assetid: 20e423f0-fef7-4705-a326-8151ec65268c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992749(v=AX.60)
 ms:contentKeyID: 51739436
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

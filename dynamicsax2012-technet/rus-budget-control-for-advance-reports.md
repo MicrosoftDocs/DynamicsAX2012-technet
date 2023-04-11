@@ -4,7 +4,7 @@ TOCTitle: (RUS) Budget control for advance reports
 ms:assetid: 25a23f72-d4e3-47a4-a6d6-8d71df5ae172
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733189(v=AX.60)
 ms:contentKeyID: 49685157
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

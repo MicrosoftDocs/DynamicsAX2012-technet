@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print the cash receipt register report
 ms:assetid: 1aab1fbc-8c80-48b2-8b13-0b863dc96bdb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711443(v=AX.60)
 ms:contentKeyID: 49387261
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

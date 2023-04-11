@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create invoices from purchase orders
 ms:assetid: 774bbafa-f723-4a69-99dd-05f1f5de1d8a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678371(v=AX.60)
 ms:contentKeyID: 49387601
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Print the TORG-12 report
 ms:assetid: ae130706-e027-4778-aa35-0d99c10305b5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711509(v=AX.60)
 ms:contentKeyID: 49387833
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

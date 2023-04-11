@@ -4,7 +4,7 @@ TOCTitle: Record Level Security and Outbound Documents
 ms:assetid: 532b36b8-d76c-498a-9986-a0676f7ddda4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa630391(v=AX.60)
 ms:contentKeyID: 35244324
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

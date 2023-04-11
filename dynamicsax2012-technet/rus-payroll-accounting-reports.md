@@ -4,7 +4,7 @@ TOCTitle: (RUS) Payroll accounting reports
 ms:assetid: 095e5f9d-2d90-40f0-b82a-61624597a6ca
 ms:mtpsurl: https://technet.microsoft.com/library/Dn452004(v=AX.60)
 ms:contentKeyID: 56713175
-author: Khairunj
+author: tonyafehr
 ms.date: 05/13/2014
 mtps_version: v=AX.60
 f1_keywords:

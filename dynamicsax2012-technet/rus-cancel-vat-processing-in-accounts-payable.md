@@ -4,7 +4,7 @@ TOCTitle: (RUS) Cancel VAT processing in Accounts payable
 ms:assetid: fc1045ad-0fe0-4b17-9bc4-2926730d7210
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678646(v=AX.60)
 ms:contentKeyID: 49388128
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

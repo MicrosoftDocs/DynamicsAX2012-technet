@@ -4,7 +4,7 @@ TOCTitle: Questionnaire license code (KMQuestionnaire)
 ms:assetid: ea71121b-f526-4177-87bc-a644daefd07b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433476(v=AX.60)
 ms:contentKeyID: 36941235
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

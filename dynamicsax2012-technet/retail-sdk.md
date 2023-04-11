@@ -4,7 +4,7 @@ TOCTitle: Retail SDK
 ms:assetid: 6df148ed-a6b7-4727-a2e9-3d9e3c84c8ba
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720295(v=AX.60)
 ms:contentKeyID: 62221435
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

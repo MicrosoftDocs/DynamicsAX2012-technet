@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post a statement for return transactions that are processed duri
 ms:assetid: 530b359c-4901-47fb-a242-fb72a776b860
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716018(v=AX.60)
 ms:contentKeyID: 62200264
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

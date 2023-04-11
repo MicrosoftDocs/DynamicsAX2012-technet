@@ -4,7 +4,7 @@ TOCTitle: Recruitment projects
 ms:assetid: 1f18eab5-38b4-4705-9372-02d5bf3ff2e9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496447(v=AX.60)
 ms:contentKeyID: 37072029
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Receiving returned items
 ms:assetid: 97471608-7cde-43df-92da-4ae5331d76b3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232240(v=AX.60)
 ms:contentKeyID: 44081014
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

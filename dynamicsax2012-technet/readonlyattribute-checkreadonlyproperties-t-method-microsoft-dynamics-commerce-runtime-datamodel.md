@@ -4,7 +4,7 @@ TOCTitle: CheckReadOnlyProperties(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReadOnlyAttribute.CheckReadOnlyProperties``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn738405(v=AX.60)
 ms:contentKeyID: 62208440
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Balance by FA report (RAssetBalances)
 ms:assetid: 55d5c91a-7232-4d59-a639-c94a54c0c9ce
 ms:mtpsurl: https://technet.microsoft.com/library/JJ955218(v=AX.60)
 ms:contentKeyID: 51831850
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

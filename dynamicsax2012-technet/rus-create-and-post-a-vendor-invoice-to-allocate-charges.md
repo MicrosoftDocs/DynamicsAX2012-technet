@@ -4,7 +4,7 @@ TOCTitle: (RUS) Create and post a vendor invoice to allocate charges
 ms:assetid: 74e41753-4163-4de9-b6ad-d8be19bc6c0f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ841093(v=AX.60)
 ms:contentKeyID: 50406252
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Resolve conflicts in loyalty card numbers after upgrade (Retail)
 ms:assetid: ec4eb0cc-062c-475b-b9c2-ae46efbfa373
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715951(v=AX.60)
 ms:contentKeyID: 62200027
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

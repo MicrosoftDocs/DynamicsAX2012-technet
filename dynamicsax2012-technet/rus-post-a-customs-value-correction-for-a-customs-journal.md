@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post a customs value correction for a customs journal
 ms:assetid: 97482f97-a576-4ef7-a9c6-7c68d3cc25fc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733258(v=AX.60)
 ms:contentKeyID: 49685225
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

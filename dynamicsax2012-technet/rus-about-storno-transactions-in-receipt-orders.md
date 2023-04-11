@@ -4,7 +4,7 @@ TOCTitle: (RUS) About storno transactions in receipt orders
 ms:assetid: 203f1090-06d1-4863-a417-306eccfd5d1d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711460(v=AX.60)
 ms:contentKeyID: 49387277
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

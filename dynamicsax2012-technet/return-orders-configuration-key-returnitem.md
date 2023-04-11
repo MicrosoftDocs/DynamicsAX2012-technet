@@ -4,7 +4,7 @@ TOCTitle: Return orders configuration key (ReturnItem)
 ms:assetid: 85a8b2dd-8996-43dd-b4d7-07c5ea79d785
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456314(v=AX.60)
 ms:contentKeyID: 36997759
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

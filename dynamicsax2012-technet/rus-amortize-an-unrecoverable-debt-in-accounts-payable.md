@@ -4,7 +4,7 @@ TOCTitle: (RUS) Amortize an unrecoverable debt in Accounts payable
 ms:assetid: 1d9a14b9-bb9e-45e4-8073-3d09dbdcc498
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711453(v=AX.60)
 ms:contentKeyID: 49387273
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

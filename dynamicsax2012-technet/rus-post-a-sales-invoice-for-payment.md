@@ -4,7 +4,7 @@ TOCTitle: (RUS) Post a sales invoice for payment
 ms:assetid: 7b908cec-5340-4940-9bde-c81adce2b5ea
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678389(v=AX.60)
 ms:contentKeyID: 49387619
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

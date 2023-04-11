@@ -4,7 +4,7 @@ TOCTitle: (RUS) Assign an exchange format to a bank account
 ms:assetid: ce417e03-1615-4a42-b00b-3894cb530f29
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711633(v=AX.60)
 ms:contentKeyID: 49387957
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

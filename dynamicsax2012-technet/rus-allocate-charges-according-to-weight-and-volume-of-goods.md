@@ -4,7 +4,7 @@ TOCTitle: (RUS) Allocate charges according to weight and volume of goods
 ms:assetid: 36911789-1d8c-4760-b20c-9b142d23d5ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665278(v=AX.60)
 ms:contentKeyID: 49387367
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

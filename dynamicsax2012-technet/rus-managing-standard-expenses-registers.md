@@ -4,7 +4,7 @@ TOCTitle: (RUS) Managing standard expenses registers
 ms:assetid: 8fd8b121-682d-40b7-b595-fd3f38d0f9dc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678475(v=AX.60)
 ms:contentKeyID: 49387704
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

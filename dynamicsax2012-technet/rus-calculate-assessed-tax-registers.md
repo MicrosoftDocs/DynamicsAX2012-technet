@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate assessed tax registers
 ms:assetid: 4ded2990-bc43-4c87-a1dd-f3a7fe021987
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665370(v=AX.60)
 ms:contentKeyID: 49387458
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

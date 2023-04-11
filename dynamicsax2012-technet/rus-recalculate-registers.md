@@ -4,7 +4,7 @@ TOCTitle: (RUS) Recalculate registers
 ms:assetid: 7b0a32be-9e4d-4834-bbc6-0e14194cf12b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678384(v=AX.60)
 ms:contentKeyID: 49387614
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

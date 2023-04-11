@@ -4,7 +4,7 @@ TOCTitle: Resolve price totals invoice matching discrepancies
 ms:assetid: 53f18e61-f50d-4557-b121-5553e79e78b2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292597(v=AX.60)
 ms:contentKeyID: 36655928
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

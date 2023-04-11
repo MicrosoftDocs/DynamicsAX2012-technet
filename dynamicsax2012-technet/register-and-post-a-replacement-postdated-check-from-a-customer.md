@@ -4,7 +4,7 @@ TOCTitle: Register and post a replacement postdated check from a customer
 ms:assetid: 20f182b8-3fb4-47a9-96b3-3b4bc7e3ae5c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208470(v=AX.60)
 ms:contentKeyID: 36056161
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: " respondent"
 ms:assetid: DynamicsAXGlossary.1504935
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1504935(v=AX.60)
 ms:contentKeyID: 36057502
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: CheckReadOnlyProperties(T) Method (T, CommerceEntity)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ReadOnlyAttribute.CheckReadOnlyProperties``1(``0,Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceEntity)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn698431(v=AX.60)
 ms:contentKeyID: 62211318
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

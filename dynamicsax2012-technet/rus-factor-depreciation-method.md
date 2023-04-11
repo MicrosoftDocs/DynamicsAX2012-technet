@@ -4,7 +4,7 @@ TOCTitle: (RUS) Factor depreciation method
 ms:assetid: 291efbcd-0ca1-47bb-ba3f-d28e5d5b8401
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665223(v=AX.60)
 ms:contentKeyID: 49387312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

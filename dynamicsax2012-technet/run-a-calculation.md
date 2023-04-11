@@ -4,7 +4,7 @@ TOCTitle: Run a calculation
 ms:assetid: 7af2c19e-7974-45f0-b2df-b34cfb0a85ca
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550075(v=AX.60)
 ms:contentKeyID: 36058252
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

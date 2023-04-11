@@ -4,7 +4,7 @@ TOCTitle: Resume inventory close
 ms:assetid: 6ea54307-97d1-4a86-9ca8-5de883b86e71
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231812(v=AX.60)
 ms:contentKeyID: 36058038
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Calculate the amount difference in the tax accounting register
 ms:assetid: 9b3321ae-05f1-457f-8dd1-c3cd1aa468fd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678521(v=AX.60)
 ms:contentKeyID: 49387750
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

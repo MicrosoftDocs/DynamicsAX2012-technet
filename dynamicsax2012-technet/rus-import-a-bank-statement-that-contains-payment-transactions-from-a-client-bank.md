@@ -4,7 +4,7 @@ TOCTitle: (RUS) Import a bank statement that contains payment transactions from 
 ms:assetid: 20baa84e-5dcc-439a-98b4-a74fa3147c08
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711461(v=AX.60)
 ms:contentKeyID: 49387278
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

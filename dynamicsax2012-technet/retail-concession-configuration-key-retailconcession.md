@@ -4,7 +4,7 @@ TOCTitle: Retail concession configuration key (RetailConcession)
 ms:assetid: 92febbb1-2bf7-485c-9109-81a5b407ad68
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697600(v=AX.60)
 ms:contentKeyID: 42518401
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

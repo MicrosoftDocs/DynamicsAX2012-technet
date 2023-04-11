@@ -4,7 +4,7 @@ TOCTitle: Reserve a specific worker for a project
 ms:assetid: 5cf0c51f-50fc-466f-91ba-bf7eb695fcd8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn532263(v=AX.60)
 ms:contentKeyID: 59930614
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

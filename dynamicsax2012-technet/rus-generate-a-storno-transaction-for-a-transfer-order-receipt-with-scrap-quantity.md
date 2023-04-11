@@ -4,7 +4,7 @@ TOCTitle: (RUS) Generate a storno transaction for a transfer order receipt with 
 ms:assetid: 38bac527-3c16-44ef-aef3-854dccb236a2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665287(v=AX.60)
 ms:contentKeyID: 49387376
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

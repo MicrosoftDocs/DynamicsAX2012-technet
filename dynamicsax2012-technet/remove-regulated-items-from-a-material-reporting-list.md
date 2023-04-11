@@ -4,7 +4,7 @@ TOCTitle: Remove regulated items from a material reporting list
 ms:assetid: e561b736-f07d-4a83-9136-4d61addc4372
 ms:mtpsurl: https://technet.microsoft.com/library/Hh328597(v=AX.60)
 ms:contentKeyID: 36688023
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

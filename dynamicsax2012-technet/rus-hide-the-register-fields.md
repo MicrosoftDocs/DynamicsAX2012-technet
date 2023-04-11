@@ -4,7 +4,7 @@ TOCTitle: (RUS) Hide the register fields
 ms:assetid: 5228b11d-fe6a-4557-a842-dd7a45686b7d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665386(v=AX.60)
 ms:contentKeyID: 49387474
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a customizable file format for a method of payment
 ms:assetid: 9e20f9e7-17fe-44d4-b490-2d2142143a0b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678539(v=AX.60)
 ms:contentKeyID: 49387768
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

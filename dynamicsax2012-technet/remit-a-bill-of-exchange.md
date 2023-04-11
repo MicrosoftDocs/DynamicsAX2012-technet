@@ -4,7 +4,7 @@ TOCTitle: Remit a bill of exchange
 ms:assetid: d0a6553f-9413-46f4-b963-14e8016ddc94
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551009(v=AX.60)
 ms:contentKeyID: 36966740
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
