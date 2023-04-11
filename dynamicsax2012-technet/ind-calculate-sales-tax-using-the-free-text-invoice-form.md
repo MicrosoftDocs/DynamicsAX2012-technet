@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate sales tax using the free text invoice form
 ms:assetid: 2f81e541-0186-4357-81b2-a49a6a4151af
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664597(v=AX.60)
 ms:contentKeyID: 49385674
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

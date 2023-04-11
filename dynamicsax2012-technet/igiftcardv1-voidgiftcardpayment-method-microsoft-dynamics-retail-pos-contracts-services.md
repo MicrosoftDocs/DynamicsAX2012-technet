@@ -4,7 +4,7 @@ TOCTitle: VoidGiftCardPayment Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IGiftCardV1.VoidGiftCardPayment(System.Boolean@,System.String@,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IGiftCardTenderLineItem)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.igiftcardv1.voidgiftcardpayment(v=AX.60)
 ms:contentKeyID: 47343814
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

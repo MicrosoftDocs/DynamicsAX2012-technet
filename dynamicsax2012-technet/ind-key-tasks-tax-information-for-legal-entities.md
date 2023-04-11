@@ -4,7 +4,7 @@ TOCTitle: '(IND) Key tasks: Tax information for legal entities'
 ms:assetid: b89741a5-f117-442c-8c5a-21038822e9f5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664813(v=AX.60)
 ms:contentKeyID: 49386145
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

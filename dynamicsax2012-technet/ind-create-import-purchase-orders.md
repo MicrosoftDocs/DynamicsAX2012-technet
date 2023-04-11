@@ -4,7 +4,7 @@ TOCTitle: (IND) Create import purchase orders
 ms:assetid: c6ddaa6a-a7ba-4505-96fe-d3059a211349
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664898(v=AX.60)
 ms:contentKeyID: 49386227
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

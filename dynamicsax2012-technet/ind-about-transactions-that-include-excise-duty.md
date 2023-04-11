@@ -4,7 +4,7 @@ TOCTitle: (IND) About transactions that include excise duty
 ms:assetid: 69669b37-11f1-46bf-8dca-cc45fee218ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677892(v=AX.60)
 ms:contentKeyID: 49385855
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

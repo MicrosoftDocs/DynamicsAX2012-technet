@@ -4,7 +4,7 @@ TOCTitle: (IND) Generate and print an excise invoice for goods
 ms:assetid: aeb44b01-e5ca-4f1f-ac75-72e8cbef4133
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876578(v=AX.60)
 ms:contentKeyID: 63378994
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

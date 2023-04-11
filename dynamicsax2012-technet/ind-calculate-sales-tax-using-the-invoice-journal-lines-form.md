@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate sales tax using the Invoice journal lines form
 ms:assetid: 1fd2c638-0dd9-4b56-a9a8-253e34af3535
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664544(v=AX.60)
 ms:contentKeyID: 49385623
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

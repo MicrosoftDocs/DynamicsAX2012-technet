@@ -4,7 +4,7 @@ TOCTitle: (IND) Activate VAT
 ms:assetid: f435ea8b-373a-44ba-9bdd-32a1e5649c11
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710929(v=AX.60)
 ms:contentKeyID: 49386341
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

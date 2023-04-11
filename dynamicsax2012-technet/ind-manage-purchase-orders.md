@@ -4,7 +4,7 @@ TOCTitle: (IND) Manage purchase orders
 ms:assetid: 2fadaae7-5009-4d1c-b2fd-997b4ab5be02
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664592(v=AX.60)
 ms:contentKeyID: 49385669
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

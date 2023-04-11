@@ -4,7 +4,7 @@ TOCTitle: (IND) Excise registers inquiries
 ms:assetid: d643860f-4732-4a6f-89ce-39607cb9f9ce
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664951(v=AX.60)
 ms:contentKeyID: 49386280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

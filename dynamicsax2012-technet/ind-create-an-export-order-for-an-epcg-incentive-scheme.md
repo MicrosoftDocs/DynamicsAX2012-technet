@@ -4,7 +4,7 @@ TOCTitle: (IND) Create an export order for an EPCG incentive scheme
 ms:assetid: 7f75f8da-2827-4380-9940-ee107ac15227
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677959(v=AX.60)
 ms:contentKeyID: 49385922
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

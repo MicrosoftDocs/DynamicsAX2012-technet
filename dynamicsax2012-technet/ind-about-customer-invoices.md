@@ -4,7 +4,7 @@ TOCTitle: (IND) About customer invoices
 ms:assetid: 48244b93-c00f-4244-addb-931c8acc5606
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664670(v=AX.60)
 ms:contentKeyID: 49385737
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

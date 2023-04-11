@@ -4,7 +4,7 @@ TOCTitle: (IND) Inventory and warehouse management
 ms:assetid: bdbd8612-dbcf-4007-9f38-00160c45ee4a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664826(v=AX.60)
 ms:contentKeyID: 49386155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

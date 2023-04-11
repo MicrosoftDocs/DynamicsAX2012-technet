@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate and post taxes for a customer order
 ms:assetid: a453d52b-adc3-4b1c-b773-5ee97a229940
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268484(v=AX.60)
 ms:contentKeyID: 54917023
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

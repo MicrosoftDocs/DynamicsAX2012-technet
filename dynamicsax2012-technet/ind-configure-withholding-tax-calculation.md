@@ -4,7 +4,7 @@ TOCTitle: (IND) Configure withholding tax calculation
 ms:assetid: bee2e9ad-2635-423f-8d90-aa6842aeb953
 ms:mtpsurl: https://technet.microsoft.com/library/Dn344874(v=AX.60)
 ms:contentKeyID: 56117705
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

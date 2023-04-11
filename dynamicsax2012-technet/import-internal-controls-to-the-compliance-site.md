@@ -4,7 +4,7 @@ TOCTitle: Import internal controls to the Compliance site
 ms:assetid: dd7f9677-3285-49bd-a8b3-6313b169b231
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271671(v=AX.60)
 ms:contentKeyID: 36384302
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

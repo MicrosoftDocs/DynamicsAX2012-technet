@@ -4,7 +4,7 @@ TOCTitle: PictureAsBase64 Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ImageZone.PictureAsBase64
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.imagezone.pictureasbase64(v=AX.60)
 ms:contentKeyID: 62206396
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Import demo data for AX 2012 R3 by using the Test Data Transfer Tool
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

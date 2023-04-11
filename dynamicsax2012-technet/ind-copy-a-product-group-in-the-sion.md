@@ -4,7 +4,7 @@ TOCTitle: (IND) Copy a product group in the SION
 ms:assetid: 55ddba81-eb2d-422a-9fe8-41ee889686db
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677827(v=AX.60)
 ms:contentKeyID: 49385791
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

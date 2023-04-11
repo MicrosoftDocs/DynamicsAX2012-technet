@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach import and export customs tariff codes to items
 ms:assetid: a016f12b-a670-409e-ba5c-fabf92c507fc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664717(v=AX.60)
 ms:contentKeyID: 49386049
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

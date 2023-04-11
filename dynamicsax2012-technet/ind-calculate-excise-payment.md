@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate excise payment
 ms:assetid: d25eeb65-3710-4b7b-aa18-db5b4f1ff409
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664941(v=AX.60)
 ms:contentKeyID: 49386270
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Generate and print a goods receipt note
 ms:assetid: 5483cfd6-75f4-46e8-bda1-225c1475a5c0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677816(v=AX.60)
 ms:contentKeyID: 49385780
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

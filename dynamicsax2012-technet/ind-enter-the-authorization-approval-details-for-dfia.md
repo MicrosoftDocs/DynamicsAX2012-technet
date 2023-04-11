@@ -4,7 +4,7 @@ TOCTitle: (IND) Enter the authorization approval details for DFIA
 ms:assetid: de12cc62-5cad-4cdf-98c9-26121af7136f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710887(v=AX.60)
 ms:contentKeyID: 49386300
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

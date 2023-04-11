@@ -4,7 +4,7 @@ TOCTitle: RecId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomerAffiliationV1.RecId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomeraffiliationv1.recid(v=AX.60)
 ms:contentKeyID: 62205586
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

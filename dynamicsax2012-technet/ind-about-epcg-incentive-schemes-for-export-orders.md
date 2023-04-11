@@ -4,7 +4,7 @@ TOCTitle: (IND) About EPCG incentive schemes for export orders
 ms:assetid: 9ec1afac-ac2f-411c-802e-ac172332c0b2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664714(v=AX.60)
 ms:contentKeyID: 49386045
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

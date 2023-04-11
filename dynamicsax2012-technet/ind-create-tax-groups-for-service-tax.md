@@ -4,7 +4,7 @@ TOCTitle: (IND) Create tax groups for service tax
 ms:assetid: 979f50ab-f083-4ae4-a2db-3bd2a91f508c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678055(v=AX.60)
 ms:contentKeyID: 49386016
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Create purchase credit notes for excisable goods
 ms:assetid: 41f16c4a-5cda-49f0-91fc-a4e8fa46b41c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664648(v=AX.60)
 ms:contentKeyID: 49385725
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

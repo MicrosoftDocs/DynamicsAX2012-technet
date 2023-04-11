@@ -4,7 +4,7 @@ TOCTitle: (IND) Create EXIM authorization schemes on the basis of annual consump
 ms:assetid: 63f6e998-23df-465a-87cf-12fbcbeffd8f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677871(v=AX.60)
 ms:contentKeyID: 49385836
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

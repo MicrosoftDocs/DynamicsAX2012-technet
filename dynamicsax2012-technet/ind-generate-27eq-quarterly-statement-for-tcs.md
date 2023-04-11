@@ -4,7 +4,7 @@ TOCTitle: (IND) Generate 27EQ quarterly statement for TCS
 ms:assetid: 0504f685-72ef-442f-aa34-8a7a0acec57e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664439(v=AX.60)
 ms:contentKeyID: 49385529
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Implementation methodology
 ms:assetid: 0d83de72-38be-49af-99c9-25e82ce52c4c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496439(v=AX.60)
 ms:contentKeyID: 35132539
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

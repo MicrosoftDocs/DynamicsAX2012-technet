@@ -4,7 +4,7 @@ TOCTitle: (IND) Create and post a purchase order line with a negative quantity f
 ms:assetid: ff303a59-2081-4bb3-894e-44d08a0b1535
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710991(v=AX.60)
 ms:contentKeyID: 49386403
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

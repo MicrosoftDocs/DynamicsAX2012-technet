@@ -4,7 +4,7 @@ TOCTitle: AddLoyaltyRequest Method (IRetailTransaction, ICardInfo)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ILoyaltyV1.AddLoyaltyRequest(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IRetailTransaction,Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICardInfo)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iloyaltyv1.addloyaltyrequest(v=AX.60)
 ms:contentKeyID: 47343899
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

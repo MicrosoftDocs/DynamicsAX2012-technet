@@ -4,7 +4,7 @@ TOCTitle: (IND) Create TCS ledger accounts
 ms:assetid: f79654ba-f768-4547-acd0-6f602ef63025
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710967(v=AX.60)
 ms:contentKeyID: 49386379
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

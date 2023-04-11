@@ -4,7 +4,7 @@ TOCTitle: (IND) Merge EPCG licenses
 ms:assetid: 14720789-b60e-49db-a263-d16ef2bba40d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664506(v=AX.60)
 ms:contentKeyID: 49385585
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

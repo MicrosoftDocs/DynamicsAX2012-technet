@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a product group for SION and assign products to the group
 ms:assetid: 09e94141-b3e5-4d98-a2f3-cf7f4801c159
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664462(v=AX.60)
 ms:contentKeyID: 49385541
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

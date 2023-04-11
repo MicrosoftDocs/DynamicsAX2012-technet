@@ -4,7 +4,7 @@ TOCTitle: IExtendedLogOnInfoV2 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IExtendedLogOnInfoV2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iextendedlogoninfov2_properties(v=AX.60)
 ms:contentKeyID: 62204115
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

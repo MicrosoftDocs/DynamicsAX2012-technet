@@ -4,7 +4,7 @@ TOCTitle: PutCatalogPriceGroups Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedPricingDataManager.PutCatalogPriceGroups(System.Collections.Generic.ISet{System.Int64},System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.CatalogPriceGroup})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedpricingdatamanager.putcatalogpricegroups(v=AX.60)
 ms:contentKeyID: 62210291
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

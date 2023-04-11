@@ -4,7 +4,7 @@ TOCTitle: Import a catalog from a vendor
 ms:assetid: b94877f5-d2da-4ada-b641-9850f3d30dfd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242762(v=AX.60)
 ms:contentKeyID: 36059115
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

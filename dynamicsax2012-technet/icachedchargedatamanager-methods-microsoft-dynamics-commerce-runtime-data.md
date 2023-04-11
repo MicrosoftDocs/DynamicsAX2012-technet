@@ -4,7 +4,7 @@ TOCTitle: ICachedChargeDataManager Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.ICachedChargeDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.icachedchargedatamanager_methods(v=AX.60)
 ms:contentKeyID: 65321717
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

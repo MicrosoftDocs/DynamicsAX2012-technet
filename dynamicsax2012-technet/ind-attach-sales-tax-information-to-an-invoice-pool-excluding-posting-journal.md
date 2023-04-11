@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach sales tax information to an Invoice pool excluding postin
 ms:assetid: 1854dbe9-1dd9-4bf8-9ef0-8631cbd48581
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664519(v=AX.60)
 ms:contentKeyID: 49385598
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

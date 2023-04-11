@@ -4,7 +4,7 @@ TOCTitle: Include budgets in cash flow forecasts
 ms:assetid: 8b199556-def2-42e0-80a4-7670bf9b9990
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498248(v=AX.60)
 ms:contentKeyID: 36941345
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

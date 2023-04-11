@@ -4,7 +4,7 @@ TOCTitle: (IND) Post an import order and verify the AA incentive scheme tax and 
 ms:assetid: 84a1eccd-0019-4b64-976e-1cb1b0b9980b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677981(v=AX.60)
 ms:contentKeyID: 49385944
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

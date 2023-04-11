@@ -4,7 +4,7 @@ TOCTitle: (IND) Create and post shipment orders for transactions
 ms:assetid: 02900c5f-b2a0-4cf8-84df-51009dc71adf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664436(v=AX.60)
 ms:contentKeyID: 49385524
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

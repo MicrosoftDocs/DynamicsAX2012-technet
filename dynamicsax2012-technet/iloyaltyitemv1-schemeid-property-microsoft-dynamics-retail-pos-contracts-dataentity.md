@@ -4,7 +4,7 @@ TOCTitle: SchemeID Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ILoyaltyItemV1.SchemeID
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.iloyaltyitemv1.schemeid(v=AX.60)
 ms:contentKeyID: 49845745
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

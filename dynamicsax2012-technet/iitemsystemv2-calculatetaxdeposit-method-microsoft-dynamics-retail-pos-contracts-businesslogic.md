@@ -4,7 +4,7 @@ TOCTitle: CalculateTaxDeposit Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.IItemSystemV2.CalculateTaxDeposit(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.iitemsystemv2.calculatetaxdeposit(v=AX.60)
 ms:contentKeyID: 62205580
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Execute(TResponse) Method (Request, RequestContext)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ICommerceRuntime.Execute``1(Microsoft.Dynamics.Commerce.Runtime.Messages.Request,Microsoft.Dynamics.Commerce.Runtime.RequestContext)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn967658(v=AX.60)
 ms:contentKeyID: 65319529
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

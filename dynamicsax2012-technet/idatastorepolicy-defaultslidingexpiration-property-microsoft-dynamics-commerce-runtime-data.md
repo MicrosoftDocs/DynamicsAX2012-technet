@@ -4,7 +4,7 @@ TOCTitle: DefaultSlidingExpiration Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.IDataStorePolicy.DefaultSlidingExpiration
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.idatastorepolicy.defaultslidingexpiration(v=AX.60)
 ms:contentKeyID: 65321939
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

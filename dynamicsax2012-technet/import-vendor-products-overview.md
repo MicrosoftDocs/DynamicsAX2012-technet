@@ -4,7 +4,7 @@ TOCTitle: Import vendor products overview
 ms:assetid: 8569fd89-dcd4-481f-b60b-0d192c1e56ba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597150(v=AX.60)
 ms:contentKeyID: 39519206
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

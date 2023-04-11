@@ -4,7 +4,7 @@ TOCTitle: (IND) Activate sales tax parameters
 ms:assetid: 16749adf-499f-4fbc-8365-b83ca7ca6715
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664512(v=AX.60)
 ms:contentKeyID: 49385591
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

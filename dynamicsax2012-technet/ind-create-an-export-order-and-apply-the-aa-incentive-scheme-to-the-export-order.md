@@ -4,7 +4,7 @@ TOCTitle: (IND) Create an export order and apply the AA incentive scheme to the 
 ms:assetid: d034e62b-2b5e-4826-8ae9-08f5f68e6ee8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664900(v=AX.60)
 ms:contentKeyID: 49386229
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

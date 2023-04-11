@@ -4,7 +4,7 @@ TOCTitle: (IND) Maintain TCS transactions for Accounts receivable
 ms:assetid: 8dbb6d88-cafe-44c0-a2fe-030e2bb4e009
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678016(v=AX.60)
 ms:contentKeyID: 49385977
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

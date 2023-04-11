@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate reverse charges on service tax
 ms:assetid: ce73c410-ffc8-479c-9f6f-97c1dd03b627
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304996(v=AX.60)
 ms:contentKeyID: 54900004
-author: Khairunj
+author: tonyafehr
 ms.date: 11/17/2014
 mtps_version: v=AX.60
 f1_keywords:

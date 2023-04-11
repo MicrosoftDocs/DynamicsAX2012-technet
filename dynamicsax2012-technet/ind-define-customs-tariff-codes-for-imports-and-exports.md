@@ -4,7 +4,7 @@ TOCTitle: (IND) Define customs tariff codes for imports and exports
 ms:assetid: 68fa72c4-4dc2-4d4d-94db-398e5b84dc82
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677890(v=AX.60)
 ms:contentKeyID: 49385853
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

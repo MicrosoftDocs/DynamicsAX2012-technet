@@ -4,7 +4,7 @@ TOCTitle: ILogonLogoffSystemV1 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.BusinessLogic.ILogonLogoffSystemV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.businesslogic.ilogonlogoffsystemv1_methods(v=AX.60)
 ms:contentKeyID: 47128848
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: IsNullOrEmpty(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.IEnumerableExtensions.IsNullOrEmpty``1(System.Collections.Generic.IEnumerable{``0})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn696621(v=AX.60)
 ms:contentKeyID: 62208020
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Create item sales tax groups
 ms:assetid: 18bdeb64-374c-4c06-80ec-c6536d3badd8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664518(v=AX.60)
 ms:contentKeyID: 49385597
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

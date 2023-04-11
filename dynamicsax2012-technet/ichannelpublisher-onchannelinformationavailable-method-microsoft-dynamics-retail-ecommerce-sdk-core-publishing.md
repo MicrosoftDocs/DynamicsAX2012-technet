@@ -4,7 +4,7 @@ TOCTitle: OnChannelInformationAvailable Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.IChannelPublisher.OnChannelInformationAvailable(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.PublishingParameters,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.ichannelpublisher.onchannelinformationavailable(v=AX.60)
 ms:contentKeyID: 65316907
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (IND) Maintain service tax transactions for Accounts payable
 ms:assetid: 9b96488a-e41d-40da-b334-53dc2e764870
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664722(v=AX.60)
 ms:contentKeyID: 49386053
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: IConfiguration Interface
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Storefront.IConfiguration
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.storefront.iconfiguration(v=AX.60)
 ms:contentKeyID: 65317667
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

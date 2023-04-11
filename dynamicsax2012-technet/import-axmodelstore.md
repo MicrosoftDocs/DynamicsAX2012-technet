@@ -4,7 +4,7 @@ TOCTitle: Import-AXModelStore
 ms:assetid: 58EF9DEB-34C7-481D-931A-1E417AB9F94D
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720259(v=AX.60)
 ms:contentKeyID: 49720043
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

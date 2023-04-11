@@ -4,7 +4,7 @@ TOCTitle: (IND) Invoice customers
 ms:assetid: 0ab46f94-5d5e-4306-86db-59dbd5d69ea4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664466(v=AX.60)
 ms:contentKeyID: 49385546
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

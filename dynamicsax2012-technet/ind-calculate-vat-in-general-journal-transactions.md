@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate VAT in general journal transactions
 ms:assetid: 61e6809f-27cb-4b7c-aade-fafb5f2ccd75
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677858(v=AX.60)
 ms:contentKeyID: 49385824
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

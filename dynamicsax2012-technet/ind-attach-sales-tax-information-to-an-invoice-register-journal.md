@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach sales tax information to an Invoice register journal
 ms:assetid: ba3c890f-704a-43df-8c8b-5e05cc78dbed
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664840(v=AX.60)
 ms:contentKeyID: 49386170
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

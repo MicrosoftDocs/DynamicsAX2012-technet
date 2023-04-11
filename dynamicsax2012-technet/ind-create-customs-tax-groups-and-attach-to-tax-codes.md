@@ -4,7 +4,7 @@ TOCTitle: (IND) Create customs tax groups and attach to tax codes
 ms:assetid: 48187172-65ec-4bcb-a849-38bdb3e2bdd1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664663(v=AX.60)
 ms:contentKeyID: 49385770
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

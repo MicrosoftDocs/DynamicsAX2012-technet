@@ -4,7 +4,7 @@ TOCTitle: SlipText2Line Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.IncomeExpenseAccount.SlipText2Line
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.incomeexpenseaccount.sliptext2line(v=AX.60)
 ms:contentKeyID: 62206475
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

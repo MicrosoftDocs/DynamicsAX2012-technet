@@ -4,7 +4,7 @@ TOCTitle: IItemTriggerV1 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Triggers.IItemTriggerV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.triggers.iitemtriggerv1_methods(v=AX.60)
 ms:contentKeyID: 47128793
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

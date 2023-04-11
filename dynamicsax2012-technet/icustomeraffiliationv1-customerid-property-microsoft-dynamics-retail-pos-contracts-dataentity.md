@@ -4,7 +4,7 @@ TOCTitle: CustomerId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomerAffiliationV1.CustomerId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.icustomeraffiliationv1.customerid(v=AX.60)
 ms:contentKeyID: 62205191
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

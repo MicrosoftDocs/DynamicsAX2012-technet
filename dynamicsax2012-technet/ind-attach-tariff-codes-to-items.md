@@ -4,7 +4,7 @@ TOCTitle: (IND) Attach tariff codes to items
 ms:assetid: fe5526e7-b724-49e4-8abc-fcb00fe67bf3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710977(v=AX.60)
 ms:contentKeyID: 49386390
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

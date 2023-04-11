@@ -4,7 +4,7 @@ TOCTitle: (IND) Generate 26Q or 27Q quarterly statements for TDS
 ms:assetid: 05b0a41e-c523-4677-ad86-3c7b4cd4a97d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664451(v=AX.60)
 ms:contentKeyID: 49385531
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

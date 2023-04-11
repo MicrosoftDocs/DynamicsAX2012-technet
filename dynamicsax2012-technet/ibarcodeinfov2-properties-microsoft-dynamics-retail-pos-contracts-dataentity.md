@@ -4,7 +4,7 @@ TOCTitle: IBarcodeInfoV2 Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IBarcodeInfoV2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.ibarcodeinfov2_properties(v=AX.60)
 ms:contentKeyID: 49853292
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

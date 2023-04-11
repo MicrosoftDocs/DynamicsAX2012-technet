@@ -4,7 +4,7 @@ TOCTitle: (IND) Create incentive scheme groups
 ms:assetid: 27d303a2-e17b-49f7-bdae-6b91ea24854a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664572(v=AX.60)
 ms:contentKeyID: 49385650
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

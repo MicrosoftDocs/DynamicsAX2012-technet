@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a tax journal for service tax
 ms:assetid: 9499ef53-09ae-4fb6-ab92-3b9ec3655e70
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678068(v=AX.60)
 ms:contentKeyID: 49386029
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

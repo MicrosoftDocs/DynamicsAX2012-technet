@@ -4,7 +4,7 @@ TOCTitle: (IND) Approve an EPCG license
 ms:assetid: 86e7c671-61d3-4225-998a-776b32637398
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677989(v=AX.60)
 ms:contentKeyID: 49385952
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

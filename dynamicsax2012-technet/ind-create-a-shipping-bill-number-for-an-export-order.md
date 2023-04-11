@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a shipping bill number for an export order
 ms:assetid: 7d8d0889-b3a7-4d0e-aba8-c794569a895e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677969(v=AX.60)
 ms:contentKeyID: 49385933
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

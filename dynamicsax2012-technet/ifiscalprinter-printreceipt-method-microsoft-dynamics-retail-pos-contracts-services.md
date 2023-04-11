@@ -4,7 +4,7 @@ TOCTitle: PrintReceipt Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IFiscalPrinter.PrintReceipt
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.ifiscalprinter.printreceipt(v=AX.60)
 ms:contentKeyID: 62205002
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

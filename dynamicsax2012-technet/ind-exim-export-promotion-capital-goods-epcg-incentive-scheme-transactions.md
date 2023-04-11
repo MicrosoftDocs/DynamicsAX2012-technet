@@ -4,7 +4,7 @@ TOCTitle: (IND) EXIM Export Promotion Capital Goods (EPCG) incentive scheme tran
 ms:assetid: fad44962-e4de-4640-9223-8c93b40f2975
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710958(v=AX.60)
 ms:contentKeyID: 49386369
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

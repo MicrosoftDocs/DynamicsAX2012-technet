@@ -4,7 +4,7 @@ TOCTitle: (IND) Pay service tax
 ms:assetid: 133df2c5-cda8-4d1f-8774-ebc17b2ff8a6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664501(v=AX.60)
 ms:contentKeyID: 49385579
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

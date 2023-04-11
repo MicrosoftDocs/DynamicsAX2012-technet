@@ -4,7 +4,7 @@ TOCTitle: SetAddressBookDataFromXml Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICustomerV2.SetAddressBookDataFromXml(Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ICustomer,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icustomerv2.setaddressbookdatafromxml(v=AX.60)
 ms:contentKeyID: 62205429
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

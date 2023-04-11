@@ -4,7 +4,7 @@ TOCTitle: (IND) Create tax ledger posting groups and attach an STC number
 ms:assetid: 79528272-a04e-4e04-a573-e4e6aee37b72
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677947(v=AX.60)
 ms:contentKeyID: 49385910
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

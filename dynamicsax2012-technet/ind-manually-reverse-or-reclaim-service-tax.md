@@ -4,7 +4,7 @@ TOCTitle: (IND) Manually reverse or reclaim service tax
 ms:assetid: 1233e7ed-5064-4aef-82ee-651cf6808d10
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664496(v=AX.60)
 ms:contentKeyID: 49385576
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

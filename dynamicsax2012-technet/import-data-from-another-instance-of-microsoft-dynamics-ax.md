@@ -4,7 +4,7 @@ TOCTitle: Import data from another instance of Microsoft Dynamics AX
 ms:assetid: 0191bddd-7002-4839-b1c2-84468f19cafc
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834324(v=AX.60)
 ms:contentKeyID: 35132524
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

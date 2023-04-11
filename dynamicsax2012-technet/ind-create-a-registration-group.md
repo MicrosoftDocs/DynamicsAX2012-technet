@@ -4,7 +4,7 @@ TOCTitle: (IND) Create a registration group
 ms:assetid: ce8bfaca-75f0-4e2d-90cb-1b64ad5c174b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664925(v=AX.60)
 ms:contentKeyID: 49386254
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: PopulateTotalFields Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICustomFieldV1.PopulateTotalFields(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Retail.Pos.Contracts.Services.CustomFieldValue},Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.IPosTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icustomfieldv1.populatetotalfields(v=AX.60)
 ms:contentKeyID: 47344152
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

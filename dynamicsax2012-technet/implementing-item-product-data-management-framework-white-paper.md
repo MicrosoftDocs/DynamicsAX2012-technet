@@ -4,7 +4,7 @@ TOCTitle: Implementing Item-Product Data Management Framework
 ms:assetid: b71ad9bc-9f65-4dbc-b818-03bb3ed4a891
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272877(v=AX.60)
 ms:contentKeyID: 36584401
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

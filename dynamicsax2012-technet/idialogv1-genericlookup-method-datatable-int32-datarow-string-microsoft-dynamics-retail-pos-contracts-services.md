@@ -4,7 +4,7 @@ TOCTitle: GenericLookup Method (DataTable, Int32, DataRow, String)
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IDialogV1.GenericLookup(System.Data.DataTable,System.Int32,System.Data.DataRow@,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.idialogv1.genericlookup(v=AX.60)
 ms:contentKeyID: 47344382
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

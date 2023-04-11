@@ -4,7 +4,7 @@ TOCTitle: (IND) Create tax journals for VAT
 ms:assetid: 7cc96857-f2a5-4235-9163-1cda540fb296
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677962(v=AX.60)
 ms:contentKeyID: 49385924
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

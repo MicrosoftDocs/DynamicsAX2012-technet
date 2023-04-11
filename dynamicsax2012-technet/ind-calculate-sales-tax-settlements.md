@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate sales tax settlements
 ms:assetid: 20095e8f-ea77-4b78-9ff4-c387ffb5af49
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664545(v=AX.60)
 ms:contentKeyID: 49385624
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Import or export a product configuration model
 ms:assetid: 9e004a3a-e6b7-46a7-b6d8-7d289770cab3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597189(v=AX.60)
 ms:contentKeyID: 39519256
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

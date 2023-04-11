@@ -4,7 +4,7 @@ TOCTitle: (IND) Define ledger posting groups for tax components
 ms:assetid: 33327460-c7bf-41d0-8de4-468767a335ff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664603(v=AX.60)
 ms:contentKeyID: 49385680
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

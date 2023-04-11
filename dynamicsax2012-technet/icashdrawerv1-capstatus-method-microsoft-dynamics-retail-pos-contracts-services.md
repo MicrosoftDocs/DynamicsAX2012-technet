@@ -4,7 +4,7 @@ TOCTitle: CapStatus Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Pos.Contracts.Services.ICashDrawerV1.CapStatus
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.icashdrawerv1.capstatus(v=AX.60)
 ms:contentKeyID: 47344199
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

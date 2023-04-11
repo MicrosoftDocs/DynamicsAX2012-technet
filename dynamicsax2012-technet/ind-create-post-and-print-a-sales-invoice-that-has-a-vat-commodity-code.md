@@ -4,7 +4,7 @@ TOCTitle: (IND) Create, post, and print a sales invoice that has a VAT commodity
 ms:assetid: 33f3e42e-bcb7-4ba4-a6cd-7d620bfb7338
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664608(v=AX.60)
 ms:contentKeyID: 49385685
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

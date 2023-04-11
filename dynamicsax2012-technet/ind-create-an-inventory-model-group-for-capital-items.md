@@ -4,7 +4,7 @@ TOCTitle: (IND) Create an inventory model group for capital items
 ms:assetid: 163894d4-f610-4a3e-b9ac-1c5390b4f335
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664511(v=AX.60)
 ms:contentKeyID: 49385590
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

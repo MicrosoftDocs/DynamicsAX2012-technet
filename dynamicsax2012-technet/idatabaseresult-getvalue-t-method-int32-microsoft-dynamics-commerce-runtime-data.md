@@ -4,7 +4,7 @@ TOCTitle: GetValue(T) Method (Int32)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseResult.GetValue``1(System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968911(v=AX.60)
 ms:contentKeyID: 65322275
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

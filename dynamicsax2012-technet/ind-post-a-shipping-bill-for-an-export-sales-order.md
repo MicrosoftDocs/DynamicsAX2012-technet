@@ -4,7 +4,7 @@ TOCTitle: (IND) Post a shipping bill for an export sales order
 ms:assetid: 0b64888e-f6f6-4afa-ad7a-97dc4c70eac8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664470(v=AX.60)
 ms:contentKeyID: 49385549
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

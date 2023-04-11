@@ -4,7 +4,7 @@ TOCTitle: (IND) Enter recoverable certificate numbers for withholding taxes
 ms:assetid: 003bdb19-67cc-4f06-8979-be02b6886fba
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664424(v=AX.60)
 ms:contentKeyID: 49385512
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

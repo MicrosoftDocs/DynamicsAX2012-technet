@@ -4,7 +4,7 @@ TOCTitle: Clear Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.IKeyedDataStoreAccessor.Clear(Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.ikeyeddatastoreaccessor.clear(v=AX.60)
 ms:contentKeyID: 65319577
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

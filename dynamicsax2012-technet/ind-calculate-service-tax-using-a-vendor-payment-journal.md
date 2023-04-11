@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate service tax using a vendor payment journal
 ms:assetid: 794e811a-1648-49d1-a997-05f97af1d254
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677923(v=AX.60)
 ms:contentKeyID: 49385872
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

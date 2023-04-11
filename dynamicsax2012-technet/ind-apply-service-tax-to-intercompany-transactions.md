@@ -4,7 +4,7 @@ TOCTitle: (IND) Apply service tax to intercompany transactions
 ms:assetid: bdbd5fff-5bc1-4ef6-a710-780977f81de0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664850(v=AX.60)
 ms:contentKeyID: 49386180
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

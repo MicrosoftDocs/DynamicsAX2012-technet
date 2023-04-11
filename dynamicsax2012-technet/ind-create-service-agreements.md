@@ -4,7 +4,7 @@ TOCTitle: (IND) Create service agreements
 ms:assetid: 6b6c9caf-3c3c-4149-a693-d2f2a13dfd15
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677894(v=AX.60)
 ms:contentKeyID: 49385857
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate service tax for a sales order
 ms:assetid: 3aba304d-3068-47e5-8e3a-9b565e547df2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664633(v=AX.60)
 ms:contentKeyID: 49385710
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

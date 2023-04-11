@@ -4,7 +4,7 @@ TOCTitle: (IND) Enter VAT details in sales orders
 ms:assetid: 1d96a473-c0ff-4092-b489-dd7206457f3e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664538(v=AX.60)
 ms:contentKeyID: 49385617
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Calculate TCS for returned item invoices or credit notes
 ms:assetid: 4ae20fbe-d383-4fb4-9df5-09204f8b708b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664675(v=AX.60)
 ms:contentKeyID: 49385748
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

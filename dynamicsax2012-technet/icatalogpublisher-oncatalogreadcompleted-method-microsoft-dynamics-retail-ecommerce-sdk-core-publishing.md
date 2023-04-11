@@ -4,7 +4,7 @@ TOCTitle: OnCatalogReadCompleted Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.ICatalogPublisher.OnCatalogReadCompleted(System.Int64,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.Publisher)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.icatalogpublisher.oncatalogreadcompleted(v=AX.60)
 ms:contentKeyID: 65318523
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
