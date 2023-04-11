@@ -4,7 +4,7 @@ TOCTitle: AddressSqliteDatabaseAccessor Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.AddressSqliteDatabaseAccessor.#ctor(Microsoft.Dynamics.Commerce.Runtime.RequestContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.addresssqlitedatabaseaccessor.addresssqlitedatabaseaccessor(v=AX.60)
 ms:contentKeyID: 65321105
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

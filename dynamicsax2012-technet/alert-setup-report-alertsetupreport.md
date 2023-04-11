@@ -4,7 +4,7 @@ TOCTitle: Alert setup report (AlertSetupReport)
 ms:assetid: a2f3341e-0836-45e4-b825-2e7353ceca6e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692473(v=AX.60)
 ms:contentKeyID: 41702370
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

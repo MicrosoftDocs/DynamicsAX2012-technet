@@ -4,7 +4,7 @@ TOCTitle: Approve or reject an invoice proposal
 ms:assetid: 99ca5d37-b0eb-4cbd-9d1a-83ccc963717d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209423(v=AX.60)
 ms:contentKeyID: 36058700
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 10/06/2014
 mtps_version: v=AX.60

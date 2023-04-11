@@ -4,7 +4,7 @@ TOCTitle: Asset insurance report (AssetInsurance)
 ms:assetid: 10ed1635-d9ce-4da1-8e2f-18735addb5de
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571864(v=AX.60)
 ms:contentKeyID: 36687342
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: FacebookApplicationId Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Common.AppSettingNames.FacebookApplicationId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.appsettingnames.facebookapplicationid(v=AX.60)
 ms:contentKeyID: 62206961
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

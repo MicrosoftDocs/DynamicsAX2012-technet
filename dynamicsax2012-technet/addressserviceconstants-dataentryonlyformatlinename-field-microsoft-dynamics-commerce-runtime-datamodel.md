@@ -4,7 +4,7 @@ TOCTitle: DataEntryOnlyFormatLineName Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressServiceConstants.DataEntryOnlyFormatLineName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.dataentryonlyformatlinename(v=AX.60)
 ms:contentKeyID: 65318513
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

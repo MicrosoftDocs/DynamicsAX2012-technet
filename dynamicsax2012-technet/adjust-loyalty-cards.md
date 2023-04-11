@@ -4,7 +4,7 @@ TOCTitle: Adjust loyalty cards
 ms:assetid: 76cb25f7-c6d8-4bf6-ab99-d3dc0594a81f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497789(v=AX.60)
 ms:contentKeyID: 62231562
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: AffiliationLoyaltyTier Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.AffiliationLoyaltyTier.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.affiliationloyaltytier.affiliationloyaltytier(v=AX.60)
 ms:contentKeyID: 62208223
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

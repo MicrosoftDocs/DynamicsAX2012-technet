@@ -4,7 +4,7 @@ TOCTitle: Assign a rate and route to a load
 ms:assetid: 6f30172b-1fe3-4020-a16b-865ddec80f50
 ms:mtpsurl: https://technet.microsoft.com/library/Dn770232(v=AX.60)
 ms:contentKeyID: 62524899
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 06/25/2014
 mtps_version: v=AX.60

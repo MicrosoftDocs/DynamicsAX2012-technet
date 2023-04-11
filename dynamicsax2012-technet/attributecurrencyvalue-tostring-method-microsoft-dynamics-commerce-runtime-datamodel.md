@@ -4,7 +4,7 @@ TOCTitle: ToString Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeCurrencyValue.ToString
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributecurrencyvalue.tostring(v=AX.60)
 ms:contentKeyID: 49831062
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

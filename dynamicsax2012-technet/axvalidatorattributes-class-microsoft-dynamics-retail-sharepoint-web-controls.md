@@ -4,7 +4,7 @@ TOCTitle: AXValidatorAttributes Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXValidatorAttributes
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axvalidatorattributes(v=AX.60)
 ms:contentKeyID: 62204262
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

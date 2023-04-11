@@ -4,7 +4,7 @@ TOCTitle: Answer questions in a configuration project in RapidStart Services
 ms:assetid: 6788d7e3-66c6-46ee-8247-73b2467edf91
 ms:mtpsurl: https://technet.microsoft.com/library/Dn193998(v=AX.60)
 ms:contentKeyID: 52348265
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 09/18/2015
 mtps_version: v=AX.60

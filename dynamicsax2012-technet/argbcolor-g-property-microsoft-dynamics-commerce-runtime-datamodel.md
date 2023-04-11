@@ -4,7 +4,7 @@ TOCTitle: G Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ARGBColor.G
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.argbcolor.g(v=AX.60)
 ms:contentKeyID: 62209466
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

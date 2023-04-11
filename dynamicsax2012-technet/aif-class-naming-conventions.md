@@ -4,7 +4,7 @@ TOCTitle: AIF Class Naming Conventions
 ms:assetid: 16011911-1345-41d8-9c7d-5f9a21048942
 ms:mtpsurl: https://technet.microsoft.com/library/Cc583680(v=AX.60)
 ms:contentKeyID: 35240633
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 11/07/2012
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: RecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Affiliation.RecordId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.affiliation.recordid(v=AX.60)
 ms:contentKeyID: 62214589
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

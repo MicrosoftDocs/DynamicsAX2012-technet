@@ -4,7 +4,7 @@ TOCTitle: Prefix Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.BarcodeMask.Prefix
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.barcodemask.prefix(v=AX.60)
 ms:contentKeyID: 62205370
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

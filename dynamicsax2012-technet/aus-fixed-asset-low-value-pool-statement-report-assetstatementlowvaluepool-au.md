@@ -4,7 +4,7 @@ TOCTitle: (AUS) Fixed asset - low value pool statement report (AssetStatementLow
 ms:assetid: 0cd81043-4bfd-4e46-bffb-b3f55d2376eb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352233(v=AX.60)
 ms:contentKeyID: 36687859
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

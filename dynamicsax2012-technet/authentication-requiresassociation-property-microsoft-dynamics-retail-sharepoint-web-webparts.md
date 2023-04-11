@@ -4,7 +4,7 @@ TOCTitle: RequiresAssociation Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Authentication.RequiresAssociation
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.authentication.requiresassociation(v=AX.60)
 ms:contentKeyID: 62202309
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

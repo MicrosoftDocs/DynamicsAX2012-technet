@@ -4,7 +4,7 @@ TOCTitle: GetRouteUrl Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplayCustomer.GetRouteUrl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplaycustomer.getrouteurl(v=AX.60)
 ms:contentKeyID: 62204260
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

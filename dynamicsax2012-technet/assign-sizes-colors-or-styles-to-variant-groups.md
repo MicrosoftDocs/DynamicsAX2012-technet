@@ -4,7 +4,7 @@ TOCTitle: Assign sizes, colors, or styles to variant groups
 ms:assetid: 34945800-f636-4dd7-ae8b-d19a44f9daa3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580605(v=AX.60)
 ms:contentKeyID: 39519091
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

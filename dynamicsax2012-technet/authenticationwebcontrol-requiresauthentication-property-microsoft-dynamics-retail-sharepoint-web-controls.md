@@ -4,7 +4,7 @@ TOCTitle: RequiresAuthentication Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AuthenticationWebControl.RequiresAuthentication
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.authenticationwebcontrol.requiresauthentication(v=AX.60)
 ms:contentKeyID: 62203301
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

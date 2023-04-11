@@ -4,7 +4,7 @@ TOCTitle: AttributeRichMediaValue Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeRichMediaValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributerichmediavalue_methods(v=AX.60)
 ms:contentKeyID: 62212262
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

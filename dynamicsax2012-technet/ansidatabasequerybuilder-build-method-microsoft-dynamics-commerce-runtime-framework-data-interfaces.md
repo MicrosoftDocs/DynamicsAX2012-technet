@@ -4,7 +4,7 @@ TOCTitle: Build Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Framework.Data.Interfaces.AnsiDatabaseQueryBuilder.Build(Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseQueryParts)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.framework.data.interfaces.ansidatabasequerybuilder.build(v=AX.60)
 ms:contentKeyID: 65319312
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

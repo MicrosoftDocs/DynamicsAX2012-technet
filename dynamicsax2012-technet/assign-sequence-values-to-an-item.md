@@ -4,7 +4,7 @@ TOCTitle: Assign sequence values to an item
 ms:assetid: e8dcb2e7-a64c-4522-af18-1845f15b4cf9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838752(v=AX.60)
 ms:contentKeyID: 50120635
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

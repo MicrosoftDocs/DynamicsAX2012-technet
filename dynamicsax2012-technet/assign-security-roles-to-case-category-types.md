@@ -4,7 +4,7 @@ TOCTitle: Assign security roles to case category types
 ms:assetid: ebc75cfc-7010-4175-a6cf-680ae051e9d3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677372(v=AX.60)
 ms:contentKeyID: 49384148
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: ZipCodeInformation Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressServiceConstants.ZipCodeInformation
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.zipcodeinformation(v=AX.60)
 ms:contentKeyID: 49819136
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

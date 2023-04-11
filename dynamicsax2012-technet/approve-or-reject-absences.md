@@ -4,7 +4,7 @@ TOCTitle: Approve or reject absences
 ms:assetid: 14cfd517-1c47-4bdc-8d9e-6cebb02a2d66
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496620(v=AX.60)
 ms:contentKeyID: 36966698
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

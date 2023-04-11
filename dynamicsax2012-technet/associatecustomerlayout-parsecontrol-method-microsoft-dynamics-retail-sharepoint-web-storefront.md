@@ -4,7 +4,7 @@ TOCTitle: ParseControl Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.AssociateCustomerLayout.ParseControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.associatecustomerlayout.parsecontrol(v=AX.60)
 ms:contentKeyID: 62203545
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Dispose Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.AuthenticationModule.Dispose
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.authenticationmodule.dispose(v=AX.60)
 ms:contentKeyID: 62201809
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/21/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Audit trail report (LedgerAuditTrailReport)
 ms:assetid: dfd5e302-76f1-4949-b222-329804996a98
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527787(v=AX.60)
 ms:contentKeyID: 37832036
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

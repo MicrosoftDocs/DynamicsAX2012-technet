@@ -4,7 +4,7 @@ TOCTitle: RenderControl Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddToCart.RenderControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.addtocart.rendercontrol(v=AX.60)
 ms:contentKeyID: 62204431
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

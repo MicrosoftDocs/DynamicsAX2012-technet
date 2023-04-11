@@ -4,7 +4,7 @@ TOCTitle: CountyName Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressServiceConstants.CountyName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressserviceconstants.countyname(v=AX.60)
 ms:contentKeyID: 49856246
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

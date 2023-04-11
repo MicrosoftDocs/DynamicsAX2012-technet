@@ -4,7 +4,7 @@ TOCTitle: Automate the process of building loads
 ms:assetid: 96a5f406-928f-4858-9802-cfd078b3d95e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn887223(v=AX.60)
 ms:contentKeyID: 63378895
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 11/13/2014
 mtps_version: v=AX.60

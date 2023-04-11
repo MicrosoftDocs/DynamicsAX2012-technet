@@ -4,7 +4,7 @@ TOCTitle: AOS topology
 ms:assetid: 3c33b3da-d895-4f42-b2fb-9ba4b16c451c
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309649(v=AX.60)
 ms:contentKeyID: 35949282
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

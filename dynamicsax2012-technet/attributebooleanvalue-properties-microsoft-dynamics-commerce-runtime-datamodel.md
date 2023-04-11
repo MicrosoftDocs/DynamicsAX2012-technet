@@ -4,7 +4,7 @@ TOCTitle: AttributeBooleanValue Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeBooleanValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributebooleanvalue_properties(v=AX.60)
 ms:contentKeyID: 49837538
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

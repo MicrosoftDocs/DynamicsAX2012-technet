@@ -4,7 +4,7 @@ TOCTitle: AddToGiftCardServiceRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AddToGiftCardServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.addtogiftcardservicerequest_methods(v=AX.60)
 ms:contentKeyID: 62206214
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

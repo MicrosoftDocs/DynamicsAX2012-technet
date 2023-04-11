@@ -4,7 +4,7 @@ TOCTitle: AddressService Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.AddressService
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.addressservice(v=AX.60)
 ms:contentKeyID: 49831409
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Associate a worker with a user ID
 ms:assetid: b4a4f7cd-8a81-41cb-afec-1e4039c881aa
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550450(v=AX.60)
 ms:contentKeyID: 36059078
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

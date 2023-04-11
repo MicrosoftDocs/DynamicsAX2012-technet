@@ -4,7 +4,7 @@ TOCTitle: TokenResponsePaymentProperties Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AuthorizeTokenizedCardPaymentServiceRequest.TokenResponsePaymentProperties
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.authorizetokenizedcardpaymentservicerequest.tokenresponsepaymentproperties(v=AX.60)
 ms:contentKeyID: 65317755
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

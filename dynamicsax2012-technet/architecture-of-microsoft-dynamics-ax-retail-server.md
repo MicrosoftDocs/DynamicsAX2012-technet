@@ -4,7 +4,7 @@ TOCTitle: Retail Server architecture
 ms:assetid: a3b1e382-24ec-4137-bc0f-08573bee0089
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741451(v=AX.60)
 ms:contentKeyID: 62219727
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60
