@@ -4,7 +4,7 @@ TOCTitle: About service orders
 ms:assetid: ce4c151a-293e-4210-9f2a-abf90b93aeab
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572693(v=AX.60)
 ms:contentKeyID: 37008250
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

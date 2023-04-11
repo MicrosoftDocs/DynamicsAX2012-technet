@@ -4,7 +4,7 @@ TOCTitle: About sites and the multisite functionality
 ms:assetid: 8d3787c1-dd47-4e73-99ef-efd3f457963c
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309972(v=AX.60)
 ms:contentKeyID: 36058491
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

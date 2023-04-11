@@ -4,7 +4,7 @@ TOCTitle: About fixed asset determination rules
 ms:assetid: 05380afd-8f66-4b8e-9f71-d39457a507b1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242106(v=AX.60)
 ms:contentKeyID: 36055949
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

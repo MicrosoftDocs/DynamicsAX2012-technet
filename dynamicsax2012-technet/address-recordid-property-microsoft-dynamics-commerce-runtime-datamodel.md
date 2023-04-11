@@ -4,7 +4,7 @@ TOCTitle: RecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Address.RecordId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.address.recordid(v=AX.60)
 ms:contentKeyID: 62203632
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

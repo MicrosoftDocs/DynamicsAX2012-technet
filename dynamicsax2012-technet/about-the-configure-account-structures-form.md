@@ -4,7 +4,7 @@ TOCTitle: About the Configure account structures form
 ms:assetid: 621b68f2-20af-404d-8932-402959b0cb11
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209188(v=AX.60)
 ms:contentKeyID: 36057664
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: ActivateDeviceServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ActivateDeviceServiceRequest.#ctor(System.String,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.activatedeviceservicerequest.activatedeviceservicerequest(v=AX.60)
 ms:contentKeyID: 65315608
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About parameters for settlements in Accounts payable
 ms:assetid: 34134883-af4d-4827-92b7-7515be394069
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580604(v=AX.60)
 ms:contentKeyID: 39519090
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About project statements
 ms:assetid: f025c1cf-8922-424a-a0d0-a55bd655c0fb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551574(v=AX.60)
 ms:contentKeyID: 36966744
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

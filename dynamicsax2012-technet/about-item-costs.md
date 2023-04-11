@@ -4,7 +4,7 @@ TOCTitle: About item costs
 ms:assetid: 99707264-1ba1-4545-a52b-534c6a6f1f96
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498448(v=AX.60)
 ms:contentKeyID: 36058697
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

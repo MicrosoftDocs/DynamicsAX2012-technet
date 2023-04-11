@@ -4,7 +4,7 @@ TOCTitle: About cost templates
 ms:assetid: bcdeaa27-bdca-4a06-b751-42a556ee329f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498870(v=AX.60)
 ms:contentKeyID: 36059143
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

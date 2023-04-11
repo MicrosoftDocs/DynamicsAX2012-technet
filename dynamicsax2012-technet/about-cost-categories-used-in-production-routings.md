@@ -4,7 +4,7 @@ TOCTitle: About cost categories used in production routings
 ms:assetid: bd761559-f3df-4ef2-9a49-7b3d930358ab
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213616(v=AX.60)
 ms:contentKeyID: 36059155
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

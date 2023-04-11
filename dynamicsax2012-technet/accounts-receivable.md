@@ -4,7 +4,7 @@ TOCTitle: Accounts receivable
 ms:assetid: cd119856-9c1d-4f2f-9674-3e545035f67f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242906(v=AX.60)
 ms:contentKeyID: 36059460
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

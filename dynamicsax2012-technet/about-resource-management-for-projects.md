@@ -4,7 +4,7 @@ TOCTitle: About resource management for projects
 ms:assetid: 324a63e4-855e-4a62-bd0c-1300fa223f9b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208573(v=AX.60)
 ms:contentKeyID: 36056355
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 10/06/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About cost categories
 ms:assetid: bd1c5278-084e-4874-9ff4-5aa2f740328f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498874(v=AX.60)
 ms:contentKeyID: 36059146
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

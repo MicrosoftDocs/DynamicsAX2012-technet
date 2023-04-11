@@ -4,7 +4,7 @@ TOCTitle: About compliance reports
 ms:assetid: 90a58c4b-1498-441e-b39b-d1010ff61ee6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271594(v=AX.60)
 ms:contentKeyID: 36384225
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60

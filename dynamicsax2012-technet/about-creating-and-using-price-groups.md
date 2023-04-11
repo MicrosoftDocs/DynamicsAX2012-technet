@@ -4,7 +4,7 @@ TOCTitle: About creating and using price groups
 ms:assetid: bc697b30-85bc-491a-ac95-7dd6608b5c77
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213600(v=AX.60)
 ms:contentKeyID: 37835231
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

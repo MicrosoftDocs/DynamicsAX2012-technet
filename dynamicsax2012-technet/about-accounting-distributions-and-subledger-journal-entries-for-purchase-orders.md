@@ -4,7 +4,7 @@ TOCTitle: About accounting distributions and subledger journal entries for purch
 ms:assetid: 2d8ed8c6-78e9-46a3-9054-0798e30709b8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208518(v=AX.60)
 ms:contentKeyID: 36056262
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

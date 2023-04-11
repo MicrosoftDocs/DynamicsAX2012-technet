@@ -4,7 +4,7 @@ TOCTitle: About journal approval procedures
 ms:assetid: effa7746-7ad0-4033-8d83-3119aef8e785
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551570(v=AX.60)
 ms:contentKeyID: 37822168
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

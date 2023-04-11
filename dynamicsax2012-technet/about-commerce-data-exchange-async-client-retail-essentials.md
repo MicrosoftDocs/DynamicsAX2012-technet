@@ -4,7 +4,7 @@ TOCTitle: 'About Commerce Data Exchange: Async Client (Retail essentials)'
 ms:assetid: c8385b73-cd4e-4da6-82cd-548e1acedb97
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736951(v=AX.60)
 ms:contentKeyID: 62200427
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/22/2015
 mtps_version: v=AX.60

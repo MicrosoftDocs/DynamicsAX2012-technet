@@ -4,7 +4,7 @@ TOCTitle: About payment calendars
 ms:assetid: b295a699-94fd-452a-b7f4-b709d35c6bff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677355(v=AX.60)
 ms:contentKeyID: 49384130
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About budget control
 ms:assetid: c8ce99a3-e2ed-4fc5-a822-dfa861309ad8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242850(v=AX.60)
 ms:contentKeyID: 36059323
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 03/25/2015
 mtps_version: v=AX.60

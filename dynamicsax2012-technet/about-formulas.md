@@ -4,7 +4,7 @@ TOCTitle: About formulas
 ms:assetid: 142186e7-2e23-4630-9853-7a404f24e257
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352182(v=AX.60)
 ms:contentKeyID: 36687815
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

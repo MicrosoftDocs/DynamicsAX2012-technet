@@ -4,7 +4,7 @@ TOCTitle: About the chart of accounts
 ms:assetid: 3ef9f48f-f753-4fa0-b08c-849f498a3a9b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496941(v=AX.60)
 ms:contentKeyID: 36056696
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

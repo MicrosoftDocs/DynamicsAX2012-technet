@@ -4,7 +4,7 @@ TOCTitle: About substituting items on BOM lines
 ms:assetid: 306d736c-078b-49a1-b3a3-0407498aa584
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548464(v=AX.60)
 ms:contentKeyID: 36056311
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

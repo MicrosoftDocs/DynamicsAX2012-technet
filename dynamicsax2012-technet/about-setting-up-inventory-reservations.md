@@ -4,7 +4,7 @@ TOCTitle: About setting up inventory reservations
 ms:assetid: 3ae16b12-361b-43d6-bf43-60173544814b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570155(v=AX.60)
 ms:contentKeyID: 36056646
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About service intervals
 ms:assetid: e565dc20-334b-40f2-b0b2-129a6fb6af96
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573169(v=AX.60)
 ms:contentKeyID: 36059790
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

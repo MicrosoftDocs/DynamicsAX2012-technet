@@ -4,7 +4,7 @@ TOCTitle: About questionnaire groups
 ms:assetid: 43ebb3d7-2d6d-49e0-ad28-2d6470efcf97
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580620(v=AX.60)
 ms:contentKeyID: 39519108
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

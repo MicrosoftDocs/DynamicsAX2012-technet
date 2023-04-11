@@ -4,7 +4,7 @@ TOCTitle: About partial customer payments
 ms:assetid: b770f7d4-a82f-4182-b747-b457f65e5100
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242758(v=AX.60)
 ms:contentKeyID: 36059103
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

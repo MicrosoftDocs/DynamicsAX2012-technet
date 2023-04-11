@@ -4,7 +4,7 @@ TOCTitle: About template BOMs
 ms:assetid: 4f9f830f-00ab-487c-98f2-fc8f31cd2a6b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497130(v=AX.60)
 ms:contentKeyID: 43976714
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: GetHashCode Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Address.GetHashCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.address.gethashcode(v=AX.60)
 ms:contentKeyID: 49831744
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

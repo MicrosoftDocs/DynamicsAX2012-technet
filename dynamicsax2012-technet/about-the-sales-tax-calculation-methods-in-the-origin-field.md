@@ -4,7 +4,7 @@ TOCTitle: About the sales tax calculation methods in the Origin field
 ms:assetid: 267823d5-14e4-4cf4-af49-c9422ffda3ff
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496823(v=AX.60)
 ms:contentKeyID: 36056200
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

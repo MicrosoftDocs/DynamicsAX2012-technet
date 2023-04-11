@@ -4,7 +4,7 @@ TOCTitle: About service agreements
 ms:assetid: f95ad656-9bfd-4d40-a986-37e641770046
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499828(v=AX.60)
 ms:contentKeyID: 36060054
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

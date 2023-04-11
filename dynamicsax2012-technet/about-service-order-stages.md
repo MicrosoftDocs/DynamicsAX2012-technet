@@ -4,7 +4,7 @@ TOCTitle: About service order stages
 ms:assetid: 78a8cb66-5faa-4c17-86a0-62836e9c953c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550052(v=AX.60)
 ms:contentKeyID: 62629947
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 07/28/2014
 mtps_version: v=AX.60

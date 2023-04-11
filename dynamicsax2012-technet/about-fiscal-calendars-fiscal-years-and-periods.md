@@ -4,7 +4,7 @@ TOCTitle: About fiscal calendars, fiscal years, and periods
 ms:assetid: ce1bd504-30b6-4c0c-8104-09ed92fcf410
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242909(v=AX.60)
 ms:contentKeyID: 36059465
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

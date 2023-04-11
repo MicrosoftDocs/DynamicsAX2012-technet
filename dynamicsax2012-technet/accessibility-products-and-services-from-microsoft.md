@@ -4,7 +4,7 @@ TOCTitle: Accessibility products and services from Microsoft
 ms:assetid: ebb94edc-dd8d-4590-b323-514fd70cdf6c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa599774(v=AX.60)
 ms:contentKeyID: 36059880
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

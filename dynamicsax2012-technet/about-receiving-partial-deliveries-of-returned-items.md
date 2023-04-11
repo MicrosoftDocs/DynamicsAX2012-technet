@@ -4,7 +4,7 @@ TOCTitle: About receiving partial deliveries of returned items
 ms:assetid: 547a8652-742a-4216-8f86-645e714744d7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212798(v=AX.60)
 ms:contentKeyID: 36057307
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

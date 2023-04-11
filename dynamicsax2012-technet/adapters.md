@@ -4,7 +4,7 @@ TOCTitle: Adapters
 ms:assetid: 0bfad6cb-37b8-42c8-994e-f7433a9d656c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751348(v=AX.60)
 ms:contentKeyID: 35132537
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/23/2014
 mtps_version: v=AX.60

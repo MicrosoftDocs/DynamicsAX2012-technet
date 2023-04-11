@@ -4,7 +4,7 @@ TOCTitle: Add a batch attribute group to an item
 ms:assetid: 8d5f573c-58a7-41c9-b058-06efe82856ae
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209353(v=AX.60)
 ms:contentKeyID: 36058496
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About commodity pricing
 ms:assetid: df52bf9a-ff1d-46e3-9897-13fcfb0fd526
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227418(v=AX.60)
 ms:contentKeyID: 36059697
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

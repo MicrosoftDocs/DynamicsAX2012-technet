@@ -4,7 +4,7 @@ TOCTitle: About derived value models
 ms:assetid: a4649e74-1689-4036-bac3-887b1b839dd0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550176(v=AX.60)
 ms:contentKeyID: 36058818
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About consumption depreciation
 ms:assetid: 4aa76bd0-811b-44b1-a1bb-0e27701553e3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497011(v=AX.60)
 ms:contentKeyID: 36676386
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

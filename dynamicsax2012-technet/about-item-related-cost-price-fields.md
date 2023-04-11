@@ -4,7 +4,7 @@ TOCTitle: About item-related cost price fields
 ms:assetid: 3b04590f-433a-4872-a1e2-eb90872b78fb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh694708(v=AX.60)
 ms:contentKeyID: 42117753
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Accounting manager security role (LedgerAccountingManager)
 ms:assetid: ec66e2e4-e849-4090-b7fb-9df840bf20b4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527149(v=AX.60)
 ms:contentKeyID: 37823200
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/06/2014
 mtps_version: v=AX.60

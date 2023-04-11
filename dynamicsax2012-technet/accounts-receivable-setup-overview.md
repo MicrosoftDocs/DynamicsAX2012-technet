@@ -4,7 +4,7 @@ TOCTitle: Accounts receivable setup overview
 ms:assetid: 5d303bb8-606c-4a7a-a1be-fae498734b13
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242517(v=AX.60)
 ms:contentKeyID: 36057576
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

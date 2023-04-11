@@ -4,7 +4,7 @@ TOCTitle: About courses
 ms:assetid: df219e6d-ef10-41b7-922e-bcea26dd1554
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551281(v=AX.60)
 ms:contentKeyID: 49384140
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

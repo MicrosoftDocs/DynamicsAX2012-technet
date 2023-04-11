@@ -4,7 +4,7 @@ TOCTitle: Add invoices to payment groups
 ms:assetid: a0c16724-de1f-4c19-b3ef-3de67463a3c3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209449(v=AX.60)
 ms:contentKeyID: 36058770
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

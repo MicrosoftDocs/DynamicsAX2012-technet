@@ -4,7 +4,7 @@ TOCTitle: Add and delete contacts for synchronization in Microsoft Dynamics AX a
 ms:assetid: 1d919165-60de-4d9c-a4ee-774a987173ee
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496773(v=AX.60)
 ms:contentKeyID: 37820198
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

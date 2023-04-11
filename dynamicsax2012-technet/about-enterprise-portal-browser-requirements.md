@@ -4,7 +4,7 @@ TOCTitle: About Enterprise Portal Browser requirements
 ms:assetid: 38ae598b-8a1a-4264-8f0c-815138ad2246
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242206(v=AX.60)
 ms:contentKeyID: 36056625
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

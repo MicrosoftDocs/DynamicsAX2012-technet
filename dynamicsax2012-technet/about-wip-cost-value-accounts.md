@@ -4,7 +4,7 @@ TOCTitle: About WIP cost value accounts
 ms:assetid: d3be32e9-05d1-46cb-b897-77c8bed00b95
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551083(v=AX.60)
 ms:contentKeyID: 36059514
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

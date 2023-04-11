@@ -4,7 +4,7 @@ TOCTitle: ActivateDeviceServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ActivateDeviceServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.activatedeviceserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 62208927
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

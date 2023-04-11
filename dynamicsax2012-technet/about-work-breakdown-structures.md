@@ -4,7 +4,7 @@ TOCTitle: About work breakdown structures
 ms:assetid: f6c235f9-468a-431c-ab7d-6bf649fe7620
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227544(v=AX.60)
 ms:contentKeyID: 36060018
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 10/06/2014
 mtps_version: v=AX.60

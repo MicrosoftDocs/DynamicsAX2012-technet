@@ -4,7 +4,7 @@ TOCTitle: About costing sheet setup
 ms:assetid: 55bdaf4e-8a5f-4a4f-a387-ecd750df0da1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242465(v=AX.60)
 ms:contentKeyID: 36057317
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

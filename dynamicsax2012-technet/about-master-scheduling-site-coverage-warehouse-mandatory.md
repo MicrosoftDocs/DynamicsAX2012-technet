@@ -4,7 +4,7 @@ TOCTitle: About master scheduling - site coverage, warehouse mandatory
 ms:assetid: 884c2ca2-39ea-43f2-8b8b-8fd899407c56
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242847(v=AX.60)
 ms:contentKeyID: 36997729
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

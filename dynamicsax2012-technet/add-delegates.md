@@ -4,7 +4,7 @@ TOCTitle: Add delegates
 ms:assetid: 48bc28cc-1a0c-43c8-b200-e2cc5c82b9b1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271519(v=AX.60)
 ms:contentKeyID: 36384151
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60

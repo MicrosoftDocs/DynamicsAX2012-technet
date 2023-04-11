@@ -4,7 +4,7 @@ TOCTitle: About cost control
 ms:assetid: b7e41738-0330-4cd1-a008-335a036cba20
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232438(v=AX.60)
 ms:contentKeyID: 42117773
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About multisite activation - dimension group changes
 ms:assetid: b8f5cda9-4219-4a29-be71-758a3c949333
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309977(v=AX.60)
 ms:contentKeyID: 45442192
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

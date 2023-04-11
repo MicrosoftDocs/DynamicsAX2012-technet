@@ -4,7 +4,7 @@ TOCTitle: About alert rules
 ms:assetid: 8d3901d5-42de-44ff-a4df-19207e358afc
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498338(v=AX.60)
 ms:contentKeyID: 46687555
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

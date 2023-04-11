@@ -4,7 +4,7 @@ TOCTitle: About quarantine orders
 ms:assetid: 0f2731bc-a8e1-4406-84d0-9b387e2b06ce
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496417(v=AX.60)
 ms:contentKeyID: 44080945
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

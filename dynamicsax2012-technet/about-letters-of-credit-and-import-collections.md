@@ -4,7 +4,7 @@ TOCTitle: About letters of credit and import collections
 ms:assetid: 54049327-2d82-4ef7-99b4-20498d454872
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208954(v=AX.60)
 ms:contentKeyID: 36057302
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About electronic payments to public sector vendors (Public sector)
 ms:assetid: b765dd6c-c466-443e-9c1d-713a9e81e3a1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208572(v=AX.60)
 ms:contentKeyID: 36056357
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

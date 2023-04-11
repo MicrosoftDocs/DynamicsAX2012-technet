@@ -4,7 +4,7 @@ TOCTitle: Actual versus budget report (BudgetBalancesActuals)
 ms:assetid: 686cc36f-6fed-40c6-b1e2-99efb17d9713
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335154(v=AX.60)
 ms:contentKeyID: 36687366
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Activate multisite functionality
 ms:assetid: 6556a4c9-0f16-4ddf-95f7-1cfd85f9baac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242191(v=AX.60)
 ms:contentKeyID: 36056586
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About return cost price and return lot ID
 ms:assetid: 5036e8a9-6722-425d-a462-fa86df7a5016
 ms:mtpsurl: https://technet.microsoft.com/library/Aa582550(v=AX.60)
 ms:contentKeyID: 43976715
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

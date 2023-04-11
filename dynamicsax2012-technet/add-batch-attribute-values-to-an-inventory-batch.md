@@ -4,7 +4,7 @@ TOCTitle: Add batch attribute values to an inventory batch
 ms:assetid: a9ea20f1-d0fc-4f61-af23-96472f96f9d0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242690(v=AX.60)
 ms:contentKeyID: 36058899
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Add details or comments to a timesheet
 ms:assetid: 5fc0b5cb-ba6a-4f46-8212-292b130018b1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271544(v=AX.60)
 ms:contentKeyID: 36384176
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60

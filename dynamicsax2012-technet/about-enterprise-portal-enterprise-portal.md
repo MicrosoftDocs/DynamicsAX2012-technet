@@ -4,7 +4,7 @@ TOCTitle: About Enterprise Portal
 ms:assetid: 17cbc7d9-f782-43d6-920c-ca056a0a2ed8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242153(v=AX.60)
 ms:contentKeyID: 36056090
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

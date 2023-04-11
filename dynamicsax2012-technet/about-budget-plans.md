@@ -4,7 +4,7 @@ TOCTitle: About budget plans
 ms:assetid: 1582e791-e5ab-4369-b016-4fd723946b36
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677326(v=AX.60)
 ms:contentKeyID: 49384100
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Add a batch order to a consolidated batch order
 ms:assetid: 2ce1add1-9c2e-4dc0-a92d-6069d9855846
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352192(v=AX.60)
 ms:contentKeyID: 36687825
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

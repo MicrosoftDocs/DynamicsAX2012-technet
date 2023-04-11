@@ -4,7 +4,7 @@ TOCTitle: Action Message configuration key (ReqSchedAction)
 ms:assetid: 24f92c9d-f3d8-445d-8f5a-04278e9478dc
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551744(v=AX.60)
 ms:contentKeyID: 36941196
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

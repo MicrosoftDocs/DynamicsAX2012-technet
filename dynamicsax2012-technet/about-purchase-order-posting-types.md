@@ -4,7 +4,7 @@ TOCTitle: About purchase order posting types
 ms:assetid: ec431d61-43ba-4a83-899b-dae5b3cea030
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551524(v=AX.60)
 ms:contentKeyID: 44081060
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

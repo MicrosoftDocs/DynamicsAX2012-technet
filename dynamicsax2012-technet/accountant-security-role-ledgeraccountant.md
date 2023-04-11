@@ -4,7 +4,7 @@ TOCTitle: Accountant security role (LedgerAccountant)
 ms:assetid: dff94b05-03c3-4f68-882c-c076a1af832e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527143(v=AX.60)
 ms:contentKeyID: 37823194
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/06/2014
 mtps_version: v=AX.60

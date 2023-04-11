@@ -4,7 +4,7 @@ TOCTitle: Add an address to a service order
 ms:assetid: 58bfa7d0-020b-45e8-8a5d-3a37d97ea462
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549071(v=AX.60)
 ms:contentKeyID: 62629946
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 07/25/2014
 mtps_version: v=AX.60

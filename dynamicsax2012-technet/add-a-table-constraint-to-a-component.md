@@ -4,7 +4,7 @@ TOCTitle: Add a table constraint to a component
 ms:assetid: 69736dc3-59fe-4cae-8b78-d318cbbf1491
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597118(v=AX.60)
 ms:contentKeyID: 39519167
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

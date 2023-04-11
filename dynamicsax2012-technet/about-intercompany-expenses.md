@@ -4,7 +4,7 @@ TOCTitle: About intercompany expenses
 ms:assetid: 5b6f102c-1dc1-4380-a9bb-a62dfc710b64
 ms:mtpsurl: https://technet.microsoft.com/library/JJ729755(v=AX.60)
 ms:contentKeyID: 49564921
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

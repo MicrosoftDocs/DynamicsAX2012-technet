@@ -4,7 +4,7 @@ TOCTitle: About modeling variables
 ms:assetid: cc21b59e-b09d-4876-9fcf-c7f8e3d47c0e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572675(v=AX.60)
 ms:contentKeyID: 36931880
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About project costs
 ms:assetid: 368b6f7a-4725-479c-bcdf-1a080aa06601
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570125(v=AX.60)
 ms:contentKeyID: 36056585
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

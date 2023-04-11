@@ -4,7 +4,7 @@ TOCTitle: Add restricted items to a restricted products regional list
 ms:assetid: 17f68d76-c2f4-40ea-b67f-3248b95d5afe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352185(v=AX.60)
 ms:contentKeyID: 36687818
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

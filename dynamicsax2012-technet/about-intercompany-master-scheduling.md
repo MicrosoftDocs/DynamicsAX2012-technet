@@ -4,7 +4,7 @@ TOCTitle: About intercompany master scheduling
 ms:assetid: 908786da-80d5-4abc-b367-53ce45f82e00
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498368(v=AX.60)
 ms:contentKeyID: 36058536
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
