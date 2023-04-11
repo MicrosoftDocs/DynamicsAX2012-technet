@@ -4,7 +4,7 @@ TOCTitle: Workflow overview
 ms:assetid: 8cd2ec28-9497-4fc9-bb9c-06cf8d2ca634
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271592(v=AX.60)
 ms:contentKeyID: 36384223
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

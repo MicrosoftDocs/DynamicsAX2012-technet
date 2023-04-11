@@ -4,7 +4,7 @@ TOCTitle: Working with customer rebate records
 ms:assetid: a408c2eb-f4b4-4795-9b2c-aec14fe1fd0a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352317(v=AX.60)
 ms:contentKeyID: 36687946
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

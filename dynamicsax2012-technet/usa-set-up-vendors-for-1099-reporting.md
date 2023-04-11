@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up vendors for 1099 reporting
 ms:assetid: ea66f8ce-1d0e-441a-a65c-90a4a3139f12
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551492(v=AX.60)
 ms:contentKeyID: 36059851
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

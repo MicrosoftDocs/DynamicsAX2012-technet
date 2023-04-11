@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up work environment accommodation types
 ms:assetid: 72dc0e4e-117d-4a5a-9998-ba7cabef7431
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212955(v=AX.60)
 ms:contentKeyID: 36058127
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

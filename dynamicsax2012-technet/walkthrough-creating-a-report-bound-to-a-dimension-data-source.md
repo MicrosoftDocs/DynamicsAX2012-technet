@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a Report Bound to a Dimension Data Source'
 ms:assetid: b692d6ad-bcad-41fa-a74f-2ab3bb7030f1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724097(v=AX.60)
 ms:contentKeyID: 35133455
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

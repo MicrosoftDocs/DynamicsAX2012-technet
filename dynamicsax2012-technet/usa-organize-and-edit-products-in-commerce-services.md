@@ -4,7 +4,7 @@ TOCTitle: (USA) Organize and edit products in Commerce Services
 ms:assetid: 5326c3d4-c5df-4ebe-b248-a7edceeae413
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208950(v=AX.60)
 ms:contentKeyID: 36057294
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

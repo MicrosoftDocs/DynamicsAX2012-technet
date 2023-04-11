@@ -4,7 +4,7 @@ TOCTitle: Workflow participants
 ms:assetid: 14ec4766-5cba-4620-8c73-479f8e86d1a9
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309598(v=AX.60)
 ms:contentKeyID: 35410560
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

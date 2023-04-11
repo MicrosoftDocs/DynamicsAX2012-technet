@@ -4,7 +4,7 @@ TOCTitle: (USA) Setting up and maintaining online services for Microsoft Dynamic
 ms:assetid: f265ded6-d27e-4777-9ffa-929b45d91be9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227523(v=AX.60)
 ms:contentKeyID: 36059963
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

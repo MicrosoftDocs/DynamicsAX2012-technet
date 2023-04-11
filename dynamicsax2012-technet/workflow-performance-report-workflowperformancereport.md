@@ -4,7 +4,7 @@ TOCTitle: Workflow performance report (WorkflowPerformanceReport)
 ms:assetid: 575dd06a-596b-401e-97dd-4832e0ddffd8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334481(v=AX.60)
 ms:contentKeyID: 36676466
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

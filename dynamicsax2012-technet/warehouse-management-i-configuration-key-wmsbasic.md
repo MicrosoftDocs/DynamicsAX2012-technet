@@ -4,7 +4,7 @@ TOCTitle: Warehouse Management I configuration key (WMSBasic)
 ms:assetid: 8ab7bfe6-fa93-426d-9ad4-4b424141f99e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa598299(v=AX.60)
 ms:contentKeyID: 36941216
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

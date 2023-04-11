@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating an Analyze Data Button on a List Page'
 ms:assetid: f5ad431e-69e7-4c04-bd4a-7fef5aa9e09f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ945385(v=AX.60)
 ms:contentKeyID: 51442775
-author: Khairunj
+author: tonyafehr
 ms.date: 06/26/2015
 mtps_version: v=AX.60
 ---

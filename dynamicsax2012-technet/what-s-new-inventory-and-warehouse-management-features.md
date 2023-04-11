@@ -4,7 +4,7 @@ TOCTitle: Inventory and warehouse management features
 ms:assetid: 6ccdf51b-3fb1-410b-8c7f-3e9446466a25
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527141(v=AX.60)
 ms:contentKeyID: 59623270
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

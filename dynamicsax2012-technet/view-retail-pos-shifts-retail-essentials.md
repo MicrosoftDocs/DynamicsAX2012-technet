@@ -4,7 +4,7 @@ TOCTitle: View Retail POS shifts (Retail essentials)
 ms:assetid: f5ec0f3c-0dc0-4a5a-a775-afad15c68389
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736978(v=AX.60)
 ms:contentKeyID: 62200455
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

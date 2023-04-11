@@ -4,7 +4,7 @@ TOCTitle: ValidateTenderLineForAddRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.ValidateTenderLineForAddRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.validatetenderlineforaddrequest_methods(v=AX.60)
 ms:contentKeyID: 65322281
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

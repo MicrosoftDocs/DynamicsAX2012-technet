@@ -4,7 +4,7 @@ TOCTitle: Using Microsoft BizTalk Server 2010 to Exchange Documents with Microso
 ms:assetid: 825c8338-e6f5-4d0d-a1cd-bf0343d2aa10
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352219(v=AX.60)
 ms:contentKeyID: 36687854
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

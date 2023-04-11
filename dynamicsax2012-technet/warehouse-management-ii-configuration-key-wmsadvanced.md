@@ -4,7 +4,7 @@ TOCTitle: Warehouse Management II configuration key (WMSAdvanced)
 ms:assetid: 009d2652-4f4d-4365-b057-aa2927fed6e7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548483(v=AX.60)
 ms:contentKeyID: 36941189
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

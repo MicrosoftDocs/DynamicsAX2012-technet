@@ -4,7 +4,7 @@ TOCTitle: WishListMapper Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.WishListMapper
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.wishlistmapper(v=AX.60)
 ms:contentKeyID: 62205979
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

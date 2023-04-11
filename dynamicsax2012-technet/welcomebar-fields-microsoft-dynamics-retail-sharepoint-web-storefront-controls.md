@@ -4,7 +4,7 @@ TOCTitle: WelcomeBar Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.WelcomeBar
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.welcomebar_fields(v=AX.60)
 ms:contentKeyID: 62204603
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

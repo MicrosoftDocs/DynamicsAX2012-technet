@@ -4,7 +4,7 @@ TOCTitle: Microsoft Office Add-in features
 ms:assetid: 30d87b6c-448c-4523-b020-63614776816d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507091(v=AX.60)
 ms:contentKeyID: 59623184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

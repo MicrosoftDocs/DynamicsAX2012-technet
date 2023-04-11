@@ -4,7 +4,7 @@ TOCTitle: Use Retail POS in offline mode
 ms:assetid: d5306558-f78c-4592-8956-33f81d485005
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720297(v=AX.60)
 ms:contentKeyID: 62221436
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

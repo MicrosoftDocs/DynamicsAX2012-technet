@@ -4,7 +4,7 @@ TOCTitle: Workflow automation report (WorkflowAutomationReport)
 ms:assetid: 7aa8a52f-d67c-478c-9235-5633a80673cc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334493(v=AX.60)
 ms:contentKeyID: 36676480
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

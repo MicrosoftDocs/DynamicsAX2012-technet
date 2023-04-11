@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Customizing Existing Microsoft Dynamics AX Reports'
 ms:assetid: 1e383292-7dc2-49ba-b44a-23ad3b374b83
 ms:mtpsurl: https://technet.microsoft.com/library/Cc567629(v=AX.60)
 ms:contentKeyID: 28119316
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

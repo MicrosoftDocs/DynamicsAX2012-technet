@@ -4,7 +4,7 @@ TOCTitle: PublishStatusMessage Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.UpdateOnlineChannelPublishStatusRequest.PublishStatusMessage
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.updateonlinechannelpublishstatusrequest.publishstatusmessage(v=AX.60)
 ms:contentKeyID: 49847021
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

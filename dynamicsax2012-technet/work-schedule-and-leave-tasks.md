@@ -4,7 +4,7 @@ TOCTitle: Work schedule and leave tasks
 ms:assetid: 4e4b241d-04fc-4e73-bdc0-b18442fac70a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677338(v=AX.60)
 ms:contentKeyID: 49384112
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

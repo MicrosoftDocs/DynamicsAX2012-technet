@@ -4,7 +4,7 @@ TOCTitle: SupportedRequestTypes Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowRequestHandler`2.SupportedRequestTypes
 ms:mtpsurl: https://technet.microsoft.com/library/Dn698847(v=AX.60)
 ms:contentKeyID: 62212238
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

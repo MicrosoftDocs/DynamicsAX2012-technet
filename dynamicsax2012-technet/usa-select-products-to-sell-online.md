@@ -4,7 +4,7 @@ TOCTitle: (USA) Select products to sell online
 ms:assetid: d2964bcb-b5b8-4a4c-b6f3-c23a30cf5cae
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242925(v=AX.60)
 ms:contentKeyID: 36059506
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

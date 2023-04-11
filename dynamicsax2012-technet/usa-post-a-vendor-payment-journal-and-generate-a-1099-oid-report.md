@@ -4,7 +4,7 @@ TOCTitle: (USA) Post a vendor payment journal and generate a 1099 OID report
 ms:assetid: 63832dbc-c0d2-4ffe-ba89-fe2f8d4e24eb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209202(v=AX.60)
 ms:contentKeyID: 36057684
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

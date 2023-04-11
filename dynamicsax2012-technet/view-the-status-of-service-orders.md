@@ -4,7 +4,7 @@ TOCTitle: View the status of service orders
 ms:assetid: d9179472-ee32-46df-ba96-5e36ca2a83c2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213712(v=AX.60)
 ms:contentKeyID: 42517340
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

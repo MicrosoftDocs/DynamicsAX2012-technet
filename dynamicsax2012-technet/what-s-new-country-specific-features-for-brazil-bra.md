@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for Brazil
 ms:assetid: a7489a4d-65f6-4600-9e82-b4a6daf0657f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn486931(v=AX.60)
 ms:contentKeyID: 59631346
-author: Khairunj
+author: tonyafehr
 ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---

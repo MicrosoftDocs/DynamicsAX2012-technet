@@ -4,7 +4,7 @@ TOCTitle: Use DAT and DEF files to export and import data
 ms:assetid: 60607cb9-ab51-4e97-8935-48c4e5f15c41
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731814(v=AX.60)
 ms:contentKeyID: 35132661
-author: Khairunj
+author: tonyafehr
 ms.date: 04/30/2014
 mtps_version: v=AX.60
 ---

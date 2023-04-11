@@ -4,7 +4,7 @@ TOCTitle: View released products
 ms:assetid: 0625a4ef-f2d6-45e1-abb7-f766e6530f01
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271443(v=AX.60)
 ms:contentKeyID: 36384076
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

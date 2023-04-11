@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Integrating New Reports into Microsoft Dynamics AX'
 ms:assetid: 7f194346-07a9-4aee-b602-2a4e4f5c5af6
 ms:mtpsurl: https://technet.microsoft.com/library/Cc600454(v=AX.60)
 ms:contentKeyID: 28119389
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

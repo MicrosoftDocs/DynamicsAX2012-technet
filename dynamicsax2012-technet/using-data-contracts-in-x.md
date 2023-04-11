@@ -4,7 +4,7 @@ TOCTitle: Using Data Contracts in X++
 ms:assetid: efaa56a9-4741-45ae-b2ed-b4d6592649d4
 ms:mtpsurl: https://technet.microsoft.com/library/Gg848068(v=AX.60)
 ms:contentKeyID: 35253295
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

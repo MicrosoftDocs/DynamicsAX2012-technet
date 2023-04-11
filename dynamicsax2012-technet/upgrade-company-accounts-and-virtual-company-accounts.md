@@ -4,7 +4,7 @@ TOCTitle: Upgrade company accounts and virtual company accounts
 ms:assetid: 2e36c456-16f8-49c3-9ec4-24ed66e5ccc9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575203(v=AX.60)
 ms:contentKeyID: 39555337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

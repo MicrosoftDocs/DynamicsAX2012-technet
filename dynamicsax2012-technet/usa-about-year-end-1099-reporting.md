@@ -4,7 +4,7 @@ TOCTitle: (USA) About year-end 1099 reporting
 ms:assetid: 56f8df2e-6a13-4967-9454-adf0316abaff
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242471(v=AX.60)
 ms:contentKeyID: 36057326
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

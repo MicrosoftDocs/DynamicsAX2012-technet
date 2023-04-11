@@ -4,7 +4,7 @@ TOCTitle: Working with approved vendors
 ms:assetid: 65ad66df-1115-4aa6-a20e-b10c75b1c257
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242452(v=AX.60)
 ms:contentKeyID: 36057747
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

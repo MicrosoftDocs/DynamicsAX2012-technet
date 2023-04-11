@@ -4,7 +4,7 @@ TOCTitle: View history of confirmed sales agreements
 ms:assetid: d0793004-6fb7-4c6c-a93f-39e9079f2cf4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597251(v=AX.60)
 ms:contentKeyID: 39519329
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

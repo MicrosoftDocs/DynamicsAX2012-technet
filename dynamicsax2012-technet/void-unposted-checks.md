@@ -4,7 +4,7 @@ TOCTitle: Void unposted checks
 ms:assetid: f4c977f2-0122-427b-89f5-baedac87bd23
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551642(v=AX.60)
 ms:contentKeyID: 37832551
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: View details
 ms:assetid: 7148e2a2-3cad-4ddf-b2e7-2993ddc59be7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571318(v=AX.60)
 ms:contentKeyID: 36058066
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

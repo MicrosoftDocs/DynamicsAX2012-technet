@@ -4,7 +4,7 @@ TOCTitle: IsTimeBounded Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ValidationPeriod.IsTimeBounded
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.validationperiod.istimebounded(v=AX.60)
 ms:contentKeyID: 49839951
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

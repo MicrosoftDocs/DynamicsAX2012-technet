@@ -4,7 +4,7 @@ TOCTitle: Client for Developers
 ms:assetid: f02a290f-c646-445b-9b39-9ff3e5ab9c52
 ms:mtpsurl: https://technet.microsoft.com/library/Gg848092(v=AX.60)
 ms:contentKeyID: 35253320
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

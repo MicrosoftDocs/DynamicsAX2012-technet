@@ -4,7 +4,7 @@ TOCTitle: Fixed assets features
 ms:assetid: 74ee3d99-ba02-4483-b50f-fe5c109e0f69
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527135(v=AX.60)
 ms:contentKeyID: 59623264
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View collection letter information
 ms:assetid: 6aed94fc-5446-401b-b9ea-b624be63edf2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271552(v=AX.60)
 ms:contentKeyID: 36384184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

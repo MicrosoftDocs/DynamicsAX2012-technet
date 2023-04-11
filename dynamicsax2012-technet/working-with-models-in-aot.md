@@ -4,7 +4,7 @@ TOCTitle: Working with Models in AOT
 ms:assetid: 73e1d66a-0070-490c-b868-1ad2eecf82a2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404125(v=AX.60)
 ms:contentKeyID: 36956793
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

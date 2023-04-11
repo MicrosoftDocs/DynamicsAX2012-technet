@@ -4,7 +4,7 @@ TOCTitle: View your product receipts
 ms:assetid: e8942869-9f8d-44c5-8280-e4704828fba3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271681(v=AX.60)
 ms:contentKeyID: 36384312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

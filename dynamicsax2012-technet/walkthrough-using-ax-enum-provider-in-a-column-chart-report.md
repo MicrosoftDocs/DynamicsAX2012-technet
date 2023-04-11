@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Using AX Enum Provider in a Column Chart Report'
 ms:assetid: 5e5b6325-f634-4831-b509-040144c9444a
 ms:mtpsurl: https://technet.microsoft.com/library/Cc554854(v=AX.60)
 ms:contentKeyID: 28119364
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

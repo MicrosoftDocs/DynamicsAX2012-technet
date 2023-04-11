@@ -4,7 +4,7 @@ TOCTitle: Visual Studio Tools for Developers
 ms:assetid: ae392160-88e1-415f-a676-c7b5e7c7db23
 ms:mtpsurl: https://technet.microsoft.com/library/Gg863931(v=AX.60)
 ms:contentKeyID: 35249729
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

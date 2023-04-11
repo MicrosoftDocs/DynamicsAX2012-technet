@@ -4,7 +4,7 @@ TOCTitle: Worker hour utilization - billable rate report (ProjBillUtilEmpl)
 ms:assetid: ca505ca0-0327-4f93-8c5a-8c2e69905628
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500175(v=AX.60)
 ms:contentKeyID: 37820232
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

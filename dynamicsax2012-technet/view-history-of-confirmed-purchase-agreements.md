@@ -4,7 +4,7 @@ TOCTitle: View history of confirmed purchase agreements
 ms:assetid: 243ae944-5590-42c9-af9f-28bd9863acf6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545516(v=AX.60)
 ms:contentKeyID: 37832496
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

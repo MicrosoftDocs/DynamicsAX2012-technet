@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Adding Properties to a Sales Order'
 ms:assetid: 4530651e-1fe0-4288-8c27-6b8808ffff3b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ991925(v=AX.60)
 ms:contentKeyID: 51595728
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

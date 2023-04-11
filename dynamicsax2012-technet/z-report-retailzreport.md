@@ -4,7 +4,7 @@ TOCTitle: Z report (RetailZReport)
 ms:assetid: f99fb413-36a8-44dd-b278-a79ae4698d53
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697702(v=AX.60)
 ms:contentKeyID: 42518532
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

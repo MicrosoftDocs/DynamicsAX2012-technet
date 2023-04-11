@@ -4,7 +4,7 @@ TOCTitle: WorkflowFoundationSection Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowFoundationSection
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowfoundationsection_fields(v=AX.60)
 ms:contentKeyID: 62206610
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

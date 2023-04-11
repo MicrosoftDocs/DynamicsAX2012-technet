@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up IAT ACH file parameters
 ms:assetid: 15d1aa39-0b7f-48ae-b44b-bbd42f32caf5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242149(v=AX.60)
 ms:contentKeyID: 36056066
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

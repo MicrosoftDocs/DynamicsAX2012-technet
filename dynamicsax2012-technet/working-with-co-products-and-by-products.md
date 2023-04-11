@@ -4,7 +4,7 @@ TOCTitle: Working with co-products and by-products
 ms:assetid: 4bcc20bb-d442-4299-a695-2bc408a5d299
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352201(v=AX.60)
 ms:contentKeyID: 36687835
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

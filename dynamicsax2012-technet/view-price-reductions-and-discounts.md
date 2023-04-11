@@ -4,7 +4,7 @@ TOCTitle: View price reductions and discounts
 ms:assetid: 4f7c0d20-438b-4893-8012-7c53c1a3a52c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh672162(v=AX.60)
 ms:contentKeyID: 40581160
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

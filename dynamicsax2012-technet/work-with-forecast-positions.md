@@ -4,7 +4,7 @@ TOCTitle: Work with forecast positions
 ms:assetid: 13c1aad0-9829-49f8-b9e8-baa4d534c85e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527691(v=AX.60)
 ms:contentKeyID: 59626224
-author: Khairunj
+author: tonyafehr
 ms.date: 03/06/2015
 mtps_version: v=AX.60
 f1_keywords:

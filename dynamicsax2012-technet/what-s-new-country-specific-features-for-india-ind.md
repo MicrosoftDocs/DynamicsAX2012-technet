@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for India
 ms:assetid: 257c80ed-5b1c-4f45-8c5b-c85aea27ff9c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507150(v=AX.60)
 ms:contentKeyID: 59623233
-author: Khairunj
+author: tonyafehr
 ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---

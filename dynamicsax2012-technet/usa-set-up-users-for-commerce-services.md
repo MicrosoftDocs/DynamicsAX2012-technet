@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up users for Commerce Services
 ms:assetid: 485c3736-6783-401a-a78d-726ce8f7e9a2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242400(v=AX.60)
 ms:contentKeyID: 36056924
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

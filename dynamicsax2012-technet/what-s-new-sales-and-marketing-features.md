@@ -4,7 +4,7 @@ TOCTitle: Sales and marketing features
 ms:assetid: 2725b7ec-718a-49cb-bb68-0fe8fd6dd271
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507147(v=AX.60)
 ms:contentKeyID: 59623236
-author: Khairunj
+author: tonyafehr
 ms.date: 11/26/2014
 mtps_version: v=AX.60
 ---

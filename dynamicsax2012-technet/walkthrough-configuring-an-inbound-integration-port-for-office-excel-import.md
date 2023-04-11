@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Configuring an inbound integration port for Office Excel
 ms:assetid: 618ae9ca-8a4e-41bf-8ca6-070733472fb7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433513(v=AX.60)
 ms:contentKeyID: 36941294
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

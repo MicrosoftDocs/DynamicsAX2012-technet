@@ -4,7 +4,7 @@ TOCTitle: Using workflows
 ms:assetid: 9287fc1d-036f-4e78-92bd-c430cc5cf5d2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232182(v=AX.60)
 ms:contentKeyID: 35949330
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

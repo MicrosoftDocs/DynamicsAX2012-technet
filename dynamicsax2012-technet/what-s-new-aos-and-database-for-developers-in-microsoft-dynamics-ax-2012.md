@@ -4,7 +4,7 @@ TOCTitle: AOS and Database for Developers
 ms:assetid: 90301cc1-e1f6-492c-8d66-f51e4044e2ba
 ms:mtpsurl: https://technet.microsoft.com/library/Gg841655(v=AX.60)
 ms:contentKeyID: 35247423
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

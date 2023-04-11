@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up and maintain a Sites Services account
 ms:assetid: de142cf9-b6b3-4ae7-86bb-d00a98ab1d74
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227411(v=AX.60)
 ms:contentKeyID: 36059685
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

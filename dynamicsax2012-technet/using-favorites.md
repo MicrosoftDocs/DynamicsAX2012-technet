@@ -4,7 +4,7 @@ TOCTitle: Using favorites
 ms:assetid: 2de0ff35-3ded-405c-885a-77af6137b2d8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548439(v=AX.60)
 ms:contentKeyID: 36676379
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

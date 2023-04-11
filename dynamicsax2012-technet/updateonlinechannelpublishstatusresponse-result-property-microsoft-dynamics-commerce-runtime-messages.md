@@ -4,7 +4,7 @@ TOCTitle: Result Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.UpdateOnlineChannelPublishStatusResponse.Result
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.updateonlinechannelpublishstatusresponse.result(v=AX.60)
 ms:contentKeyID: 49829114
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

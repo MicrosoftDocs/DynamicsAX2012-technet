@@ -4,7 +4,7 @@ TOCTitle: Company and organization framework
 ms:assetid: 0bc44ae4-1e8b-41b2-9180-83f24bd7bef4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507119(v=AX.60)
 ms:contentKeyID: 59623208
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

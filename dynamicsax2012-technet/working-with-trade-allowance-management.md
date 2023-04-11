@@ -4,7 +4,7 @@ TOCTitle: Working with Trade allowance management
 ms:assetid: e9a26beb-260f-4f1f-bf79-93818df2d4be
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497843(v=AX.60)
 ms:contentKeyID: 62200177
-author: Khairunj
+author: tonyafehr
 ms.date: 09/09/2014
 mtps_version: v=AX.60
 f1_keywords:

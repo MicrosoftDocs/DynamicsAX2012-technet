@@ -4,7 +4,7 @@ TOCTitle: Warehouse operations overview
 ms:assetid: 0ee21b76-9278-4c2a-bb1c-1c9f76665cfc
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230913(v=AX.60)
 ms:contentKeyID: 36056013
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

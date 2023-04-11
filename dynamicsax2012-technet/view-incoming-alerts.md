@@ -4,7 +4,7 @@ TOCTitle: View incoming alerts
 ms:assetid: 15167037-54db-4c77-8b48-8c5db3916b0a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569790(v=AX.60)
 ms:contentKeyID: 46687536
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

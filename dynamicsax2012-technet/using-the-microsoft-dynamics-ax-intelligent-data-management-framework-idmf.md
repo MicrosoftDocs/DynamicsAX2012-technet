@@ -4,7 +4,7 @@ TOCTitle: Using IDMF
 ms:assetid: 9890d7dc-2714-41c3-8148-7d9ced16cb7f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389763(v=AX.60)
 ms:contentKeyID: 36899742
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

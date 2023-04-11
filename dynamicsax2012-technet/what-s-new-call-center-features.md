@@ -4,7 +4,7 @@ TOCTitle: Call center features
 ms:assetid: 8b176114-3f7b-425d-8ff7-ab3b721dfbe4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600261(v=AX.60)
 ms:contentKeyID: 62200290
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

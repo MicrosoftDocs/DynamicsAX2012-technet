@@ -4,7 +4,7 @@ TOCTitle: View loyalty cards
 ms:assetid: 84ee9a55-8fa9-40d5-9961-ca377090d570
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597149(v=AX.60)
 ms:contentKeyID: 39519205
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Withholding tax configuration key (LedgerBasicWithholdingTax)
 ms:assetid: aa356ad3-84c6-4e54-b392-811cb1f13790
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467560(v=AX.60)
 ms:contentKeyID: 36991706
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

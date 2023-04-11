@@ -4,7 +4,7 @@ TOCTitle: View store transactions (Retail essentials)
 ms:assetid: 34b9b950-9088-409d-9220-d575a21afaf8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716068(v=AX.60)
 ms:contentKeyID: 62200324
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

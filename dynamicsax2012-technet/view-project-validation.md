@@ -4,7 +4,7 @@ TOCTitle: View project validation
 ms:assetid: c41ea355-b11c-4ee6-9cdf-0e752d125b3e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271644(v=AX.60)
 ms:contentKeyID: 36384276
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: View inventory recalculation settlements
 ms:assetid: 51b82e60-0b14-4420-876c-fbb4ad9c14dc
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212781(v=AX.60)
 ms:contentKeyID: 36057271
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

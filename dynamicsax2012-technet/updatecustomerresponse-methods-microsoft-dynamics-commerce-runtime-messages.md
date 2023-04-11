@@ -4,7 +4,7 @@ TOCTitle: UpdateCustomerResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.UpdateCustomerResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.updatecustomerresponse_methods(v=AX.60)
 ms:contentKeyID: 49843818
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

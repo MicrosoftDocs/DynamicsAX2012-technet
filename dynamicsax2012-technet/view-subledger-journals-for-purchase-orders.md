@@ -4,7 +4,7 @@ TOCTitle: View subledger journals for purchase orders
 ms:assetid: e0d0f150-71b4-4216-9fad-c1182d954476
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500180(v=AX.60)
 ms:contentKeyID: 37820243
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

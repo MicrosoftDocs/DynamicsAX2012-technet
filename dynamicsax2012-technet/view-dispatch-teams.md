@@ -4,7 +4,7 @@ TOCTitle: View dispatch teams
 ms:assetid: de1a6f1b-606c-4fb2-9266-0aaa30ba5ad7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243199(v=AX.60)
 ms:contentKeyID: 36059686
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

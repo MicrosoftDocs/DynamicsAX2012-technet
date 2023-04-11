@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating Reports in the AOT'
 ms:assetid: 3f060743-32bd-4d08-9112-e5086c392adc
 ms:mtpsurl: https://technet.microsoft.com/library/Cc967382(v=AX.60)
 ms:contentKeyID: 35290297
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (USA) Migrate the Commerce Services data
 ms:assetid: 3233ffc2-1948-442e-8f10-2e15da87ff0a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh696874(v=AX.60)
 ms:contentKeyID: 42517318
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: View your work items in a workflow
 ms:assetid: 817481e8-ba90-420d-b8e6-1526546685cb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213150(v=AX.60)
 ms:contentKeyID: 35949324
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

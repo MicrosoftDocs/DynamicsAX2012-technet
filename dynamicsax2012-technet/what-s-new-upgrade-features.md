@@ -4,7 +4,7 @@ TOCTitle: Upgrade features
 ms:assetid: 1c3d473b-5615-44fd-b8b5-afc69780e543
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271439(v=AX.60)
 ms:contentKeyID: 36384072
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

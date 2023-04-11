@@ -4,7 +4,7 @@ TOCTitle: View posted statements (Retail essentials)
 ms:assetid: 596decea-f49f-4450-ad14-b05e3700308c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736882(v=AX.60)
 ms:contentKeyID: 62200360
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Workflow system architecture
 ms:assetid: 36794bf3-0d67-4221-8fa1-d6e8549f79e3
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309641(v=AX.60)
 ms:contentKeyID: 35132602
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

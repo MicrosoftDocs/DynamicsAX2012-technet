@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Analyzing Cube Data in Excel'
 ms:assetid: b9abcaff-7ef6-4dd8-962b-608a833e7683
 ms:mtpsurl: https://technet.microsoft.com/library/Dd261526(v=AX.60)
 ms:contentKeyID: 28119575
-author: Khairunj
+author: tonyafehr
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 ---

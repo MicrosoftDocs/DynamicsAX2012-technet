@@ -4,7 +4,7 @@ TOCTitle: Vendor transactions reversal configuration key (TransactionReversal_Ve
 ms:assetid: e72f42b5-fa4b-43bb-adde-2106065b7bed
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467571(v=AX.60)
 ms:contentKeyID: 36991718
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

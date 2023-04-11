@@ -4,7 +4,7 @@ TOCTitle: View the start time and duration of a service order
 ms:assetid: c82989db-32f7-4eb2-a442-d801c7d28d08
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213648(v=AX.60)
 ms:contentKeyID: 36059316
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

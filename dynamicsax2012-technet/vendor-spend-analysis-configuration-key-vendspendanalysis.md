@@ -4,7 +4,7 @@ TOCTitle: Vendor spend analysis configuration key (VendSpendAnalysis)
 ms:assetid: c51a4c03-490c-437b-8fe0-2480952cb321
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433470(v=AX.60)
 ms:contentKeyID: 36941227
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

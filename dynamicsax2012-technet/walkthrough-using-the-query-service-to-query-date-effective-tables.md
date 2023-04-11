@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Using the Query Service to Query Date Effective Tables'
 ms:assetid: 3398a45d-6f5a-4c71-9403-d1655b3b6484
 ms:mtpsurl: https://technet.microsoft.com/library/Gg844682(v=AX.60)
 ms:contentKeyID: 35241996
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

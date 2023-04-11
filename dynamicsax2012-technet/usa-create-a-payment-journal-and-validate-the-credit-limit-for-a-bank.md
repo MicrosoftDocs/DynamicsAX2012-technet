@@ -4,7 +4,7 @@ TOCTitle: (USA) Create a payment journal and validate the credit limit for a ban
 ms:assetid: 40f77da9-f173-40c1-a9b5-76da05d71541
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242260(v=AX.60)
 ms:contentKeyID: 36056726
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

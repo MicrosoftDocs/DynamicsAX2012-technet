@@ -4,7 +4,7 @@ TOCTitle: UpdateOnlineChannelPublishStatusResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.UpdateOnlineChannelPublishStatusResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.updateonlinechannelpublishstatusresponse(v=AX.60)
 ms:contentKeyID: 49833882
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

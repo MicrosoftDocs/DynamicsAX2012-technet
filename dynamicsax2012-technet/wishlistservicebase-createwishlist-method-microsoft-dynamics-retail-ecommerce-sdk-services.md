@@ -4,7 +4,7 @@ TOCTitle: CreateWishList Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.WishListServiceBase.CreateWishList(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.wishlistservicebase.createwishlist(v=AX.60)
 ms:contentKeyID: 65315585
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

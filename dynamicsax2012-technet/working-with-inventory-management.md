@@ -4,7 +4,7 @@ TOCTitle: Working with Inventory management
 ms:assetid: e86048c8-cf62-4498-8803-0f8b7361d801
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227468(v=AX.60)
 ms:contentKeyID: 36059830
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

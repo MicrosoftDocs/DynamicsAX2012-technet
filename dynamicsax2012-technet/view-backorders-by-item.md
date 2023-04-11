@@ -4,7 +4,7 @@ TOCTitle: View backorders by item
 ms:assetid: 977b7a0e-e071-4217-a4f9-1c931a9f7fe6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498432(v=AX.60)
 ms:contentKeyID: 42518559
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

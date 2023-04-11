@@ -4,7 +4,7 @@ TOCTitle: Vendor invoices report (PSAProjInvoice)
 ms:assetid: 68916f4e-7045-466c-9b9c-76eb6308955b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334489(v=AX.60)
 ms:contentKeyID: 36676476
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

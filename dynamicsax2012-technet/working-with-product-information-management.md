@@ -4,7 +4,7 @@ TOCTitle: Working with Product information management
 ms:assetid: bee84c0e-ef80-43f5-bd60-93b2ff5c186e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242822(v=AX.60)
 ms:contentKeyID: 36059252
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

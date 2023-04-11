@@ -4,7 +4,7 @@ TOCTitle: View, modify, delete, or cancel a general budget reservation (Public s
 ms:assetid: aa9220f9-5e69-4cd4-a3f1-2bd98cf480ea
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792459(v=AX.60)
 ms:contentKeyID: 65205504
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

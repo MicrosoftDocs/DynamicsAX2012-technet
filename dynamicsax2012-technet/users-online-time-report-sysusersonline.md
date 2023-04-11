@@ -4,7 +4,7 @@ TOCTitle: Users online time report (SysUsersOnline)
 ms:assetid: bcfaf9cf-3758-4192-bc78-7635fb30f650
 ms:mtpsurl: https://technet.microsoft.com/library/Aa556946(v=AX.60)
 ms:contentKeyID: 36687380
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

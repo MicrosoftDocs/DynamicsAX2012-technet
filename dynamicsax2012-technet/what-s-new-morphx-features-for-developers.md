@@ -4,7 +4,7 @@ TOCTitle: MorphX features for developers
 ms:assetid: 90d8f135-bcbe-4456-a527-a57fe42d783c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527172(v=AX.60)
 ms:contentKeyID: 59623303
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

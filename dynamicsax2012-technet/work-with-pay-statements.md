@@ -4,7 +4,7 @@ TOCTitle: Work with pay statements
 ms:assetid: 1d338991-a441-4556-9538-82f94393a181
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677329(v=AX.60)
 ms:contentKeyID: 49384103
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

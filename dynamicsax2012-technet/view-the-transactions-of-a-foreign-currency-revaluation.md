@@ -4,7 +4,7 @@ TOCTitle: View the transactions of a foreign currency revaluation
 ms:assetid: 455db52e-deef-471a-95e5-390e63874867
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496980(v=AX.60)
 ms:contentKeyID: 36056893
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

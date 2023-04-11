@@ -4,7 +4,7 @@ TOCTitle: View the status and history of a document that you submitted
 ms:assetid: 29c9a6e6-e764-453f-bd08-882035cdf9a5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231006(v=AX.60)
 ms:contentKeyID: 35949276
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

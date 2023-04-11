@@ -4,7 +4,7 @@ TOCTitle: Working with customers and customer groups (Retail essentials)
 ms:assetid: 5bd24cb8-bf7b-463f-b91b-a0369336753d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736886(v=AX.60)
 ms:contentKeyID: 62200364
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 f1_keywords:

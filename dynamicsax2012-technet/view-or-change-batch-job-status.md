@@ -4,7 +4,7 @@ TOCTitle: View or change batch job status
 ms:assetid: 3c1c6a3e-64c7-4802-9dc4-7f1ffafc9b5c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570263(v=AX.60)
 ms:contentKeyID: 35132610
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

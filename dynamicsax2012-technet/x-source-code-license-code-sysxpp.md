@@ -4,7 +4,7 @@ TOCTitle: X++ source code license code (SysXpp)
 ms:assetid: bc9839b9-2c07-4fe0-b147-9250c2f52743
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456319(v=AX.60)
 ms:contentKeyID: 36997769
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

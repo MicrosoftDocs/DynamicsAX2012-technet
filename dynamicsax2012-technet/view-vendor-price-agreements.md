@@ -4,7 +4,7 @@ TOCTitle: View vendor price agreements
 ms:assetid: 6e4fb773-9aba-49af-ad1c-f77dc77dfe4a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271558(v=AX.60)
 ms:contentKeyID: 36384189
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

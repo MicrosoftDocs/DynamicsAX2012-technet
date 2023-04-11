@@ -4,7 +4,7 @@ TOCTitle: Working with electronic timecards
 ms:assetid: f81d7e83-8a0d-48de-9033-1625b0975a62
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299227(v=AX.60)
 ms:contentKeyID: 36384333
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Working with batch attributes
 ms:assetid: 3e4b461f-148a-4859-90b6-f81e3770a5bf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242243(v=AX.60)
 ms:contentKeyID: 36056687
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

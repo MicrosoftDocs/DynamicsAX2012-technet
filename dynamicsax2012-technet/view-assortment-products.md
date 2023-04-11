@@ -4,7 +4,7 @@ TOCTitle: View assortment products
 ms:assetid: 96642a56-5a45-4760-8c3d-75c9202c3542
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597177(v=AX.60)
 ms:contentKeyID: 39519238
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

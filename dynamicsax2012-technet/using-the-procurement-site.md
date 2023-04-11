@@ -4,7 +4,7 @@ TOCTitle: Using the Procurement site
 ms:assetid: 530f7a24-1635-40a9-8237-ffa6e74b30dc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271533(v=AX.60)
 ms:contentKeyID: 36384165
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

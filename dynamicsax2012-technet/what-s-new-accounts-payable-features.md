@@ -4,7 +4,7 @@ TOCTitle: Accounts payable features
 ms:assetid: aaa4e957-c34c-4f42-8b2f-3a1441aef71a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527209(v=AX.60)
 ms:contentKeyID: 59623338
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

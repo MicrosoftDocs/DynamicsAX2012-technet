@@ -4,7 +4,7 @@ TOCTitle: RedirectUri Property
 ms:assetid: P:Microsoft.Dynamics.Retail.RetailServerLibrary.WrongEndpointException.RedirectUri
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.wrongendpointexception.redirecturi(v=AX.60)
 ms:contentKeyID: 62202531
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: View fixed asset change history
 ms:assetid: 4ad73fa0-5458-4e61-a5cd-53236a6ca0b2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231407(v=AX.60)
 ms:contentKeyID: 36056973
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

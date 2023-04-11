@@ -4,7 +4,7 @@ TOCTitle: View service task relations
 ms:assetid: ab70165c-a29a-4496-bd18-07f68b05d77f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271622(v=AX.60)
 ms:contentKeyID: 36384254
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

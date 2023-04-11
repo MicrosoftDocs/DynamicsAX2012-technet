@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX 2012 Mobile app
 ms:assetid: b8e7f365-f010-4559-ac88-d8749ce318b4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527212(v=AX.60)
 ms:contentKeyID: 59623341
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

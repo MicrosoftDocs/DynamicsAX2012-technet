@@ -4,7 +4,7 @@ TOCTitle: View your employee benefits
 ms:assetid: ae01238a-174d-4b6f-a99e-74c11fe23965
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271624(v=AX.60)
 ms:contentKeyID: 36384256
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

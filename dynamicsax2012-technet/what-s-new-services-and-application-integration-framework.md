@@ -4,7 +4,7 @@ TOCTitle: Services and Application Integration Framework
 ms:assetid: de2a9f9a-b1b4-4042-819d-10295b972079
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527243(v=AX.60)
 ms:contentKeyID: 59623371
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

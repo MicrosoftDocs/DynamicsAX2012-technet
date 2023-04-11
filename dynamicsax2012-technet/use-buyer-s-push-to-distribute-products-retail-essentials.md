@@ -4,7 +4,7 @@ TOCTitle: Use buyer's push to distribute products (Retail essentials)
 ms:assetid: a8573328-1448-46b9-8ece-d281529437ab
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736930(v=AX.60)
 ms:contentKeyID: 62200407
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

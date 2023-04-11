@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics Business Analyzer Windows Phone App
 ms:assetid: d475c881-f2b8-4d91-9460-05ad2fe3f5f5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn592142(v=AX.60)
 ms:contentKeyID: 61073445
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

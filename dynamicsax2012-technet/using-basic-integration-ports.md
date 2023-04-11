@@ -4,7 +4,7 @@ TOCTitle: Using Basic Integration Ports
 ms:assetid: 5f27db79-d179-41c0-a98e-fcfbaea8966d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496420(v=AX.60)
 ms:contentKeyID: 37071997
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

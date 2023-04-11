@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for Finland
 ms:assetid: d0437745-d5d5-4c1e-9586-39e10d4d910d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527220(v=AX.60)
 ms:contentKeyID: 59623349
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View service repair lines
 ms:assetid: 6d8bebf5-1a64-4262-8913-dd8c867a3659
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271557(v=AX.60)
 ms:contentKeyID: 36384188
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

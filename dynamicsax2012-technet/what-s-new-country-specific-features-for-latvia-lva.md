@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for Latvia
 ms:assetid: b5becb1a-d442-4242-b0db-08e050ba3414
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527214(v=AX.60)
 ms:contentKeyID: 59623343
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

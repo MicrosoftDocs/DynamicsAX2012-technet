@@ -4,7 +4,7 @@ TOCTitle: Warehouse management I license code (WMSBasic)
 ms:assetid: 05c92a00-d926-4cb0-a2e9-d75848be217a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433440(v=AX.60)
 ms:contentKeyID: 36941190
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

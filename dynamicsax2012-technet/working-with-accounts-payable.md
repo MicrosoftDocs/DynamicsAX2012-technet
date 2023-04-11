@@ -4,7 +4,7 @@ TOCTitle: Working with Accounts payable
 ms:assetid: eec9e2aa-a306-4783-b0b2-3b3bde5dca8b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243267(v=AX.60)
 ms:contentKeyID: 36059915
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: View or edit document properties
 ms:assetid: e89f3391-651f-4bf2-80d4-5bb5b29fbf04
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271682(v=AX.60)
 ms:contentKeyID: 36384315
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

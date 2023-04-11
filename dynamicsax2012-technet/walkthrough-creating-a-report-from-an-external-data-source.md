@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a Report from an External Data Source'
 ms:assetid: 2d96bc1e-7703-4f6c-9d8d-e229f19b6876
 ms:mtpsurl: https://technet.microsoft.com/library/Cc551711(v=AX.60)
 ms:contentKeyID: 28119329
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

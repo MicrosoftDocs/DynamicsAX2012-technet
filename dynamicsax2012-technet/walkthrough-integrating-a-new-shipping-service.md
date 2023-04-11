@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Integrating a new Shipping Service'
 ms:assetid: d807c6ed-f6d9-4b84-a06a-3cf9bb48766b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ916622(v=AX.60)
 ms:contentKeyID: 50934012
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View project transactions
 ms:assetid: 13bfa0ea-5349-4e9b-9e12-8e4cbadcfee4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450750(v=AX.60)
 ms:contentKeyID: 36966697
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Public sector features
 ms:assetid: 7b00bf89-5448-433c-98f9-14e82c39d027
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527148(v=AX.60)
 ms:contentKeyID: 59623277
-author: Khairunj
+author: tonyafehr
 ms.date: 03/27/2015
 mtps_version: v=AX.60
 f1_keywords:

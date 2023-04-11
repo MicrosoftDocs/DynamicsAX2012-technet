@@ -4,7 +4,7 @@ TOCTitle: (USA) Duplicate taxpayer identification report (Tax1099DupTIN)
 ms:assetid: 2e4dc6dd-ee4c-4979-982a-7b883b8de8b7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa552613(v=AX.60)
 ms:contentKeyID: 36956686
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Worker employment
 ms:assetid: 7ce7a34a-9887-4a53-841a-968800598234
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209268(v=AX.60)
 ms:contentKeyID: 36058270
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

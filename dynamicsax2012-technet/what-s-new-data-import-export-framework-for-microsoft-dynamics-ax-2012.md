@@ -4,7 +4,7 @@ TOCTitle: Data Import/Export Framework for Microsoft Dynamics AX 2012
 ms:assetid: 3ebed1f3-2574-4cf7-a0f3-2f44056df723
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507098(v=AX.60)
 ms:contentKeyID: 59623188
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

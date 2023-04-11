@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up issuing agencies
 ms:assetid: df1dccb6-6444-43e1-9e90-05acab901feb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781105(v=AX.60)
 ms:contentKeyID: 43894522
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

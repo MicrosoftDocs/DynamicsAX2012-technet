@@ -4,7 +4,7 @@ TOCTitle: UserLogOnRenewalServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.UserLogOnRenewalServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Device,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.userlogonrenewalservicerequest.userlogonrenewalservicerequest(v=AX.60)
 ms:contentKeyID: 65320910
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

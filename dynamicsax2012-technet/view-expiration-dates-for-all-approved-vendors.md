@@ -4,7 +4,7 @@ TOCTitle: View expiration dates for all approved vendors
 ms:assetid: bd68bff7-6497-4561-bf63-9423b19b7da0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352343(v=AX.60)
 ms:contentKeyID: 36687974
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

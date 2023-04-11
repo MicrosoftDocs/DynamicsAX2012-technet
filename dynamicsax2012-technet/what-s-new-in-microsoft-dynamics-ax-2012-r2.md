@@ -4,7 +4,7 @@ TOCTitle: What's new in Microsoft Dynamics AX 2012 R2
 ms:assetid: 44593f89-d305-49ad-875a-b1d4e484ad61
 ms:mtpsurl: https://technet.microsoft.com/library/Dn529285(v=AX.60)
 ms:contentKeyID: 59644561
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

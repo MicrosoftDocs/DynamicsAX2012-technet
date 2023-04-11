@@ -4,7 +4,7 @@ TOCTitle: Vendor portal configuration key (VSS)
 ms:assetid: 2c989f58-ccef-4654-9455-1834880e2bbd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433447(v=AX.60)
 ms:contentKeyID: 36941198
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

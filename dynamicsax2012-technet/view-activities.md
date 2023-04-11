@@ -4,7 +4,7 @@ TOCTitle: View activities
 ms:assetid: 3fb67eba-6479-4aa2-a642-c3c6ae178706
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271511(v=AX.60)
 ms:contentKeyID: 36384143
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

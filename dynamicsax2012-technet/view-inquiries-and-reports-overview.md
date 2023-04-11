@@ -4,7 +4,7 @@ TOCTitle: View inquiries and reports overview
 ms:assetid: 94e4728a-0d80-4b5f-b6bc-5892031df07b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597175(v=AX.60)
 ms:contentKeyID: 39519236
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

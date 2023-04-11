@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Calling the Query Service with a Static Query'
 ms:assetid: b1571cb5-08eb-403c-aeb6-1f3c0c7e3176
 ms:mtpsurl: https://technet.microsoft.com/library/Gg863932(v=AX.60)
 ms:contentKeyID: 35249738
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

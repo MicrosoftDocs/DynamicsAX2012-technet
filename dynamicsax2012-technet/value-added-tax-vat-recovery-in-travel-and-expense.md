@@ -4,7 +4,7 @@ TOCTitle: Value Added Tax (VAT) recovery in Travel and expense
 ms:assetid: ef9d32dd-ed50-4d88-858e-28cc4b7eea57
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227506(v=AX.60)
 ms:contentKeyID: 36059920
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

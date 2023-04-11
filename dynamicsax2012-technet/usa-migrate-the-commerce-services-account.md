@@ -4,7 +4,7 @@ TOCTitle: (USA) Migrate the Commerce Services account
 ms:assetid: 88105522-af80-419f-b76c-8856dfbdb25f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh696878(v=AX.60)
 ms:contentKeyID: 42517330
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

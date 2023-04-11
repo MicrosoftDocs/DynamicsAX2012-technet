@@ -4,7 +4,7 @@ TOCTitle: Transportation management features
 ms:assetid: 3bdb9bed-b192-4d6d-9eaa-717f6075ce6e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716027(v=AX.60)
 ms:contentKeyID: 62200283
-author: Khairunj
+author: tonyafehr
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

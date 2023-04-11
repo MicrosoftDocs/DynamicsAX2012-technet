@@ -4,7 +4,7 @@ TOCTitle: Use the Data import/export framework to migrate data (Retail essential
 ms:assetid: f5d95348-6740-4578-90e0-98954e9848b7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736977(v=AX.60)
 ms:contentKeyID: 62200454
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

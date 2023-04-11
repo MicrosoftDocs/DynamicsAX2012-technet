@@ -4,7 +4,7 @@ TOCTitle: User Session Service
 ms:assetid: d2f9fc07-3a66-46a5-9cc9-1d9c91309caf
 ms:mtpsurl: https://technet.microsoft.com/library/Gg881307(v=AX.60)
 ms:contentKeyID: 35251953
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

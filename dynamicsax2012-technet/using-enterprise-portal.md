@@ -4,7 +4,7 @@ TOCTitle: Using Enterprise Portal
 ms:assetid: 5019579f-535d-4321-b584-6f5fecb4b2a8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271529(v=AX.60)
 ms:contentKeyID: 36384161
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: View projected forecast transactions
 ms:assetid: c47c1132-8f7f-494c-be4f-acf3743351d7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550729(v=AX.60)
 ms:contentKeyID: 36059294
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

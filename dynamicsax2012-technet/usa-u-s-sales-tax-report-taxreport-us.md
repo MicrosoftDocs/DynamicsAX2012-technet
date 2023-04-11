@@ -4,7 +4,7 @@ TOCTitle: (USA) U S sales tax report (TaxReport_US)
 ms:assetid: e0be2235-3f0a-4ecc-b7fb-bdbbdf0e7420
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524745(v=AX.60)
 ms:contentKeyID: 37072041
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

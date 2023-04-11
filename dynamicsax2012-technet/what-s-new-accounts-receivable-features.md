@@ -4,7 +4,7 @@ TOCTitle: Accounts receivable features
 ms:assetid: 809645f2-1669-4ac7-96af-88df3ae69162
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527164(v=AX.60)
 ms:contentKeyID: 59623293
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX Intelligent Data Management Framework
 ms:assetid: 21050a63-2547-4fbe-bb1b-4d7624b3ad2b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507156(v=AX.60)
 ms:contentKeyID: 59623241
-author: Khairunj
+author: tonyafehr
 ms.date: 10/21/2014
 mtps_version: v=AX.60
 ---

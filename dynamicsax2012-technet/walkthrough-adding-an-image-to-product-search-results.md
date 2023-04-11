@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Adding an Image to Product Search Results'
 ms:assetid: 28fc786f-7315-4e60-b498-f2ce5e20c7c0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937971(v=AX.60)
 ms:contentKeyID: 50950763
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

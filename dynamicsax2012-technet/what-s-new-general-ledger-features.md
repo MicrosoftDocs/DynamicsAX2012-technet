@@ -4,7 +4,7 @@ TOCTitle: General ledger features
 ms:assetid: 1162f17e-46b7-4b40-8fbe-7f6626e79634
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507123(v=AX.60)
 ms:contentKeyID: 59623212
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

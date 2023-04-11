@@ -4,7 +4,7 @@ TOCTitle: Use Web API and OData controllers together
 ms:assetid: 1a8c2ac5-2eff-4e12-ab82-0dd7592d5b6d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741437(v=AX.60)
 ms:contentKeyID: 62219715
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

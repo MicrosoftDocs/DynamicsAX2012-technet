@@ -4,7 +4,7 @@ TOCTitle: Using document management
 ms:assetid: 7297c751-6be2-45c8-a436-1f259de5db7c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549988(v=AX.60)
 ms:contentKeyID: 36058125
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

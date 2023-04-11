@@ -4,7 +4,7 @@ TOCTitle: User Log configuration key (SysUserLog)
 ms:assetid: 13ded26f-a7fb-4a36-a6b5-363289877bd5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550657(v=AX.60)
 ms:contentKeyID: 36931816
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

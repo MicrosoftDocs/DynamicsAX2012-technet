@@ -4,7 +4,7 @@ TOCTitle: View cases that are assigned to you
 ms:assetid: c5097089-67ce-494c-ac72-4d8344ebf2af
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271646(v=AX.60)
 ms:contentKeyID: 36384278
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

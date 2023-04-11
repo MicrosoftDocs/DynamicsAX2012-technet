@@ -4,7 +4,7 @@ TOCTitle: (USA) Create a Sites Services solution
 ms:assetid: 3bd7d382-c461-44ec-b0e9-15e9b228eb2e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242216(v=AX.60)
 ms:contentKeyID: 36056657
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

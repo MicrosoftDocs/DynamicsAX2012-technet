@@ -4,7 +4,7 @@ TOCTitle: Work with existing earnings
 ms:assetid: f243de0f-005e-4beb-a299-2f25fa5ba1a8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876710(v=AX.60)
 ms:contentKeyID: 63385357
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetResultSources Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities.GetResultSources
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.utilities.getresultsources(v=AX.60)
 ms:contentKeyID: 62203875
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

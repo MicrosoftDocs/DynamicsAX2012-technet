@@ -4,7 +4,7 @@ TOCTitle: View contact records
 ms:assetid: 578de3fa-00ce-42bb-8df5-c4a06327744b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271538(v=AX.60)
 ms:contentKeyID: 36384170
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

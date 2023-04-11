@@ -4,7 +4,7 @@ TOCTitle: Working with general budget reservations (Public sector)
 ms:assetid: 92a0b5de-332b-4ee4-bd11-66032175613a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792457(v=AX.60)
 ms:contentKeyID: 65205501
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Verify system settings using the Microsoft Baseline Configuration Anal
 ms:assetid: acf750c4-d6f1-493c-9b93-3625a29032ab
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500673(v=AX.60)
 ms:contentKeyID: 37822172
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

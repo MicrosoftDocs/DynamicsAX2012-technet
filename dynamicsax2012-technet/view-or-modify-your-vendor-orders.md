@@ -4,7 +4,7 @@ TOCTitle: View or modify your vendor orders
 ms:assetid: 18cf2ec0-8315-4e26-bc50-2ac173a21f91
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271461(v=AX.60)
 ms:contentKeyID: 36384093
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

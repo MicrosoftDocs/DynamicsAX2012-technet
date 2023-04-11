@@ -4,7 +4,7 @@ TOCTitle: View sales packing slips
 ms:assetid: 39e576d0-b728-447c-9fd7-d5b08c98ffe6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271501(v=AX.60)
 ms:contentKeyID: 36384133
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for Russia
 ms:assetid: 8c154677-693f-4c6c-b737-91d7ef371da5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527162(v=AX.60)
 ms:contentKeyID: 59623292
-author: Khairunj
+author: tonyafehr
 ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---

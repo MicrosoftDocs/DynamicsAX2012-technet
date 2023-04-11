@@ -4,7 +4,7 @@ TOCTitle: Human resources features
 ms:assetid: 8977e864-f121-4031-9a75-a9af53fbe074
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527168(v=AX.60)
 ms:contentKeyID: 59623297
-author: Khairunj
+author: tonyafehr
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

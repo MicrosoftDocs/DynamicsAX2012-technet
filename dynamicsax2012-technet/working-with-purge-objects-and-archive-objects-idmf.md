@@ -4,7 +4,7 @@ TOCTitle: Working with purge objects and archive objects
 ms:assetid: 8dcc0750-046a-4ff5-bd26-0f141437eea7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389761(v=AX.60)
 ms:contentKeyID: 36899740
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

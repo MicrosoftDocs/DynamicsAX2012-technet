@@ -4,7 +4,7 @@ TOCTitle: View vendor invoice lines for a purchase agreement
 ms:assetid: af0d9bf1-ef89-489b-9bee-364eb8707ea7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545529(v=AX.60)
 ms:contentKeyID: 37832524
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

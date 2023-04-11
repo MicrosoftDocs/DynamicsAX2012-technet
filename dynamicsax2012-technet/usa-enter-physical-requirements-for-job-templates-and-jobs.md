@@ -4,7 +4,7 @@ TOCTitle: (USA) Enter physical requirements for job templates and jobs
 ms:assetid: 6568deb0-beb7-47b4-b198-c1776f456e2b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231547(v=AX.60)
 ms:contentKeyID: 36057743
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Working with address books (Retail essentials)
 ms:assetid: c139e300-1176-4bb5-aedb-7318685bfb00
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736944(v=AX.60)
 ms:contentKeyID: 62200421
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

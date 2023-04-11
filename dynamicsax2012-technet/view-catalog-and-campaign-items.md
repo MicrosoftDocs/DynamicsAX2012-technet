@@ -4,7 +4,7 @@ TOCTitle: View catalog and campaign items
 ms:assetid: b6cbc28b-ec13-43bd-b5a0-0c06eddb9351
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271632(v=AX.60)
 ms:contentKeyID: 36384264
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

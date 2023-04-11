@@ -4,7 +4,7 @@ TOCTitle: Vendor retention configuration key (PSAAPRetainage)
 ms:assetid: 1b1eca7a-e5df-4853-be8e-76f0f80b47be
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500148(v=AX.60)
 ms:contentKeyID: 37820178
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

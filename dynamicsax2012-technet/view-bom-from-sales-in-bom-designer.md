@@ -4,7 +4,7 @@ TOCTitle: View BOM from sales in BOM designer
 ms:assetid: 7abe2fdf-0d8b-4d6c-a796-10764e5a7222
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550071(v=AX.60)
 ms:contentKeyID: 36058249
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

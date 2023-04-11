@@ -4,7 +4,7 @@ TOCTitle: Project management and accounting features
 ms:assetid: 7f974cb1-fe38-4a96-a931-568cc0676ce3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527160(v=AX.60)
 ms:contentKeyID: 59623290
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

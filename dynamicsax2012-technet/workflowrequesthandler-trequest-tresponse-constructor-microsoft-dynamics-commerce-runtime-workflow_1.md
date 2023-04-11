@@ -4,7 +4,7 @@ TOCTitle: WorkflowRequestHandler(TRequest, TResponse) Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.WorkflowRequestHandler`2.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/JJ773399(v=AX.60)
 ms:contentKeyID: 49820778
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

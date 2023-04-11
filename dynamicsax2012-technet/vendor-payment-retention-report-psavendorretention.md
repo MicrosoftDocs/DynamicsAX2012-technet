@@ -4,7 +4,7 @@ TOCTitle: Vendor payment retention report (PSAVendorRetention)
 ms:assetid: 98847e5e-8471-4388-983c-9abb4113ddae
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334497(v=AX.60)
 ms:contentKeyID: 36676485
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

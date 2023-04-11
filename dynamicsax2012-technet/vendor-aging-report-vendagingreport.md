@@ -4,7 +4,7 @@ TOCTitle: Vendor aging report (VendAgingReport)
 ms:assetid: e4367f5e-2525-4ad0-aa6b-196513d4c026
 ms:mtpsurl: https://technet.microsoft.com/library/Aa620148(v=AX.60)
 ms:contentKeyID: 36060671
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Workflow types
 ms:assetid: b33f1a34-4023-482a-b360-820a0e4ec388
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362043(v=AX.60)
 ms:contentKeyID: 35132820
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Worker hour rate report (ProjListProjHourRateEmplItem)
 ms:assetid: 614a83de-9d13-483b-8b11-b3820c0414dc
 ms:mtpsurl: https://technet.microsoft.com/library/Aa584767(v=AX.60)
 ms:contentKeyID: 37832006
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

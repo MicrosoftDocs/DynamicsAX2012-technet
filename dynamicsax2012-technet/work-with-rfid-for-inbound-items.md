@@ -4,7 +4,7 @@ TOCTitle: Work with RFID for inbound items
 ms:assetid: 39a9cc18-26b3-447d-93ae-23c881fa71d8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570146(v=AX.60)
 ms:contentKeyID: 36056633
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

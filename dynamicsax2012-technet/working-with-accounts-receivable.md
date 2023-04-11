@@ -4,7 +4,7 @@ TOCTitle: Working with Accounts receivable
 ms:assetid: 16621d95-acd9-4861-bbcc-5bac99bb450c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230956(v=AX.60)
 ms:contentKeyID: 36056071
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

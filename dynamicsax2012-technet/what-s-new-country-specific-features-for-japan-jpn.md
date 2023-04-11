@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for Japan
 ms:assetid: 796b30fa-7878-4365-b12f-2156067a1f6a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527147(v=AX.60)
 ms:contentKeyID: 59623276
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

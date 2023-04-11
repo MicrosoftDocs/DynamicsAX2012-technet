@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Displaying Cube Data in a Report'
 ms:assetid: 3147f042-ae36-4c41-894d-1ac64e2ece77
 ms:mtpsurl: https://technet.microsoft.com/library/Dd252605(v=AX.60)
 ms:contentKeyID: 28119334
-author: Khairunj
+author: tonyafehr
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 dev_langs:

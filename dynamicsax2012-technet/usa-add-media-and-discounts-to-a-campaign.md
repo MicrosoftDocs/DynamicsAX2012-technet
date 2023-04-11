@@ -4,7 +4,7 @@ TOCTitle: (USA) Add media and discounts to a campaign
 ms:assetid: 8fc7b9f0-f2e5-4b8c-93dc-eb7d2b1c9493
 ms:mtpsurl: https://technet.microsoft.com/library/Hh803009(v=AX.60)
 ms:contentKeyID: 44081007
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

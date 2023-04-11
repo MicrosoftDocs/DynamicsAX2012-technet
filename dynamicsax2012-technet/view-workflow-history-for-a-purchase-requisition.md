@@ -4,7 +4,7 @@ TOCTitle: View workflow history for a purchase requisition
 ms:assetid: 7ba99d27-62c0-45d7-b0ea-de5c41e675f0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271574(v=AX.60)
 ms:contentKeyID: 36384205
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

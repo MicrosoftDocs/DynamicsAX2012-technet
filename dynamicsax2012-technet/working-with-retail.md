@@ -4,7 +4,7 @@ TOCTitle: Working with Retail
 ms:assetid: 25a0421c-913f-4b2c-a51c-dc65d412f861
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580588(v=AX.60)
 ms:contentKeyID: 39519071
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

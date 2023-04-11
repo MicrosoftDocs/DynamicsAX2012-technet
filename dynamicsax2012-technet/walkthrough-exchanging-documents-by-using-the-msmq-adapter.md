@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Exchanging documents by using the MSMQ adapter'
 ms:assetid: 264e7695-3dfe-4d3f-a64d-bd84360da6a8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496417(v=AX.60)
 ms:contentKeyID: 37071994
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

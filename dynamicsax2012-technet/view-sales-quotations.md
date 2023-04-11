@@ -4,7 +4,7 @@ TOCTitle: View sales quotations
 ms:assetid: 93a2d9cc-7364-4e2a-aa85-743beb75b5b4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271598(v=AX.60)
 ms:contentKeyID: 36384230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Upgrading Reports
 ms:assetid: cc0571ee-baed-4f8f-8789-4578ebd25b15
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724124(v=AX.60)
 ms:contentKeyID: 35133484
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: 'Virtual company scenarios: Project management and accounting'
 ms:assetid: 18066ccc-9266-4b1a-b980-93e413690648
 ms:mtpsurl: https://technet.microsoft.com/library/JJ712650(v=AX.60)
 ms:contentKeyID: 49468954
-author: Khairunj
+author: tonyafehr
 ms.date: 05/30/2014
 mtps_version: v=AX.60
 ---

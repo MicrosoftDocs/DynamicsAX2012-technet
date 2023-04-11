@@ -4,7 +4,7 @@ TOCTitle: Management Packs for Microsoft Dynamics AX 2012
 ms:assetid: 9ca3ea32-dc82-4fe9-89b7-732e3de0e18b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716031(v=AX.60)
 ms:contentKeyID: 62200292
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

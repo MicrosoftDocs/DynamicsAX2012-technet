@@ -4,7 +4,7 @@ TOCTitle: GetDefaultProductImageData Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Utilities.GetDefaultProductImageData
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.utilities.getdefaultproductimagedata(v=AX.60)
 ms:contentKeyID: 65317808
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Vendor balance list with credit limit report (VendBalanceList)
 ms:assetid: aa47b4b2-0ed0-4109-acef-f4ba321b11fe
 ms:mtpsurl: https://technet.microsoft.com/library/Aa589252(v=AX.60)
 ms:contentKeyID: 36676490
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

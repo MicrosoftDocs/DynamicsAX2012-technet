@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Using the Query Service to Query Tables in a Hierarchy'
 ms:assetid: 15c944d2-e4a6-4d7b-b790-83567a96a0b9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg843785(v=AX.60)
 ms:contentKeyID: 35240628
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

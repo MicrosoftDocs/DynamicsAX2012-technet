@@ -4,7 +4,7 @@ TOCTitle: WishListServiceBase Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.WishListServiceBase
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.wishlistservicebase_properties(v=AX.60)
 ms:contentKeyID: 65317580
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

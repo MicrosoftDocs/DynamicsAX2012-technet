@@ -4,7 +4,7 @@ TOCTitle: Vendor requests configuration key (VendRequest)
 ms:assetid: e6c918bc-e56f-4c24-a661-eaf2c86eae89
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433474(v=AX.60)
 ms:contentKeyID: 36941233
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

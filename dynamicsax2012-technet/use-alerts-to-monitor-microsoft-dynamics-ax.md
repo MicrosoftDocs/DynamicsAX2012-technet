@@ -4,7 +4,7 @@ TOCTitle: Use alerts
 ms:assetid: f2cb2bc9-a909-4b3d-afe9-3fb1442cca95
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362122(v=AX.60)
 ms:contentKeyID: 39555430
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

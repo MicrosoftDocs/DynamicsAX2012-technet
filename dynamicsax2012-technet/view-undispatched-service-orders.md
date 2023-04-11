@@ -4,7 +4,7 @@ TOCTitle: View undispatched service orders
 ms:assetid: c7c5f14a-16db-4356-b915-acbfda7c1cac
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213646(v=AX.60)
 ms:contentKeyID: 62629949
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User

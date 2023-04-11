@@ -4,7 +4,7 @@ TOCTitle: Using the Project management site
 ms:assetid: ec67213f-5057-4235-9c3c-bbd4b2b40fc8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271689(v=AX.60)
 ms:contentKeyID: 36384322
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

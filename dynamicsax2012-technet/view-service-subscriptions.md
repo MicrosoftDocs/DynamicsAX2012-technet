@@ -4,7 +4,7 @@ TOCTitle: View service subscriptions
 ms:assetid: 215186c0-2d68-46eb-bec9-41327e46f913
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271473(v=AX.60)
 ms:contentKeyID: 36384105
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

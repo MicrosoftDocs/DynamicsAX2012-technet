@@ -4,7 +4,7 @@ TOCTitle: View loyalty rewards transactions
 ms:assetid: ded60a0a-4f77-4026-9f1b-9d84b8f56590
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720769(v=AX.60)
 ms:contentKeyID: 62231566
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 f1_keywords:

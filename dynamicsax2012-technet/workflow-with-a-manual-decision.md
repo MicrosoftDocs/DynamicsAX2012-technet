@@ -4,7 +4,7 @@ TOCTitle: Workflow with a manual decision
 ms:assetid: cce4d322-7209-41e7-9610-dfddd05bb8b7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538460(v=AX.60)
 ms:contentKeyID: 39508889
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

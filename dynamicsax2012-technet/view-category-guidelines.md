@@ -4,7 +4,7 @@ TOCTitle: View category guidelines
 ms:assetid: 7b3e6930-5958-499e-9fe9-2f87e87627b7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209263(v=AX.60)
 ms:contentKeyID: 36058255
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

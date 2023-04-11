@@ -4,7 +4,7 @@ TOCTitle: Work with configuration projects in Microsoft Dynamics ERP RapidStart 
 ms:assetid: ed8b3367-5622-4642-a8bf-cbf608690bf3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn194014(v=AX.60)
 ms:contentKeyID: 52348266
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

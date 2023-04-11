@@ -4,7 +4,7 @@ TOCTitle: (USA) Grant or deny an accommodation request
 ms:assetid: ef9e369b-e91b-402a-b46e-41616183e61c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243268(v=AX.60)
 ms:contentKeyID: 36676417
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

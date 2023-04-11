@@ -4,7 +4,7 @@ TOCTitle: View your work items
 ms:assetid: 3d728788-4db5-4873-b4de-f8905e986ae2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271506(v=AX.60)
 ms:contentKeyID: 36384138
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

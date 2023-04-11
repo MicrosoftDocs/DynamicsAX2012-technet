@@ -4,7 +4,7 @@ TOCTitle: Worker skill count by skill type report (HcmSkillBySkillTypeCount)
 ms:assetid: 066dddef-e6da-40b1-8e74-d186d70fec81
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870687(v=AX.60)
 ms:contentKeyID: 50469193
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

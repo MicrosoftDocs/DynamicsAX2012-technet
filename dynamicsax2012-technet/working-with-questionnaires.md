@@ -4,7 +4,7 @@ TOCTitle: Working with questionnaires
 ms:assetid: 2a7b8978-1f9a-4804-8b71-ff1dc709eea8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271483(v=AX.60)
 ms:contentKeyID: 36384116
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

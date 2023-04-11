@@ -4,7 +4,7 @@ TOCTitle: Validate and post trade agreement journal lines
 ms:assetid: 396abf77-0fa8-484c-b6e5-446d5a932daf
 ms:mtpsurl: https://technet.microsoft.com/library/Dn277351(v=AX.60)
 ms:contentKeyID: 54658648
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Var Runtime configuration key (RuntimeVAR)
 ms:assetid: c1edaa65-089d-44ce-9cb4-9a7ace8271db
 ms:mtpsurl: https://technet.microsoft.com/library/Aa590415(v=AX.60)
 ms:contentKeyID: 36997770
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

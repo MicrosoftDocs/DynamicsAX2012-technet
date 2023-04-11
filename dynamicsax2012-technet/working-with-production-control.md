@@ -4,7 +4,7 @@ TOCTitle: Working with Production control
 ms:assetid: ccb6cf71-64bc-4d89-b15b-2e1e02e90d3c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242903(v=AX.60)
 ms:contentKeyID: 36059453
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

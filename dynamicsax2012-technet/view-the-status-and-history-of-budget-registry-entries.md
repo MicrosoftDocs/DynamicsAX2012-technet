@@ -4,7 +4,7 @@ TOCTitle: View the status and history of budget registry entries
 ms:assetid: 5795c149-a2a0-4ff9-bba7-9e5c68615745
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208970(v=AX.60)
 ms:contentKeyID: 36057333
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

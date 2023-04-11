@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a cube'
 ms:assetid: dfe52292-1b9b-4374-a78c-27f89f49707c
 ms:mtpsurl: https://technet.microsoft.com/library/Cc622026(v=AX.60)
 ms:contentKeyID: 28119602
-author: Khairunj
+author: tonyafehr
 ms.date: 12/19/2013
 mtps_version: v=AX.60
 ---

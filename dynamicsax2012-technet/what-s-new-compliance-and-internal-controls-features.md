@@ -4,7 +4,7 @@ TOCTitle: Compliance and internal controls features
 ms:assetid: dff297c8-2d29-405f-af69-c4a43a69c697
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527228(v=AX.60)
 ms:contentKeyID: 59623356
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

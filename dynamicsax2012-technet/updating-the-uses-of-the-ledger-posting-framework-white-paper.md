@@ -4,7 +4,7 @@ TOCTitle: Updating the Uses of the Ledger Posting Framework
 ms:assetid: ae555a3e-82fd-4a14-a39d-657d657c26e4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292601(v=AX.60)
 ms:contentKeyID: 36655939
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

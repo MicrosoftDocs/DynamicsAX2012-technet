@@ -4,7 +4,7 @@ TOCTitle: View a list of the positions within a specific department
 ms:assetid: 102a439a-a1a9-4ea8-a4a8-9c35338dd419
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242137(v=AX.60)
 ms:contentKeyID: 36056024
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

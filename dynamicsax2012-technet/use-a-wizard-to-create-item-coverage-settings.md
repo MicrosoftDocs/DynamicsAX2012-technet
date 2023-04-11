@@ -4,7 +4,7 @@ TOCTitle: Use a wizard to create item coverage settings
 ms:assetid: 1672884c-c76e-47bd-8bd9-bd2969f54560
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569890(v=AX.60)
 ms:contentKeyID: 36056073
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

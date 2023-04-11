@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Extending retail data distribution'
 ms:assetid: 9fac92a4-4ad9-47ca-aa25-ae0c95860495
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720788(v=AX.60)
 ms:contentKeyID: 62231589
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

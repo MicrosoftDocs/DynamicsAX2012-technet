@@ -4,7 +4,7 @@ TOCTitle: Work with users from Active Directory
 ms:assetid: e503f808-e3de-456a-8f07-409e2c06326e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497043(v=AX.60)
 ms:contentKeyID: 39555423
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

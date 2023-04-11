@@ -4,7 +4,7 @@ TOCTitle: Region-specific features for Eastern Europe
 ms:assetid: a9c8746f-192f-4b74-b7d3-ac8f936a9e66
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527196(v=AX.60)
 ms:contentKeyID: 59623325
-author: Khairunj
+author: tonyafehr
 ms.date: 11/20/2014
 mtps_version: v=AX.60
 ---

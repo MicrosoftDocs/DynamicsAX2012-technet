@@ -4,7 +4,7 @@ TOCTitle: (USA) Setting up and maintaining Commerce Services for Microsoft Dynam
 ms:assetid: 54d73cc6-8b16-4cfe-b143-b68a41314814
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208958(v=AX.60)
 ms:contentKeyID: 36057309
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

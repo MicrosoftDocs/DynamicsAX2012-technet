@@ -4,7 +4,7 @@ TOCTitle: Working with project transactions
 ms:assetid: d7a4342d-f406-4280-a8b0-900161e75d64
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271661(v=AX.60)
 ms:contentKeyID: 36384293
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

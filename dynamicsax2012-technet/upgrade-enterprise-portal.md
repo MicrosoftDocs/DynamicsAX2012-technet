@@ -4,7 +4,7 @@ TOCTitle: Upgrade Enterprise Portal
 ms:assetid: 9d80163e-7c4c-44bb-8240-b3e0e9505077
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548623(v=AX.60)
 ms:contentKeyID: 35132784
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

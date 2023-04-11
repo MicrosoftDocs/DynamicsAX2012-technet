@@ -4,7 +4,7 @@ TOCTitle: Using the Enhanced Number Sequence Framework
 ms:assetid: d7fbe81d-fcff-4fd9-8f87-4be94484b549
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272879(v=AX.60)
 ms:contentKeyID: 36584403
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

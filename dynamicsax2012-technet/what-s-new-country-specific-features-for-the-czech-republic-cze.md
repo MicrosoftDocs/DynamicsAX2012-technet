@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for the Czech Republic
 ms:assetid: 393c1121-39d4-4690-ae8e-ceff75b5af77
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507099(v=AX.60)
 ms:contentKeyID: 59623189
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
