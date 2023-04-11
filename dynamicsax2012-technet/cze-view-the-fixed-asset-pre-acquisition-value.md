@@ -4,7 +4,7 @@ TOCTitle: (CZE) View the fixed asset pre-acquisition value
 ms:assetid: b991cbde-191f-4033-9b50-cc6f0ecb60bd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677675(v=AX.60)
 ms:contentKeyID: 49384976
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

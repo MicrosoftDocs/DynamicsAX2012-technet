@@ -4,7 +4,7 @@ TOCTitle: (CZE) Balance sheet report (LedgerBalanceSheet)
 ms:assetid: d4458adc-23e4-4ac4-8f36-7da6c044a50e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710617(v=AX.60)
 ms:contentKeyID: 49385014
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: CompleteCustomerAccountActivationRequest Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.CustomerDataManager.CompleteCustomerAccountActivationRequest(System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.customerdatamanager.completecustomeraccountactivationrequest(v=AX.60)
 ms:contentKeyID: 62210620
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

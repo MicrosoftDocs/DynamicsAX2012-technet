@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up exchange rate date parameters for vendor payments
 ms:assetid: c7c0dae7-f4c8-40ae-94a9-59b0ef1708e4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677693(v=AX.60)
 ms:contentKeyID: 49384993
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Create and correct records in the EU sales list
 ms:assetid: 81e7e6eb-2377-4f3a-94eb-e306c5aeea32
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677589(v=AX.60)
 ms:contentKeyID: 49384892
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

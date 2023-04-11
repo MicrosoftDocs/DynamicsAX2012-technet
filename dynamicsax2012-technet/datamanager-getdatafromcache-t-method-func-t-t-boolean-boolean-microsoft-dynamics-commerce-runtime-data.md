@@ -4,7 +4,7 @@ TOCTitle: GetDataFromCache(T) Method (Func(T), T, Boolean, Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataManager.GetDataFromCache``1(System.Func{``0},``0,System.Boolean@,System.Boolean@)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn969360(v=AX.60)
 ms:contentKeyID: 65322973
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up a bank constant symbol
 ms:assetid: 87a9828c-2a7a-41ad-8424-3bf3083e586e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ714437(v=AX.60)
 ms:contentKeyID: 49651544
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

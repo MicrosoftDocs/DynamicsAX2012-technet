@@ -4,7 +4,7 @@ TOCTitle: Customize Enterprise Portal
 ms:assetid: 3d84ee5f-8b50-444c-a0bf-75190cea574e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh285822(v=AX.60)
 ms:contentKeyID: 36607346
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

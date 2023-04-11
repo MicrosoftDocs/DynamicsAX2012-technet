@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up sales tax reporting
 ms:assetid: cc110308-4654-48bb-9c14-b5ff3adf1e0e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856967(v=AX.60)
 ms:contentKeyID: 50411972
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

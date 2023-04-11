@@ -4,7 +4,7 @@ TOCTitle: DataCacheAccessor Constructor (IDataStore, RequestContext)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataCacheAccessor.#ctor(Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore,Microsoft.Dynamics.Commerce.Runtime.RequestContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datacacheaccessor.datacacheaccessor(v=AX.60)
 ms:contentKeyID: 65322148
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

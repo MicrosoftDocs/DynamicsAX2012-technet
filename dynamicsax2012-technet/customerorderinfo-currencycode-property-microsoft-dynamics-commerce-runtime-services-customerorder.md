@@ -4,7 +4,7 @@ TOCTitle: CurrencyCode Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder.CustomerOrderInfo.CurrencyCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.customerorder.customerorderinfo.currencycode(v=AX.60)
 ms:contentKeyID: 62212605
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

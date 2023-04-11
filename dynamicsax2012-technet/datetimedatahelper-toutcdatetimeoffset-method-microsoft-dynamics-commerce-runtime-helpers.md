@@ -4,7 +4,7 @@ TOCTitle: ToUtcDateTimeOffset Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Helpers.DateTimeDataHelper.ToUtcDateTimeOffset(System.Nullable{System.DateTime})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.helpers.datetimedatahelper.toutcdatetimeoffset(v=AX.60)
 ms:contentKeyID: 62203503
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

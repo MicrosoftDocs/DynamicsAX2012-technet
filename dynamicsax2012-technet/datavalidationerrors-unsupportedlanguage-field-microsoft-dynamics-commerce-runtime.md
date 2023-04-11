@@ -4,7 +4,7 @@ TOCTitle: UnsupportedLanguage Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.UnsupportedLanguage
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.unsupportedlanguage(v=AX.60)
 ms:contentKeyID: 49833481
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

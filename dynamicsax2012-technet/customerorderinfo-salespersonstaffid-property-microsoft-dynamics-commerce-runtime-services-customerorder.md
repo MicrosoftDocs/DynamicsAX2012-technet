@@ -4,7 +4,7 @@ TOCTitle: SalespersonStaffId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.CustomerOrder.CustomerOrderInfo.SalespersonStaffId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.customerorder.customerorderinfo.salespersonstaffid(v=AX.60)
 ms:contentKeyID: 62204963
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

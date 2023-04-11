@@ -4,7 +4,7 @@ TOCTitle: (CZE) Setting up and maintaining Fixed assets
 ms:assetid: 8c66c7e7-65ec-4ac4-a97a-7d083cb6a101
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677604(v=AX.60)
 ms:contentKeyID: 49384908
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

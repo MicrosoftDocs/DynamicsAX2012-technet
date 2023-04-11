@@ -4,7 +4,7 @@ TOCTitle: (CZE) Convert customer prepayment to customer payment
 ms:assetid: f501333d-9700-435b-91f3-0dbdca773f7c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710652(v=AX.60)
 ms:contentKeyID: 49385050
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

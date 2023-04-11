@@ -4,7 +4,7 @@ TOCTitle: Data export configuration key (DataExport)
 ms:assetid: 6f1231d8-9c9b-466b-badc-a8a3ff008477
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456313(v=AX.60)
 ms:contentKeyID: 36997756
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

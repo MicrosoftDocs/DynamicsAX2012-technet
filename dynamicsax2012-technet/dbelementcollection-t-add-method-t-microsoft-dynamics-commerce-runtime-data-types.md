@@ -4,7 +4,7 @@ TOCTitle: Add Method (T)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.Add(`0)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn987565(v=AX.60)
 ms:contentKeyID: 65316119
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

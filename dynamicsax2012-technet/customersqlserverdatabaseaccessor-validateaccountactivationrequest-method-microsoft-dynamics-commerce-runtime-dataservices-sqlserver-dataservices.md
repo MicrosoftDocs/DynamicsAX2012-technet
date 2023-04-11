@@ -4,7 +4,7 @@ TOCTitle: ValidateAccountActivationRequest Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.DataServices.CustomerSqlServerDatabaseAccessor.ValidateAccountActivationRequest(System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.dataservices.customersqlserverdatabaseaccessor.validateaccountactivationrequest(v=AX.60)
 ms:contentKeyID: 65322891
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

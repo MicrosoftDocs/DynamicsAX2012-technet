@@ -4,7 +4,7 @@ TOCTitle: Customize master pages
 ms:assetid: 89b478b3-b920-4eb8-8100-5cc10168e03d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn151159(v=AX.60)
 ms:contentKeyID: 53095773
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

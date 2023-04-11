@@ -4,7 +4,7 @@ TOCTitle: (CZE) About intra-community VAT
 ms:assetid: b5cb2ace-21e4-4540-8111-6ebe2e77fab3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677668(v=AX.60)
 ms:contentKeyID: 49384968
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

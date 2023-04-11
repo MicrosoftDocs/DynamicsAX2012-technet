@@ -4,7 +4,7 @@ TOCTitle: (CZE) Generate the balance sheet report
 ms:assetid: a7d9ae32-a64c-4bb6-833e-b4b4ccf17dea
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677644(v=AX.60)
 ms:contentKeyID: 49384946
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

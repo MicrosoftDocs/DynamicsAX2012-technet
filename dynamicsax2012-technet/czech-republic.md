@@ -4,7 +4,7 @@ TOCTitle: Czech Republic
 ms:assetid: 9b821201-f2de-4b56-84da-b55bd8956106
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677622(v=AX.60)
 ms:contentKeyID: 49384924
-author: Khairunj
+author: tonyafehr
 ms.date: 03/22/2017
 mtps_version: v=AX.60
 audience: Application User

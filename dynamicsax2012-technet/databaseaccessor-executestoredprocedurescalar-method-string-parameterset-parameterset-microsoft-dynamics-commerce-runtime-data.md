@@ -4,7 +4,7 @@ TOCTitle: ExecuteStoredProcedureScalar Method (String, ParameterSet, ParameterSe
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedureScalar(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,Microsoft.Dynamics.Commerce.Runtime.ParameterSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.databaseaccessor.executestoredprocedurescalar(v=AX.60)
 ms:contentKeyID: 62203735
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

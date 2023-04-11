@@ -4,7 +4,7 @@ TOCTitle: Customizing the Help System
 ms:assetid: bd340597-8ca9-4066-86d5-1c6deb07427d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg882382(v=AX.60)
 ms:contentKeyID: 35257209
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

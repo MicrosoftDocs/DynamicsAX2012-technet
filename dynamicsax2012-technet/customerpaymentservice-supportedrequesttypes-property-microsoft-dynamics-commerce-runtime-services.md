@@ -4,7 +4,7 @@ TOCTitle: SupportedRequestTypes Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.CustomerPaymentService.SupportedRequestTypes
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.customerpaymentservice.supportedrequesttypes(v=AX.60)
 ms:contentKeyID: 65322562
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

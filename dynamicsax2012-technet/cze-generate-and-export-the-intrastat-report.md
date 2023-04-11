@@ -4,7 +4,7 @@ TOCTitle: (CZE) Generate and export the Intrastat report
 ms:assetid: 0cd2a6f8-431f-42d4-921b-50d2b626e6a1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664170(v=AX.60)
 ms:contentKeyID: 49384754
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

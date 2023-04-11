@@ -4,7 +4,7 @@ TOCTitle: RegisterDataStoreAccessor Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreManager.RegisterDataStoreAccessor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datastoremanager.registerdatastoreaccessor(v=AX.60)
 ms:contentKeyID: 62211361
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Post and print paper invoices for Accounts receivable
 ms:assetid: 5d999477-5039-4c81-88b3-06a78bc61300
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677539(v=AX.60)
 ms:contentKeyID: 49384845
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

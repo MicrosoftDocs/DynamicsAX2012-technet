@@ -4,7 +4,7 @@ TOCTitle: (CZE) Create a customer advance invoice for a free text invoice
 ms:assetid: a8aea24c-9bb7-43c8-beee-d1ffc58ae47c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677645(v=AX.60)
 ms:contentKeyID: 49384947
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

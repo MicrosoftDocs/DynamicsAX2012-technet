@@ -4,7 +4,7 @@ TOCTitle: (CZE) Configuring product-wide features for the Czech Republic
 ms:assetid: f80c9d6c-fe92-49ea-886c-7bde482093d3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710656(v=AX.60)
 ms:contentKeyID: 49385056
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

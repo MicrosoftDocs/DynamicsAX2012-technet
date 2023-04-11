@@ -4,7 +4,7 @@ TOCTitle: (CZE) Ledger statement report (LedgerStatement)
 ms:assetid: a07e7b0a-4dc8-436d-8ff7-de27287ef895
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677631(v=AX.60)
 ms:contentKeyID: 49384933
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

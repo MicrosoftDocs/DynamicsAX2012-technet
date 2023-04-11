@@ -4,7 +4,7 @@ TOCTitle: (CZE) Working with Accounts receivable
 ms:assetid: 09ce8a18-ec07-4ff7-8b6a-14733ab42651
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664166(v=AX.60)
 ms:contentKeyID: 49384750
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

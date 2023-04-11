@@ -4,7 +4,7 @@ TOCTitle: CustomFieldValue Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.CustomFieldValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.customfieldvalue_methods(v=AX.60)
 ms:contentKeyID: 47343921
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

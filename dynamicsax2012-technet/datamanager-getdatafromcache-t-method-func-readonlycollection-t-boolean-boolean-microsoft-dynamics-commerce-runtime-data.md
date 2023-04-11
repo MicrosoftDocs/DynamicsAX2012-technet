@@ -4,7 +4,7 @@ TOCTitle: GetDataFromCache(T) Method (Func(ReadOnlyCollection(T)), Boolean, Bool
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataManager.GetDataFromCache``1(System.Func{System.Collections.ObjectModel.ReadOnlyCollection{``0}},System.Boolean@,System.Boolean@)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn989143(v=AX.60)
 ms:contentKeyID: 65319098
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

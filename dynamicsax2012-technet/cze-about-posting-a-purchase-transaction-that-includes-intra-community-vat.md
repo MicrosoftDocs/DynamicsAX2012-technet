@@ -4,7 +4,7 @@ TOCTitle: (CZE) About posting a purchase transaction that includes intra-communi
 ms:assetid: 46845f03-1a5c-4211-899d-9f5e43edf46a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677515(v=AX.60)
 ms:contentKeyID: 49384819
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up and create a tax corrective document
 ms:assetid: f4303358-404d-4996-b198-c6559c392b49
 ms:mtpsurl: https://technet.microsoft.com/library/Dn494957(v=AX.60)
 ms:contentKeyID: 60508155
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

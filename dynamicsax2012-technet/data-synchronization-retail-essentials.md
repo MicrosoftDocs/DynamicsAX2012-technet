@@ -4,7 +4,7 @@ TOCTitle: Data synchronization (Retail essentials)
 ms:assetid: bd4aee58-0ea4-43c2-846f-34454e3cab6f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736942(v=AX.60)
 ms:contentKeyID: 62200419
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

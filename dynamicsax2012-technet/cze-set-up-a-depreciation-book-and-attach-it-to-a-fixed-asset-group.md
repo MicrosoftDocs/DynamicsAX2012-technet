@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up a depreciation book and attach it to a fixed asset group
 ms:assetid: 0120ca61-666f-47b9-94d7-e5ee149cdc81
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664155(v=AX.60)
 ms:contentKeyID: 49384738
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

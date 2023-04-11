@@ -4,7 +4,7 @@ TOCTitle: (CZE) Create fixed assets
 ms:assetid: 62167fbe-064f-4cd3-9ba8-24ce3a9906d1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677545(v=AX.60)
 ms:contentKeyID: 49384849
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

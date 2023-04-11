@@ -4,7 +4,7 @@ TOCTitle: DateTimeDataHelper Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Helpers.DateTimeDataHelper
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.helpers.datetimedatahelper_methods(v=AX.60)
 ms:contentKeyID: 62204723
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

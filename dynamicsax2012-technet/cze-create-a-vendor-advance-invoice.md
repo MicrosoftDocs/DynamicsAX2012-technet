@@ -4,7 +4,7 @@ TOCTitle: (CZE) Create a vendor advance invoice
 ms:assetid: cad366dc-5a1d-4f5f-a3c8-af570bcc8d04
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677800(v=AX.60)
 ms:contentKeyID: 49385000
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: ExecuteStoredProcedure Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,Microsoft.Dynamics.Commerce.Runtime.ParameterSet,System.Action{Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseResult},Microsoft.Dynamics.Commerce.Runtime.Data.ConnectionManager,System.Int32@)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.databaseaccessor.executestoredprocedure(v=AX.60)
 ms:contentKeyID: 65321962
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

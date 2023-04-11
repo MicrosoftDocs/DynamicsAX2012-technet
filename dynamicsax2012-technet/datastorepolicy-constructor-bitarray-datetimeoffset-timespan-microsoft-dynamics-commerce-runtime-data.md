@@ -4,7 +4,7 @@ TOCTitle: DataStorePolicy Constructor (BitArray, DateTimeOffset, TimeSpan)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataStorePolicy.#ctor(System.Collections.BitArray,System.DateTimeOffset,System.TimeSpan)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datastorepolicy.datastorepolicy(v=AX.60)
 ms:contentKeyID: 62209283
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

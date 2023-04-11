@@ -4,7 +4,7 @@ TOCTitle: Database log license code (SysDatabaseLog)
 ms:assetid: 4e7c05a9-fcc6-406d-9627-8db39c8f03c1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412234(v=AX.60)
 ms:contentKeyID: 36916342
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

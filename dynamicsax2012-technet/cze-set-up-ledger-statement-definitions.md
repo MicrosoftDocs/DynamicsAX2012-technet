@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up ledger statement definitions
 ms:assetid: 8c7e75f7-bba0-45ca-8019-489078239591
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677606(v=AX.60)
 ms:contentKeyID: 49384909
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

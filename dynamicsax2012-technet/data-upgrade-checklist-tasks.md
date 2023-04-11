@@ -4,7 +4,7 @@ TOCTitle: 'Data upgrade checklist: Tasks'
 ms:assetid: 734ca204-a452-4f76-8126-c0e7e2bba3a2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn364414(v=AX.60)
 ms:contentKeyID: 62200024
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

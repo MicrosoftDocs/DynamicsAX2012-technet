@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up an opening account for transfer of closing and opening tr
 ms:assetid: 229d3cdb-5dc5-4e3e-ac41-1e5327d02557
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677481(v=AX.60)
 ms:contentKeyID: 49384785
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

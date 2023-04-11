@@ -4,7 +4,7 @@ TOCTitle: (CZE) Post a free text invoice with the sales date
 ms:assetid: b036d329-aa10-4175-aa44-06b4aaf05bb5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677659(v=AX.60)
 ms:contentKeyID: 49384961
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up intra-community VAT transactions
 ms:assetid: 0ba60c7e-a81f-4480-8e0d-d4385dd002a9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664169(v=AX.60)
 ms:contentKeyID: 49384752
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

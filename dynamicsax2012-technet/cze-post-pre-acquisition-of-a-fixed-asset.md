@@ -4,7 +4,7 @@ TOCTitle: (CZE) Post pre-acquisition of a fixed asset
 ms:assetid: c5d3e221-895e-4ef1-a9a4-1c16821bbe0e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677692(v=AX.60)
 ms:contentKeyID: 49385033
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

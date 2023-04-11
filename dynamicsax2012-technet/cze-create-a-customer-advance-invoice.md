@@ -4,7 +4,7 @@ TOCTitle: (CZE) Create a customer advance invoice
 ms:assetid: 223099c3-0e43-4c1c-9583-794b464111fe
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677482(v=AX.60)
 ms:contentKeyID: 49384784
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

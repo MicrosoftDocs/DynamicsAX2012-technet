@@ -4,7 +4,7 @@ TOCTitle: ReturnTransactionTotalExceeded Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.ReturnTransactionTotalExceeded
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.returntransactiontotalexceeded(v=AX.60)
 ms:contentKeyID: 62208505
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

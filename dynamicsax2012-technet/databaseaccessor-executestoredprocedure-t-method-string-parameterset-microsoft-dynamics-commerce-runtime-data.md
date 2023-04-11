@@ -4,7 +4,7 @@ TOCTitle: ExecuteStoredProcedure(T) Method (String, ParameterSet)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure``1(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn717859(v=AX.60)
 ms:contentKeyID: 62209940
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

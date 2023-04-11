@@ -4,7 +4,7 @@ TOCTitle: (CZE) Apply half-yearly depreciation for tax purposes
 ms:assetid: a6ac7511-d1e5-457a-86c5-0126c179b624
 ms:mtpsurl: https://technet.microsoft.com/library/JJ683244(v=AX.60)
 ms:contentKeyID: 49685125
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

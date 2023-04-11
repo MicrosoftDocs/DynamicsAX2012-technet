@@ -4,7 +4,7 @@ TOCTitle: PurchaseTransferOrderRequired Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataValidationErrors.PurchaseTransferOrderRequired
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationerrors.purchasetransferorderrequired(v=AX.60)
 ms:contentKeyID: 62213226
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Payment proposal from advance sales invoice
 ms:assetid: 85f80d51-541a-4e56-aa16-530cec9c7fff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677594(v=AX.60)
 ms:contentKeyID: 49384897
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

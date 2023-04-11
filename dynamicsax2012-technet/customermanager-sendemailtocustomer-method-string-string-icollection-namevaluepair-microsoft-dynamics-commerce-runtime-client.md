@@ -4,7 +4,7 @@ TOCTitle: SendEmailToCustomer Method (String, String, ICollection(NameValuePair)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.CustomerManager.SendEmailToCustomer(System.String,System.String,System.Collections.Generic.ICollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.NameValuePair})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.customermanager.sendemailtocustomer(v=AX.60)
 ms:contentKeyID: 49843491
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

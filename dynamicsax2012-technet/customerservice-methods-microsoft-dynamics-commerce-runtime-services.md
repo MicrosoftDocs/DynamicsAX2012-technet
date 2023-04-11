@@ -4,7 +4,7 @@ TOCTitle: CustomerService Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.CustomerService
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.customerservice_methods(v=AX.60)
 ms:contentKeyID: 49826787
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

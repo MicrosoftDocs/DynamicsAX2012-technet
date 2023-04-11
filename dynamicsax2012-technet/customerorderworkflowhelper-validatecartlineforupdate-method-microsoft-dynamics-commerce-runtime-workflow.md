@@ -4,7 +4,7 @@ TOCTitle: ValidateCartLineForUpdate Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CustomerOrderWorkflowHelper.ValidateCartLineForUpdate(Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,System.Collections.Generic.Dictionary{System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine},Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLine,System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Commerce.Runtime.DataValidationFailure})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.customerorderworkflowhelper.validatecartlineforupdate(v=AX.60)
 ms:contentKeyID: 62212534
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

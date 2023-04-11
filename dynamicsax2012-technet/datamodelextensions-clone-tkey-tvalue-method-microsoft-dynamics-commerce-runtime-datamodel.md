@@ -4,7 +4,7 @@ TOCTitle: Clone(TKey, TValue) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.DataModelExtensions.Clone``2(System.Collections.Generic.Dictionary{``0,``1})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn966283(v=AX.60)
 ms:contentKeyID: 65315471
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
