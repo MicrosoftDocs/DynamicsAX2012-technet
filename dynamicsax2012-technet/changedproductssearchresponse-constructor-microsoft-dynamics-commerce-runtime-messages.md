@@ -4,7 +4,7 @@ TOCTitle: ChangedProductsSearchResponse Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.ChangedProductsSearchResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.changedproductssearchresponse.changedproductssearchresponse(v=AX.60)
 ms:contentKeyID: 62213643
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

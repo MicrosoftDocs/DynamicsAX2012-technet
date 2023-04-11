@@ -4,7 +4,7 @@ TOCTitle: Content(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CategoriesController.Content``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn737194(v=AX.60)
 ms:contentKeyID: 62201903
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

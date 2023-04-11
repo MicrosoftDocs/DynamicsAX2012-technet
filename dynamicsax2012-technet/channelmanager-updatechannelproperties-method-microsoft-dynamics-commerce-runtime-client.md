@@ -4,7 +4,7 @@ TOCTitle: UpdateChannelProperties Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ChannelManager.UpdateChannelProperties(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ChannelProperty})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.channelmanager.updatechannelproperties(v=AX.60)
 ms:contentKeyID: 49819151
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

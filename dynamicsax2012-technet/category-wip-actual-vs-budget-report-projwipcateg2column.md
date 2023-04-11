@@ -4,7 +4,7 @@ TOCTitle: Category WIP (actual vs. budget) report (ProjWIPCateg2Column)
 ms:assetid: 19368ef9-6e2f-4f93-861a-72d8d313863c
 ms:mtpsurl: https://technet.microsoft.com/library/Bb147529(v=AX.60)
 ms:contentKeyID: 36966692
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetOnlineChannelById Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDataManager.GetOnlineChannelById(System.Int64,Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatamanager.getonlinechannelbyid(v=AX.60)
 ms:contentKeyID: 49847858
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

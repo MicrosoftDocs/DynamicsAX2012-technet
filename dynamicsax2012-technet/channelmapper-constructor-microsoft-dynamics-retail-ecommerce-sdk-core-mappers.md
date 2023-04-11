@@ -4,7 +4,7 @@ TOCTitle: ChannelMapper Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Mappers.ChannelMapper.#ctor(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Storefront.IConfiguration)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.mappers.channelmapper.channelmapper(v=AX.60)
 ms:contentKeyID: 65316454
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

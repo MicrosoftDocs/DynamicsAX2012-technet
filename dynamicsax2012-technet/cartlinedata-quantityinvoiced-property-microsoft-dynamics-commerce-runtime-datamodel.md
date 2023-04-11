@@ -4,7 +4,7 @@ TOCTitle: QuantityInvoiced Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLineData.QuantityInvoiced
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cartlinedata.quantityinvoiced(v=AX.60)
 ms:contentKeyID: 62208671
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

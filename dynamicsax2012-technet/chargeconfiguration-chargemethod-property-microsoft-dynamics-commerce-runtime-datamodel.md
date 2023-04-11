@@ -4,7 +4,7 @@ TOCTitle: ChargeMethod Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ChargeConfiguration.ChargeMethod
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.chargeconfiguration.chargemethod(v=AX.60)
 ms:contentKeyID: 49823491
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

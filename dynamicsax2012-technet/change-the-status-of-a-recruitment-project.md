@@ -4,7 +4,7 @@ TOCTitle: Change the status of a recruitment project
 ms:assetid: 297ba8a2-6d6b-4067-b66a-eb503fee97ce
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496848(v=AX.60)
 ms:contentKeyID: 39519079
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

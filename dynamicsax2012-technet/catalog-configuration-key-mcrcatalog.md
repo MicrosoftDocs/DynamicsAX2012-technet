@@ -4,7 +4,7 @@ TOCTitle: Catalog configuration key (MCRCatalog)
 ms:assetid: 7b62b46a-038e-4ae8-8266-5016a4abc1a8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774943(v=AX.60)
 ms:contentKeyID: 62617663
-author: Khairunj
+author: tonyafehr
 ms.date: 07/21/2014
 mtps_version: v=AX.60
 f1_keywords:

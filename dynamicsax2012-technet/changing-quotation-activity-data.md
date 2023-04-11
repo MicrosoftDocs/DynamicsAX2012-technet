@@ -4,7 +4,7 @@ TOCTitle: Changing quotation activity data
 ms:assetid: 2c538513-73c0-4b3a-a790-a91035bf2f2c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496868(v=AX.60)
 ms:contentKeyID: 36056258
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

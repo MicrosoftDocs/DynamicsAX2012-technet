@@ -4,7 +4,7 @@ TOCTitle: GetCurrencies Method (String, QueryResultSettings)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDataManager.GetCurrencies(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatamanager.getcurrencies(v=AX.60)
 ms:contentKeyID: 65321022
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

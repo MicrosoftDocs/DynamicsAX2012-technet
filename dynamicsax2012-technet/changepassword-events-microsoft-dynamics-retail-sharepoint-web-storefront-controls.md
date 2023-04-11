@@ -4,7 +4,7 @@ TOCTitle: ChangePassword Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ChangePassword
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.changepassword_events(v=AX.60)
 ms:contentKeyID: 62205450
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

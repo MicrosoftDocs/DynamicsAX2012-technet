@@ -4,7 +4,7 @@ TOCTitle: Change a formula line in a batch order
 ms:assetid: 3121011b-089c-408f-b86f-ab7815ce7539
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352195(v=AX.60)
 ms:contentKeyID: 36687828
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

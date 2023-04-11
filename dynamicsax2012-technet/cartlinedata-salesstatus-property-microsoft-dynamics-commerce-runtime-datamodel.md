@@ -4,7 +4,7 @@ TOCTitle: SalesStatus Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartLineData.SalesStatus
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cartlinedata.salesstatus(v=AX.60)
 ms:contentKeyID: 65317803
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

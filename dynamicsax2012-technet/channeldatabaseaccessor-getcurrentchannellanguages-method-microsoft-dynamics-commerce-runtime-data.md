@@ -4,7 +4,7 @@ TOCTitle: GetCurrentChannelLanguages Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDatabaseAccessor.GetCurrentChannelLanguages
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatabaseaccessor.getcurrentchannellanguages(v=AX.60)
 ms:contentKeyID: 62214527
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

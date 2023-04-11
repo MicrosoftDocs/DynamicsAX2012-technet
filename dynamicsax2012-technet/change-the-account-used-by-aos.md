@@ -4,7 +4,7 @@ TOCTitle: Change the account used by AOS
 ms:assetid: 87aaf2fa-1190-4036-9d39-c1252c48da88
 ms:mtpsurl: https://technet.microsoft.com/library/JJ585430(v=AX.60)
 ms:contentKeyID: 48808018
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

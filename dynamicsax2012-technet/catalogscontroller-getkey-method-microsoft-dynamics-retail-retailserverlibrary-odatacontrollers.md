@@ -4,7 +4,7 @@ TOCTitle: GetKey Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CatalogsController.GetKey(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCatalog)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.catalogscontroller.getkey(v=AX.60)
 ms:contentKeyID: 62203036
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

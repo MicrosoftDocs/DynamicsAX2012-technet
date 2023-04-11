@@ -4,7 +4,7 @@ TOCTitle: Change the approved vendor check method for an item
 ms:assetid: ccaa9ae4-7b62-4289-b8c5-7685cc626106
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242902(v=AX.60)
 ms:contentKeyID: 36059452
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

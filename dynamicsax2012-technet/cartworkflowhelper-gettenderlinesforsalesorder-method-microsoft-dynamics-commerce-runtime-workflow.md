@@ -4,7 +4,7 @@ TOCTitle: GetTenderLinesForSalesOrder Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.GetTenderLinesForSalesOrder(Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.Messages.GetReceiptRequest)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.gettenderlinesforsalesorder(v=AX.60)
 ms:contentKeyID: 62209348
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

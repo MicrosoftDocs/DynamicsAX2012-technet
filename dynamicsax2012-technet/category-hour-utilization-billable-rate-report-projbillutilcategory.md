@@ -4,7 +4,7 @@ TOCTitle: Category hour utilization - billable rate report (ProjBillUtilCategory
 ms:assetid: 630db591-165f-49a8-b406-4286ca5898d2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500169(v=AX.60)
 ms:contentKeyID: 37820213
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

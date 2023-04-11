@@ -4,7 +4,7 @@ TOCTitle: Change the project group
 ms:assetid: 268367e0-371d-498e-a015-2b7ca69326df
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496824(v=AX.60)
 ms:contentKeyID: 36056201
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Change a co-product or by-product  line in a batch order
 ms:assetid: 7b08cc65-d410-426f-b8bd-30311bff81b9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352217(v=AX.60)
 ms:contentKeyID: 36687852
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

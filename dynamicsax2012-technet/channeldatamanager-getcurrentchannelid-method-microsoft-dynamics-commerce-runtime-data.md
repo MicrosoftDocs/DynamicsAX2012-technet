@@ -4,7 +4,7 @@ TOCTitle: GetCurrentChannelId Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ChannelDataManager.GetCurrentChannelId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.channeldatamanager.getcurrentchannelid(v=AX.60)
 ms:contentKeyID: 49846064
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

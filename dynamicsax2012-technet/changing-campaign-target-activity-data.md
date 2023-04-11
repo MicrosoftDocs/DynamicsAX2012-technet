@@ -4,7 +4,7 @@ TOCTitle: Changing campaign target activity data
 ms:assetid: 743d27a9-8d69-46ad-ad0a-1add1d1f8d95
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550019(v=AX.60)
 ms:contentKeyID: 36058155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

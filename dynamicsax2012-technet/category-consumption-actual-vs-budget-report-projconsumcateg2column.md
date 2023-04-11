@@ -4,7 +4,7 @@ TOCTitle: Category consumption (actual vs. budget) report (ProjConsumCateg2Colum
 ms:assetid: 84feb5db-1cdc-41cc-b99f-bf2352b5fef3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586969(v=AX.60)
 ms:contentKeyID: 36941278
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

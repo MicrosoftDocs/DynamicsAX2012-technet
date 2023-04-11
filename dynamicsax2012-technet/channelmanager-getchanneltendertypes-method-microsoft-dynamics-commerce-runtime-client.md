@@ -4,7 +4,7 @@ TOCTitle: GetChannelTenderTypes Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Client.ChannelManager.GetChannelTenderTypes
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.channelmanager.getchanneltendertypes(v=AX.60)
 ms:contentKeyID: 62210696
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

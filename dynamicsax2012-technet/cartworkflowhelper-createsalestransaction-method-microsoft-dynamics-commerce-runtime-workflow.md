@@ -4,7 +4,7 @@ TOCTitle: CreateSalesTransaction Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Workflow.CartWorkflowHelper.CreateSalesTransaction(Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.cartworkflowhelper.createsalestransaction(v=AX.60)
 ms:contentKeyID: 62213343
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

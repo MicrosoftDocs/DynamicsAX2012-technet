@@ -4,7 +4,7 @@ TOCTitle: Change the start date for an approved vendor
 ms:assetid: 132f3973-477a-4a7c-a479-f492fdbc65ce
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242143(v=AX.60)
 ms:contentKeyID: 36056046
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
