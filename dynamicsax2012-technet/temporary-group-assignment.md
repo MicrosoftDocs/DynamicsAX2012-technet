@@ -4,7 +4,7 @@ TOCTitle: Temporary group assignment
 ms:assetid: 638ec4d4-8084-43f0-941c-f157e7b61596
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571135(v=AX.60)
 ms:contentKeyID: 36057685
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

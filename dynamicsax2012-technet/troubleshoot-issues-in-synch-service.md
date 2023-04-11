@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot issues in Synch Service
 ms:assetid: 60b6ee43-5e95-4eca-9736-b4d53b7d38d6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ891081(v=AX.60)
 ms:contentKeyID: 50646136
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

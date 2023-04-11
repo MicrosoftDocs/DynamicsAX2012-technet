@@ -4,7 +4,7 @@ TOCTitle: Units
 ms:assetid: 5ba464ef-65f9-4cc9-91bb-525524a94138
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731802(v=AX.60)
 ms:contentKeyID: 35132647
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

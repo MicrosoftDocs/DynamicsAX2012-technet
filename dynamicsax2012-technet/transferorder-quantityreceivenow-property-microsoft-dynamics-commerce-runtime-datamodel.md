@@ -4,7 +4,7 @@ TOCTitle: QuantityReceiveNow Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TransferOrder.QuantityReceiveNow
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.transferorder.quantityreceivenow(v=AX.60)
 ms:contentKeyID: 62209353
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot installation issues with client components
 ms:assetid: 8318ff7c-8f7b-4372-b417-483dc81bda1e
 ms:mtpsurl: https://technet.microsoft.com/library/Ee355062(v=AX.60)
 ms:contentKeyID: 35132704
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

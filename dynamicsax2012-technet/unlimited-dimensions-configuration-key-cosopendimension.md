@@ -4,7 +4,7 @@ TOCTitle: Unlimited Dimensions configuration key (COSOpenDimension)
 ms:assetid: 1cfa2fe0-2058-4905-a20c-9db51d64832e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499372(v=AX.60)
 ms:contentKeyID: 37071981
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

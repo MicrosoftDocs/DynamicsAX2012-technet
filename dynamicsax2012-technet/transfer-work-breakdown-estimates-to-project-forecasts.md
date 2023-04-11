@@ -4,7 +4,7 @@ TOCTitle: Transfer work breakdown estimates to project forecasts
 ms:assetid: 0b03c599-ddc1-4159-a4b7-237a54b513ed
 ms:mtpsurl: https://technet.microsoft.com/library/Dn631647(v=AX.60)
 ms:contentKeyID: 62200033
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

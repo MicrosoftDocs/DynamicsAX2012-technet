@@ -4,7 +4,7 @@ TOCTitle: Technical reference
 ms:assetid: 4a056eb9-02e7-4fc6-bb10-3e6e5cd4130a
 ms:mtpsurl: https://technet.microsoft.com/library/Ee873256(v=AX.60)
 ms:contentKeyID: 28119351
-author: Khairunj
+author: tonyafehr
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

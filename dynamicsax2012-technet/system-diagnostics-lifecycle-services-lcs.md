@@ -4,7 +4,7 @@ TOCTitle: System diagnostics
 ms:assetid: 9edbccd1-43a0-469f-989e-a7b5f44d1797
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268619(v=AX.60)
 ms:contentKeyID: 54918846
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

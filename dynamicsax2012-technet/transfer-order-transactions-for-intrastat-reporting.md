@@ -4,7 +4,7 @@ TOCTitle: Transfer order transactions for Intrastat reporting
 ms:assetid: 4d730f63-f684-47db-b8a9-ebf9df151610
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304976(v=AX.60)
 ms:contentKeyID: 54899962
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

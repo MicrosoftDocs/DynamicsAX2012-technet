@@ -4,7 +4,7 @@ TOCTitle: " trading relationship"
 ms:assetid: DynamicsAXGlossary.1475070
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1475070(v=AX.60)
 ms:contentKeyID: 36057185
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

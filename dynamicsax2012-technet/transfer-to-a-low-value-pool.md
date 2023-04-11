@@ -4,7 +4,7 @@ TOCTitle: Transfer to a low value pool
 ms:assetid: 5ab1a972-cadd-40aa-8683-985aef239496
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242487(v=AX.60)
 ms:contentKeyID: 36057353
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Update fixed assets
 ms:assetid: f5d1750c-c06c-40e1-b2f7-21288c14033b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243288(v=AX.60)
 ms:contentKeyID: 36060007
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

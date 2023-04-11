@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot installation issues with Enterprise Portal and Role Cente
 ms:assetid: e0cee771-4fcb-42e3-9213-5b297c8f6fe5
 ms:mtpsurl: https://technet.microsoft.com/library/Ee355087(v=AX.60)
 ms:contentKeyID: 39555419
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

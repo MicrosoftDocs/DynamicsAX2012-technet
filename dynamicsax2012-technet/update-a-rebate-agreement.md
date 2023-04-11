@@ -4,7 +4,7 @@ TOCTitle: Update a rebate agreement
 ms:assetid: 9f491076-a03a-41a7-8f79-daea19c8a77e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352311(v=AX.60)
 ms:contentKeyID: 36687940
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

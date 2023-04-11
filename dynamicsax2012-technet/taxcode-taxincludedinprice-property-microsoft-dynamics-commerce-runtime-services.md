@@ -4,7 +4,7 @@ TOCTitle: TaxIncludedInPrice Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode.TaxIncludedInPrice
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcode.taxincludedinprice(v=AX.60)
 ms:contentKeyID: 49831074
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (SWE) Generate an Intrastat file for an EU vendor
 ms:assetid: d674986f-5738-4da7-8eef-2813b8c339cb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242931(v=AX.60)
 ms:contentKeyID: 36059534
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Transfer opening balances to a new fiscal year
 ms:assetid: 941394d6-11e0-436d-ad53-b8061ae8e163
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498391(v=AX.60)
 ms:contentKeyID: 36941347
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

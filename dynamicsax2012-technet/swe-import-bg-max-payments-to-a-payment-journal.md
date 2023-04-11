@@ -4,7 +4,7 @@ TOCTitle: (SWE) Import BG Max payments to a payment journal
 ms:assetid: 0887d0e1-7094-46c8-94ec-63abc57eec8c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230692(v=AX.60)
 ms:contentKeyID: 36055973
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: TopNavigationMenu Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.TopNavigationMenu
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.topnavigationmenu_methods(v=AX.60)
 ms:contentKeyID: 62207518
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

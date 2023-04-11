@@ -4,7 +4,7 @@ TOCTitle: IsVariantMatch Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TradeAgreement.IsVariantMatch(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tradeagreement.isvariantmatch(v=AX.60)
 ms:contentKeyID: 62211255
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

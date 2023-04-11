@@ -4,7 +4,7 @@ TOCTitle: Unit conversions
 ms:assetid: 2615f7b2-4cd5-4e18-865f-192aac23fbdf
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751370(v=AX.60)
 ms:contentKeyID: 35132583
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

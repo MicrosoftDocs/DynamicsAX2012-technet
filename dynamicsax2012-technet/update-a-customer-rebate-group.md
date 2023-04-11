@@ -4,7 +4,7 @@ TOCTitle: Update a customer rebate group
 ms:assetid: 71d59ca6-a0e1-4c02-8f84-571820b3d1a7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352210(v=AX.60)
 ms:contentKeyID: 36687844
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

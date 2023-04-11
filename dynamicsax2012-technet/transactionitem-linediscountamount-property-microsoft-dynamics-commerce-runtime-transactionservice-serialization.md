@@ -4,7 +4,7 @@ TOCTitle: LineDiscountAmount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.TransactionItem.LineDiscountAmount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.transactionitem.linediscountamount(v=AX.60)
 ms:contentKeyID: 49845765
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

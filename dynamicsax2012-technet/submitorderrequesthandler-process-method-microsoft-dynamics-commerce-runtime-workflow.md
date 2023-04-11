@@ -4,7 +4,7 @@ TOCTitle: Process Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Workflow.SubmitOrderRequestHandler.Process
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.submitorderrequesthandler.process(v=AX.60)
 ms:contentKeyID: 65321656
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

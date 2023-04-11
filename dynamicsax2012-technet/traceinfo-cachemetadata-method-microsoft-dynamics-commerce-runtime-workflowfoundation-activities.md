@@ -4,7 +4,7 @@ TOCTitle: CacheMetadata Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.TraceInfo.CacheMetadata
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.traceinfo.cachemetadata(v=AX.60)
 ms:contentKeyID: 65321422
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

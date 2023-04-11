@@ -4,7 +4,7 @@ TOCTitle: Supplementary item configuration key (SuppItem)
 ms:assetid: 96b6e937-c500-4d65-8b75-6815f844ba19
 ms:mtpsurl: https://technet.microsoft.com/library/Aa556227(v=AX.60)
 ms:contentKeyID: 36997761
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Supported upgrade paths
 ms:assetid: db935f79-1199-4518-a588-9da4f4739cd1
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362093(v=AX.60)
 ms:contentKeyID: 35133088
-author: Khairunj
+author: tonyafehr
 ms.date: 12/02/2020
 mtps_version: v=AX.60
 ---

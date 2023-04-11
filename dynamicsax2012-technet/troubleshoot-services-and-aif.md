@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot services and AIF
 ms:assetid: cde3c0a1-cd86-4da7-ae96-af4e380f2d5f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548693(v=AX.60)
 ms:contentKeyID: 39056467
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

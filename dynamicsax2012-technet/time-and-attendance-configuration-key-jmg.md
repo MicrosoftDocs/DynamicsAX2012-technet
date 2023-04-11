@@ -4,7 +4,7 @@ TOCTitle: Time and attendance configuration key (Jmg)
 ms:assetid: aa8857b0-1f34-4ff6-8574-d31bea141dcd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa589265(v=AX.60)
 ms:contentKeyID: 37831975
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

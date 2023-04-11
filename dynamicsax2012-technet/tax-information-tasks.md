@@ -4,7 +4,7 @@ TOCTitle: Tax information tasks
 ms:assetid: f51ff9cf-e7c8-4a08-91c3-26670ab19dac
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677373(v=AX.60)
 ms:contentKeyID: 49384149
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Telephony integration configuration key (smmPhone)
 ms:assetid: ef1d5e0c-0eed-439a-8db5-7eac9799a51d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa620589(v=AX.60)
 ms:contentKeyID: 36931863
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

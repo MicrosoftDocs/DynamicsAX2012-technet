@@ -4,7 +4,7 @@ TOCTitle: Transfer bank funds overview
 ms:assetid: 4b43dde5-ef69-4883-bd60-cefd54ed1232
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212731(v=AX.60)
 ms:contentKeyID: 36056993
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

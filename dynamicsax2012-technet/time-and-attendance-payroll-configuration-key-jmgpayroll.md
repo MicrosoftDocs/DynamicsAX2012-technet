@@ -4,7 +4,7 @@ TOCTitle: Time and attendance payroll configuration key (JmgPayroll)
 ms:assetid: c5242cbc-381f-4bcc-890a-292ea0c44169
 ms:mtpsurl: https://technet.microsoft.com/library/Aa590801(v=AX.60)
 ms:contentKeyID: 36993553
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Test the product model
 ms:assetid: ebea7c4b-7cf8-4daa-9519-51a758e94dd0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551514(v=AX.60)
 ms:contentKeyID: 36059890
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

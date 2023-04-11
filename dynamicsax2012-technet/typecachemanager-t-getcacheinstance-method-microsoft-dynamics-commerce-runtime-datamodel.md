@@ -4,7 +4,7 @@ TOCTitle: GetCacheInstance Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCacheManager`1.GetCacheInstance(System.Type,System.Func{System.Type,`0})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn988029(v=AX.60)
 ms:contentKeyID: 65316822
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

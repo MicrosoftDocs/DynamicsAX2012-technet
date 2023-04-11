@@ -4,7 +4,7 @@ TOCTitle: Terminate employment
 ms:assetid: 3571972e-5a4c-4192-b6e4-81e363929208
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570121(v=AX.60)
 ms:contentKeyID: 36056562
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

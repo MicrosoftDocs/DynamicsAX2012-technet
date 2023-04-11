@@ -4,7 +4,7 @@ TOCTitle: InvokeGetMethodWithCriteria Method
 ms:assetid: M:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.TransactionServiceClient.InvokeGetMethodWithCriteria(Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.RequestInfo,System.String,System.String,System.Object[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.transactionserviceclient.invokegetmethodwithcriteria(v=AX.60)
 ms:contentKeyID: 49846677
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

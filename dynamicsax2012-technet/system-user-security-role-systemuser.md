@@ -4,7 +4,7 @@ TOCTitle: System user security role (SystemUser)
 ms:assetid: 85c8554e-ed20-449c-bd15-cf8d96f58723
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527106(v=AX.60)
 ms:contentKeyID: 37823158
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

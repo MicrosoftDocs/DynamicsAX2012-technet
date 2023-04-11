@@ -4,7 +4,7 @@ TOCTitle: Synchronize the database
 ms:assetid: ba4ba1ac-f522-4c9e-80fd-a4efff82d6e2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548671(v=AX.60)
 ms:contentKeyID: 35132833
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: ThresholdDiscountTiers Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.ThresholdDiscount.ThresholdDiscountTiers
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.thresholddiscount.thresholddiscounttiers(v=AX.60)
 ms:contentKeyID: 62202937
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

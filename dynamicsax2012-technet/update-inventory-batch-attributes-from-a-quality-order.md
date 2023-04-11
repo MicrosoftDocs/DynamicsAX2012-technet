@@ -4,7 +4,7 @@ TOCTitle: Update inventory batch attributes from a quality order
 ms:assetid: 45e656e4-0574-491e-9902-fcd79b3389d7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352198(v=AX.60)
 ms:contentKeyID: 36687831
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

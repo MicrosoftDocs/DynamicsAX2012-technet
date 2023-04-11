@@ -4,7 +4,7 @@ TOCTitle: Subscription configuration key (SMASubscription)
 ms:assetid: 2954b1a9-06f0-4a07-bc50-9016d1153b92
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500585(v=AX.60)
 ms:contentKeyID: 36993542
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

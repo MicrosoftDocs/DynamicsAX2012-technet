@@ -4,7 +4,7 @@ TOCTitle: Amount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TradeAgreement.Amount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tradeagreement.amount(v=AX.60)
 ms:contentKeyID: 49836408
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

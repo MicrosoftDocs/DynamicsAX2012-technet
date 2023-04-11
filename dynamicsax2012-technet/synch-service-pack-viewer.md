@@ -4,7 +4,7 @@ TOCTitle: Synch Service Pack Viewer
 ms:assetid: 93002074-d4d3-4efe-9678-014f77e42f39
 ms:mtpsurl: https://technet.microsoft.com/library/JJ879323(v=AX.60)
 ms:contentKeyID: 50639280
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: ToXml Method (StockCountJournalTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.ToXml(Microsoft.Dynamics.Commerce.Runtime.DataModel.StockCountJournalTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.toxml(v=AX.60)
 ms:contentKeyID: 62210403
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

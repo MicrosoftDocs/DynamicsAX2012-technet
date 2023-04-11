@@ -4,7 +4,7 @@ TOCTitle: CacheMetadata Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.TypeCastActivity`1.CacheMetadata
 ms:mtpsurl: https://technet.microsoft.com/library/Dn989730(v=AX.60)
 ms:contentKeyID: 65320188
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

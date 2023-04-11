@@ -4,7 +4,7 @@ TOCTitle: Calculate Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode.Calculate(System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode},System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcode.calculate(v=AX.60)
 ms:contentKeyID: 49843065
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

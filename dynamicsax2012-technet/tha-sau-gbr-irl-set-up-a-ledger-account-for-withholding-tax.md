@@ -4,7 +4,7 @@ TOCTitle: (THA, SAU, GBR, IRL) Set up a ledger account for withholding tax
 ms:assetid: b5f787eb-468c-46f5-9bfa-e6e9f1c72fac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242751(v=AX.60)
 ms:contentKeyID: 36059085
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

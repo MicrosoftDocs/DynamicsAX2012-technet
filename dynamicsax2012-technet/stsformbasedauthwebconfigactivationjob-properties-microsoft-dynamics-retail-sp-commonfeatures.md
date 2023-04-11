@@ -4,7 +4,7 @@ TOCTitle: STSFormBasedAuthWebConfigActivationJob Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SP.CommonFeatures.STSFormBasedAuthWebConfigActivationJob
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.stsformbasedauthwebconfigactivationjob_properties(v=AX.60)
 ms:contentKeyID: 62203884
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

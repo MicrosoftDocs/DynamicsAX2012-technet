@@ -4,7 +4,7 @@ TOCTitle: Top vendors by YTD purchases report (VendTopXVendorsByYTDPurchases)
 ms:assetid: 299c04d5-6945-455e-87c9-4d0040744e21
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433487(v=AX.60)
 ms:contentKeyID: 36941247
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

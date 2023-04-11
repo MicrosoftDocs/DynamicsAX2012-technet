@@ -4,7 +4,7 @@ TOCTitle: Update quotations
 ms:assetid: 37189f94-abad-4aae-bfc8-af451822b3f3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570127(v=AX.60)
 ms:contentKeyID: 36931867
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

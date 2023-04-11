@@ -4,7 +4,7 @@ TOCTitle: Update a customer TMA group
 ms:assetid: 7aa8b732-f4f1-4b0e-96c6-41810567868b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352215(v=AX.60)
 ms:contentKeyID: 36687850
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

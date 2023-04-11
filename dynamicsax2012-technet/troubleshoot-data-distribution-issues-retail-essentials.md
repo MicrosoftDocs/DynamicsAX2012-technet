@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot data distribution issues (Retail essentials)
 ms:assetid: cecb2136-4977-4da8-9d16-d09546d97e47
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736954(v=AX.60)
 ms:contentKeyID: 62200431
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

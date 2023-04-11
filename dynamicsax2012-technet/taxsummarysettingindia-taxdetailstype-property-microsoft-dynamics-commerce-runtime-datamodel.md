@@ -4,7 +4,7 @@ TOCTitle: TaxDetailsType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxSummarySettingIndia.TaxDetailsType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxsummarysettingindia.taxdetailstype(v=AX.60)
 ms:contentKeyID: 62209172
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

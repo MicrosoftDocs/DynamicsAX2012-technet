@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot a connection
 ms:assetid: 038b12e9-0218-4fca-8737-9c38184fe155
 ms:mtpsurl: https://technet.microsoft.com/library/JJ878424(v=AX.60)
 ms:contentKeyID: 50632069
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

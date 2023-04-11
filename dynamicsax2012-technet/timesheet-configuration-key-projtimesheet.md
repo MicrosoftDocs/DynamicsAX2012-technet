@@ -4,7 +4,7 @@ TOCTitle: Timesheet configuration key (ProjTimesheet)
 ms:assetid: 08c58b85-83a9-4e6d-974e-4ccfd344db95
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580486(v=AX.60)
 ms:contentKeyID: 39518949
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Formula Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCodeIndia.Formula
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcodeindia.formula(v=AX.60)
 ms:contentKeyID: 62211436
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

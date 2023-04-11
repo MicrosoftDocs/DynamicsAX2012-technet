@@ -4,7 +4,7 @@ TOCTitle: Update the milestone status for on-account transactions for milestone 
 ms:assetid: c384ea2e-c2f3-4742-9bef-3ed3498031d3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn776174(v=AX.60)
 ms:contentKeyID: 62632261
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 f1_keywords:

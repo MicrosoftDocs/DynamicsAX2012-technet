@@ -4,7 +4,7 @@ TOCTitle: Troubleshooting database performance
 ms:assetid: 4dc713d4-18ef-461f-920e-2c5f199166b8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh699644(v=AX.60)
 ms:contentKeyID: 42520741
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

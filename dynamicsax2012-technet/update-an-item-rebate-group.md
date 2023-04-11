@@ -4,7 +4,7 @@ TOCTitle: Update an item rebate group
 ms:assetid: e20184b5-7307-4a1a-8e7a-0828d7d3b13a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh328596(v=AX.60)
 ms:contentKeyID: 36688021
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

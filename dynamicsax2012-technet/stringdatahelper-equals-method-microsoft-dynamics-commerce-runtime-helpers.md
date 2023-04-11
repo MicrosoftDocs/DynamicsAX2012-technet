@@ -4,7 +4,7 @@ TOCTitle: Equals Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Helpers.StringDataHelper.Equals(System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.helpers.stringdatahelper.equals(v=AX.60)
 ms:contentKeyID: 65318067
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

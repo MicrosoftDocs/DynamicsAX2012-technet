@@ -4,7 +4,7 @@ TOCTitle: Troubleshooting System Services
 ms:assetid: 8017c786-0b8d-420f-850d-2adbe2dbc79d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg862502(v=AX.60)
 ms:contentKeyID: 35246133
-author: Khairunj
+author: tonyafehr
 ms.date: 04/02/2014
 mtps_version: v=AX.60
 dev_langs:

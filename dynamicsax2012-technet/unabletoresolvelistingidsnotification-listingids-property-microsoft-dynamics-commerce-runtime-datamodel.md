@@ -4,7 +4,7 @@ TOCTitle: ListingIds Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.UnableToResolveListingIdsNotification.ListingIds
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.unabletoresolvelistingidsnotification.listingids(v=AX.60)
 ms:contentKeyID: 65322579
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

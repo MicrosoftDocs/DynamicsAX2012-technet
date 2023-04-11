@@ -4,7 +4,7 @@ TOCTitle: Unpublish a functional area in RapidStart Services
 ms:assetid: e6fc1df2-0dbf-494c-bbfe-7eba9c09af8d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413254(v=AX.60)
 ms:contentKeyID: 36918945
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

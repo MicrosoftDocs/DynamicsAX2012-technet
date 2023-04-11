@@ -4,7 +4,7 @@ TOCTitle: Update vendor batch details during purchase registration
 ms:assetid: 7a8e0d32-82b3-44f2-8cbf-a8f613ecfe2f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352214(v=AX.60)
 ms:contentKeyID: 36687849
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

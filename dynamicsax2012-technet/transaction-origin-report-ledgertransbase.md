@@ -4,7 +4,7 @@ TOCTitle: Transaction origin report (LedgerTransBase)
 ms:assetid: f6f57c7b-85ba-4d86-813c-ecc876fc4c28
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692485(v=AX.60)
 ms:contentKeyID: 41702382
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

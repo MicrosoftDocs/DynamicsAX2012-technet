@@ -4,7 +4,7 @@ TOCTitle: Submit a general budget reservation to workflow (Public sector)
 ms:assetid: 9bff8da6-86ef-4ac4-82d0-5665f77ac139
 ms:mtpsurl: https://technet.microsoft.com/library/Dn906411(v=AX.60)
 ms:contentKeyID: 65205502
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

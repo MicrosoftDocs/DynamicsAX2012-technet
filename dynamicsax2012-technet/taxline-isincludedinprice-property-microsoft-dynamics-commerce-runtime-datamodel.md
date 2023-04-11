@@ -4,7 +4,7 @@ TOCTitle: IsIncludedInPrice Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxLine.IsIncludedInPrice
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxline.isincludedinprice(v=AX.60)
 ms:contentKeyID: 49825808
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

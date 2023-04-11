@@ -4,7 +4,7 @@ TOCTitle: Uninstall-AXModel
 ms:assetid: 7CC3099F-4F83-4167-B0C7-F43C0340EA59
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720264(v=AX.60)
 ms:contentKeyID: 49720054
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

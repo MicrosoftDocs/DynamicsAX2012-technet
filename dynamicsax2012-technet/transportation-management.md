@@ -4,7 +4,7 @@ TOCTitle: Transportation management
 ms:assetid: d804a8e5-37fb-4ed1-b4ac-69464329dd37
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553204(v=AX.60)
 ms:contentKeyID: 62200166
-author: Khairunj
+author: tonyafehr
 ms.date: 08/22/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Update Microsoft Dynamics AX data by using Microsoft Excel
 ms:assetid: 7f52b6a8-597e-49c1-80aa-275055f0b043
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731845(v=AX.60)
 ms:contentKeyID: 35132698
-author: Khairunj
+author: tonyafehr
 ms.date: 04/30/2014
 mtps_version: v=AX.60
 audience: Application User

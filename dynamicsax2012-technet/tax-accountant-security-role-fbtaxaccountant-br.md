@@ -4,7 +4,7 @@ TOCTitle: Tax accountant security role (FBTaxAccountant_BR)
 ms:assetid: 4528eae8-14bc-402f-a5b8-bc999de4c4fe
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720454(v=AX.60)
 ms:contentKeyID: 62224161
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Troubleshooting
 ms:assetid: b826a35f-bd7c-4c24-b85c-00900df45ae5
 ms:mtpsurl: https://technet.microsoft.com/library/Ee910027(v=AX.60)
 ms:contentKeyID: 28119570
-author: Khairunj
+author: tonyafehr
 ms.date: 06/13/2014
 mtps_version: v=AX.60
 ---

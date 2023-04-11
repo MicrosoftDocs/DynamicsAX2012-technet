@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot installation issues for a Retail online store
 ms:assetid: d560274f-76b9-4fa1-a9da-1edc2caf33e4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn903645(v=AX.60)
 ms:contentKeyID: 63892670
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

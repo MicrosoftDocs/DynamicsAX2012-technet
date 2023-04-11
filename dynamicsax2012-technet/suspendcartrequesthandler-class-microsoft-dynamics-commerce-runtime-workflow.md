@@ -4,7 +4,7 @@ TOCTitle: SuspendCartRequestHandler Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Workflow.SuspendCartRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.suspendcartrequesthandler(v=AX.60)
 ms:contentKeyID: 62209884
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

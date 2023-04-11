@@ -4,7 +4,7 @@ TOCTitle: System architecture
 ms:assetid: e4cbce28-2f87-4c12-8ea6-6e54d9570ce7
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362112(v=AX.60)
 ms:contentKeyID: 35133118
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

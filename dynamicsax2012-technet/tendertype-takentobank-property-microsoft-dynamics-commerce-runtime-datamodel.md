@@ -4,7 +4,7 @@ TOCTitle: TakenToBank Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TenderType.TakenToBank
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.tendertype.takentobank(v=AX.60)
 ms:contentKeyID: 62215048
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

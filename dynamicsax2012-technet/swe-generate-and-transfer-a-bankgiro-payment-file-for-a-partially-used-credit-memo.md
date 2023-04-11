@@ -4,7 +4,7 @@ TOCTitle: (SWE) Generate and transfer a Bankgiro payment file for a partially us
 ms:assetid: 69a4c2e3-151d-4178-99df-122d829a55d7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242608(v=AX.60)
 ms:contentKeyID: 36057971
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

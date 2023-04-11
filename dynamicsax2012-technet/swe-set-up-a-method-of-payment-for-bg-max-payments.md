@@ -4,7 +4,7 @@ TOCTitle: (SWE) Set up a method of payment for BG Max payments
 ms:assetid: 639a1fd5-8d54-4bc5-a4d3-b6147920dcc6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231537(v=AX.60)
 ms:contentKeyID: 36057690
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

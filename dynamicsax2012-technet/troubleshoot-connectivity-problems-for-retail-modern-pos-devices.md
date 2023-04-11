@@ -4,7 +4,7 @@ TOCTitle: Troubleshoot connectivity problems for Retail Modern POS devices
 ms:assetid: 79c4e750-85ba-4450-9143-87659aa387ae
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876713(v=AX.60)
 ms:contentKeyID: 63385373
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

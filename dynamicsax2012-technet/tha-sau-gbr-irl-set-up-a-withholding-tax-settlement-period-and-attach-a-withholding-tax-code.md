@@ -4,7 +4,7 @@ TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax settlement period and at
 ms:assetid: 0606980d-fb52-4358-aeab-1e2589fc960d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242109(v=AX.60)
 ms:contentKeyID: 36055957
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

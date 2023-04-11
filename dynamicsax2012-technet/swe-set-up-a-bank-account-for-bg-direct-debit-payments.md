@@ -4,7 +4,7 @@ TOCTitle: (SWE) Set up a bank account for BG direct debit payments
 ms:assetid: e93f8835-583b-495e-ae93-6a3312ec96ff
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227475(v=AX.60)
 ms:contentKeyID: 36059843
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

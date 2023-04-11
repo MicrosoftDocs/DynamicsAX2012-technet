@@ -4,7 +4,7 @@ TOCTitle: PercentPerTax Method (Decimal)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.TaxCode.PercentPerTax(System.Decimal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.taxcode.percentpertax(v=AX.60)
 ms:contentKeyID: 49849792
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

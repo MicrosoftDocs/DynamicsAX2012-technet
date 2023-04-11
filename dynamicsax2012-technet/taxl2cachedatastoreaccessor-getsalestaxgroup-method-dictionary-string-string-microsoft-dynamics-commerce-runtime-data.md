@@ -4,7 +4,7 @@ TOCTitle: GetSalesTaxGroup Method (Dictionary(String, String))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.TaxL2CacheDataStoreAccessor.GetSalesTaxGroup(System.Collections.Generic.Dictionary{System.String,System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.taxl2cachedatastoreaccessor.getsalestaxgroup(v=AX.60)
 ms:contentKeyID: 62205153
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

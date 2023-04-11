@@ -4,7 +4,7 @@ TOCTitle: PutSalesTaxGroup Method (QueryResultSettings, ReadOnlyCollection(Sales
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.TaxL2CacheDataStoreAccessor.PutSalesTaxGroup(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTaxGroup})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.taxl2cachedatastoreaccessor.putsalestaxgroup(v=AX.60)
 ms:contentKeyID: 65320532
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

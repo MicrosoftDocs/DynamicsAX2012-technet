@@ -4,7 +4,7 @@ TOCTitle: Troubleshooting working with model files
 ms:assetid: 89a694c2-1640-449b-b659-2337cf0ad14e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ152919(v=AX.60)
 ms:contentKeyID: 47570509
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

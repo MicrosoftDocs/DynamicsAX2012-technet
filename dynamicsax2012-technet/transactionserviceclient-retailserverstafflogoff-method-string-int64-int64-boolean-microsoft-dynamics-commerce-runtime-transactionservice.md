@@ -4,7 +4,7 @@ TOCTitle: RetailServerStaffLogOff Method (String, Int64, Int64, Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.TransactionServiceClient.RetailServerStaffLogOff(System.String,System.Int64,System.Int64,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.transactionserviceclient.retailserverstafflogoff(v=AX.60)
 ms:contentKeyID: 62213195
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

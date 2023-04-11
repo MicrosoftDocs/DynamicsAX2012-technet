@@ -4,7 +4,7 @@ TOCTitle: Types of reports
 ms:assetid: 6561330b-a38f-4870-a0f0-a5a9bb50e383
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731928(v=AX.60)
 ms:contentKeyID: 35132861
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Unapprove a formula
 ms:assetid: ef25fde2-1d46-4cb0-aff6-d85cab811509
 ms:mtpsurl: https://technet.microsoft.com/library/Hh328612(v=AX.60)
 ms:contentKeyID: 36688041
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

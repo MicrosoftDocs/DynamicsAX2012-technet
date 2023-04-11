@@ -4,7 +4,7 @@ TOCTitle: Eval Method (String, String)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.SubmitOrder.Eval(System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.submitorder.eval(v=AX.60)
 ms:contentKeyID: 62205041
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

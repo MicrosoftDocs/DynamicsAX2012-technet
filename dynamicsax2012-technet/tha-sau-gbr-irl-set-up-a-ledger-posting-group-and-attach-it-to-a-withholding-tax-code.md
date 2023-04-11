@@ -4,7 +4,7 @@ TOCTitle: (THA, SAU, GBR, IRL) Set up a ledger posting group and attach it to a 
 ms:assetid: 78274644-4b44-4c9d-aac5-c5cf6138a268
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209253(v=AX.60)
 ms:contentKeyID: 36058221
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

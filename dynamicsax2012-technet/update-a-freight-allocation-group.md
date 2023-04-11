@@ -4,7 +4,7 @@ TOCTitle: Update a freight allocation group
 ms:assetid: 7de1bb6f-92a1-451d-af22-95cfa0294ee7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352260(v=AX.60)
 ms:contentKeyID: 36687886
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (SWE) Set up a method of payment for Bankgirot payments
 ms:assetid: 7e1c7d7e-0577-444f-a1b9-11dbbed20471
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213144(v=AX.60)
 ms:contentKeyID: 36058315
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

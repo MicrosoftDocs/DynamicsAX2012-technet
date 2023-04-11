@@ -4,7 +4,7 @@ TOCTitle: STSCustomClaimsProviderWebConfigUpdatingJob Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SP.CommonFeatures.STSCustomClaimsProviderWebConfigUpdatingJob.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.stscustomclaimsproviderwebconfigupdatingjob.stscustomclaimsproviderwebconfigupdatingjob(v=AX.60)
 ms:contentKeyID: 62205686
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

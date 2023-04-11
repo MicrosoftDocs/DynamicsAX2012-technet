@@ -4,7 +4,7 @@ TOCTitle: Submit a batch processing job from a form
 ms:assetid: d8998139-98e3-4ae9-b253-68c29d3e0c38
 ms:mtpsurl: https://technet.microsoft.com/library/Aa619588(v=AX.60)
 ms:contentKeyID: 36059645
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

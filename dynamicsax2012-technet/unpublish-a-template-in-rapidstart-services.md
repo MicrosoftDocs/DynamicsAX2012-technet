@@ -4,7 +4,7 @@ TOCTitle: Unpublish a template in RapidStart Services
 ms:assetid: cb961691-90b0-4dc4-9fd5-8cac12c88187
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413251(v=AX.60)
 ms:contentKeyID: 36918942
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

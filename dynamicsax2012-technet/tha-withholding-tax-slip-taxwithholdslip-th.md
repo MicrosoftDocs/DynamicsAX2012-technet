@@ -4,7 +4,7 @@ TOCTitle: (THA) Withholding tax slip (TaxWithholdSlip_TH)
 ms:assetid: 17725562-3b08-413a-9a1d-fe3a3a65e99e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335134(v=AX.60)
 ms:contentKeyID: 36687344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

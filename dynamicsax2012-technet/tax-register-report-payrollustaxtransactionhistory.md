@@ -4,7 +4,7 @@ TOCTitle: Tax register report (PayrollUSTaxTransactionHistory)
 ms:assetid: 91e1f6cc-3a03-4db0-9a6a-b6ae32842024
 ms:mtpsurl: https://technet.microsoft.com/library/JJ713638(v=AX.60)
 ms:contentKeyID: 49643133
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

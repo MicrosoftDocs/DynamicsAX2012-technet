@@ -4,7 +4,7 @@ TOCTitle: (THA) Withholding tax (Por Ngor Dor) report (TaxWithholdReportPND_TH)
 ms:assetid: f016c4f5-2798-46a5-b28e-91c63482279c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352295(v=AX.60)
 ms:contentKeyID: 36687923
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

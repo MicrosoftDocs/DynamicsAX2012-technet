@@ -4,7 +4,7 @@ TOCTitle: Synchronize data by using batch jobs (Retail essentials)
 ms:assetid: 786752f6-9942-4732-a070-9f9c6b593c05
 ms:mtpsurl: https://technet.microsoft.com/library/Dn756402(v=AX.60)
 ms:contentKeyID: 62524901
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

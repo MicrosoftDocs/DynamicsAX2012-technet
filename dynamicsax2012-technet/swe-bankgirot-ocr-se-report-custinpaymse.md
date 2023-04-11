@@ -4,7 +4,7 @@ TOCTitle: (SWE) Bankgirot OCR (SE) report (CustInPaymSE)
 ms:assetid: 8b17bf4d-a43b-4ad4-b289-65a5cb016bd0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352281(v=AX.60)
 ms:contentKeyID: 36687907
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

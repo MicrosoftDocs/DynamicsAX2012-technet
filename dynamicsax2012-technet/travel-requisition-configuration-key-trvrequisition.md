@@ -4,7 +4,7 @@ TOCTitle: Travel requisition configuration key (TrvRequisition)
 ms:assetid: 4b0c4aef-1f2b-4dd1-be57-d0558552917b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416675(v=AX.60)
 ms:contentKeyID: 36931832
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

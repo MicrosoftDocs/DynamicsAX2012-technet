@@ -4,7 +4,7 @@ TOCTitle: (SWE) Create a Bankgirot payment file that includes Postgirot payments
 ms:assetid: 8d1b3600-50a1-4ce5-a066-df323c5361f8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242879(v=AX.60)
 ms:contentKeyID: 36058488
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

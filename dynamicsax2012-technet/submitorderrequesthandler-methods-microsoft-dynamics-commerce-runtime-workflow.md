@@ -4,7 +4,7 @@ TOCTitle: SubmitOrderRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.SubmitOrderRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.submitorderrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 49850698
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

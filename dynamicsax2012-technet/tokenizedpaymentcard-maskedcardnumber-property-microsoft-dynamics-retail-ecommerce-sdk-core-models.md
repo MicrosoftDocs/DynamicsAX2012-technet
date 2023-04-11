@@ -4,7 +4,7 @@ TOCTitle: MaskedCardNumber Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.TokenizedPaymentCard.MaskedCardNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.tokenizedpaymentcard.maskedcardnumber(v=AX.60)
 ms:contentKeyID: 65318234
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

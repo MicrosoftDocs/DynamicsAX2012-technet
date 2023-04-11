@@ -4,7 +4,7 @@ TOCTitle: (THA, SAU, GBR, IRL) Set up a withholding tax authority
 ms:assetid: 9802d265-2a26-4025-afb4-7dd427d872bf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209414(v=AX.60)
 ms:contentKeyID: 36058673
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

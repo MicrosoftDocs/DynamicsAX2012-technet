@@ -4,7 +4,7 @@ TOCTitle: Update standard costs in a nonmanufacturing environment
 ms:assetid: ca474ba1-416f-4eb2-a6a2-3b10d008fc64
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213658(v=AX.60)
 ms:contentKeyID: 36059332
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

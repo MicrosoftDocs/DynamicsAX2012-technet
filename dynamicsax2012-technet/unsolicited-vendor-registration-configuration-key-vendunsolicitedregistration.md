@@ -4,7 +4,7 @@ TOCTitle: Unsolicited vendor registration configuration key (VendUnsolicitedRegi
 ms:assetid: 33edd811-6e2e-4bf1-9ee9-610452c591b3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433449(v=AX.60)
 ms:contentKeyID: 36941200
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

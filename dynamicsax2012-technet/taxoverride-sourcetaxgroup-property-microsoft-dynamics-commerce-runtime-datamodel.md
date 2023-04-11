@@ -4,7 +4,7 @@ TOCTitle: SourceTaxGroup Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.TaxOverride.SourceTaxGroup
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.taxoverride.sourcetaxgroup(v=AX.60)
 ms:contentKeyID: 62210108
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

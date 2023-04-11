@@ -4,7 +4,7 @@ TOCTitle: Trace Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.Tracer.Trace(System.Net.Http.HttpRequestMessage,System.String,System.Web.Http.Tracing.TraceLevel,System.Action{System.Web.Http.Tracing.TraceRecord})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.tracer.trace(v=AX.60)
 ms:contentKeyID: 62202151
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

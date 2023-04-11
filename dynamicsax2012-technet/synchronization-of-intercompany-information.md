@@ -4,7 +4,7 @@ TOCTitle: Synchronization of intercompany information
 ms:assetid: aaf5fc9d-6699-46bc-852f-913e69c36ded
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498545(v=AX.60)
 ms:contentKeyID: 36058907
-author: Khairunj
+author: tonyafehr
 ms.date: 02/17/2015
 mtps_version: v=AX.60
 f1_keywords:
