@@ -4,7 +4,7 @@ TOCTitle: Create a reply to a request for quotation
 ms:assetid: 52ec2199-7177-4bea-92c1-386ee9ccd10f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212791(v=AX.60)
 ms:contentKeyID: 36057291
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

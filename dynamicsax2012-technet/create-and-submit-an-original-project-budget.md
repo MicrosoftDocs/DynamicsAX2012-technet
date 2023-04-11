@@ -4,7 +4,7 @@ TOCTitle: Create and submit an original project budget
 ms:assetid: aab445d0-783a-497b-96ce-d0b8fc819e47
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242692(v=AX.60)
 ms:contentKeyID: 36058903
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

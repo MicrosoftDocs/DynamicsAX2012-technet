@@ -4,7 +4,7 @@ TOCTitle: Create service objects
 ms:assetid: 0ba2bae2-e154-43b9-8cba-30cee568a1d8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569745(v=AX.60)
 ms:contentKeyID: 37820196
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

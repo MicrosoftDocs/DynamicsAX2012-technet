@@ -4,7 +4,7 @@ TOCTitle: Create invoice proposals for projects with and without billing rules
 ms:assetid: caddee24-9551-498e-aef7-1cbbfe9dfc74
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572664(v=AX.60)
 ms:contentKeyID: 36059335
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

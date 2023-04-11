@@ -4,7 +4,7 @@ TOCTitle: Create or link to a collaboration workspace (Sales and marketing)
 ms:assetid: 436cef9e-8a35-40c5-8a6d-2b8e99a4720c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242377(v=AX.60)
 ms:contentKeyID: 36056878
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

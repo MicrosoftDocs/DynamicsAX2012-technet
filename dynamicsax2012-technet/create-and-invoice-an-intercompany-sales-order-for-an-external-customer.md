@@ -4,7 +4,7 @@ TOCTitle: Create and invoice an intercompany sales order for an external custome
 ms:assetid: 1f3c6ffb-82fc-4617-b5c0-bb2dc93839ab
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496780(v=AX.60)
 ms:contentKeyID: 43976705
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

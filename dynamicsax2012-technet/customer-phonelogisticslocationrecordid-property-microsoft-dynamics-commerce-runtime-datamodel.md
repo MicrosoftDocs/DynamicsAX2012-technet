@@ -4,7 +4,7 @@ TOCTitle: PhoneLogisticsLocationRecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer.PhoneLogisticsLocationRecordId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customer.phonelogisticslocationrecordid(v=AX.60)
 ms:contentKeyID: 62206533
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

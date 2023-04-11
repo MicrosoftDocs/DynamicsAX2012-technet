@@ -4,7 +4,7 @@ TOCTitle: CreateCustomerResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.CreateCustomerResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.createcustomerresponse_methods(v=AX.60)
 ms:contentKeyID: 49830235
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Customer security role (TradeCustomer)
 ms:assetid: a9d10eda-6682-4eb6-8464-0a315f6f9b9f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527119(v=AX.60)
 ms:contentKeyID: 37823170
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

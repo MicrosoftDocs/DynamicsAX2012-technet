@@ -4,7 +4,7 @@ TOCTitle: Create and post statements overview (Retail essentials)
 ms:assetid: 3e6fde65-e541-4205-b2ff-e201c8bba804
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716075(v=AX.60)
 ms:contentKeyID: 62200337
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Create an invoice for a fixed-price project
 ms:assetid: acb0bbcd-8632-4697-8ef3-0a95a35a92a7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498578(v=AX.60)
 ms:contentKeyID: 36058922
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create purchase orders manually from purchase requisitions
 ms:assetid: 95726644-14a6-4088-ad3a-e2054fe96046
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232214(v=AX.60)
 ms:contentKeyID: 36058621
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

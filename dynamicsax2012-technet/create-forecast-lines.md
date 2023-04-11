@@ -4,7 +4,7 @@ TOCTitle: Create forecast lines
 ms:assetid: c3e82138-ad2f-46b1-b2be-e11dc6ff6a6d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550716(v=AX.60)
 ms:contentKeyID: 43876671
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

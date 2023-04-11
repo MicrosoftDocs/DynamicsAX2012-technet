@@ -4,7 +4,7 @@ TOCTitle: Create a request for quotation
 ms:assetid: 904b96bd-f35c-4278-8fc3-1bd957c94f4a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn621059(v=AX.60)
 ms:contentKeyID: 62200116
-author: Khairunj
+author: tonyafehr
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 f1_keywords:

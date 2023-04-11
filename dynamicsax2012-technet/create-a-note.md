@@ -4,7 +4,7 @@ TOCTitle: Create a note
 ms:assetid: fb05f094-5e7d-47bf-af05-0dccaa4f21b7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499872(v=AX.60)
 ms:contentKeyID: 37822169
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

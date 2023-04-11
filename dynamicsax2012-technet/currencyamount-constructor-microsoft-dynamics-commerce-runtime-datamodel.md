@@ -4,7 +4,7 @@ TOCTitle: CurrencyAmount Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CurrencyAmount.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.currencyamount.currencyamount(v=AX.60)
 ms:contentKeyID: 62212711
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create production pools
 ms:assetid: 54e62de2-ad92-40d8-8307-be8a7ca8ebed
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549042(v=AX.60)
 ms:contentKeyID: 36057310
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

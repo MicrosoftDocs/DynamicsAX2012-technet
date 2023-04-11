@@ -4,7 +4,7 @@ TOCTitle: Customer auditor report (CustAuditor)
 ms:assetid: 7432de43-0e0d-430b-b6bb-4185d18817a2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586399(v=AX.60)
 ms:contentKeyID: 36956698
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

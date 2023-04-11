@@ -4,7 +4,7 @@ TOCTitle: CreateShiftDataServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.CreateShiftDataServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Shift)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.createshiftdataservicerequest.createshiftdataservicerequest(v=AX.60)
 ms:contentKeyID: 65316735
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

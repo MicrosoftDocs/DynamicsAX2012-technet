@@ -4,7 +4,7 @@ TOCTitle: Create an estimate project
 ms:assetid: 97f9011a-0e30-4f74-a13e-a880dd2201e7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498437(v=AX.60)
 ms:contentKeyID: 36811420
-author: Khairunj
+author: tonyafehr
 ms.date: 08/29/2014
 mtps_version: v=AX.60
 f1_keywords:

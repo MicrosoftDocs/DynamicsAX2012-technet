@@ -4,7 +4,7 @@ TOCTitle: Cross docking packages in Warehouse management
 ms:assetid: 9f6790a8-5bf6-44cf-a1c8-046202e63bfe
 ms:mtpsurl: https://technet.microsoft.com/library/Dn887224(v=AX.60)
 ms:contentKeyID: 63378892
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

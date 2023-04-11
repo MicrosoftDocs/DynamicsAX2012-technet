@@ -4,7 +4,7 @@ TOCTitle: Create various kinds of sales tax codes
 ms:assetid: ac8bec09-b20f-4b28-8569-88d82793a326
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498564(v=AX.60)
 ms:contentKeyID: 36058918
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

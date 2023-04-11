@@ -4,7 +4,7 @@ TOCTitle: Create packing material codes
 ms:assetid: b7c58b88-adf6-42b3-906c-bc1846614b29
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572247(v=AX.60)
 ms:contentKeyID: 36059107
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

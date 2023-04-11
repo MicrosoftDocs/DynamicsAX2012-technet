@@ -4,7 +4,7 @@ TOCTitle: " currency unit"
 ms:assetid: DynamicsAXGlossary.1509691
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1509691(v=AX.60)
 ms:contentKeyID: 36057622
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

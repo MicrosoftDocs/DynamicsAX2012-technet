@@ -4,7 +4,7 @@ TOCTitle: Create a project contract to invoice for units of delivery
 ms:assetid: 52131642-440e-4d30-8027-39452079e575
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208944(v=AX.60)
 ms:contentKeyID: 36057281
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

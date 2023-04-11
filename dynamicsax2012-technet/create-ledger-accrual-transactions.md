@@ -4,7 +4,7 @@ TOCTitle: Create ledger accrual transactions
 ms:assetid: b6cf8cec-83b1-456a-ba3f-de8310c4b684
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572155(v=AX.60)
 ms:contentKeyID: 36059098
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

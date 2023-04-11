@@ -4,7 +4,7 @@ TOCTitle: Create an invoice for on-account transactions
 ms:assetid: 0d1c3e3b-4046-4204-8d93-c7c125d206b4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569760(v=AX.60)
 ms:contentKeyID: 36056003
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create components
 ms:assetid: 365e4ce1-77da-4f63-a181-d1dcd6c32f3d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580608(v=AX.60)
 ms:contentKeyID: 39519094
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: PairingKey Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CreateHardwareStationTokenResult.PairingKey
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.createhardwarestationtokenresult.pairingkey(v=AX.60)
 ms:contentKeyID: 65319585
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

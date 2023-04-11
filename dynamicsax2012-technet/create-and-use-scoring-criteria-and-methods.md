@@ -4,7 +4,7 @@ TOCTitle: Create and use scoring criteria and methods
 ms:assetid: cbf3cf00-8521-420a-9448-a3586566538c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn621062(v=AX.60)
 ms:contentKeyID: 62200160
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

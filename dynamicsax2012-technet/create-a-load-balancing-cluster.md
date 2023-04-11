@@ -4,7 +4,7 @@ TOCTitle: Create a load balancing cluster
 ms:assetid: b070501d-cf46-49fb-8168-785259178d27
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362041(v=AX.60)
 ms:contentKeyID: 35949345
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

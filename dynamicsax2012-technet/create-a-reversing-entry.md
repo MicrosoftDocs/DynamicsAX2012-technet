@@ -4,7 +4,7 @@ TOCTitle: Create a reversing entry
 ms:assetid: 4f88d335-9d75-4e07-b6cb-f372ec45f3f5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212760(v=AX.60)
 ms:contentKeyID: 36057223
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create forecast models for project budgets
 ms:assetid: 6161f498-4877-4c12-8dd6-5e132b5a3054
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209179(v=AX.60)
 ms:contentKeyID: 36057654
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

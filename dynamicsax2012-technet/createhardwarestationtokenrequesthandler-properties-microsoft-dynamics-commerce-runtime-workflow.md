@@ -4,7 +4,7 @@ TOCTitle: CreateHardwareStationTokenRequestHandler Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.CreateHardwareStationTokenRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.createhardwarestationtokenrequesthandler_properties(v=AX.60)
 ms:contentKeyID: 62210886
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

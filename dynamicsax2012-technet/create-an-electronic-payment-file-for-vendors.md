@@ -4,7 +4,7 @@ TOCTitle: Create an electronic payment file for vendors
 ms:assetid: cac647cf-c80e-4221-8c28-53774fbb9017
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213659(v=AX.60)
 ms:contentKeyID: 36971932
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

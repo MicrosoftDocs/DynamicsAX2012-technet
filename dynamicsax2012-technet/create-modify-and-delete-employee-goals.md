@@ -4,7 +4,7 @@ TOCTitle: Create, modify, and delete employee goals
 ms:assetid: c1dbbe51-6c23-4a5e-a0c5-1202b16fb5e0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271640(v=AX.60)
 ms:contentKeyID: 36384272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

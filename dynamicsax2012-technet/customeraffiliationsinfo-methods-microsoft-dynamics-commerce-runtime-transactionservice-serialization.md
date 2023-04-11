@@ -4,7 +4,7 @@ TOCTitle: CustomerAffiliationsInfo Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.CustomerAffiliationsInfo
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.customeraffiliationsinfo_methods(v=AX.60)
 ms:contentKeyID: 62209224
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

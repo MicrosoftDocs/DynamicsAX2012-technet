@@ -4,7 +4,7 @@ TOCTitle: Create absence registrations for planned absences
 ms:assetid: 9eb55320-a804-41eb-8736-a90c11d16c2a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571737(v=AX.60)
 ms:contentKeyID: 43976721
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

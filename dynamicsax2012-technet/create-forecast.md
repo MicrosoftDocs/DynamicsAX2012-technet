@@ -4,7 +4,7 @@ TOCTitle: Create forecast
 ms:assetid: 3fd157c3-0f7d-40cb-8605-bd95bb00c23b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231346(v=AX.60)
 ms:contentKeyID: 36056708
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User

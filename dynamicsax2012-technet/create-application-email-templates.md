@@ -4,7 +4,7 @@ TOCTitle: Create application email templates
 ms:assetid: 2a0e57a4-9c43-4b24-b00a-36e51eef2530
 ms:mtpsurl: https://technet.microsoft.com/library/JJ943749(v=AX.60)
 ms:contentKeyID: 51020481
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

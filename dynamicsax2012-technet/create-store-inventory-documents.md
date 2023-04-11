@@ -4,7 +4,7 @@ TOCTitle: Create store inventory documents
 ms:assetid: 8facce8e-64e8-4fb9-9f68-2f32ce336056
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597171(v=AX.60)
 ms:contentKeyID: 39519231
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create calculations
 ms:assetid: ac6cccdc-4759-4e63-b735-0e4a50b43e30
 ms:mtpsurl: https://technet.microsoft.com/library/Dn283315(v=AX.60)
 ms:contentKeyID: 54916492
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

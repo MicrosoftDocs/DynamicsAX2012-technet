@@ -4,7 +4,7 @@ TOCTitle: Create a report by using the Microsoft Dynamics AX auto-report wizard
 ms:assetid: 8528cc70-8624-4eba-94ce-cd01c2dd6267
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213177(v=AX.60)
 ms:contentKeyID: 35133419
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

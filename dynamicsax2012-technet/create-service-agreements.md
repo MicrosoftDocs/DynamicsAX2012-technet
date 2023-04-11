@@ -4,7 +4,7 @@ TOCTitle: Create service agreements
 ms:assetid: a834770c-18d3-4f24-a012-2c0589fb1243
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550309(v=AX.60)
 ms:contentKeyID: 36058885
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

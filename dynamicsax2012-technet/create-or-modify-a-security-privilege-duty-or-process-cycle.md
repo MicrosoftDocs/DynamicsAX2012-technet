@@ -4,7 +4,7 @@ TOCTitle: Create or modify a security privilege, duty, or process cycle
 ms:assetid: f2ca438f-1e4e-44bb-9e1e-087c70065ce9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556870(v=AX.60)
 ms:contentKeyID: 39509604
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

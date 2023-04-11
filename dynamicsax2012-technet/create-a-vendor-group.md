@@ -4,7 +4,7 @@ TOCTitle: Create a vendor group
 ms:assetid: acae2a19-78e0-4a60-808a-a9f88ab9afca
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498574(v=AX.60)
 ms:contentKeyID: 36058920
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

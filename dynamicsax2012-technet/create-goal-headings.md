@@ -4,7 +4,7 @@ TOCTitle: Create goal headings
 ms:assetid: e6b7200b-2bd3-4226-95be-fcbd5045a682
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243229(v=AX.60)
 ms:contentKeyID: 36059807
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

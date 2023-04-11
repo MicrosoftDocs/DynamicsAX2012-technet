@@ -4,7 +4,7 @@ TOCTitle: SupportsResolve Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.SupportsResolve
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.supportsresolve(v=AX.60)
 ms:contentKeyID: 62206764
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

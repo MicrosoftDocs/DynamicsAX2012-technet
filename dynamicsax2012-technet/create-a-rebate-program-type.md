@@ -4,7 +4,7 @@ TOCTitle: Create a rebate program type
 ms:assetid: 8c00c6f3-c5bf-4b16-86d8-ff0ebf222980
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352286(v=AX.60)
 ms:contentKeyID: 36687913
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

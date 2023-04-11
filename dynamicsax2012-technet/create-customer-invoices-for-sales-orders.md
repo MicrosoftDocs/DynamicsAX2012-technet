@@ -4,7 +4,7 @@ TOCTitle: Create customer invoices for sales orders
 ms:assetid: 3c5f711f-700a-4cfb-ba1e-552d1a26fb82
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231156(v=AX.60)
 ms:contentKeyID: 36056663
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

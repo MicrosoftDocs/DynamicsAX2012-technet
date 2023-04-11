@@ -4,7 +4,7 @@ TOCTitle: Create and modify BOMs by using the BOM designer
 ms:assetid: 927156c6-12a8-4021-837a-e4d6e608fb61
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498382(v=AX.60)
 ms:contentKeyID: 36058573
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

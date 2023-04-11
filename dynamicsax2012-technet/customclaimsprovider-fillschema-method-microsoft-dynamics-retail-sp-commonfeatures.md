@@ -4,7 +4,7 @@ TOCTitle: FillSchema Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.FillSchema(Microsoft.SharePoint.WebControls.SPProviderSchema)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillschema(v=AX.60)
 ms:contentKeyID: 62207192
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

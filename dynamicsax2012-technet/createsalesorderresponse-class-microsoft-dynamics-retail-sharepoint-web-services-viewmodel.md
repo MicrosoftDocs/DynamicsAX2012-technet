@@ -4,7 +4,7 @@ TOCTitle: CreateSalesOrderResponse Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.CreateSalesOrderResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.createsalesorderresponse(v=AX.60)
 ms:contentKeyID: 62206242
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

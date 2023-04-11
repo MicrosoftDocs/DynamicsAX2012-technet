@@ -4,7 +4,7 @@ TOCTitle: Create, modify, or delete a case
 ms:assetid: 49f96407-517b-41ab-a51f-a5eeddde7439
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271520(v=AX.60)
 ms:contentKeyID: 36384152
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

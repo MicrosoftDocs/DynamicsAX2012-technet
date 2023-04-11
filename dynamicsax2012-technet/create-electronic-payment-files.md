@@ -4,7 +4,7 @@ TOCTitle: Create electronic payment files
 ms:assetid: a99a62ee-ea73-416e-8631-1f89717d49eb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243072(v=AX.60)
 ms:contentKeyID: 36058895
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

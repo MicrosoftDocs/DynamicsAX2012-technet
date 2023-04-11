@@ -4,7 +4,7 @@ TOCTitle: Create accounting distributions for vendor invoices
 ms:assetid: 4ce24524-9b19-4c50-969b-67083800e340
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208742(v=AX.60)
 ms:contentKeyID: 36057017
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create a report by using Power View to connect to a cube
 ms:assetid: 09cc9238-9944-4085-a5de-64d907b70cf3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933492(v=AX.60)
 ms:contentKeyID: 50935106
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

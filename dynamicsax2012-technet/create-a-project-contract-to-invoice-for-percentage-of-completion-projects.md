@@ -4,7 +4,7 @@ TOCTitle: Create a project contract to invoice for percentage-of-completion proj
 ms:assetid: aad681d2-f7d7-40e4-bd16-1704c0a2c1fe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242694(v=AX.60)
 ms:contentKeyID: 36058906
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

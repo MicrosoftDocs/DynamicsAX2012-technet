@@ -4,7 +4,7 @@ TOCTitle: Create service object relations
 ms:assetid: 3b461ecc-971f-45cd-9271-ebeb06b1521e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570157(v=AX.60)
 ms:contentKeyID: 62626033
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 f1_keywords:

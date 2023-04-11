@@ -4,7 +4,7 @@ TOCTitle: Create a project contract to invoice for milestones
 ms:assetid: 7b8b3f7e-b779-4c5b-a709-c08c3d099102
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209265(v=AX.60)
 ms:contentKeyID: 36058257
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

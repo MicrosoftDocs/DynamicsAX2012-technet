@@ -4,7 +4,7 @@ TOCTitle: Create and maintain product dimensions
 ms:assetid: 4777254f-329d-421d-aaf5-c0d30265b242
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496995(v=AX.60)
 ms:contentKeyID: 42518527
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

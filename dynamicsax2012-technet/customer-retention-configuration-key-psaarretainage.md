@@ -4,7 +4,7 @@ TOCTitle: Customer retention configuration key (PSAARRetainage)
 ms:assetid: 13836d27-b1e9-4e03-b45c-b68584eb36fc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500146(v=AX.60)
 ms:contentKeyID: 37820176
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

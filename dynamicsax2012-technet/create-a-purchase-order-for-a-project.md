@@ -4,7 +4,7 @@ TOCTitle: Create a purchase order for a project
 ms:assetid: c55b6a87-2aa0-4fc0-b1e4-9b83f79142bb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550751(v=AX.60)
 ms:contentKeyID: 36811428
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

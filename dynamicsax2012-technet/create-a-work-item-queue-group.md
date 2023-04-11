@@ -4,7 +4,7 @@ TOCTitle: Create a work item queue group
 ms:assetid: 348612fe-d891-4374-9514-bd6e0f5883db
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731774(v=AX.60)
 ms:contentKeyID: 35132599
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

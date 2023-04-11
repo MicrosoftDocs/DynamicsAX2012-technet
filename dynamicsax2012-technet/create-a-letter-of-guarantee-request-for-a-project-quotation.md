@@ -4,7 +4,7 @@ TOCTitle: Create a letter of guarantee request for a project quotation
 ms:assetid: f77cf344-7a9b-42ce-a5a9-179d96f927a2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227549(v=AX.60)
 ms:contentKeyID: 36060033
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

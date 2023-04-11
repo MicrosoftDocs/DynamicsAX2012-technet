@@ -4,7 +4,7 @@ TOCTitle: Create a team
 ms:assetid: 5a230f8b-4afe-414e-ac65-3c917f684829
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781092(v=AX.60)
 ms:contentKeyID: 43894501
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

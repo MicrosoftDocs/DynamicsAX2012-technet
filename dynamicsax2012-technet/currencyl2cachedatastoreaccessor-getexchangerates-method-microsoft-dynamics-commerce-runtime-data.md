@@ -4,7 +4,7 @@ TOCTitle: GetExchangeRates Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.CurrencyL2CacheDataStoreAccessor.GetExchangeRates(System.String,System.String,System.DateTime)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.currencyl2cachedatastoreaccessor.getexchangerates(v=AX.60)
 ms:contentKeyID: 65319876
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

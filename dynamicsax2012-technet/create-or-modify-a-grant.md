@@ -4,7 +4,7 @@ TOCTitle: Create or modify a grant
 ms:assetid: 6d72a050-52d3-43f8-a6df-aeed35a4914b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242638(v=AX.60)
 ms:contentKeyID: 36058029
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

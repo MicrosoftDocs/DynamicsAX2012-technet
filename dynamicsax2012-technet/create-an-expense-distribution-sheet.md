@@ -4,7 +4,7 @@ TOCTitle: Create an expense distribution sheet
 ms:assetid: c588d46e-856b-454b-8540-c953901ebe28
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550756(v=AX.60)
 ms:contentKeyID: 36059301
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

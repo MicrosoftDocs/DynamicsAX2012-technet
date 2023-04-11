@@ -4,7 +4,7 @@ TOCTitle: Customer foreign currency revaluation simulation report (CustExchRateA
 ms:assetid: b8a5e236-7d2f-49a6-813e-69c94064b139
 ms:mtpsurl: https://technet.microsoft.com/library/Aa556586(v=AX.60)
 ms:contentKeyID: 37832030
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

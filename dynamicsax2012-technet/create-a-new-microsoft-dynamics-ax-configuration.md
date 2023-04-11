@@ -4,7 +4,7 @@ TOCTitle: Create a new Microsoft Dynamics AX configuration
 ms:assetid: e508dc82-d780-4eda-bf5d-200228d1c3f1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh389774(v=AX.60)
 ms:contentKeyID: 36899753
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

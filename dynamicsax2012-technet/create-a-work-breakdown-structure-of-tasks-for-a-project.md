@@ -4,7 +4,7 @@ TOCTitle: Create a work breakdown structure of tasks for a project
 ms:assetid: 0edfa121-3126-4dbd-84fa-81e096df838b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn528660(v=AX.60)
 ms:contentKeyID: 59636744
-author: Khairunj
+author: tonyafehr
 ms.date: 06/09/2014
 mtps_version: v=AX.60
 f1_keywords:

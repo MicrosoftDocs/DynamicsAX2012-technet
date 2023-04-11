@@ -4,7 +4,7 @@ TOCTitle: Create billing rules
 ms:assetid: eb70b651-fd81-477d-b9c1-be881898a3af
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227487(v=AX.60)
 ms:contentKeyID: 36059872
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

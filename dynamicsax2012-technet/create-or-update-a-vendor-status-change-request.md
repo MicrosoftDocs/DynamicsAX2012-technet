@@ -4,7 +4,7 @@ TOCTitle: Create or update a vendor status change request
 ms:assetid: 51303009-51bb-4b99-9e0f-aedb45897c97
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271531(v=AX.60)
 ms:contentKeyID: 36384163
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

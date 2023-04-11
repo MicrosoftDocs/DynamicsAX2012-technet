@@ -4,7 +4,7 @@ TOCTitle: CreateSalesTransaction Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.CreateSalesTransaction
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.createsalestransaction_methods(v=AX.60)
 ms:contentKeyID: 65319422
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

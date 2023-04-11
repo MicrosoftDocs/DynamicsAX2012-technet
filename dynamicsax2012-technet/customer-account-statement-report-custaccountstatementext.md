@@ -4,7 +4,7 @@ TOCTitle: Customer account statement report (CustAccountStatementExt)
 ms:assetid: 6c518898-5f14-4075-84df-59abea19f096
 ms:mtpsurl: https://technet.microsoft.com/library/Aa615057(v=AX.60)
 ms:contentKeyID: 36059153
-author: Khairunj
+author: tonyafehr
 ms.date: 08/18/2014
 mtps_version: v=AX.60
 f1_keywords:
