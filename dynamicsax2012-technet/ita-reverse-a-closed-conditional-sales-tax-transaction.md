@@ -4,7 +4,7 @@ TOCTitle: (ITA) Reverse a closed conditional sales tax transaction
 ms:assetid: 61264c63-3c28-483f-b987-ccd4eeaa1fec
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209170(v=AX.60)
 ms:contentKeyID: 36057643
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

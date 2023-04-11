@@ -4,7 +4,7 @@ TOCTitle: Dialog Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.Services.IServicesV1.Dialog
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.iservicesv1.dialog(v=AX.60)
 ms:contentKeyID: 47344429
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

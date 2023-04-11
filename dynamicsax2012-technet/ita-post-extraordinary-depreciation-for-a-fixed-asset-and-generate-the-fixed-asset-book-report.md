@@ -4,7 +4,7 @@ TOCTitle: (ITA) Post extraordinary depreciation for a fixed asset and generate t
 ms:assetid: 452eccac-aad5-4c1e-9227-4576e5b6854b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242380(v=AX.60)
 ms:contentKeyID: 36056891
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

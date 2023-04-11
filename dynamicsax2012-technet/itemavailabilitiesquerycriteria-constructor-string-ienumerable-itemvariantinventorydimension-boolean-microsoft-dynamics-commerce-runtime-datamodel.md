@@ -4,7 +4,7 @@ TOCTitle: ItemAvailabilitiesQueryCriteria Constructor (String, IEnumerable(ItemV
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemAvailabilitiesQueryCriteria.#ctor(System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemVariantInventoryDimension},System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.itemavailabilitiesquerycriteria.itemavailabilitiesquerycriteria(v=AX.60)
 ms:contentKeyID: 65319901
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

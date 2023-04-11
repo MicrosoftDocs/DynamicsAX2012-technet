@@ -4,7 +4,7 @@ TOCTitle: IssueLoyaltyCardServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.IssueLoyaltyCardServiceRequest.#ctor(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.LoyaltyCardTenderType,System.String,System.Int64,System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.issueloyaltycardservicerequest.issueloyaltycardservicerequest(v=AX.60)
 ms:contentKeyID: 65319944
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

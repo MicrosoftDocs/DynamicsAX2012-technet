@@ -4,7 +4,7 @@ TOCTitle: (ITA) Intrastat report IT report (IntrastatPeriodReport_IT)
 ms:assetid: 449a2aa8-5138-4113-83fb-c68bf3d9aa30
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352248(v=AX.60)
 ms:contentKeyID: 36687874
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

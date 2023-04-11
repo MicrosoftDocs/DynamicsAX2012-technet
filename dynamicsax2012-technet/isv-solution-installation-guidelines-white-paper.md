@@ -4,7 +4,7 @@ TOCTitle: ISV solution installation guidelines
 ms:assetid: f038f2f5-3553-4554-8b71-910ec8e86ba3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710371(v=AX.60)
 ms:contentKeyID: 49384252
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

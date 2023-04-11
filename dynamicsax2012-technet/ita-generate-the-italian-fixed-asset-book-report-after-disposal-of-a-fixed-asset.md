@@ -4,7 +4,7 @@ TOCTitle: (ITA) Generate the Italian fixed asset book report after disposal of a
 ms:assetid: ceff3382-7b0d-496b-9f16-1b2fe1e0436a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242912(v=AX.60)
 ms:contentKeyID: 36059473
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

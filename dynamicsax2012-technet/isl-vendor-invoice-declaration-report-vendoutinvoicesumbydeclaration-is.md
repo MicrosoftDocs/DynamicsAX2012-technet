@@ -4,7 +4,7 @@ TOCTitle: (ISL) Vendor invoice declaration report (VendOutInvoiceSumByDeclaratio
 ms:assetid: 7cf254c5-b11d-4d87-a2c5-f29b522e01e7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433503(v=AX.60)
 ms:contentKeyID: 36941275
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

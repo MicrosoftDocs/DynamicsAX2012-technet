@@ -4,7 +4,7 @@ TOCTitle: (ITA) Attaching sales tax book sections and sales tax books
 ms:assetid: 993ba587-7380-4b87-a7dd-1473c1adec95
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209422(v=AX.60)
 ms:contentKeyID: 36058691
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (ITA) Generate the "Italian black list" report for taxable transaction
 ms:assetid: f44f0b48-3d9b-4278-bb40-8517aa1f0860
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227535(v=AX.60)
 ms:contentKeyID: 36059989
-author: Khairunj
+author: tonyafehr
 ms.date: 05/21/2014
 mtps_version: v=AX.60
 f1_keywords:

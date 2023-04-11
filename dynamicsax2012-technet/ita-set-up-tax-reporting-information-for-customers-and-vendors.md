@@ -4,7 +4,7 @@ TOCTitle: (ITA) Set up tax reporting information for customers and vendors
 ms:assetid: 4bbd1ae1-a6e5-43b1-b5e5-f02c72c6c22c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212735(v=AX.60)
 ms:contentKeyID: 36057004
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (ITA) Set up fiscal LIFO reporting groups
 ms:assetid: f5845043-bb55-4575-b3a9-518dd0da12df
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551647(v=AX.60)
 ms:contentKeyID: 36060001
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

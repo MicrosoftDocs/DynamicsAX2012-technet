@@ -4,7 +4,7 @@ TOCTitle: (ITA) Generate the Yearly tax communication report
 ms:assetid: fc8f7904-27cd-4e96-957b-d57963e2dc11
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433549(v=AX.60)
 ms:contentKeyID: 36941369
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

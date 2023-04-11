@@ -4,7 +4,7 @@ TOCTitle: (ITA) Generate, print, and export the Intrastat report
 ms:assetid: 120b1e06-8de0-4a80-830f-0b4b72139780
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242141(v=AX.60)
 ms:contentKeyID: 36056038
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

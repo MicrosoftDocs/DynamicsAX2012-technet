@@ -4,7 +4,7 @@ TOCTitle: (ITA) Withholding tax - yearly report (TaxWithholdYearlyReport_IT)
 ms:assetid: 59baf260-a1dc-45f5-9636-c796cfa91d43
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335150(v=AX.60)
 ms:contentKeyID: 36687361
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

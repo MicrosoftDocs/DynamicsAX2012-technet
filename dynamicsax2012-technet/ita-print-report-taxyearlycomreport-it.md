@@ -4,7 +4,7 @@ TOCTitle: (ITA) Print report (TaxYearlyComReport_IT)
 ms:assetid: e6e79f81-5c38-448e-855f-74d07d49f512
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524746(v=AX.60)
 ms:contentKeyID: 37072042
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

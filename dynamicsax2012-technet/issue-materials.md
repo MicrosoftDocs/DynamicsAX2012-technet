@@ -4,7 +4,7 @@ TOCTitle: Issue materials
 ms:assetid: 5cda12fc-8985-47c7-acb5-14c0d876de95
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242512(v=AX.60)
 ms:contentKeyID: 36057574
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

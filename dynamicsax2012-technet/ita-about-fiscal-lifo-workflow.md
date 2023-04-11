@@ -4,7 +4,7 @@ TOCTitle: (ITA) About fiscal LIFO workflow
 ms:assetid: eb6ea692-bc8e-43bc-9b06-fd7c2a4b8ab1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551504(v=AX.60)
 ms:contentKeyID: 36059869
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

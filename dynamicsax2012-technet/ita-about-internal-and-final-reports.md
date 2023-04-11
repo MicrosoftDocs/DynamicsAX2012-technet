@@ -4,7 +4,7 @@ TOCTitle: (ITA) About internal and final reports
 ms:assetid: 92de7ea6-3a05-432d-a329-3d9563761f36
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498384(v=AX.60)
 ms:contentKeyID: 36058579
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

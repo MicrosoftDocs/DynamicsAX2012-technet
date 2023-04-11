@@ -4,7 +4,7 @@ TOCTitle: (ITA) Withholding tax - monthly report (TaxWithholdMonthlyReport_IT)
 ms:assetid: efdbf152-ef5f-4986-a059-db11418f47a2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335173(v=AX.60)
 ms:contentKeyID: 36687389
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (ITA) Set up information for the "Italian black list" report
 ms:assetid: 889bc090-e652-4bf7-8108-d8d604953641
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209341(v=AX.60)
 ms:contentKeyID: 36058452
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

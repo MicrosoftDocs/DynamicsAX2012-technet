@@ -4,7 +4,7 @@ TOCTitle: (ITA) Payment control report (CustOutPaymControl_IT)
 ms:assetid: 73442d4c-2f2d-4623-b64f-e9f508788d77
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433502(v=AX.60)
 ms:contentKeyID: 36941271
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

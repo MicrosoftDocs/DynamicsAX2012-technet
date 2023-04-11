@@ -4,7 +4,7 @@ TOCTitle: (ITA) Sales tax (Italy) report (TaxReport_IT)
 ms:assetid: ca767b87-6900-40ea-8c99-70e0a40e9787
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352288(v=AX.60)
 ms:contentKeyID: 36687916
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

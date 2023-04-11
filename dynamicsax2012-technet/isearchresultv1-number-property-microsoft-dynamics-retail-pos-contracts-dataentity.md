@@ -4,7 +4,7 @@ TOCTitle: Number Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Pos.Contracts.DataEntity.ISearchResultV1.Number
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.dataentity.isearchresultv1.number(v=AX.60)
 ms:contentKeyID: 49851981
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

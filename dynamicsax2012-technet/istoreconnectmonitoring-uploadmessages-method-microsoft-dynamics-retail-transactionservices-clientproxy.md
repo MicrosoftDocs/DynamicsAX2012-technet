@@ -4,7 +4,7 @@ TOCTitle: UploadMessages Method
 ms:assetid: M:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.IStoreConnectMonitoring.UploadMessages(Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.RequestInfo,System.Data.DataSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.istoreconnectmonitoring.uploadmessages(v=AX.60)
 ms:contentKeyID: 49851975
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
