@@ -4,7 +4,7 @@ TOCTitle: Customers (Retail essentials)
 ms:assetid: cdacb8ae-5004-4a44-8811-925ac78b6b28
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736950(v=AX.60)
 ms:contentKeyID: 62200428
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

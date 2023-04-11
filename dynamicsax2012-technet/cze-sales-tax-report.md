@@ -4,7 +4,7 @@ TOCTitle: (CZE) Sales tax (report)
 ms:assetid: 9274925d-6406-45a4-9576-4b93475cb90a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874410(v=AX.60)
 ms:contentKeyID: 50619726
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

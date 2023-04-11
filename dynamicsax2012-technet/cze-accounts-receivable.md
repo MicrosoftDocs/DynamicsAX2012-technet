@@ -4,7 +4,7 @@ TOCTitle: (CZE) Accounts receivable
 ms:assetid: e5758465-ba24-429b-a63d-bc36a83cc838
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710636(v=AX.60)
 ms:contentKeyID: 49385034
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

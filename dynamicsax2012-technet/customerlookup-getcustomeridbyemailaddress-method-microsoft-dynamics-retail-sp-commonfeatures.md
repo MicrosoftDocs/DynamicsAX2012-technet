@@ -4,7 +4,7 @@ TOCTitle: GetCustomerIdByEmailAddress Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomerLookup.GetCustomerIdByEmailAddress(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customerlookup.getcustomeridbyemailaddress(v=AX.60)
 ms:contentKeyID: 62204668
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

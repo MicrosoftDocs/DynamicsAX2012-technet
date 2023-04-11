@@ -4,7 +4,7 @@ TOCTitle: DataValidationFailure Constructor (String, ICollection(String), String
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataValidationFailure.#ctor(System.String,System.Collections.Generic.ICollection{System.String},System.String,System.Object[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationfailure.datavalidationfailure(v=AX.60)
 ms:contentKeyID: 65321859
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

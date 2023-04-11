@@ -4,7 +4,7 @@ TOCTitle: Customize page layouts
 ms:assetid: aa55e648-cb03-41e7-a961-0748cbd726bf
 ms:mtpsurl: https://technet.microsoft.com/library/Dn151158(v=AX.60)
 ms:contentKeyID: 53095771
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

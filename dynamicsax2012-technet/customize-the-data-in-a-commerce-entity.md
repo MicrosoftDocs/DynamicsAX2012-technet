@@ -4,7 +4,7 @@ TOCTitle: Customize the Data in a Commerce Entity
 ms:assetid: 3857369f-d293-4897-90b7-bd8aefcbb3a7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ916616(v=AX.60)
 ms:contentKeyID: 50934006
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

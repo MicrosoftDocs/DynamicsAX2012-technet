@@ -4,7 +4,7 @@ TOCTitle: ExecuteQueryDataSet Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteQueryDataSet(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.databaseaccessor.executequerydataset(v=AX.60)
 ms:contentKeyID: 62212338
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Generate the reconciliation sales tax-ledger report
 ms:assetid: 7336480f-3178-42b5-a999-5c4c901f830c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677571(v=AX.60)
 ms:contentKeyID: 49384874
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

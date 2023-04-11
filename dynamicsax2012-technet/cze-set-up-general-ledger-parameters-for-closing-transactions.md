@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up general ledger parameters for closing transactions
 ms:assetid: f4129339-4926-4731-b361-e0b92f60603c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710651(v=AX.60)
 ms:contentKeyID: 49385049
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

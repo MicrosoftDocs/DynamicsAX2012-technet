@@ -4,7 +4,7 @@ TOCTitle: (CZE) Generate vendor transaction reports
 ms:assetid: fbf3f9db-2ad6-4a57-b5f7-9330f189b2fb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710661(v=AX.60)
 ms:contentKeyID: 49385059
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

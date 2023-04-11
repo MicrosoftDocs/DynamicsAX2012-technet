@@ -4,7 +4,7 @@ TOCTitle: (CZE) Depreciate/amortize assets overview
 ms:assetid: 69403e19-3b0f-434b-b45b-cbd8a6c016a4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677557(v=AX.60)
 ms:contentKeyID: 49384860
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

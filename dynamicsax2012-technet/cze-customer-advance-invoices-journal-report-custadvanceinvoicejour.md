@@ -4,7 +4,7 @@ TOCTitle: (CZE) Customer advance invoices journal report (CustAdvanceInvoiceJour
 ms:assetid: f6d451ee-02e5-4aed-b521-de4c213de221
 ms:mtpsurl: https://technet.microsoft.com/library/Dn133213(v=AX.60)
 ms:contentKeyID: 53365031
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

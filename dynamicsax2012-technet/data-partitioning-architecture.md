@@ -4,7 +4,7 @@ TOCTitle: Data partitioning architecture
 ms:assetid: 27ba6c51-7ea7-4403-867a-46ccc1ee053a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728665(v=AX.60)
 ms:contentKeyID: 49556573
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

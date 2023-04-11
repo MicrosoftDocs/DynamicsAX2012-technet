@@ -4,7 +4,7 @@ TOCTitle: Dates, times and time zones
 ms:assetid: 465d7a55-500d-4218-af59-222b7767bbcc
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231389(v=AX.60)
 ms:contentKeyID: 36056902
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (CZE) General ledger
 ms:assetid: b775f8af-8382-4a3b-b1b8-735d48f96d64
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677673(v=AX.60)
 ms:contentKeyID: 49384975
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

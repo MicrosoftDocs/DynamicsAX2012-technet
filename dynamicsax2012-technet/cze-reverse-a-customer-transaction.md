@@ -4,7 +4,7 @@ TOCTitle: (CZE) Reverse a customer transaction
 ms:assetid: 37beda58-750c-43e2-9ca2-f625f45a9468
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677503(v=AX.60)
 ms:contentKeyID: 49384808
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

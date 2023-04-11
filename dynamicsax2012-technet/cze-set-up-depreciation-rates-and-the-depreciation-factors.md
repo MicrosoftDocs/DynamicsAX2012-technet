@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up depreciation rates and the depreciation factors
 ms:assetid: 98bb4596-7db5-4944-82ce-dc576f54a71e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677619(v=AX.60)
 ms:contentKeyID: 49384922
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

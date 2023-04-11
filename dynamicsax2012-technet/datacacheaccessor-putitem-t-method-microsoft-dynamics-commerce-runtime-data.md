@@ -4,7 +4,7 @@ TOCTitle: PutItem(T) Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.DataCacheAccessor.PutItem``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn989203(v=AX.60)
 ms:contentKeyID: 65319158
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

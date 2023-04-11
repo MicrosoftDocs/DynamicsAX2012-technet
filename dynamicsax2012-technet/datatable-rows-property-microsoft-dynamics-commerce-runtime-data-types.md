@@ -4,7 +4,7 @@ TOCTitle: Rows Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DataTable.Rows
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.types.datatable.rows(v=AX.60)
 ms:contentKeyID: 65316214
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

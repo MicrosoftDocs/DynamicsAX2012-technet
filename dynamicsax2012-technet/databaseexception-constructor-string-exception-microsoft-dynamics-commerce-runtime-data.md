@@ -4,7 +4,7 @@ TOCTitle: DatabaseException Constructor (String, Exception)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseException.#ctor(System.String,System.Exception)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.databaseexception.databaseexception(v=AX.60)
 ms:contentKeyID: 65320807
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

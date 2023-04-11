@@ -4,7 +4,7 @@ TOCTitle: (CZE) Setting up exchange adjustment
 ms:assetid: 0921bb25-b469-463c-aa34-c07d4e19571c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664165(v=AX.60)
 ms:contentKeyID: 49384748
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Data Upgrade Best Practices
 ms:assetid: 31a628bf-43ea-4909-afc5-ece5824c6d6d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781082(v=AX.60)
 ms:contentKeyID: 43894488
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Maintain vendor settlements
 ms:assetid: bf716cb8-d7b9-4d21-bd3b-a6e8e264d8dd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677684(v=AX.60)
 ms:contentKeyID: 49384985
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

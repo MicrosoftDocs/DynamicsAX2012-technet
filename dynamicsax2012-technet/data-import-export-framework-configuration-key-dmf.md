@@ -4,7 +4,7 @@ TOCTitle: Data import export framework configuration key (DMF)
 ms:assetid: ec4be900-3a08-4949-b7c6-351d70a780e0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792364(v=AX.60)
 ms:contentKeyID: 62613987
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: ExecuteStoredProcedure(T1, T2, T3, T4, T5, T6, T7, T8) Method (String,
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure``8(System.String,Microsoft.Dynamics.Commerce.Runtime.ParameterSet)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn998921(v=AX.60)
 ms:contentKeyID: 65317595
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

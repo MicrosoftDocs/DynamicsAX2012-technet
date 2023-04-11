@@ -4,7 +4,7 @@ TOCTitle: CustomerDisplay Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.CustomerDisplay
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.customerdisplay_properties(v=AX.60)
 ms:contentKeyID: 62205065
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

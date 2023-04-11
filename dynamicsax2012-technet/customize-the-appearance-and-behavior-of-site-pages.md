@@ -4,7 +4,7 @@ TOCTitle: Customize the appearance and behavior of site pages
 ms:assetid: eb612216-bf56-4a68-acf1-f80a90091a80
 ms:mtpsurl: https://technet.microsoft.com/library/Dn151160(v=AX.60)
 ms:contentKeyID: 53095772
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

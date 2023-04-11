@@ -4,7 +4,7 @@ TOCTitle: Data import, export and migration
 ms:assetid: ca86a924-8414-4ad4-95f9-9d478e88825f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834437(v=AX.60)
 ms:contentKeyID: 35132882
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

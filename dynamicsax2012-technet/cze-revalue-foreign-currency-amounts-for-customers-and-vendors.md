@@ -4,7 +4,7 @@ TOCTitle: (CZE) Revalue foreign currency amounts for customers and vendors
 ms:assetid: 20189f76-adc6-48bb-a001-2a06b55001ff
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126113(v=AX.60)
 ms:contentKeyID: 52075290
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

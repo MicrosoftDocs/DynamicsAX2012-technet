@@ -4,7 +4,7 @@ TOCTitle: DepositOverrideColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.CustomerOrderTransactionTableSchema.DepositOverrideColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.customerordertransactiontableschema.depositoverridecolumn(v=AX.60)
 ms:contentKeyID: 65322002
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

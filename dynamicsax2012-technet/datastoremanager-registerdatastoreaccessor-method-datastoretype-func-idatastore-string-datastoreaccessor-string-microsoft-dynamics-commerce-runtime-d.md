@@ -4,7 +4,7 @@ TOCTitle: RegisterDataStoreAccessor Method (DataStoreType, Func(IDataStore, Stri
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreManager.RegisterDataStoreAccessor(Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreType,System.Func{Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore,System.String,Microsoft.Dynamics.Commerce.Runtime.Data.DataStoreAccessor},System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.datastoremanager.registerdatastoreaccessor(v=AX.60)
 ms:contentKeyID: 65317743
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

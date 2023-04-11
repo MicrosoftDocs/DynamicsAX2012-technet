@@ -4,7 +4,7 @@ TOCTitle: (CZE) Close books overview
 ms:assetid: ae47c751-8d47-4068-8eb3-e7873693dd04
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677651(v=AX.60)
 ms:contentKeyID: 49384952
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

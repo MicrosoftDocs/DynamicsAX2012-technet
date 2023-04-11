@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up sales tax codes for intra-community VAT
 ms:assetid: d2eb668c-1df2-4efa-ba9f-afd7f5a54593
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677813(v=AX.60)
 ms:contentKeyID: 49385013
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

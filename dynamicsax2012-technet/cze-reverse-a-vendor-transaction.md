@@ -4,7 +4,7 @@ TOCTitle: (CZE) Reverse a vendor transaction
 ms:assetid: 6d538504-4a47-4705-9491-6b30711df559
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677563(v=AX.60)
 ms:contentKeyID: 49384866
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

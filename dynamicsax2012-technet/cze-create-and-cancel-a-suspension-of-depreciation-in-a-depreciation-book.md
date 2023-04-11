@@ -4,7 +4,7 @@ TOCTitle: (CZE) Create and cancel a suspension of depreciation in a depreciation
 ms:assetid: 6ec4fe1e-59a4-4611-96be-0267e27a95bc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677564(v=AX.60)
 ms:contentKeyID: 49384867
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

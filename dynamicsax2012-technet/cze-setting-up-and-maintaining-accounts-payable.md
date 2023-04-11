@@ -4,7 +4,7 @@ TOCTitle: (CZE) Setting up and maintaining Accounts payable
 ms:assetid: 501ed725-4c27-4b79-b668-0d5769929417
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677526(v=AX.60)
 ms:contentKeyID: 49384830
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

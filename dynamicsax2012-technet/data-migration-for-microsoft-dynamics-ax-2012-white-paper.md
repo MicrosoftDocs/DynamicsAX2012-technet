@@ -4,7 +4,7 @@ TOCTitle: Data Migration for Microsoft Dynamics AX 2012
 ms:assetid: 1160628e-52af-4a39-bd71-f0fbfd6c8539
 ms:mtpsurl: https://technet.microsoft.com/library/Hh943505(v=AX.60)
 ms:contentKeyID: 46305991
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

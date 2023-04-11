@@ -4,7 +4,7 @@ TOCTitle: IsValidSqlDateTime Method (Nullable(DateTime))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DateTimeOffsetExtensions.IsValidSqlDateTime(System.Nullable{System.DateTime})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datetimeoffsetextensions.isvalidsqldatetime(v=AX.60)
 ms:contentKeyID: 65320127
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

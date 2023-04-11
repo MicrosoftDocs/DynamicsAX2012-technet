@@ -4,7 +4,7 @@ TOCTitle: CustomFieldType Enumeration
 ms:assetid: T:Microsoft.Dynamics.Retail.Pos.Contracts.Services.CustomFieldType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.services.customfieldtype(v=AX.60)
 ms:contentKeyID: 47343855
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

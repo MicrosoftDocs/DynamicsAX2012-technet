@@ -4,7 +4,7 @@ TOCTitle: Database administration
 ms:assetid: 218e6e57-3686-4d33-a8a5-b01a00d6d90b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272854(v=AX.60)
 ms:contentKeyID: 36584376
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

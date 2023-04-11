@@ -4,7 +4,7 @@ TOCTitle: (CZE) Setting up year-end opening or closing transactions
 ms:assetid: dfaabaa1-7cf0-487a-82b9-60d933560d21
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710627(v=AX.60)
 ms:contentKeyID: 49385024
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

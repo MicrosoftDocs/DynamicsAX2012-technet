@@ -4,7 +4,7 @@ TOCTitle: DbElementCollection(T) Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/Dn966728(v=AX.60)
 ms:contentKeyID: 65316575
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Customize display templates for an online store
 ms:assetid: fb5d84ba-7d57-486a-b6b1-d7579258ac12
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720877(v=AX.60)
 ms:contentKeyID: 62235499
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

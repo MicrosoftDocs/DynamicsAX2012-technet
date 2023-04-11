@@ -4,7 +4,7 @@ TOCTitle: Cycle counting
 ms:assetid: 90c8763e-9bd7-40ad-998c-68612bca70d5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553179(v=AX.60)
 ms:contentKeyID: 62200117
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

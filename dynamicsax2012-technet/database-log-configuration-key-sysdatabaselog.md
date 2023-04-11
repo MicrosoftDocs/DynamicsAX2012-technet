@@ -4,7 +4,7 @@ TOCTitle: Database Log configuration key  (SysDatabaseLog)
 ms:assetid: 2e6f3c1a-01c8-434f-8e76-22def2c2458e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa552632(v=AX.60)
 ms:contentKeyID: 36916341
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

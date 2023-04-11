@@ -4,7 +4,7 @@ TOCTitle: GenerateKey(T1, T2, T3, T4, T5) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DataCacheAccessor.GenerateKey``5(System.String,``0,``1,``2,``3,``4)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn990649(v=AX.60)
 ms:contentKeyID: 65321588
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

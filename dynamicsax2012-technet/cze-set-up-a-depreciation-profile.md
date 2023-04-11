@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up a depreciation profile
 ms:assetid: a25c341b-fb3a-4942-ad36-2b26b852a706
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677635(v=AX.60)
 ms:contentKeyID: 49384937
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

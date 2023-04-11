@@ -4,7 +4,7 @@ TOCTitle: CustomerResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.CustomerResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.customerresponse_methods(v=AX.60)
 ms:contentKeyID: 65317274
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

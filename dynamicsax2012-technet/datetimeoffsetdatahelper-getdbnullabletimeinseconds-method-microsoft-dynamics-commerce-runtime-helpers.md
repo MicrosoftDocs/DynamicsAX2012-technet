@@ -4,7 +4,7 @@ TOCTitle: GetDbNullableTimeInSeconds Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Helpers.DateTimeOffsetDataHelper.GetDbNullableTimeInSeconds(System.Nullable{System.DateTimeOffset})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.helpers.datetimeoffsetdatahelper.getdbnullabletimeinseconds(v=AX.60)
 ms:contentKeyID: 65316502
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

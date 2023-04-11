@@ -4,7 +4,7 @@ TOCTitle: ReadEntity(T) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseContext.ReadEntity``1(Microsoft.Dynamics.Commerce.Runtime.Data.IDatabaseQuery)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn989094(v=AX.60)
 ms:contentKeyID: 65319050
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up a special movement code for Intrastat
 ms:assetid: 3fc192cd-ce01-4af5-9d32-21a4c855b3e4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874418(v=AX.60)
 ms:contentKeyID: 50619734
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (CZE) Cash and bank management
 ms:assetid: 4028642d-6e2c-4b2d-8734-e5a38bc9174a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677510(v=AX.60)
 ms:contentKeyID: 49384814
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

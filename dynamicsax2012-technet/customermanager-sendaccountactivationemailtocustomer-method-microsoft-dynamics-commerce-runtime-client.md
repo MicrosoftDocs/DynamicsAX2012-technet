@@ -4,7 +4,7 @@ TOCTitle: SendAccountActivationEmailToCustomer Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.CustomerManager.SendAccountActivationEmailToCustomer(System.String,System.String,System.Collections.Generic.ICollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.NameValuePair})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.customermanager.sendaccountactivationemailtocustomer(v=AX.60)
 ms:contentKeyID: 62212850
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

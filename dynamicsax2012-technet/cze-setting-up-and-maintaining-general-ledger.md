@@ -4,7 +4,7 @@ TOCTitle: (CZE) Setting up and maintaining General ledger
 ms:assetid: 9fb10315-ff37-4d0d-a8de-948bd456ee2f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677628(v=AX.60)
 ms:contentKeyID: 49384931
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

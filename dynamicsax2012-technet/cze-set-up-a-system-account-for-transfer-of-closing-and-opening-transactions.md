@@ -4,7 +4,7 @@ TOCTitle: (CZE) Set up a system account for transfer of closing and opening tran
 ms:assetid: afc4a2d9-4b7a-4bc0-b91e-4ccdcc7658d3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677657(v=AX.60)
 ms:contentKeyID: 49384959
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

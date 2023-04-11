@@ -4,7 +4,7 @@ TOCTitle: Customize service contracts
 ms:assetid: f03eab90-9af3-4284-a039-19cdd9903789
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202119(v=AX.60)
 ms:contentKeyID: 35949378
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

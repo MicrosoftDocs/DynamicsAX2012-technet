@@ -4,7 +4,7 @@ TOCTitle: Data security in Microsoft Dynamics AX
 ms:assetid: 1308d31a-552f-4808-b0bb-8d0c91e8b363
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575191(v=AX.60)
 ms:contentKeyID: 39555320
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

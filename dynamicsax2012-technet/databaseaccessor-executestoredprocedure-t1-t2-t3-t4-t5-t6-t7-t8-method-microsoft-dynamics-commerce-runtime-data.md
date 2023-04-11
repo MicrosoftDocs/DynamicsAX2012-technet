@@ -4,7 +4,7 @@ TOCTitle: ExecuteStoredProcedure(T1, T2, T3, T4, T5, T6, T7, T8) Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.DatabaseAccessor.ExecuteStoredProcedure``8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn739594(v=AX.60)
 ms:contentKeyID: 62212910
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: DataValidationException Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataValidationException.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datavalidationexception.datavalidationexception(v=AX.60)
 ms:contentKeyID: 49843096
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

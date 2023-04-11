@@ -4,7 +4,7 @@ TOCTitle: (CZE) Working with General ledger
 ms:assetid: 783bd840-ea16-45ea-82d3-06f6ac0ce316
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677579(v=AX.60)
 ms:contentKeyID: 49384882
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

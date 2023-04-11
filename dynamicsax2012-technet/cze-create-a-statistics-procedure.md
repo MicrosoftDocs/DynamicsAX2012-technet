@@ -4,7 +4,7 @@ TOCTitle: (CZE) Create a statistics procedure
 ms:assetid: 74a2ae9b-4ee1-4318-a1ac-b6e6fad6e641
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874417(v=AX.60)
 ms:contentKeyID: 50619733
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

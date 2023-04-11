@@ -4,7 +4,7 @@ TOCTitle: Customize your workspace
 ms:assetid: 024ffab2-2eef-4e61-a9e9-a7c5321721dd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569693(v=AX.60)
 ms:contentKeyID: 36676364
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

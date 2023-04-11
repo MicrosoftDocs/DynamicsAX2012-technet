@@ -4,7 +4,7 @@ TOCTitle: (CZE) Adjust a fixed asset value
 ms:assetid: 97cfce94-d391-42d1-bdda-f00d80b569ff
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677617(v=AX.60)
 ms:contentKeyID: 49384919
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

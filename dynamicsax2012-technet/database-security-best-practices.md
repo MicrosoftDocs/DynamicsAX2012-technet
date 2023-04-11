@@ -4,7 +4,7 @@ TOCTitle: Database security best practices
 ms:assetid: 5673912e-3b7c-4ec8-a31f-da02d2727797
 ms:mtpsurl: https://technet.microsoft.com/library/Dn385338(v=AX.60)
 ms:contentKeyID: 56554591
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

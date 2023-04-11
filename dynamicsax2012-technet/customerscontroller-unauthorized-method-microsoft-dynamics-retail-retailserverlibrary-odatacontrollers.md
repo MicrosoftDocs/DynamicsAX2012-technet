@@ -4,7 +4,7 @@ TOCTitle: Unauthorized Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CustomersController.Unauthorized
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.customerscontroller.unauthorized(v=AX.60)
 ms:contentKeyID: 62203119
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:
