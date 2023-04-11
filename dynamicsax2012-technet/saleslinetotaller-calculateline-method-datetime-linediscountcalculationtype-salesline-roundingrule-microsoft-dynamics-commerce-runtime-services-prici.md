@@ -4,7 +4,7 @@ TOCTitle: CalculateLine Method (DateTime, LineDiscountCalculationType, SalesLine
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.SalesLineTotaller.CalculateLine(System.DateTime,Microsoft.Dynamics.Commerce.Runtime.DataModel.LineDiscountCalculationType,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine,Microsoft.Dynamics.Commerce.Runtime.DataModel.RoundingRule)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.saleslinetotaller.calculateline(v=AX.60)
 ms:contentKeyID: 65323002
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

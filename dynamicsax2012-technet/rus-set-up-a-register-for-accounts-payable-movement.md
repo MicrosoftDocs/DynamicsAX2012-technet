@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for accounts payable movement
 ms:assetid: 674bcaac-50ca-4bf1-9847-0fb359355377
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665463(v=AX.60)
 ms:contentKeyID: 49387550
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

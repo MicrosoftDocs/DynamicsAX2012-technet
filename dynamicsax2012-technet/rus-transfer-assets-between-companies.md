@@ -4,7 +4,7 @@ TOCTitle: (RUS) Transfer assets between companies
 ms:assetid: 37f94824-4ba9-4a04-b3dc-b863af83050a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665281(v=AX.60)
 ms:contentKeyID: 49387370
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

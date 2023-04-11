@@ -4,7 +4,7 @@ TOCTitle: Service integration architecture with Windows Azure Service Bus Relay
 ms:assetid: f7b102b5-b8c4-4e96-92ad-f287bf81fc8f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720290(v=AX.60)
 ms:contentKeyID: 62221430
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---

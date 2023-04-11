@@ -4,7 +4,7 @@ TOCTitle: Security in Axd<Document> and Ax<Table> Classes
 ms:assetid: bd3c5e79-ad64-4e06-9f1a-2457292c2d17
 ms:mtpsurl: https://technet.microsoft.com/library/Aa862079(v=AX.60)
 ms:contentKeyID: 35250031
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

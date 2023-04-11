@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Use one customer payment to settle multiple invoices that s
 ms:assetid: 2c04c15c-6355-4f4b-b7fb-9a73c547b232
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545517(v=AX.60)
 ms:contentKeyID: 37832497
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

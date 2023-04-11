@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up fixed asset parameters for vehicles and realty
 ms:assetid: ed769d86-7cf4-4138-bb8d-a20284e0bf2e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678593(v=AX.60)
 ms:contentKeyID: 49388075
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

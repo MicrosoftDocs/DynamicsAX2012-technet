@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up parameters for alcohol declarations and journals
 ms:assetid: efe47d6c-54f2-4825-acfb-e083862e52b0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn494962(v=AX.60)
 ms:contentKeyID: 60513662
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

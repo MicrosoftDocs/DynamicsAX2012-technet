@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a dimension group for an item
 ms:assetid: 37ff308d-efd6-4022-9462-f134bbf67f19
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733201(v=AX.60)
 ms:contentKeyID: 49685169
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

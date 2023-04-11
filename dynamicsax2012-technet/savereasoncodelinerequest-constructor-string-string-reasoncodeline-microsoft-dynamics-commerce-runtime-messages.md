@@ -4,7 +4,7 @@ TOCTitle: SaveReasonCodeLineRequest Constructor (String, String, ReasonCodeLine)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveReasonCodeLineRequest.#ctor(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCodeLine)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savereasoncodelinerequest.savereasoncodelinerequest(v=AX.60)
 ms:contentKeyID: 62207861
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

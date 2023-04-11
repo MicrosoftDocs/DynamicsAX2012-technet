@@ -4,7 +4,7 @@ TOCTitle: SavePickingListServiceRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SavePickingListServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savepickinglistservicerequest(v=AX.60)
 ms:contentKeyID: 62214803
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up dynamic table requisites for XML format
 ms:assetid: 29359e1d-33a0-496e-8d39-cf910556806c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677492(v=AX.60)
 ms:contentKeyID: 49384795
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

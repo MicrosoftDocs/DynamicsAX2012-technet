@@ -4,7 +4,7 @@ TOCTitle: (RUS) View the balance of a fixed asset
 ms:assetid: 28fc24bf-17cf-4670-add9-a33226766b65
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665221(v=AX.60)
 ms:contentKeyID: 49387311
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

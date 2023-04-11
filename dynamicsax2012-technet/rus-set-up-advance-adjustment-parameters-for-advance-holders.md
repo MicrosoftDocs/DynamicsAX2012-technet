@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up advance adjustment parameters for advance holders
 ms:assetid: 8d87ae88-39cf-4e5d-a50d-a932b6aae78c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853204(v=AX.60)
 ms:contentKeyID: 50396485
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

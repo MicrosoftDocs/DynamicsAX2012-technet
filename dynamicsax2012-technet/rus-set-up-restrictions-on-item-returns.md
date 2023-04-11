@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up restrictions on item returns
 ms:assetid: 129de8fa-74d3-4287-8085-48df3ce6ad07
 ms:mtpsurl: https://technet.microsoft.com/library/Dn530769(v=AX.60)
 ms:contentKeyID: 59683047
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

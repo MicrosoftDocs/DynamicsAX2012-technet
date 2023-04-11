@@ -4,7 +4,7 @@ TOCTitle: Schedule production by using a Gantt chart
 ms:assetid: e0d08111-a65a-4ba5-9398-b20b2a8bf61b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243208(v=AX.60)
 ms:contentKeyID: 44081054
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

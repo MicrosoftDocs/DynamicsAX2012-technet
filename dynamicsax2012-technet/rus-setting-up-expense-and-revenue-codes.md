@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up expense and revenue codes
 ms:assetid: fe6b2c14-5f01-4afd-8cca-6d8004290c75
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678664(v=AX.60)
 ms:contentKeyID: 49388146
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

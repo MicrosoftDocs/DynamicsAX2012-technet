@@ -4,7 +4,7 @@ TOCTitle: Sell gift cards or add funds to them
 ms:assetid: 945b56ae-58a5-4c41-b5fc-82b617d5eec2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497803(v=AX.60)
 ms:contentKeyID: 62200121
-author: Khairunj
+author: tonyafehr
 ms.date: 01/12/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Void an expense report
 ms:assetid: 7e11114b-dc8d-41f0-b72a-51a13e5faf2f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678399(v=AX.60)
 ms:contentKeyID: 49387629
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

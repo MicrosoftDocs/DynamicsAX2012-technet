@@ -4,7 +4,7 @@ TOCTitle: SaveOfflineTransactionsRequest Constructor (Byte )
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveOfflineTransactionsRequest.#ctor(System.Byte[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.saveofflinetransactionsrequest.saveofflinetransactionsrequest(v=AX.60)
 ms:contentKeyID: 65320564
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

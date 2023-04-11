@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up depreciation methods
 ms:assetid: 3cf09a99-3539-4e35-baaf-501b6d6e0d12
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853175(v=AX.60)
 ms:contentKeyID: 50396456
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

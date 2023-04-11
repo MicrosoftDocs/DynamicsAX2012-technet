@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for warehoused items
 ms:assetid: af4e27ad-254f-40ef-978c-3815f400d392
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839683(v=AX.60)
 ms:contentKeyID: 50396829
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

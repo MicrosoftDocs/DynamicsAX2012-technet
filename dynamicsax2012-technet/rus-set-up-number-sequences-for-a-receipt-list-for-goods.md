@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up number sequences for a receipt list for goods
 ms:assetid: 9815d452-97aa-4af9-b652-ad64b6490a55
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678507(v=AX.60)
 ms:contentKeyID: 49387735
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

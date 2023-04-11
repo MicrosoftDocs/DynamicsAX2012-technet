@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up tax correspondence with budget revenue codes
 ms:assetid: fc9e3db0-a467-42b1-a593-8c633aad9ccb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678661(v=AX.60)
 ms:contentKeyID: 49388143
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

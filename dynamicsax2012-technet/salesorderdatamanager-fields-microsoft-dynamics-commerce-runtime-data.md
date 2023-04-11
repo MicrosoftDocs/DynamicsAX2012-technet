@@ -4,7 +4,7 @@ TOCTitle: SalesOrderDataManager Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.Data.SalesOrderDataManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.salesorderdatamanager_fields(v=AX.60)
 ms:contentKeyID: 62207706
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

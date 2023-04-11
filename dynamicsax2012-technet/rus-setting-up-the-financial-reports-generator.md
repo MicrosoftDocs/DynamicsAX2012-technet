@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up the Financial reports generator
 ms:assetid: 6eeedd53-3286-4d29-9606-df3a656964f1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678346(v=AX.60)
 ms:contentKeyID: 49387576
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

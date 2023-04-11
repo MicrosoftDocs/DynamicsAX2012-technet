@@ -4,7 +4,7 @@ TOCTitle: Sales Order Document Service
 ms:assetid: 753b1a89-0689-48a5-8eb8-484b56c7d18b
 ms:mtpsurl: https://technet.microsoft.com/library/Cc967401(v=AX.60)
 ms:contentKeyID: 35245957
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: TenderLine Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveTenderLineRequest.TenderLine
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savetenderlinerequest.tenderline(v=AX.60)
 ms:contentKeyID: 62213754
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

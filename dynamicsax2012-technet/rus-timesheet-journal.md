@@ -4,7 +4,7 @@ TOCTitle: (RUS) Timesheet journal
 ms:assetid: a31b20e6-3fb9-49bb-b4a0-c67539441eca
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435954(v=AX.60)
 ms:contentKeyID: 56730926
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

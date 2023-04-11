@@ -4,7 +4,7 @@ TOCTitle: Sales tax configuration key (LedgerBasicSalesTax)
 ms:assetid: cbf6363c-70bd-48a2-9960-1bf9d685216a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467568(v=AX.60)
 ms:contentKeyID: 36991714
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Transit account function
 ms:assetid: beabcd43-5b5c-4a98-b488-83dda5ee8e5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733280(v=AX.60)
 ms:contentKeyID: 49685247
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

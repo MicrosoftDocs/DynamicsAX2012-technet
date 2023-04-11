@@ -4,7 +4,7 @@ TOCTitle: (RUS) Specify an inventory profile in the BOM line form
 ms:assetid: 502276ef-c27c-4fd5-b7c5-f6b42ba23749
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733223(v=AX.60)
 ms:contentKeyID: 49685190
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

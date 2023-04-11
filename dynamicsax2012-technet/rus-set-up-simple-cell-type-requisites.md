@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up simple cell type requisites
 ms:assetid: baff70cb-27ec-4a75-b1ea-ba4fa59f8c50
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677681(v=AX.60)
 ms:contentKeyID: 49384983
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Select invoices to settle with payments on behalf of multiple legal en
 ms:assetid: 462738d8-b17f-4529-9d49-274862f9d4eb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231384(v=AX.60)
 ms:contentKeyID: 36056901
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

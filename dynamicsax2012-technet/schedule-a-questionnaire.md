@@ -4,7 +4,7 @@ TOCTitle: Schedule a questionnaire
 ms:assetid: d34d9230-b734-4aa0-9118-2704cd0101d0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551057(v=AX.60)
 ms:contentKeyID: 41702393
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

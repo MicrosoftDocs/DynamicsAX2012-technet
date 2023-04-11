@@ -4,7 +4,7 @@ TOCTitle: (SAU) Set up a report name, item code, and asset group for Zakat repor
 ms:assetid: 5b247d76-8ab8-4a9b-ac4e-b29b6fcaa9ba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209119(v=AX.60)
 ms:contentKeyID: 36057557
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

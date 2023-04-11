@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up charges for sales orders
 ms:assetid: 4ca46a8a-e529-4f2a-9199-240f32065e4a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733218(v=AX.60)
 ms:contentKeyID: 49685186
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

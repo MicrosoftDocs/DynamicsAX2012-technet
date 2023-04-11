@@ -4,7 +4,7 @@ TOCTitle: SelectedLineDeliveryOption Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.SelectedLineDeliveryOption.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.selectedlinedeliveryoption.selectedlinedeliveryoption(v=AX.60)
 ms:contentKeyID: 65318039
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

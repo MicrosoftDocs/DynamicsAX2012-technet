@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up calculation sequences, counters, and deferred expense wri
 ms:assetid: 2ac680a6-36ad-40e7-93d3-b889b8fcbecc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665229(v=AX.60)
 ms:contentKeyID: 49387318
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

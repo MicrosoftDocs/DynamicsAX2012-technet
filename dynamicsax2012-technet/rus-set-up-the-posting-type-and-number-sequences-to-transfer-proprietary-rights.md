@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the posting type and number sequences to transfer proprie
 ms:assetid: 1e6bc95a-03aa-4bc2-9eb1-387eaac0b1f7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870988(v=AX.60)
 ms:contentKeyID: 50492707
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

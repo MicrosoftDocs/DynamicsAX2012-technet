@@ -4,7 +4,7 @@ TOCTitle: (RUS) Settle sales transactions periodically
 ms:assetid: a9c805d8-d2c0-4026-a1a5-a03da464d755
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711487(v=AX.60)
 ms:contentKeyID: 49387812
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Staff administration overview
 ms:assetid: adaf5215-6c07-4d81-a426-d898e6ae2e49
 ms:mtpsurl: https://technet.microsoft.com/library/Dn435956(v=AX.60)
 ms:contentKeyID: 56730927
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

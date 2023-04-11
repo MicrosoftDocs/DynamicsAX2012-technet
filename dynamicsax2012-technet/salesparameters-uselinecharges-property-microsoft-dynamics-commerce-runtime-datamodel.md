@@ -4,7 +4,7 @@ TOCTitle: UseLineCharges Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesParameters.UseLineCharges
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesparameters.uselinecharges(v=AX.60)
 ms:contentKeyID: 49849766
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

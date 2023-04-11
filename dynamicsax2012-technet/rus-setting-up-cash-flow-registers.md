@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up cash flow registers
 ms:assetid: a7f14d0a-a91e-4a67-9bc1-64a9da456c93
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678583(v=AX.60)
 ms:contentKeyID: 49387811
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

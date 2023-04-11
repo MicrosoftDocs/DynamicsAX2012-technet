@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an expression requisite type
 ms:assetid: c642f32e-7d8e-487c-be91-fa82094b62a1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677695(v=AX.60)
 ms:contentKeyID: 49384994
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

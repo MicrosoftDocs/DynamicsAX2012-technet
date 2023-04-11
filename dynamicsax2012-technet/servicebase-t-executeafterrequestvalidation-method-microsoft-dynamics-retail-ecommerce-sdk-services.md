@@ -4,7 +4,7 @@ TOCTitle: ExecuteAfterRequestValidation Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase`1.ExecuteAfterRequestValidation(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceResponse,System.Action)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn998536(v=AX.60)
 ms:contentKeyID: 65316969
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

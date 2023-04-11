@@ -4,7 +4,7 @@ TOCTitle: (RUS) View inquiries and report overviews
 ms:assetid: 360e7f48-5271-4f5c-85fd-6c940612e054
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497733(v=AX.60)
 ms:contentKeyID: 62200261
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

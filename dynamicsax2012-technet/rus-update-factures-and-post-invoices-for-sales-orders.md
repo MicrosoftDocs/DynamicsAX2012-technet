@@ -4,7 +4,7 @@ TOCTitle: (RUS) Update factures and post invoices for sales orders
 ms:assetid: b9edf944-bc8f-4df6-a84f-eceb9ae4759a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733273(v=AX.60)
 ms:contentKeyID: 49685241
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up employee compensation parameters
 ms:assetid: 3a85457c-2d46-4b02-8d76-f08704aaa65a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn502638(v=AX.60)
 ms:contentKeyID: 59361493
-author: Khairunj
+author: tonyafehr
 ms.date: 07/02/2014
 mtps_version: v=AX.60
 f1_keywords:

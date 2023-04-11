@@ -4,7 +4,7 @@ TOCTitle: Servers in the Microsoft Dynamics AX environment
 ms:assetid: 1369d6c1-b19c-436b-b726-49a26c15867c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496913(v=AX.60)
 ms:contentKeyID: 35132554
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

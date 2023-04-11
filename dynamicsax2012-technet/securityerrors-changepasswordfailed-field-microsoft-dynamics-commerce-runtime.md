@@ -4,7 +4,7 @@ TOCTitle: ChangePasswordFailed Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.SecurityErrors.ChangePasswordFailed
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.securityerrors.changepasswordfailed(v=AX.60)
 ms:contentKeyID: 62212155
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

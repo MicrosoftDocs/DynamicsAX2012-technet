@@ -4,7 +4,7 @@ TOCTitle: SerializeObjectToXml Method (Object, Type)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializationHelper.SerializeObjectToXml(System.Object,System.Type)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.serializationhelper.serializeobjecttoxml(v=AX.60)
 ms:contentKeyID: 49822946
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

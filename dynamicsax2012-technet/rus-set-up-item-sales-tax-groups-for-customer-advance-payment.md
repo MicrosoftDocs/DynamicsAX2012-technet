@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up item sales tax groups for customer advance payment
 ms:assetid: e0c45d13-0db0-4d32-8ca1-570bd2242433
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711693(v=AX.60)
 ms:contentKeyID: 49388016
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

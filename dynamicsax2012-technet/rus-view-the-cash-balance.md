@@ -4,7 +4,7 @@ TOCTitle: (RUS) View the cash balance
 ms:assetid: 97c8f6cd-c29b-429b-8b9d-331965233980
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678514(v=AX.60)
 ms:contentKeyID: 49387743
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

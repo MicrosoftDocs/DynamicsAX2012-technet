@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the calculation of land tax
 ms:assetid: 18882685-d837-4a92-9a76-98996f81ee1c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711439(v=AX.60)
 ms:contentKeyID: 49387258
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

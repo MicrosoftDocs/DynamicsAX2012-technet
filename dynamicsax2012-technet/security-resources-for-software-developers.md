@@ -4,7 +4,7 @@ TOCTitle: Security resources for software developers
 ms:assetid: b1fd4f2f-d0d5-4615-b7b3-e4862a2d209a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn385345(v=AX.60)
 ms:contentKeyID: 56554598
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

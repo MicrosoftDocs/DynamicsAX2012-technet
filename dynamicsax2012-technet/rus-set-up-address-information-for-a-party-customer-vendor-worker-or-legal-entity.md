@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up address information for a party, customer, vendor, worker
 ms:assetid: 8be84c8a-8758-4d12-9ed7-9e0e1b92e637
 ms:mtpsurl: https://technet.microsoft.com/library/JJ735280(v=AX.60)
 ms:contentKeyID: 49693281
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

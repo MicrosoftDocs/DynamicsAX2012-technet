@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Perform in-place upgrade to AX 2012 R2 or AX 2012 R3'
 ms:assetid: eb8193f4-0318-427f-bcc9-2919f47afb8f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733502(v=AX.60)
 ms:contentKeyID: 49685466
-author: Khairunj
+author: tonyafehr
 ms.date: 07/29/2015
 mtps_version: v=AX.60
 ---

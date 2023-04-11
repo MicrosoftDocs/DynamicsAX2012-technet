@@ -4,7 +4,7 @@ TOCTitle: SaveReasonCodeLineResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveReasonCodeLineResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savereasoncodelineresponse.savereasoncodelineresponse(v=AX.60)
 ms:contentKeyID: 62209195
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

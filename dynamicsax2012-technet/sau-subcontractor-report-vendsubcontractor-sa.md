@@ -4,7 +4,7 @@ TOCTitle: (SAU) Subcontractor report (VendSubContractor_SA)
 ms:assetid: f2a0f051-1c60-4fa9-a491-d6b0499a43e4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352297(v=AX.60)
 ms:contentKeyID: 36687925
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

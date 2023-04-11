@@ -4,7 +4,7 @@ TOCTitle: (RUS) Settle partial payments for customers
 ms:assetid: f8e48625-cf7d-45f6-9a0a-7ebbb849241e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ735282(v=AX.60)
 ms:contentKeyID: 49693283
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

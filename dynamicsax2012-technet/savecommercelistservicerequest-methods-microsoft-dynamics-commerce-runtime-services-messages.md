@@ -4,7 +4,7 @@ TOCTitle: SaveCommerceListServiceRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveCommerceListServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savecommercelistservicerequest_methods(v=AX.60)
 ms:contentKeyID: 62211862
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

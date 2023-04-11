@@ -4,7 +4,7 @@ TOCTitle: (RUS) View the register tree structure
 ms:assetid: d946c9ff-7fda-493b-95cc-2034b4720c9a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711676(v=AX.60)
 ms:contentKeyID: 49387999
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

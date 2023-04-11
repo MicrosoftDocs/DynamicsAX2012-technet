@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up account interval groups
 ms:assetid: b495ed93-29dd-4e93-aadc-d99b333cb1b7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923582(v=AX.60)
 ms:contentKeyID: 52075428
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

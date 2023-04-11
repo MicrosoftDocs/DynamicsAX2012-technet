@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up tax accounting for sales on shipment
 ms:assetid: 5f05d12f-d88e-4a46-9c7d-c3d9c579233a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665435(v=AX.60)
 ms:contentKeyID: 49387523
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

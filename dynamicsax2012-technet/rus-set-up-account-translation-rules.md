@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up account translation rules
 ms:assetid: 94e69904-41fe-4494-9764-79ec00abc091
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923562(v=AX.60)
 ms:contentKeyID: 52075408
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

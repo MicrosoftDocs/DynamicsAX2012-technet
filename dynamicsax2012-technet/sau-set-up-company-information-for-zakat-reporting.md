@@ -4,7 +4,7 @@ TOCTitle: (SAU) Set up company information for Zakat reporting
 ms:assetid: e353a587-c199-4bf1-ae52-f727b824fe24
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227428(v=AX.60)
 ms:contentKeyID: 36059721
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

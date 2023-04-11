@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Settle a partial vendor payment that has discounts on vendo
 ms:assetid: 28083a6a-d77c-43f0-a5b6-c8a219d94f00
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580592(v=AX.60)
 ms:contentKeyID: 39519076
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

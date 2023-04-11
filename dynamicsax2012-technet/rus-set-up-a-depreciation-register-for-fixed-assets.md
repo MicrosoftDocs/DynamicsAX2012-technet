@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a depreciation register for fixed assets
 ms:assetid: f5192940-04c8-42dd-be82-a792adad63c5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678606(v=AX.60)
 ms:contentKeyID: 49388088
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Settle a partial customer payment before the discount date 
 ms:assetid: de9b60bb-4530-442b-9a76-b054b3d9fd1a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545534(v=AX.60)
 ms:contentKeyID: 37832539
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: SalesInvoiceLine Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesInvoiceLine
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salesinvoiceline_methods(v=AX.60)
 ms:contentKeyID: 62210262
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

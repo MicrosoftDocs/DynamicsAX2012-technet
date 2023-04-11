@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up posting profiles for accounting vouchers
 ms:assetid: fb18ed81-c0a3-4178-a760-b0209e0c957d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678654(v=AX.60)
 ms:contentKeyID: 49388136
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

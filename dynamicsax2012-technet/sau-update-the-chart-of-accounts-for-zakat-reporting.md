@@ -4,7 +4,7 @@ TOCTitle: (SAU) Update the chart of accounts for Zakat reporting
 ms:assetid: 34cb529b-bbf7-4769-8c1c-b24eebdc651f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242171(v=AX.60)
 ms:contentKeyID: 36056556
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

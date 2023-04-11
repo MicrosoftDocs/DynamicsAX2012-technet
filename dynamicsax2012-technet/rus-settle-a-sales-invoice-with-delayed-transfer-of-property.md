@@ -4,7 +4,7 @@ TOCTitle: (RUS) Settle a sales invoice with delayed transfer of property
 ms:assetid: 9a5b6068-ad63-4086-a9f2-80c0ca0cd3e1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853208(v=AX.60)
 ms:contentKeyID: 50396489
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

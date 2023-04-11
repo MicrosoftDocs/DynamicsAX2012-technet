@@ -4,7 +4,7 @@ TOCTitle: Sales tax by customer report (SalesTaxByCustomer)
 ms:assetid: 75bb235a-48d6-4684-a3e0-9055fc11df9c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa597008(v=AX.60)
 ms:contentKeyID: 43894481
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

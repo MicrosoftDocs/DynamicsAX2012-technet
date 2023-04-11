@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up officials who generate a transportation invoice and a job
 ms:assetid: 7a26496d-2d00-4266-ba86-0ff1639c0ec7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678380(v=AX.60)
 ms:contentKeyID: 49387610
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

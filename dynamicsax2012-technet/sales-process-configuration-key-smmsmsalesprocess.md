@@ -4,7 +4,7 @@ TOCTitle: Sales process configuration key (smmSMSalesProcess)
 ms:assetid: 40a433a2-b24a-43b4-9a18-48469b952bb1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416672(v=AX.60)
 ms:contentKeyID: 36931829
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

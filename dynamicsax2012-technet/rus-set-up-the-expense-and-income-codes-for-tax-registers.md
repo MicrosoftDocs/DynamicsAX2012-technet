@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the expense and income codes for tax registers
 ms:assetid: 64d41374-a3e4-46b4-9026-37681006df63
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665455(v=AX.60)
 ms:contentKeyID: 49387542
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up item details for NVFAs
 ms:assetid: 47833ca5-5bdc-44d9-a2ae-bd37548f04a6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911371(v=AX.60)
 ms:contentKeyID: 52075375
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: SearchStoreRequest Constructor (SearchStoreCriteria, QueryResultSettin
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SearchStoreRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SearchStoreCriteria,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.searchstorerequest.searchstorerequest(v=AX.60)
 ms:contentKeyID: 65323135
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a dimension set for dimensions control for settlements
 ms:assetid: 669e7bc8-d69e-4ab2-93be-50f73ffe45c4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665461(v=AX.60)
 ms:contentKeyID: 49387548
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

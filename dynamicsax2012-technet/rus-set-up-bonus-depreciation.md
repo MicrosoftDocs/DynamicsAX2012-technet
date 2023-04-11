@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up bonus depreciation
 ms:assetid: 93a721c1-af4d-4f08-ab44-ea8f33619a80
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923561(v=AX.60)
 ms:contentKeyID: 52075407
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

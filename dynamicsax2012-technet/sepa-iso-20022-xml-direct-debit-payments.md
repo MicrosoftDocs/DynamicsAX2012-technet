@@ -4,7 +4,7 @@ TOCTitle: SEPA (ISO 20022 XML) direct debit payments
 ms:assetid: 786aec5d-548d-4d59-b6a9-f1f855a1ad64
 ms:mtpsurl: https://technet.microsoft.com/library/JJ571733(v=AX.60)
 ms:contentKeyID: 48770977
-author: Khairunj
+author: tonyafehr
 ms.date: 02/21/2017
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Security Considerations Creating a Report
 ms:assetid: 3561ba22-d9af-4333-9b95-2c066e903397
 ms:mtpsurl: https://technet.microsoft.com/library/Cc596325(v=AX.60)
 ms:contentKeyID: 28119339
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 dev_langs:

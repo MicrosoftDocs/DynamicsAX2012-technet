@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for goods issued
 ms:assetid: c1ab0765-2471-437e-b30e-26fa9a21802c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839687(v=AX.60)
 ms:contentKeyID: 50396833
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

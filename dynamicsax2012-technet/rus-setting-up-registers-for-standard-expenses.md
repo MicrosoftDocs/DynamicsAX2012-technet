@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up registers for standard expenses
 ms:assetid: ed85f43d-e181-4e33-910c-7a735cda7fdd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678595(v=AX.60)
 ms:contentKeyID: 49388078
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

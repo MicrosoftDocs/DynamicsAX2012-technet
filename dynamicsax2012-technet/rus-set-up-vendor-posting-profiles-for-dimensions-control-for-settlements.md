@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up vendor posting profiles for dimensions control for settle
 ms:assetid: 5700540f-f6cc-4cce-b8ab-ff55de75cb42
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665395(v=AX.60)
 ms:contentKeyID: 49387483
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

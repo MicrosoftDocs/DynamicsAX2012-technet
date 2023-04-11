@@ -4,7 +4,7 @@ TOCTitle: Select invoices to pay on behalf of multiple legal entities
 ms:assetid: 40f1d2e6-66e3-4f27-9cc5-e416f5065940
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231357(v=AX.60)
 ms:contentKeyID: 36056722
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

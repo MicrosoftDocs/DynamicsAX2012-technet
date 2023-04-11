@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an inventory profile in the Vendors form
 ms:assetid: 74502081-b145-4839-a1f3-a0447d9eea5a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733241(v=AX.60)
 ms:contentKeyID: 49685208
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

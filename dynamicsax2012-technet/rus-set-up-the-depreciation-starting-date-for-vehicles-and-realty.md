@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the depreciation starting date for vehicles and realty
 ms:assetid: 0216484a-7ebf-4c72-8c28-aca64b315598
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711343(v=AX.60)
 ms:contentKeyID: 49387161
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

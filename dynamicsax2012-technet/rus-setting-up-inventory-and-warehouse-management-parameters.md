@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up Inventory and warehouse management parameters
 ms:assetid: df75071f-7abe-46af-b2b8-de289b830c08
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711700(v=AX.60)
 ms:contentKeyID: 49388024
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

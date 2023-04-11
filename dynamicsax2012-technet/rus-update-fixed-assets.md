@@ -4,7 +4,7 @@ TOCTitle: (RUS) Update fixed assets
 ms:assetid: 4c49de0a-e192-43d6-a348-3753f91869e5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665358(v=AX.60)
 ms:contentKeyID: 49387446
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

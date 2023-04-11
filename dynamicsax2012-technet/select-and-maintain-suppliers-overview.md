@@ -4,7 +4,7 @@ TOCTitle: Select and maintain suppliers overview
 ms:assetid: 196a65e4-52f8-427c-8809-2756914cf770
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208449(v=AX.60)
 ms:contentKeyID: 36056111
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

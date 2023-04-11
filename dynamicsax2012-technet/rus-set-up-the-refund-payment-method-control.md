@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the refund payment method control
 ms:assetid: 863fb5e7-b643-4ffe-9b52-6342474e7670
 ms:mtpsurl: https://technet.microsoft.com/library/Dn621056(v=AX.60)
 ms:contentKeyID: 62200271
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Write off a manually created deferral
 ms:assetid: 6181a5e5-49a7-44fe-a6d2-c128a6d4caad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665441(v=AX.60)
 ms:contentKeyID: 49387530
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

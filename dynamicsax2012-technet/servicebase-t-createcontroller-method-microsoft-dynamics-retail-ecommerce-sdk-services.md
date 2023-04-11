@@ -4,7 +4,7 @@ TOCTitle: CreateController Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase`1.CreateController
 ms:mtpsurl: https://technet.microsoft.com/library/Dn998557(v=AX.60)
 ms:contentKeyID: 65316988
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

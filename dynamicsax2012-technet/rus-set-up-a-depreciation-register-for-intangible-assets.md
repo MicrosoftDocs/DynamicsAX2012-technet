@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a depreciation register for intangible assets
 ms:assetid: 7f2d4731-c5f4-4b10-afa4-08f08c5c3153
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678403(v=AX.60)
 ms:contentKeyID: 49387633
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

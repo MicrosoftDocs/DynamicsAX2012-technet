@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for accounts receivable movement
 ms:assetid: 53445531-7a79-4e89-99f4-a546c618a6cd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665387(v=AX.60)
 ms:contentKeyID: 49387475
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

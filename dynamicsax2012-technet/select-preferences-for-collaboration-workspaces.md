@@ -4,7 +4,7 @@ TOCTitle: Select preferences for collaboration workspaces
 ms:assetid: eafe821e-d0fa-4cd3-bcdd-5f85ae846edb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227484(v=AX.60)
 ms:contentKeyID: 36059867
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User

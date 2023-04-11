@@ -4,7 +4,7 @@ TOCTitle: PurgeSalesTransactions Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.SalesOrderDataManager.PurgeSalesTransactions(System.Int64,System.String,System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.salesorderdatamanager.purgesalestransactions(v=AX.60)
 ms:contentKeyID: 65319220
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

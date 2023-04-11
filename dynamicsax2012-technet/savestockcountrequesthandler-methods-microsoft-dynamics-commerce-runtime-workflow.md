@@ -4,7 +4,7 @@ TOCTitle: SaveStockCountRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.SaveStockCountRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.savestockcountrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62211072
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

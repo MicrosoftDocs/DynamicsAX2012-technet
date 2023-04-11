@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the terms of delivery for customs clearance of items
 ms:assetid: 80b8355a-e6e5-457f-88c0-841cf58eb6ed
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733247(v=AX.60)
 ms:contentKeyID: 49685214
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

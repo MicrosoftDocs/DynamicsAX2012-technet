@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for standard expenses rate for deferred period
 ms:assetid: 735ba5b7-8fc5-44a9-ac16-a0f577f0aa6b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678362(v=AX.60)
 ms:contentKeyID: 49387592
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

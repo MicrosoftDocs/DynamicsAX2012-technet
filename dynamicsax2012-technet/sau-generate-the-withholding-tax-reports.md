@@ -4,7 +4,7 @@ TOCTitle: (SAU) Generate the withholding tax reports
 ms:assetid: 8d742be6-b29b-492f-ba6c-c604e21d35cb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209357(v=AX.60)
 ms:contentKeyID: 36058502
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

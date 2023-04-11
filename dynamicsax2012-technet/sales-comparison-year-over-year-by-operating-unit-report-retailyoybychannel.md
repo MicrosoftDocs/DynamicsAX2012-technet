@@ -4,7 +4,7 @@ TOCTitle: Sales comparison year over year by operating unit report(RetailYoYByCh
 ms:assetid: c1f58976-c2f0-4a60-978c-ae342629675b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ851130(v=AX.60)
 ms:contentKeyID: 50173440
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

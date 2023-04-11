@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Settle a partial vendor payment before the discount date wi
 ms:assetid: 0691c446-4cbf-4f39-900d-4a4541502ab4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580562(v=AX.60)
 ms:contentKeyID: 39519038
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

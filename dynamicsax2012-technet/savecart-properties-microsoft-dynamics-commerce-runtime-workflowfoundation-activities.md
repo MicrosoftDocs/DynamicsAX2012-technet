@@ -4,7 +4,7 @@ TOCTitle: SaveCart Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.SaveCart
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.savecart_properties(v=AX.60)
 ms:contentKeyID: 65322437
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

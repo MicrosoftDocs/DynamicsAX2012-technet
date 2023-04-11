@@ -4,7 +4,7 @@ TOCTitle: Schedule and run jobs in Retail Scheduler
 ms:assetid: fd0e4d1a-26ec-4ad3-861c-c71b238b4387
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710363(v=AX.60)
 ms:contentKeyID: 49384244
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

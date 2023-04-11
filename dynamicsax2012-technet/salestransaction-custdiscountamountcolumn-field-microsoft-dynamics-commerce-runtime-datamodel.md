@@ -4,7 +4,7 @@ TOCTitle: CustDiscountAmountColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction.CustDiscountAmountColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salestransaction.custdiscountamountcolumn(v=AX.60)
 ms:contentKeyID: 65320675
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

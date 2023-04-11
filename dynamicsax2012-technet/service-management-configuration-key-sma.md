@@ -4,7 +4,7 @@ TOCTitle: Service management configuration key (SMA)
 ms:assetid: bdfa4da9-34bf-45b0-b790-f3bcc66c5dc5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa557039(v=AX.60)
 ms:contentKeyID: 43895312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

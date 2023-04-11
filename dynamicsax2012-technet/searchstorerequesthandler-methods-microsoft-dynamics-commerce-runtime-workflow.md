@@ -4,7 +4,7 @@ TOCTitle: SearchStoreRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.SearchStoreRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.searchstorerequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62211086
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

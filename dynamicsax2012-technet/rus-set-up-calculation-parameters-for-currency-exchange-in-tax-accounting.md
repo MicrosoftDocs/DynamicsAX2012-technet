@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up calculation parameters for currency exchange in tax accou
 ms:assetid: 9d812638-4788-4ad3-90c8-dc8d9d1414f3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ879296(v=AX.60)
 ms:contentKeyID: 50639115
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (SAU) Generate Zakat reports
 ms:assetid: fafe62f6-d079-4215-9fad-4cb5c3400216
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227570(v=AX.60)
 ms:contentKeyID: 36060075
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

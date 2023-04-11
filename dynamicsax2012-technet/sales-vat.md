@@ -4,7 +4,7 @@ TOCTitle: " sales VAT"
 ms:assetid: DynamicsAXGlossary.2015321
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.2015321(v=AX.60)
 ms:contentKeyID: 62830132
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Service status and progress field interaction
 ms:assetid: 1a0773eb-d703-43fa-810c-7b2b7232607b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499092(v=AX.60)
 ms:contentKeyID: 36056117
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

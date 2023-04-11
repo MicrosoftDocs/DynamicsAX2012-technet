@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for the calculation of constant tax difference
 ms:assetid: af149ef9-8141-429d-83b2-882b0ceec396
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839685(v=AX.60)
 ms:contentKeyID: 50396831
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

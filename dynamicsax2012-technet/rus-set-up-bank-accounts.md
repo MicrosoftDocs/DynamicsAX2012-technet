@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up bank accounts
 ms:assetid: 77e70933-5225-4533-a1ad-bf894ae458d5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678375(v=AX.60)
 ms:contentKeyID: 49387605
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up document templates
 ms:assetid: 902542b9-ac80-4658-8fa3-fd071a09e8af
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677608(v=AX.60)
 ms:contentKeyID: 49384911
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

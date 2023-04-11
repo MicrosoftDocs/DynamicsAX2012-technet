@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the ledger accounts for expense and income codes
 ms:assetid: dff72dd6-4ce3-48fc-a311-5dbe5396264f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711691(v=AX.60)
 ms:contentKeyID: 49388013
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

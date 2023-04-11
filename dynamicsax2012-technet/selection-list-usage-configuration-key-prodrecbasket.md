@@ -4,7 +4,7 @@ TOCTitle: Selection list usage configuration key (ProdRecBasket)
 ms:assetid: 42958c19-40d8-4672-88ab-e40ed3942d78
 ms:mtpsurl: https://technet.microsoft.com/library/Dn782846(v=AX.60)
 ms:contentKeyID: 62817385
-author: Khairunj
+author: tonyafehr
 ms.date: 09/03/2014
 mtps_version: v=AX.60
 ---

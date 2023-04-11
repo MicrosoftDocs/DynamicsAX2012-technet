@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a dimension group
 ms:assetid: 7b63fc27-8289-497b-ba2e-8216b9bf584d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923547(v=AX.60)
 ms:contentKeyID: 52075395
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

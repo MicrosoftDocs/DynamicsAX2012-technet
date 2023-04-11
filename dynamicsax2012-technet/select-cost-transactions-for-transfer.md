@@ -4,7 +4,7 @@ TOCTitle: Select cost transactions for transfer
 ms:assetid: 50909b81-c966-4bdd-9d27-11f7f5b4d44e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548906(v=AX.60)
 ms:contentKeyID: 36057238
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Select which employee number to upgrade
 ms:assetid: 6eb262c8-9c53-44c7-919a-e9100c1c1256
 ms:mtpsurl: https://technet.microsoft.com/library/Gg188983(v=AX.60)
 ms:contentKeyID: 35410563
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

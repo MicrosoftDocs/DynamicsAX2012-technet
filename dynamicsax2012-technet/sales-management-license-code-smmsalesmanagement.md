@@ -4,7 +4,7 @@ TOCTitle: Sales management license code (smmSalesManagement)
 ms:assetid: 44740fbb-2395-4eec-afaf-475455a90dd8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416673(v=AX.60)
 ms:contentKeyID: 36931830
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

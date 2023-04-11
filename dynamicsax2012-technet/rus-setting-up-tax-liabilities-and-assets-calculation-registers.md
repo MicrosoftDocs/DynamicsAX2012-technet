@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up tax liabilities and assets calculation registers
 ms:assetid: 1d8d0d91-ef9c-43db-b263-e277d8569c90
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839653(v=AX.60)
 ms:contentKeyID: 50396803
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: SaveTransferOrderServiceRequest Constructor (Boolean, TransferOrder)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.SaveTransferOrderServiceRequest.#ctor(System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.TransferOrder)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.savetransferorderservicerequest.savetransferorderservicerequest(v=AX.60)
 ms:contentKeyID: 65322670
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

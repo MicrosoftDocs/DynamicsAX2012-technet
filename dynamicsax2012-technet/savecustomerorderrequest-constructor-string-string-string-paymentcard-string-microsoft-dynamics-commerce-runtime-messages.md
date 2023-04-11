@@ -4,7 +4,7 @@ TOCTitle: SaveCustomerOrderRequest Constructor (String, String, String, PaymentC
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.SaveCustomerOrderRequest.#ctor(System.String,System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.PaymentCard,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.savecustomerorderrequest.savecustomerorderrequest(v=AX.60)
 ms:contentKeyID: 65318931
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

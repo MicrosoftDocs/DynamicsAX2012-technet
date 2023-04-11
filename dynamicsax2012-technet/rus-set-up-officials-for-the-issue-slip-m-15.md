@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up officials for the Issue slip (M-15)
 ms:assetid: 556b63fa-fafd-40f7-9a03-e28e144729df
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733229(v=AX.60)
 ms:contentKeyID: 49685195
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

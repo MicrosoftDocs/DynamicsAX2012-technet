@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up inventory profile parameters for bailment
 ms:assetid: f232777f-9408-46df-96df-2863ef3f356a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733405(v=AX.60)
 ms:contentKeyID: 49685272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

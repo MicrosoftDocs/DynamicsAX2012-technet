@@ -4,7 +4,7 @@ TOCTitle: Select a fiscal calendar for a ledger
 ms:assetid: 18c8bbc6-64f2-4497-91f8-17a034b8a3ef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208447(v=AX.60)
 ms:contentKeyID: 36056105
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

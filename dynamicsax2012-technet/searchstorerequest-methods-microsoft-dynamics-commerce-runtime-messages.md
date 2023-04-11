@@ -4,7 +4,7 @@ TOCTitle: SearchStoreRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.SearchStoreRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.searchstorerequest_methods(v=AX.60)
 ms:contentKeyID: 62209528
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up credit correction for transfer orders
 ms:assetid: 780c6785-8eb2-4160-aa1d-4c86aa4134ab
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678378(v=AX.60)
 ms:contentKeyID: 49387608
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up VAT deduction parameters for deferrals
 ms:assetid: 65e0d79e-3782-49ff-8b86-334e593a61a4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665459(v=AX.60)
 ms:contentKeyID: 49387546
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

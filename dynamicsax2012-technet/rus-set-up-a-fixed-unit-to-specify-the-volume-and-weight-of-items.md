@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a fixed unit to specify the volume and weight of items
 ms:assetid: 0dcc8a44-2a40-4369-99ac-9d5894e9c0f4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733180(v=AX.60)
 ms:contentKeyID: 49685148
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

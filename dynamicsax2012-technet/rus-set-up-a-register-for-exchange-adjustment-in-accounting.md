@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for exchange adjustment in accounting
 ms:assetid: 45bb44fd-79f5-4f37-9004-2877600eaba7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856169(v=AX.60)
 ms:contentKeyID: 50407008
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

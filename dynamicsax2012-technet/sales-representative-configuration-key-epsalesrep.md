@@ -4,7 +4,7 @@ TOCTitle: Sales Representative configuration key (EPSalesRep)
 ms:assetid: 79daafaa-90eb-47fd-9e18-c3d93d7b637d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586684(v=AX.60)
 ms:contentKeyID: 36931841
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

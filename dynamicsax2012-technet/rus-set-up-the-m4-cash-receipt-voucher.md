@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the M4 cash receipt voucher
 ms:assetid: a18f4e51-75c6-43cd-99d7-34b784350b1b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678552(v=AX.60)
 ms:contentKeyID: 49387781
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

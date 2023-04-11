@@ -4,7 +4,7 @@ TOCTitle: Security architecture for Web services
 ms:assetid: 3f61be60-9665-4755-a4a6-be01ce62e439
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309651(v=AX.60)
 ms:contentKeyID: 36941286
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

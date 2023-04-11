@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an M-11 requirement slip report
 ms:assetid: 831d5049-6a6a-4371-8a29-9d01332cd80d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678431(v=AX.60)
 ms:contentKeyID: 49387661
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

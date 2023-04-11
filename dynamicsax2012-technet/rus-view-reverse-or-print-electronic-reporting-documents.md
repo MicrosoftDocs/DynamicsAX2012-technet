@@ -4,7 +4,7 @@ TOCTitle: (RUS) View, reverse, or print electronic reporting documents
 ms:assetid: 1d2218f9-f295-4784-b735-a7b213e9229a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677473(v=AX.60)
 ms:contentKeyID: 49384777
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

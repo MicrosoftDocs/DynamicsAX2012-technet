@@ -4,7 +4,7 @@ TOCTitle: Security settings for reports
 ms:assetid: fd45fcf5-f9c7-4f28-98c9-be021a6cbfe2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271484(v=AX.60)
 ms:contentKeyID: 36384115
-author: Khairunj
+author: tonyafehr
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

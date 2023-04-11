@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up and maintaining Retail
 ms:assetid: 602b87b4-81b5-4bf6-8731-f93acc37cc6e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn518245(v=AX.60)
 ms:contentKeyID: 62200265
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

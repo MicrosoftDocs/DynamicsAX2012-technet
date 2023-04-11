@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up translation parameters
 ms:assetid: 02de276e-8f32-4828-8630-fe9d0403cd9c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856165(v=AX.60)
 ms:contentKeyID: 50407004
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

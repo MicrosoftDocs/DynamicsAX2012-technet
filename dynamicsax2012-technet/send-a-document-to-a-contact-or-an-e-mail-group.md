@@ -4,7 +4,7 @@ TOCTitle: Send a document to a contact or an e-mail group
 ms:assetid: 5f253ec0-67d5-4589-97c4-9c71b91a1bed
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497186(v=AX.60)
 ms:contentKeyID: 36057587
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

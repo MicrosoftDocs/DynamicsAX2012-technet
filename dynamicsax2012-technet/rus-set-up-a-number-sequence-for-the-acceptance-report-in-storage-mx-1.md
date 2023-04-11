@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a number sequence for the Acceptance report in storage (M
 ms:assetid: 3295a5ef-51ae-479c-882d-49fa4281e527
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733196(v=AX.60)
 ms:contentKeyID: 49685164
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

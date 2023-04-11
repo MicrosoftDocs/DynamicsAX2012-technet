@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up and maintaining journals
 ms:assetid: dc740e85-7a8f-4a82-aa51-8926aad95a7c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711671(v=AX.60)
 ms:contentKeyID: 49387994
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Sequential and parallel processing in services and AIF
 ms:assetid: 19ebee1c-5152-4e25-af8b-6aefd8f4c7d0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500186(v=AX.60)
 ms:contentKeyID: 37820253
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

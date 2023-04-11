@@ -4,7 +4,7 @@ TOCTitle: Service Distribution configuration key (COSWorkDistribution)
 ms:assetid: 6a549ac8-4361-4b12-9d50-25e51b96e867
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585889(v=AX.60)
 ms:contentKeyID: 43895311
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

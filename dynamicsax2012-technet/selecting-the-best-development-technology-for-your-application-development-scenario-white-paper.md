@@ -4,7 +4,7 @@ TOCTitle: Selecting the Best Development Technology for Your Application Develop
 ms:assetid: 0c197a2d-700a-4974-89af-fe620cbc8930
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272857(v=AX.60)
 ms:contentKeyID: 36584381
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

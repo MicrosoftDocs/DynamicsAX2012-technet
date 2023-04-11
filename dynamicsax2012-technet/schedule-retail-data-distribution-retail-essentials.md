@@ -4,7 +4,7 @@ TOCTitle: Schedule Retail data distribution (Retail essentials)
 ms:assetid: 1625d6e1-71ba-4c9b-a1c0-186ea1b9271b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716049(v=AX.60)
 ms:contentKeyID: 62200313
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

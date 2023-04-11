@@ -4,7 +4,7 @@ TOCTitle: (SAU) Main Zakat report (LedgerMainReportZakat_SA)
 ms:assetid: fb72bb8d-29ed-45b6-9c98-f6ae01060662
 ms:mtpsurl: https://technet.microsoft.com/library/Hh371732(v=AX.60)
 ms:contentKeyID: 36814946
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

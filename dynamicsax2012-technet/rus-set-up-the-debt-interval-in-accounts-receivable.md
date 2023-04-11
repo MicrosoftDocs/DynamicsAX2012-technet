@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the debt interval in Accounts receivable
 ms:assetid: b6455be7-73cc-4f3a-b30d-f247c44d11db
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711537(v=AX.60)
 ms:contentKeyID: 49387862
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

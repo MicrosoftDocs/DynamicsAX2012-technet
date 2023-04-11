@@ -4,7 +4,7 @@ TOCTitle: Security and protection for analytics
 ms:assetid: f294dd72-5c49-455a-a37f-1a4f15094709
 ms:mtpsurl: https://technet.microsoft.com/library/Ee910037(v=AX.60)
 ms:contentKeyID: 28119617
-author: Khairunj
+author: tonyafehr
 ms.date: 07/15/2014
 mtps_version: v=AX.60
 ---

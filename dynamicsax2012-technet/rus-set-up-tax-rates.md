@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up tax rates
 ms:assetid: ffc9eece-c934-467d-8f31-0e48ea4a897c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678660(v=AX.60)
 ms:contentKeyID: 49388142
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the assessed tax code in the fixed assets record card
 ms:assetid: 5dad8370-8624-4ceb-a901-336c079bf782
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665428(v=AX.60)
 ms:contentKeyID: 49387516
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

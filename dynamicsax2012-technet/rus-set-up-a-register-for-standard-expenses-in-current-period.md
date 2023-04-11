@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for standard expenses in current period
 ms:assetid: c2f8cc9a-af70-441d-b728-95fe6d9f3d6a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711591(v=AX.60)
 ms:contentKeyID: 49387915
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up journal names and number sequences for tax cost price jou
 ms:assetid: 7a559d15-0aa4-477c-b923-6e0e5aa8a7f2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923546(v=AX.60)
 ms:contentKeyID: 52075393
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

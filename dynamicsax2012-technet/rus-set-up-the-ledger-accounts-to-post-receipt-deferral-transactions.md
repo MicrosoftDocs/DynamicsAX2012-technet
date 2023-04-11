@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the ledger accounts to post receipt deferral transactions
 ms:assetid: 35fe84db-8843-4c50-a4e2-fcece0a517bc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665276(v=AX.60)
 ms:contentKeyID: 49387366
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

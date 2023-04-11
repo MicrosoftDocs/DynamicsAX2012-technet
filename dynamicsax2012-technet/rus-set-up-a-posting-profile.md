@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a posting profile
 ms:assetid: 478e2713-9391-4008-989a-189f4080ec32
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733215(v=AX.60)
 ms:contentKeyID: 49685183
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

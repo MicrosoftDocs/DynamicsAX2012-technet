@@ -4,7 +4,7 @@ TOCTitle: Sales tax list report (TaxList)
 ms:assetid: c469074b-609d-4848-abcb-26eedcf19460
 ms:mtpsurl: https://technet.microsoft.com/library/Aa590736(v=AX.60)
 ms:contentKeyID: 39509606
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

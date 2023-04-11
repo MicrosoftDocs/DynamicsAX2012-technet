@@ -4,7 +4,7 @@ TOCTitle: (RUS) Update factures and post invoices for open purchase orders
 ms:assetid: b0c84ded-ddc6-4327-ac23-8f18b6380455
 ms:mtpsurl: https://technet.microsoft.com/library/JJ853217(v=AX.60)
 ms:contentKeyID: 50396499
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

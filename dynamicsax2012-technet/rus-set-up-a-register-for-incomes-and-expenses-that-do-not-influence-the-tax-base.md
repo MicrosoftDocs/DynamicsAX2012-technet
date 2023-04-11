@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for incomes and expenses that do not influence
 ms:assetid: e4108a63-d764-4d0d-8323-ad028ee239fc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839693(v=AX.60)
 ms:contentKeyID: 50396839
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for accounting object cost generation
 ms:assetid: cbe5e35b-cb1f-4a10-9b88-ef25e84c901e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923589(v=AX.60)
 ms:contentKeyID: 53382722
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

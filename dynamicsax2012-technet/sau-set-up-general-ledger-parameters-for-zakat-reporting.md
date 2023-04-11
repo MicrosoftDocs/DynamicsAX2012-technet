@@ -4,7 +4,7 @@ TOCTitle: (SAU) Set up general ledger parameters for Zakat reporting
 ms:assetid: b66a479d-f2ad-4cf8-b904-7caf484897a4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242755(v=AX.60)
 ms:contentKeyID: 36059093
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

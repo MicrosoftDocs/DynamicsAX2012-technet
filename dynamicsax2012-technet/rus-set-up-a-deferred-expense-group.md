@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a deferred expense group
 ms:assetid: 88b1bb4b-79a6-49b2-9359-4dcde29a6cb5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678451(v=AX.60)
 ms:contentKeyID: 49387680
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

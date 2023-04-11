@@ -4,7 +4,7 @@ TOCTitle: OnSerializing Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction.OnSerializing(System.Runtime.Serialization.StreamingContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salestransaction.onserializing(v=AX.60)
 ms:contentKeyID: 65321175
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

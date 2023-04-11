@@ -4,7 +4,7 @@ TOCTitle: Sequence planned batch orders
 ms:assetid: 988986c1-28f5-4777-9010-45b9656e8a45
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838744(v=AX.60)
 ms:contentKeyID: 50120627
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

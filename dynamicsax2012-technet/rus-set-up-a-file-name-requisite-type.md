@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a file name requisite type
 ms:assetid: e0392116-ad0a-4d90-8d0e-b167ad66af58
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710631(v=AX.60)
 ms:contentKeyID: 49385028
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

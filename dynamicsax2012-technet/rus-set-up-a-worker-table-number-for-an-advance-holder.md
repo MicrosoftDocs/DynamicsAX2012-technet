@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a worker table number for an advance holder
 ms:assetid: f0a3d550-520c-40f3-a522-263fa7f29b03
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678603(v=AX.60)
 ms:contentKeyID: 49388085
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

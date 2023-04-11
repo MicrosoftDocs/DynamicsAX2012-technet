@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for amount differences in tax accounting
 ms:assetid: 4d9004da-0d0e-4365-a7df-a30fbbe43393
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911376(v=AX.60)
 ms:contentKeyID: 52075380
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

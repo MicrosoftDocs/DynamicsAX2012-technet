@@ -4,7 +4,7 @@ TOCTitle: (RUS) View gift card payment journals
 ms:assetid: b0a95621-a61b-4133-b4f2-4ac6a7c8e2a1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497756(v=AX.60)
 ms:contentKeyID: 62200273
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

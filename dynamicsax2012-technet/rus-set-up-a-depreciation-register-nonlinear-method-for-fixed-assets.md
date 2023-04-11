@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a depreciation register (nonlinear method) for fixed asse
 ms:assetid: d77c1b56-46b0-45b4-8e69-fce6a5d3a55b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711667(v=AX.60)
 ms:contentKeyID: 49387990
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

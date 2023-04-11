@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an RCOAD code for a vendor
 ms:assetid: 2d548693-6736-498b-9cfd-d01ab467897c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665238(v=AX.60)
 ms:contentKeyID: 49387327
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

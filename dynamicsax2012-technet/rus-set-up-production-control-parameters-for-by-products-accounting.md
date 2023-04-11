@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up production control parameters for by-products accounting
 ms:assetid: bb4936bf-5aca-46d5-87ce-691dfe731b78
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711548(v=AX.60)
 ms:contentKeyID: 49387873
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

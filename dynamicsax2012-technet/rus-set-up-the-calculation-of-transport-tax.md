@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the calculation of transport tax
 ms:assetid: 3e62ebbe-9a62-4d17-903d-e54062b68568
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665308(v=AX.60)
 ms:contentKeyID: 49387399
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

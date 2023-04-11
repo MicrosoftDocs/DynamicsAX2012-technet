@@ -4,7 +4,7 @@ TOCTitle: TaxCodeColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.SalesOrderDataManager.TaxCodeColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.salesorderdatamanager.taxcodecolumn(v=AX.60)
 ms:contentKeyID: 62209456
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up fixed unit parameters to determine unit tonnage
 ms:assetid: 621612bb-169b-4f1b-a16a-92f6b60f75b3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665445(v=AX.60)
 ms:contentKeyID: 49387532
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

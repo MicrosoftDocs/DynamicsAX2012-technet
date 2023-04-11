@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a dynamic section that uses Excel for electronic reportin
 ms:assetid: 20b80b34-8a39-4061-9cd9-f40eb1528430
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677478(v=AX.60)
 ms:contentKeyID: 49384786
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

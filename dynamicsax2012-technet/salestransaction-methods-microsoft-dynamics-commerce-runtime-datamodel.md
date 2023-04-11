@@ -4,7 +4,7 @@ TOCTitle: SalesTransaction Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.salestransaction_methods(v=AX.60)
 ms:contentKeyID: 49839546
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

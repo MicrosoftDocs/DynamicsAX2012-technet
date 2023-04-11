@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for incomes - current period
 ms:assetid: 9e7c1660-95c1-47d5-9ff1-d529ee90e5b7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839682(v=AX.60)
 ms:contentKeyID: 50396828
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

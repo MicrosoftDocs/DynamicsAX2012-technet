@@ -4,7 +4,7 @@ TOCTitle: Server components
 ms:assetid: 5549817d-c5a8-4ea7-9cd8-23274c216f09
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309679(v=AX.60)
 ms:contentKeyID: 35132638
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

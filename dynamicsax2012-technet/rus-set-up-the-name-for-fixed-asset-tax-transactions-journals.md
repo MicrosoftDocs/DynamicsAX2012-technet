@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the name for fixed asset tax transactions journals
 ms:assetid: 77249219-061a-4d1f-9866-21507a52e55a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678370(v=AX.60)
 ms:contentKeyID: 49387600
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

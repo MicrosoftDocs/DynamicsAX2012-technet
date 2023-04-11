@@ -4,7 +4,7 @@ TOCTitle: Send messages to workers during registration
 ms:assetid: bab8b6db-f7f9-437c-9227-31fbfacb5045
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498857(v=AX.60)
 ms:contentKeyID: 36059128
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

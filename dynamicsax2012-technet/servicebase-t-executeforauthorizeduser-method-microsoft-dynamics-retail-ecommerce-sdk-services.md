@@ -4,7 +4,7 @@ TOCTitle: ExecuteForAuthorizedUser Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceBase`1.ExecuteForAuthorizedUser(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceResponse,System.Action{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn988288(v=AX.60)
 ms:contentKeyID: 65317333
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

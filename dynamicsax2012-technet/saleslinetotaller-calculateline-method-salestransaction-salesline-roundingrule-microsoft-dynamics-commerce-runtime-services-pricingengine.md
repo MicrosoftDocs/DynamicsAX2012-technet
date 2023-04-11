@@ -4,7 +4,7 @@ TOCTitle: CalculateLine Method (SalesTransaction, SalesLine, RoundingRule)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.SalesLineTotaller.CalculateLine(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine,Microsoft.Dynamics.Commerce.Runtime.DataModel.RoundingRule)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.saleslinetotaller.calculateline(v=AX.60)
 ms:contentKeyID: 65319281
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

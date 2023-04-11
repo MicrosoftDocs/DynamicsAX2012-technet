@@ -4,7 +4,7 @@ TOCTitle: Schedule lean manufacturing
 ms:assetid: c8543f1e-92cc-4d20-8956-3d36cea4d2ae
 ms:mtpsurl: https://technet.microsoft.com/library/Hh803021(v=AX.60)
 ms:contentKeyID: 44081044
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

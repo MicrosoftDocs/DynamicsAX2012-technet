@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up competency information for workers and employees
 ms:assetid: 9b2ebb09-42b1-4215-8344-f8329c4a9abd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn745531(v=AX.60)
 ms:contentKeyID: 62336124
-author: Khairunj
+author: tonyafehr
 ms.date: 05/14/2014
 mtps_version: v=AX.60
 f1_keywords:

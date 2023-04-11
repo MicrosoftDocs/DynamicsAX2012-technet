@@ -4,7 +4,7 @@ TOCTitle: SaveCartDataRequest Constructor (IEnumerable(SalesTransaction))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.SaveCartDataRequest.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.savecartdatarequest.savecartdatarequest(v=AX.60)
 ms:contentKeyID: 65322989
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

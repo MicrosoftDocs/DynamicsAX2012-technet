@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up fixed asset and intangible asset account registers in
 ms:assetid: 35aa7134-f13d-45e9-b19b-5238fb416066
 ms:mtpsurl: https://technet.microsoft.com/library/JJ665275(v=AX.60)
 ms:contentKeyID: 49387364
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

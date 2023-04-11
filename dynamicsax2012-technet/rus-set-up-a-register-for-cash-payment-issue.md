@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a register for cash payment issue
 ms:assetid: f99117ca-266e-4131-b205-1e16e07b78e1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678636(v=AX.60)
 ms:contentKeyID: 49388118
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

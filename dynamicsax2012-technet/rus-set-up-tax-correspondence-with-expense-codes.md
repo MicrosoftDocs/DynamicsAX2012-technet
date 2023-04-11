@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up tax correspondence with expense codes
 ms:assetid: 1b7bc0a3-80b4-4628-8354-2dc871010687
 ms:mtpsurl: https://technet.microsoft.com/library/JJ839652(v=AX.60)
 ms:contentKeyID: 50396799
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

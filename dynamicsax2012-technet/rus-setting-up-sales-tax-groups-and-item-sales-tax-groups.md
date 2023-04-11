@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up sales tax groups and item sales tax groups
 ms:assetid: eb9035ec-9643-4923-9472-b5e20d75ca39
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678585(v=AX.60)
 ms:contentKeyID: 49388067
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

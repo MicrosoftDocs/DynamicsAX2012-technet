@@ -4,7 +4,7 @@ TOCTitle: (RUS) Setting up contracts with counteragents
 ms:assetid: cba4bf2e-abe8-4816-a3c5-90769ca11076
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711608(v=AX.60)
 ms:contentKeyID: 49387932
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

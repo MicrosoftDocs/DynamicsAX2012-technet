@@ -4,7 +4,7 @@ TOCTitle: (RUS) Staff administration reports
 ms:assetid: bbf70e5f-1a4d-4077-8637-c94e09743321
 ms:mtpsurl: https://technet.microsoft.com/library/Dn452011(v=AX.60)
 ms:contentKeyID: 56713177
-author: Khairunj
+author: tonyafehr
 ms.date: 05/13/2014
 mtps_version: v=AX.60
 f1_keywords:

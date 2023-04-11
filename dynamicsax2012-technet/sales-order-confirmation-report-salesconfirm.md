@@ -4,7 +4,7 @@ TOCTitle: Sales order confirmation report (SalesConfirm)
 ms:assetid: f73eba2d-7468-454b-a657-b929e82131b4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227639(v=AX.60)
 ms:contentKeyID: 36060837
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up an object information register for intangible assets
 ms:assetid: 9f1fc320-a711-4313-8ed9-8c0e8fd678ad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678543(v=AX.60)
 ms:contentKeyID: 49387771
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

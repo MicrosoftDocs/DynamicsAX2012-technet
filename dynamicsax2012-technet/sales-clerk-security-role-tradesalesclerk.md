@@ -4,7 +4,7 @@ TOCTitle: Sales clerk security role (TradeSalesClerk)
 ms:assetid: 41e4b132-0e6a-431e-a809-2d7632d92d59
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527082(v=AX.60)
 ms:contentKeyID: 37823134
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

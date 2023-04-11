@@ -4,7 +4,7 @@ TOCTitle: Sales tax specification report (SalesTaxByCustomer)
 ms:assetid: c0ea1361-ec52-4cfb-ae37-1f2433e5b0e6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa590284(v=AX.60)
 ms:contentKeyID: 39509602
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

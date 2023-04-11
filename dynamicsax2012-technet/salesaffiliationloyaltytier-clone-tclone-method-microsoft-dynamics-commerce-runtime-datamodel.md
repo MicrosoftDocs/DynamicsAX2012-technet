@@ -4,7 +4,7 @@ TOCTitle: Clone(TClone) Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesAffiliationLoyaltyTier.Clone``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn990952(v=AX.60)
 ms:contentKeyID: 65322142
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

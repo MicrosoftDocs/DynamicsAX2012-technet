@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Upgrade a Retail system'
 ms:assetid: 82b5489f-750d-4bde-a5c7-ab1cc8798c57
 ms:mtpsurl: https://technet.microsoft.com/library/JJ721717(v=AX.60)
 ms:contentKeyID: 49732800
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

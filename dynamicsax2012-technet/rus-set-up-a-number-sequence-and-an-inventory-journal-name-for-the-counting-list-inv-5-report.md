@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a number sequence and an inventory journal name for the C
 ms:assetid: 69f7ec53-a127-4e56-b516-bcd5469eedfa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678332(v=AX.60)
 ms:contentKeyID: 49387563
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

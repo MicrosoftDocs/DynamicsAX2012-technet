@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Upgrade to AX 2012 R2 + CU6'
 ms:assetid: bf50d3ce-709d-4495-848a-c615910607b6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn313122(v=AX.60)
 ms:contentKeyID: 54940412
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

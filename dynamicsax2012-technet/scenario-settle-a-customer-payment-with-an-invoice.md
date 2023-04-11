@@ -4,7 +4,7 @@ TOCTitle: 'Scenario: Settle a customer payment with an invoice'
 ms:assetid: eace0014-819e-482d-8461-0d699f3879d1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545537(v=AX.60)
 ms:contentKeyID: 37832547
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

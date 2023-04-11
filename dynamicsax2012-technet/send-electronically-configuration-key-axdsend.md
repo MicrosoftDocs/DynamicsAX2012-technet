@@ -4,7 +4,7 @@ TOCTitle: Send electronically configuration key (AxdSend)
 ms:assetid: e2877933-49a4-4b5a-9f5f-48aaef898b63
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441669(v=AX.60)
 ms:contentKeyID: 36993558
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

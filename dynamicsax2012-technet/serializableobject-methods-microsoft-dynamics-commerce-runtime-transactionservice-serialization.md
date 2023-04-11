@@ -4,7 +4,7 @@ TOCTitle: SerializableObject Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.TransactionService.Serialization.SerializableObject
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.transactionservice.serialization.serializableobject_methods(v=AX.60)
 ms:contentKeyID: 49825745
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

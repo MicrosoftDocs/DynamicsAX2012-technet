@@ -4,7 +4,7 @@ TOCTitle: (RUS) Working with Inventory and warehouse management
 ms:assetid: 82ecce51-7e85-4ff6-bbb1-3d3a26caf126
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678427(v=AX.60)
 ms:contentKeyID: 49387657
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

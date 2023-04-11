@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up calculation parameters for employee income tax
 ms:assetid: ce114798-8da2-489e-968a-b0506461c744
 ms:mtpsurl: https://technet.microsoft.com/library/Dn781409(v=AX.60)
 ms:contentKeyID: 62807374
-author: Khairunj
+author: tonyafehr
 ms.date: 08/19/2014
 mtps_version: v=AX.60
 f1_keywords:

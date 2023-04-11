@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up the debt interval in Accounts payable
 ms:assetid: bf77469c-78b2-4475-8ea2-a682a5b833e5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711571(v=AX.60)
 ms:contentKeyID: 49387895
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

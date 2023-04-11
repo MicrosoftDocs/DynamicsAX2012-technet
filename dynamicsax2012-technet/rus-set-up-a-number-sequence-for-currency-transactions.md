@@ -4,7 +4,7 @@ TOCTitle: (RUS) Set up a number sequence for currency transactions
 ms:assetid: fb8b91ec-e787-46d2-a252-3b7144f25813
 ms:mtpsurl: https://technet.microsoft.com/library/JJ856190(v=AX.60)
 ms:contentKeyID: 50407029
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
