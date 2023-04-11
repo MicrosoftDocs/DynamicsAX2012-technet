@@ -4,7 +4,7 @@ TOCTitle: (IND) Per invoice option in miscellaneous charges allocation
 ms:assetid: fef51b09-3ebc-4870-ae86-1a50bfbf7bff
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527270(v=AX.60)
 ms:contentKeyID: 59623398
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

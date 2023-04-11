@@ -4,7 +4,7 @@ TOCTitle: Determine marketing channels
 ms:assetid: 11a50ae9-3b1c-42f4-9126-09328765e187
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230931(v=AX.60)
 ms:contentKeyID: 36056035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

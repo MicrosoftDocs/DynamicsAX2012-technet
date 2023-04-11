@@ -4,7 +4,7 @@ TOCTitle: (RUS) Production journal lines, by-product report
 ms:assetid: 5501b661-ca7a-457a-a161-93df59a196ff
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507138(v=AX.60)
 ms:contentKeyID: 59623226
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

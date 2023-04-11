@@ -4,7 +4,7 @@ TOCTitle: DeliveryOptionsResponse Constructor (Collection(DeliveryOption))
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.DeliveryOptionsResponse.#ctor(System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.DeliveryOption})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.deliveryoptionsresponse.deliveryoptionsresponse(v=AX.60)
 ms:contentKeyID: 65316741
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

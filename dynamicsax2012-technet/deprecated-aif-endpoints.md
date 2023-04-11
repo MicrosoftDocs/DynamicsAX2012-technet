@@ -4,7 +4,7 @@ TOCTitle: AIF endpoints
 ms:assetid: f403ed0e-af81-47be-a2e6-97f18a06ac8b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527241(v=AX.60)
 ms:contentKeyID: 59623369
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

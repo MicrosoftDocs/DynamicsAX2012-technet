@@ -4,7 +4,7 @@ TOCTitle: Data Crawler
 ms:assetid: 95505f5b-8b85-4af2-b1c6-607a27f4a9ff
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527184(v=AX.60)
 ms:contentKeyID: 59623312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

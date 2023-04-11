@@ -4,7 +4,7 @@ TOCTitle: Define financial dimensions for Budgeting
 ms:assetid: e4978c30-70a4-4ee4-83ab-73a57c2cba7a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227432(v=AX.60)
 ms:contentKeyID: 36059732
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

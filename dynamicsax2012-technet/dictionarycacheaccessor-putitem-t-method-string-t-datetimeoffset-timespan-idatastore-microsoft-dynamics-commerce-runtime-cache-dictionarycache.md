@@ -4,7 +4,7 @@ TOCTitle: PutItem(T) Method (String, T, DateTimeOffset, TimeSpan, IDataStore)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache.DictionaryCacheAccessor.PutItem``1(System.String,``0,System.DateTimeOffset,System.TimeSpan,Microsoft.Dynamics.Commerce.Runtime.Data.IDataStore)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn969402(v=AX.60)
 ms:contentKeyID: 65323015
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

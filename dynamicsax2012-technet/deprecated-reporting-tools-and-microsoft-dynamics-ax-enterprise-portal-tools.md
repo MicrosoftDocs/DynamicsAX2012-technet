@@ -4,7 +4,7 @@ TOCTitle: Reporting Tools and Microsoft Dynamics AX Enterprise Portal Tools
 ms:assetid: 7b8668dd-a915-4d8a-974d-d01f0e08d2a3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527161(v=AX.60)
 ms:contentKeyID: 59623289
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

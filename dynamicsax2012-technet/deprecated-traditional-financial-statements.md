@@ -4,7 +4,7 @@ TOCTitle: Traditional financial statements
 ms:assetid: 47c7513a-2410-4b9b-9539-c473c5435885
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600259(v=AX.60)
 ms:contentKeyID: 62200286
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

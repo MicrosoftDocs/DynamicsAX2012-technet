@@ -4,7 +4,7 @@ TOCTitle: Defining x-axis values
 ms:assetid: 5804f017-3bc7-4767-81c7-3beb27c9982b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549063(v=AX.60)
 ms:contentKeyID: 36057337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

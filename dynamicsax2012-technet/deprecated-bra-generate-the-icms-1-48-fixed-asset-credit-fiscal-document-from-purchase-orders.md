@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate the ICMS 1/48 fixed asset credit fiscal document from p
 ms:assetid: c9eae61f-42b8-4e9c-b9ed-a58778bc6b4b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527219(v=AX.60)
 ms:contentKeyID: 59623348
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

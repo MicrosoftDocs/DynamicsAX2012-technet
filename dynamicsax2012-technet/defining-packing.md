@@ -4,7 +4,7 @@ TOCTitle: Defining packing
 ms:assetid: 4f7ad77e-47f1-44a9-8b6b-6281c4204496
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212759(v=AX.60)
 ms:contentKeyID: 36057217
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

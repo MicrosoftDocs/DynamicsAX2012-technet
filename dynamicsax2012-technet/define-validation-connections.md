@@ -4,7 +4,7 @@ TOCTitle: Define validation connections
 ms:assetid: e3ec8fe1-e6cc-44a3-bb83-e019f620efb2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551388(v=AX.60)
 ms:contentKeyID: 36059727
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX 2009 reports
 ms:assetid: 3a8142e4-e727-4bf3-87f2-2380b72a0d1c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507097(v=AX.60)
 ms:contentKeyID: 59623187
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

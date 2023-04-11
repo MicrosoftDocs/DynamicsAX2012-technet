@@ -4,7 +4,7 @@ TOCTitle: Defining and maintaining rules for purchasing
 ms:assetid: 90708910-f495-4b3a-8a99-9daf3f60ac21
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209370(v=AX.60)
 ms:contentKeyID: 36058533
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

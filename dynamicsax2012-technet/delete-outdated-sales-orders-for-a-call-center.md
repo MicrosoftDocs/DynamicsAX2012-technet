@@ -4,7 +4,7 @@ TOCTitle: Delete outdated sales orders for a call center
 ms:assetid: 143a1ef1-ff3f-4b36-b80f-29d07f21f7f3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720456(v=AX.60)
 ms:contentKeyID: 62224163
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

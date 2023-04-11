@@ -4,7 +4,7 @@ TOCTitle: ShouldCountNonDiscountItems Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase.ShouldCountNonDiscountItems
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.shouldcountnondiscountitems(v=AX.60)
 ms:contentKeyID: 62203744
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

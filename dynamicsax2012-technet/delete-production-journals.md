@@ -4,7 +4,7 @@ TOCTitle: Delete production journals
 ms:assetid: 18607c18-f6b5-4c8d-9fc2-fccc9f7d20f8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569908(v=AX.60)
 ms:contentKeyID: 36056097
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

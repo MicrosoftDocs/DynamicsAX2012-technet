@@ -4,7 +4,7 @@ TOCTitle: Task groups
 ms:assetid: 95df7e0f-da08-4e4b-b79f-75c3b3c0b7af
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527183(v=AX.60)
 ms:contentKeyID: 59623313
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

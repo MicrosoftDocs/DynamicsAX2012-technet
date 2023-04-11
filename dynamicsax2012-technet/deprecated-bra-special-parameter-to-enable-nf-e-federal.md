@@ -4,7 +4,7 @@ TOCTitle: (BRA) Enable NF-e (Federal)
 ms:assetid: d4ae0baf-a82d-442b-9975-a2f16bd89bfc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527235(v=AX.60)
 ms:contentKeyID: 59623363
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

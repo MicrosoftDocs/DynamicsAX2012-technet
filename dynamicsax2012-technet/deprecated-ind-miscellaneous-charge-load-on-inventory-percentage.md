@@ -4,7 +4,7 @@ TOCTitle: (IND) Miscellaneous charge load on inventory percentage
 ms:assetid: 319d14c2-8292-4e0b-98f7-1f9330d0192f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507089(v=AX.60)
 ms:contentKeyID: 59623179
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

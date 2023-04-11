@@ -4,7 +4,7 @@ TOCTitle: Deprecated Microsoft Dynamics AX 2009 Reports in Microsoft Dynamics AX
 ms:assetid: 0a8a18e2-5013-48b3-b346-90bc51eace3c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731897(v=AX.60)
 ms:contentKeyID: 35132814
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (DEU) Set up the parameters to calculate depreciation for additional a
 ms:assetid: 66920537-c036-44a1-a22d-24e8a5b66c60
 ms:mtpsurl: https://technet.microsoft.com/library/Dn249830(v=AX.60)
 ms:contentKeyID: 54768254
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

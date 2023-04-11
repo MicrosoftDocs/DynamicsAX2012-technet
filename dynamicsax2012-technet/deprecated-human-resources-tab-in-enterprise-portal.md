@@ -4,7 +4,7 @@ TOCTitle: Human resources tab in Enterprise Portal
 ms:assetid: 9f1fefff-d725-4e79-bba9-0e20e22760e3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527188(v=AX.60)
 ms:contentKeyID: 59623317
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

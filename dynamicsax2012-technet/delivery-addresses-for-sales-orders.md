@@ -4,7 +4,7 @@ TOCTitle: Delivery addresses for sales orders
 ms:assetid: af859eb2-59c3-42cf-b5fe-d30fbb0dd973
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498636(v=AX.60)
 ms:contentKeyID: 36058955
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

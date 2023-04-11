@@ -4,7 +4,7 @@ TOCTitle: (RUS) Cumulative discounts feature for Retail
 ms:assetid: f8904995-b45a-461b-a350-fa88c866222b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716033(v=AX.60)
 ms:contentKeyID: 62200297
-author: Khairunj
+author: tonyafehr
 ms.date: 04/27/2014
 mtps_version: v=AX.60
 ---

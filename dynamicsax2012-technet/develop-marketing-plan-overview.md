@@ -4,7 +4,7 @@ TOCTitle: Develop marketing plan overview
 ms:assetid: 5caa51e4-77b3-48c2-aee0-9e45225f42ff
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242509(v=AX.60)
 ms:contentKeyID: 36057572
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Development
 ms:assetid: ea2e8841-a7c1-480c-bfdb-579669e130ba
 ms:mtpsurl: https://technet.microsoft.com/library/Cc653472(v=AX.60)
 ms:contentKeyID: 28119608
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

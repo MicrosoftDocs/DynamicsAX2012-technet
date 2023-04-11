@@ -4,7 +4,7 @@ TOCTitle: Deploy Enterprise Portal for vendor registration with Windows Azure Ac
 ms:assetid: 2c6e0947-fe25-40da-85e6-1485d2309d9c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715949(v=AX.60)
 ms:contentKeyID: 62200022
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

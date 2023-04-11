@@ -4,7 +4,7 @@ TOCTitle: SQL Server Report Builder integration with Microsoft Dynamics AX repor
 ms:assetid: 8ef50b2a-132b-4f40-add6-ac6fb21d0ceb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527170(v=AX.60)
 ms:contentKeyID: 59623299
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Deploy a Retail essentials demo environment
 ms:assetid: 6a15ddf8-d1fd-4941-b709-31bb69aa1b65
 ms:mtpsurl: https://technet.microsoft.com/library/Dn798907(v=AX.60)
 ms:contentKeyID: 62775921
-author: Khairunj
+author: tonyafehr
 ms.date: 09/17/2017
 mtps_version: v=AX.60
 ---

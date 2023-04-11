@@ -4,7 +4,7 @@ TOCTitle: (LVA) Verification of voucher numbers
 ms:assetid: 627b934a-e6d7-4d1f-ad06-949a27e1dc04
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527123(v=AX.60)
 ms:contentKeyID: 59623251
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

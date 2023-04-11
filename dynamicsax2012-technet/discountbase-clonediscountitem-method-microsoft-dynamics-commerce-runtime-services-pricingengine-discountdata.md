@@ -4,7 +4,7 @@ TOCTitle: CloneDiscountItem Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountBase.CloneDiscountItem(Microsoft.Dynamics.Commerce.Runtime.DataModel.DiscountLine)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountbase.clonediscountitem(v=AX.60)
 ms:contentKeyID: 62208483
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

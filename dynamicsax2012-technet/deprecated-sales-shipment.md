@@ -4,7 +4,7 @@ TOCTitle: Sales shipment
 ms:assetid: 3f4bb45c-02dd-40b1-86f6-2e874b237fa9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn753829(v=AX.60)
 ms:contentKeyID: 62486007
-author: Khairunj
+author: tonyafehr
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

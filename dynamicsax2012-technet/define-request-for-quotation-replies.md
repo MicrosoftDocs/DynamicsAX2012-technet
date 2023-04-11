@@ -4,7 +4,7 @@ TOCTitle: Define request for quotation replies
 ms:assetid: 356ed9ce-83c0-4a51-831e-ba9008bf0b91
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231091(v=AX.60)
 ms:contentKeyID: 36056558
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

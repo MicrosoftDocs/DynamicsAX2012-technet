@@ -4,7 +4,7 @@ TOCTitle: Define a surcharge allocation
 ms:assetid: 820afcfc-8c8a-49cc-b806-3553f42db32d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571554(v=AX.60)
 ms:contentKeyID: 36058359
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

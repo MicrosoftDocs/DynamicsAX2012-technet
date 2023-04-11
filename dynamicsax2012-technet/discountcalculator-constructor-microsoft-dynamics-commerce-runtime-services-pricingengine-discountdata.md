@@ -4,7 +4,7 @@ TOCTitle: DiscountCalculator Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.DiscountData.DiscountCalculator.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction,System.String,Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext,Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.discountdata.discountcalculator.discountcalculator(v=AX.60)
 ms:contentKeyID: 62214144
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

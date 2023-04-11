@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX domains
 ms:assetid: 1ec11cc4-c98a-44f6-b543-5c02a421ae56
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507157(v=AX.60)
 ms:contentKeyID: 59623242
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

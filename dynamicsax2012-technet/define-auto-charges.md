@@ -4,7 +4,7 @@ TOCTitle: Define auto charges
 ms:assetid: a249cab0-9405-4807-85f4-7473ddde3791
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571826(v=AX.60)
 ms:contentKeyID: 49684853
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

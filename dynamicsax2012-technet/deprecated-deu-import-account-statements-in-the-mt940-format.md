@@ -4,7 +4,7 @@ TOCTitle: (DEU) Import account statements in the MT940 format
 ms:assetid: 6b48496e-7f74-44c0-b6ab-0bf6f3d6ee64
 ms:mtpsurl: https://technet.microsoft.com/library/Dn621051(v=AX.60)
 ms:contentKeyID: 62200287
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

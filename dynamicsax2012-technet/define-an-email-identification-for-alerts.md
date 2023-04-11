@@ -4,7 +4,7 @@ TOCTitle: Define an email identification for alerts
 ms:assetid: 089a0da6-7f2c-430c-98ad-dc91c0bebb59
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834327(v=AX.60)
 ms:contentKeyID: 46687533
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: " deferred output VAT"
 ms:assetid: DynamicsAXGlossary.2015317
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.2015317(v=AX.60)
 ms:contentKeyID: 62830128
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

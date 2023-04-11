@@ -4,7 +4,7 @@ TOCTitle: Debug X++ Code for Retail
 ms:assetid: b0b29edb-d132-4876-8b6d-551bb4929976
 ms:mtpsurl: https://technet.microsoft.com/library/Dn126099(v=AX.60)
 ms:contentKeyID: 52075234
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

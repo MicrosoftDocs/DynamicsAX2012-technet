@@ -4,7 +4,7 @@ TOCTitle: Delete a batch attribute from an item
 ms:assetid: d97875b0-01e2-4fb2-a689-57ff889393c4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227400(v=AX.60)
 ms:contentKeyID: 36059653
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

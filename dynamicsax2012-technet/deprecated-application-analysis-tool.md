@@ -4,7 +4,7 @@ TOCTitle: Application Analysis Tool
 ms:assetid: 1bf29039-7f88-4bc5-b50c-32e668cce657
 ms:mtpsurl: https://technet.microsoft.com/library/Hh378080(v=AX.60)
 ms:contentKeyID: 36870663
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

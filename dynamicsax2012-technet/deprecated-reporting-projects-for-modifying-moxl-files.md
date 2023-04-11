@@ -4,7 +4,7 @@ TOCTitle: Reporting Project
 ms:assetid: 270d7390-aa47-4056-8b1e-781d8df9e01a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507139(v=AX.60)
 ms:contentKeyID: 59623225
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

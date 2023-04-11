@@ -4,7 +4,7 @@ TOCTitle: Delete requests for quotation
 ms:assetid: 8c4f5102-4896-4348-82e0-f4de26ea7f7e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242868(v=AX.60)
 ms:contentKeyID: 36058481
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

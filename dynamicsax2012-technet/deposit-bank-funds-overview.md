@@ -4,7 +4,7 @@ TOCTitle: Deposit bank funds overview
 ms:assetid: d95a3a43-bd9f-4132-a401-06824ee598de
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213713(v=AX.60)
 ms:contentKeyID: 36059649
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

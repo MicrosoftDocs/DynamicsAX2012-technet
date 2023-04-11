@@ -4,7 +4,7 @@ TOCTitle: DeliveryMethodsResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.DeliveryMethodsResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.deliverymethodsresponse.deliverymethodsresponse(v=AX.60)
 ms:contentKeyID: 62202447
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

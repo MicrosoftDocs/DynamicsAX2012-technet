@@ -4,7 +4,7 @@ TOCTitle: Deploy updates to Enterprise Portal
 ms:assetid: d64915fb-0fe3-46c0-8ee9-15ee5368b62e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538462(v=AX.60)
 ms:contentKeyID: 39508891
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

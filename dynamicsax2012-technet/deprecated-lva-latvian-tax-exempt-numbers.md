@@ -4,7 +4,7 @@ TOCTitle: (LVA) Latvian tax exempt numbers
 ms:assetid: 68ba77fe-1436-48c3-89d2-5ba9d35119ab
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527138(v=AX.60)
 ms:contentKeyID: 59623267
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Ledger budget form and table
 ms:assetid: 60c60aa8-aa40-4590-bfe4-b4538142cffb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527129(v=AX.60)
 ms:contentKeyID: 59623258
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Deposit slip report (BankDepositSlip)
 ms:assetid: 2322cffb-e8c0-4d0e-9e0e-aca9c20a0fa0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499798(v=AX.60)
 ms:contentKeyID: 36057387
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

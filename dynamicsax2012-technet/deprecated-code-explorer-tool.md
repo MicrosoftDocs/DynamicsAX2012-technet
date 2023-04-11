@@ -4,7 +4,7 @@ TOCTitle: Code Explorer Tool
 ms:assetid: 0b92d358-2995-4475-a775-2b3a87488d20
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507125(v=AX.60)
 ms:contentKeyID: 59623214
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

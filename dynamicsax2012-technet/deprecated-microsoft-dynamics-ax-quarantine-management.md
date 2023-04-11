@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics AX Quarantine management
 ms:assetid: 7203f418-3699-418d-9fc5-0e8556492a21
 ms:mtpsurl: https://technet.microsoft.com/library/Dn753832(v=AX.60)
 ms:contentKeyID: 62486009
-author: Khairunj
+author: tonyafehr
 ms.date: 06/04/2014
 mtps_version: v=AX.60
 ---

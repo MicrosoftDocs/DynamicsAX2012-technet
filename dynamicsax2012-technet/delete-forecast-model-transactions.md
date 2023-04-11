@@ -4,7 +4,7 @@ TOCTitle: Delete forecast model transactions
 ms:assetid: 78e619e1-3bb2-4ee9-8101-6d8a97adf7b0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550056(v=AX.60)
 ms:contentKeyID: 36058232
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (RUS) Financial report validation report
 ms:assetid: 42362ba3-7a9d-4eec-a026-13868e1f741d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507118(v=AX.60)
 ms:contentKeyID: 59623207
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

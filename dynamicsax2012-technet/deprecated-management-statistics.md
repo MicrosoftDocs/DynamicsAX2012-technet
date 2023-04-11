@@ -4,7 +4,7 @@ TOCTitle: Management Statistics
 ms:assetid: 4a23780c-bfea-4808-accf-0b14ab4cc810
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507133(v=AX.60)
 ms:contentKeyID: 59623221
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

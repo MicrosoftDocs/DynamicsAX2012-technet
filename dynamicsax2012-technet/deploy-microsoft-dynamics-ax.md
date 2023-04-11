@@ -4,7 +4,7 @@ TOCTitle: Deployment
 ms:assetid: 92b1e16e-f7eb-42d5-bca8-c2278f1b93e1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731870(v=AX.60)
 ms:contentKeyID: 35132764
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

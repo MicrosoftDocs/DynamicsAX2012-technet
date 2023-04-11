@@ -4,7 +4,7 @@ TOCTitle: CRM document handling
 ms:assetid: bf090681-c57a-4a11-b5ee-42b52ed73071
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527224(v=AX.60)
 ms:contentKeyID: 59623352
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

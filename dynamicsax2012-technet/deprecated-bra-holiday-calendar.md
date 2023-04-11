@@ -4,7 +4,7 @@ TOCTitle: (BRA) Holiday calendar
 ms:assetid: 3d8dcf35-c327-4668-acdd-af8d5c602b32
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507107(v=AX.60)
 ms:contentKeyID: 59623197
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

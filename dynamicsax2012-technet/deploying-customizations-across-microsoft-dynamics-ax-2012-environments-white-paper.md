@@ -4,7 +4,7 @@ TOCTitle: Deploying Customizations Across Microsoft Dynamics AX 2012 Environment
 ms:assetid: e4cc2af9-21a7-4f6b-aadb-ad0ee8f5c642
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292604(v=AX.60)
 ms:contentKeyID: 36655942
-author: Khairunj
+author: tonyafehr
 ms.date: 01/16/2020
 mtps_version: v=AX.60
 ---

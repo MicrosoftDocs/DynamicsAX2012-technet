@@ -4,7 +4,7 @@ TOCTitle: Delete project quotations
 ms:assetid: caf148cc-2e7d-4796-8c8c-29d5aa1ea219
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220749(v=AX.60)
 ms:contentKeyID: 36059337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

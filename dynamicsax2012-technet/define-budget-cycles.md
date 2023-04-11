@@ -4,7 +4,7 @@ TOCTitle: Define budget cycles
 ms:assetid: 0367b6cb-7c9f-4733-b5f9-c337babdd09a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242103(v=AX.60)
 ms:contentKeyID: 36055938
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

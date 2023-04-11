@@ -4,7 +4,7 @@ TOCTitle: Security keys and related APIs
 ms:assetid: 6532d48c-93b2-4725-acb4-fc36db6049b2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527137(v=AX.60)
 ms:contentKeyID: 59623266
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

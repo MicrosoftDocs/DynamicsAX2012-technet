@@ -4,7 +4,7 @@ TOCTitle: (DEU) Generate the EU sales list
 ms:assetid: 83f84853-150e-4f27-8f1a-e5ef919928ea
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304980(v=AX.60)
 ms:contentKeyID: 54899954
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Design the rows and columns of a traditional financial statement
 ms:assetid: ef8dc67f-adcd-49f0-b0d9-3745162d3b09
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551563(v=AX.60)
 ms:contentKeyID: 44081061
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

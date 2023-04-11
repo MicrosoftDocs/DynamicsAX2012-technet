@@ -4,7 +4,7 @@ TOCTitle: Developing on the Help server
 ms:assetid: 4a6d905d-ed67-4464-af11-2a3438d593cb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg866976(v=AX.60)
 ms:contentKeyID: 35256670
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

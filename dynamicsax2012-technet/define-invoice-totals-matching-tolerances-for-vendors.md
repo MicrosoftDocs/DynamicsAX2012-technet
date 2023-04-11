@@ -4,7 +4,7 @@ TOCTitle: Define invoice totals matching tolerances for vendors
 ms:assetid: a612f8a8-e8d0-437e-9322-8b775df9de46
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242683(v=AX.60)
 ms:contentKeyID: 36058869
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

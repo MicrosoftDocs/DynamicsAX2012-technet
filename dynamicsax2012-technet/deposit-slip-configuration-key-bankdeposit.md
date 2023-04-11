@@ -4,7 +4,7 @@ TOCTitle: Deposit slip configuration key (BankDeposit)
 ms:assetid: d7f04a96-eba9-4065-963a-74726cce329b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416693(v=AX.60)
 ms:contentKeyID: 36931854
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

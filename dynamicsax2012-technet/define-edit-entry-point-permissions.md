@@ -4,7 +4,7 @@ TOCTitle: Define or edit entry point permissions
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version:
 ---

@@ -4,7 +4,7 @@ TOCTitle: Deploy Application Object Servers
 ms:assetid: d7a675cc-602d-4baf-bc88-bb6f7b7ec744
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732114(v=AX.60)
 ms:contentKeyID: 35133056
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

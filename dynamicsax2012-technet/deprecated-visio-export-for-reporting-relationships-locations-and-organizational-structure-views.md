@@ -4,7 +4,7 @@ TOCTitle: Visio Export for reporting relationships, locations, and organizationa
 ms:assetid: b1a91fcc-71c1-48eb-9b27-a828ea05e0f3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527211(v=AX.60)
 ms:contentKeyID: 59623340
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (DEU) Set up GDPdU data export
 ms:assetid: 8e40fa72-5700-45cb-9ee1-f49dc07795d7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa616006(v=AX.60)
 ms:contentKeyID: 36058513
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

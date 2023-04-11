@@ -4,7 +4,7 @@ TOCTitle: Delete the update history of purchase or sales orders
 ms:assetid: e0f9bf97-30c4-4b49-a325-51ba7534f159
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551341(v=AX.60)
 ms:contentKeyID: 36688020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

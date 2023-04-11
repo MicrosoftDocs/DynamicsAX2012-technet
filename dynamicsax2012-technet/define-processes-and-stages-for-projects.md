@@ -4,7 +4,7 @@ TOCTitle: Define processes and stages for projects
 ms:assetid: ab67e719-e818-46ec-94bb-1f7356999121
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242695(v=AX.60)
 ms:contentKeyID: 36058909
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

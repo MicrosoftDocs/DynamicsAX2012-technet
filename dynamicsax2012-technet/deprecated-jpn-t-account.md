@@ -4,7 +4,7 @@ TOCTitle: (JPN) T-account
 ms:assetid: 6de014fb-4ac9-4697-97dd-9bb97e6742c1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527143(v=AX.60)
 ms:contentKeyID: 59623272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

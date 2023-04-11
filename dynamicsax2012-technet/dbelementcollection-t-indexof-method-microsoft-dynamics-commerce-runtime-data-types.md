@@ -4,7 +4,7 @@ TOCTitle: IndexOf Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Data.Types.DbElementCollection`1.IndexOf
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968287(v=AX.60)
 ms:contentKeyID: 65320650
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

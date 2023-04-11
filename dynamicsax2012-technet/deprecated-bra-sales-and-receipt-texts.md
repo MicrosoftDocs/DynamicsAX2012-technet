@@ -4,7 +4,7 @@ TOCTitle: (BRA) Sales and receipt texts
 ms:assetid: c78a1f27-4112-4463-9ea5-3d42999c6914
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527254(v=AX.60)
 ms:contentKeyID: 59623382
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

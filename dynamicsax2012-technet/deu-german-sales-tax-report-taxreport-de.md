@@ -4,7 +4,7 @@ TOCTitle: (DEU) German sales tax report (TaxReport_DE)
 ms:assetid: 77c9c499-4fec-4e51-9ef9-ce29e80c20bd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496438(v=AX.60)
 ms:contentKeyID: 37072020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

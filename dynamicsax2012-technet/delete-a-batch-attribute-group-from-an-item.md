@@ -4,7 +4,7 @@ TOCTitle: Delete a batch attribute group from an item
 ms:assetid: 2ded1d4d-8265-4b64-a44c-3d869b22644a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208520(v=AX.60)
 ms:contentKeyID: 36056267
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

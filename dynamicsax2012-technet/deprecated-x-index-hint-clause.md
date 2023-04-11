@@ -4,7 +4,7 @@ TOCTitle: X++ index hint clause
 ms:assetid: 2424146a-0681-442c-a316-a55ccd4f8d35
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507158(v=AX.60)
 ms:contentKeyID: 59623247
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

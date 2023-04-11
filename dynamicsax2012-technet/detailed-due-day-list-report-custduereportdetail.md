@@ -4,7 +4,7 @@ TOCTitle: Detailed due day list report (CustDueReportDetail)
 ms:assetid: 25d1fbdc-60fc-4a54-ba5f-8524d9ffb05d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551818(v=AX.60)
 ms:contentKeyID: 36057470
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

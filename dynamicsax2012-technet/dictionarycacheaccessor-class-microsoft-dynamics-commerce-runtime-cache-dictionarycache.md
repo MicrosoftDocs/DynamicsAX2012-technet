@@ -4,7 +4,7 @@ TOCTitle: DictionaryCacheAccessor Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Cache.DictionaryCache.DictionaryCacheAccessor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.cache.dictionarycache.dictionarycacheaccessor(v=AX.60)
 ms:contentKeyID: 65321587
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

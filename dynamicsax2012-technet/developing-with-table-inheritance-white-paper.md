@@ -4,7 +4,7 @@ TOCTitle: Developing with Table Inheritance
 ms:assetid: 540c8506-c723-4106-81ac-6d5d318ccc37
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272865(v=AX.60)
 ms:contentKeyID: 36584389
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

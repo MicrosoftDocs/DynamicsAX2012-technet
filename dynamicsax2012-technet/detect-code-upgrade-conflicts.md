@@ -4,7 +4,7 @@ TOCTitle: Detect code upgrade conflicts
 ms:assetid: fe368442-0046-4233-906a-74b405e3da4e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497071(v=AX.60)
 ms:contentKeyID: 35133342
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: ChargeGroup Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.DeliveryOption.ChargeGroup
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.deliveryoption.chargegroup(v=AX.60)
 ms:contentKeyID: 49854439
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Deploy the default cubes
 ms:assetid: 581f609e-588c-45ce-bc10-32a863ef4589
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309683(v=AX.60)
 ms:contentKeyID: 28119359
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 ---

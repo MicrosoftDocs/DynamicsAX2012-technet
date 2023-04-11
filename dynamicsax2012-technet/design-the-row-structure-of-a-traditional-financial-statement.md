@@ -4,7 +4,7 @@ TOCTitle: Design the row structure of a traditional financial statement
 ms:assetid: af59c513-1f9a-4a8b-ac16-ddd79623f429
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498632(v=AX.60)
 ms:contentKeyID: 44081026
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (IND) Tax adjustment for Direct Tax (TDS/TCS)
 ms:assetid: 815eb5f6-2598-4b18-8077-04a27f597f26
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527152(v=AX.60)
 ms:contentKeyID: 59623281
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

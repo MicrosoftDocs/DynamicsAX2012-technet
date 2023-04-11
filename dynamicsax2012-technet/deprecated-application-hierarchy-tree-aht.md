@@ -4,7 +4,7 @@ TOCTitle: Application Hierarchy Tree (AHT)
 ms:assetid: bdd68234-881a-46df-9df2-da314af96264
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527229(v=AX.60)
 ms:contentKeyID: 59623357
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

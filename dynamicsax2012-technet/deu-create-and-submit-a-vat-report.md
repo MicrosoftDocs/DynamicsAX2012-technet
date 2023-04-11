@@ -4,7 +4,7 @@ TOCTitle: (DEU) Create and submit a VAT report
 ms:assetid: 4609b89f-0e8d-49d0-8d30-ec877b658132
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242385(v=AX.60)
 ms:contentKeyID: 36056899
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

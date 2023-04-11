@@ -4,7 +4,7 @@ TOCTitle: AddEffectiveAmountForPercentOff Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.DiscountLine.AddEffectiveAmountForPercentOff(System.Decimal,System.Decimal,Microsoft.Dynamics.Commerce.Runtime.DataModel.RoundingRule)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.discountline.addeffectiveamountforpercentoff(v=AX.60)
 ms:contentKeyID: 65322905
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

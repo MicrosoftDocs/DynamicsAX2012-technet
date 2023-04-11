@@ -4,7 +4,7 @@ TOCTitle: Delink from or delete a collaboration workspace (Sales and marketing)
 ms:assetid: 5f47e913-8bff-4e6a-bb09-27ad62019081
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209131(v=AX.60)
 ms:contentKeyID: 36057590
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

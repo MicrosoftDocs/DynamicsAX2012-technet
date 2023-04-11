@@ -4,7 +4,7 @@ TOCTitle: Product group for procurement
 ms:assetid: 3aa47e0f-09cc-4313-95bf-890738c56e0c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507104(v=AX.60)
 ms:contentKeyID: 59623194
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

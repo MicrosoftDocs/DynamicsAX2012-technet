@@ -4,7 +4,7 @@ TOCTitle: (RUS) Contracts
 ms:assetid: cdbc9e15-9c2d-414c-9f7f-ca8e2d8dc83c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527246(v=AX.60)
 ms:contentKeyID: 59623374
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

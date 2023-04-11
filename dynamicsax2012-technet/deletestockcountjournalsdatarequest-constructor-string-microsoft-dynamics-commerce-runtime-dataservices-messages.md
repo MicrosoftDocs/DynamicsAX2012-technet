@@ -4,7 +4,7 @@ TOCTitle: DeleteStockCountJournalsDataRequest Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.DeleteStockCountJournalsDataRequest.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.deletestockcountjournalsdatarequest.deletestockcountjournalsdatarequest(v=AX.60)
 ms:contentKeyID: 65322209
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

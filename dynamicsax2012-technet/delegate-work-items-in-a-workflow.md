@@ -4,7 +4,7 @@ TOCTitle: Delegate work items in a workflow
 ms:assetid: b94a479d-9d4b-4815-862b-64869d87f46d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213581(v=AX.60)
 ms:contentKeyID: 35949351
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

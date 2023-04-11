@@ -4,7 +4,7 @@ TOCTitle: Deprecated features
 ms:assetid: 56e18a52-7614-40dc-ba9a-ce5d1505ec8f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527154(v=AX.60)
 ms:contentKeyID: 59623283
-author: Khairunj
+author: tonyafehr
 ms.date: 06/24/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Delete absence journals
 ms:assetid: 06c5806e-be7a-4a49-81a4-339387a05bce
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569719(v=AX.60)
 ms:contentKeyID: 50619630
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

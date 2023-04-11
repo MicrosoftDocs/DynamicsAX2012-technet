@@ -4,7 +4,7 @@ TOCTitle: Define and activate formula ingredients for batch attribute inheritanc
 ms:assetid: a92bb607-fccb-403a-9d40-625467f77d05
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838745(v=AX.60)
 ms:contentKeyID: 50120628
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

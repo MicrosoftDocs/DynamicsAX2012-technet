@@ -4,7 +4,7 @@ TOCTitle: LedgerTrans table
 ms:assetid: 3c486a69-11b7-477e-80e2-1efee05dd55c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507106(v=AX.60)
 ms:contentKeyID: 59623196
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

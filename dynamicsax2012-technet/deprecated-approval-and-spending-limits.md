@@ -4,7 +4,7 @@ TOCTitle: Approval and spending limits
 ms:assetid: 99202ccb-96d3-4d0e-b624-d5d915ef2b72
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527178(v=AX.60)
 ms:contentKeyID: 59623306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
