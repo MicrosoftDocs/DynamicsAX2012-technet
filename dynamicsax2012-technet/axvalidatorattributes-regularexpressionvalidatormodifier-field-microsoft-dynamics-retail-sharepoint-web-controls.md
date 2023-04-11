@@ -4,7 +4,7 @@ TOCTitle: RegularExpressionValidatorModifier Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXValidatorAttributes.RegularExpressionValidatorModifier
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axvalidatorattributes.regularexpressionvalidatormodifier(v=AX.60)
 ms:contentKeyID: 62204710
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

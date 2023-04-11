@@ -4,7 +4,7 @@ TOCTitle: (CHN) Tax registration types
 ms:assetid: 6a74738b-443a-4c6e-9aa8-742f7018655c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ714193(v=AX.60)
 ms:contentKeyID: 49651302
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

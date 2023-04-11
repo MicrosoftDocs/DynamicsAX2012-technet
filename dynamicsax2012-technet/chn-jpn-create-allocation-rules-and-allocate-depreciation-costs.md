@@ -4,7 +4,7 @@ TOCTitle: (CHN, JPN) Create allocation rules and allocate depreciation costs
 ms:assetid: c90c3c2f-6a62-4020-8e5f-f2fa8e74bcd1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn269134(v=AX.60)
 ms:contentKeyID: 54920086
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 f1_keywords:

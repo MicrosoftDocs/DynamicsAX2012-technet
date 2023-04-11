@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a return purchase order
 ms:assetid: cd55f3c7-c387-44bd-88d6-a71b59adc8a2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923390(v=AX.60)
 ms:contentKeyID: 52075275
-author: tfehr
+author: tonyafehr
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About ledger journal types
 ms:assetid: 648ccf23-3a92-49c4-b471-03976fba293d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585226(v=AX.60)
 ms:contentKeyID: 44080988
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: AdditionalSignInOption Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.AdditionalSignInOption.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.additionalsigninoption.additionalsigninoption(v=AX.60)
 ms:contentKeyID: 62206315
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

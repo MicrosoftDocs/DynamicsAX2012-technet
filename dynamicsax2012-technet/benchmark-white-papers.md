@@ -4,7 +4,7 @@ TOCTitle: Benchmark white papers
 ms:assetid: 3f25f10b-7684-43d6-9eb0-092da7d0d1f5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh536205(v=AX.60)
 ms:contentKeyID: 39502819
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

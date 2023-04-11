@@ -4,7 +4,7 @@ TOCTitle: RelationTypeValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.AttributeProduct.RelationTypeValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.attributeproduct.relationtypevalue(v=AX.60)
 ms:contentKeyID: 65318544
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

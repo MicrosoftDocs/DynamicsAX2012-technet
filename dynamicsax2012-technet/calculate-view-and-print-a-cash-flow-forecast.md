@@ -4,7 +4,7 @@ TOCTitle: Calculate, view, and print a cash flow forecast
 ms:assetid: c238d007-ee7f-48c6-a35d-aad314a95ffd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550706(v=AX.60)
 ms:contentKeyID: 36059278
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

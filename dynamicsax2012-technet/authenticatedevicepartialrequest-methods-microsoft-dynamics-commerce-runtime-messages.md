@@ -4,7 +4,7 @@ TOCTitle: AuthenticateDevicePartialRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.AuthenticateDevicePartialRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.authenticatedevicepartialrequest_methods(v=AX.60)
 ms:contentKeyID: 62211059
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

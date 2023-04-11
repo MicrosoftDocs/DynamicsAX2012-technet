@@ -4,7 +4,7 @@ TOCTitle: About Role Center page components
 ms:assetid: 8daed645-4648-471d-83c4-25deb0f472bc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209358(v=AX.60)
 ms:contentKeyID: 36058506
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

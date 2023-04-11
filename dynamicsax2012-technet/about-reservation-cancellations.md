@@ -4,7 +4,7 @@ TOCTitle: About reservation cancellations
 ms:assetid: f0cf5c28-c1a8-4739-9255-a7425e1aa314
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551590(v=AX.60)
 ms:contentKeyID: 36059926
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: AOS architecture
 ms:assetid: 0f8174e4-1f5f-41eb-843a-7c7faf133cc3
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309593(v=AX.60)
 ms:contentKeyID: 35132546
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

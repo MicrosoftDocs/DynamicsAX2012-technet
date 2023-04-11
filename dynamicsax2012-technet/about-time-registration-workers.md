@@ -4,7 +4,7 @@ TOCTitle: About time registration workers
 ms:assetid: 1d5685ab-1190-4776-a18f-68d514e23e1c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496771(v=AX.60)
 ms:contentKeyID: 36056141
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

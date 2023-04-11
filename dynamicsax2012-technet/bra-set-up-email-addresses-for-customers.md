@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up email addresses for customers
 ms:assetid: 39637923-ac88-4686-86dc-b8630921287c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933508(v=AX.60)
 ms:contentKeyID: 50935121
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About service subscriptions
 ms:assetid: 441b3cce-e8ef-43b4-ab56-d934dc51dc3a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496972(v=AX.60)
 ms:contentKeyID: 36056885
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

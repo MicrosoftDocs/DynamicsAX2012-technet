@@ -4,7 +4,7 @@ TOCTitle: About printing packing slips
 ms:assetid: e4c671c3-e138-43a0-9971-455a793933a3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551404(v=AX.60)
 ms:contentKeyID: 36059733
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

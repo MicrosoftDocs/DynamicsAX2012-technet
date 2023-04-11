@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up post interest and fines with centralized payment for vend
 ms:assetid: 7142cb0b-6006-4c14-9834-9852a52e812b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710536(v=AX.60)
 ms:contentKeyID: 49384427
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (CHN) Inventory status report
 ms:assetid: 8eaf7bba-ef8b-4925-b089-be7d0d774a40
 ms:mtpsurl: https://technet.microsoft.com/library/Dn169463(v=AX.60)
 ms:contentKeyID: 53865955
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

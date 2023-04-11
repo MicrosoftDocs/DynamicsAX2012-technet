@@ -4,7 +4,7 @@ TOCTitle: 'Commerce Data Exchange: Synch Service'
 ms:assetid: 4828043f-2f9f-4d72-92a3-bee83388d0d9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ973039(v=AX.60)
 ms:contentKeyID: 51649177
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

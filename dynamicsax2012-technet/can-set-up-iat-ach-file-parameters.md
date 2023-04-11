@@ -4,7 +4,7 @@ TOCTitle: (CAN) Set up IAT ACH file parameters
 ms:assetid: 8884b9a0-aafc-4ebf-9746-10c7d5a24743
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242852(v=AX.60)
 ms:contentKeyID: 36058446
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

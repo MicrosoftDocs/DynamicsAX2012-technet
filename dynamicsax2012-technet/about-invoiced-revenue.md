@@ -4,7 +4,7 @@ TOCTitle: About invoiced revenue
 ms:assetid: 13122f4c-7824-488f-997b-71319907fb75
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496594(v=AX.60)
 ms:contentKeyID: 36966696
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

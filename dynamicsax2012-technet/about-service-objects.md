@@ -4,7 +4,7 @@ TOCTitle: About service objects
 ms:assetid: cebb2b96-f489-46c5-8149-b282934264f6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572704(v=AX.60)
 ms:contentKeyID: 37832535
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 07/29/2014
 mtps_version: v=AX.60

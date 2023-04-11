@@ -4,7 +4,7 @@ TOCTitle: Before you install the help server
 ms:assetid: 61c3e00d-b4ce-47b5-b53a-55e9a5011109
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731816(v=AX.60)
 ms:contentKeyID: 35132663
-author: tfehr
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

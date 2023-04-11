@@ -4,7 +4,7 @@ TOCTitle: (BRA) Assess, pay, declare, and adjust IPI taxes
 ms:assetid: 6569c8c1-eae1-425d-9c7f-33dffcd73a6f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305870(v=AX.60)
 ms:contentKeyID: 54912970
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: CancelOrderRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.CancelOrderRequest.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.cancelorderrequest.cancelorderrequest(v=AX.60)
 ms:contentKeyID: 62211818
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

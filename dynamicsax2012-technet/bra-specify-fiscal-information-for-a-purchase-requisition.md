@@ -4,7 +4,7 @@ TOCTitle: (BRA) Specify fiscal information for a purchase requisition
 ms:assetid: 20b5b793-2c1a-43cd-9733-76809119e3e3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910966(v=AX.60)
 ms:contentKeyID: 52075241
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

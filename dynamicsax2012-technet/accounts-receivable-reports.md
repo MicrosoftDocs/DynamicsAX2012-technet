@@ -4,7 +4,7 @@ TOCTitle: Accounts receivable reports
 ms:assetid: 6b077790-65af-4468-9264-0a228167a8d4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334491(v=AX.60)
 ms:contentKeyID: 36676478
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

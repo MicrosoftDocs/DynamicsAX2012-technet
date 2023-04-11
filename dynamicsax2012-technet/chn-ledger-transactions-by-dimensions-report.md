@@ -4,7 +4,7 @@ TOCTitle: (CHN) Ledger transactions by dimensions (report)
 ms:assetid: 17a07488-37b8-407e-ae5c-4338e2a77c19
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944967(v=AX.60)
 ms:contentKeyID: 51412467
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

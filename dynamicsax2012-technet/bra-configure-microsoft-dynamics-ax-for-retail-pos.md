@@ -4,7 +4,7 @@ TOCTitle: (BRA) Configure Microsoft Dynamics AX for Retail POS
 ms:assetid: 313ab46d-9208-4032-b674-01fb37d8305d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497714(v=AX.60)
 ms:contentKeyID: 62200231
-author: tfehr
+author: tonyafehr
 ms.date: 04/28/2014
 mtps_version: v=AX.60
 f1_keywords:

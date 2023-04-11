@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate and print financial statements
 ms:assetid: 1a7226ec-f34d-414e-9cf3-494a35138139
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710425(v=AX.60)
 ms:contentKeyID: 49384319
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a return sales order
 ms:assetid: fcbf3402-3f51-4add-9b59-e2d07eb39d22
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937997(v=AX.60)
 ms:contentKeyID: 50950786
-author: tfehr
+author: tonyafehr
 ms.date: 11/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (AUS) Print Australian BAS report (TaxReport_AU)
 ms:assetid: e6e0a718-6bfa-4291-807a-995a088270c3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa558463(v=AX.60)
 ms:contentKeyID: 36687386
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

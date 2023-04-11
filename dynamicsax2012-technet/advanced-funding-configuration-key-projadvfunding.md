@@ -4,7 +4,7 @@ TOCTitle: Advanced funding configuration key (ProjAdvFunding)
 ms:assetid: 2af0da0f-874f-4eb5-9642-0d5248a3fd55
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580487(v=AX.60)
 ms:contentKeyID: 39518952
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

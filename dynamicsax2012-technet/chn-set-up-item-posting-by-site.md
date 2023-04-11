@@ -4,7 +4,7 @@ TOCTitle: (CHN) Set up item posting by site
 ms:assetid: 046d2892-3a9c-409a-94f0-f6fd883656e8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663989(v=AX.60)
 ms:contentKeyID: 49384576
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

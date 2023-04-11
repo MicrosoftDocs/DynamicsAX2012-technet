@@ -4,7 +4,7 @@ TOCTitle: About calculating multiline discount on purchase order lines
 ms:assetid: d4f492a5-4bc1-4897-957b-aa27a90190d6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa557714(v=AX.60)
 ms:contentKeyID: 36931882
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

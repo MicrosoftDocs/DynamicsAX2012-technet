@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a vendor payment journal with a default descript
 ms:assetid: eb9849eb-a1b1-456d-b4e0-2b0883dcda94
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663964(v=AX.60)
 ms:contentKeyID: 49384552
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

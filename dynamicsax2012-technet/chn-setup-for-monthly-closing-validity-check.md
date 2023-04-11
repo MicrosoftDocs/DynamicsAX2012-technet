@@ -4,7 +4,7 @@ TOCTitle: (CHN) Setup for monthly closing (validity check)
 ms:assetid: 222e2346-fb36-4b07-ae6b-20cc639ab151
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664012(v=AX.60)
 ms:contentKeyID: 49384596
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

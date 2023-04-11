@@ -4,7 +4,7 @@ TOCTitle: About automatically creating service orders
 ms:assetid: fd26f268-b49b-47ee-9172-2e8e6b9444ec
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500103(v=AX.60)
 ms:contentKeyID: 36060100
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

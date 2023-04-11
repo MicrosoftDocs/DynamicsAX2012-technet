@@ -4,7 +4,7 @@ TOCTitle: (CHN) Create an external invoice
 ms:assetid: 2706c3cd-18eb-4008-9e3e-19c8341b9dee
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664015(v=AX.60)
 ms:contentKeyID: 49384599
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

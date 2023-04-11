@@ -4,7 +4,7 @@ TOCTitle: HideIfExists Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AXDataBindAttributes.HideIfExists
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.axdatabindattributes.hideifexists(v=AX.60)
 ms:contentKeyID: 62206643
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

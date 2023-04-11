@@ -4,7 +4,7 @@ TOCTitle: (CHN) Approve a journal
 ms:assetid: e90752bf-f0d0-4073-aa04-8e199b9fac5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664145(v=AX.60)
 ms:contentKeyID: 49384727
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

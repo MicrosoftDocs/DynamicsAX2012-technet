@@ -4,7 +4,7 @@ TOCTitle: About reducing balance depreciation
 ms:assetid: dd47c83e-b38a-4acc-8066-5bfd498a49a6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551268(v=AX.60)
 ms:contentKeyID: 36931884
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

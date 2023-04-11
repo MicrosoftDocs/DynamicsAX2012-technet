@@ -4,7 +4,7 @@ TOCTitle: Adjust flex time, unit count, and statistical payroll balances
 ms:assetid: 592d0181-361f-4672-95f8-1e9f0c063033
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549074(v=AX.60)
 ms:contentKeyID: 36057347
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

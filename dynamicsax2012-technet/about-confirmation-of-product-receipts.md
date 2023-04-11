@@ -4,7 +4,7 @@ TOCTitle: About confirmation of product receipts
 ms:assetid: f6344de6-140b-4cc6-9fb6-a20bf84749b8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299226(v=AX.60)
 ms:contentKeyID: 36384332
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

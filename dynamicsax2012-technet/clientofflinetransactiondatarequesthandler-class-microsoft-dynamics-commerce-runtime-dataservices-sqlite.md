@@ -4,7 +4,7 @@ TOCTitle: ClientOfflineTransactionDataRequestHandler Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.ClientOfflineTransactionDataRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.clientofflinetransactiondatarequesthandler(v=AX.60)
 ms:contentKeyID: 65323112
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

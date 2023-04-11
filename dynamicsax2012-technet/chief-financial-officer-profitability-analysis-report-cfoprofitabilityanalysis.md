@@ -4,7 +4,7 @@ TOCTitle: Chief financial officer profitability analysis report (CFOProfitabilit
 ms:assetid: f2916954-231c-47dd-9251-b897014d6217
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692484(v=AX.60)
 ms:contentKeyID: 41702381
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

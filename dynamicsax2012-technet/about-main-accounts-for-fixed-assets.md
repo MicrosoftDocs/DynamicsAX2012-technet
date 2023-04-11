@@ -4,7 +4,7 @@ TOCTitle: About main accounts for fixed assets
 ms:assetid: e0864411-ca99-4807-9fe2-a88bac8f9d78
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551308(v=AX.60)
 ms:contentKeyID: 43876672
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

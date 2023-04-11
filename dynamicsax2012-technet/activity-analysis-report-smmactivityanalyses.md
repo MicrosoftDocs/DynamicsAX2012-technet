@@ -4,7 +4,7 @@ TOCTitle: Activity analysis report (smmActivityAnalyses)
 ms:assetid: 3154ea66-0c2f-4943-928f-0a6cc1be9a21
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834518(v=AX.60)
 ms:contentKeyID: 36899729
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

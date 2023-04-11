@@ -4,7 +4,7 @@ TOCTitle: (CAN) General Index of Financial Information (GIFI) codes for Canadian
 ms:assetid: 69e8a761-1faa-48fc-9cc1-638ae426c069
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585796(v=AX.60)
 ms:contentKeyID: 36057975
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

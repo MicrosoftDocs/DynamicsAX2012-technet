@@ -4,7 +4,7 @@ TOCTitle: 'Commerce Data Exchange: Real-time Service'
 ms:assetid: 7dc09b26-47ba-403e-9b69-a61601d46bae
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679919(v=AX.60)
 ms:contentKeyID: 49557901
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

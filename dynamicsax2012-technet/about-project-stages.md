@@ -4,7 +4,7 @@ TOCTitle: About project stages
 ms:assetid: 9a3e4a61-cd36-4b46-9047-e5fb54d170b0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498453(v=AX.60)
 ms:contentKeyID: 36058703
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

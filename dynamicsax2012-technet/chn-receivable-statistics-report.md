@@ -4,7 +4,7 @@ TOCTitle: (CHN) Receivable statistics report
 ms:assetid: 1b5e3949-b037-4901-8512-f4f7edec880d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944968(v=AX.60)
 ms:contentKeyID: 51412468
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

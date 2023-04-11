@@ -4,7 +4,7 @@ TOCTitle: Eval Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Address.Eval
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.address.eval(v=AX.60)
 ms:contentKeyID: 62206188
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Process electronic payment returns
 ms:assetid: f081271e-fcd2-4ea0-9a71-d330ceb5cb35
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730979(v=AX.60)
 ms:contentKeyID: 49675209
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

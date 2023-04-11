@@ -4,7 +4,7 @@ TOCTitle: (CHN) Purchase shipment analysis (report)
 ms:assetid: 70796558-9d61-418b-8158-90f432f82a1a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn169461(v=AX.60)
 ms:contentKeyID: 53865953
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

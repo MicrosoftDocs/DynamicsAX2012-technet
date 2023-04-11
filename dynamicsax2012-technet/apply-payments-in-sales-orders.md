@@ -4,7 +4,7 @@ TOCTitle: Apply payments in sales orders
 ms:assetid: 6bda95fa-c712-4988-933d-78abf5291f40
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497786(v=AX.60)
 ms:contentKeyID: 62200085
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

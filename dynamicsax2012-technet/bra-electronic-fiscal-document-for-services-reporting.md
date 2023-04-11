@@ -4,7 +4,7 @@ TOCTitle: (BRA) Electronic fiscal document for services reporting
 ms:assetid: d549b62c-7733-405f-be82-61eaee487c38
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663940(v=AX.60)
 ms:contentKeyID: 49384525
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

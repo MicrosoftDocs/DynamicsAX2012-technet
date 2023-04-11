@@ -4,7 +4,7 @@ TOCTitle: (AUS) Transfer one asset to a low-value pool
 ms:assetid: 53a2f723-3751-4c0b-8010-5820f65fd950
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212796(v=AX.60)
 ms:contentKeyID: 36057300
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

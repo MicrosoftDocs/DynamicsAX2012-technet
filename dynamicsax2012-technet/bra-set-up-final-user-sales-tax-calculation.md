@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up final user sales tax calculation
 ms:assetid: 45780bd5-cb52-4d4b-b433-58d6a8e29a8a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710484(v=AX.60)
 ms:contentKeyID: 49384375
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

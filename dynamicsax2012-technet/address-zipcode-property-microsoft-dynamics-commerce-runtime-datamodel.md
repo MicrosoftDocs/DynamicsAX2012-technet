@@ -4,7 +4,7 @@ TOCTitle: ZipCode Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Address.ZipCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.address.zipcode(v=AX.60)
 ms:contentKeyID: 49822685
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

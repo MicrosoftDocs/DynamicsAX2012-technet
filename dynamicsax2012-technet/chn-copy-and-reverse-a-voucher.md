@@ -4,7 +4,7 @@ TOCTitle: (CHN) Copy and reverse a voucher
 ms:assetid: 339adbdf-f41a-4425-a09c-11697866405a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664019(v=AX.60)
 ms:contentKeyID: 49384603
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

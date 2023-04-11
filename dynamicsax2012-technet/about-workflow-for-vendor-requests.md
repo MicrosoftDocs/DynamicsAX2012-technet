@@ -4,7 +4,7 @@ TOCTitle: About workflow for vendor requests
 ms:assetid: de80fda2-4108-4d86-8f2b-2f21c1a463f4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227413(v=AX.60)
 ms:contentKeyID: 36059689
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

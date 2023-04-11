@@ -4,7 +4,7 @@ TOCTitle: AppSettingNames Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Retail.SharePoint.Web.Common.AppSettingNames
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.appsettingnames_fields(v=AX.60)
 ms:contentKeyID: 62207687
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

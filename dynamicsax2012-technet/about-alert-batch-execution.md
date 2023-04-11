@@ -4,7 +4,7 @@ TOCTitle: About alert batch execution
 ms:assetid: fb6df49f-fa76-4e80-a6e7-a8cd284dffb8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570106(v=AX.60)
 ms:contentKeyID: 46687574
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

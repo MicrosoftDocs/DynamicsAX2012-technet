@@ -4,7 +4,7 @@ TOCTitle: ButtonGridIdColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.ButtonGrid.ButtonGridIdColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.buttongrid.buttongrididcolumn(v=AX.60)
 ms:contentKeyID: 65322626
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

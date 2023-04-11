@@ -4,7 +4,7 @@ TOCTitle: About expense reports and multiple approvers
 ms:assetid: 12f35be2-a3d2-430f-b9df-ff83c1a9a300
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580573(v=AX.60)
 ms:contentKeyID: 39519052
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

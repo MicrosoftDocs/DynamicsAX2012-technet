@@ -4,7 +4,7 @@ TOCTitle: (CAN, USA) Set up a bank parameter to reuse check numbers
 ms:assetid: 1ab0e327-2f40-44fc-8a1f-e778dda159a5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230972(v=AX.60)
 ms:contentKeyID: 36056126
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

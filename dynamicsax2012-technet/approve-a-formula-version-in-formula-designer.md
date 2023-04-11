@@ -4,7 +4,7 @@ TOCTitle: Approve a formula version in Formula designer
 ms:assetid: 723ba732-2287-4fe0-96d1-950e256900ad
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242652(v=AX.60)
 ms:contentKeyID: 36058073
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

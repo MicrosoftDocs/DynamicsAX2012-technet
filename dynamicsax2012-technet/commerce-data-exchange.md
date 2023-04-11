@@ -4,7 +4,7 @@ TOCTitle: Commerce Data Exchange
 ms:assetid: 33ee0ecd-24f7-4b8a-8f01-c76c5f9710e0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741440(v=AX.60)
 ms:contentKeyID: 62219718
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

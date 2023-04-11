@@ -4,7 +4,7 @@ TOCTitle: About pallet transports
 ms:assetid: 0f19b6c8-2d90-4781-b011-fe4f749c419a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496416(v=AX.60)
 ms:contentKeyID: 36056017
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

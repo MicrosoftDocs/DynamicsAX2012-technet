@@ -4,7 +4,7 @@ TOCTitle: About refill pallet transports
 ms:assetid: 6fd54cde-5896-417b-b33b-85f706330346
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231821(v=AX.60)
 ms:contentKeyID: 44080992
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

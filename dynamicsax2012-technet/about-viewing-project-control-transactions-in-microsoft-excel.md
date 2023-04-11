@@ -4,7 +4,7 @@ TOCTitle: About viewing project control transactions in Microsoft Excel
 ms:assetid: 8683d3d3-a005-4041-9189-5675c0ddb21f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213180(v=AX.60)
 ms:contentKeyID: 36811415
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

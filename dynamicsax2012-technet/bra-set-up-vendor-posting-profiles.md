@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up vendor posting profiles
 ms:assetid: 8b3906c5-b101-4c2b-9941-073c4f8d041d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710560(v=AX.60)
 ms:contentKeyID: 49384450
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

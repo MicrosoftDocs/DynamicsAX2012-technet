@@ -4,7 +4,7 @@ TOCTitle: About intercompany timesheets
 ms:assetid: e408e773-827a-410c-8392-0a2368af4f2a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597266(v=AX.60)
 ms:contentKeyID: 39519346
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 10/15/2014
 mtps_version: v=AX.60

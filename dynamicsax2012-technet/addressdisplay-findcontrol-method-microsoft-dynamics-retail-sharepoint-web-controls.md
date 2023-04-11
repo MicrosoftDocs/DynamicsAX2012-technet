@@ -4,7 +4,7 @@ TOCTitle: FindControl Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AddressDisplay.FindControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.addressdisplay.findcontrol(v=AX.60)
 ms:contentKeyID: 62202298
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

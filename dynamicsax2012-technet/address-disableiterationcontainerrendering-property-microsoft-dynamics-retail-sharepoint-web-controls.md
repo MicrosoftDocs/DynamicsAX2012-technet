@@ -4,7 +4,7 @@ TOCTitle: DisableIterationContainerRendering Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.Address.DisableIterationContainerRendering
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.address.disableiterationcontainerrendering(v=AX.60)
 ms:contentKeyID: 62204049
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

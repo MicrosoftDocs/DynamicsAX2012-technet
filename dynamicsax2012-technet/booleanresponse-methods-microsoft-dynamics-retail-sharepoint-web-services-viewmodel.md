@@ -4,7 +4,7 @@ TOCTitle: BooleanResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.BooleanResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.booleanresponse_methods(v=AX.60)
 ms:contentKeyID: 62205816
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

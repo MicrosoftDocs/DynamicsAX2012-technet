@@ -4,7 +4,7 @@ TOCTitle: (BRA) About the configurator
 ms:assetid: b606f82b-bbf5-4707-b9ea-3ab6b826ce36
 ms:mtpsurl: https://technet.microsoft.com/library/JJ863734(v=AX.60)
 ms:contentKeyID: 50396417
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

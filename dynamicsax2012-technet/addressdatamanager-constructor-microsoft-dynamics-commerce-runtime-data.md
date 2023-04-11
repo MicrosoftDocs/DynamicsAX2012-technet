@@ -4,7 +4,7 @@ TOCTitle: AddressDataManager Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.AddressDataManager.#ctor(Microsoft.Dynamics.Commerce.Runtime.RequestContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.addressdatamanager.addressdatamanager(v=AX.60)
 ms:contentKeyID: 62211723
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

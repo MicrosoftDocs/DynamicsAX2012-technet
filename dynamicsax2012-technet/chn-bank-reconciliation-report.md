@@ -4,7 +4,7 @@ TOCTitle: (CHN) Bank reconciliation (report)
 ms:assetid: d19dcb3d-133d-4111-beaa-fe279babc88b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ873748(v=AX.60)
 ms:contentKeyID: 50593461
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: About reporting production orders as finished
 ms:assetid: a29ca5bf-0e5b-4536-ace5-3e2258107b43
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571832(v=AX.60)
 ms:contentKeyID: 37008248
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

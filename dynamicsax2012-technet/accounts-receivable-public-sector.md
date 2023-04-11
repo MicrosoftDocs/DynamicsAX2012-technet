@@ -4,7 +4,7 @@ TOCTitle: Accounts receivable (Public sector)
 ms:assetid: 07463534-18bf-4f7f-9aaa-d8025c690bab
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208499(v=AX.60)
 ms:contentKeyID: 36056237
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

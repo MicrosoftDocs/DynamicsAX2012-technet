@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate the Sintegra tax statement
 ms:assetid: 5c0d1297-5624-4523-83e8-ef9f6f24e939
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600274(v=AX.60)
 ms:contentKeyID: 62200236
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About campaign target distribution
 ms:assetid: 47c40041-1967-47c3-b0aa-cb002ca4a137
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496998(v=AX.60)
 ms:contentKeyID: 37832500
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

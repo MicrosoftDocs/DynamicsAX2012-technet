@@ -4,7 +4,7 @@ TOCTitle: Add an approved vendor to an item
 ms:assetid: 9cdcafcd-2f2d-4406-8d1c-d10c346186e8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352309(v=AX.60)
 ms:contentKeyID: 36687938
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

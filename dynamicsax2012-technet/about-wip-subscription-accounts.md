@@ -4,7 +4,7 @@ TOCTitle: About WIP subscription accounts
 ms:assetid: 5a19469d-e7ac-43c6-b84c-2a6f037e7623
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549078(v=AX.60)
 ms:contentKeyID: 36057351
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: TaxGroup Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Address.TaxGroup
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.address.taxgroup(v=AX.60)
 ms:contentKeyID: 62207774
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

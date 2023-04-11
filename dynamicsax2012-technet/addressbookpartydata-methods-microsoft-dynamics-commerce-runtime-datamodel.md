@@ -4,7 +4,7 @@ TOCTitle: AddressBookPartyData Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.AddressBookPartyData
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.addressbookpartydata_methods(v=AX.60)
 ms:contentKeyID: 62213073
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

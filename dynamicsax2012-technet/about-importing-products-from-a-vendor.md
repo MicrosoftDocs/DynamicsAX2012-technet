@@ -4,7 +4,7 @@ TOCTitle: About importing products from a vendor
 ms:assetid: 5a0bc98c-6e42-4138-a470-6d8f6768d68b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597102(v=AX.60)
 ms:contentKeyID: 39519150
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

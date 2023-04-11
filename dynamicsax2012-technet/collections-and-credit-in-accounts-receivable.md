@@ -4,7 +4,7 @@ TOCTitle: Collections and credit in Accounts receivable
 ms:assetid: 72ec4090-d516-4a47-b9ac-7f5ece30351c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209221(v=AX.60)
 ms:contentKeyID: 36058131
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

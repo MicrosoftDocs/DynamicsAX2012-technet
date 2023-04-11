@@ -4,7 +4,7 @@ TOCTitle: (CHN) Customer balance inquiry (report)
 ms:assetid: 7ab870a2-bd58-44d8-88b6-cd223cc80d1c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944973(v=AX.60)
 ms:contentKeyID: 51412473
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

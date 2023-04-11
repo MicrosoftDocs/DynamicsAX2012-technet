@@ -4,7 +4,7 @@ TOCTitle: Add an output order to an existing shipment
 ms:assetid: ee8ec27d-70e2-4023-b93a-22a22bbd98c8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243263(v=AX.60)
 ms:contentKeyID: 42518599
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

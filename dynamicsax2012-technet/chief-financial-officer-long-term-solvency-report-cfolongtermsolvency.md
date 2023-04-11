@@ -4,7 +4,7 @@ TOCTitle: Chief financial officer long-term solvency report (CFOLongTermSolvency
 ms:assetid: 5d90d7d4-88a6-47a9-8f5f-5a239d5aeabb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692464(v=AX.60)
 ms:contentKeyID: 41702360
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

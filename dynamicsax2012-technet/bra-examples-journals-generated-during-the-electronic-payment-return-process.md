@@ -4,7 +4,7 @@ TOCTitle: '(BRA) Examples: Journals generated during the electronic payment retu
 ms:assetid: 1498434d-1540-4e1b-bcbd-d1319f8af656
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730964(v=AX.60)
 ms:contentKeyID: 49675194
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

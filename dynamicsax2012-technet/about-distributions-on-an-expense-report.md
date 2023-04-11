@@ -4,7 +4,7 @@ TOCTitle: About distributions on an expense report
 ms:assetid: fe104119-53f1-459a-9f18-dceba8ed9b4d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243310(v=AX.60)
 ms:contentKeyID: 36811443
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

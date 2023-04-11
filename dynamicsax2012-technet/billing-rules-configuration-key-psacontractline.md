@@ -4,7 +4,7 @@ TOCTitle: Billing rules configuration key (PSAContractLine)
 ms:assetid: 2c055d74-4ffd-4627-9fbe-0d29c7e82a55
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500150(v=AX.60)
 ms:contentKeyID: 37820180
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

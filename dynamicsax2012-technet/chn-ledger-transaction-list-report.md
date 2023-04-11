@@ -4,7 +4,7 @@ TOCTitle: (CHN) Ledger transaction list (report)
 ms:assetid: 7cb4eb12-3d26-4195-8d6c-605d3452a62b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ874408(v=AX.60)
 ms:contentKeyID: 50619724
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

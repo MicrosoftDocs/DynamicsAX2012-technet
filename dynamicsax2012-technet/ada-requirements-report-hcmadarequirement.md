@@ -4,7 +4,7 @@ TOCTitle: ADA requirements report (HcmADARequirement)
 ms:assetid: bfe39a00-b7e4-44e8-90ac-ee28d55584fb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ841463(v=AX.60)
 ms:contentKeyID: 50411102
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

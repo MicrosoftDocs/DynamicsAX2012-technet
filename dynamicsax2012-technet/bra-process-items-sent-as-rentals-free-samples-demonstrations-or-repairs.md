@@ -4,7 +4,7 @@ TOCTitle: (BRA) Process items sent as rentals, free samples, demonstrations, or 
 ms:assetid: 48983ca0-3f21-42a5-8130-0176b9a77efc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ863724(v=AX.60)
 ms:contentKeyID: 50396407
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About intercompany reservations
 ms:assetid: 6ff626ea-5a97-4e90-94d6-a796cf68fd64
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571299(v=AX.60)
 ms:contentKeyID: 36058051
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

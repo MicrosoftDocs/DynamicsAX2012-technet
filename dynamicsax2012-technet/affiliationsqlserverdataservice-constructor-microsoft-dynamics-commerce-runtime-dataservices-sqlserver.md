@@ -4,7 +4,7 @@ TOCTitle: AffiliationSqlServerDataService Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.AffiliationSqlServerDataService.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.affiliationsqlserverdataservice.affiliationsqlserverdataservice(v=AX.60)
 ms:contentKeyID: 65323161
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

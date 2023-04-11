@@ -4,7 +4,7 @@ TOCTitle: About setting up alert email templates
 ms:assetid: a8466f12-283c-454b-94a1-0d720c566229
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834423(v=AX.60)
 ms:contentKeyID: 46687561
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About setting up screen layouts
 ms:assetid: 0eef4cc3-3cb7-4349-947c-02061374ece6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580568(v=AX.60)
 ms:contentKeyID: 39519046
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: (BEL) Sales tax transactions - details report (TaxTransDetail_BE)
 ms:assetid: 1cc5424f-6718-4e20-8ea8-87048e12307d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692458(v=AX.60)
 ms:contentKeyID: 41702353
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

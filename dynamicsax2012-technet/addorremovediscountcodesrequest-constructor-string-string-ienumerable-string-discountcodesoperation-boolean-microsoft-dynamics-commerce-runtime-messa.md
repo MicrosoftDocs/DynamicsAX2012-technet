@@ -4,7 +4,7 @@ TOCTitle: AddOrRemoveDiscountCodesRequest Constructor (String, String, IEnumerab
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.AddOrRemoveDiscountCodesRequest.#ctor(System.String,System.String,System.Collections.Generic.IEnumerable{System.String},Microsoft.Dynamics.Commerce.Runtime.DataModel.DiscountCodesOperation,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.addorremovediscountcodesrequest.addorremovediscountcodesrequest(v=AX.60)
 ms:contentKeyID: 65320167
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

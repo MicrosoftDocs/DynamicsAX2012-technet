@@ -4,7 +4,7 @@ TOCTitle: About request for quotation statuses
 ms:assetid: 3b97a16c-e29e-48c0-a54b-2cf14dbf2885
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231148(v=AX.60)
 ms:contentKeyID: 36056650
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 03/25/2015
 mtps_version: v=AX.60

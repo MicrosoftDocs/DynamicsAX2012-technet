@@ -4,7 +4,7 @@ TOCTitle: About variants
 ms:assetid: 5a719b98-375c-4172-a655-99d3b061b1f4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597103(v=AX.60)
 ms:contentKeyID: 39519151
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

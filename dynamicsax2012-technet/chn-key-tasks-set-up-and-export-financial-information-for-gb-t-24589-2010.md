@@ -4,7 +4,7 @@ TOCTitle: '(CHN) Key tasks: Set up and export financial information for GB/T 245
 ms:assetid: e9cea1b1-7aae-4944-865b-cfd3ba129843
 ms:mtpsurl: https://technet.microsoft.com/library/JJ670114(v=AX.60)
 ms:contentKeyID: 49478306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

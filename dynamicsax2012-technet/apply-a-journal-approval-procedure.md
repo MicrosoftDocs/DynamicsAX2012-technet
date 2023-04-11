@@ -4,7 +4,7 @@ TOCTitle: Apply a journal approval procedure
 ms:assetid: 0ed8c6d3-b90a-4e40-a84f-e2b057b6fba7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496413(v=AX.60)
 ms:contentKeyID: 36811394
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

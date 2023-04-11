@@ -4,7 +4,7 @@ TOCTitle: About employment affiliations
 ms:assetid: 255633f2-1930-404c-9bf8-63365224131a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496818(v=AX.60)
 ms:contentKeyID: 36056193
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

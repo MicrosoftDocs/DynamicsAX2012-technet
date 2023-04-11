@@ -4,7 +4,7 @@ TOCTitle: Accounting manager investment analysis report (AccountingManagerInvest
 ms:assetid: 3799b414-7382-4cf5-9232-0d153d16d450
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692461(v=AX.60)
 ms:contentKeyID: 41702357
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

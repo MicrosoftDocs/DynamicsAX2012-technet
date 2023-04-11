@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up NFC-e parameters to issue an NFC-e for a POS sales transa
 ms:assetid: ef4dd189-e5ec-41e4-bb0c-023efc30046d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876576(v=AX.60)
 ms:contentKeyID: 63378992
-author: tfehr
+author: tonyafehr
 ms.date: 02/27/2015
 mtps_version: v=AX.60
 audience: Application User

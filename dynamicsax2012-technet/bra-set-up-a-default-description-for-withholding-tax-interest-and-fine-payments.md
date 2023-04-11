@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up a default description for withholding tax, interest, and 
 ms:assetid: a229d48e-d373-4e8c-8d5a-2dc73bf76d9d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710575(v=AX.60)
 ms:contentKeyID: 49384474
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

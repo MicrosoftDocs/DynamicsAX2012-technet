@@ -4,7 +4,7 @@ TOCTitle: (CHN) Customer balance by dimension (China) (report)
 ms:assetid: 07e1761b-c10f-41e7-9308-9e7341f7661a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ944965(v=AX.60)
 ms:contentKeyID: 51412465
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

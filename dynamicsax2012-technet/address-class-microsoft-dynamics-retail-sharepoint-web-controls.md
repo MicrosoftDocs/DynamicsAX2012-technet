@@ -4,7 +4,7 @@ TOCTitle: Address Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.Address
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.address(v=AX.60)
 ms:contentKeyID: 62205991
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

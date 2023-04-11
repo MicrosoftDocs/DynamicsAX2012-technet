@@ -4,7 +4,7 @@ TOCTitle: AddOrRemoveDiscountCodesRequestHandler Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.AddOrRemoveDiscountCodesRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.addorremovediscountcodesrequesthandler_properties(v=AX.60)
 ms:contentKeyID: 65320459
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

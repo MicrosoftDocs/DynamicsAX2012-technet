@@ -4,7 +4,7 @@ TOCTitle: (BRA) Dispose of a CIAP fixed asset
 ms:assetid: 5188bb97-5736-4fab-af5e-7a41dc5c8d0c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305867(v=AX.60)
 ms:contentKeyID: 54912967
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

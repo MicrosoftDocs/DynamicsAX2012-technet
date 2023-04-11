@@ -4,7 +4,7 @@ TOCTitle: DeviceNumber Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.AuthenticateDeviceServiceRequest.DeviceNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.authenticatedeviceservicerequest.devicenumber(v=AX.60)
 ms:contentKeyID: 62213545
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

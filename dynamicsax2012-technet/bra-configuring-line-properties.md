@@ -4,7 +4,7 @@ TOCTitle: (BRA) Configuring line properties
 ms:assetid: 53fe1a6e-122a-46ca-947b-db4bc632d391
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710501(v=AX.60)
 ms:contentKeyID: 49384392
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

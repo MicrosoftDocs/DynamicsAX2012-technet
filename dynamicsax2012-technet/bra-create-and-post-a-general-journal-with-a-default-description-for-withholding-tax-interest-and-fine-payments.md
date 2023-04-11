@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a general journal with a default description for
 ms:assetid: ddf2a07f-642b-44f9-b707-9a0b2cfdc48a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663953(v=AX.60)
 ms:contentKeyID: 49384540
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About service tasks
 ms:assetid: 936f02fb-e32e-43fa-ae57-5582128af12c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498387(v=AX.60)
 ms:contentKeyID: 36058582
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

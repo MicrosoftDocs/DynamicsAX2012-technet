@@ -4,7 +4,7 @@ TOCTitle: (CHN) Set up the Chinese user interface
 ms:assetid: 022a82d8-1c1d-413e-b4b0-f0b73a48253b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663984(v=AX.60)
 ms:contentKeyID: 49384570
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

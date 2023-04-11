@@ -4,7 +4,7 @@ TOCTitle: (CHN) Account analysis by dimensions (report)
 ms:assetid: 75c7b241-2600-4742-9ddd-505101604204
 ms:mtpsurl: https://technet.microsoft.com/library/JJ873745(v=AX.60)
 ms:contentKeyID: 50593462
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

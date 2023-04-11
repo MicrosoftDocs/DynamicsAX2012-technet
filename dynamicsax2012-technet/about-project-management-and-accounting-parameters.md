@@ -4,7 +4,7 @@ TOCTitle: About Project management and accounting parameters
 ms:assetid: ef05876f-1954-453b-afa5-bb03749000f0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500671(v=AX.60)
 ms:contentKeyID: 37822167
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 11/12/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About statuses for purchase requisitions
 ms:assetid: 47a8992a-64e5-434f-9fe8-98243745e196
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231397(v=AX.60)
 ms:contentKeyID: 36056915
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

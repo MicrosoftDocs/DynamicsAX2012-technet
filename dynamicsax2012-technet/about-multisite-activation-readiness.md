@@ -4,7 +4,7 @@ TOCTitle: About multisite activation readiness
 ms:assetid: ad01439b-d81f-439f-9c8c-2e0acae556e5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg188987(v=AX.60)
 ms:contentKeyID: 35410567
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

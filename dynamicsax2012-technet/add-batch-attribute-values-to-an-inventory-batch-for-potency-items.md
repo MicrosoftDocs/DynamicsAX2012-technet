@@ -4,7 +4,7 @@ TOCTitle: Add batch attribute values to an inventory batch for potency items
 ms:assetid: c4631261-6544-4d85-b86c-6147b77223e6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838748(v=AX.60)
 ms:contentKeyID: 50120631
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

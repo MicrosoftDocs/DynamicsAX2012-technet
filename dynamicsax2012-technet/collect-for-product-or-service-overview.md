@@ -4,7 +4,7 @@ TOCTitle: Collect for product or service overview
 ms:assetid: 6bd425dd-32da-4cd3-99a1-c8feb9647e2c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231788(v=AX.60)
 ms:contentKeyID: 36057994
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

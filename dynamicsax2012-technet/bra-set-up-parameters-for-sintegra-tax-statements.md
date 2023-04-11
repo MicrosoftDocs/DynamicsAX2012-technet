@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up parameters for Sintegra tax statements
 ms:assetid: d2ddae45-e6c0-45a1-b0e2-230c566c583f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600281(v=AX.60)
 ms:contentKeyID: 62200246
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

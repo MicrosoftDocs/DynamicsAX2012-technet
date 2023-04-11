@@ -4,7 +4,7 @@ TOCTitle: Approve time and attendance registrations
 ms:assetid: 09c79081-edec-4e3a-a7ee-eb0d5c239467
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569735(v=AX.60)
 ms:contentKeyID: 49384093
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

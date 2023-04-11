@@ -4,7 +4,7 @@ TOCTitle: RequiresAuthentication Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Authentication.RequiresAuthentication
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.authentication.requiresauthentication(v=AX.60)
 ms:contentKeyID: 62206353
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

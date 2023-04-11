@@ -4,7 +4,7 @@ TOCTitle: (BRA) Configure Retail point of sale (POS) features for Microsoft Dyna
 ms:assetid: c78cd61e-5b2a-4617-a31a-fa93ca3376cf
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497731(v=AX.60)
 ms:contentKeyID: 62200245
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Accounting manager operational efficiency report (AccountingManagerOpe
 ms:assetid: d72fdd14-5b0d-4ffb-9df1-8cbcc5e632c4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692481(v=AX.60)
 ms:contentKeyID: 41702378
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

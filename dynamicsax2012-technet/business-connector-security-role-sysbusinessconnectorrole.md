@@ -4,7 +4,7 @@ TOCTitle: Business Connector security role (SysBusinessConnectorRole)
 ms:assetid: 77635c9a-c414-43d8-8b53-15d06cf92e95
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527714(v=AX.60)
 ms:contentKeyID: 37831919
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

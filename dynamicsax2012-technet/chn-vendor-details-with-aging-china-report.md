@@ -4,7 +4,7 @@ TOCTitle: (CHN) Vendor details with aging (China) (report)
 ms:assetid: 54b52d9b-bdc9-44c8-911b-c98aa89f33ce
 ms:mtpsurl: https://technet.microsoft.com/library/JJ945390(v=AX.60)
 ms:contentKeyID: 51442781
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

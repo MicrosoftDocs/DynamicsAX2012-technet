@@ -4,7 +4,7 @@ TOCTitle: Attach a question to a questionnaire without result groups
 ms:assetid: c539a999-456b-47d0-ab32-5229aecf5208
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550742(v=AX.60)
 ms:contentKeyID: 37832530
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

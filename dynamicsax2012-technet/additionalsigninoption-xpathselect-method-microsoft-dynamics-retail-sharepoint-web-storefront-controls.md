@@ -4,7 +4,7 @@ TOCTitle: XPathSelect Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.AdditionalSignInOption.XPathSelect
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.additionalsigninoption.xpathselect(v=AX.60)
 ms:contentKeyID: 62206184
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

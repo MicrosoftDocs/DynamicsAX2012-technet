@@ -4,7 +4,7 @@ TOCTitle: Close periods in the general ledger
 ms:assetid: a361185b-dafe-493b-ba42-47a027dc68e7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571842(v=AX.60)
 ms:contentKeyID: 36058807
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: About lean manufacturing
 ms:assetid: ead08595-169c-442e-9d88-f8f3f91e4a32
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227483(v=AX.60)
 ms:contentKeyID: 36059859
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

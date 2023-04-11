@@ -4,7 +4,7 @@ TOCTitle: (CHN) Working with General ledger
 ms:assetid: c555a949-d94a-4605-ac8f-ac978708b19c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664110(v=AX.60)
 ms:contentKeyID: 49384694
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Add and maintain certificates for compentencies
 ms:assetid: 9937eceb-bd27-44ee-986b-a28248fa085e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271606(v=AX.60)
 ms:contentKeyID: 36384238
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

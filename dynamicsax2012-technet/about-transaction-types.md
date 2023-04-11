@@ -4,7 +4,7 @@ TOCTitle: About transaction types
 ms:assetid: 73f4d742-772a-4c86-ac04-725156fbe7bf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550018(v=AX.60)
 ms:contentKeyID: 36966729
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

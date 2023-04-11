@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up interest and fines for vendor payments
 ms:assetid: ffd9bfe1-349a-4c3b-be7a-dc03a8320b77
 ms:mtpsurl: https://technet.microsoft.com/library/JJ680913(v=AX.60)
 ms:contentKeyID: 49624338
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

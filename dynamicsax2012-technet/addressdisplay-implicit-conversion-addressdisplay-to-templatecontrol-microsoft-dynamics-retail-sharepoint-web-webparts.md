@@ -4,7 +4,7 @@ TOCTitle: Implicit Conversion (AddressDisplay to TemplateControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddressDisplay.op_Implicit(Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.AddressDisplay)~System.Web.UI.TemplateControl
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.addressdisplay.op_implicit(v=AX.60)
 ms:contentKeyID: 62204424
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

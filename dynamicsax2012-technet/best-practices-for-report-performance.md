@@ -4,7 +4,7 @@ TOCTitle: Best Practices for Report Performance
 ms:assetid: dcd4d2ff-a477-4508-9bc3-2817450128a8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn251070(v=AX.60)
 ms:contentKeyID: 54811747
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

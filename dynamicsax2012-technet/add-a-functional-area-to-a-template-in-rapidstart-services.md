@@ -4,7 +4,7 @@ TOCTitle: Add a functional area to a template in RapidStart Services
 ms:assetid: d287609e-927b-4db3-a3a5-d4ad979ee277
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413252(v=AX.60)
 ms:contentKeyID: 36918943
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 09/18/2015
 mtps_version: v=AX.60

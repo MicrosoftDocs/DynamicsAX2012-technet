@@ -4,7 +4,7 @@ TOCTitle: (BEL) Generate journal, sales tax, and purchase sales tax transaction 
 ms:assetid: a15dca78-9159-4ec7-baba-84049d9bfc9d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209454(v=AX.60)
 ms:contentKeyID: 36058783
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

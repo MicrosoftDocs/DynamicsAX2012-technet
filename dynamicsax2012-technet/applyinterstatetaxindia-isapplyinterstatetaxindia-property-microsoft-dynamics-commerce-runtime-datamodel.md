@@ -4,7 +4,7 @@ TOCTitle: IsApplyInterStateTaxIndia Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ApplyInterStateTaxIndia.IsApplyInterStateTaxIndia
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.applyinterstatetaxindia.isapplyinterstatetaxindia(v=AX.60)
 ms:contentKeyID: 65320484
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

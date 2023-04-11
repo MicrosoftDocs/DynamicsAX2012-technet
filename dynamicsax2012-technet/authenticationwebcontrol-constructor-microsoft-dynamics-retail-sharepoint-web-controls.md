@@ -4,7 +4,7 @@ TOCTitle: AuthenticationWebControl Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.AuthenticationWebControl.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.authenticationwebcontrol.authenticationwebcontrol(v=AX.60)
 ms:contentKeyID: 62204842
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

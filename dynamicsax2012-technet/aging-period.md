@@ -4,7 +4,7 @@ TOCTitle: " aging period"
 ms:assetid: DynamicsAXGlossary.1368086
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1368086(v=AX.60)
 ms:contentKeyID: 36056816
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 08/25/2014
 mtps_version: v=AX.60

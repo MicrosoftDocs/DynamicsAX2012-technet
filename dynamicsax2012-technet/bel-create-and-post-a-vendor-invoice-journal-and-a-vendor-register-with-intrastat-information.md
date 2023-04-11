@@ -4,7 +4,7 @@ TOCTitle: (BEL) Create and post a vendor invoice journal and a vendor register w
 ms:assetid: 25d8b505-2c4e-4e55-a395-082b8cd98c33
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208484(v=AX.60)
 ms:contentKeyID: 36056194
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

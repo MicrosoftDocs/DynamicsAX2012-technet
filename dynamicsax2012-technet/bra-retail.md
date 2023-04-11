@@ -4,7 +4,7 @@ TOCTitle: (BRA) Retail
 ms:assetid: 9dc07165-c0db-47a7-91a4-dfd673ec9123
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527709(v=AX.60)
 ms:contentKeyID: 59626283
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

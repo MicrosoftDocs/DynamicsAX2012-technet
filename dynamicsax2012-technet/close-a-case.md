@@ -4,7 +4,7 @@ TOCTitle: Close a case
 ms:assetid: 98582959-b072-447e-857c-6844d76306ed
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209417(v=AX.60)
 ms:contentKeyID: 36058677
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

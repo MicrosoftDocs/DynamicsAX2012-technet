@@ -4,7 +4,7 @@ TOCTitle: Allow debugging
 ms:assetid: d25fadc8-e945-4814-abba-ec0c851aa547
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569630(v=AX.60)
 ms:contentKeyID: 35949364
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

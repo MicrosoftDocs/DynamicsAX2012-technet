@@ -4,7 +4,7 @@ TOCTitle: Activate user profiles for Role Centers
 ms:assetid: 98c4f1db-08d4-42bc-983c-632363db230a
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362008(v=AX.60)
 ms:contentKeyID: 35132777
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

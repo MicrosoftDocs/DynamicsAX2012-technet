@@ -4,7 +4,7 @@ TOCTitle: About time windows
 ms:assetid: 10569991-26a5-4223-a137-df62a491cfcf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496560(v=AX.60)
 ms:contentKeyID: 37832490
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

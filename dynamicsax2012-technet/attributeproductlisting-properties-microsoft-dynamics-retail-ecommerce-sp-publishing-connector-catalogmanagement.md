@@ -4,7 +4,7 @@ TOCTitle: AttributeProductListing Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.AttributeProductListing
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.attributeproductlisting_properties(v=AX.60)
 ms:contentKeyID: 65317594
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

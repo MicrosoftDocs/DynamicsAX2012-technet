@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a purchase order
 ms:assetid: 51833cc7-1ec8-4aab-9646-6e6a93a70350
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911250(v=AX.60)
 ms:contentKeyID: 52075249
-author: tfehr
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

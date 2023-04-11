@@ -4,7 +4,7 @@ TOCTitle: CartDeliveryPreferences Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.CartDeliveryPreferences
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.cartdeliverypreferences(v=AX.60)
 ms:contentKeyID: 65318685
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About multiple delivery addresses for sales orders
 ms:assetid: ac81a468-0a90-4524-84b3-84cfa2e5260f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498559(v=AX.60)
 ms:contentKeyID: 36058916
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

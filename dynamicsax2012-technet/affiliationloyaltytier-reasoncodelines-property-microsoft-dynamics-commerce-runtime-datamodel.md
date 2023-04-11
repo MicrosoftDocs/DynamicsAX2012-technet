@@ -4,7 +4,7 @@ TOCTitle: ReasonCodeLines Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.AffiliationLoyaltyTier.ReasonCodeLines
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.affiliationloyaltytier.reasoncodelines(v=AX.60)
 ms:contentKeyID: 62208394
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

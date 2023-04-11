@@ -4,7 +4,7 @@ TOCTitle: About approved vendors
 ms:assetid: f12d22ca-eadc-45a2-920a-623b5d992aef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227508(v=AX.60)
 ms:contentKeyID: 36059929
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

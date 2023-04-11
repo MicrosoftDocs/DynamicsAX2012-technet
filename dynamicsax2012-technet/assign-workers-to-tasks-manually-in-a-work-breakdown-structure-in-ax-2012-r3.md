@@ -4,7 +4,7 @@ TOCTitle: Assign workers to tasks manually in a work breakdown structure in AX 2
 ms:assetid: 8a679501-fd22-4b1b-aba7-0c1ba3ae3c82
 ms:mtpsurl: https://technet.microsoft.com/library/Dn783115(v=AX.60)
 ms:contentKeyID: 62830463
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 09/05/2014
 mtps_version: v=AX.60

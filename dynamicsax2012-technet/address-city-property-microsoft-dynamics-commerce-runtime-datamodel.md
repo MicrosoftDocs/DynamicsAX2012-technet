@@ -4,7 +4,7 @@ TOCTitle: City Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Address.City
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.address.city(v=AX.60)
 ms:contentKeyID: 49830761
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

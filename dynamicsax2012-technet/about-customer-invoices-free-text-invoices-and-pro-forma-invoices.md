@@ -4,7 +4,7 @@ TOCTitle: About customer invoices, free text invoices, and pro forma invoices
 ms:assetid: 7d47c9d2-222d-4b11-8e6a-64d13894c918
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213135(v=AX.60)
 ms:contentKeyID: 36058297
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

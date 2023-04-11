@@ -4,7 +4,7 @@ TOCTitle: About Microsoft Dynamics AX integration with Microsoft Project Server
 ms:assetid: 788d2018-27f7-4962-9615-4a3e522b5e1e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213008(v=AX.60)
 ms:contentKeyID: 36058225
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

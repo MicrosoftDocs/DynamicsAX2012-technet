@@ -4,7 +4,7 @@ TOCTitle: About purchase requisitions
 ms:assetid: 5a3aefec-f67b-4d13-8d79-92ea7b7c94b0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271540(v=AX.60)
 ms:contentKeyID: 36384172
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

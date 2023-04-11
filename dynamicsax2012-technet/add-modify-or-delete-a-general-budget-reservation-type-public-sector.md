@@ -4,7 +4,7 @@ TOCTitle: Add, modify, or delete a general budget reservation type (Public secto
 ms:assetid: 27c09e0b-d5aa-4ae9-a0f2-ff1234e4c0a8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792453(v=AX.60)
 ms:contentKeyID: 65205495
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 03/25/2015
 mtps_version: v=AX.60

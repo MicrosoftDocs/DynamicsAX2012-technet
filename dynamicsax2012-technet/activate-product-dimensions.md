@@ -4,7 +4,7 @@ TOCTitle: Activate product dimensions
 ms:assetid: 0a6e356f-8fa1-4652-a76c-71202b5fd79e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569738(v=AX.60)
 ms:contentKeyID: 36055984
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

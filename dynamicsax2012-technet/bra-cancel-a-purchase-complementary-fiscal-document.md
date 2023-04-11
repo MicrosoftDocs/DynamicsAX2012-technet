@@ -4,7 +4,7 @@ TOCTitle: (BRA) Cancel a purchase complementary fiscal document
 ms:assetid: cdf7db1d-671f-47fb-8f00-f147acb4674e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663924(v=AX.60)
 ms:contentKeyID: 49384510
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

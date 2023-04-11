@@ -4,7 +4,7 @@ TOCTitle: (BRA) Cancel a free text invoice
 ms:assetid: 8671d464-5e1b-4afa-8e97-9251dfeb54e6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710557(v=AX.60)
 ms:contentKeyID: 49384447
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

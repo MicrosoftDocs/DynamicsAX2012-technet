@@ -4,7 +4,7 @@ TOCTitle: (BRA) Enter and post fiscal books adjustments, benefits, and incentive
 ms:assetid: 7ca1b157-f9a4-4b67-a26b-3e06082b3cff
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600276(v=AX.60)
 ms:contentKeyID: 62200239
-author: tfehr
+author: tonyafehr
 ms.date: 07/08/2015
 mtps_version: v=AX.60
 f1_keywords:

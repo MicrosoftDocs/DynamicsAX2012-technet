@@ -4,7 +4,7 @@ TOCTitle: BOM approval configuration key (BOMApprove)
 ms:assetid: c4127cd3-c039-4536-b205-8e612646f941
 ms:mtpsurl: https://technet.microsoft.com/library/Aa590611(v=AX.60)
 ms:contentKeyID: 36997771
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: " ACH"
 ms:assetid: DynamicsAXGlossary.639816
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.639816(v=AX.60)
 ms:contentKeyID: 36057925
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 08/25/2014
 mtps_version: v=AX.60

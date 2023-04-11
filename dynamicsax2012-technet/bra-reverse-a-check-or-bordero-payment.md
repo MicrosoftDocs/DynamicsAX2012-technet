@@ -4,7 +4,7 @@ TOCTitle: (BRA) Reverse a check or Bordero payment
 ms:assetid: 1a578448-2f88-4e93-81f9-41e36125ac2f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ910964(v=AX.60)
 ms:contentKeyID: 53382659
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

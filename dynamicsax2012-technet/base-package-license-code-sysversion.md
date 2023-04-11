@@ -4,7 +4,7 @@ TOCTitle: Base package license code (SysVersion)
 ms:assetid: 0c903a01-0032-4f18-b61a-3b1ed278b041
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456309(v=AX.60)
 ms:contentKeyID: 36997737
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

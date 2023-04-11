@@ -4,7 +4,7 @@ TOCTitle: About registration groups for time and attendance
 ms:assetid: 49c4d7c0-727c-4abc-8f36-819f209b4fe4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497007(v=AX.60)
 ms:contentKeyID: 39519120
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

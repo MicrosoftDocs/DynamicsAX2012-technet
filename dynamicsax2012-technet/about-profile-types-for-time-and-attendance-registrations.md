@@ -4,7 +4,7 @@ TOCTitle: About profile types for time and attendance registrations
 ms:assetid: 2c71eb0f-90ca-4ae3-bd48-c4947e7dc752
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496869(v=AX.60)
 ms:contentKeyID: 39519081
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

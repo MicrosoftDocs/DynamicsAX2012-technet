@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create and post a purchase order for a foreign vendor
 ms:assetid: f32e0584-ed77-4ea1-af42-9cacaa38319f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ915360(v=AX.60)
 ms:contentKeyID: 50874341
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

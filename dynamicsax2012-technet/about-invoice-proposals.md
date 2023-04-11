@@ -4,7 +4,7 @@ TOCTitle: About invoice proposals
 ms:assetid: a0f5cfd4-ff8a-47a9-9b9d-47010ba8178c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571807(v=AX.60)
 ms:contentKeyID: 36058771
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 10/06/2014
 mtps_version: v=AX.60

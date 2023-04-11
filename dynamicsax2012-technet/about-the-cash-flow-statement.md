@@ -4,7 +4,7 @@ TOCTitle: About the cash flow statement
 ms:assetid: b60ac48e-be2c-4882-a146-384c1223d88a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550485(v=AX.60)
 ms:contentKeyID: 36059087
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

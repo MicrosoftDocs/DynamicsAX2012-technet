@@ -4,7 +4,7 @@ TOCTitle: About Include physical value
 ms:assetid: 224750d2-dcf3-49de-bfcb-ff315e782cca
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230988(v=AX.60)
 ms:contentKeyID: 36056172
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

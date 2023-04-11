@@ -4,7 +4,7 @@ TOCTitle: (BRA) Attach fiscal document texts to a fiscal document
 ms:assetid: a3cee143-2f9b-43cc-b218-da5825832c40
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710582(v=AX.60)
 ms:contentKeyID: 49384471
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

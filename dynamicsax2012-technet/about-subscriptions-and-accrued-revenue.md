@@ -4,7 +4,7 @@ TOCTitle: About subscriptions and accrued revenue
 ms:assetid: b2afed31-0cbc-4d6d-8ac3-e31030ee95a7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571880(v=AX.60)
 ms:contentKeyID: 42117771
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

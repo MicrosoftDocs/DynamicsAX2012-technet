@@ -4,7 +4,7 @@ TOCTitle: About coverage settings
 ms:assetid: 9d1b8d56-c888-4dbe-9396-468cc6d0d720
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571706(v=AX.60)
 ms:contentKeyID: 36931877
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

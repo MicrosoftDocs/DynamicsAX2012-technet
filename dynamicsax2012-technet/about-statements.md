@@ -4,7 +4,7 @@ TOCTitle: About statements
 ms:assetid: c83d5d89-d8b2-4624-9f88-1f20f7d67378
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597240(v=AX.60)
 ms:contentKeyID: 39519316
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

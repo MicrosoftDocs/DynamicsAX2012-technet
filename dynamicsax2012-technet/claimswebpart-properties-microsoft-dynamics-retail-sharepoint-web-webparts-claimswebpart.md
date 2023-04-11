@@ -4,7 +4,7 @@ TOCTitle: ClaimsWebPart Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ClaimsWebPart.ClaimsWebPart
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.claimswebpart.claimswebpart_properties(v=AX.60)
 ms:contentKeyID: 62206993
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

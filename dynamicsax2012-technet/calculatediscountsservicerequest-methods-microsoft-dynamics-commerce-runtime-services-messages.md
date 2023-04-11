@@ -4,7 +4,7 @@ TOCTitle: CalculateDiscountsServiceRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculateDiscountsServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.calculatediscountsservicerequest_methods(v=AX.60)
 ms:contentKeyID: 62202637
-author: tfehr
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Budget control configuration key (LedgerAdv2BudgetCtrl)
 ms:assetid: 193b3cce-c5e0-4bd8-8411-fa0a8cf29ef2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500147(v=AX.60)
 ms:contentKeyID: 37820177
-author: tfehr
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: About departments, jobs, and positions
 ms:assetid: 3d68cfa2-c80c-486e-ade9-251a3aaf8e74
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242239(v=AX.60)
 ms:contentKeyID: 36056680
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

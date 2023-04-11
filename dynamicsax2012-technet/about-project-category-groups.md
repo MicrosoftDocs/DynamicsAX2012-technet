@@ -4,7 +4,7 @@ TOCTitle: About project category groups
 ms:assetid: 9cc1bf63-a21f-4b81-9567-d740eef32d49
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571697(v=AX.60)
 ms:contentKeyID: 36058735
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

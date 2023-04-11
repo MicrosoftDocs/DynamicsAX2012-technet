@@ -4,7 +4,7 @@ TOCTitle: AllColumns Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.ColumnSet.AllColumns
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.columnset.allcolumns(v=AX.60)
 ms:contentKeyID: 49854455
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

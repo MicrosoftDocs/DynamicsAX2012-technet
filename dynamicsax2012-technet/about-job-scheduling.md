@@ -4,7 +4,7 @@ TOCTitle: About job scheduling
 ms:assetid: 5222e57e-0ee5-4c9a-8a3d-b1c03f3e3fbd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548918(v=AX.60)
 ms:contentKeyID: 44080982
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

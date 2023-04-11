@@ -4,7 +4,7 @@ TOCTitle: About integration for service agreements and projects
 ms:assetid: dbd8a31d-5686-4640-b043-850d7ec427b0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551252(v=AX.60)
 ms:contentKeyID: 36059670
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

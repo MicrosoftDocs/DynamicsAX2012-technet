@@ -4,7 +4,7 @@ TOCTitle: (BEL) Purchase journals report (LedgerPurchaseJournalReportBE)
 ms:assetid: e5de20fc-2a25-4e2b-944c-2203006f49a1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335170(v=AX.60)
 ms:contentKeyID: 36687385
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: About retail hierarchies
 ms:assetid: 772b0031-3ab4-4f4a-a0f5-4b06a304b2ef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597132(v=AX.60)
 ms:contentKeyID: 39519186
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

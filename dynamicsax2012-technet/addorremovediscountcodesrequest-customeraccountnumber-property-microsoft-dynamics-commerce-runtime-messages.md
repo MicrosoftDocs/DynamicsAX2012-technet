@@ -4,7 +4,7 @@ TOCTitle: CustomerAccountNumber Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.AddOrRemoveDiscountCodesRequest.CustomerAccountNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.addorremovediscountcodesrequest.customeraccountnumber(v=AX.60)
 ms:contentKeyID: 65322369
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

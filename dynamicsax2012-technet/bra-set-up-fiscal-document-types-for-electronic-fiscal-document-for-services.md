@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up fiscal document types for electronic fiscal document for 
 ms:assetid: 53576742-7bf4-421f-aa21-573399566bed
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710502(v=AX.60)
 ms:contentKeyID: 49384393
-author: tfehr
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

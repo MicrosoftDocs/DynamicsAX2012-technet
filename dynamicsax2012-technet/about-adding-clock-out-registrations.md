@@ -4,7 +4,7 @@ TOCTitle: About adding clock-out registrations
 ms:assetid: c3463664-85d8-49d5-9ff9-d3d4848c41a3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550712(v=AX.60)
 ms:contentKeyID: 39519309
-author: tfehr
+author: tonyafehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60
