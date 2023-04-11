@@ -4,7 +4,7 @@ TOCTitle: ChannelTenderTypes Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetChannelTenderTypesResponse.ChannelTenderTypes
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getchanneltendertypesresponse.channeltendertypes(v=AX.60)
 ms:contentKeyID: 62209027
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

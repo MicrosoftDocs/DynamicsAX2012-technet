@@ -4,7 +4,7 @@ TOCTitle: GetDiscountCodesServiceResponse Constructor (IEnumerable(DiscountCode)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetDiscountCodesServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DiscountCode})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getdiscountcodesserviceresponse.getdiscountcodesserviceresponse(v=AX.60)
 ms:contentKeyID: 62213001
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

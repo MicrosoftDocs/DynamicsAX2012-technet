@@ -4,7 +4,7 @@ TOCTitle: GetNextReceiptIdServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetNextReceiptIdServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransactionType,System.Decimal,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.CustomerOrderMode)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getnextreceiptidservicerequest.getnextreceiptidservicerequest(v=AX.60)
 ms:contentKeyID: 65321529
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

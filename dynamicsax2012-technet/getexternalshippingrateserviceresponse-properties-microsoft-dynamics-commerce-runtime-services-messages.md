@@ -4,7 +4,7 @@ TOCTitle: GetExternalShippingRateServiceResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetExternalShippingRateServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getexternalshippingrateserviceresponse_properties(v=AX.60)
 ms:contentKeyID: 49831723
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

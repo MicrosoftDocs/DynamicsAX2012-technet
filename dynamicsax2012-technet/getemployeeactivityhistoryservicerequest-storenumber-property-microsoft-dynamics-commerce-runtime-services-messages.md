@@ -4,7 +4,7 @@ TOCTitle: StoreNumber Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetEmployeeActivityHistoryServiceRequest.StoreNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getemployeeactivityhistoryservicerequest.storenumber(v=AX.60)
 ms:contentKeyID: 65320786
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetPriceServiceResponse Constructor (SalesTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetPriceServiceResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getpriceserviceresponse.getpriceserviceresponse(v=AX.60)
 ms:contentKeyID: 62208903
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

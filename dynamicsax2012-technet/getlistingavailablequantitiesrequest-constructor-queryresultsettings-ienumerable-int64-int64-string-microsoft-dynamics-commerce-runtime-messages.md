@@ -4,7 +4,7 @@ TOCTitle: GetListingAvailableQuantitiesRequest Constructor (QueryResultSettings,
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetListingAvailableQuantitiesRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,System.Collections.Generic.IEnumerable{System.Int64},System.Int64,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getlistingavailablequantitiesrequest.getlistingavailablequantitiesrequest(v=AX.60)
 ms:contentKeyID: 65322377
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

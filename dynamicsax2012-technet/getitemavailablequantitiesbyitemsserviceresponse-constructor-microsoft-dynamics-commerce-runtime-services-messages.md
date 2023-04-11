@@ -4,7 +4,7 @@ TOCTitle: GetItemAvailableQuantitiesByItemsServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetItemAvailableQuantitiesByItemsServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemAvailableQuantity},System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getitemavailablequantitiesbyitemsserviceresponse.getitemavailablequantitiesbyitemsserviceresponse(v=AX.60)
 ms:contentKeyID: 62208485
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

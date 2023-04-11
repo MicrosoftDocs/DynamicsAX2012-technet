@@ -4,7 +4,7 @@ TOCTitle: GetPickingListResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetPickingListResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getpickinglistresponse_methods(v=AX.60)
 ms:contentKeyID: 62213484
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

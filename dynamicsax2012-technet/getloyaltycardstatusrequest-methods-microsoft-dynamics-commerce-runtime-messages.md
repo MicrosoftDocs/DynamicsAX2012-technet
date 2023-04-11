@@ -4,7 +4,7 @@ TOCTitle: GetLoyaltyCardStatusRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetLoyaltyCardStatusRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getloyaltycardstatusrequest_methods(v=AX.60)
 ms:contentKeyID: 62213563
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

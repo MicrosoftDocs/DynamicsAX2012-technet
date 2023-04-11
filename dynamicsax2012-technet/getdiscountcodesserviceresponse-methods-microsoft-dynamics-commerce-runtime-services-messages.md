@@ -4,7 +4,7 @@ TOCTitle: GetDiscountCodesServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetDiscountCodesServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getdiscountcodesserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 62211649
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

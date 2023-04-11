@@ -4,7 +4,7 @@ TOCTitle: GetCountiesServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCountiesServiceResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcountiesserviceresponse.getcountiesserviceresponse(v=AX.60)
 ms:contentKeyID: 62207816
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

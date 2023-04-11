@@ -4,7 +4,7 @@ TOCTitle: GetDeliveryOptionsRequest Constructor (String, String, ICollection(Str
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeliveryOptionsRequest.#ctor(System.String,System.String,System.Collections.Generic.ICollection{System.String},System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.Address)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdeliveryoptionsrequest.getdeliveryoptionsrequest(v=AX.60)
 ms:contentKeyID: 62211177
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

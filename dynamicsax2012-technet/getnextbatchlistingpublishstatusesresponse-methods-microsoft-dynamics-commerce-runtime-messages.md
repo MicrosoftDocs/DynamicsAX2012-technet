@@ -4,7 +4,7 @@ TOCTitle: GetNextBatchListingPublishStatusesResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetNextBatchListingPublishStatusesResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getnextbatchlistingpublishstatusesresponse_methods(v=AX.60)
 ms:contentKeyID: 62213386
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: OperationId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetOperationPermissionsDataRequest.OperationId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getoperationpermissionsdatarequest.operationid(v=AX.60)
 ms:contentKeyID: 65322881
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

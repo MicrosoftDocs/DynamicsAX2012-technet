@@ -4,7 +4,7 @@ TOCTitle: GetFromZipPostalCodeServiceResponse Constructor (IEnumerable(ZipCodeIn
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetFromZipPostalCodeServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ZipCodeInfo})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getfromzippostalcodeserviceresponse.getfromzippostalcodeserviceresponse(v=AX.60)
 ms:contentKeyID: 62210528
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

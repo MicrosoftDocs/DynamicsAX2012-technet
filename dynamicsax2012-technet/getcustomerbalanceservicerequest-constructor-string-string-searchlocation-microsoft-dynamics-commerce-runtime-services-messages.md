@@ -4,7 +4,7 @@ TOCTitle: GetCustomerBalanceServiceRequest Constructor (String, String, SearchLo
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCustomerBalanceServiceRequest.#ctor(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.SearchLocation)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomerbalanceservicerequest.getcustomerbalanceservicerequest(v=AX.60)
 ms:contentKeyID: 65319898
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

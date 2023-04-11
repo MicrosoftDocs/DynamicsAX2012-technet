@@ -4,7 +4,7 @@ TOCTitle: GetProductKitDataResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetProductKitDataResponse.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.KitDefinition},System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.KitComponent},System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.KitConfigToComponentAssociation})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getproductkitdataresponse.getproductkitdataresponse(v=AX.60)
 ms:contentKeyID: 65315690
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

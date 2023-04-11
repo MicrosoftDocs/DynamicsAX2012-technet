@@ -4,7 +4,7 @@ TOCTitle: GetCurrentChannelRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCurrentChannelRequest.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcurrentchannelrequest.getcurrentchannelrequest(v=AX.60)
 ms:contentKeyID: 49838553
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

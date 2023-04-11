@@ -4,7 +4,7 @@ TOCTitle: DefaultChannelId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDefaultChannelResponse.DefaultChannelId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdefaultchannelresponse.defaultchannelid(v=AX.60)
 ms:contentKeyID: 62208426
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

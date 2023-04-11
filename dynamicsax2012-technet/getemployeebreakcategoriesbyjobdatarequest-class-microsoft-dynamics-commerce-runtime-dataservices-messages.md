@@ -4,7 +4,7 @@ TOCTitle: GetEmployeeBreakCategoriesByJobDataRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetEmployeeBreakCategoriesByJobDataRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getemployeebreakcategoriesbyjobdatarequest(v=AX.60)
 ms:contentKeyID: 65321044
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

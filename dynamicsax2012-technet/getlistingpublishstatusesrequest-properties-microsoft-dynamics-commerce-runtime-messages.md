@@ -4,7 +4,7 @@ TOCTitle: GetListingPublishStatusesRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetListingPublishStatusesRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getlistingpublishstatusesrequest_properties(v=AX.60)
 ms:contentKeyID: 62211359
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

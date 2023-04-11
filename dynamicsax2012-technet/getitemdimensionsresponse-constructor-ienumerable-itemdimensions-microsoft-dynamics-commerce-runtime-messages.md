@@ -4,7 +4,7 @@ TOCTitle: GetItemDimensionsResponse Constructor (IEnumerable(ItemDimensions))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetItemDimensionsResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemDimensions})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getitemdimensionsresponse.getitemdimensionsresponse(v=AX.60)
 ms:contentKeyID: 62206619
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

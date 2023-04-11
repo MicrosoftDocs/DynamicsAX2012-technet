@@ -4,7 +4,7 @@ TOCTitle: SalesLines Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetPricesServiceResponse.SalesLines
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getpricesserviceresponse.saleslines(v=AX.60)
 ms:contentKeyID: 62212733
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

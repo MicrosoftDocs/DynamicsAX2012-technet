@@ -4,7 +4,7 @@ TOCTitle: GetDeliveryOptionsRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeliveryOptionsRequest.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdeliveryoptionsrequest.getdeliveryoptionsrequest(v=AX.60)
 ms:contentKeyID: 49820193
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: GetPaymentConnectorDataRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetPaymentConnectorDataRequest.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getpaymentconnectordatarequest.getpaymentconnectordatarequest(v=AX.60)
 ms:contentKeyID: 65322523
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

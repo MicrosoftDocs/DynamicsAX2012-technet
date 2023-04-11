@@ -4,7 +4,7 @@ TOCTitle: GetPeriodicDiscountsDataServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetPeriodicDiscountsDataServiceRequest.#ctor(System.Int64,System.Int64,System.Collections.Generic.IEnumerable{System.Int64},System.String,System.DateTimeOffset)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getperiodicdiscountsdataservicerequest.getperiodicdiscountsdataservicerequest(v=AX.60)
 ms:contentKeyID: 65320885
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

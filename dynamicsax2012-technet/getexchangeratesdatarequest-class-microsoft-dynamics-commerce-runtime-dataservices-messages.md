@@ -4,7 +4,7 @@ TOCTitle: GetExchangeRatesDataRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetExchangeRatesDataRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getexchangeratesdatarequest(v=AX.60)
 ms:contentKeyID: 65317287
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

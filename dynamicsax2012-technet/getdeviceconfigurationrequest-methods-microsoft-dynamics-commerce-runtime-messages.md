@@ -4,7 +4,7 @@ TOCTitle: GetDeviceConfigurationRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeviceConfigurationRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdeviceconfigurationrequest_methods(v=AX.60)
 ms:contentKeyID: 62205757
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

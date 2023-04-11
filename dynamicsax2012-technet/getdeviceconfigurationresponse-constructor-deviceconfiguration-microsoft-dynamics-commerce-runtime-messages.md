@@ -4,7 +4,7 @@ TOCTitle: GetDeviceConfigurationResponse Constructor (DeviceConfiguration)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetDeviceConfigurationResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.DeviceConfiguration)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getdeviceconfigurationresponse.getdeviceconfigurationresponse(v=AX.60)
 ms:contentKeyID: 62210138
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

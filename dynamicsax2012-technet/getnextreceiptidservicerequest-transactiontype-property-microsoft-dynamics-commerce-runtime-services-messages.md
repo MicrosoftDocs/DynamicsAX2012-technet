@@ -4,7 +4,7 @@ TOCTitle: TransactionType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetNextReceiptIdServiceRequest.TransactionType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getnextreceiptidservicerequest.transactiontype(v=AX.60)
 ms:contentKeyID: 62209266
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

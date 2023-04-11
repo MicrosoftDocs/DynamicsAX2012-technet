@@ -4,7 +4,7 @@ TOCTitle: GetOfflineTransactionCountResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOfflineTransactionCountResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getofflinetransactioncountresponse_properties(v=AX.60)
 ms:contentKeyID: 65316153
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
