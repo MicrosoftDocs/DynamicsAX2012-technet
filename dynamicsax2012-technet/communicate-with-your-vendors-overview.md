@@ -4,7 +4,7 @@ TOCTitle: Communicate with your vendors overview
 ms:assetid: 54582721-4f0f-4ee0-b095-258e59d20fb3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208956(v=AX.60)
 ms:contentKeyID: 36057305
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

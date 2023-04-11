@@ -4,7 +4,7 @@ TOCTitle: CommerceRuntimeConfigDeploymentJobBase Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRuntimeConfigDeploymentJobBase
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigdeploymentjobbase_properties(v=AX.60)
 ms:contentKeyID: 62206981
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

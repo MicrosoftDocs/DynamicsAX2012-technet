@@ -4,7 +4,7 @@ TOCTitle: Configure email functionality in Microsoft Dynamics AX
 ms:assetid: 68c28942-7e06-42c6-b1d4-83472ed7f7b0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834374(v=AX.60)
 ms:contentKeyID: 39520464
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

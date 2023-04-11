@@ -4,7 +4,7 @@ TOCTitle: " contract"
 ms:assetid: DynamicsAXGlossary.1586742
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1586742(v=AX.60)
 ms:contentKeyID: 45765371
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

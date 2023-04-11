@@ -4,7 +4,7 @@ TOCTitle: Implicit Conversion (String to CommercePropertyValue)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue.op_Implicit(System.String)~Microsoft.Dynamics.Commerce.Runtime.DataModel.CommercePropertyValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commercepropertyvalue.op_implicit(v=AX.60)
 ms:contentKeyID: 62215137
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

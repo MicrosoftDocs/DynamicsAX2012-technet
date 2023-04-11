@@ -4,7 +4,7 @@ TOCTitle: DefaultResultSource Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Common.CommonConstants.DefaultResultSource
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.commonconstants.defaultresultsource(v=AX.60)
 ms:contentKeyID: 62205249
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

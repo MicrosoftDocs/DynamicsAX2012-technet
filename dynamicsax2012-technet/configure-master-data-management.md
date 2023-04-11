@@ -4,7 +4,7 @@ TOCTitle: Configure Master Data Management
 ms:assetid: aba9a95c-69fc-43bc-8d49-162eca16601e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720447(v=AX.60)
 ms:contentKeyID: 62224153
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

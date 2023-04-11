@@ -4,7 +4,7 @@ TOCTitle: Execute(TResponse) Method (Request, RequestContext, IRequestHandler)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime.Execute``1(Microsoft.Dynamics.Commerce.Runtime.Messages.Request,Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.Workflow.IRequestHandler)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn991074(v=AX.60)
 ms:contentKeyID: 65322516
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

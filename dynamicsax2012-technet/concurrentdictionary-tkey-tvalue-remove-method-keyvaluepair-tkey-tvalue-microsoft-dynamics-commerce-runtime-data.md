@@ -4,7 +4,7 @@ TOCTitle: Remove Method (KeyValuePair(TKey, TValue))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Remove(System.Collections.Generic.KeyValuePair{`0,`1})
 ms:mtpsurl: https://technet.microsoft.com/library/Dn987664(v=AX.60)
 ms:contentKeyID: 65316217
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

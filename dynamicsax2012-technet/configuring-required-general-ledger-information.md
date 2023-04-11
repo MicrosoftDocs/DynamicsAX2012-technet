@@ -4,7 +4,7 @@ TOCTitle: Configuring required General ledger information
 ms:assetid: 254efdfd-aa0d-4b0b-bb08-7411130e1c8d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh351818(v=AX.60)
 ms:contentKeyID: 36676377
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

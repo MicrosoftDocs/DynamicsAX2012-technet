@@ -4,7 +4,7 @@ TOCTitle: Configure workflows
 ms:assetid: 9b66600e-4d02-429f-9dc7-de38df3713e2
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731877(v=AX.60)
 ms:contentKeyID: 35132779
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

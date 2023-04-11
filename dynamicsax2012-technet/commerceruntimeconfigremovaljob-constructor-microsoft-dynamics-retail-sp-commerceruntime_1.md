@@ -4,7 +4,7 @@ TOCTitle: CommerceRuntimeConfigRemovalJob Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRuntimeConfigRemovalJob.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigremovaljob.commerceruntimeconfigremovaljob(v=AX.60)
 ms:contentKeyID: 62204613
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

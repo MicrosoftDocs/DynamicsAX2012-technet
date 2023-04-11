@@ -4,7 +4,7 @@ TOCTitle: Configure the workflow notification options
 ms:assetid: 320b48c4-2507-4c2d-8b3d-ac55bb2ee375
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202047(v=AX.60)
 ms:contentKeyID: 35949280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

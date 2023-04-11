@@ -4,7 +4,7 @@ TOCTitle: ConfirmNumber Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ConfirmNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.confirmnumber_properties(v=AX.60)
 ms:contentKeyID: 62203330
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

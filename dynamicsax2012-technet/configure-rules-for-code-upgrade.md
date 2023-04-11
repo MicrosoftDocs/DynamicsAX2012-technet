@@ -4,7 +4,7 @@ TOCTitle: Configure rules for code upgrade
 ms:assetid: 6bfc6138-20a0-4c58-b47d-5e235203f03f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677305(v=AX.60)
 ms:contentKeyID: 49384076
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

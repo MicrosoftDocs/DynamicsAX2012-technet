@@ -4,7 +4,7 @@ TOCTitle: CopyTo Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.CopyTo(System.Collections.Generic.KeyValuePair{`0,`1}[],System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn967882(v=AX.60)
 ms:contentKeyID: 65319742
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

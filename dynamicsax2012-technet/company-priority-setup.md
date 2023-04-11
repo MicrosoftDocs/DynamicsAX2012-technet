@@ -4,7 +4,7 @@ TOCTitle: Company priority setup
 ms:assetid: fa580295-4ca8-44d7-a9e0-a0eae4a9d83b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg723957(v=AX.60)
 ms:contentKeyID: 35133311
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

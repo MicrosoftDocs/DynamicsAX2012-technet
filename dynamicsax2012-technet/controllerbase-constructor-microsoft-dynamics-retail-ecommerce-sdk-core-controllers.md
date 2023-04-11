@@ -4,7 +4,7 @@ TOCTitle: ControllerBase Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.ControllerBase.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.controllerbase.controllerbase(v=AX.60)
 ms:contentKeyID: 65316476
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

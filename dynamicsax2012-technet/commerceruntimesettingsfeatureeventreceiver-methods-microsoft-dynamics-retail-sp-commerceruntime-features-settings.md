@@ -4,7 +4,7 @@ TOCTitle: CommerceRuntimeSettingsFeatureEventReceiver Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SP.CommerceRuntime.Features.Settings.CommerceRuntimeSettingsFeatureEventReceiver
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.features.settings.commerceruntimesettingsfeatureeventreceiver_methods(v=AX.60)
 ms:contentKeyID: 62204473
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

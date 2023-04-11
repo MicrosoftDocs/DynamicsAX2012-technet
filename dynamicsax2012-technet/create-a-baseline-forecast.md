@@ -4,7 +4,7 @@ TOCTitle: Create a baseline forecast
 ms:assetid: a5f3a790-6f2f-4a18-9711-61a262392fd8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497811(v=AX.60)
 ms:contentKeyID: 62200130
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

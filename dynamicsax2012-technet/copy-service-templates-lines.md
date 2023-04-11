@@ -4,7 +4,7 @@ TOCTitle: Copy service templates lines
 ms:assetid: ce6e1bfa-61d2-4427-bfab-5b9dfc2e0786
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572698(v=AX.60)
 ms:contentKeyID: 36059469
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

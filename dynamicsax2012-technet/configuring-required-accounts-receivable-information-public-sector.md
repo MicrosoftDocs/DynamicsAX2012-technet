@@ -4,7 +4,7 @@ TOCTitle: Configuring required Accounts receivable information (Public sector)
 ms:assetid: 13541904-ec20-4757-8cbb-81543d484263
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208508(v=AX.60)
 ms:contentKeyID: 36056248
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

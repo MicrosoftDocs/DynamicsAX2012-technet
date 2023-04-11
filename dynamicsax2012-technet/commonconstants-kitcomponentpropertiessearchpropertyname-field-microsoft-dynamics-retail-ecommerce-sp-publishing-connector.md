@@ -4,7 +4,7 @@ TOCTitle: KitComponentPropertiesSearchPropertyName Field
 ms:assetid: F:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonConstants.KitComponentPropertiesSearchPropertyName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonconstants.kitcomponentpropertiessearchpropertyname(v=AX.60)
 ms:contentKeyID: 65316114
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

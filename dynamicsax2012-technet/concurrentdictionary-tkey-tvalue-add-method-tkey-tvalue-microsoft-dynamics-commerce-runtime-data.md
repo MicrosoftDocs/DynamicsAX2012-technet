@@ -4,7 +4,7 @@ TOCTitle: Add Method (TKey, TValue)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Add(`0,`1)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968742(v=AX.60)
 ms:contentKeyID: 65321863
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

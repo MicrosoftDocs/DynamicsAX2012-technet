@@ -4,7 +4,7 @@ TOCTitle: Create a depreciation profile
 ms:assetid: 15e346de-fe1f-49b4-9788-f406386fdbe5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569886(v=AX.60)
 ms:contentKeyID: 36676371
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

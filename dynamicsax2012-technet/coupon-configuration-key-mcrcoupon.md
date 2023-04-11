@@ -4,7 +4,7 @@ TOCTitle: Coupon configuration key (MCRCoupon)
 ms:assetid: 49a26ff8-8ee0-466e-af0a-dff0a5ae4112
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774942(v=AX.60)
 ms:contentKeyID: 62617664
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:

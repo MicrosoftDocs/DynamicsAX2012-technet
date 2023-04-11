@@ -4,7 +4,7 @@ TOCTitle: Configure clients to access data in a partition
 ms:assetid: 084c6e0f-d9e5-4b2c-872f-8e2b2c3867bb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ670112(v=AX.60)
 ms:contentKeyID: 49478230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

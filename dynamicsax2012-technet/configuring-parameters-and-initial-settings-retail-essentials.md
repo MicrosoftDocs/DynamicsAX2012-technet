@@ -4,7 +4,7 @@ TOCTitle: Configuring parameters and initial settings (Retail essentials)
 ms:assetid: c55c678b-283a-4e06-ae30-d58af8b503f4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736947(v=AX.60)
 ms:contentKeyID: 62200424
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

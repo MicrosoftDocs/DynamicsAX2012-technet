@@ -4,7 +4,7 @@ TOCTitle: Configure and use document management with Microsoft SharePoint docume
 ms:assetid: 07fc5e47-a916-4839-ad47-f98196d6d3a1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn631953(v=AX.60)
 ms:contentKeyID: 61542607
-author: Khairunj
+author: tonyafehr
 ms.date: 09/17/2014
 mtps_version: v=AX.60
 audience: Application User

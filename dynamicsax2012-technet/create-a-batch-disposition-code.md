@@ -4,7 +4,7 @@ TOCTitle: Create a batch disposition code
 ms:assetid: f84c5118-eb9f-4db2-9995-4e9867a8b8b0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227557(v=AX.60)
 ms:contentKeyID: 36060047
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

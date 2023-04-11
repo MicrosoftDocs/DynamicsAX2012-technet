@@ -4,7 +4,7 @@ TOCTitle: Remove Method (TKey)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ConcurrentDictionary`2.Remove(`0)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn966515(v=AX.60)
 ms:contentKeyID: 65316463
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: ColorSearchPropertyName Field
 ms:assetid: F:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonConstants.ColorSearchPropertyName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonconstants.colorsearchpropertyname(v=AX.60)
 ms:contentKeyID: 65316035
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: CommerceRuntimeSourceFileRelativePath Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SP.CommerceRuntime.CommerceRuntimeConfigDeploymentJobBase.CommerceRuntimeSourceFileRelativePath
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commerceruntime.commerceruntimeconfigdeploymentjobbase.commerceruntimesourcefilerelativepath(v=AX.60)
 ms:contentKeyID: 62201826
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

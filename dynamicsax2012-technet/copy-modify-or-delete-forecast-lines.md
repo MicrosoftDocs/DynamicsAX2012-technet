@@ -4,7 +4,7 @@ TOCTitle: Copy, modify, or delete forecast lines
 ms:assetid: c48adcb3-8f27-4c0c-8fc6-8d4f610f7bfa
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550733(v=AX.60)
 ms:contentKeyID: 36059295
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

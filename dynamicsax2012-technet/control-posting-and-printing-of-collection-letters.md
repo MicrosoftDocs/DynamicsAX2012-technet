@@ -4,7 +4,7 @@ TOCTitle: Control posting and printing of collection letters
 ms:assetid: 584c6e9d-425d-4ee8-b131-9ad3c49101eb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549067(v=AX.60)
 ms:contentKeyID: 36655929
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

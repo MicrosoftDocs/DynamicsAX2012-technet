@@ -4,7 +4,7 @@ TOCTitle: Complete shipments
 ms:assetid: 8e132c5d-f67c-45be-8d27-bea5aba865a3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498357(v=AX.60)
 ms:contentKeyID: 36058508
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

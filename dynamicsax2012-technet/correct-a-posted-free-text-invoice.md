@@ -4,7 +4,7 @@ TOCTitle: Correct a posted free text invoice
 ms:assetid: 5df615e5-dcba-4ad1-8b0e-a7f604c18239
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209125(v=AX.60)
 ms:contentKeyID: 36057578
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

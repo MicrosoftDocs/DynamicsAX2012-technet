@@ -4,7 +4,7 @@ TOCTitle: Copy a forecast to a ledger
 ms:assetid: 7bb86535-b053-4338-ba9e-434d9f66f251
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571367(v=AX.60)
 ms:contentKeyID: 36058260
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

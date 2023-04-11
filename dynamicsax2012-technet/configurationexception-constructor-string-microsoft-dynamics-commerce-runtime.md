@@ -4,7 +4,7 @@ TOCTitle: ConfigurationException Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.ConfigurationException.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configurationexception.configurationexception(v=AX.60)
 ms:contentKeyID: 49850337
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Configure a multilevel BOM item requiring production in multiple sites
 ms:assetid: 5afc2c06-a820-4234-8bba-42026a8ebf87
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242488(v=AX.60)
 ms:contentKeyID: 36057355
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

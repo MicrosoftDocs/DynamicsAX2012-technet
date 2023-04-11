@@ -4,7 +4,7 @@ TOCTitle: ControllerAssemblyResolver Class
 ms:assetid: T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.ControllerAssemblyResolver
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.controllerassemblyresolver(v=AX.60)
 ms:contentKeyID: 62203385
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

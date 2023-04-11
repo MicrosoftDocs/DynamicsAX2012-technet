@@ -4,7 +4,7 @@ TOCTitle: CreateLabel Method (String, String, HtmlSelect)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.ControlFactory.CreateLabel(System.String,System.String,System.Web.UI.HtmlControls.HtmlSelect)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.controlfactory.createlabel(v=AX.60)
 ms:contentKeyID: 62204625
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

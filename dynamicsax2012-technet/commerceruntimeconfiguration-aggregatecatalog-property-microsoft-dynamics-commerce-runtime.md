@@ -4,7 +4,7 @@ TOCTitle: AggregateCatalog Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.CommerceRuntimeConfiguration.AggregateCatalog
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.commerceruntimeconfiguration.aggregatecatalog(v=AX.60)
 ms:contentKeyID: 49841360
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

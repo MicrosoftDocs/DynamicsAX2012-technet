@@ -4,7 +4,7 @@ TOCTitle: Create a commodity pricing calculation
 ms:assetid: df8a8bff-2fc5-42f4-929d-0986040628aa
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227419(v=AX.60)
 ms:contentKeyID: 36059698
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

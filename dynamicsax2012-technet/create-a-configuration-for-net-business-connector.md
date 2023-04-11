@@ -4,7 +4,7 @@ TOCTitle: Create a configuration for .NET Business Connector
 ms:assetid: 91fd7a36-5a5f-4a2d-b85c-c7ecaec9c405
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569654(v=AX.60)
 ms:contentKeyID: 37822170
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

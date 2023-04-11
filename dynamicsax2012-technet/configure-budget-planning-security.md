@@ -4,7 +4,7 @@ TOCTitle: Configure budget planning security
 ms:assetid: c0ce741e-fc9a-49e7-a1d1-5356fc4abba0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn887225(v=AX.60)
 ms:contentKeyID: 63378893
-author: Khairunj
+author: tonyafehr
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 audience: Application User

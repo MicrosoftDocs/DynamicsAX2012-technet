@@ -4,7 +4,7 @@ TOCTitle: Create a customer rebate group
 ms:assetid: e19b72e1-061d-412d-ba7b-2d30ece40893
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227423(v=AX.60)
 ms:contentKeyID: 36059710
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

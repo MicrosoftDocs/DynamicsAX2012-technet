@@ -4,7 +4,7 @@ TOCTitle: Create a general budget reservation (Public sector)
 ms:assetid: 375d1e32-5bbb-4738-ae3d-015a5a59c643
 ms:mtpsurl: https://technet.microsoft.com/library/Dn792454(v=AX.60)
 ms:contentKeyID: 65205496
-author: Khairunj
+author: tonyafehr
 ms.date: 05/05/2015
 mtps_version: v=AX.60
 f1_keywords:

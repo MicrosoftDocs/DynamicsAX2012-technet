@@ -4,7 +4,7 @@ TOCTitle: Compliance management license code (ComplianceMgmt)
 ms:assetid: df24c50c-fd00-4500-b352-0f576857115b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450740(v=AX.60)
 ms:contentKeyID: 36966676
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

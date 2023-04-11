@@ -4,7 +4,7 @@ TOCTitle: CompositeKeyEntityController(TEntity) Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CompositeKeyEntityController`1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn737970(v=AX.60)
 ms:contentKeyID: 62203176
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

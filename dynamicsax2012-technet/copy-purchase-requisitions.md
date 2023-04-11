@@ -4,7 +4,7 @@ TOCTitle: Copy purchase requisitions
 ms:assetid: df7efe77-35b3-454b-a08b-b6731d547b84
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335179(v=AX.60)
 ms:contentKeyID: 36687403
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

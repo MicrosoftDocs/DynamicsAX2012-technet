@@ -4,7 +4,7 @@ TOCTitle: Configuring Project management and accounting parameters
 ms:assetid: bcccac7e-17a8-4494-9f30-e1728b92df62
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213607(v=AX.60)
 ms:contentKeyID: 36059140
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

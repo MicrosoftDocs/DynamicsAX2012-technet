@@ -4,7 +4,7 @@ TOCTitle: Configure value substitution maps
 ms:assetid: f3d81371-ac04-4ef8-b180-8d686b754989
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202120(v=AX.60)
 ms:contentKeyID: 35949381
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

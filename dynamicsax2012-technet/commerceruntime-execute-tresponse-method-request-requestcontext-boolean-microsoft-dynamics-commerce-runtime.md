@@ -4,7 +4,7 @@ TOCTitle: Execute(TResponse) Method (Request, RequestContext, Boolean)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.CommerceRuntime.Execute``1(Microsoft.Dynamics.Commerce.Runtime.Messages.Request,Microsoft.Dynamics.Commerce.Runtime.RequestContext,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn988021(v=AX.60)
 ms:contentKeyID: 65316815
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

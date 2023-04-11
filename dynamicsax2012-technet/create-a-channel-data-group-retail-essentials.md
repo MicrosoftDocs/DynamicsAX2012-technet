@@ -4,7 +4,7 @@ TOCTitle: Create a channel data group (Retail essentials)
 ms:assetid: 0bef7e59-9f5c-4c2f-98f5-aca5cb8c8b5c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716042(v=AX.60)
 ms:contentKeyID: 62200306
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

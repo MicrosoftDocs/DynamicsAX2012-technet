@@ -4,7 +4,7 @@ TOCTitle: ConnectionIsNotOverridden Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.ConfigurationErrors.ConnectionIsNotOverridden
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configurationerrors.connectionisnotoverridden(v=AX.60)
 ms:contentKeyID: 65322732
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

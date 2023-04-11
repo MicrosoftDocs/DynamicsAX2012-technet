@@ -4,7 +4,7 @@ TOCTitle: CustomerOrderOperationFailedOnHeadquarters Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.CommunicationErrors.CustomerOrderOperationFailedOnHeadquarters
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.communicationerrors.customerorderoperationfailedonheadquarters(v=AX.60)
 ms:contentKeyID: 62211466
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

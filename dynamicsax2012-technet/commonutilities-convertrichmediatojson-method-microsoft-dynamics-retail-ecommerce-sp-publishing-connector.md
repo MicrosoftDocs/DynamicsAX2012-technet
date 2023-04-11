@@ -4,7 +4,7 @@ TOCTitle: ConvertRichMediaToJson Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CommonUtilities.ConvertRichMediaToJson(Microsoft.Dynamics.Commerce.Runtime.DataModel.RichMediaLocations)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.commonutilities.convertrichmediatojson(v=AX.60)
 ms:contentKeyID: 65316108
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

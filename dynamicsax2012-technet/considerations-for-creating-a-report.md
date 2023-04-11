@@ -4,7 +4,7 @@ TOCTitle: Considerations for Creating a Report
 ms:assetid: 5b402bc4-2d57-41f9-84dd-bb73c818ba75
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731927(v=AX.60)
 ms:contentKeyID: 35132856
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

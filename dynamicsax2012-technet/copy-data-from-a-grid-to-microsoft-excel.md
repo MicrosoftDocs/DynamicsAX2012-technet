@@ -4,7 +4,7 @@ TOCTitle: Copy data from a grid to Microsoft Excel
 ms:assetid: b794c01f-0d2c-4836-8301-5d7647ab6f12
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572245(v=AX.60)
 ms:contentKeyID: 36059105
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

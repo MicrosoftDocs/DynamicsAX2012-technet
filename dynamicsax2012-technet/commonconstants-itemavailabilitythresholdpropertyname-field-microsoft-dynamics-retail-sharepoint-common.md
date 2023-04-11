@@ -4,7 +4,7 @@ TOCTitle: ItemAvailabilityThresholdPropertyName Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Common.CommonConstants.ItemAvailabilityThresholdPropertyName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.commonconstants.itemavailabilitythresholdpropertyname(v=AX.60)
 ms:contentKeyID: 62202601
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

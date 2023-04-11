@@ -4,7 +4,7 @@ TOCTitle: DeviceToken Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ConnectionRequest.DeviceToken
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.connectionrequest.devicetoken(v=AX.60)
 ms:contentKeyID: 62212424
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

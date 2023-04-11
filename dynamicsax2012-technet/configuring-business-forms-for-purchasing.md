@@ -4,7 +4,7 @@ TOCTitle: Configuring business forms for purchasing
 ms:assetid: 1cf6d342-2c07-4e01-a6dc-0a0d8e59515b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230976(v=AX.60)
 ms:contentKeyID: 36056137
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

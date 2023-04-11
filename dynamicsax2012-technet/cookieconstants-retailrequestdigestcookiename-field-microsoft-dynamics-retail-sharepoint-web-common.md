@@ -4,7 +4,7 @@ TOCTitle: RetailRequestDigestCookieName Field
 ms:assetid: F:Microsoft.Dynamics.Retail.SharePoint.Web.Common.CookieConstants.RetailRequestDigestCookieName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.common.cookieconstants.retailrequestdigestcookiename(v=AX.60)
 ms:contentKeyID: 62205872
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

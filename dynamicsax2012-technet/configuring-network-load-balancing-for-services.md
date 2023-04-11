@@ -4,7 +4,7 @@ TOCTitle: Configuring network load balancing for services
 ms:assetid: 9ecde78e-7da2-4677-b9a2-17f3e7fe16aa
 ms:mtpsurl: https://technet.microsoft.com/library/Hh397322(v=AX.60)
 ms:contentKeyID: 36929813
-author: Khairunj
+author: tonyafehr
 ms.date: 08/30/2013
 mtps_version: v=AX.60
 ---

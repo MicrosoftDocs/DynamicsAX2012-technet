@@ -4,7 +4,7 @@ TOCTitle: Configuring project groups
 ms:assetid: 57875ff2-e427-4f4c-a584-a7a764b9a16a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549059(v=AX.60)
 ms:contentKeyID: 36057331
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

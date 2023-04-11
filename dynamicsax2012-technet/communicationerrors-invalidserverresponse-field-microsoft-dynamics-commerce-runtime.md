@@ -4,7 +4,7 @@ TOCTitle: InvalidServerResponse Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.CommunicationErrors.InvalidServerResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.communicationerrors.invalidserverresponse(v=AX.60)
 ms:contentKeyID: 49823513
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

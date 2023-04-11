@@ -4,7 +4,7 @@ TOCTitle: Committed costs - items report (ProjListTransCommittedCost)
 ms:assetid: 7a555d9d-253e-4efb-9853-d325748e1111
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586717(v=AX.60)
 ms:contentKeyID: 37832013
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

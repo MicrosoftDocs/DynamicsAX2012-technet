@@ -4,7 +4,7 @@ TOCTitle: Configuring required Accounts payable information
 ms:assetid: 3bbc7303-e848-47e8-8b70-d823923eedb0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231150(v=AX.60)
 ms:contentKeyID: 36056653
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

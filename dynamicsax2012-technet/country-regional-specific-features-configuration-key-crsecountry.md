@@ -4,7 +4,7 @@ TOCTitle: Country/Regional specific features configuration key (CRSECountry)
 ms:assetid: b894a4e6-dec9-407e-b764-7f768ae80116
 ms:mtpsurl: https://technet.microsoft.com/library/Aa598692(v=AX.60)
 ms:contentKeyID: 36997767
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

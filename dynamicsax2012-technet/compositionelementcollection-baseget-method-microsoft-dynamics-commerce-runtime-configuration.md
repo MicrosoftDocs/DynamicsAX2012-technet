@@ -4,7 +4,7 @@ TOCTitle: BaseGet Method
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Configuration.CompositionElementCollection.BaseGet
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.configuration.compositionelementcollection.baseget(v=AX.60)
 ms:contentKeyID: 49842389
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

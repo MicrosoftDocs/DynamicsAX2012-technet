@@ -4,7 +4,7 @@ TOCTitle: Convert substance flows
 ms:assetid: 48164c81-a67c-4c59-bdcc-c55c62de1f82
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433537(v=AX.60)
 ms:contentKeyID: 36941327
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

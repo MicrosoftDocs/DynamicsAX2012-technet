@@ -4,7 +4,7 @@ TOCTitle: Configuring alerts
 ms:assetid: 5c19866e-53b4-46b8-a28c-2d45407f8759
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834468(v=AX.60)
 ms:contentKeyID: 46687546
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User
