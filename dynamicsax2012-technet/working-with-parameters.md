@@ -4,7 +4,7 @@ TOCTitle: Working with Parameters
 ms:assetid: 7b69e6cb-377b-4033-8588-ef312d63fa02
 ms:mtpsurl: https://technet.microsoft.com/library/Hh528479(v=AX.60)
 ms:contentKeyID: 37835169
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

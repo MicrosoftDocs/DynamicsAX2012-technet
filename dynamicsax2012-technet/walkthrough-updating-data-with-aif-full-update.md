@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Updating Data with AIF (Full Update)'
 ms:assetid: 5b6e5199-c9cf-4f7c-b11b-185ee74b50df
 ms:mtpsurl: https://technet.microsoft.com/library/Cc598792(v=AX.60)
 ms:contentKeyID: 35244390
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 dev_langs:

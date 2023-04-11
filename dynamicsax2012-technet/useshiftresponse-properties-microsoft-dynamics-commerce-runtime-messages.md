@@ -4,7 +4,7 @@ TOCTitle: UseShiftResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.UseShiftResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.useshiftresponse_properties(v=AX.60)
 ms:contentKeyID: 62212184
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Vendor invoice report (VendInvoiceDocument)
 ms:assetid: bea45cdf-020a-4574-9bd3-6f1fd4719e14
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209551(v=AX.60)
 ms:contentKeyID: 36060338
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

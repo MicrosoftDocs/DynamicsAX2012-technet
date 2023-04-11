@@ -4,7 +4,7 @@ TOCTitle: (USA) Accept case requests online with Sites Services
 ms:assetid: b95319ad-cc44-47b8-8b34-5c8af0bf2981
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242763(v=AX.60)
 ms:contentKeyID: 36059116
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Workflow
 ms:assetid: fcc9b643-10f1-4a12-b233-ec29dad62b86
 ms:mtpsurl: https://technet.microsoft.com/library/Gg723980(v=AX.60)
 ms:contentKeyID: 35133336
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: UserLogOffRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.UserLogOffRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.userlogoffrequest(v=AX.60)
 ms:contentKeyID: 62214490
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

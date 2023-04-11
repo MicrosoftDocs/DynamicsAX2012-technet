@@ -4,7 +4,7 @@ TOCTitle: View items
 ms:assetid: dc6f58d0-6781-496f-85c3-8a7f1d7e2bfb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271669(v=AX.60)
 ms:contentKeyID: 36384300
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

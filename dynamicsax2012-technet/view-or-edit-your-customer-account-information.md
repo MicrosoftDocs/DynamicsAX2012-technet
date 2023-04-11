@@ -4,7 +4,7 @@ TOCTitle: View or edit your customer account information
 ms:assetid: 1954fd7a-e29f-4671-b611-cec0bb200a01
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271462(v=AX.60)
 ms:contentKeyID: 36384094
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

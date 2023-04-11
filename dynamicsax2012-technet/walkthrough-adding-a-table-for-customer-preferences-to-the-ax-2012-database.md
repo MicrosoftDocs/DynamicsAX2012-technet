@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Extending the database schema'
 ms:assetid: 2a6f75bf-248c-41ff-a79d-0827255ba531
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720785(v=AX.60)
 ms:contentKeyID: 62231586
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

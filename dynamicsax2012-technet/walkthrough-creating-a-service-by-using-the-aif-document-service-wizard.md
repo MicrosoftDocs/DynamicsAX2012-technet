@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a Service by Using the AIF Document Service Wiz
 ms:assetid: 53aa8783-4a66-4687-b7dc-e7557137c71f
 ms:mtpsurl: https://technet.microsoft.com/library/Cc589855(v=AX.60)
 ms:contentKeyID: 35244327
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

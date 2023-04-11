@@ -4,7 +4,7 @@ TOCTitle: Using the Customer self-service portal
 ms:assetid: ec5b1bff-9895-4bf4-9403-3a2b162ce3a7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271688(v=AX.60)
 ms:contentKeyID: 36384321
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: '(USA) Key tasks: Form I-9 verification'
 ms:assetid: 73b31e1f-1a5e-417f-8276-757510fdab71
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209229(v=AX.60)
 ms:contentKeyID: 36058146
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ValidateAddressDataResponse Constructor (Boolean, String, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.ValidateAddressDataResponse.#ctor(System.Boolean,System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.validateaddressdataresponse.validateaddressdataresponse(v=AX.60)
 ms:contentKeyID: 65322898
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: View and record transactions
 ms:assetid: 79e8a3c5-645d-42e1-8dc9-4ba9e7f14aa8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550065(v=AX.60)
 ms:contentKeyID: 36058244
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

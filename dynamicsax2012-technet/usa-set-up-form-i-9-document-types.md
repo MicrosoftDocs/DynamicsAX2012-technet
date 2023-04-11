@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up Form I-9 document types
 ms:assetid: 91f22f4a-9cd2-4863-8acf-5cace8aff54b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781097(v=AX.60)
 ms:contentKeyID: 43894509
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

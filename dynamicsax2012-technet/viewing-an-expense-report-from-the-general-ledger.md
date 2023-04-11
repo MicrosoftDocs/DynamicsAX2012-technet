@@ -4,7 +4,7 @@ TOCTitle: Viewing an expense report from the General ledger
 ms:assetid: 763f1080-8d4b-41b0-937a-2053a0bc7f17
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212972(v=AX.60)
 ms:contentKeyID: 36058184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

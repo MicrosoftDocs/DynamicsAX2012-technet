@@ -4,7 +4,7 @@ TOCTitle: Upgrade scenarios
 ms:assetid: eb9708d9-4886-425b-b25b-f4f450367e26
 ms:mtpsurl: https://technet.microsoft.com/library/Dn353634(v=AX.60)
 ms:contentKeyID: 55129177
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

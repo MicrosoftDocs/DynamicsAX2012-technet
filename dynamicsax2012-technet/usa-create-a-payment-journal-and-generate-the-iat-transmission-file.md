@@ -4,7 +4,7 @@ TOCTitle: (USA) Create a payment journal and generate the IAT transmission file
 ms:assetid: cb94ad70-9743-45ee-8eeb-62696c7f51c0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242854(v=AX.60)
 ms:contentKeyID: 36059343
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

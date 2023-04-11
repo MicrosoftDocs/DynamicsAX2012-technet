@@ -4,7 +4,7 @@ TOCTitle: Workflow cube (WorkflowCube)
 ms:assetid: 8dc2dc60-3dc1-42a2-bfbe-9775dd296ddd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710393(v=AX.60)
 ms:contentKeyID: 49384285
-author: Khairunj
+author: tonyafehr
 ms.date: 07/23/2014
 mtps_version: v=AX.60
 ---

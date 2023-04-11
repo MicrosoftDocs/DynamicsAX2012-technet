@@ -4,7 +4,7 @@ TOCTitle: Using Report Data Provider Classes to Access Report Data
 ms:assetid: 66667d57-37b1-48a8-90a1-ab8231698463
 ms:mtpsurl: https://technet.microsoft.com/library/Hh456296(v=AX.60)
 ms:contentKeyID: 36997722
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

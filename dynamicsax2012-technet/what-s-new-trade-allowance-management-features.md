@@ -4,7 +4,7 @@ TOCTitle: Trade allowance management features
 ms:assetid: 82714c4a-bd8d-496b-9515-77cc2f87882e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600260(v=AX.60)
 ms:contentKeyID: 62200288
-author: Khairunj
+author: tonyafehr
 ms.date: 03/04/2015
 mtps_version: v=AX.60
 ---

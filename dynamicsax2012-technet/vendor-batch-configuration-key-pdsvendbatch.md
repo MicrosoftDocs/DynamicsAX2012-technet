@@ -4,7 +4,7 @@ TOCTitle: Vendor batch configuration key (PdsVendBatch)
 ms:assetid: af0d8c0b-c9fc-488b-ab72-6f2a6d406a4c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496429(v=AX.60)
 ms:contentKeyID: 37072009
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

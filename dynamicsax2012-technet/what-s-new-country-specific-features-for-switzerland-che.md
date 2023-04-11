@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for Switzerland
 ms:assetid: 09de2070-edb3-449f-80cc-db7d9a7bff51
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507143(v=AX.60)
 ms:contentKeyID: 59623228
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Vendor internal account statement report (VendAccountStatementInt)
 ms:assetid: 909ee5c2-5cb0-4fe3-814d-7bb0aba187ba
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220729(v=AX.60)
 ms:contentKeyID: 37832021
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

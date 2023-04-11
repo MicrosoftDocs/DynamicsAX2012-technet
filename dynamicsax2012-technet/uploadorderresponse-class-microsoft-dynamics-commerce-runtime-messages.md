@@ -4,7 +4,7 @@ TOCTitle: UploadOrderResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.UploadOrderResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.uploadorderresponse(v=AX.60)
 ms:contentKeyID: 62202677
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

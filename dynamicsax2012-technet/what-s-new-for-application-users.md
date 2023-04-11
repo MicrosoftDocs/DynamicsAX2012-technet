@@ -4,7 +4,7 @@ TOCTitle: What's new for application users
 ms:assetid: d44a42eb-3ce0-48dc-9ed3-be670d1cda2d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527258(v=AX.60)
 ms:contentKeyID: 59623386
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Use the Enterprise Portal Home page
 ms:assetid: 8ce2c83a-2151-4835-8542-0f6d414c34d7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352264(v=AX.60)
 ms:contentKeyID: 36687890
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

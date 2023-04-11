@@ -4,7 +4,7 @@ TOCTitle: "What's New: Enterprise Portal"
 ms:assetid: 9c88a619-774e-4808-9ae6-cba4d7f8c316
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362012(v=AX.60)
 ms:contentKeyID: 35132782
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

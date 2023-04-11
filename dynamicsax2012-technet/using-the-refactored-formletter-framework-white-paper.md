@@ -4,7 +4,7 @@ TOCTitle: Using the Refactored Formletter Framework
 ms:assetid: 8c7c9948-f774-408d-9251-fea0a8248310
 ms:mtpsurl: https://technet.microsoft.com/library/Hh272871(v=AX.60)
 ms:contentKeyID: 36584395
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

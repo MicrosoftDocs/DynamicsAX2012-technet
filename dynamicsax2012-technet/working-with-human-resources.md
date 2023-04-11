@@ -4,7 +4,7 @@ TOCTitle: Working with Human resources
 ms:assetid: 381ddf16-6993-430c-bd82-e9a0637e9101
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231121(v=AX.60)
 ms:contentKeyID: 36056617
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Working with Data Regions
 ms:assetid: 634210cd-5e8b-4920-ac47-c2264fa609b3
 ms:mtpsurl: https://technet.microsoft.com/library/Cc571180(v=AX.60)
 ms:contentKeyID: 28119369
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

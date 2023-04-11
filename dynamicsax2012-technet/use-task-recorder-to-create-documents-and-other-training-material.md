@@ -4,7 +4,7 @@ TOCTitle: Use Task recorder to create documents and other training material
 ms:assetid: 1bcbce30-ee14-43c8-9296-15c7b65d51f5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ683224(v=AX.60)
 ms:contentKeyID: 49684846
-author: Khairunj
+author: tonyafehr
 ms.date: 08/20/2014
 mtps_version: v=AX.60
 f1_keywords:

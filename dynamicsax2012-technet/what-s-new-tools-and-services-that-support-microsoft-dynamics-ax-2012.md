@@ -4,7 +4,7 @@ TOCTitle: "What's new: Tools and services that support Microsoft Dynamics AX 201
 ms:assetid: c9681f60-8cd3-4b4d-9c43-41f9cfe84e7e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527255(v=AX.60)
 ms:contentKeyID: 59623383
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---

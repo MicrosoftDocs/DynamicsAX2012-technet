@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Analyzing Cube Data in Microsoft SQL Server Management S
 ms:assetid: 83cf4a82-8385-456c-afb0-7bb47194701a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724059(v=AX.60)
 ms:contentKeyID: 35133415
-author: Khairunj
+author: tonyafehr
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: UpdateWishListProperties Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.WishListController.UpdateWishListProperties(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.WishList,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.wishlistcontroller.updatewishlistproperties(v=AX.60)
 ms:contentKeyID: 65316031
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

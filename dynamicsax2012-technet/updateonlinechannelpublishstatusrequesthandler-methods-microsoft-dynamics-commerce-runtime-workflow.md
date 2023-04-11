@@ -4,7 +4,7 @@ TOCTitle: UpdateOnlineChannelPublishStatusRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.UpdateOnlineChannelPublishStatusRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.updateonlinechannelpublishstatusrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 49853092
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (USA) Use logging to troubleshoot Commerce Services
 ms:assetid: 904a4e01-97ab-4c3c-ae6c-a13bf222d3f0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209368(v=AX.60)
 ms:contentKeyID: 36058531
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

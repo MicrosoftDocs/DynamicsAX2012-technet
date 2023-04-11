@@ -4,7 +4,7 @@ TOCTitle: View remittance files for customers
 ms:assetid: 6a90c4a1-872b-4439-8ffb-e59d04549cef
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231774(v=AX.60)
 ms:contentKeyID: 37822145
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Update installer
 ms:assetid: 3226a0b2-7273-4a98-8ca3-faf9865385ee
 ms:mtpsurl: https://technet.microsoft.com/library/Dn529284(v=AX.60)
 ms:contentKeyID: 59644560
-author: Khairunj
+author: tonyafehr
 ms.date: 04/28/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View assortment products (Retail essentials)
 ms:assetid: 3e2dc6b8-91b1-417a-b053-ab1e2579f59b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716074(v=AX.60)
 ms:contentKeyID: 62200339
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

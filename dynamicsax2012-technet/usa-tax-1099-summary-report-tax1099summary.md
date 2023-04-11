@@ -4,7 +4,7 @@ TOCTitle: (USA) Tax 1099 summary report (Tax1099Summary)
 ms:assetid: 79b60553-574c-42e3-a1d1-76eb8e4e3c3a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa586657(v=AX.60)
 ms:contentKeyID: 36941272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

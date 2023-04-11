@@ -4,7 +4,7 @@ TOCTitle: View notifications
 ms:assetid: b59768e6-798b-4fdb-b826-d6b6f8827f8b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271630(v=AX.60)
 ms:contentKeyID: 36384262
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

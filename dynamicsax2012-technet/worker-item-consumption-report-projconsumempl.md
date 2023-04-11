@@ -4,7 +4,7 @@ TOCTitle: Worker/item consumption report (ProjConsumEmpl)
 ms:assetid: 881623cb-a5bb-4534-a627-f24aef1d94b6
 ms:mtpsurl: https://technet.microsoft.com/library/Bb177297(v=AX.60)
 ms:contentKeyID: 37832017
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

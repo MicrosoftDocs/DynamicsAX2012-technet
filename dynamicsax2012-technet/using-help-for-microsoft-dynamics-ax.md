@@ -4,7 +4,7 @@ TOCTitle: Using Help for Microsoft Dynamics AX
 ms:assetid: bd46c98a-04bd-41d8-a210-4bbc08dd7d62
 ms:mtpsurl: https://technet.microsoft.com/library/Aa556994(v=AX.60)
 ms:contentKeyID: 36059150
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

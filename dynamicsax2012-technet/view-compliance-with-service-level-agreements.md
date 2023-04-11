@@ -4,7 +4,7 @@ TOCTitle: View compliance with service level agreements
 ms:assetid: 1a9e506f-3680-42b3-be17-e15b1ea88788
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230971(v=AX.60)
 ms:contentKeyID: 36056123
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

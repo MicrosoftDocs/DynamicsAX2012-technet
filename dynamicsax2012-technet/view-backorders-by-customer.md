@@ -4,7 +4,7 @@ TOCTitle: View backorders by customer
 ms:assetid: 158facd4-150c-41b8-9f52-055eafb93e77
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569881(v=AX.60)
 ms:contentKeyID: 36056064
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

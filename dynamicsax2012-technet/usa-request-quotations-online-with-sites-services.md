@@ -4,7 +4,7 @@ TOCTitle: (USA) Request quotations online with Sites Services
 ms:assetid: 1974d4ef-9709-46d1-bb0e-0043a51df7e9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208450(v=AX.60)
 ms:contentKeyID: 36056112
-author: Khairunj
+author: tonyafehr
 ms.date: 07/24/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: View the history for a purchase requisition
 ms:assetid: f3894d70-308b-424d-985f-6db4291cd90c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335180(v=AX.60)
 ms:contentKeyID: 36687404
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

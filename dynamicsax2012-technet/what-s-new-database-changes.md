@@ -4,7 +4,7 @@ TOCTitle: Database changes
 ms:assetid: f018bd64-b86b-4ac7-b459-19694e06aaab
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732282(v=AX.60)
 ms:contentKeyID: 35133227
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

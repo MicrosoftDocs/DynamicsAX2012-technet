@@ -4,7 +4,7 @@ TOCTitle: Warehouse worker security role (WMSWarehouseWorker)
 ms:assetid: 23fdff2b-e57e-45d2-96da-5736c484d467
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527075(v=AX.60)
 ms:contentKeyID: 37823127
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

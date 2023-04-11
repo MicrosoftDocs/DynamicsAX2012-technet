@@ -4,7 +4,7 @@ TOCTitle: View the status and history of a document
 ms:assetid: 216cfcd5-8606-4826-bb65-8dceceab3cbf
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309621(v=AX.60)
 ms:contentKeyID: 39508860
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Help system
 ms:assetid: f1462f27-baf5-4e53-a628-fff337eeafb2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527266(v=AX.60)
 ms:contentKeyID: 59623394
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

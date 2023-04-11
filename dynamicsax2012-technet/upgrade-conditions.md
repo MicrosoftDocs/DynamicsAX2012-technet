@@ -4,7 +4,7 @@ TOCTitle: Upgrade conditions
 ms:assetid: f02c1d09-b396-41e1-ad6b-d949c8f55305
 ms:mtpsurl: https://technet.microsoft.com/library/JJ862337(v=AX.60)
 ms:contentKeyID: 50181513
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

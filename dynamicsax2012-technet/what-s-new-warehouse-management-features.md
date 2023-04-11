@@ -4,7 +4,7 @@ TOCTitle: Warehouse management features
 ms:assetid: 4a87b0e7-bf65-45c8-abe1-46f449144b17
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716029(v=AX.60)
 ms:contentKeyID: 62200285
-author: Khairunj
+author: tonyafehr
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

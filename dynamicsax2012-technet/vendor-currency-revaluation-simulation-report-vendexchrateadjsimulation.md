@@ -4,7 +4,7 @@ TOCTitle: Vendor currency revaluation simulation report (VendExchRateAdjSimulati
 ms:assetid: f1ddea15-c9b2-4954-a8fd-c1e23007b628
 ms:mtpsurl: https://technet.microsoft.com/library/Aa634262(v=AX.60)
 ms:contentKeyID: 36676495
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

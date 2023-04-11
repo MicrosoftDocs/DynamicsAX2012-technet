@@ -4,7 +4,7 @@ TOCTitle: View history for a distribution schedule
 ms:assetid: 50a852c6-e8c4-474f-ad1c-f9ab4ac0e797
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497754(v=AX.60)
 ms:contentKeyID: 62200202
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

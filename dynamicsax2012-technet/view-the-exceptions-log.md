@@ -4,7 +4,7 @@ TOCTitle: View the exceptions log
 ms:assetid: 3b32b66c-2071-47ee-898a-743c2e443257
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834351(v=AX.60)
 ms:contentKeyID: 35132609
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

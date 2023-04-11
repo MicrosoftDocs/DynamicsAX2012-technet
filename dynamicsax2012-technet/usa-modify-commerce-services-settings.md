@@ -4,7 +4,7 @@ TOCTitle: (USA) Modify Commerce Services settings
 ms:assetid: 08f3de81-ca83-437a-9d76-9013edc74a1d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242120(v=AX.60)
 ms:contentKeyID: 36055978
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

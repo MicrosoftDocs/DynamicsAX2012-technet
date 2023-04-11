@@ -4,7 +4,7 @@ TOCTitle: What's new in Microsoft Dynamics AX 2012 R2 cumulative update 6
 ms:assetid: 1dacee36-7c33-48ff-9fd4-7616df10dbe9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn486927(v=AX.60)
 ms:contentKeyID: 59631342
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

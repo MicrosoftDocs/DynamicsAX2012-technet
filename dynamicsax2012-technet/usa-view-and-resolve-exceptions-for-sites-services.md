@@ -4,7 +4,7 @@ TOCTitle: (USA) View and resolve exceptions for Sites Services
 ms:assetid: 67287dbf-81aa-4f3a-b75f-23071c2fff11
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242590(v=AX.60)
 ms:contentKeyID: 36057940
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

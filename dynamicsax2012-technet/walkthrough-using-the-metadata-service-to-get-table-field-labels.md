@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Using the Metadata Service to Get Table Field Labels'
 ms:assetid: f1951083-4bb0-4c17-a783-d44eab36fb87
 ms:mtpsurl: https://technet.microsoft.com/library/Gg848138(v=AX.60)
 ms:contentKeyID: 35253368
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

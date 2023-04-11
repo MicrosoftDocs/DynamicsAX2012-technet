@@ -4,7 +4,7 @@ TOCTitle: Use cross docking to distribute products
 ms:assetid: 160a6fb3-cae1-41ce-a642-921e43fca77d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580575(v=AX.60)
 ms:contentKeyID: 39519054
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

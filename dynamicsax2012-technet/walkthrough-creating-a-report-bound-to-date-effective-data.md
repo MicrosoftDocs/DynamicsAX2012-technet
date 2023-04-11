@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a Report Bound to Date Effective Data'
 ms:assetid: 7221183a-0386-4e0d-b1f9-66e12fc8b71e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731939(v=AX.60)
 ms:contentKeyID: 35132873
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

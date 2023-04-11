@@ -4,7 +4,7 @@ TOCTitle: Working with Accounts payable (Public sector)
 ms:assetid: abcd61b5-5823-4643-8485-5a130f579c52
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208571(v=AX.60)
 ms:contentKeyID: 36056352
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

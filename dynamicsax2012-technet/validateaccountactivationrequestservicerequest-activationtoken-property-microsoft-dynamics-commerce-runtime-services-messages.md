@@ -4,7 +4,7 @@ TOCTitle: ActivationToken Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateAccountActivationRequestServiceRequest.ActivationToken
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.validateaccountactivationrequestservicerequest.activationtoken(v=AX.60)
 ms:contentKeyID: 62215007
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

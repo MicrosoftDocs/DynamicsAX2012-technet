@@ -4,7 +4,7 @@ TOCTitle: Work with vendor rebates
 ms:assetid: a5360df4-960d-489e-9738-92df9d08f91e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497809(v=AX.60)
 ms:contentKeyID: 62200128
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

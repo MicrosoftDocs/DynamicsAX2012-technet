@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a Drillthrough Report'
 ms:assetid: d5391a59-c7a5-46ca-881b-34b10cbe5943
 ms:mtpsurl: https://technet.microsoft.com/library/Cc639019(v=AX.60)
 ms:contentKeyID: 28119592
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

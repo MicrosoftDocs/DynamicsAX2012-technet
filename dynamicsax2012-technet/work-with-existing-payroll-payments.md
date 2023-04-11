@@ -4,7 +4,7 @@ TOCTitle: Work with existing payroll payments
 ms:assetid: 1a79bd00-b070-497d-9aec-f3b5b9862899
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677327(v=AX.60)
 ms:contentKeyID: 49384101
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

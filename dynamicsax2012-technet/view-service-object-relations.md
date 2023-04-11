@@ -4,7 +4,7 @@ TOCTitle: View service object relations
 ms:assetid: ff78927b-6072-4fee-a9fc-8cc265b58a19
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299240(v=AX.60)
 ms:contentKeyID: 36384346
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

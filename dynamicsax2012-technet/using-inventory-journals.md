@@ -4,7 +4,7 @@ TOCTitle: Using inventory journals
 ms:assetid: 775dc1c5-4c89-45cf-968c-6a92dded4016
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550043(v=AX.60)
 ms:contentKeyID: 44080995
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

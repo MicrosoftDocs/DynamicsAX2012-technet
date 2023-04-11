@@ -4,7 +4,7 @@ TOCTitle: View a list of employees who report to you
 ms:assetid: fd973593-4aaf-41ee-b8f6-b004366817f9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299236(v=AX.60)
 ms:contentKeyID: 36384342
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Working with sites and warehouses (Retail essentials)
 ms:assetid: d5bc4e89-8568-4c02-8863-fca16fdacabd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736962(v=AX.60)
 ms:contentKeyID: 62200439
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

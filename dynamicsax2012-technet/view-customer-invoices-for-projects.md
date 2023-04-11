@@ -4,7 +4,7 @@ TOCTitle: View customer invoices for projects
 ms:assetid: 4673d2c0-d6da-4c7a-a217-211b30753000
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496988(v=AX.60)
 ms:contentKeyID: 36056903
-author: Khairunj
+author: tonyafehr
 ms.date: 07/22/2014
 mtps_version: v=AX.60
 f1_keywords:

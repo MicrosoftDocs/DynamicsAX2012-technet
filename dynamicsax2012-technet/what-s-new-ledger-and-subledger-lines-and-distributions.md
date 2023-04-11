@@ -4,7 +4,7 @@ TOCTitle: Ledger and subledger lines and distributions
 ms:assetid: a7a697ad-25fc-4861-8830-fb756a92df96
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527213(v=AX.60)
 ms:contentKeyID: 59623342
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

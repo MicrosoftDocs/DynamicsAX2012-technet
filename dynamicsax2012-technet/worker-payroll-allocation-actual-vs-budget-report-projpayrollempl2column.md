@@ -4,7 +4,7 @@ TOCTitle: Worker payroll allocation (actual vs. budget) report (ProjPayrollEmpl2
 ms:assetid: d654c290-be6d-49e0-9afd-ddd580954775
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220761(v=AX.60)
 ms:contentKeyID: 37832035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: VoidGiftCardPaymentRealtimeRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.VoidGiftCardPaymentRealtimeRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.voidgiftcardpaymentrealtimerequest_methods(v=AX.60)
 ms:contentKeyID: 65316240
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

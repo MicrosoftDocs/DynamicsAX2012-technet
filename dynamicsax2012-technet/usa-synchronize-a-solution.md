@@ -4,7 +4,7 @@ TOCTitle: (USA) Synchronize a solution
 ms:assetid: b1189a3d-e0ff-4155-941b-2f1a57ad2046
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242714(v=AX.60)
 ms:contentKeyID: 36058968
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Use a list page
 ms:assetid: ed60c720-8331-41e7-9b48-b3a8fe2aa1d5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243260(v=AX.60)
 ms:contentKeyID: 36676416
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

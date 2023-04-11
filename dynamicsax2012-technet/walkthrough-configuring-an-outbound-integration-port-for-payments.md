@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Configuring an outbound integration port for payments'
 ms:assetid: b2a8b438-981d-49ec-ab1a-5dbbde686a57
 ms:mtpsurl: https://technet.microsoft.com/library/Hh446522(v=AX.60)
 ms:contentKeyID: 36956800
-author: Khairunj
+author: tonyafehr
 ms.date: 08/22/2014
 mtps_version: v=AX.60
 f1_keywords:

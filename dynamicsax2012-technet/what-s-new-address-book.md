@@ -4,7 +4,7 @@ TOCTitle: Address book
 ms:assetid: 2e7fc997-9cd3-4cb0-94f7-f4a3d17702d6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507095(v=AX.60)
 ms:contentKeyID: 59623185
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

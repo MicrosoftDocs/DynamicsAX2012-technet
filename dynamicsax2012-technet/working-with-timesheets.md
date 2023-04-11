@@ -4,7 +4,7 @@ TOCTitle: Working with timesheets
 ms:assetid: 0d47f272-834e-4313-ad9a-a622fe98099f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271451(v=AX.60)
 ms:contentKeyID: 36384083
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Working with Services and AIF
 ms:assetid: e9d1eba9-b9ed-46bc-a27d-c1d9d08c01c2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692467(v=AX.60)
 ms:contentKeyID: 41702364
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

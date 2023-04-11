@@ -4,7 +4,7 @@ TOCTitle: Performance Benchmark Software Development Toolkit (SDK) for Microsoft
 ms:assetid: c7cebb63-7af7-40c6-9e08-d795810a63f2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527257(v=AX.60)
 ms:contentKeyID: 59623385
-author: Khairunj
+author: tonyafehr
 ms.date: 10/29/2014
 mtps_version: v=AX.60
 ---

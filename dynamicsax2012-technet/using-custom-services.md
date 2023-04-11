@@ -4,7 +4,7 @@ TOCTitle: Using Custom Services
 ms:assetid: cb5d0f7e-1d47-4d9f-9842-050f42aca224
 ms:mtpsurl: https://technet.microsoft.com/library/Hh509052(v=AX.60)
 ms:contentKeyID: 37046471
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

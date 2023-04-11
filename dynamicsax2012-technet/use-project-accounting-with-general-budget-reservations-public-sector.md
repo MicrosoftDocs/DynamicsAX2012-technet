@@ -4,7 +4,7 @@ TOCTitle: Use project accounting with general budget reservations (Public sector
 ms:assetid: 02fc85f6-9015-458e-ac01-98e2fa6ee0bc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn906409(v=AX.60)
 ms:contentKeyID: 64978170
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

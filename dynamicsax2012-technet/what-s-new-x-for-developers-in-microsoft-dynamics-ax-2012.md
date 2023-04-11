@@ -4,7 +4,7 @@ TOCTitle: X++ for Developers
 ms:assetid: 13705815-6e30-4a3f-a4f1-81f288f3856d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg843765(v=AX.60)
 ms:contentKeyID: 35240596
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View unpaid customer invoices
 ms:assetid: 3ef257e3-b760-458d-a099-1370a8cb93a2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271510(v=AX.60)
 ms:contentKeyID: 36384142
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

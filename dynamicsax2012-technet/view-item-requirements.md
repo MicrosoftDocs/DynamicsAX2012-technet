@@ -4,7 +4,7 @@ TOCTitle: View item requirements
 ms:assetid: daef5e16-e3c3-4e2f-ab06-ccd8f1835182
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551216(v=AX.60)
 ms:contentKeyID: 37822162
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

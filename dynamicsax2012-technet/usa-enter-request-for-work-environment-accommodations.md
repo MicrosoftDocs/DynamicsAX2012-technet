@@ -4,7 +4,7 @@ TOCTitle: (USA) Enter request for work environment accommodations
 ms:assetid: 5bc6a590-3b59-449c-83e1-a1630b6eddeb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242497(v=AX.60)
 ms:contentKeyID: 36057562
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

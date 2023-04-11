@@ -4,7 +4,7 @@ TOCTitle: View or print sales tax payments without posting
 ms:assetid: a5b18942-16a1-4436-8cab-2fd67c4f3959
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550269(v=AX.60)
 ms:contentKeyID: 36676399
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

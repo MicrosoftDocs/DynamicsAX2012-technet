@@ -4,7 +4,7 @@ TOCTitle: Installation features
 ms:assetid: 21756ba4-0bc4-44ee-8f95-686d9a5c158c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751368(v=AX.60)
 ms:contentKeyID: 35132577
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

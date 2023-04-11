@@ -4,7 +4,7 @@ TOCTitle: View or cancel retail data distribution sessions
 ms:assetid: 7a8e08f3-2a2b-4a2c-a51d-e578504ca88e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497795(v=AX.60)
 ms:contentKeyID: 62200206
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

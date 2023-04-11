@@ -4,7 +4,7 @@ TOCTitle: View and maintain orders and statuses
 ms:assetid: d7a1d7c4-fe29-44e5-af36-3ea8c3f6acbe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271660(v=AX.60)
 ms:contentKeyID: 36384292
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: View subledger journals for free text invoices
 ms:assetid: 4a28a211-1a72-4751-89ef-494cb678a90e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500166(v=AX.60)
 ms:contentKeyID: 37820200
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

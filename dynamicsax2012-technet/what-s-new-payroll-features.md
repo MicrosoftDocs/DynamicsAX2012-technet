@@ -4,7 +4,7 @@ TOCTitle: Payroll features
 ms:assetid: f7d33a7c-61c3-4313-871c-9756b62f74d1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527242(v=AX.60)
 ms:contentKeyID: 59623370
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

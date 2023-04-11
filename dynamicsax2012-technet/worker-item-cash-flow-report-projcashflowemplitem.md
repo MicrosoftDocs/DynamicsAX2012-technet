@@ -4,7 +4,7 @@ TOCTitle: Worker/item cash flow report (ProjCashFlowEmplItem)
 ms:assetid: 22bb88fb-ed4e-4f28-ac85-5c140d3c4a29
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527768(v=AX.60)
 ms:contentKeyID: 37831984
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

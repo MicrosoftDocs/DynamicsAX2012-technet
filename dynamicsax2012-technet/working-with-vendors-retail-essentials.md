@@ -4,7 +4,7 @@ TOCTitle: Working with vendors (Retail essentials)
 ms:assetid: d6836598-6d1b-47e3-a770-f2e612078b33
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736965(v=AX.60)
 ms:contentKeyID: 62200442
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

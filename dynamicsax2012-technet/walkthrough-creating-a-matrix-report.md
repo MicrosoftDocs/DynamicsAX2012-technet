@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a Matrix Report'
 ms:assetid: f5a517b4-cf20-4faf-b201-d03a70ee222c
 ms:mtpsurl: https://technet.microsoft.com/library/Cc623805(v=AX.60)
 ms:contentKeyID: 28119618
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

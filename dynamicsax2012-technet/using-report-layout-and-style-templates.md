@@ -4,7 +4,7 @@ TOCTitle: Using Report Layout and Style Templates
 ms:assetid: d90b2f61-3622-4f17-9564-80c4e724565d
 ms:mtpsurl: https://technet.microsoft.com/library/Cc639538(v=AX.60)
 ms:contentKeyID: 28119596
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

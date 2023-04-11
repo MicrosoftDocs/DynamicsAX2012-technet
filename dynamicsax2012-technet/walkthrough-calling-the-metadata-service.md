@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Calling the Metadata Service'
 ms:assetid: 01191d78-4386-42b7-a5ad-b1c5186398a3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg839793(v=AX.60)
 ms:contentKeyID: 35240056
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

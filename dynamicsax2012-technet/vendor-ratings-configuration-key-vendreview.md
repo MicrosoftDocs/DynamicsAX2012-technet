@@ -4,7 +4,7 @@ TOCTitle: Vendor ratings configuration key (VendReview)
 ms:assetid: a8fa8106-2f87-4deb-9166-18a19e4bc0b3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433467(v=AX.60)
 ms:contentKeyID: 36941223
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

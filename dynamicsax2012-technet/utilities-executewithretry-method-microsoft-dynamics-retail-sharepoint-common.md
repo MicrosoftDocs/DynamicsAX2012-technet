@@ -4,7 +4,7 @@ TOCTitle: ExecuteWithRetry Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities.ExecuteWithRetry(System.Action,System.Func`2,System.Boolean,System.Exception)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn694247(v=AX.60)
 ms:contentKeyID: 62204671
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

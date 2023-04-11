@@ -4,7 +4,7 @@ TOCTitle: View confirmed sales orders
 ms:assetid: fdb37937-f0aa-4009-8fc8-3d6026482fc1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299237(v=AX.60)
 ms:contentKeyID: 36384343
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

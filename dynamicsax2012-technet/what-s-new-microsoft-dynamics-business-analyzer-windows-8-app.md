@@ -4,7 +4,7 @@ TOCTitle: Microsoft Dynamics Business Analyzer Windows 8 App
 ms:assetid: 7b9ca5fd-c547-4d6f-8f9c-7112b8b44ae0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527157(v=AX.60)
 ms:contentKeyID: 59623286
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

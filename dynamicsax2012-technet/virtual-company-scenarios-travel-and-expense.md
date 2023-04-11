@@ -4,7 +4,7 @@ TOCTitle: 'Virtual company scenarios: Travel and expense'
 ms:assetid: f68d496e-1ba1-4b58-b973-176e56f538f3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ556271(v=AX.60)
 ms:contentKeyID: 49089838
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

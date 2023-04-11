@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Calling an External Web Service from X++'
 ms:assetid: 022c7efe-c7c5-4270-896c-7e536ae88221
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500185(v=AX.60)
 ms:contentKeyID: 37820252
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

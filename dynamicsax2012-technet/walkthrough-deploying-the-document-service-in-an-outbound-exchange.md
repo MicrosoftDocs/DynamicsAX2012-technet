@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Deploying the Document Service in an Outbound Exchange'
 ms:assetid: 5f807796-8b0e-4903-a803-91c46eb3295c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh696875(v=AX.60)
 ms:contentKeyID: 42517319
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

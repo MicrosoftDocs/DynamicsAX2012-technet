@@ -4,7 +4,7 @@ TOCTitle: Country/Region Context
 ms:assetid: bcee3a7e-d50a-4d34-8460-2f2d69665367
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527232(v=AX.60)
 ms:contentKeyID: 59623360
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

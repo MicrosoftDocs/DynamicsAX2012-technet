@@ -4,7 +4,7 @@ TOCTitle: View training course sessions
 ms:assetid: f822334c-2073-48d1-9a02-99f377450b3f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299228(v=AX.60)
 ms:contentKeyID: 36384334
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

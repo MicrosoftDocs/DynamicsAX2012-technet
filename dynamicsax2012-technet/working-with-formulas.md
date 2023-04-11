@@ -4,7 +4,7 @@ TOCTitle: Working with formulas
 ms:assetid: ac7f7eee-48d6-434f-83fc-0a7be193ac4c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352318(v=AX.60)
 ms:contentKeyID: 36687948
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

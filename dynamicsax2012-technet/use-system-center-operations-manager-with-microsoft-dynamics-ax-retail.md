@@ -4,7 +4,7 @@ TOCTitle: Use System Center Operations Manager with Microsoft Dynamics AX Retail
 ms:assetid: 64e3c978-5bbc-4804-8df6-d24e7771cc1f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720443(v=AX.60)
 ms:contentKeyID: 62224151
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---

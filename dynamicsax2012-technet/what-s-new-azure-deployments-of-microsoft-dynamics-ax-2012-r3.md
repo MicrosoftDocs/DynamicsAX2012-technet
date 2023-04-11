@@ -4,7 +4,7 @@ TOCTitle: Azure deployments
 ms:assetid: 321083de-d3b6-4835-b90c-0f3594ccf3c1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716026(v=AX.60)
 ms:contentKeyID: 62200282
-author: Khairunj
+author: tonyafehr
 ms.date: 09/10/2014
 mtps_version: v=AX.60
 ---

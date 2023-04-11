@@ -4,7 +4,7 @@ TOCTitle: View the status of open purchase orders
 ms:assetid: 478d4248-a1db-44e6-9013-3ab88cfb88e7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496996(v=AX.60)
 ms:contentKeyID: 36056909
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

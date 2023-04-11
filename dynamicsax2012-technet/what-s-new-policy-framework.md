@@ -4,7 +4,7 @@ TOCTitle: Policy Framework
 ms:assetid: 31dc3a77-8850-4ebc-819c-27bc6ccddc2d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507096(v=AX.60)
 ms:contentKeyID: 59623186
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

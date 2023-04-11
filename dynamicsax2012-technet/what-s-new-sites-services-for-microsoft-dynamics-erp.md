@@ -4,7 +4,7 @@ TOCTitle: Sites Services for Microsoft Dynamics ERP
 ms:assetid: 5d12b777-fbbc-40e5-9e79-4985ecb69e87
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527121(v=AX.60)
 ms:contentKeyID: 59623250
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

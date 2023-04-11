@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up synchronization
 ms:assetid: 6c6c548b-8ca0-428f-8a96-9b625774e34d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242617(v=AX.60)
 ms:contentKeyID: 36058001
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

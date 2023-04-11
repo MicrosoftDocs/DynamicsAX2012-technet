@@ -4,7 +4,7 @@ TOCTitle: View customer invoice information
 ms:assetid: 8c7f717b-915a-453c-8523-5cf9df740333
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271591(v=AX.60)
 ms:contentKeyID: 36384222
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

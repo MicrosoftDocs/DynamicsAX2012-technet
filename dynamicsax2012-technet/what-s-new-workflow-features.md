@@ -4,7 +4,7 @@ TOCTitle: Workflow features
 ms:assetid: 379dee01-56e9-4f06-9f5d-403f4322e58e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507093(v=AX.60)
 ms:contentKeyID: 59623181
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View all items for an approved vendor
 ms:assetid: 1f9cc7f0-33c8-4006-be2f-419687ba1026
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208467(v=AX.60)
 ms:contentKeyID: 36056155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

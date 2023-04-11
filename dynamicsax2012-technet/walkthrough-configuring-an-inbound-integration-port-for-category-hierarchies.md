@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Configuring an inbound integration port for category hie
 ms:assetid: 763d4fcf-46a4-4487-b409-963c2eadeed4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn454569(v=AX.60)
 ms:contentKeyID: 57085674
-author: Khairunj
+author: tonyafehr
 ms.date: 09/24/2013
 mtps_version: v=AX.60
 f1_keywords:

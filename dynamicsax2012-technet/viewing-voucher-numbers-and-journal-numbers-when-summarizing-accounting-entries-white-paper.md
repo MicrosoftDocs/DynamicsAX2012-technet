@@ -4,7 +4,7 @@ TOCTitle: Viewing Voucher Numbers and Journal Numbers when Summarizing Accountin
 ms:assetid: cc4dcc5d-d58e-4a42-8a31-3918a8eab77c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870683(v=AX.60)
 ms:contentKeyID: 50469191
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

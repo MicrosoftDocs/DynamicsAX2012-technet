@@ -4,7 +4,7 @@ TOCTitle: View stage reason codes
 ms:assetid: 83a6e331-fda0-43dc-995b-9e48551f722a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571565(v=AX.60)
 ms:contentKeyID: 36058378
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

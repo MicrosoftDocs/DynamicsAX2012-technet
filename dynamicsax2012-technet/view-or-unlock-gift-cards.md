@@ -4,7 +4,7 @@ TOCTitle: View or unlock gift cards
 ms:assetid: fe09fe9e-aa17-4bf5-ac41-025481e1c0a8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597303(v=AX.60)
 ms:contentKeyID: 39519392
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

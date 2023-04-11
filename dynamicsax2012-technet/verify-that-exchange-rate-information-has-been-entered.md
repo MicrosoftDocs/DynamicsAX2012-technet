@@ -4,7 +4,7 @@ TOCTitle: Verify that exchange rate information has been entered
 ms:assetid: 0dc6d13d-abc7-411c-9d00-162767163465
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751349(v=AX.60)
 ms:contentKeyID: 35132540
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

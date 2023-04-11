@@ -4,7 +4,7 @@ TOCTitle: Vendor account manager security role (VendVendorAccountManager)
 ms:assetid: d00d7e89-f1de-4700-9ccb-ff6e8d0c259e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527136(v=AX.60)
 ms:contentKeyID: 37823187
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

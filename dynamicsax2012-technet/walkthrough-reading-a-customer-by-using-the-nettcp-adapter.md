@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Reading a Customer by Using the NetTCP Adapter'
 ms:assetid: 4ef33d80-fbc0-44ca-9d1a-997af8e54bd3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710374(v=AX.60)
 ms:contentKeyID: 49384266
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

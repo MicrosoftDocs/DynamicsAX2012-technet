@@ -4,7 +4,7 @@ TOCTitle: Worker/item WIP report (ProjWIPEmpl)
 ms:assetid: d0d471ee-7656-4a5f-ba0b-099bd4a84f39
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220754(v=AX.60)
 ms:contentKeyID: 36941302
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

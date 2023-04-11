@@ -4,7 +4,7 @@ TOCTitle: Procurement and sourcing features
 ms:assetid: 7c8d311d-a6af-47c8-8012-fc5a9d5136dd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527153(v=AX.60)
 ms:contentKeyID: 59623282
-author: Khairunj
+author: tonyafehr
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 f1_keywords:

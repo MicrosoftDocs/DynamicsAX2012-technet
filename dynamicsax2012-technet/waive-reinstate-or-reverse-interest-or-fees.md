@@ -4,7 +4,7 @@ TOCTitle: Waive, reinstate, or reverse interest or fees
 ms:assetid: c5534372-f34f-417f-8b32-d33e4d382341
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242842(v=AX.60)
 ms:contentKeyID: 36059299
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

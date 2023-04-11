@@ -4,7 +4,7 @@ TOCTitle: Management Reporter for Microsoft Dynamics
 ms:assetid: 04c4c06b-1562-4b01-b60b-6ca1ff62e0bb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn495055(v=AX.60)
 ms:contentKeyID: 62200280
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

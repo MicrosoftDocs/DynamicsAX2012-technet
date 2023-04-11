@@ -4,7 +4,7 @@ TOCTitle: View purchase or sales release order lines
 ms:assetid: c103a7ba-8b7b-4673-a935-93a00e90681d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550674(v=AX.60)
 ms:contentKeyID: 42517337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

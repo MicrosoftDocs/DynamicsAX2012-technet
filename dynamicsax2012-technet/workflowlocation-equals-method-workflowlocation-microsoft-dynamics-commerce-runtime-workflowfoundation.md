@@ -4,7 +4,7 @@ TOCTitle: Equals Method (WorkflowLocation)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowLocation.Equals(Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.WorkflowLocation)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.workflowlocation.equals(v=AX.60)
 ms:contentKeyID: 62213541
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

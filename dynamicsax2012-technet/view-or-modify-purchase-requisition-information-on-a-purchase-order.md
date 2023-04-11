@@ -4,7 +4,7 @@ TOCTitle: View or modify purchase requisition information on a purchase order
 ms:assetid: db0a7935-c848-4c02-8d11-5417ce5d35a1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243189(v=AX.60)
 ms:contentKeyID: 36687402
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

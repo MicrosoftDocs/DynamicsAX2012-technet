@@ -4,7 +4,7 @@ TOCTitle: Master planning features
 ms:assetid: b024fa61-fc2c-4a44-ad0b-abc93f1e2f4d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527210(v=AX.60)
 ms:contentKeyID: 59623339
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

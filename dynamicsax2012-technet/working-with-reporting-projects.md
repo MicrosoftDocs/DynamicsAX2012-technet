@@ -4,7 +4,7 @@ TOCTitle: Working with Reporting Projects
 ms:assetid: 6af9c0ed-2a1d-4f80-a8e2-03f4d1daa148
 ms:mtpsurl: https://technet.microsoft.com/library/Cc572301(v=AX.60)
 ms:contentKeyID: 28119373
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

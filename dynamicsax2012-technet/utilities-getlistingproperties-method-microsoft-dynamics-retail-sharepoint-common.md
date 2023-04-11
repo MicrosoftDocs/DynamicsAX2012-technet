@@ -4,7 +4,7 @@ TOCTitle: GetListingProperties Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities.GetListingProperties(System.Boolean,System.Int64,System.String[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.utilities.getlistingproperties(v=AX.60)
 ms:contentKeyID: 62207038
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

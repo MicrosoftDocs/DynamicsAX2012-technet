@@ -4,7 +4,7 @@ TOCTitle: View customer accounts
 ms:assetid: d7da609c-ff2e-43ad-963a-624dab11b646
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271662(v=AX.60)
 ms:contentKeyID: 36384294
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

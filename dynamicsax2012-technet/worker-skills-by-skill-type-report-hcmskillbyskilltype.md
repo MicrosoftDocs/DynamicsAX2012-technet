@@ -4,7 +4,7 @@ TOCTitle: Worker skills by skill type report (HcmSkillBySkillType)
 ms:assetid: 812ba257-5a21-442b-9541-d8ad36c9a20a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870693(v=AX.60)
 ms:contentKeyID: 50469199
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

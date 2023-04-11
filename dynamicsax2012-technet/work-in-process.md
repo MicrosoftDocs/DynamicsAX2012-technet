@@ -4,7 +4,7 @@ TOCTitle: " work in process"
 ms:assetid: DynamicsAXGlossary.235100
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.235100(v=AX.60)
 ms:contentKeyID: 62830155
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

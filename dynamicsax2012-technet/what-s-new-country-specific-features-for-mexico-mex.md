@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for Mexico
 ms:assetid: ded8ca28-8b3a-49ec-98f1-2e0795c6c9b4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527245(v=AX.60)
 ms:contentKeyID: 59623373
-author: Khairunj
+author: tonyafehr
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Viewing and evaluating results
 ms:assetid: ad95010d-e2c1-412f-8812-56ccbb59b557
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498588(v=AX.60)
 ms:contentKeyID: 36058927
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

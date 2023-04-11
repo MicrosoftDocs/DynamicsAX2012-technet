@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a Chart Control with Data from an Analysis Serv
 ms:assetid: 49ffba25-1804-4586-bde8-3ace5069a295
 ms:mtpsurl: https://technet.microsoft.com/library/Hh965685(v=AX.60)
 ms:contentKeyID: 46332000
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

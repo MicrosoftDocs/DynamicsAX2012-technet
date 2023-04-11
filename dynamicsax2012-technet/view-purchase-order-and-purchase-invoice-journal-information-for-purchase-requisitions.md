@@ -4,7 +4,7 @@ TOCTitle: View purchase order and purchase invoice journal information for purch
 ms:assetid: 91cf879c-fadf-4deb-b046-ecd4f2e849af
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232170(v=AX.60)
 ms:contentKeyID: 36687397
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

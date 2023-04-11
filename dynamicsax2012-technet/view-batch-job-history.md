@@ -4,7 +4,7 @@ TOCTitle: View batch job history
 ms:assetid: abfb29bf-a996-4dfd-9c38-354dd5f631c8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243096(v=AX.60)
 ms:contentKeyID: 35132803
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View and maintain vendor and product comments
 ms:assetid: b3d4c4ca-87fa-460a-a28b-e4305f18b9b8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242750(v=AX.60)
 ms:contentKeyID: 36059073
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: View backorders by vendor
 ms:assetid: d6869ce0-cd81-41d9-aea7-a5800d8fa701
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499388(v=AX.60)
 ms:contentKeyID: 36059535
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

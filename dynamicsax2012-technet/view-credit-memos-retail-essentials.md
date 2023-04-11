@@ -4,7 +4,7 @@ TOCTitle: View credit memos (Retail essentials)
 ms:assetid: 184eef16-b7c7-449c-958b-5755b64fbfb2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716051(v=AX.60)
 ms:contentKeyID: 62200315
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

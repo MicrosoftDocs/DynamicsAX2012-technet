@@ -4,7 +4,7 @@ TOCTitle: Worker and position payroll tasks
 ms:assetid: 36582f4f-279c-48a0-a8ce-158eb9b8aef6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677334(v=AX.60)
 ms:contentKeyID: 49384108
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Creating a .NET Assembly Transform'
 ms:assetid: adcd0e8d-e697-4786-9ebc-7cb7981edadd
 ms:mtpsurl: https://technet.microsoft.com/library/Gg863930(v=AX.60)
 ms:contentKeyID: 35249728
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: View an Enterprise Portal Web site
 ms:assetid: 936beae4-8390-4b18-8c83-d422cceee5be
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362001(v=AX.60)
 ms:contentKeyID: 36941320
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

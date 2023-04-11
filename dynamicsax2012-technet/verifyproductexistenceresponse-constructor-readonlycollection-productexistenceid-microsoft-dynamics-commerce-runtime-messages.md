@@ -4,7 +4,7 @@ TOCTitle: VerifyProductExistenceResponse Constructor (ReadOnlyCollection(Product
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.VerifyProductExistenceResponse.#ctor(System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductExistenceId})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.verifyproductexistenceresponse.verifyproductexistenceresponse(v=AX.60)
 ms:contentKeyID: 62213656
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

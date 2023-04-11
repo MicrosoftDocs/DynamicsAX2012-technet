@@ -4,7 +4,7 @@ TOCTitle: ValidationPeriod Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ValidationPeriod
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.validationperiod_properties(v=AX.60)
 ms:contentKeyID: 49820191
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

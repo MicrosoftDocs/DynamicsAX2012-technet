@@ -4,7 +4,7 @@ TOCTitle: Vendor foreign currency revaluation report (VendExchRateAdjustment)
 ms:assetid: 7866d276-5e4c-4470-aafe-f780f757bb60
 ms:mtpsurl: https://technet.microsoft.com/library/Aa615392(v=AX.60)
 ms:contentKeyID: 37832010
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

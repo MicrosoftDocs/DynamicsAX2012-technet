@@ -4,7 +4,7 @@ TOCTitle: Upgrade your metadata
 ms:assetid: a1483318-9648-4c11-b14e-941e4c523e83
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733498(v=AX.60)
 ms:contentKeyID: 49685456
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

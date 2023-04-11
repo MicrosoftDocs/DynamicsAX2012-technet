@@ -4,7 +4,7 @@ TOCTitle: Travel and expense features
 ms:assetid: a882bda0-5a6f-4bd3-b2c9-3bbe98ca65a4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527203(v=AX.60)
 ms:contentKeyID: 59623332
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

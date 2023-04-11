@@ -4,7 +4,7 @@ TOCTitle: Worker resource scheduling
 ms:assetid: 3f8d1c12-8932-4ada-893d-e6c542f661d2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn783210(v=AX.60)
 ms:contentKeyID: 62835103
-author: Khairunj
+author: tonyafehr
 ms.date: 09/10/2014
 mtps_version: v=AX.60
 f1_keywords:

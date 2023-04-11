@@ -4,7 +4,7 @@ TOCTitle: Budgeting features
 ms:assetid: 09b2d1e5-92a0-4d32-bc24-c01b47d523b6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507116(v=AX.60)
 ms:contentKeyID: 59623206
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 ---

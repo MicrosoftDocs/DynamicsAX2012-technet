@@ -4,7 +4,7 @@ TOCTitle: Working with Cash and bank management
 ms:assetid: 4ef8b75d-8123-4d93-97f4-8861e1d9f075
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212749(v=AX.60)
 ms:contentKeyID: 36057067
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

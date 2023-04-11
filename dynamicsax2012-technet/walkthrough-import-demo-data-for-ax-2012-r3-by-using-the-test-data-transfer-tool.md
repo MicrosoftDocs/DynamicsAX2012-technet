@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Import demo data for AX 2012 R3 by using the Test Data T
 ms:assetid: 071a8c8a-f603-4752-bc92-79e5fe9a242f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn756356(v=AX.60)
 ms:contentKeyID: 62524059
-author: Khairunj
+author: tonyafehr
 ms.date: 01/20/2016
 mtps_version: v=AX.60
 ---

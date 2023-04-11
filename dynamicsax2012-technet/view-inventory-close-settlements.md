@@ -4,7 +4,7 @@ TOCTitle: View inventory close settlements
 ms:assetid: ee1e4938-2120-493a-b9b4-106863608541
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243262(v=AX.60)
 ms:contentKeyID: 36059907
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

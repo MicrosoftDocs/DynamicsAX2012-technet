@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Defining KPIs for a Cube'
 ms:assetid: 4cfcf1ab-7771-46ef-a5e1-c5db3c9bf03c
 ms:mtpsurl: https://technet.microsoft.com/library/Dd261469(v=AX.60)
 ms:contentKeyID: 28119352
-author: Khairunj
+author: tonyafehr
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 dev_langs:

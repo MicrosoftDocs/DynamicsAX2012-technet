@@ -4,7 +4,7 @@ TOCTitle: Vendor catalog import configuration key (VendCatalogImport)
 ms:assetid: 632cc73f-fbe6-4231-88ff-4313d0d435de
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433458(v=AX.60)
 ms:contentKeyID: 36941211
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

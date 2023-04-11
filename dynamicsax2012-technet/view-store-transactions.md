@@ -4,7 +4,7 @@ TOCTitle: View store transactions
 ms:assetid: c92384eb-0a33-4b89-835a-8510c89a0c72
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597242(v=AX.60)
 ms:contentKeyID: 39519319
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ValidateHardwareStationTokenRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.ValidateHardwareStationTokenRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.validatehardwarestationtokenrequest_methods(v=AX.60)
 ms:contentKeyID: 62208962
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

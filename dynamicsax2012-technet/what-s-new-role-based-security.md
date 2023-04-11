@@ -4,7 +4,7 @@ TOCTitle: Role-based security
 ms:assetid: 5b14294e-bc25-4e06-9759-e75e876fba4c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527126(v=AX.60)
 ms:contentKeyID: 59623255
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 ---

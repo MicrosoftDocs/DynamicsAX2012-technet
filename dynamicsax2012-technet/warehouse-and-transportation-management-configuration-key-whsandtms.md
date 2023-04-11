@@ -4,7 +4,7 @@ TOCTitle: Warehouse and Transportation management configuration key (WHSandTMS)
 ms:assetid: 8c85781d-b39f-49f1-8d6d-203e12f677f3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716001(v=AX.60)
 ms:contentKeyID: 62200224
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

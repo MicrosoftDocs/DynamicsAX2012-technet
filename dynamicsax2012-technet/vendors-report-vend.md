@@ -4,7 +4,7 @@ TOCTitle: Vendors report (Vend)
 ms:assetid: 6d182cc2-bb7f-4d88-b6fd-666629b3f77f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa596416(v=AX.60)
 ms:contentKeyID: 36941270
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

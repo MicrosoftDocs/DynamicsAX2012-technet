@@ -4,7 +4,7 @@ TOCTitle: UserAuthenticationRenewalRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.UserAuthenticationRenewalRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.userauthenticationrenewalrequest.userauthenticationrenewalrequest(v=AX.60)
 ms:contentKeyID: 65321091
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

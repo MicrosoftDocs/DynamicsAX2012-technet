@@ -4,7 +4,7 @@ TOCTitle: Workflow with a conditional decision
 ms:assetid: c344c2aa-ea34-4081-9713-455ef069d49b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ618308(v=AX.60)
 ms:contentKeyID: 49105577
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

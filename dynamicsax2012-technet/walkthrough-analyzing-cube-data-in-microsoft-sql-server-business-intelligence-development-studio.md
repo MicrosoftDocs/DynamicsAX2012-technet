@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Analyzing Cube Data in Microsoft SQL Server Business Int
 ms:assetid: 20c1c764-589b-42e3-8cff-7c9f2ce0d484
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731907(v=AX.60)
 ms:contentKeyID: 35132829
-author: Khairunj
+author: tonyafehr
 ms.date: 07/17/2013
 mtps_version: v=AX.60
 ---

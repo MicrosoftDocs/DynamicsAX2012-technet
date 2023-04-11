@@ -4,7 +4,7 @@ TOCTitle: Vendor, public sector security role (VendVendor_PSN)
 ms:assetid: f74cd81e-d87e-4904-b7c0-17e4e2e6218d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn743815(v=AX.60)
 ms:contentKeyID: 62279208
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

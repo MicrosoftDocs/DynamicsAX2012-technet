@@ -4,7 +4,7 @@ TOCTitle: Production control features
 ms:assetid: 91bc99f6-4530-4fa1-8617-96e767ad0e1d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527181(v=AX.60)
 ms:contentKeyID: 59623310
-author: Khairunj
+author: tonyafehr
 ms.date: 12/10/2014
 mtps_version: v=AX.60
 ---

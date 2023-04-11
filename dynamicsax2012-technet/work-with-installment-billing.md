@@ -4,7 +4,7 @@ TOCTitle: Work with installment billing
 ms:assetid: 38775079-c8da-4a98-98e6-057d01e6cef7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497738(v=AX.60)
 ms:contentKeyID: 62200054
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

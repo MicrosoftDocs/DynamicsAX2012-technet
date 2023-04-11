@@ -4,7 +4,7 @@ TOCTitle: View lead records
 ms:assetid: f5d3f36f-5fa9-4525-b04e-bcb24f9d2f68
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299225(v=AX.60)
 ms:contentKeyID: 36384331
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

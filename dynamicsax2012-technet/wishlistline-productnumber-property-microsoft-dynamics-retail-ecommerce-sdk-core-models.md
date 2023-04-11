@@ -4,7 +4,7 @@ TOCTitle: ProductNumber Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.WishListLine.ProductNumber
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.wishlistline.productnumber(v=AX.60)
 ms:contentKeyID: 65315661
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (USA) List products and catalogs in online marketplaces
 ms:assetid: cc209967-a98d-41db-9933-6f6cf863b7d6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242900(v=AX.60)
 ms:contentKeyID: 36059447
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

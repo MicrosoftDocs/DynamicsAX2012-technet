@@ -4,7 +4,7 @@ TOCTitle: ValidateShippingAddressServiceRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateShippingAddressServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Address,System.Boolean,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.validateshippingaddressservicerequest.validateshippingaddressservicerequest(v=AX.60)
 ms:contentKeyID: 65318501
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

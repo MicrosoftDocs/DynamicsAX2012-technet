@@ -4,7 +4,7 @@ TOCTitle: (USA) Add retail online discounts to a campaign
 ms:assetid: 94915d55-bf34-4a35-963b-a3eca9ef27b7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh803012(v=AX.60)
 ms:contentKeyID: 44081013
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

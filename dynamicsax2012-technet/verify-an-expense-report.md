@@ -4,7 +4,7 @@ TOCTitle: Verify an expense report
 ms:assetid: 0e8471a3-658a-47c8-8a00-6865c0e71fdc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242134(v=AX.60)
 ms:contentKeyID: 36056012
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

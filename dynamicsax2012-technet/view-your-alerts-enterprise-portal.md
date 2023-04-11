@@ -4,7 +4,7 @@ TOCTitle: View your alerts
 ms:assetid: dd863e3d-775c-438d-b7a4-829ff1ba4331
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271672(v=AX.60)
 ms:contentKeyID: 36384303
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

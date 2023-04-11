@@ -4,7 +4,7 @@ TOCTitle: (USA) Set up users for Sites Services
 ms:assetid: 2f064a94-0bca-4075-8032-3e2b7f5fe465
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208541(v=AX.60)
 ms:contentKeyID: 36056293
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

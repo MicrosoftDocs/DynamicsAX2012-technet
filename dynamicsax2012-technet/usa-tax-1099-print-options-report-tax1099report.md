@@ -4,7 +4,7 @@ TOCTitle: (USA) Tax 1099 print options report (Tax1099Report)
 ms:assetid: 386de0c0-cf81-456b-b286-ebffbbfafd80
 ms:mtpsurl: https://technet.microsoft.com/library/Aa553655(v=AX.60)
 ms:contentKeyID: 36941249
-author: Khairunj
+author: tonyafehr
 ms.date: 06/29/2016
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: IsAddressValid Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ValidateShippingAddressServiceResponse.IsAddressValid
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.validateshippingaddressserviceresponse.isaddressvalid(v=AX.60)
 ms:contentKeyID: 49820217
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

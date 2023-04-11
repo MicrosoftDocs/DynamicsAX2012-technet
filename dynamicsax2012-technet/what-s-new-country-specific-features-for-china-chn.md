@@ -4,7 +4,7 @@ TOCTitle: Country-specific features for China
 ms:assetid: 3bf77a0d-698d-4bcc-af87-335fce37d147
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507105(v=AX.60)
 ms:contentKeyID: 59623195
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---

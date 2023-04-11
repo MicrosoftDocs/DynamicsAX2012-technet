@@ -4,7 +4,7 @@ TOCTitle: Upgrade reason codes
 ms:assetid: ffb6c577-5e92-4e2c-8a41-03e0c15ad088
 ms:mtpsurl: https://technet.microsoft.com/library/Hh454988(v=AX.60)
 ms:contentKeyID: 36993127
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

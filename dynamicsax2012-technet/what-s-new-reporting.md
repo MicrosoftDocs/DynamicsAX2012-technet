@@ -4,7 +4,7 @@ TOCTitle: Reporting
 ms:assetid: f09d8fb3-b3eb-48e2-9285-22217a06037c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527264(v=AX.60)
 ms:contentKeyID: 59623392
-author: Khairunj
+author: tonyafehr
 ms.date: 08/20/2014
 mtps_version: v=AX.60
 ---

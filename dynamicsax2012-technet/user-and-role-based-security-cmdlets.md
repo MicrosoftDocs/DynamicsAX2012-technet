@@ -4,7 +4,7 @@ TOCTitle: User and role-based security cmdlets
 ms:assetid: C42CB5E5-440D-3424-4D91-66F70C0AE559
 ms:mtpsurl: https://technet.microsoft.com/library/Hh706141(v=AX.60)
 ms:contentKeyID: 42529000
-author: Khairunj
+author: tonyafehr
 ms.date: 10/28/2012
 mtps_version: v=AX.60
 ---

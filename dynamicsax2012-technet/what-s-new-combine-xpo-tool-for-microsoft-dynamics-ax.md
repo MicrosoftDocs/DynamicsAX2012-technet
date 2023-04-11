@@ -4,7 +4,7 @@ TOCTitle: Combine XPO Tool for Microsoft Dynamics AX
 ms:assetid: e7fd5c3c-151f-488f-94c1-d33292c5e864
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527262(v=AX.60)
 ms:contentKeyID: 59623390
-author: Khairunj
+author: tonyafehr
 ms.date: 10/29/2014
 mtps_version: v=AX.60
 ---

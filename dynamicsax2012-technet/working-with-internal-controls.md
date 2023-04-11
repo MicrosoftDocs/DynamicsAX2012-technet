@@ -4,7 +4,7 @@ TOCTitle: Working with internal controls
 ms:assetid: bb602225-e00b-48ac-a3f7-537daadd374f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271637(v=AX.60)
 ms:contentKeyID: 36384269
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

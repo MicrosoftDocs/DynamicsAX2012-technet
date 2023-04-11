@@ -4,7 +4,7 @@ TOCTitle: View and reply to a request for quotation
 ms:assetid: 2ca952d7-8748-48a5-8f70-025171e2fbad
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271486(v=AX.60)
 ms:contentKeyID: 36384118
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

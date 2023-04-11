@@ -4,7 +4,7 @@ TOCTitle: Workplace accommodations
 ms:assetid: 7bb28bca-b6b3-4b3f-88c6-0ac1bf870dbb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209266(v=AX.60)
 ms:contentKeyID: 36058258
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

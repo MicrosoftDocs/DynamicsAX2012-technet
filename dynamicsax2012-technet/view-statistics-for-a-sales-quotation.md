@@ -4,7 +4,7 @@ TOCTitle: View statistics for a sales quotation
 ms:assetid: b2d5742e-ccb6-4de6-9acf-d6ce31f38247
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571889(v=AX.60)
 ms:contentKeyID: 36059064
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

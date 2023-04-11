@@ -4,7 +4,7 @@ TOCTitle: View retail sales (Retail essentials)
 ms:assetid: c8aeed6f-1572-44ca-bbcd-69420dd07cc3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736949(v=AX.60)
 ms:contentKeyID: 62200426
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

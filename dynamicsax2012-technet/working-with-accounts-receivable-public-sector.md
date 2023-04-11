@@ -4,7 +4,7 @@ TOCTitle: Working with Accounts receivable (Public sector)
 ms:assetid: 18ae012a-ed27-4cea-af0d-a932a8d33802
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450743(v=AX.60)
 ms:contentKeyID: 36966681
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

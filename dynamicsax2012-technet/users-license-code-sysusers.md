@@ -4,7 +4,7 @@ TOCTitle: Users license code (SysUsers)
 ms:assetid: affc99c3-1d36-4628-91b2-790f3aa2fe2e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416686(v=AX.60)
 ms:contentKeyID: 36931847
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

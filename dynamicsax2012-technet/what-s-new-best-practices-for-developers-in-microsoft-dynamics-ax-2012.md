@@ -4,7 +4,7 @@ TOCTitle: Best Practices for Developers
 ms:assetid: f7bdd87f-2ee2-4417-9efe-c5199c2901aa
 ms:mtpsurl: https://technet.microsoft.com/library/Gg865121(v=AX.60)
 ms:contentKeyID: 35253637
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: View payments made to a vendor
 ms:assetid: c5c31cbc-64cd-4764-96d9-27014dd4da3e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213643(v=AX.60)
 ms:contentKeyID: 36059303
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

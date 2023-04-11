@@ -4,7 +4,7 @@ TOCTitle: GetDefaultProductImageData Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.Utilities.GetDefaultProductImageData
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.utilities.getdefaultproductimagedata(v=AX.60)
 ms:contentKeyID: 62201848
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

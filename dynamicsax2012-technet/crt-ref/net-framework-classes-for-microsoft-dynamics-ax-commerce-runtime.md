@@ -4,7 +4,7 @@ TOCTitle: Commerce Runtime Reference
 ms:assetid: 977e5fa7-6d1a-4a80-a38f-56123020c508
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992752(v=AX.60)
 ms:contentKeyID: 51739438
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

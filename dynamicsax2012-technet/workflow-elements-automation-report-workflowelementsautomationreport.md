@@ -4,7 +4,7 @@ TOCTitle: Workflow elements automation report (WorkflowElementsAutomationReport)
 ms:assetid: fa5b8e44-68d5-4e3e-b89d-a4042e48ec34
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334507(v=AX.60)
 ms:contentKeyID: 36676497
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

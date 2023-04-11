@@ -4,7 +4,7 @@ TOCTitle: UserAuthenticationResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.UserAuthenticationResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.userauthenticationresponse(v=AX.60)
 ms:contentKeyID: 62205143
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

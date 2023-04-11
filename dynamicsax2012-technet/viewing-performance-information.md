@@ -4,7 +4,7 @@ TOCTitle: Viewing performance information
 ms:assetid: d9a94529-91ec-416a-912b-3f6c42494ea0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271664(v=AX.60)
 ms:contentKeyID: 36384296
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

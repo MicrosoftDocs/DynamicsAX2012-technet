@@ -4,7 +4,7 @@ TOCTitle: 'Walkthrough: Reading a Customer by Using the File System Adapter'
 ms:assetid: 8ddda9b4-58a9-4811-bdf6-15e3f6a9c55e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710376(v=AX.60)
 ms:contentKeyID: 49384268
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

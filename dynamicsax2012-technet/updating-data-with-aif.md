@@ -4,7 +4,7 @@ TOCTitle: Updating Data With AIF
 ms:assetid: 74f95270-663f-445b-9225-dc5a1685d6bb
 ms:mtpsurl: https://technet.microsoft.com/library/Cc593511(v=AX.60)
 ms:contentKeyID: 35245939
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---
