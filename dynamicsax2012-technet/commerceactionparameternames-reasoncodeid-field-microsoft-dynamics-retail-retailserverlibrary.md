@@ -4,7 +4,7 @@ TOCTitle: ReasonCodeId Field
 ms:assetid: F:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceActionParameterNames.ReasonCodeId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.reasoncodeid(v=AX.60)
 ms:contentKeyID: 62203125
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

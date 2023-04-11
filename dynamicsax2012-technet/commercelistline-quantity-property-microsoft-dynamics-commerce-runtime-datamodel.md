@@ -4,7 +4,7 @@ TOCTitle: Quantity Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceListLine.Quantity
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commercelistline.quantity(v=AX.60)
 ms:contentKeyID: 62209973
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

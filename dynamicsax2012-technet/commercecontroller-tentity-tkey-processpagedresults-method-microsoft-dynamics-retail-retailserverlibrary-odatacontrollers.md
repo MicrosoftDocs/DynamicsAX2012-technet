@@ -4,7 +4,7 @@ TOCTitle: ProcessPagedResults Method
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.CommerceController`2.ProcessPagedResults(Microsoft.Dynamics.Commerce.Runtime.PagedResult{`0},System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716619(v=AX.60)
 ms:contentKeyID: 62203643
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

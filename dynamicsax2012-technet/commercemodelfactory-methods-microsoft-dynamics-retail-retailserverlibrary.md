@@ -4,7 +4,7 @@ TOCTitle: CommerceModelFactory Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceModelFactory
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commercemodelfactory_methods(v=AX.60)
 ms:contentKeyID: 62202655
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 ---

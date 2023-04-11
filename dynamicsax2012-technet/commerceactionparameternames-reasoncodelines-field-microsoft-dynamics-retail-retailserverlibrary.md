@@ -4,7 +4,7 @@ TOCTitle: ReasonCodeLines Field
 ms:assetid: F:Microsoft.Dynamics.Retail.RetailServerLibrary.CommerceActionParameterNames.ReasonCodeLines
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.commerceactionparameternames.reasoncodelines(v=AX.60)
 ms:contentKeyID: 62203354
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

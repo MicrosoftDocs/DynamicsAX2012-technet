@@ -4,7 +4,7 @@ TOCTitle: CommerceListTypeValue Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.CommerceList.CommerceListTypeValue
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.commercelist.commercelisttypevalue(v=AX.60)
 ms:contentKeyID: 62214682
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
