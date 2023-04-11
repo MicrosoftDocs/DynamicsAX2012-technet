@@ -4,7 +4,7 @@ TOCTitle: (BRA) About project management and accounting enhancements
 ms:assetid: d9656fcd-3a2f-457d-a2f6-7945518ed0f4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933530(v=AX.60)
 ms:contentKeyID: 50935144
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

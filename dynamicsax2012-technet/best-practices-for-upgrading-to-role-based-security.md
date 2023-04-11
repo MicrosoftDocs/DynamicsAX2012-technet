@@ -4,7 +4,7 @@ TOCTitle: Best practices for upgrading to role-based security
 ms:assetid: 148d7aad-9092-4cec-8b57-52223ebf3730
 ms:mtpsurl: https://technet.microsoft.com/library/Hh575192(v=AX.60)
 ms:contentKeyID: 39555321
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

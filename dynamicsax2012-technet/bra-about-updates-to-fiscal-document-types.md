@@ -4,7 +4,7 @@ TOCTitle: (BRA) About updates to fiscal document types
 ms:assetid: 2a507f5a-b4fa-4c04-8153-60862d1fec82
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710443(v=AX.60)
 ms:contentKeyID: 49384336
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

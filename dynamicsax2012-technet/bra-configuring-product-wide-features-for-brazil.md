@@ -4,7 +4,7 @@ TOCTitle: (BRA) Configuring product-wide features for Brazil
 ms:assetid: 38efcc41-e0a3-4829-81ff-37ca2ed1dd4e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710457(v=AX.60)
 ms:contentKeyID: 49384351
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

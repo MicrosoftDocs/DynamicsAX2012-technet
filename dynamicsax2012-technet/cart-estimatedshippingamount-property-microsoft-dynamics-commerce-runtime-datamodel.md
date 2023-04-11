@@ -4,7 +4,7 @@ TOCTitle: EstimatedShippingAmount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Cart.EstimatedShippingAmount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cart.estimatedshippingamount(v=AX.60)
 ms:contentKeyID: 65322351
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

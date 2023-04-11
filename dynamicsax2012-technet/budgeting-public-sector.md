@@ -4,7 +4,7 @@ TOCTitle: Budgeting (Public sector)
 ms:assetid: c26dcc62-e446-4a92-af40-dbe115a2bd9b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208577(v=AX.60)
 ms:contentKeyID: 36056362
-author: Khairunj
+author: tfehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

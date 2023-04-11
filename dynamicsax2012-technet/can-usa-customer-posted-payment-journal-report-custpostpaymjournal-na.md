@@ -4,7 +4,7 @@ TOCTitle: (CAN, USA) Customer posted payment journal report (CustPostPaymJournal
 ms:assetid: 18383aa3-2f66-45e6-876f-be40a5f00b45
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433481(v=AX.60)
 ms:contentKeyID: 36941241
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

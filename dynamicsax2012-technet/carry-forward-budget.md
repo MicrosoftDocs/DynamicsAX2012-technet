@@ -4,7 +4,7 @@ TOCTitle: " carry-forward budget"
 ms:assetid: DynamicsAXGlossary.1370413
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1370413(v=AX.60)
 ms:contentKeyID: 36056831
-author: Khairunj
+author: tfehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

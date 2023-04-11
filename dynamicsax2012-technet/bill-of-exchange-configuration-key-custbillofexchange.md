@@ -4,7 +4,7 @@ TOCTitle: Bill of exchange configuration key (CustBillOfExchange)
 ms:assetid: 133e66a3-763f-433b-b0dc-fdbd03399502
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450725(v=AX.60)
 ms:contentKeyID: 36966661
-author: Khairunj
+author: tfehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (BEL) Set up INTERVAT
 ms:assetid: b3ad2d05-71da-4ec5-b810-6c24c32ec0de
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232414(v=AX.60)
 ms:contentKeyID: 36059071
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: CalculateTotalAmountServiceResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculateTotalAmountServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.calculatetotalamountserviceresponse(v=AX.60)
 ms:contentKeyID: 62209083
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

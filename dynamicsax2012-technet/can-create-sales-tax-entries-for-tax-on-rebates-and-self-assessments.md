@@ -4,7 +4,7 @@ TOCTitle: (CAN) Create sales tax entries for tax on rebates and self-assessments
 ms:assetid: 00a38266-8f4c-4dc8-af78-02dc57790266
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242091(v=AX.60)
 ms:contentKeyID: 36055917
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

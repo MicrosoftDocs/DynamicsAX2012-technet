@@ -4,7 +4,7 @@ TOCTitle: (BRA) Export or import layout group data
 ms:assetid: b2f93a36-b3cb-437d-bbdc-348bb865868c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838776(v=AX.60)
 ms:contentKeyID: 50120659
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

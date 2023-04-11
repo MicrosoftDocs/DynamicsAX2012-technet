@@ -4,7 +4,7 @@ TOCTitle: (BEL) Transfer vendor invoice transactions and generate an Intrastat d
 ms:assetid: b73513e0-a939-49a6-94d7-c911d43e71e1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242757(v=AX.60)
 ms:contentKeyID: 36059100
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

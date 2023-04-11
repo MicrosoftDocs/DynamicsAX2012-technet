@@ -4,7 +4,7 @@ TOCTitle: CartDeliveryPreferences Constructor (IEnumerable(DeliveryPreferenceTyp
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.CartDeliveryPreferences.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DeliveryPreferenceType},System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.LineDeliveryPreference})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.cartdeliverypreferences.cartdeliverypreferences(v=AX.60)
 ms:contentKeyID: 65319730
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

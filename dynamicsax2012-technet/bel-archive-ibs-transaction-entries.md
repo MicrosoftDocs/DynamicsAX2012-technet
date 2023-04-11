@@ -4,7 +4,7 @@ TOCTitle: (BEL) Archive IBS transaction entries
 ms:assetid: 0cda3238-32a8-40fe-9d24-eaee44b05abc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242129(v=AX.60)
 ms:contentKeyID: 36056000
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

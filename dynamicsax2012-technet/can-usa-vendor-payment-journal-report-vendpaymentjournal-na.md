@@ -4,7 +4,7 @@ TOCTitle: (CAN, USA) Vendor payment journal report (VendPaymentJournal_NA)
 ms:assetid: dfe8e809-77c1-4d07-a51e-eafa2d39ed32
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524744(v=AX.60)
 ms:contentKeyID: 37072040
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

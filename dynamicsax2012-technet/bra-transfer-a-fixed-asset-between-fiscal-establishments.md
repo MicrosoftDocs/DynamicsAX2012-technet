@@ -4,7 +4,7 @@ TOCTitle: (BRA) Transfer a fixed asset between fiscal establishments
 ms:assetid: c5507b2b-5d30-4839-9879-a0142cdafa40
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305883(v=AX.60)
 ms:contentKeyID: 54912980
-author: Khairunj
+author: tfehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

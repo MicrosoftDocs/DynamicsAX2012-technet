@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up parameters for GIA tax statements
 ms:assetid: e6e649f3-6e57-4544-b8fa-b56d92ce69b5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn600282(v=AX.60)
 ms:contentKeyID: 62200247
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

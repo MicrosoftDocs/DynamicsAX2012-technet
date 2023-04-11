@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up a fixed asset group
 ms:assetid: b9d05a78-a854-4a7d-8f1c-718ba990f63c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305882(v=AX.60)
 ms:contentKeyID: 54912984
-author: Khairunj
+author: tfehr
 ms.date: 07/06/2015
 mtps_version: v=AX.60
 f1_keywords:

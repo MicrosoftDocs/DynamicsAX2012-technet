@@ -4,7 +4,7 @@ TOCTitle: (BRA) Export and import legal entity transactions
 ms:assetid: f30c7592-8a49-4bd9-8bd8-85f3acfc05ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663968(v=AX.60)
 ms:contentKeyID: 49384553
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

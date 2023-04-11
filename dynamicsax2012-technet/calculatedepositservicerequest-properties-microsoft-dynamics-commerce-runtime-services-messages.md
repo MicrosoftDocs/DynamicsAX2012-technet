@@ -4,7 +4,7 @@ TOCTitle: CalculateDepositServiceRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CalculateDepositServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.calculatedepositservicerequest_properties(v=AX.60)
 ms:contentKeyID: 65320528
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

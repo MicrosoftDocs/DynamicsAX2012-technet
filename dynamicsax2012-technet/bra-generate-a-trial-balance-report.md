@@ -4,7 +4,7 @@ TOCTitle: (BRA) Generate a trial balance report
 ms:assetid: 4c24b07d-8d4b-420c-abc8-1f24f34c4361
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710493(v=AX.60)
 ms:contentKeyID: 49384385
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

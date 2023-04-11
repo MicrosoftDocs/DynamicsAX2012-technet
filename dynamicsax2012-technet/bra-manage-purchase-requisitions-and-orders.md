@@ -4,7 +4,7 @@ TOCTitle: (BRA) Manage purchase requisitions and orders
 ms:assetid: 4b0b5f82-d619-4d6c-8470-3d7b7e5c28d8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710492(v=AX.60)
 ms:contentKeyID: 49384383
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up the CFOP codes for transfer fiscal documents
 ms:assetid: 54067547-6dc9-427c-a0a1-575cab53ea31
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933518(v=AX.60)
 ms:contentKeyID: 50935130
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

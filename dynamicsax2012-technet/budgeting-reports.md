@@ -4,7 +4,7 @@ TOCTitle: Budgeting reports
 ms:assetid: 590b3d41-5522-4681-a185-1a41d7d23281
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334483(v=AX.60)
 ms:contentKeyID: 36676468
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

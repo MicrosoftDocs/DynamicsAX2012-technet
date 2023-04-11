@@ -4,7 +4,7 @@ TOCTitle: (CAN, USA) Reuse a check number
 ms:assetid: ada2b2b3-d70d-4bac-b3ef-06904a55bed9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243102(v=AX.60)
 ms:contentKeyID: 36058929
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

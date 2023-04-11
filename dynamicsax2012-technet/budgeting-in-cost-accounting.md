@@ -4,7 +4,7 @@ TOCTitle: Budgeting in cost accounting
 ms:assetid: fed63a32-93dd-4325-a4ac-bb6606b9f5ea
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573450(v=AX.60)
 ms:contentKeyID: 36060129
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

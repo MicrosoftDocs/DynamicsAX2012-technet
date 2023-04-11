@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up accountant information for fiscal books
 ms:assetid: 9598aab9-49da-4d13-91b6-e801a5cd1445
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305877(v=AX.60)
 ms:contentKeyID: 54912976
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

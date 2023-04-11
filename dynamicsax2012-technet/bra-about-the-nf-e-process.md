@@ -4,7 +4,7 @@ TOCTitle: (BRA) About the NF-e process
 ms:assetid: 2e491951-d107-4de2-b156-dbb35e096771
 ms:mtpsurl: https://technet.microsoft.com/library/JJ898462(v=AX.60)
 ms:contentKeyID: 50873681
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

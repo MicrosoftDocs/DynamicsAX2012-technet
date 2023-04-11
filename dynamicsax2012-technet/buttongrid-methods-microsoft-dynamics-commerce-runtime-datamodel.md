@@ -4,7 +4,7 @@ TOCTitle: ButtonGrid Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ButtonGrid
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.buttongrid_methods(v=AX.60)
 ms:contentKeyID: 62208506
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

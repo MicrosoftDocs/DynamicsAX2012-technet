@@ -4,7 +4,7 @@ TOCTitle: (CAN) Create and validate bank account information
 ms:assetid: 8964262f-1a1f-4710-987c-f1e0093fb023
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209343(v=AX.60)
 ms:contentKeyID: 36058460
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

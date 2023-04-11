@@ -4,7 +4,7 @@ TOCTitle: Context Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.CalculateTotals.Context
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.calculatetotals.context(v=AX.60)
 ms:contentKeyID: 65319097
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

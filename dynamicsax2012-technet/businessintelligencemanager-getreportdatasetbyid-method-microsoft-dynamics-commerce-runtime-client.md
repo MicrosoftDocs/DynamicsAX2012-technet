@@ -4,7 +4,7 @@ TOCTitle: GetReportDataSetById Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.BusinessIntelligenceManager.GetReportDataSetById(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.businessintelligencemanager.getreportdatasetbyid(v=AX.60)
 ms:contentKeyID: 65320343
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

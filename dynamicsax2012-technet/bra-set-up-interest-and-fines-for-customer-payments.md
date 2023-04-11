@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up interest and fines for customer payments
 ms:assetid: ed1b025e-57db-4c41-93cf-025885e10069
 ms:mtpsurl: https://technet.microsoft.com/library/JJ680912(v=AX.60)
 ms:contentKeyID: 49624337
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

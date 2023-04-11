@@ -4,7 +4,7 @@ TOCTitle: (BRA) Create a new booking period
 ms:assetid: 1541cb60-bd84-4c54-8ab3-f55f8895f11b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305861(v=AX.60)
 ms:contentKeyID: 54912962
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

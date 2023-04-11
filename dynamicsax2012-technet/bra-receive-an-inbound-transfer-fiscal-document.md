@@ -4,7 +4,7 @@ TOCTitle: (BRA) Receive an inbound transfer fiscal document
 ms:assetid: 362fc005-9735-4134-aad5-fb0a0d08cc36
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933506(v=AX.60)
 ms:contentKeyID: 50935119
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (BRA) Post an NF-e from a free text invoice
 ms:assetid: 37f3d890-d463-4702-84af-965196bc9832
 ms:mtpsurl: https://technet.microsoft.com/library/JJ915359(v=AX.60)
 ms:contentKeyID: 50874340
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

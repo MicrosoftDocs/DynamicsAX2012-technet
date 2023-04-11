@@ -4,7 +4,7 @@ TOCTitle: (BRA) Verify subsidiary legal entity transactions
 ms:assetid: b5748c96-c59c-4a9e-b3ac-584824151d70
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710605(v=AX.60)
 ms:contentKeyID: 49384496
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

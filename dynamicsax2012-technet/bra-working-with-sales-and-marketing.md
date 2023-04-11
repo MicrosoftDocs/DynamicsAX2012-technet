@@ -4,7 +4,7 @@ TOCTitle: (BRA) Working with Sales and marketing
 ms:assetid: 3fb87e4c-620e-4a5e-82ea-14e9f65b3b3b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710473(v=AX.60)
 ms:contentKeyID: 49384363
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

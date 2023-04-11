@@ -4,7 +4,7 @@ TOCTitle: (BRA) About fiscal documents and the fiscal document framework
 ms:assetid: dc0a3685-3770-472b-823a-3210ecac339a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663949(v=AX.60)
 ms:contentKeyID: 49384539
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

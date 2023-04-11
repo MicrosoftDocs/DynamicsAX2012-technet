@@ -4,7 +4,7 @@ TOCTitle: Batch attribute configuration key (PdsBatchAttrib)
 ms:assetid: a4844328-8b50-413d-98a7-fa844a672f33
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496427(v=AX.60)
 ms:contentKeyID: 37072007
-author: Khairunj
+author: tfehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

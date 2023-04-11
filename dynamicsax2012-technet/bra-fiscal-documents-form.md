@@ -4,7 +4,7 @@ TOCTitle: (BRA) Fiscal documents (form)
 ms:assetid: b5b9fa62-9bbf-4285-a24e-5f5b277ea1ee
 ms:mtpsurl: https://technet.microsoft.com/library/Dn305881(v=AX.60)
 ms:contentKeyID: 54912982
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

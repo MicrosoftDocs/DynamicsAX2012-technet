@@ -4,7 +4,7 @@ TOCTitle: (BRA) Cancel a vendor NF-e
 ms:assetid: db8651ea-41d9-468b-bb2f-fee3b67dcf71
 ms:mtpsurl: https://technet.microsoft.com/library/JJ933532(v=AX.60)
 ms:contentKeyID: 50935146
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

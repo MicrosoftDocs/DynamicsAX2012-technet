@@ -4,7 +4,7 @@ TOCTitle: Cancel a workflow instance
 ms:assetid: c607697e-3ddd-4e1b-8110-3efd740a8dc4
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362069(v=AX.60)
 ms:contentKeyID: 39508888
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

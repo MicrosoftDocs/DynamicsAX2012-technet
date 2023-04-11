@@ -4,7 +4,7 @@ TOCTitle: CalculateChargesRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.CalculateChargesRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.calculatechargesrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62205376
-author: Khairunj
+author: tfehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

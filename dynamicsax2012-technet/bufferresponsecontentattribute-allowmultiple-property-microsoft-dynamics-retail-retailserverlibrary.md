@@ -4,7 +4,7 @@ TOCTitle: AllowMultiple Property
 ms:assetid: P:Microsoft.Dynamics.Retail.RetailServerLibrary.BufferResponseContentAttribute.AllowMultiple
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.bufferresponsecontentattribute.allowmultiple(v=AX.60)
 ms:contentKeyID: 62203662
-author: Khairunj
+author: tfehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

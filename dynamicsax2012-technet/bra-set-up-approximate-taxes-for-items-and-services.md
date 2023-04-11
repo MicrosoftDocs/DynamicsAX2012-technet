@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up approximate taxes for items and services
 ms:assetid: 745d493e-74cd-4b1b-bc81-8d85f1cedd49
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527708(v=AX.60)
 ms:contentKeyID: 59626280
-author: Khairunj
+author: tfehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

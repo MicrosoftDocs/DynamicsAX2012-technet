@@ -4,7 +4,7 @@ TOCTitle: (BEL) Create an INTERVAT declaration file
 ms:assetid: 6b552fb8-6844-4f07-9382-eece9aa62cbe
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231784(v=AX.60)
 ms:contentKeyID: 36057988
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

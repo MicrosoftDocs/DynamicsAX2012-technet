@@ -4,7 +4,7 @@ TOCTitle: (BRA) Set up customer posting profiles
 ms:assetid: f3e60c6b-eb1f-4ceb-be5e-110e3c12e47e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ663971(v=AX.60)
 ms:contentKeyID: 49384556
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

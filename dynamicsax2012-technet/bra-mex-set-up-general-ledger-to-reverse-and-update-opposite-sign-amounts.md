@@ -4,7 +4,7 @@ TOCTitle: (BRA, MEX) Set up General ledger to reverse and update opposite sign a
 ms:assetid: 53b704ea-8fdb-4f90-a51c-6adae5e6f48b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497721(v=AX.60)
 ms:contentKeyID: 62200235
-author: Khairunj
+author: tfehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

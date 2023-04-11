@@ -4,7 +4,7 @@ TOCTitle: Budget planning overview
 ms:assetid: 1ba682ec-6ab9-4929-9b03-f4eb1c6cec20
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677328(v=AX.60)
 ms:contentKeyID: 49384102
-author: Khairunj
+author: tfehr
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 f1_keywords:
