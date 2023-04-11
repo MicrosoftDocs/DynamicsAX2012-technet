@@ -4,7 +4,7 @@ TOCTitle: StoreLocatorManager Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Client.StoreLocatorManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.storelocatormanager(v=AX.60)
 ms:contentKeyID: 49825234
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

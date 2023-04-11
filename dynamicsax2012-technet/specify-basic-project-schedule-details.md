@@ -4,7 +4,7 @@ TOCTitle: Specify basic project schedule details
 ms:assetid: 07664c77-7b82-4809-af64-0d3ceb556107
 ms:mtpsurl: https://technet.microsoft.com/library/JJ735272(v=AX.60)
 ms:contentKeyID: 49693273
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 audience: Application User

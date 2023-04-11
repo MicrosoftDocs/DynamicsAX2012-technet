@@ -4,7 +4,7 @@ TOCTitle: Set up a transportation tender
 ms:assetid: 6f7edf8d-b8a3-4c2e-906a-43f3d953d21d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553168(v=AX.60)
 ms:contentKeyID: 62200089
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

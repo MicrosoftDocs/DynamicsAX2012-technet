@@ -4,7 +4,7 @@ TOCTitle: Set up worker attributes
 ms:assetid: 64f8c2b2-b500-45e3-9a90-a9b834bc88ac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242442(v=AX.60)
 ms:contentKeyID: 36057734
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Setting up info codes (Retail essentials)
 ms:assetid: b724625a-4d96-4ccf-a10c-95f9c5c9bee0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736938(v=AX.60)
 ms:contentKeyID: 62200415
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

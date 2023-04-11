@@ -4,7 +4,7 @@ TOCTitle: Set up transfer order lines
 ms:assetid: 2b4f8de7-1da1-4cfd-8055-0bb81faadfd3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496862(v=AX.60)
 ms:contentKeyID: 42518426
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

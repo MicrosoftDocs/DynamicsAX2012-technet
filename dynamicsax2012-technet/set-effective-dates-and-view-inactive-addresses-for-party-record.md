@@ -4,7 +4,7 @@ TOCTitle: Set effective dates and view inactive addresses for party record
 ms:assetid: 76e2e58d-f20f-4a92-92a3-e8ab15e44854
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545523(v=AX.60)
 ms:contentKeyID: 37832508
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

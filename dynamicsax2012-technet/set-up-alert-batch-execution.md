@@ -4,7 +4,7 @@ TOCTitle: Set up alert batch execution
 ms:assetid: c6a9555c-d4da-4f1e-91c1-92f8fca53f19
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834433(v=AX.60)
 ms:contentKeyID: 46687565
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

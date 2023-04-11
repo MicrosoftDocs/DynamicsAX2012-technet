@@ -4,7 +4,7 @@ TOCTitle: Set up service activity types
 ms:assetid: 51d015ee-1f6f-4676-b5d7-ce46ad360641
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212783(v=AX.60)
 ms:contentKeyID: 36057272
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

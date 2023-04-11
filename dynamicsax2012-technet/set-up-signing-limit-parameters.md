@@ -4,7 +4,7 @@ TOCTitle: Set up signing limit parameters
 ms:assetid: a885800b-5282-4e5b-bb64-9078347de802
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242689(v=AX.60)
 ms:contentKeyID: 36058887
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

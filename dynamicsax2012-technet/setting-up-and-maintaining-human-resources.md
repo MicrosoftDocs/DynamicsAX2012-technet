@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Human resources
 ms:assetid: b2c23fff-bff5-4eb9-aeb1-138fa4127ffd
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232413(v=AX.60)
 ms:contentKeyID: 36059063
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 audience: Application User

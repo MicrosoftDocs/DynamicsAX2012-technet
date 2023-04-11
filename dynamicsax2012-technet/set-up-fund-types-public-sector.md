@@ -4,7 +4,7 @@ TOCTitle: Set up fund types (Public sector)
 ms:assetid: 9537eac9-dd28-4f51-9f47-457b382280cf
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208556(v=AX.60)
 ms:contentKeyID: 36056317
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

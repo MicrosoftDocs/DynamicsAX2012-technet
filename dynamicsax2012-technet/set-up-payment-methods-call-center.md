@@ -4,7 +4,7 @@ TOCTitle: Set up payment methods (Call center)
 ms:assetid: 24bcd52c-c82c-4f73-8d1e-bfbf8ff85345
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497730(v=AX.60)
 ms:contentKeyID: 62200044
-author: Khairunj
+author: tonyafehr
 ms.date: 05/09/2014
 mtps_version: v=AX.60
 f1_keywords:

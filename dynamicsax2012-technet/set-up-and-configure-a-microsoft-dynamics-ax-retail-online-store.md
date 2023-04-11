@@ -4,7 +4,7 @@ TOCTitle: Set up and configure an online store
 ms:assetid: a3c147ed-ff1b-41ef-b204-ebc1d1c2f67d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ992751(v=AX.60)
 ms:contentKeyID: 51739439
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

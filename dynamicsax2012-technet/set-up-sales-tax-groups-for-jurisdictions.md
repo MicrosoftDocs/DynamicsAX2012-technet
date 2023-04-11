@@ -4,7 +4,7 @@ TOCTitle: Set up sales tax groups for jurisdictions
 ms:assetid: d15ceae1-662d-4336-b70d-c94cfb43a22f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551024(v=AX.60)
 ms:contentKeyID: 36059496
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Setting up profiles (Retail essentials)
 ms:assetid: 2fe04226-0f98-44c4-8464-fb5d75ff8c0b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716063(v=AX.60)
 ms:contentKeyID: 62200326
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

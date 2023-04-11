@@ -4,7 +4,7 @@ TOCTitle: Set up and manage devices
 ms:assetid: 4b09662f-414a-489f-92d2-b936bab88260
 ms:mtpsurl: https://technet.microsoft.com/library/Dn793607(v=AX.60)
 ms:contentKeyID: 62629942
-author: Khairunj
+author: tonyafehr
 ms.date: 07/25/2014
 mtps_version: v=AX.60
 audience: Application User

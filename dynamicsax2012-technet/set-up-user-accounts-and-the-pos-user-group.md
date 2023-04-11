@@ -4,7 +4,7 @@ TOCTitle: Set up user accounts and the POS user group
 ms:assetid: a129368a-5cf6-4f07-a041-92f45962030d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838774(v=AX.60)
 ms:contentKeyID: 50120657
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

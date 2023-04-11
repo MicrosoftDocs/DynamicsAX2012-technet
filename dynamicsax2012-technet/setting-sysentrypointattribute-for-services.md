@@ -4,7 +4,7 @@ TOCTitle: Setting SysEntryPointAttribute for Services
 ms:assetid: 89f733b4-936c-4673-86d0-f6b64c7708f6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh801193(v=AX.60)
 ms:contentKeyID: 43976725
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

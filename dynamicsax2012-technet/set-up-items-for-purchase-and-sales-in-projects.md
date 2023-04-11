@@ -4,7 +4,7 @@ TOCTitle: Set up items for purchase and sales in projects
 ms:assetid: 6bc4ed39-a68e-40f6-8fe6-e7defd72e4dc
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571192(v=AX.60)
 ms:contentKeyID: 36057993
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

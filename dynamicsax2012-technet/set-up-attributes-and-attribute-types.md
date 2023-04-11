@@ -4,7 +4,7 @@ TOCTitle: Set up attributes and attribute types
 ms:assetid: f72d49b8-121f-4cd3-b1fc-9ca0d25ccf8d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227548(v=AX.60)
 ms:contentKeyID: 36060029
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

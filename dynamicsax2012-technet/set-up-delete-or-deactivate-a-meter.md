@@ -4,7 +4,7 @@ TOCTitle: Set up, delete, or deactivate a meter
 ms:assetid: 2d62a8e8-651b-4bfa-af19-48a0bc7b255b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208516(v=AX.60)
 ms:contentKeyID: 36056260
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

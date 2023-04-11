@@ -4,7 +4,7 @@ TOCTitle: Set up a tax registration type
 ms:assetid: 3950df8c-0674-4a6a-a1c6-e50051852487
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677335(v=AX.60)
 ms:contentKeyID: 49384109
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

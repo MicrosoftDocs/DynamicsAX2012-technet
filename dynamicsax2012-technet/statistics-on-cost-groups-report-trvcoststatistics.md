@@ -4,7 +4,7 @@ TOCTitle: Statistics on cost groups report (TrvCostStatistics)
 ms:assetid: fb3328c4-a28a-40af-a80a-88500132a33c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh394892(v=AX.60)
 ms:contentKeyID: 36916375
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

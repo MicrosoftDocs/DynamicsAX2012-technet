@@ -4,7 +4,7 @@ TOCTitle: Set up a self-service Retail deployment
 ms:assetid: fd6b63ac-0aa0-4fd3-80c5-48a01590df08
 ms:mtpsurl: https://technet.microsoft.com/library/Dn858399(v=AX.60)
 ms:contentKeyID: 63417193
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

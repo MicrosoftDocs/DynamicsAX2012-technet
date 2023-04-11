@@ -4,7 +4,7 @@ TOCTitle: Set up item lists
 ms:assetid: c18fea21-376d-4cdf-9de0-18ef88bb69ce
 ms:mtpsurl: https://technet.microsoft.com/library/Dn631660(v=AX.60)
 ms:contentKeyID: 62336122
-author: Khairunj
+author: tonyafehr
 ms.date: 05/14/2014
 mtps_version: v=AX.60
 audience: Application User

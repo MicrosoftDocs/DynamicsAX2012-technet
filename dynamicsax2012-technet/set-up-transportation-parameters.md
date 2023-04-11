@@ -4,7 +4,7 @@ TOCTitle: Set up transportation parameters
 ms:assetid: 528afd63-fbe2-4076-8b80-22b6aef65520
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553163(v=AX.60)
 ms:contentKeyID: 62524895
-author: Khairunj
+author: tonyafehr
 ms.date: 06/08/2015
 mtps_version: v=AX.60
 audience: Application User

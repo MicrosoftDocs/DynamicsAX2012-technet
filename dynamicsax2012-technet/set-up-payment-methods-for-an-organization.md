@@ -4,7 +4,7 @@ TOCTitle: Set up payment methods for an organization
 ms:assetid: 9af04082-4ba5-4bbf-a5fb-940422b7655c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597188(v=AX.60)
 ms:contentKeyID: 39519253
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up application bookmarks
 ms:assetid: ff07aa99-f49c-42d4-80ac-fc64f47b637e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524759(v=AX.60)
 ms:contentKeyID: 37072068
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

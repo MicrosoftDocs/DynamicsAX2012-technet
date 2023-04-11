@@ -4,7 +4,7 @@ TOCTitle: Set up update of purchase order lines
 ms:assetid: df8ccf54-80ce-4c61-b3be-d176a80c74f1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551285(v=AX.60)
 ms:contentKeyID: 36059699
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

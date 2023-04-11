@@ -4,7 +4,7 @@ TOCTitle: Shipment Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipment_fields(v=AX.60)
 ms:contentKeyID: 65319847
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: SqlPagedQuery Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.Data.SqlPagedQuery
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlpagedquery_fields(v=AX.60)
 ms:contentKeyID: 65317754
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

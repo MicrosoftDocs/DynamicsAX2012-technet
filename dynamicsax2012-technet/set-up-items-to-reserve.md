@@ -4,7 +4,7 @@ TOCTitle: Set up items to reserve
 ms:assetid: a8d60dd0-76c6-4f00-9816-37d0b189018a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550316(v=AX.60)
 ms:contentKeyID: 36687947
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

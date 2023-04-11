@@ -4,7 +4,7 @@ TOCTitle: Set up dimensions display
 ms:assetid: 4054ec21-618f-4867-88ea-912532f45e74
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496947(v=AX.60)
 ms:contentKeyID: 42518512
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

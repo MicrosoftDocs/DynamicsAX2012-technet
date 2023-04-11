@@ -4,7 +4,7 @@ TOCTitle: ShippingSqlServerDataRequestHandler Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ShippingSqlServerDataRequestHandler.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.shippingsqlserverdatarequesthandler.shippingsqlserverdatarequesthandler(v=AX.60)
 ms:contentKeyID: 65322346
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

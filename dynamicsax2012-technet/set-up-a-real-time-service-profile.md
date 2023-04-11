@@ -4,7 +4,7 @@ TOCTitle: Set up a Real-time Service profile
 ms:assetid: 4abdd0b8-813d-4216-8bae-0b66de66e5d3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580631(v=AX.60)
 ms:contentKeyID: 39519122
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

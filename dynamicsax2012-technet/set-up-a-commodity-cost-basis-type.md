@@ -4,7 +4,7 @@ TOCTitle: Set up a commodity cost basis type
 ms:assetid: a7dc9acd-8828-4dc2-936c-6f6868dd67f2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242687(v=AX.60)
 ms:contentKeyID: 36058879
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 audience: Application User

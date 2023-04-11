@@ -4,7 +4,7 @@ TOCTitle: Set up bar code mask characters
 ms:assetid: 05b719a0-1828-40bb-b2df-eed5de6f9323
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580559(v=AX.60)
 ms:contentKeyID: 39519035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

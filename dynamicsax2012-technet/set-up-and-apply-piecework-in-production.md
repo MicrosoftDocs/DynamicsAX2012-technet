@@ -4,7 +4,7 @@ TOCTitle: Set up and apply piecework in production
 ms:assetid: 60a3075b-2e62-4bf2-aecb-3af36434fba8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571121(v=AX.60)
 ms:contentKeyID: 36057634
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up Fixed assets and Accounts payable integration
 ms:assetid: f7b9764b-275f-4a33-a55f-f931db49c664
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243296(v=AX.60)
 ms:contentKeyID: 36060041
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

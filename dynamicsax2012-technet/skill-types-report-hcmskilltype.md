@@ -4,7 +4,7 @@ TOCTitle: Skill types report (HcmSkillType)
 ms:assetid: 60e6f88f-74a0-4bff-8af4-fae8e3552ca0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ870691(v=AX.60)
 ms:contentKeyID: 50469197
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

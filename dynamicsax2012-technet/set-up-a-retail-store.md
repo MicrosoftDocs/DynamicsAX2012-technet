@@ -4,7 +4,7 @@ TOCTitle: Set up a retail store
 ms:assetid: e0748d3a-08a2-41e3-91e0-be1e1935f112
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597262(v=AX.60)
 ms:contentKeyID: 39519342
-author: Khairunj
+author: tonyafehr
 ms.date: 09/05/2014
 mtps_version: v=AX.60
 f1_keywords:

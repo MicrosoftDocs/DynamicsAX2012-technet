@@ -4,7 +4,7 @@ TOCTitle: Set up continuity programs
 ms:assetid: 8dc715f2-862e-4c0b-8521-66b29b7a6d03
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497801(v=AX.60)
 ms:contentKeyID: 62200115
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

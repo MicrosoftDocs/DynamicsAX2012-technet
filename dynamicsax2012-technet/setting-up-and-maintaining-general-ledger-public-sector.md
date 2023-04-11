@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining General ledger (Public sector)
 ms:assetid: 9068ef3e-38c0-4755-b03a-7683db36cc65
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208552(v=AX.60)
 ms:contentKeyID: 36056313
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

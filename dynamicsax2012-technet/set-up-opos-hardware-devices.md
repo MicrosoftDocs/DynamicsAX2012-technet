@@ -4,7 +4,7 @@ TOCTitle: Set up OPOS hardware devices
 ms:assetid: dc8548b0-77d5-4926-9d58-d7dd6106ab71
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838775(v=AX.60)
 ms:contentKeyID: 50120658
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

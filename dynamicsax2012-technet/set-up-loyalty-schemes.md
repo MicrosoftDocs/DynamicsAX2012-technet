@@ -4,7 +4,7 @@ TOCTitle: Set up loyalty schemes
 ms:assetid: c0e47e4e-589e-43ff-9013-0259a73e05a0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597233(v=AX.60)
 ms:contentKeyID: 39519306
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 f1_keywords:

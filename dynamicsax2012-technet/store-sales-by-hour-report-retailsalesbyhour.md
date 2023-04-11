@@ -4,7 +4,7 @@ TOCTitle: Store sales by hour report (RetailSalesByHour)
 ms:assetid: 262bbb8f-8a30-4aec-8731-a084c67f6998
 ms:mtpsurl: https://technet.microsoft.com/library/Hh697605(v=AX.60)
 ms:contentKeyID: 42518406
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

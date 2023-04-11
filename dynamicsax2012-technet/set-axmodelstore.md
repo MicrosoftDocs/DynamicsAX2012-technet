@@ -4,7 +4,7 @@ TOCTitle: Set-AXModelStore
 ms:assetid: 3F28A6E8-210F-403A-A92C-51CC0DFC5048
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720253(v=AX.60)
 ms:contentKeyID: 49720042
-author: Khairunj
+author: tonyafehr
 ms.date: 10/17/2012
 mtps_version: v=AX.60
 ---

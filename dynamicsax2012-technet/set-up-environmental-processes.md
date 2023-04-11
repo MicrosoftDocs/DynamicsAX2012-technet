@@ -4,7 +4,7 @@ TOCTitle: Set up environmental processes
 ms:assetid: 575db9a4-04b4-4416-a6ab-b29d105d1688
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208969(v=AX.60)
 ms:contentKeyID: 36057330
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Settle transactions between ledger accounts
 ms:assetid: 79b155f4-cc16-4193-b8b7-412a138b79e2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550060(v=AX.60)
 ms:contentKeyID: 36058241
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

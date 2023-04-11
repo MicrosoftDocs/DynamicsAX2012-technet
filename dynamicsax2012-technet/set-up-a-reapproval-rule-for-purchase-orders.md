@@ -4,7 +4,7 @@ TOCTitle: Set up a reapproval rule for purchase orders
 ms:assetid: 8b28192a-2525-417d-8611-350a0c2ba2fd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ683229(v=AX.60)
 ms:contentKeyID: 49684852
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

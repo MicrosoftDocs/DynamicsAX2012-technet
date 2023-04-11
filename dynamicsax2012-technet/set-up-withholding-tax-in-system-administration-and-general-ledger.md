@@ -4,7 +4,7 @@ TOCTitle: Set up withholding tax in System administration and General ledger
 ms:assetid: ab6ae559-0edb-4f83-8d00-d3837591f57c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498548(v=AX.60)
 ms:contentKeyID: 36058910
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

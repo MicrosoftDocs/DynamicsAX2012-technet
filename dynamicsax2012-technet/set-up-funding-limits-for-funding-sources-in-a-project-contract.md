@@ -4,7 +4,7 @@ TOCTitle: Set up funding limits for funding sources in a project contract
 ms:assetid: 535daff1-4068-4616-a339-009fe4259d1a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208951(v=AX.60)
 ms:contentKeyID: 36057295
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

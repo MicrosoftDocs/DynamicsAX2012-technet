@@ -4,7 +4,7 @@ TOCTitle: Set up attributes and attribute types (Retail essentials)
 ms:assetid: 2ca305fa-53ef-4393-8af2-489a4b08a7e9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876697(v=AX.60)
 ms:contentKeyID: 63384781
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

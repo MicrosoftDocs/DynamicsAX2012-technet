@@ -4,7 +4,7 @@ TOCTitle: Setting up order processing options
 ms:assetid: 4e9f83ef-2cd6-4ec8-827e-93a4ce75ae16
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497753(v=AX.60)
 ms:contentKeyID: 62200067
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

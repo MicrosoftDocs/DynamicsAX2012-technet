@@ -4,7 +4,7 @@ TOCTitle: Set up indirect costs for projects
 ms:assetid: 1e147e5a-f16b-4880-9a88-144798f7cd7d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ682088(v=AX.60)
 ms:contentKeyID: 49655575
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

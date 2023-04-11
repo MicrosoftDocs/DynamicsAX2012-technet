@@ -4,7 +4,7 @@ TOCTitle: Set up receipt formats (Retail essentials)
 ms:assetid: 0139ba32-192b-4c9a-9b6b-a54f89453594
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716035(v=AX.60)
 ms:contentKeyID: 62200300
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

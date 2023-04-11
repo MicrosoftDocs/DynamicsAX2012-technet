@@ -4,7 +4,7 @@ TOCTitle: Setting up production processes in a warehouse
 ms:assetid: 3d061f9b-fbb6-4974-a89b-002f3f7fa1b9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn745528(v=AX.60)
 ms:contentKeyID: 62336121
-author: Khairunj
+author: tonyafehr
 ms.date: 05/14/2014
 mtps_version: v=AX.60
 audience: Application User

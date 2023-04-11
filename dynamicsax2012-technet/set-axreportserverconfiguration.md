@@ -4,7 +4,7 @@ TOCTitle: Set-AXReportServerConfiguration
 ms:assetid: B52F2870-861F-47FB-9D9B-C85ADABD5686
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720279(v=AX.60)
 ms:contentKeyID: 49720068
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

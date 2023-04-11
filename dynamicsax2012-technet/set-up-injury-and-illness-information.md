@@ -4,7 +4,7 @@ TOCTitle: Set up injury and illness information
 ms:assetid: a4a8717a-bc8e-4a18-ae0a-361e95182d81
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242679(v=AX.60)
 ms:contentKeyID: 36058860
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

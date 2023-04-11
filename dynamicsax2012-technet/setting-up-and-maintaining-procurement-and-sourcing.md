@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Procurement and sourcing
 ms:assetid: 22f9cf1b-2833-456b-af0d-6526e1c6ff13
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208475(v=AX.60)
 ms:contentKeyID: 36056178
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

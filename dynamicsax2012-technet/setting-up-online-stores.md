@@ -4,7 +4,7 @@ TOCTitle: Setting up online stores
 ms:assetid: 12956443-ba00-497d-bc56-d73fef957dd5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728672(v=AX.60)
 ms:contentKeyID: 49556578
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

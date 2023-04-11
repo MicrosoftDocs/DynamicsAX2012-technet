@@ -4,7 +4,7 @@ TOCTitle: Setting up time registration for workers
 ms:assetid: c7a240b1-e305-4802-9a01-dd41423202b4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550861(v=AX.60)
 ms:contentKeyID: 36059314
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

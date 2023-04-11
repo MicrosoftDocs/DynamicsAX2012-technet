@@ -4,7 +4,7 @@ TOCTitle: Sites Services functionality configuration key (SitesSvcSitesService)
 ms:assetid: 0cd4976c-443a-40e1-ab9b-1334d33b1087
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467542(v=AX.60)
 ms:contentKeyID: 36991689
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

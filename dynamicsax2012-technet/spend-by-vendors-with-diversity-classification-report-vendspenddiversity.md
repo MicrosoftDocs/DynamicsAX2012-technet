@@ -4,7 +4,7 @@ TOCTitle: Spend by vendors with diversity classification report (VendSpendDivers
 ms:assetid: c2df81dd-b415-40d5-b822-05810e549fde
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500174(v=AX.60)
 ms:contentKeyID: 37820231
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

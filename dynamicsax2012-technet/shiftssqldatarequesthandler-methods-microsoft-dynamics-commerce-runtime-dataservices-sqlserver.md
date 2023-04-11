@@ -4,7 +4,7 @@ TOCTitle: ShiftsSqlDataRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.SqlServer.ShiftsSqlDataRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlserver.shiftssqldatarequesthandler_methods(v=AX.60)
 ms:contentKeyID: 65320749
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

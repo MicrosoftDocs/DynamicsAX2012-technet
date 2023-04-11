@@ -4,7 +4,7 @@ TOCTitle: Standard configuration key (PSAStandard)
 ms:assetid: 9ec44a4a-f1eb-4397-ab67-c3300864c916
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500157(v=AX.60)
 ms:contentKeyID: 37820188
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

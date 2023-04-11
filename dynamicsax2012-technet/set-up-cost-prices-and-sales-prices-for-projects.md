@@ -4,7 +4,7 @@ TOCTitle: Set up cost prices and sales prices for projects
 ms:assetid: f025eb1c-ce64-437a-9392-fa99ae87028c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551577(v=AX.60)
 ms:contentKeyID: 42117783
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up shipping charges for retail stores (Retail essentials)
 ms:assetid: 85af0fe6-6dd4-43c7-a0cf-d72156166c47
 ms:mtpsurl: https://technet.microsoft.com/library/Dn688620(v=AX.60)
 ms:contentKeyID: 62230652
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

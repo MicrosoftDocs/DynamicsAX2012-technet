@@ -4,7 +4,7 @@ TOCTitle: Set up card payment methods for stores
 ms:assetid: 5c159c8f-e872-44b4-8773-7623441ec166
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597106(v=AX.60)
 ms:contentKeyID: 39519154
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

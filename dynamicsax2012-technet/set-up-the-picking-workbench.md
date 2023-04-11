@@ -4,7 +4,7 @@ TOCTitle: Set up the picking workbench
 ms:assetid: dc395a94-c120-4223-b662-df02d36a90f3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715985(v=AX.60)
 ms:contentKeyID: 62200169
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

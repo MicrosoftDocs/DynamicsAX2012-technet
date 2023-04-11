@@ -4,7 +4,7 @@ TOCTitle: ShippingAdapterConfig Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ShippingAdapterConfig
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shippingadapterconfig_methods(v=AX.60)
 ms:contentKeyID: 49844459
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Set up vendors, customers, and items for intercompany trade
 ms:assetid: 0c6ea241-c899-4ea7-aae8-221a58d6bbfd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569754(v=AX.60)
 ms:contentKeyID: 43976702
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

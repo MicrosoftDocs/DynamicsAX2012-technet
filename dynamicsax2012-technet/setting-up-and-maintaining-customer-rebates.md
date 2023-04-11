@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining customer rebates
 ms:assetid: c316fc10-09f2-407d-ad31-be3d3673b427
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242835(v=AX.60)
 ms:contentKeyID: 36059286
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up shipping charges for online stores
 ms:assetid: e2aa075c-89d0-414d-b967-1a92fded3560
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728714(v=AX.60)
 ms:contentKeyID: 49556619
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up a sales tax on a sales tax
 ms:assetid: 5722a578-9930-4f79-a55d-0df5b0aced59
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549055(v=AX.60)
 ms:contentKeyID: 39519141
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

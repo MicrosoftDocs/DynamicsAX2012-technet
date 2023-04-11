@@ -4,7 +4,7 @@ TOCTitle: Set up a file format for a method of payment for vendors
 ms:assetid: af7bef92-1c36-4b39-9fa0-b957e788971e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243106(v=AX.60)
 ms:contentKeyID: 36058954
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

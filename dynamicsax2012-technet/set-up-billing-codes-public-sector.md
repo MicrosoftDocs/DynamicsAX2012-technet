@@ -4,7 +4,7 @@ TOCTitle: Set up billing codes (Public sector)
 ms:assetid: 3db65013-1f98-4653-b222-6fdc19f71b63
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208523(v=AX.60)
 ms:contentKeyID: 36056270
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

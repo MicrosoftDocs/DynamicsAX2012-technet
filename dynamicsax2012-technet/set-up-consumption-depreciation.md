@@ -4,7 +4,7 @@ TOCTitle: Set up consumption depreciation
 ms:assetid: 96c94398-7dd5-4310-bd7b-399834782940
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498428(v=AX.60)
 ms:contentKeyID: 36058643
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

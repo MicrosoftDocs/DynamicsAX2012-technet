@@ -4,7 +4,7 @@ TOCTitle: Set up budgeting and budget control for apportionments (Public sector)
 ms:assetid: 2ace20d3-6775-4120-9132-50af75c8e57c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208519(v=AX.60)
 ms:contentKeyID: 36056265
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

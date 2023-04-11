@@ -4,7 +4,7 @@ TOCTitle: Set up vendor evaluation criteria
 ms:assetid: 69415ee9-c809-4145-94bd-2d19678e2a73
 ms:mtpsurl: https://technet.microsoft.com/library/Dn765128(v=AX.60)
 ms:contentKeyID: 63008007
-author: Khairunj
+author: tonyafehr
 ms.date: 02/06/2015
 mtps_version: v=AX.60
 audience: Application User

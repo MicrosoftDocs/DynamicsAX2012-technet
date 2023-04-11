@@ -4,7 +4,7 @@ TOCTitle: Set up purchase or sales agreement functionality
 ms:assetid: 32d8f14f-b654-405f-a439-ab394260751a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh802995(v=AX.60)
 ms:contentKeyID: 44080967
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

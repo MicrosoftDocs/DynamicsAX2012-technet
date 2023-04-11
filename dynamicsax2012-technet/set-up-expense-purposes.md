@@ -4,7 +4,7 @@ TOCTitle: Set up expense purposes
 ms:assetid: d4e925c6-beb7-4fee-9222-8bcfda1227ba
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213696(v=AX.60)
 ms:contentKeyID: 36059523
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

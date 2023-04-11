@@ -4,7 +4,7 @@ TOCTitle: Set up disposition codes
 ms:assetid: 00b04d16-132a-4780-a8e4-251189eec31e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230650(v=AX.60)
 ms:contentKeyID: 53874078
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

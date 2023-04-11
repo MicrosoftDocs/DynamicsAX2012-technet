@@ -4,7 +4,7 @@ TOCTitle: Set up Organization administration workflows
 ms:assetid: d3eecb10-1cc8-46cb-aad7-6a91a519f399
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242927(v=AX.60)
 ms:contentKeyID: 36059517
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

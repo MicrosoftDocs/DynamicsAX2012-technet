@@ -4,7 +4,7 @@ TOCTitle: Set up broker contracts
 ms:assetid: 8932fd35-1f4a-40f6-a953-97c848a9edd5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497798(v=AX.60)
 ms:contentKeyID: 62500053
-author: Khairunj
+author: tonyafehr
 ms.date: 06/11/2014
 mtps_version: v=AX.60
 f1_keywords:

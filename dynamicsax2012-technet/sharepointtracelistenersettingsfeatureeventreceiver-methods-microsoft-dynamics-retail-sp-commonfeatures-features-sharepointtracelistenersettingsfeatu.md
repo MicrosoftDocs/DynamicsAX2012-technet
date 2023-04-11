@@ -4,7 +4,7 @@ TOCTitle: SharePointTraceListenerSettingsFeatureEventReceiver Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SP.CommonFeatures.Features.SharePointTraceListenerSettingsFeature.SharePointTraceListenerSettingsFeatureEventReceiver
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.features.sharepointtracelistenersettingsfeature.sharepointtracelistenersettingsfeatureeventreceiver_methods(v=AX.60)
 ms:contentKeyID: 62206260
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

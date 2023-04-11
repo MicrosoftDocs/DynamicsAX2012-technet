@@ -4,7 +4,7 @@ TOCTitle: Set up and transfer the transfer order transactions for Intrastat repo
 ms:assetid: 3756a936-6228-442f-9a84-7593cef76784
 ms:mtpsurl: https://technet.microsoft.com/library/Dn304986(v=AX.60)
 ms:contentKeyID: 54899963
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

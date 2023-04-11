@@ -4,7 +4,7 @@ TOCTitle: Set up posting profiles for the letter of guarantee
 ms:assetid: b37d27cc-4be8-4bd5-94b6-7c7e613f9bf3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242749(v=AX.60)
 ms:contentKeyID: 36059068
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

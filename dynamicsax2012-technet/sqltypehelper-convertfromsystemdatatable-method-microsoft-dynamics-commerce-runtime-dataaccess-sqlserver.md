@@ -4,7 +4,7 @@ TOCTitle: ConvertFromSystemDataTable Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataAccess.SqlServer.SqlTypeHelper.ConvertFromSystemDataTable(System.Data.DataTable)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataaccess.sqlserver.sqltypehelper.convertfromsystemdatatable(v=AX.60)
 ms:contentKeyID: 65322282
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up images
 ms:assetid: 6f162127-9a59-4513-8620-217394a71bca
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597119(v=AX.60)
 ms:contentKeyID: 39519169
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

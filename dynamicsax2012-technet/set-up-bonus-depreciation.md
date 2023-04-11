@@ -4,7 +4,7 @@ TOCTitle: Set up bonus depreciation
 ms:assetid: fabe8e93-43b9-4f94-ae68-89cc65a644a5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499871(v=AX.60)
 ms:contentKeyID: 36060072
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

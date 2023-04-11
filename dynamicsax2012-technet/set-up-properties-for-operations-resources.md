@@ -4,7 +4,7 @@ TOCTitle: Set up properties for operations resources
 ms:assetid: 7a1fc3bc-4595-46e5-a908-f7356a970621
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550067(v=AX.60)
 ms:contentKeyID: 36058246
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

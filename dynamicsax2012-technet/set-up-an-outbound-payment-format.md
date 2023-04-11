@@ -4,7 +4,7 @@ TOCTitle: Set up an outbound payment format
 ms:assetid: 325b86ae-7aca-4f86-beec-a5d507b4a81b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208576(v=AX.60)
 ms:contentKeyID: 36056360
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up a price adjustment or discount (Retail essentials)
 ms:assetid: dceb8286-54fc-4e1a-9d1e-e29c18520c3e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736966(v=AX.60)
 ms:contentKeyID: 62200443
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

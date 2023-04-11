@@ -4,7 +4,7 @@ TOCTitle: Set up taxes for online stores based on destination
 ms:assetid: 4aa0743c-6446-42e8-b4e9-8aa6c49de9f1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728685(v=AX.60)
 ms:contentKeyID: 49556590
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

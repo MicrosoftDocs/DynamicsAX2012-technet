@@ -4,7 +4,7 @@ TOCTitle: Set up retail products
 ms:assetid: f24ee310-09fa-42ba-9868-b794eaf87706
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597279(v=AX.60)
 ms:contentKeyID: 39519363
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set default application layer
 ms:assetid: b34431c3-3a0f-4556-9267-06e7638d111b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569656(v=AX.60)
 ms:contentKeyID: 35949346
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

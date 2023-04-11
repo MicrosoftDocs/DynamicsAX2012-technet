@@ -4,7 +4,7 @@ TOCTitle: Set up site and warehouse hierarchies
 ms:assetid: 5881b5d1-eba5-48c8-bc48-107d0a162631
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242481(v=AX.60)
 ms:contentKeyID: 36870657
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

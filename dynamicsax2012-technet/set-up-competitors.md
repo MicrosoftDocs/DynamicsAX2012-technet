@@ -4,7 +4,7 @@ TOCTitle: Set up competitors
 ms:assetid: 85b7a305-682e-4419-949a-90ddfd40effc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597156(v=AX.60)
 ms:contentKeyID: 39519213
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

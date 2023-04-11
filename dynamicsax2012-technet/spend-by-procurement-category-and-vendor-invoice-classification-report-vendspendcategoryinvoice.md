@@ -4,7 +4,7 @@ TOCTitle: Spend by procurement category and vendor invoice classification report
 ms:assetid: ef14add2-1030-4bb9-8b84-9a2acb5d03f3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500177(v=AX.60)
 ms:contentKeyID: 37820238
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

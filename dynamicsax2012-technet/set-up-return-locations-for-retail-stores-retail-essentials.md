@@ -4,7 +4,7 @@ TOCTitle: Set up return locations for retail stores (Retail essentials)
 ms:assetid: ef0ec03c-ebbc-434f-ba68-cd69dc20e2b2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn859571(v=AX.60)
 ms:contentKeyID: 63820144
-author: Khairunj
+author: tonyafehr
 ms.date: 01/14/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Set up service order stages
 ms:assetid: 6cb23298-e957-4ebc-b3c0-aadc993d0941
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571203(v=AX.60)
 ms:contentKeyID: 36058006
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

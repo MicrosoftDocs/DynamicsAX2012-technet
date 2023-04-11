@@ -4,7 +4,7 @@ TOCTitle: Set up loyalty cards in AX 2012 R3
 ms:assetid: 87b01f2c-e502-4592-8f97-d72d57d0cd7e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720766(v=AX.60)
 ms:contentKeyID: 62231564
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

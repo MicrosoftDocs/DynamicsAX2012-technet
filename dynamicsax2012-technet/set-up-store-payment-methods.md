@@ -4,7 +4,7 @@ TOCTitle: Set up store payment methods
 ms:assetid: ed81e31e-e222-4398-b741-321ca28f2b98
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597274(v=AX.60)
 ms:contentKeyID: 39519357
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

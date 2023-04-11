@@ -4,7 +4,7 @@ TOCTitle: Setting up organization information for workers
 ms:assetid: 358854ff-1ea4-44e5-9e04-df96d6634f54
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231095(v=AX.60)
 ms:contentKeyID: 36056565
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

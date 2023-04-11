@@ -4,7 +4,7 @@ TOCTitle: ShipDate Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment.ShipDate
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.shipdate(v=AX.60)
 ms:contentKeyID: 49841030
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

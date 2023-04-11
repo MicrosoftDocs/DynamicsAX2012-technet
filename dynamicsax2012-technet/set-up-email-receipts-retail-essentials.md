@@ -4,7 +4,7 @@ TOCTitle: Set up email receipts (Retail essentials)
 ms:assetid: 413b1b34-187b-4dd7-859e-d07466a0d578
 ms:mtpsurl: https://technet.microsoft.com/library/Dn859560(v=AX.60)
 ms:contentKeyID: 63820134
-author: Khairunj
+author: tonyafehr
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 ---

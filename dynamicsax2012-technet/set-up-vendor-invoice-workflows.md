@@ -4,7 +4,7 @@ TOCTitle: Set up vendor invoice workflows
 ms:assetid: 627fb0f8-ca65-477b-ad9e-585b727e5dc3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn277352(v=AX.60)
 ms:contentKeyID: 54658649
-author: Khairunj
+author: tonyafehr
 ms.date: 08/22/2014
 mtps_version: v=AX.60
 audience: Application User

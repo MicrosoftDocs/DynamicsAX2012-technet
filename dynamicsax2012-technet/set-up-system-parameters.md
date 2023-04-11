@@ -4,7 +4,7 @@ TOCTitle: Set up system parameters
 ms:assetid: bb9fc1ee-5f33-4094-9a8f-20eadd15ebd8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731914(v=AX.60)
 ms:contentKeyID: 35132840
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

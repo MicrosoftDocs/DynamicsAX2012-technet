@@ -4,7 +4,7 @@ TOCTitle: Set up project journal options
 ms:assetid: 311bf512-4188-4ed6-a658-65764fe8adaa
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570046(v=AX.60)
 ms:contentKeyID: 36056329
-author: Khairunj
+author: tonyafehr
 ms.date: 07/18/2014
 mtps_version: v=AX.60
 f1_keywords:

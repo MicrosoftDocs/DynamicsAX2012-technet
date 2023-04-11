@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Fixed assets
 ms:assetid: 5123c246-3afb-45f1-9431-bdf21056a581
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212775(v=AX.60)
 ms:contentKeyID: 36057254
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

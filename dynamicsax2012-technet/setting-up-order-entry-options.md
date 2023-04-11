@@ -4,7 +4,7 @@ TOCTitle: Setting up order entry options
 ms:assetid: c9da3540-1599-4b75-83d7-ca5d1aa02121
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497827(v=AX.60)
 ms:contentKeyID: 62200159
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

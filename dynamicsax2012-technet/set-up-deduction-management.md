@@ -4,7 +4,7 @@ TOCTitle: Set up deduction management
 ms:assetid: dae57027-b5f6-467d-9850-0259d5abfcb0
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497836(v=AX.60)
 ms:contentKeyID: 62200168
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

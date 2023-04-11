@@ -4,7 +4,7 @@ TOCTitle: Set up offline profiles
 ms:assetid: 80d2f7ca-acbb-4b53-b9bd-607ffa52cde9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597147(v=AX.60)
 ms:contentKeyID: 39519203
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

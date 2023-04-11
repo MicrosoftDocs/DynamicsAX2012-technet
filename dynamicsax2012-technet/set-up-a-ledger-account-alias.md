@@ -4,7 +4,7 @@ TOCTitle: Set up a ledger account alias
 ms:assetid: 54fd60a1-6c95-4701-a897-73b71b916ef4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208959(v=AX.60)
 ms:contentKeyID: 36057312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

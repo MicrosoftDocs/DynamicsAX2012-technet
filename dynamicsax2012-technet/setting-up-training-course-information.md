@@ -4,7 +4,7 @@ TOCTitle: Setting up training course information
 ms:assetid: c5b449e7-9373-460e-982e-b1d712965f07
 ms:mtpsurl: https://technet.microsoft.com/library/JJ851109(v=AX.60)
 ms:contentKeyID: 50173425
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

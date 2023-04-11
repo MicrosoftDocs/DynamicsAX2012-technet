@@ -4,7 +4,7 @@ TOCTitle: Setting up outbound processes
 ms:assetid: 4afeacd0-f449-4cf7-b5a2-cd455bd5c3cd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497749(v=AX.60)
 ms:contentKeyID: 62200065
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

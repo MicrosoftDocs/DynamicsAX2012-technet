@@ -4,7 +4,7 @@ TOCTitle: Settle a promissory note
 ms:assetid: e0b507d0-f4c1-4880-b987-ea9f29ecafce
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551320(v=AX.60)
 ms:contentKeyID: 36059705
-author: Khairunj
+author: tonyafehr
 ms.date: 06/18/2014
 mtps_version: v=AX.60
 audience: Application User

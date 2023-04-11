@@ -4,7 +4,7 @@ TOCTitle: Specify Enterprise Portal parameters
 ms:assetid: cc5082d0-0c89-4553-a21b-af076c9f830a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548692(v=AX.60)
 ms:contentKeyID: 35132886
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

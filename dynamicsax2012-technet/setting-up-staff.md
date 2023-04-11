@@ -4,7 +4,7 @@ TOCTitle: Setting up staff
 ms:assetid: eb9a663f-3d04-4625-8349-6d88a3301e33
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597272(v=AX.60)
 ms:contentKeyID: 39519354
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

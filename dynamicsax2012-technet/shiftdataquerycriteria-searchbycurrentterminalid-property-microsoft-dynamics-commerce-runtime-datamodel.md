@@ -4,7 +4,7 @@ TOCTitle: SearchByCurrentTerminalId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ShiftDataQueryCriteria.SearchByCurrentTerminalId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shiftdataquerycriteria.searchbycurrentterminalid(v=AX.60)
 ms:contentKeyID: 65321098
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

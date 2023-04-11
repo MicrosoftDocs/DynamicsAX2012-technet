@@ -4,7 +4,7 @@ TOCTitle: Shortcut keys
 ms:assetid: 6f5200b7-e852-4c83-b5a2-924652233553
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571220(v=AX.60)
 ms:contentKeyID: 36058044
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

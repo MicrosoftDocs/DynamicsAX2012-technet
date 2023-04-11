@@ -4,7 +4,7 @@ TOCTitle: Specify inclusive or exclusive tax (Retail essentials)
 ms:assetid: 225647d9-8ce7-452d-a161-0ab4f02ba761
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716059(v=AX.60)
 ms:contentKeyID: 62200323
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Simulate a foreign currency revaluation
 ms:assetid: 1ea4a25d-4b40-4078-93cd-95c8b2e87504
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496778(v=AX.60)
 ms:contentKeyID: 36056148
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

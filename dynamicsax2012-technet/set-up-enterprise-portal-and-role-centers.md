@@ -4,7 +4,7 @@ TOCTitle: Set up Enterprise Portal and Role Centers
 ms:assetid: ad3a324c-22d5-41ea-93c2-f904d68adb0e
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362037(v=AX.60)
 ms:contentKeyID: 35132805
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

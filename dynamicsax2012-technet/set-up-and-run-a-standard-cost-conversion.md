@@ -4,7 +4,7 @@ TOCTitle: Set up and run a standard cost conversion
 ms:assetid: 260d7aa4-e68d-4125-986c-dd5c42c5a01f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230996(v=AX.60)
 ms:contentKeyID: 36056196
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

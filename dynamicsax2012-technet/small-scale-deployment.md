@@ -4,7 +4,7 @@ TOCTitle: Small-scale deployment
 ms:assetid: 71bfc45d-c7a8-489a-a945-145c58bf251d
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309710(v=AX.60)
 ms:contentKeyID: 39555369
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

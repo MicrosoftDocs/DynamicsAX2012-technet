@@ -4,7 +4,7 @@ TOCTitle: Single voucher with multiple customer or vendor records
 ms:assetid: 2152056d-4705-47aa-93a6-98de408be570
 ms:mtpsurl: https://technet.microsoft.com/library/Mt801323(v=AX.60)
 ms:contentKeyID: 74444674
-author: Khairunj
+author: tonyafehr
 ms.date: 05/05/2017
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: StoreConnectMonitoringClient Constructor (Binding, EndpointAddress)
 ms:assetid: M:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.StoreConnectMonitoringClient.#ctor(System.ServiceModel.Channels.Binding,System.ServiceModel.EndpointAddress)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.storeconnectmonitoringclient.storeconnectmonitoringclient(v=AX.60)
 ms:contentKeyID: 49845031
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

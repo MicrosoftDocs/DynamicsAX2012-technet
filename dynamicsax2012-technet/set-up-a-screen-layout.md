@@ -4,7 +4,7 @@ TOCTitle: Set up a screen layout
 ms:assetid: 8a835e7f-0fda-4abd-8124-08044cad2930
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597160(v=AX.60)
 ms:contentKeyID: 39519217
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

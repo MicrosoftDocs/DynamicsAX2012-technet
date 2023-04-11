@@ -4,7 +4,7 @@ TOCTitle: Set up asset depreciation book bonus
 ms:assetid: 310fe3e9-de3b-4184-9f70-6d55d46dd346
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570044(v=AX.60)
 ms:contentKeyID: 36056326
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

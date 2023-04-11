@@ -4,7 +4,7 @@ TOCTitle: Sites Services for human resources configuration key (HcmSitesRecruiti
 ms:assetid: 6f5b943f-0ef2-40ec-8d53-db9151fdd769
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467552(v=AX.60)
 ms:contentKeyID: 36991699
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

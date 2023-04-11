@@ -4,7 +4,7 @@ TOCTitle: Set up filters and filter groups
 ms:assetid: 88d46005-7eb7-485d-b0e4-0574cd588c88
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553176(v=AX.60)
 ms:contentKeyID: 62524889
-author: Khairunj
+author: tonyafehr
 ms.date: 06/25/2014
 mtps_version: v=AX.60
 audience: Application User

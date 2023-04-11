@@ -4,7 +4,7 @@ TOCTitle: Setting up reservations
 ms:assetid: 96e152a9-7195-4175-b6f7-05507f99d574
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232235(v=AX.60)
 ms:contentKeyID: 36058665
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

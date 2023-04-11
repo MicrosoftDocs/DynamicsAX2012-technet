@@ -4,7 +4,7 @@ TOCTitle: Set up profiles for time and attendance registrations
 ms:assetid: 9e1874db-3676-4f0b-b679-a7395d5cad8c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571725(v=AX.60)
 ms:contentKeyID: 36058752
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

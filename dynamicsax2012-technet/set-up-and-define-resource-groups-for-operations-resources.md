@@ -4,7 +4,7 @@ TOCTitle: Set up and define resource groups for operations resources
 ms:assetid: 7bf9e8b9-66fe-4b4b-9754-ff57ebcec48d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571511(v=AX.60)
 ms:contentKeyID: 36058261
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

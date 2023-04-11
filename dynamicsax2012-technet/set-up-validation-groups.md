@@ -4,7 +4,7 @@ TOCTitle: Set up validation groups
 ms:assetid: 5872fd9d-ccf9-4f42-9595-b7af66701f79
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549068(v=AX.60)
 ms:contentKeyID: 36811405
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

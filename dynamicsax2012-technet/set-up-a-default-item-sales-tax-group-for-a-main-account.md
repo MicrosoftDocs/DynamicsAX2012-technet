@@ -4,7 +4,7 @@ TOCTitle: Set up a default item sales tax group for a main account
 ms:assetid: b0552b6b-5391-417d-bb85-0339c6efac05
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498640(v=AX.60)
 ms:contentKeyID: 44081027
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

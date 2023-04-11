@@ -4,7 +4,7 @@ TOCTitle: Set up warehouses for transfer orders
 ms:assetid: fccc4095-ab94-4e3f-8370-5d3e79aab5c1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500101(v=AX.60)
 ms:contentKeyID: 36060098
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Status of purchase orders
 ms:assetid: 87d11d99-80d0-43f2-af17-68e7780bd7e9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571587(v=AX.60)
 ms:contentKeyID: 36058432
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

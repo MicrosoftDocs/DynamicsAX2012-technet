@@ -4,7 +4,7 @@ TOCTitle: Specify the .NET Business Connector proxy account
 ms:assetid: 3e46dc0a-2ff4-4a06-ae61-041e52dcc774
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496652(v=AX.60)
 ms:contentKeyID: 35132612
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

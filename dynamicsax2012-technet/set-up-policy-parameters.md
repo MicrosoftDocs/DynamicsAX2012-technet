@@ -4,7 +4,7 @@ TOCTitle: Set up policy parameters
 ms:assetid: c70691a0-73db-4410-b832-558e99f56676
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242846(v=AX.60)
 ms:contentKeyID: 36059310
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

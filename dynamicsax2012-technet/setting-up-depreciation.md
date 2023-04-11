@@ -4,7 +4,7 @@ TOCTitle: Setting up depreciation
 ms:assetid: a9fb1266-7036-433c-900e-8abb566bed07
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243086(v=AX.60)
 ms:contentKeyID: 36058900
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up date-controlled reservations
 ms:assetid: cb00af6e-d132-4c81-933d-b569a9b95168
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572665(v=AX.60)
 ms:contentKeyID: 36059338
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

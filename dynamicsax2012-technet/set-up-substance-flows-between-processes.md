@@ -4,7 +4,7 @@ TOCTitle: Set up substance flows between processes
 ms:assetid: 37ca8d37-6aec-4582-bdef-666beea6762c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242204(v=AX.60)
 ms:contentKeyID: 36056611
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

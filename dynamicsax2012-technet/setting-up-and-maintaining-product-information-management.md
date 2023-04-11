@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Product information management
 ms:assetid: 06b43bed-2dfd-4f51-8feb-3984fbad07c3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242113(v=AX.60)
 ms:contentKeyID: 36055963
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

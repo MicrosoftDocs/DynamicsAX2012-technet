@@ -4,7 +4,7 @@ TOCTitle: ShippingOptionResponse Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShippingOptionResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.shippingoptionresponse.shippingoptionresponse(v=AX.60)
 ms:contentKeyID: 62204676
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

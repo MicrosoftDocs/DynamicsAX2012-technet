@@ -4,7 +4,7 @@ TOCTitle: Shipment Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.shipment(v=AX.60)
 ms:contentKeyID: 49847822
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

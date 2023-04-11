@@ -4,7 +4,7 @@ TOCTitle: Set up hardware profiles (Retail Essentials)
 ms:assetid: 8100e9d1-bf4a-4d4f-a07f-c4cf25ecad59
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736908(v=AX.60)
 ms:contentKeyID: 62200386
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

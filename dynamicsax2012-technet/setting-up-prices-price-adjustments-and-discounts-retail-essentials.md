@@ -4,7 +4,7 @@ TOCTitle: Setting up prices, price adjustments, and discounts (Retail essentials
 ms:assetid: ef438220-2a2f-45f4-a923-76a107296c9f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736973(v=AX.60)
 ms:contentKeyID: 62200450
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

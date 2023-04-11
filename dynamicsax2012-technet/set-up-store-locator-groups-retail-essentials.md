@@ -4,7 +4,7 @@ TOCTitle: Set up store locator groups (Retail essentials)
 ms:assetid: f3f710cf-d996-4d16-b647-fb79b26eefb9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736975(v=AX.60)
 ms:contentKeyID: 62200452
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

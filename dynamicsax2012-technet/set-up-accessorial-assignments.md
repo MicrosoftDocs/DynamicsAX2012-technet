@@ -4,7 +4,7 @@ TOCTitle: Set up accessorial assignments
 ms:assetid: 6e62a681-9184-4b5e-bcf0-0c575b33182e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553167(v=AX.60)
 ms:contentKeyID: 62200088
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up and create postdated check installments for a vendor
 ms:assetid: 17953331-c42a-442d-beab-831f2a1e42c6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242151(v=AX.60)
 ms:contentKeyID: 36056085
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

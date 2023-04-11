@@ -4,7 +4,7 @@ TOCTitle: Set up an item as a shelf life item
 ms:assetid: 49ab1325-94ff-4439-95c0-d9f14954faf7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838734(v=AX.60)
 ms:contentKeyID: 50120617
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

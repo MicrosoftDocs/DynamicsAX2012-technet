@@ -4,7 +4,7 @@ TOCTitle: Set up asset activity codes
 ms:assetid: c7b59886-fd84-4564-8faf-5c81dd62b6df
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242848(v=AX.60)
 ms:contentKeyID: 36059315
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

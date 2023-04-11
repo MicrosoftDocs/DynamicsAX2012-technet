@@ -4,7 +4,7 @@ TOCTitle: Start the Preprocessing upgrade checklist
 ms:assetid: 7b508b00-8132-48a9-aae1-ba93f815ad07
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731839(v=AX.60)
 ms:contentKeyID: 35132690
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

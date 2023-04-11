@@ -4,7 +4,7 @@ TOCTitle: Setting up sales tax groups and item sales tax groups
 ms:assetid: 60a16f00-2e21-4414-beeb-15b4109b4821
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231517(v=AX.60)
 ms:contentKeyID: 36057632
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

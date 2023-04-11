@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining products
 ms:assetid: 28f60dfa-98c6-4d7d-92c0-8dd2e06893a3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208493(v=AX.60)
 ms:contentKeyID: 36056217
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

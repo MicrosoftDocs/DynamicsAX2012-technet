@@ -4,7 +4,7 @@ TOCTitle: Shared Financial Data Management
 ms:assetid: f22e343b-69b7-4c06-90d0-d8d13dc969b4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh881833(v=AX.60)
 ms:contentKeyID: 45769255
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

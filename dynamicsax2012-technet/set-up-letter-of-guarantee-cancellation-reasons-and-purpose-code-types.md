@@ -4,7 +4,7 @@ TOCTitle: Set up letter of guarantee cancellation reasons and purpose code types
 ms:assetid: 9ce4ecf5-be59-4615-8c21-d4e17144ee41
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209439(v=AX.60)
 ms:contentKeyID: 36058740
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Specify the invoice frequency for an existing project contract
 ms:assetid: f28f066c-2128-4be0-b6dd-077e402d3366
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551624(v=AX.60)
 ms:contentKeyID: 36059966
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

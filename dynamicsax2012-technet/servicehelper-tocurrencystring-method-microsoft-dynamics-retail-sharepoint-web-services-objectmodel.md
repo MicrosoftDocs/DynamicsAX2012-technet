@@ -4,7 +4,7 @@ TOCTitle: ToCurrencyString Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ObjectModel.ServiceHelper.ToCurrencyString(System.Decimal)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.objectmodel.servicehelper.tocurrencystring(v=AX.60)
 ms:contentKeyID: 62205285
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Parameters Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Data.SqlQuery.Parameters
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlquery.parameters(v=AX.60)
 ms:contentKeyID: 65322572
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

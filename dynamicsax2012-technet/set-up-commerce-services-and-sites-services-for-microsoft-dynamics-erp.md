@@ -4,7 +4,7 @@ TOCTitle: Set up Commerce Services and Sites Services for Microsoft Dynamics ERP
 ms:assetid: 8c6b447b-cd67-4e1d-83ee-2f90ec2ff2ec
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597163(v=AX.60)
 ms:contentKeyID: 39519220
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

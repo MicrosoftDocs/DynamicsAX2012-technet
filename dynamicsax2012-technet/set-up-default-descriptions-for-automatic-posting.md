@@ -4,7 +4,7 @@ TOCTitle: Set up default descriptions for automatic posting
 ms:assetid: d195456d-df67-44d3-94a0-b897bc3da664
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677363(v=AX.60)
 ms:contentKeyID: 49384138
-author: Khairunj
+author: tonyafehr
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 audience: Application User

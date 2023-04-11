@@ -4,7 +4,7 @@ TOCTitle: Set up loyalty programs
 ms:assetid: 5d763287-ae82-40da-aa44-6117cfae102e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497760(v=AX.60)
 ms:contentKeyID: 62231561
-author: Khairunj
+author: tonyafehr
 ms.date: 06/17/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up derived financial hierarchies (Public sector)
 ms:assetid: cd855ad4-ddbb-4302-a038-acc3e66758f8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208586(v=AX.60)
 ms:contentKeyID: 36056372
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

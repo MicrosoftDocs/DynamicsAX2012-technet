@@ -4,7 +4,7 @@ TOCTitle: Set up general budget reservation workflows (Public sector)
 ms:assetid: 39e61fe2-1143-43f4-94f8-0d21ba778190
 ms:mtpsurl: https://technet.microsoft.com/library/Dn906410(v=AX.60)
 ms:contentKeyID: 65205494
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

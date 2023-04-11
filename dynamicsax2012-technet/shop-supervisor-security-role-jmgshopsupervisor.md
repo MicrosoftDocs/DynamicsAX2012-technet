@@ -4,7 +4,7 @@ TOCTitle: Shop supervisor security role (JmgShopSupervisor)
 ms:assetid: 38193eb8-7f4e-4817-af21-ceda559da4f4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527079(v=AX.60)
 ms:contentKeyID: 37823131
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

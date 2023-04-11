@@ -4,7 +4,7 @@ TOCTitle: Set up segregation of duties
 ms:assetid: e1800b9d-0679-4f0a-ade2-935cafa56459
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556869(v=AX.60)
 ms:contentKeyID: 39509603
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

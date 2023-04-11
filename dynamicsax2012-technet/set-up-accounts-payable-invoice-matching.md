@@ -4,7 +4,7 @@ TOCTitle: Set up Accounts payable invoice matching
 ms:assetid: eead4cc7-9836-4324-8a91-3d14945925de
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243265(v=AX.60)
 ms:contentKeyID: 36059911
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

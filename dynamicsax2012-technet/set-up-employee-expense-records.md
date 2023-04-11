@@ -4,7 +4,7 @@ TOCTitle: Set up employee expense records
 ms:assetid: 43a4faea-4306-4c55-9ce3-69a1f894a727
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231373(v=AX.60)
 ms:contentKeyID: 36056880
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

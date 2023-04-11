@@ -4,7 +4,7 @@ TOCTitle: Sign up for an account
 ms:assetid: ddf30acd-2d27-45dc-8fe2-a23a3088c29a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271673(v=AX.60)
 ms:contentKeyID: 36384304
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

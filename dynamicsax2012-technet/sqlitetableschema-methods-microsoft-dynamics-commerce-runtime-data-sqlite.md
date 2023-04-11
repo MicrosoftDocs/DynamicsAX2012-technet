@@ -4,7 +4,7 @@ TOCTitle: SqliteTableSchema Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteTableSchema
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqlitetableschema_methods(v=AX.60)
 ms:contentKeyID: 65318325
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Set up dependent cash flow forecasts in main accounts
 ms:assetid: 7b1e6575-4d09-48bc-9373-bc22f42bc35c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550077(v=AX.60)
 ms:contentKeyID: 36058254
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

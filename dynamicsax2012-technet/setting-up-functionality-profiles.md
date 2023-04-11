@@ -4,7 +4,7 @@ TOCTitle: Setting up functionality profiles
 ms:assetid: 306cb614-2864-49a2-b3f6-5e19aa37221d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580600(v=AX.60)
 ms:contentKeyID: 39519086
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up receiving to use advanced shipping notice documents
 ms:assetid: ff78e074-f6bc-4012-9ca8-ba738951fa8e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553217(v=AX.60)
 ms:contentKeyID: 62200197
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

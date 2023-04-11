@@ -4,7 +4,7 @@ TOCTitle: Set up product sequences
 ms:assetid: 0a699499-5e97-44c8-840c-0a9927f63f3b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838720(v=AX.60)
 ms:contentKeyID: 50120603
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

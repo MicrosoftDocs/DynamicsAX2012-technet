@@ -4,7 +4,7 @@ TOCTitle: Specify default settings for arrival overview
 ms:assetid: bf1616c4-9756-40de-9838-80119c24d2d6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213625(v=AX.60)
 ms:contentKeyID: 36059254
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: InsertShiftStaging Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.ShiftsSqliteDatabaseAccessor.InsertShiftStaging(Microsoft.Dynamics.Commerce.Runtime.DataModel.Shift)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.shiftssqlitedatabaseaccessor.insertshiftstaging(v=AX.60)
 ms:contentKeyID: 65322744
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

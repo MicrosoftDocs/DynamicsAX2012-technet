@@ -4,7 +4,7 @@ TOCTitle: Set up Application Integration Framework
 ms:assetid: 215f2f8b-4ab2-47aa-848e-fa8038d61282
 ms:mtpsurl: https://technet.microsoft.com/library/Hh202853(v=AX.60)
 ms:contentKeyID: 35954968
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

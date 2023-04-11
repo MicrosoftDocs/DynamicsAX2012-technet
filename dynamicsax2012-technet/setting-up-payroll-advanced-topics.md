@@ -4,7 +4,7 @@ TOCTitle: 'Setting up payroll: Advanced topics'
 ms:assetid: 0deddc47-d52d-487e-ae41-0234b3eaa477
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876701(v=AX.60)
 ms:contentKeyID: 63387848
-author: Khairunj
+author: tonyafehr
 ms.date: 11/15/2014
 mtps_version: v=AX.60
 f1_keywords:

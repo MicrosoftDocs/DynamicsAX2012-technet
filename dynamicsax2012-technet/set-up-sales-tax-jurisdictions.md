@@ -4,7 +4,7 @@ TOCTitle: Set up sales tax jurisdictions
 ms:assetid: 9435123a-e9ad-4bb6-a514-719f37972d00
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498398(v=AX.60)
 ms:contentKeyID: 36058596
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up total compensation statement sections
 ms:assetid: 293a3609-0729-4ce4-a58d-60968b3c2179
 ms:mtpsurl: https://technet.microsoft.com/library/Dn887952(v=AX.60)
 ms:contentKeyID: 63404229
-author: Khairunj
+author: tonyafehr
 ms.date: 11/19/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Statement by dimensions report (LedgerTransStatement)
 ms:assetid: 0b9d9372-873d-44d4-ac8f-c0c5dde0d6d8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242203(v=AX.60)
 ms:contentKeyID: 36056610
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

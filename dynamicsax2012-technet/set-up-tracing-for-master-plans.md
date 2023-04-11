@@ -4,7 +4,7 @@ TOCTitle: Set up tracing for master plans
 ms:assetid: eec2762d-98ff-46d8-9bb3-a126bc52e96e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677371(v=AX.60)
 ms:contentKeyID: 49384147
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

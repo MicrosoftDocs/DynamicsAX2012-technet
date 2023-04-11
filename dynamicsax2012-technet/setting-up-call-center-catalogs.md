@@ -4,7 +4,7 @@ TOCTitle: Setting up call center catalogs
 ms:assetid: a6d99d3d-ff33-4f49-85df-23d88b10474b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497812(v=AX.60)
 ms:contentKeyID: 62200131
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

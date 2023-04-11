@@ -4,7 +4,7 @@ TOCTitle: Set up action filters for Retail data
 ms:assetid: 0fe96a60-7051-47ea-8834-ca70884ef218
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679909(v=AX.60)
 ms:contentKeyID: 49557892
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

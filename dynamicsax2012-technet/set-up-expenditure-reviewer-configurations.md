@@ -4,7 +4,7 @@ TOCTitle: Set up expenditure reviewer configurations
 ms:assetid: 5976be66-ee71-48d9-a2eb-14c37d31cc9e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208975(v=AX.60)
 ms:contentKeyID: 36057348
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

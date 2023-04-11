@@ -4,7 +4,7 @@ TOCTitle: Set up or modify table distributions
 ms:assetid: c9418f6a-8bc3-49a8-8b1c-3e2072e9f99c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679933(v=AX.60)
 ms:contentKeyID: 49557915
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Set up profile groups for time and attendance registrations
 ms:assetid: d6f43b54-f02d-47d1-a646-d935518af5a3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499485(v=AX.60)
 ms:contentKeyID: 39519333
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

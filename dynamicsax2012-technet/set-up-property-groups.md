@@ -4,7 +4,7 @@ TOCTitle: Set up property groups
 ms:assetid: 7d9286b3-f532-4302-8192-4b47997c069c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209287(v=AX.60)
 ms:contentKeyID: 36058311
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

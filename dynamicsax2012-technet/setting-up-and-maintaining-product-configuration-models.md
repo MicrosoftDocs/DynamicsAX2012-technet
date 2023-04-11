@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining product configuration models
 ms:assetid: c5971350-4212-4193-a91f-883a735d97f9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh278335(v=AX.60)
 ms:contentKeyID: 36207232
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

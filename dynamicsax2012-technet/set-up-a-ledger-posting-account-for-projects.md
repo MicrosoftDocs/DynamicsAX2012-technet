@@ -4,7 +4,7 @@ TOCTitle: Set up a ledger posting account for projects
 ms:assetid: 34f7545b-edcb-4285-bddb-c7c037c126a5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450754(v=AX.60)
 ms:contentKeyID: 36966712
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

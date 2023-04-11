@@ -4,7 +4,7 @@ TOCTitle: Setting up letter of guarantee information
 ms:assetid: e34d6094-a34f-41e0-891b-15773afa585c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227427(v=AX.60)
 ms:contentKeyID: 36059720
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

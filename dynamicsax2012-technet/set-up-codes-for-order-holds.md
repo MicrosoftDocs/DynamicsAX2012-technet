@@ -4,7 +4,7 @@ TOCTitle: Set up codes for order holds
 ms:assetid: 02ae0c91-c447-4f1c-8cd8-3e8afd5b6359
 ms:mtpsurl: https://technet.microsoft.com/library/Dn631644(v=AX.60)
 ms:contentKeyID: 62200030
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

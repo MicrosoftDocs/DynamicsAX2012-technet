@@ -4,7 +4,7 @@ TOCTitle: Spend by country/region (VendSpendLocation)
 ms:assetid: 2ad00eb1-56c3-4366-98fd-9dac0593370e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500168(v=AX.60)
 ms:contentKeyID: 37820209
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

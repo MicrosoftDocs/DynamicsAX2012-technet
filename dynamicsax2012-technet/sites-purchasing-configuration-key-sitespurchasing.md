@@ -4,7 +4,7 @@ TOCTitle: Sites purchasing configuration key (SitesPurchasing)
 ms:assetid: 816c7e16-688a-43cc-8bd7-192705e32a9e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467557(v=AX.60)
 ms:contentKeyID: 36991703
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

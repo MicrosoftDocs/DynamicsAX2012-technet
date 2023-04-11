@@ -4,7 +4,7 @@ TOCTitle: Set up a conditional question hierarchy
 ms:assetid: 8815c623-b3fd-4471-a1a0-920beac14327
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498221(v=AX.60)
 ms:contentKeyID: 42117763
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up General ledger workflows
 ms:assetid: 31628671-2c99-40bc-96ad-a481d471acd1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231032(v=AX.60)
 ms:contentKeyID: 36056336
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

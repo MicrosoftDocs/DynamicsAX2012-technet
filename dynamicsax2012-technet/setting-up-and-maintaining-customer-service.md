@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining customer service
 ms:assetid: 9ad79c6d-ebb1-4e3d-8440-43803b5f8ff0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213353(v=AX.60)
 ms:contentKeyID: 36058707
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

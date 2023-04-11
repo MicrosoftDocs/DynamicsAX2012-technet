@@ -4,7 +4,7 @@ TOCTitle: Set up initial standard costs in a manufacturing environment
 ms:assetid: dd1e620c-6ad6-47da-8907-f7c29dc547d5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243197(v=AX.60)
 ms:contentKeyID: 36059680
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

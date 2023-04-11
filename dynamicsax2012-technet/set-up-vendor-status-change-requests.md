@@ -4,7 +4,7 @@ TOCTitle: Set up vendor status change requests
 ms:assetid: 531a77f5-f609-4d67-8470-2875e53401ba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208949(v=AX.60)
 ms:contentKeyID: 36057293
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: TransactionCount Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shift.TransactionCount
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shift.transactioncount(v=AX.60)
 ms:contentKeyID: 62203626
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

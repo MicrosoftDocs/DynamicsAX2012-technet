@@ -4,7 +4,7 @@ TOCTitle: Set up print management for a customer or vendor
 ms:assetid: fb5cedee-5b96-475a-a038-d61fcf01f42c
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362137(v=AX.60)
 ms:contentKeyID: 36060079
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

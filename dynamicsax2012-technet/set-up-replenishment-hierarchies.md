@@ -4,7 +4,7 @@ TOCTitle: Set up replenishment hierarchies
 ms:assetid: c05fa76f-daa4-4128-9708-6eb7871a9cf0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597231(v=AX.60)
 ms:contentKeyID: 39519304
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

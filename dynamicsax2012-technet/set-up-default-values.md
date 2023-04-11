@@ -4,7 +4,7 @@ TOCTitle: Set up default values
 ms:assetid: f19d2130-cdf0-4dff-b6e1-73337d056faf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551605(v=AX.60)
 ms:contentKeyID: 36059952
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

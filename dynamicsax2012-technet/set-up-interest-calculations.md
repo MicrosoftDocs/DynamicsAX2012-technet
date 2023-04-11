@@ -4,7 +4,7 @@ TOCTitle: Set up interest calculations
 ms:assetid: 3085986c-3b19-4add-8df6-3de2e57f4683
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548466(v=AX.60)
 ms:contentKeyID: 36056314
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

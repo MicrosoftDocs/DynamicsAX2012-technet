@@ -4,7 +4,7 @@ TOCTitle: Set up visual profiles
 ms:assetid: 11d730e4-2525-46ec-bc16-810d11577521
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580572(v=AX.60)
 ms:contentKeyID: 39519050
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

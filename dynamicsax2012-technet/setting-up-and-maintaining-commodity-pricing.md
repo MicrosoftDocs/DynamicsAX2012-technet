@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining commodity pricing
 ms:assetid: d53a03fc-ae96-4527-ab89-47a56e3402ed
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242929(v=AX.60)
 ms:contentKeyID: 36059526
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set permissions specific to upgrade
 ms:assetid: 122768fd-6d63-46ad-b8e3-1d389f544ab0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg751355(v=AX.60)
 ms:contentKeyID: 35132553
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

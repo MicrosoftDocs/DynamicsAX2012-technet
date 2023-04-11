@@ -4,7 +4,7 @@ TOCTitle: TryGetSPJob(T) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTimerJobHelper.TryGetSPJob``1(Microsoft.SharePoint.Administration.SPService,System.String,``0@)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn717421(v=AX.60)
 ms:contentKeyID: 62206213
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

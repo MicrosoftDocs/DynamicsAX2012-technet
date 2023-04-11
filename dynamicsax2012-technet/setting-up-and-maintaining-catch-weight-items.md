@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining catch weight items
 ms:assetid: 370e19c9-a3af-46d4-8a95-f5678bf77044
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242201(v=AX.60)
 ms:contentKeyID: 36056602
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

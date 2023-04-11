@@ -4,7 +4,7 @@ TOCTitle: Specify the cross rate
 ms:assetid: dff2dc6c-3826-4cac-9dac-b1279ed55ac8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551296(v=AX.60)
 ms:contentKeyID: 37822163
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

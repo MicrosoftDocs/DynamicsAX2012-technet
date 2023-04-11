@@ -4,7 +4,7 @@ TOCTitle: Set up a trade allowance agreement for a promotion
 ms:assetid: 4d796809-0473-48cd-bc76-88fd37e37573
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497751(v=AX.60)
 ms:contentKeyID: 62524057
-author: Khairunj
+author: tonyafehr
 ms.date: 06/24/2014
 mtps_version: v=AX.60
 f1_keywords:

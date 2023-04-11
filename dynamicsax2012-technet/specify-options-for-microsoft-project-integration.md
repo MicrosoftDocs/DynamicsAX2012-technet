@@ -4,7 +4,7 @@ TOCTitle: Specify options for Microsoft Project integration
 ms:assetid: 7bb3f5b9-7b6c-484c-9b1d-99626062b08f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479195(v=AX.60)
 ms:contentKeyID: 59633710
-author: Khairunj
+author: tonyafehr
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

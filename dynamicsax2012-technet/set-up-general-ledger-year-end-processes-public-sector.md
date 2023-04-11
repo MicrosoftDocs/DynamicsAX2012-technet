@@ -4,7 +4,7 @@ TOCTitle: Set up General ledger year-end processes (Public sector)
 ms:assetid: 3ddecfa3-ea60-4bbe-a323-95ac0954d92a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208524(v=AX.60)
 ms:contentKeyID: 36056272
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up alert email templates in HTML
 ms:assetid: 86111fcc-f8dc-4a0d-9b74-19aa4a46040b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834405(v=AX.60)
 ms:contentKeyID: 46687553
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up shipping carriers
 ms:assetid: d1c7a21c-04f9-4a9b-b72d-a2936f1da903
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213688(v=AX.60)
 ms:contentKeyID: 36059502
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Setting up email receipts
 ms:assetid: 1c9e7d76-8545-41c8-9865-7766432efd57
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580578(v=AX.60)
 ms:contentKeyID: 39519058
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up lines for a cost template
 ms:assetid: 50e95c3e-8664-4e7e-832e-534a9cc9274d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548909(v=AX.60)
 ms:contentKeyID: 36057247
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

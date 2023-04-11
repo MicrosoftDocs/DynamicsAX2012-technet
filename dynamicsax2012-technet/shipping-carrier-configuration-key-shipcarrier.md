@@ -4,7 +4,7 @@ TOCTitle: Shipping carrier configuration key (ShipCarrier)
 ms:assetid: b2d907e9-ff89-4d87-85d8-8b1496bf1a9a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441667(v=AX.60)
 ms:contentKeyID: 36993551
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

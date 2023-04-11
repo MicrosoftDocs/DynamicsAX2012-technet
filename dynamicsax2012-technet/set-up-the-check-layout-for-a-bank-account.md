@@ -4,7 +4,7 @@ TOCTitle: Set up the check layout for a bank account
 ms:assetid: 23e4e430-0135-431c-9c8e-18181169f3fb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230993(v=AX.60)
 ms:contentKeyID: 36676375
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

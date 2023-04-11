@@ -4,7 +4,7 @@ TOCTitle: Set up posting definitions
 ms:assetid: d0a60e04-9d31-4284-bfc9-f890b41c1708
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242920(v=AX.60)
 ms:contentKeyID: 36059490
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

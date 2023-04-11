@@ -4,7 +4,7 @@ TOCTitle: Set up subscription groups
 ms:assetid: 8d40cdfe-3325-4e8e-afda-e382fc54fc3a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498343(v=AX.60)
 ms:contentKeyID: 36058492
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

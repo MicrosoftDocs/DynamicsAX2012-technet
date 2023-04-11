@@ -4,7 +4,7 @@ TOCTitle: Set up workflow for retail catalogs
 ms:assetid: 90c827d4-3286-482e-bd54-52c4a45d0f68
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728696(v=AX.60)
 ms:contentKeyID: 49556625
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

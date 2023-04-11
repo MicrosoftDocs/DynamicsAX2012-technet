@@ -4,7 +4,7 @@ TOCTitle: Setting up payment options (Call center)
 ms:assetid: 5dc8dd2c-fcce-47ec-bd84-b46edd28dc04
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497762(v=AX.60)
 ms:contentKeyID: 62200075
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

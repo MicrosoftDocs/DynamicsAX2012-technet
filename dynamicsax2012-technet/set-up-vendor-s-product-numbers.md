@@ -4,7 +4,7 @@ TOCTitle: Set up vendor's product numbers
 ms:assetid: cf9e5166-343c-46ea-b4f5-e6cba84cce16
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597248(v=AX.60)
 ms:contentKeyID: 39519326
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

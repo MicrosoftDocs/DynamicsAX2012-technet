@@ -4,7 +4,7 @@ TOCTitle: Set up parameters for data synchronization with Microsoft Project Serv
 ms:assetid: 3f2ed315-9ec3-4b62-8496-390275a45dbe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242251(v=AX.60)
 ms:contentKeyID: 36056700
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

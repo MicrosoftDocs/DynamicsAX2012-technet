@@ -4,7 +4,7 @@ TOCTitle: Set up and use sales tax codes
 ms:assetid: 188be966-db4f-49dc-98a7-6d72128415b1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569910(v=AX.60)
 ms:contentKeyID: 36056100
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

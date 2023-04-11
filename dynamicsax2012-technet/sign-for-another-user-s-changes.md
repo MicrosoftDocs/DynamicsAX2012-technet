@@ -4,7 +4,7 @@ TOCTitle: Sign for another user's changes
 ms:assetid: cb63ead7-c40f-4a4c-a9f8-2f7afefe787e
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362077(v=AX.60)
 ms:contentKeyID: 36059342
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

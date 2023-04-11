@@ -4,7 +4,7 @@ TOCTitle: Set up human resources parameters
 ms:assetid: 12c9e324-d565-41f8-b4eb-6633e1db3c86
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496591(v=AX.60)
 ms:contentKeyID: 36056041
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

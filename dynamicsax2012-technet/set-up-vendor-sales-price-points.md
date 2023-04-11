@@ -4,7 +4,7 @@ TOCTitle: Set up vendor sales price points
 ms:assetid: e39f2d54-64f3-4a47-a571-aa4b88df4814
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597265(v=AX.60)
 ms:contentKeyID: 39519345
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

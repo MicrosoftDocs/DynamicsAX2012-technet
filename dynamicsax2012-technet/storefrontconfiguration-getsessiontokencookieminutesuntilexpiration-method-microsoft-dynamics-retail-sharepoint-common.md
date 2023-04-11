@@ -4,7 +4,7 @@ TOCTitle: GetSessionTokenCookieMinutesUntilExpiration Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.StorefrontConfiguration.GetSessionTokenCookieMinutesUntilExpiration
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.storefrontconfiguration.getsessiontokencookieminutesuntilexpiration(v=AX.60)
 ms:contentKeyID: 62202473
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: ShippingOptionResponse Constructor (ShippingOptions, Collection(ItemSh
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShippingOptionResponse.#ctor(Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShippingOptions,System.Collections.ObjectModel.Collection{Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ItemShippingOptions})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.shippingoptionresponse.shippingoptionresponse(v=AX.60)
 ms:contentKeyID: 62206444
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Set up centralized customer payments
 ms:assetid: fe5e2c78-814b-4ffe-8256-c7d4b7895b5b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243312(v=AX.60)
 ms:contentKeyID: 36060116
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

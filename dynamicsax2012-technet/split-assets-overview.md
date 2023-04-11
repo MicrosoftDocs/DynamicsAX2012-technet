@@ -4,7 +4,7 @@ TOCTitle: Split assets overview
 ms:assetid: cff5aa7e-5111-4153-8da3-8afd3e50fe5f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213679(v=AX.60)
 ms:contentKeyID: 36059482
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

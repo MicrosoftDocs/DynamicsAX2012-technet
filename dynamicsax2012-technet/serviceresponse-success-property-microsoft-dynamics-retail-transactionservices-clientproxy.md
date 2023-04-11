@@ -4,7 +4,7 @@ TOCTitle: Success Property
 ms:assetid: P:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.ServiceResponse.Success
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.serviceresponse.success(v=AX.60)
 ms:contentKeyID: 49831436
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

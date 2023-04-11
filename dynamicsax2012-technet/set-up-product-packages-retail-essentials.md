@@ -4,7 +4,7 @@ TOCTitle: Set up product packages (Retail essentials)
 ms:assetid: 7e6bcea8-f99a-4af2-adf4-ff47a8586370
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736907(v=AX.60)
 ms:contentKeyID: 62200385
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

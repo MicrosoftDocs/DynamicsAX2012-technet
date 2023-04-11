@@ -4,7 +4,7 @@ TOCTitle: Set up Fixed assets parameters
 ms:assetid: ce5dea52-e966-4d53-8343-409b9fad6dda
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572695(v=AX.60)
 ms:contentKeyID: 36059468
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining journals
 ms:assetid: 5c972fe7-a223-44eb-9cc0-9a38276e0bac
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242507(v=AX.60)
 ms:contentKeyID: 36057571
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

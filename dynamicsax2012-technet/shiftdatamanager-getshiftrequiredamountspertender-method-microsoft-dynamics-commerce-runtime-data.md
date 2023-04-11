@@ -4,7 +4,7 @@ TOCTitle: GetShiftRequiredAmountsPerTender Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ShiftDataManager.GetShiftRequiredAmountsPerTender(System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.shiftdatamanager.getshiftrequiredamountspertender(v=AX.60)
 ms:contentKeyID: 65319580
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

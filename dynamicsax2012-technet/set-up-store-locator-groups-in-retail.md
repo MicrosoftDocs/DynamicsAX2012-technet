@@ -4,7 +4,7 @@ TOCTitle: Set up store locator groups in Retail
 ms:assetid: e3f49c05-3374-428b-87cd-dc5a2a8dd296
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728715(v=AX.60)
 ms:contentKeyID: 49556620
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 audience: Application User

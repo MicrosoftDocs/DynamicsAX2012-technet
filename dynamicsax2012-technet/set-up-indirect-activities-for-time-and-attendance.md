@@ -4,7 +4,7 @@ TOCTitle: Set up indirect activities for time and attendance
 ms:assetid: d297e057-2603-4500-a7e4-a6fa809875d4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551048(v=AX.60)
 ms:contentKeyID: 36059507
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

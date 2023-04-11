@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining product compliance
 ms:assetid: 14aa747a-494d-4c03-9ea3-5a2bc1013b4c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352183(v=AX.60)
 ms:contentKeyID: 36687816
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

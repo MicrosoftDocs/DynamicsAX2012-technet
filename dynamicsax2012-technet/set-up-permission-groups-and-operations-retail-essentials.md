@@ -4,7 +4,7 @@ TOCTitle: Set up permission groups and operations (Retail essentials)
 ms:assetid: 8932d83c-74bf-4f60-ac88-14e8b82954c3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736915(v=AX.60)
 ms:contentKeyID: 62200388
-author: Khairunj
+author: tonyafehr
 ms.date: 06/24/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Set up receipt profiles (Retail essentials)
 ms:assetid: 78cb4bd5-e0fb-4e40-8d34-79b01770421c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736900(v=AX.60)
 ms:contentKeyID: 62200377
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

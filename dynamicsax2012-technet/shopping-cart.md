@@ -4,7 +4,7 @@ TOCTitle: Shopping Cart
 ms:assetid: fec141ac-eee3-4068-bc22-7ad202da776f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741462(v=AX.60)
 ms:contentKeyID: 62219738
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

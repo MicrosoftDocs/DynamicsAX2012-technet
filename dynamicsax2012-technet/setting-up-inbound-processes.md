@@ -4,7 +4,7 @@ TOCTitle: Setting up inbound processes
 ms:assetid: 179059d7-2914-49ff-aeb4-6747f1703bf8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497723(v=AX.60)
 ms:contentKeyID: 62200037
-author: Khairunj
+author: tonyafehr
 ms.date: 07/18/2016
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: ShipmentId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.Shipment.ShipmentId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shipment.shipmentid(v=AX.60)
 ms:contentKeyID: 49819170
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

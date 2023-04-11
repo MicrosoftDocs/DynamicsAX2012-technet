@@ -4,7 +4,7 @@ TOCTitle: Set up an AOS profile
 ms:assetid: 3d6d6d31-c732-4310-b7a1-6d8f06d06608
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677394(v=AX.60)
 ms:contentKeyID: 49384174
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

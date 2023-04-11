@@ -4,7 +4,7 @@ TOCTitle: Set up gift cards
 ms:assetid: 915538c7-f0a5-4fa3-ae11-71a740566290
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597173(v=AX.60)
 ms:contentKeyID: 39519233
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

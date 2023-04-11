@@ -4,7 +4,7 @@ TOCTitle: Set other tax options for stores
 ms:assetid: cdeaab6e-2176-4965-9611-bc39d9d4807c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597245(v=AX.60)
 ms:contentKeyID: 39519323
-author: Khairunj
+author: tonyafehr
 ms.date: 10/08/2019
 mtps_version: v=AX.60
 audience: Application User

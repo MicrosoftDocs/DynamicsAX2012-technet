@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining procurement catalogs
 ms:assetid: 4d6f51bf-335c-48eb-8172-8d66d47c838a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208753(v=AX.60)
 ms:contentKeyID: 36057035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

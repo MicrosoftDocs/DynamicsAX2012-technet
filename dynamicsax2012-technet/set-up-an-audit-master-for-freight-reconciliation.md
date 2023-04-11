@@ -4,7 +4,7 @@ TOCTitle: Set up an audit master for freight reconciliation
 ms:assetid: e25f40ef-03d0-44d4-80bb-0f6ff52ceb22
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553206(v=AX.60)
 ms:contentKeyID: 62200172
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

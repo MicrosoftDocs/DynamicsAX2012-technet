@@ -4,7 +4,7 @@ TOCTitle: Setting up compensation information
 ms:assetid: 9e2fcd01-3c30-4c2a-9f21-7e67cf4ba527
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213379(v=AX.60)
 ms:contentKeyID: 44081018
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

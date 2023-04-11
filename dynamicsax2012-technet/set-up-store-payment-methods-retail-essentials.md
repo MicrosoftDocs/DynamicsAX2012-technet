@@ -4,7 +4,7 @@ TOCTitle: Set up store payment methods (Retail Essentials)
 ms:assetid: 7af0c7c8-0e4f-482b-a53f-a3e7ca6d9b82
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736903(v=AX.60)
 ms:contentKeyID: 62200381
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

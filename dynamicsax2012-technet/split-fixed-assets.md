@@ -4,7 +4,7 @@ TOCTitle: Split fixed assets
 ms:assetid: 6e22a23c-745f-43b8-8fdc-b9cbd1a5935f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231808(v=AX.60)
 ms:contentKeyID: 36058034
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

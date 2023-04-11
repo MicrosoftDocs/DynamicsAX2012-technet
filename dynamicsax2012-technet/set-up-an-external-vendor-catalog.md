@@ -4,7 +4,7 @@ TOCTitle: Set up an external vendor catalog
 ms:assetid: d27577ea-e1c5-4990-b279-86fd440d0a9a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242924(v=AX.60)
 ms:contentKeyID: 36059505
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

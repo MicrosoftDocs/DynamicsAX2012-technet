@@ -4,7 +4,7 @@ TOCTitle: Spend by procurement category over consecutive years report (VendSpend
 ms:assetid: f91fe740-0cc9-40bd-acd0-995c188099e0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500178(v=AX.60)
 ms:contentKeyID: 37820239
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up info codes
 ms:assetid: 8635d420-09dd-47ae-b746-0d29a3bddfba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597158(v=AX.60)
 ms:contentKeyID: 39519215
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

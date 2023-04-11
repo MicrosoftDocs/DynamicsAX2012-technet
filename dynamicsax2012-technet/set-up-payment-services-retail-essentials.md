@@ -4,7 +4,7 @@ TOCTitle: Set up payment services (Retail essentials)
 ms:assetid: 29da1ae7-fb72-4dc9-894a-2ebb0b271fcb
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716062(v=AX.60)
 ms:contentKeyID: 62200328
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

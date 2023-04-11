@@ -4,7 +4,7 @@ TOCTitle: Set up a work pool
 ms:assetid: c28b6fe8-2444-45be-ace3-e96a59a706c7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553199(v=AX.60)
 ms:contentKeyID: 62200152
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

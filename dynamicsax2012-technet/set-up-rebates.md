@@ -4,7 +4,7 @@ TOCTitle: Set up rebates
 ms:assetid: 05700e30-e843-4288-912d-f533e3b53a8d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497709(v=AX.60)
 ms:contentKeyID: 62500052
-author: Khairunj
+author: tonyafehr
 ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:

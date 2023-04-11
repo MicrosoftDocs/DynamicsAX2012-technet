@@ -4,7 +4,7 @@ TOCTitle: Set up Intrastat from a free text invoice
 ms:assetid: 6f91b730-09ca-41c0-bbfa-c0b7f1b2f8a9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571224(v=AX.60)
 ms:contentKeyID: 36058047
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

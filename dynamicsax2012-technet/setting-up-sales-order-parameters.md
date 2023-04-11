@@ -4,7 +4,7 @@ TOCTitle: Setting up sales order parameters
 ms:assetid: 999e48fc-65f8-4088-a878-53615b5e47c3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232249(v=AX.60)
 ms:contentKeyID: 36058699
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

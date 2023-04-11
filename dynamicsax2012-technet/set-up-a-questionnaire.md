@@ -4,7 +4,7 @@ TOCTitle: Set up a questionnaire
 ms:assetid: 79dae5c2-07fe-4696-ba42-556ab86364c3
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550062(v=AX.60)
 ms:contentKeyID: 37822147
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

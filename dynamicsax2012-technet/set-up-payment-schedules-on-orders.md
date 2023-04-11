@@ -4,7 +4,7 @@ TOCTitle: Set up payment schedules on orders
 ms:assetid: 52c7d5b7-a86f-41bb-8f8c-a3159f2ac601
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548920(v=AX.60)
 ms:contentKeyID: 43976716
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

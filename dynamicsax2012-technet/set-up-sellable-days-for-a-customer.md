@@ -4,7 +4,7 @@ TOCTitle: Set up sellable days for a customer
 ms:assetid: 3d520b80-d319-44ab-a1d1-c94d0c4deb5c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352197(v=AX.60)
 ms:contentKeyID: 36687830
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

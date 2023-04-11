@@ -4,7 +4,7 @@ TOCTitle: Set up vendor sales price margins
 ms:assetid: bc92aa6b-8b56-4a47-91b8-a6a67355a6ac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597224(v=AX.60)
 ms:contentKeyID: 39519295
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

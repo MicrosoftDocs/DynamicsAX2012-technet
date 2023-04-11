@@ -4,7 +4,7 @@ TOCTitle: Set up user security in Microsoft Dynamics AX
 ms:assetid: a9eea83b-60bf-4690-8442-a459de3c2001
 ms:mtpsurl: https://technet.microsoft.com/library/Aa834424(v=AX.60)
 ms:contentKeyID: 35132801
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

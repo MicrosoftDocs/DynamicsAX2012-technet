@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining external vendor catalogs
 ms:assetid: 893f5392-9c75-4426-9770-3a4bfa24cfd7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209342(v=AX.60)
 ms:contentKeyID: 36058459
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

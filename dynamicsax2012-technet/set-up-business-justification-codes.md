@@ -4,7 +4,7 @@ TOCTitle: Set up business justification codes
 ms:assetid: a7652367-097e-4fa6-8ad8-ec2d0fc765d9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242686(v=AX.60)
 ms:contentKeyID: 36058878
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

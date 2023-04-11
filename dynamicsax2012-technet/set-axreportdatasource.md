@@ -4,7 +4,7 @@ TOCTitle: Set-AXReportDataSource
 ms:assetid: 31BB7504-3C36-4373-A046-93D42C1DE2DF
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720247(v=AX.60)
 ms:contentKeyID: 49720035
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

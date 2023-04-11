@@ -4,7 +4,7 @@ TOCTitle: Specify the workflow execution account
 ms:assetid: e53382f6-5e30-4175-b497-9f644ed748b3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732189(v=AX.60)
 ms:contentKeyID: 35133137
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

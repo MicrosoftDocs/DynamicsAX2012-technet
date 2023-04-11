@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining shelf life dates and statuses
 ms:assetid: 4642a52f-21da-4ad0-bd5f-0e6d2b1fa1e3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352199(v=AX.60)
 ms:contentKeyID: 36687832
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up course instructors
 ms:assetid: f13aad8d-7ffa-4961-9c25-2bddc89cb798
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551591(v=AX.60)
 ms:contentKeyID: 50173424
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

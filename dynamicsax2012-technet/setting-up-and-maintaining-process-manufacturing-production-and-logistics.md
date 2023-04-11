@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Process manufacturing production and logist
 ms:assetid: 6223828e-4c93-49e2-adf2-efbeec6c3a95
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209190(v=AX.60)
 ms:contentKeyID: 36057666
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

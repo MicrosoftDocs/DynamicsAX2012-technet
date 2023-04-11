@@ -4,7 +4,7 @@ TOCTitle: Set up customer prenotes
 ms:assetid: 58e0abd2-043b-4660-a1c3-965cd89606fa
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208973(v=AX.60)
 ms:contentKeyID: 36057344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up connection profiles
 ms:assetid: 2f488c2d-8294-4869-ac78-5321b488419a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679913(v=AX.60)
 ms:contentKeyID: 49557895
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

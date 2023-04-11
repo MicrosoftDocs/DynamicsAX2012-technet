@@ -4,7 +4,7 @@ TOCTitle: Specify inventory dimensions
 ms:assetid: 75ae5074-4a45-4bb5-845b-a8c4ac8705a9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550030(v=AX.60)
 ms:contentKeyID: 42518552
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

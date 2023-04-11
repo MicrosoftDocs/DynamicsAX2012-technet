@@ -4,7 +4,7 @@ TOCTitle: Set up keyboard mapping groups
 ms:assetid: 98e5d5b1-b845-457f-b054-3a37add85b1c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597183(v=AX.60)
 ms:contentKeyID: 39519248
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

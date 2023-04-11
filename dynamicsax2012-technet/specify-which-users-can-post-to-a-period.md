@@ -4,7 +4,7 @@ TOCTitle: Specify which users can post to a period
 ms:assetid: af2c490b-b01b-47f8-9b18-664d9ce5ed7b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242712(v=AX.60)
 ms:contentKeyID: 36058950
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

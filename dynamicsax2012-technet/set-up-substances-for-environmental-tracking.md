@@ -4,7 +4,7 @@ TOCTitle: Set up substances for environmental tracking
 ms:assetid: 848fcd7f-3a20-4c53-bd99-95a07841ad7f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209320(v=AX.60)
 ms:contentKeyID: 36058392
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

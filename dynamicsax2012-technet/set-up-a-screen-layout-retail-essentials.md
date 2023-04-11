@@ -4,7 +4,7 @@ TOCTitle: Set up a screen layout (Retail essentials)
 ms:assetid: bf9fadd7-4cc7-4057-b61b-176fbe18cd6a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736941(v=AX.60)
 ms:contentKeyID: 62200418
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

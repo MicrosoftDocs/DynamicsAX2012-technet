@@ -4,7 +4,7 @@ TOCTitle: Set up number sequence for upgrade
 ms:assetid: 98efee6f-bb16-4850-9ccb-8ab0fc6f9398
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731876(v=AX.60)
 ms:contentKeyID: 35132778
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

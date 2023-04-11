@@ -4,7 +4,7 @@ TOCTitle: ShippingService Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.ShippingService
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.shippingservice_methods(v=AX.60)
 ms:contentKeyID: 49852425
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---
