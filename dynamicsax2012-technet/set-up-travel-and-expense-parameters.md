@@ -4,7 +4,7 @@ TOCTitle: Set up travel and expense parameters
 ms:assetid: 48f3e54f-510a-45dc-8f66-03b95f08f0c0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231400(v=AX.60)
 ms:contentKeyID: 36056934
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

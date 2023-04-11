@@ -4,7 +4,7 @@ TOCTitle: Set up sequencing parameters for a master plan
 ms:assetid: 5aa0629f-be35-49aa-ae41-1dbcb88a3773
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838736(v=AX.60)
 ms:contentKeyID: 50120619
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

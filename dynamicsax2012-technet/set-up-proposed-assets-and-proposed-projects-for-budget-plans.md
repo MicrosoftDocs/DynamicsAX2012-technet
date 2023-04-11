@@ -4,7 +4,7 @@ TOCTitle: Set up proposed assets and proposed projects for budget plans
 ms:assetid: b8805e0b-da99-4587-91cd-497dd59b35c8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677356(v=AX.60)
 ms:contentKeyID: 49384131
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

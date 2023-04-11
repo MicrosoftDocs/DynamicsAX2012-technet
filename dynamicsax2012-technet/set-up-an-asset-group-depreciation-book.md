@@ -4,7 +4,7 @@ TOCTitle: Set up an asset group depreciation book
 ms:assetid: 88c5ec86-8097-469b-9d5b-4b43e5b6e3ab
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498229(v=AX.60)
 ms:contentKeyID: 36058457
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

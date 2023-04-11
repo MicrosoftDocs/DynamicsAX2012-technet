@@ -4,7 +4,7 @@ TOCTitle: Set up footer text for documents
 ms:assetid: 52b79cb1-d877-483a-905f-5e80a6dd7a65
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309676(v=AX.60)
 ms:contentKeyID: 36057290
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

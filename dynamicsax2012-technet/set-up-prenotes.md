@@ -4,7 +4,7 @@ TOCTitle: Set up prenotes
 ms:assetid: b9aed6b5-7360-4750-89f7-4141327775ed
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242764(v=AX.60)
 ms:contentKeyID: 36059120
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

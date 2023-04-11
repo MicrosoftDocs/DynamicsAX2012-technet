@@ -4,7 +4,7 @@ TOCTitle: Set up Telephony Application Programming Interface (TAPI)
 ms:assetid: b1b17484-bf62-4f26-9875-2c0d4424375f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232395(v=AX.60)
 ms:contentKeyID: 37072066
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

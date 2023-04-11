@@ -4,7 +4,7 @@ TOCTitle: Setting up the purchase order process
 ms:assetid: 84ce5738-7ba9-42cc-9a1f-fb5ab0860bd5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209321(v=AX.60)
 ms:contentKeyID: 36058398
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

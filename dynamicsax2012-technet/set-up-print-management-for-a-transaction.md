@@ -4,7 +4,7 @@ TOCTitle: Set up print management for a transaction
 ms:assetid: be2d99da-4bc0-4f29-ab7c-e1e05d8ccfd4
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362061(v=AX.60)
 ms:contentKeyID: 36059168
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

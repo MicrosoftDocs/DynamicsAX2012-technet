@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Accounts payable (Public sector)
 ms:assetid: a5b093f2-5f88-445a-808b-86f389231bb5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208565(v=AX.60)
 ms:contentKeyID: 36056337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

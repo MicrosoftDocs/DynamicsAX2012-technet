@@ -4,7 +4,7 @@ TOCTitle: SqliteConnectionStringBuilder Constructor (String, IEnumerable(String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.Sqlite.SqliteConnectionStringBuilder.#ctor(System.String,System.Collections.Generic.IEnumerable{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlite.sqliteconnectionstringbuilder.sqliteconnectionstringbuilder(v=AX.60)
 ms:contentKeyID: 65321991
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Set up prerequisites to report quality order results for a potency ite
 ms:assetid: 7b7c956a-9722-433d-b894-da753bd3906e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838739(v=AX.60)
 ms:contentKeyID: 50120622
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

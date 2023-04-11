@@ -4,7 +4,7 @@ TOCTitle: Set up cross-sell and up-sell
 ms:assetid: 13969b82-785b-4bfe-977f-5fe43751cf1f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497716(v=AX.60)
 ms:contentKeyID: 62279210
-author: Khairunj
+author: tonyafehr
 ms.date: 05/07/2014
 mtps_version: v=AX.60
 f1_keywords:

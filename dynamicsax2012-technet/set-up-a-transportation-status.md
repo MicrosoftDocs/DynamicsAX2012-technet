@@ -4,7 +4,7 @@ TOCTitle: Set up a transportation status
 ms:assetid: 76836936-7a2a-47e3-8f84-a15c5fe9f1b8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553171(v=AX.60)
 ms:contentKeyID: 62200096
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

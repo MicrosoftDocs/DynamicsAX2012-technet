@@ -4,7 +4,7 @@ TOCTitle: Set up promissory notes
 ms:assetid: 0309fe79-43fc-491b-b230-1d6ede75367c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569701(v=AX.60)
 ms:contentKeyID: 36055936
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

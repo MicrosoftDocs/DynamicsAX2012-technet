@@ -4,7 +4,7 @@ TOCTitle: Set up upload options for Synch Service messages
 ms:assetid: e21945c3-f610-467b-8242-3edaa5aa027a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597264(v=AX.60)
 ms:contentKeyID: 39519344
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

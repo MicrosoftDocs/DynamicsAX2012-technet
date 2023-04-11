@@ -4,7 +4,7 @@ TOCTitle: Set up funding rules for a project contract
 ms:assetid: b194fea3-9cfc-474e-860d-3fda41eceb5d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242721(v=AX.60)
 ms:contentKeyID: 36058981
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

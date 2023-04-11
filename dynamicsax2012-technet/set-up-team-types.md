@@ -4,7 +4,7 @@ TOCTitle: Set up team types
 ms:assetid: 6d934849-3fe2-40a1-a5f7-f3b806a39ef1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781093(v=AX.60)
 ms:contentKeyID: 43894503
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

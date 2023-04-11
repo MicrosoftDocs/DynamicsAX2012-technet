@@ -4,7 +4,7 @@ TOCTitle: Setting up time and attendance information
 ms:assetid: 561c3251-9d2e-4fae-b8df-d4a342712b1d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242467(v=AX.60)
 ms:contentKeyID: 36057321
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

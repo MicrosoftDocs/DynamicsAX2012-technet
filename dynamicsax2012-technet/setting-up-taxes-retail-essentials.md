@@ -4,7 +4,7 @@ TOCTitle: Setting up taxes (Retail essentials)
 ms:assetid: ade863d1-feab-4c7d-bc8a-4b9a097adc58
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736932(v=AX.60)
 ms:contentKeyID: 62200409
-author: Khairunj
+author: tonyafehr
 ms.date: 12/01/2014
 mtps_version: v=AX.60
 ---

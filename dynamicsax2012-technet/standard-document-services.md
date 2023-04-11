@@ -4,7 +4,7 @@ TOCTitle: Standard Document Services
 ms:assetid: b69ffe36-7920-493d-b8f0-8e16f981d433
 ms:mtpsurl: https://technet.microsoft.com/library/Aa859008(v=AX.60)
 ms:contentKeyID: 35249826
-author: Khairunj
+author: tonyafehr
 ms.date: 04/13/2015
 mtps_version: v=AX.60
 ---

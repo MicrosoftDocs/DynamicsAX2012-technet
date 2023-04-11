@@ -4,7 +4,7 @@ TOCTitle: Set up a forecast model
 ms:assetid: b3aed959-6ce8-4f5a-b781-e4e6697d95d4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572021(v=AX.60)
 ms:contentKeyID: 36059072
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

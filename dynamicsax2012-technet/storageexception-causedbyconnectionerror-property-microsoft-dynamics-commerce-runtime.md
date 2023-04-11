@@ -4,7 +4,7 @@ TOCTitle: CausedByConnectionError Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.StorageException.CausedByConnectionError
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.storageexception.causedbyconnectionerror(v=AX.60)
 ms:contentKeyID: 65316341
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

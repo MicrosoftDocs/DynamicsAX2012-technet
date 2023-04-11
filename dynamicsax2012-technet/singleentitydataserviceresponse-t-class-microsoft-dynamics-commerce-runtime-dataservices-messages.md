@@ -4,7 +4,7 @@ TOCTitle: SingleEntityDataServiceResponse(T) Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.SingleEntityDataServiceResponse`1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn968009(v=AX.60)
 ms:contentKeyID: 65319866
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

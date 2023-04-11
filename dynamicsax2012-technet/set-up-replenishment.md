@@ -4,7 +4,7 @@ TOCTitle: Set up replenishment
 ms:assetid: 17f53aca-b238-4838-a67f-781366c9e34e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn750873(v=AX.60)
 ms:contentKeyID: 62369568
-author: Khairunj
+author: tonyafehr
 ms.date: 06/14/2015
 mtps_version: v=AX.60
 f1_keywords:

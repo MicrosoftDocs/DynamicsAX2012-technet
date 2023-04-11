@@ -4,7 +4,7 @@ TOCTitle: Set up replenishment service categories (Retail essentials)
 ms:assetid: efa8ae36-c346-4165-85b4-3f880c1814ed
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736974(v=AX.60)
 ms:contentKeyID: 62200451
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

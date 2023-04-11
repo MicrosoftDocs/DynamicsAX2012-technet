@@ -4,7 +4,7 @@ TOCTitle: Set up a collection letter sequence
 ms:assetid: bbb16492-3816-4e2d-be84-60f6aaba8132
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498861(v=AX.60)
 ms:contentKeyID: 36655948
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

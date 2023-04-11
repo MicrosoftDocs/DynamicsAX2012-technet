@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining requests for quotations
 ms:assetid: 773ac5b7-2d02-40b8-ba71-c7dc5fae3420
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212987(v=AX.60)
 ms:contentKeyID: 36058206
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up return reason code groups
 ms:assetid: 306160d7-c6f4-41d0-ad6e-b8a27748b32d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231029(v=AX.60)
 ms:contentKeyID: 36056310
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

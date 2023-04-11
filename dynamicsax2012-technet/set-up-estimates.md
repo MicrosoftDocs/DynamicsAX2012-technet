@@ -4,7 +4,7 @@ TOCTitle: Set up estimates
 ms:assetid: f45cc0b3-6035-4fc4-860a-3769e9e4f04b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551639(v=AX.60)
 ms:contentKeyID: 36059991
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

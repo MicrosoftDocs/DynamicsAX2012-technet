@@ -4,7 +4,7 @@ TOCTitle: Set up Fixed assets workflows
 ms:assetid: f8d27156-2fa5-4c3b-851e-f74fbd4af240
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227561(v=AX.60)
 ms:contentKeyID: 36060051
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

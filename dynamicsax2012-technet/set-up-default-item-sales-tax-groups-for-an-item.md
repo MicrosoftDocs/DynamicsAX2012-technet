@@ -4,7 +4,7 @@ TOCTitle: Set up default item sales tax groups for an item
 ms:assetid: 1ce94dbf-0a18-43d5-8536-278bde248ae0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569939(v=AX.60)
 ms:contentKeyID: 36056136
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

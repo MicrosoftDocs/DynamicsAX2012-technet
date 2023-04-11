@@ -4,7 +4,7 @@ TOCTitle: Set up file formats for the export of a traditional financial statemen
 ms:assetid: f638ac56-8d99-4353-8e0e-6fc5f49c2e3e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551679(v=AX.60)
 ms:contentKeyID: 36060010
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

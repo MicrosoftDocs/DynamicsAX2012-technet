@@ -4,7 +4,7 @@ TOCTitle: Set up centralized vendor payments
 ms:assetid: 22f95748-f55d-40b7-afda-f4cc29ea4b38
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230990(v=AX.60)
 ms:contentKeyID: 36056177
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

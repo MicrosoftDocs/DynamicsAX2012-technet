@@ -4,7 +4,7 @@ TOCTitle: OrderShippingOptions Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShippingOptionResponse.OrderShippingOptions
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.shippingoptionresponse.ordershippingoptions(v=AX.60)
 ms:contentKeyID: 62202290
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

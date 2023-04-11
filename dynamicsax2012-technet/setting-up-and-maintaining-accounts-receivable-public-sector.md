@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Accounts receivable (Public sector)
 ms:assetid: fb8c5d13-02da-4984-9090-f26f3d9d147b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208613(v=AX.60)
 ms:contentKeyID: 36056405
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

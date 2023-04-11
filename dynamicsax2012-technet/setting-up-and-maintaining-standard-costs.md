@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining standard costs
 ms:assetid: d4b9ea1c-8f6c-4a55-8ade-40418adb6872
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213695(v=AX.60)
 ms:contentKeyID: 36059522
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

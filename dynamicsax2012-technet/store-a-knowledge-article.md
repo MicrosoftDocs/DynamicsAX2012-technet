@@ -4,7 +4,7 @@ TOCTitle: Store a knowledge article
 ms:assetid: 1e4803d8-6278-47f2-8518-2caa7d15df49
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208461(v=AX.60)
 ms:contentKeyID: 36056145
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

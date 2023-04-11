@@ -4,7 +4,7 @@ TOCTitle: Setting up payroll for time and attendance
 ms:assetid: f99d1b3c-4095-4694-bd83-8eccc17665e8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243301(v=AX.60)
 ms:contentKeyID: 36060061
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up reservation hierarchies
 ms:assetid: b731eb87-e7d5-4c7d-a83d-dd7522d0a8af
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553195(v=AX.60)
 ms:contentKeyID: 62200144
-author: Khairunj
+author: tonyafehr
 ms.date: 02/27/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up product packages
 ms:assetid: c8092119-b677-4904-80fa-7f9e36f4cabd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597239(v=AX.60)
 ms:contentKeyID: 39519315
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

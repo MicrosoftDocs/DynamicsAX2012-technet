@@ -4,7 +4,7 @@ TOCTitle: Set up customer category hierarchies for trade allowance
 ms:assetid: 633b9605-eb89-444a-96eb-60fc2f37b99c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497780(v=AX.60)
 ms:contentKeyID: 62200083
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

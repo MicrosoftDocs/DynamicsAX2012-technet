@@ -4,7 +4,7 @@ TOCTitle: Set up receipt options (Retail essentials)
 ms:assetid: 6f578f01-9b7d-45ad-918d-7041dcef25c1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736891(v=AX.60)
 ms:contentKeyID: 62200368
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

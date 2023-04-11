@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Retail
 ms:assetid: a97494f9-3acc-444c-9311-b33fefe7ed9a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597201(v=AX.60)
 ms:contentKeyID: 39519271
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up elimination rules for transactions
 ms:assetid: 333f2971-d689-499f-9e9a-0a0844e48a09
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231040(v=AX.60)
 ms:contentKeyID: 36676382
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

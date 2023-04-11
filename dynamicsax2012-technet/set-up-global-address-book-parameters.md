@@ -4,7 +4,7 @@ TOCTitle: Set up global address book parameters
 ms:assetid: d2e0ed31-fb63-4407-9ce3-9ffa52ff55e8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731966(v=AX.60)
 ms:contentKeyID: 35132908
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

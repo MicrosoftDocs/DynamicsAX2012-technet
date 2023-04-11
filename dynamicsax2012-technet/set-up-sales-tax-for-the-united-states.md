@@ -4,7 +4,7 @@ TOCTitle: Set up sales tax for the United States
 ms:assetid: 77fe630e-dd16-473c-a0c0-9ce0779553eb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550046(v=AX.60)
 ms:contentKeyID: 36058217
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

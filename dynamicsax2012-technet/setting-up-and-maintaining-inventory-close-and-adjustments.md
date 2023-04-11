@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining inventory close and adjustments
 ms:assetid: da5320f6-2598-450a-ae56-df099ceadf43
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213716(v=AX.60)
 ms:contentKeyID: 36059661
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

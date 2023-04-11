@@ -4,7 +4,7 @@ TOCTitle: Set up shipment staging overviews
 ms:assetid: 9892ef0f-0914-4fe6-8cda-078ff789615e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232243(v=AX.60)
 ms:contentKeyID: 36058681
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

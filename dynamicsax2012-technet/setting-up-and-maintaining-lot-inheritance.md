@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining lot inheritance
 ms:assetid: 5e86a117-ca50-4776-9374-06570570b671
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838737(v=AX.60)
 ms:contentKeyID: 50120620
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

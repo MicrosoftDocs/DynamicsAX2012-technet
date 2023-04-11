@@ -4,7 +4,7 @@ TOCTitle: ToString Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.SortColumn.ToString
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.sortcolumn.tostring(v=AX.60)
 ms:contentKeyID: 65320410
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

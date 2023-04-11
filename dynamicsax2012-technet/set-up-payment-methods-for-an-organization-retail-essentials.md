@@ -4,7 +4,7 @@ TOCTitle: Set up payment methods for an organization (Retail essentials)
 ms:assetid: 59d4410e-602e-4d9b-91ec-17941c0a4933
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736881(v=AX.60)
 ms:contentKeyID: 62200359
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

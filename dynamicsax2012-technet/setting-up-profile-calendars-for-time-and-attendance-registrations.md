@@ -4,7 +4,7 @@ TOCTitle: Setting up profile calendars for time and attendance registrations
 ms:assetid: a3dd2259-2c34-4126-8e39-4a690f62f2d1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550171(v=AX.60)
 ms:contentKeyID: 36058812
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

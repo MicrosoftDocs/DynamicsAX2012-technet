@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining batch order sequencing
 ms:assetid: 43178018-45a1-4761-9689-3fd92a15ac5e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838732(v=AX.60)
 ms:contentKeyID: 50120615
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up sales tax overrides (Retail essentials)
 ms:assetid: 1f361407-9813-4dd1-9a1c-488645d27a7a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716054(v=AX.60)
 ms:contentKeyID: 62200318
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

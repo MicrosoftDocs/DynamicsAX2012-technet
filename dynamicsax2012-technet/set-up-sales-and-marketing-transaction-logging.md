@@ -4,7 +4,7 @@ TOCTitle: Set up Sales and marketing transaction logging
 ms:assetid: 21b74cd6-f745-4207-b580-23d6f8428ea0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496791(v=AX.60)
 ms:contentKeyID: 36056168
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

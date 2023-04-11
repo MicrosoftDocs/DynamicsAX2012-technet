@@ -4,7 +4,7 @@ TOCTitle: Set up a preferred technician
 ms:assetid: a82af202-0eb0-480b-bd56-d81facd98e67
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243058(v=AX.60)
 ms:contentKeyID: 36058884
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up financial dimensions for integrating applications (Excel and Ma
 ms:assetid: aeb68efa-fdaa-47d3-8119-3139eab8d29d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507086(v=AX.60)
 ms:contentKeyID: 59623137
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

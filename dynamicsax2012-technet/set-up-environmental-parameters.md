@@ -4,7 +4,7 @@ TOCTitle: Set up environmental parameters
 ms:assetid: 3a2dae82-e6ac-4ac9-9f2f-d62b24349592
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242212(v=AX.60)
 ms:contentKeyID: 36056637
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up a line property
 ms:assetid: b9e1ebbd-47e1-4e6e-9530-4db61c3f95aa
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498851(v=AX.60)
 ms:contentKeyID: 36059123
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

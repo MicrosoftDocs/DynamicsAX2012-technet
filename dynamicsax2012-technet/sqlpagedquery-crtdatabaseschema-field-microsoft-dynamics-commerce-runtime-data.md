@@ -4,7 +4,7 @@ TOCTitle: CrtDatabaseSchema Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.Data.SqlPagedQuery.CrtDatabaseSchema
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.sqlpagedquery.crtdatabaseschema(v=AX.60)
 ms:contentKeyID: 65319308
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

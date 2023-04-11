@@ -4,7 +4,7 @@ TOCTitle: Set up packing and container closing profiles for manual pack process
 ms:assetid: a41ab053-2635-4323-91ad-f2c8c94303bc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553187(v=AX.60)
 ms:contentKeyID: 62200127
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

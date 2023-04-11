@@ -4,7 +4,7 @@ TOCTitle: (SGP) Set up tax codes for GST reporting
 ms:assetid: b97e7c7c-e95b-4261-96c7-494241ceb4e3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213586(v=AX.60)
 ms:contentKeyID: 36059118
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up registers (Retail essentials)
 ms:assetid: 42acda35-2dd8-42e0-ac3b-c5807371decc
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716080(v=AX.60)
 ms:contentKeyID: 62200343
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

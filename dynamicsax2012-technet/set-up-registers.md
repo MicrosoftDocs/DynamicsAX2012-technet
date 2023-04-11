@@ -4,7 +4,7 @@ TOCTitle: Set up registers
 ms:assetid: 2d92630e-c1e5-4d61-8bcb-59616186b88a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580597(v=AX.60)
 ms:contentKeyID: 39519083
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

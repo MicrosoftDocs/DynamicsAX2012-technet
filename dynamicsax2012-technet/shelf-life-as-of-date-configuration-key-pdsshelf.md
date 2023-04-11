@@ -4,7 +4,7 @@ TOCTitle: Shelf life as of date configuration key (PdsShelf)
 ms:assetid: 7c1213c7-446a-41ee-8a4b-84dca34e1f50
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496422(v=AX.60)
 ms:contentKeyID: 37071999
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

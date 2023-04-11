@@ -4,7 +4,7 @@ TOCTitle: Set up staff members
 ms:assetid: 764a2b67-5542-4b0a-acd9-b987be0602cb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597131(v=AX.60)
 ms:contentKeyID: 39519185
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up a load template
 ms:assetid: 98200da2-092e-4539-91b6-ddad53c0ab78
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553182(v=AX.60)
 ms:contentKeyID: 62200122
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

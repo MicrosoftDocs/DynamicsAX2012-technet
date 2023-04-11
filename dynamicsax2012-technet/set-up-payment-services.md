@@ -4,7 +4,7 @@ TOCTitle: Set up Payment Services
 ms:assetid: 475d8c44-a961-445b-939b-5b36380b9043
 ms:mtpsurl: https://technet.microsoft.com/library/JJ680904(v=AX.60)
 ms:contentKeyID: 49624325
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Source code configuration key (MCRSourceCode)
 ms:assetid: c4b94259-4d63-4416-ab1e-88c1efb9c702
 ms:mtpsurl: https://technet.microsoft.com/library/Dn774946(v=AX.60)
 ms:contentKeyID: 62617666
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 f1_keywords:

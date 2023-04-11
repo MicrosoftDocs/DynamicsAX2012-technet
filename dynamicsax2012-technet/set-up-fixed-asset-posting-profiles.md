@@ -4,7 +4,7 @@ TOCTitle: Set up fixed asset posting profiles
 ms:assetid: b91d226b-4e53-411e-86e3-27e6dfc62c9d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498846(v=AX.60)
 ms:contentKeyID: 36676407
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

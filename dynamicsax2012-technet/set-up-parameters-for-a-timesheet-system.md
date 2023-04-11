@@ -4,7 +4,7 @@ TOCTitle: Set up parameters for a timesheet system
 ms:assetid: ee53b57f-990b-43de-a502-580a2d04f867
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227502(v=AX.60)
 ms:contentKeyID: 36059908
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

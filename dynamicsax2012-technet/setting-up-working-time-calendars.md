@@ -4,7 +4,7 @@ TOCTitle: Setting up working time calendars
 ms:assetid: 0e373431-51cf-40ab-ba56-dbf8e673f5dc
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230912(v=AX.60)
 ms:contentKeyID: 43976703
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetOrderShipmentLineMapping Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ShippingManager.GetOrderShipmentLineMapping(System.Collections.Generic.IEnumerable{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.shippingmanager.getordershipmentlinemapping(v=AX.60)
 ms:contentKeyID: 62207583
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

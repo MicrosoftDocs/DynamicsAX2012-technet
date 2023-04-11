@@ -4,7 +4,7 @@ TOCTitle: Set up requests for quotation
 ms:assetid: 49d82a07-6f3a-4ee5-977f-5ca7f17de204
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231403(v=AX.60)
 ms:contentKeyID: 36056947
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

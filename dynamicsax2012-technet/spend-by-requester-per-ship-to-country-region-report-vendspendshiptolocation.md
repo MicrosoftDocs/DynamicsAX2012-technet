@@ -4,7 +4,7 @@ TOCTitle: Spend by requester per ship to country/region report (VendSpendShipToL
 ms:assetid: 0292e7f5-e878-4ada-b638-1dde11cf67e0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433477(v=AX.60)
 ms:contentKeyID: 36941237
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

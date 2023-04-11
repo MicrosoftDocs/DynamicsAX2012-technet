@@ -4,7 +4,7 @@ TOCTitle: Set up intercompany trade
 ms:assetid: a8629f81-c528-4140-b615-05542da2bb64
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550312(v=AX.60)
 ms:contentKeyID: 43976723
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

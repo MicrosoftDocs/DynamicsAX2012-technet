@@ -4,7 +4,7 @@ TOCTitle: Set up a review process for reversals and cancellations
 ms:assetid: b18358cd-b48b-48ab-b8cd-2d97a741963d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232393(v=AX.60)
 ms:contentKeyID: 36058979
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

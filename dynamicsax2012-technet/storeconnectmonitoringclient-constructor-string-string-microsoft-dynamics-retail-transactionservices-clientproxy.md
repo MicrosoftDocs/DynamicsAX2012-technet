@@ -4,7 +4,7 @@ TOCTitle: StoreConnectMonitoringClient Constructor (String, String)
 ms:assetid: M:Microsoft.Dynamics.Retail.TransactionServices.ClientProxy.StoreConnectMonitoringClient.#ctor(System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.transactionservices.clientproxy.storeconnectmonitoringclient.storeconnectmonitoringclient(v=AX.60)
 ms:contentKeyID: 49823983
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Set up terms of delivery (Retail essentials)
 ms:assetid: 0acebaa8-3467-4674-9159-6cf7a43b73b9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716041(v=AX.60)
 ms:contentKeyID: 62200304
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

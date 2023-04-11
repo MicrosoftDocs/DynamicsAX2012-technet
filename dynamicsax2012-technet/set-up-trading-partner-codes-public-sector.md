@@ -4,7 +4,7 @@ TOCTitle: Set up trading partner codes (Public sector)
 ms:assetid: 4bd55c65-45db-4c99-acda-445e9e9f524d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208531(v=AX.60)
 ms:contentKeyID: 36056282
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up retail attribute groups
 ms:assetid: e3c85ed0-4930-4e50-9ab2-5b3fe9932b70
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728713(v=AX.60)
 ms:contentKeyID: 49556618
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

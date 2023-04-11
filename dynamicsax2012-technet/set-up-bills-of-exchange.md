@@ -4,7 +4,7 @@ TOCTitle: Set up bills of exchange
 ms:assetid: 422241fe-25d5-47d7-b361-0b8041ca4948
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496955(v=AX.60)
 ms:contentKeyID: 36056868
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

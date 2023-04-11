@@ -4,7 +4,7 @@ TOCTitle: Set up product relationship types
 ms:assetid: da0606ab-55b6-4969-8034-364315500aac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227403(v=AX.60)
 ms:contentKeyID: 36059659
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

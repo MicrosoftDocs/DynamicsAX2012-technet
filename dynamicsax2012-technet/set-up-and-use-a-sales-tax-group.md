@@ -4,7 +4,7 @@ TOCTitle: Set up and use a sales tax group
 ms:assetid: 6e26615e-d473-4d7d-a9db-2c706d9a681f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571215(v=AX.60)
 ms:contentKeyID: 36058035
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

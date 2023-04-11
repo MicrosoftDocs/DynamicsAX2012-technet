@@ -4,7 +4,7 @@ TOCTitle: Set buffer days for sales payments
 ms:assetid: 0fe68c63-993c-4db5-86f9-3d7bae9b3cbc
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242136(v=AX.60)
 ms:contentKeyID: 36056022
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

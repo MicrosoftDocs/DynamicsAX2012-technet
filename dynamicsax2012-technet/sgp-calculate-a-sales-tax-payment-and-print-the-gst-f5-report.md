@@ -4,7 +4,7 @@ TOCTitle: (SGP) Calculate a sales tax payment and print the GST F5 report
 ms:assetid: b252ff1e-eee8-4585-a058-2b95308d2658
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232401(v=AX.60)
 ms:contentKeyID: 36059058
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

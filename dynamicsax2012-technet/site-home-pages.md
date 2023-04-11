@@ -4,7 +4,7 @@ TOCTitle: Site home pages
 ms:assetid: 1d298508-35b3-4151-8b45-9438e9d11f70
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208458(v=AX.60)
 ms:contentKeyID: 36056140
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

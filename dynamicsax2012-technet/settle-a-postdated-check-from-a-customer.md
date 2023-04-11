@@ -4,7 +4,7 @@ TOCTitle: Settle a postdated check from a customer
 ms:assetid: 4909425f-9585-435e-94e2-a67012a25159
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242411(v=AX.60)
 ms:contentKeyID: 36056938
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

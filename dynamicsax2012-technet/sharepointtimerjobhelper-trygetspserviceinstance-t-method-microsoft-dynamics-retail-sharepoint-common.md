@@ -4,7 +4,7 @@ TOCTitle: TryGetSPServiceInstance(T) Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTimerJobHelper.TryGetSPServiceInstance``1(Microsoft.SharePoint.Administration.SPServer,System.String,``0@)
 ms:mtpsurl: https://technet.microsoft.com/library/Dn717117(v=AX.60)
 ms:contentKeyID: 62205911
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

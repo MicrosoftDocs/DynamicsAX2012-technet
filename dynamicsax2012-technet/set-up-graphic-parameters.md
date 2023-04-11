@@ -4,7 +4,7 @@ TOCTitle: Set up graphic parameters
 ms:assetid: abba4893-a446-4cb1-a7ca-e3f21066ddc1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498552(v=AX.60)
 ms:contentKeyID: 36058914
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

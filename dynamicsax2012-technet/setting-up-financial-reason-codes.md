@@ -4,7 +4,7 @@ TOCTitle: Setting up financial reason codes
 ms:assetid: a9cc67ab-df45-4e1e-b910-085112f9548e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243078(v=AX.60)
 ms:contentKeyID: 36058897
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

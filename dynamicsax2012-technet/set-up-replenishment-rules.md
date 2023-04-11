@@ -4,7 +4,7 @@ TOCTitle: Set up replenishment rules
 ms:assetid: be36cde2-fc8a-4264-b3cb-0c68ac20bb19
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597225(v=AX.60)
 ms:contentKeyID: 39519298
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set Help system parameters
 ms:assetid: b13c7325-b54a-4a5c-8e31-f379e6a595c1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg866983(v=AX.60)
 ms:contentKeyID: 35256677
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 f1_keywords:

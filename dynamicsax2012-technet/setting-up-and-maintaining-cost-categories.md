@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining cost categories
 ms:assetid: 988031b5-c53d-439d-9cd9-6604ea855eb7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498439(v=AX.60)
 ms:contentKeyID: 36058680
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

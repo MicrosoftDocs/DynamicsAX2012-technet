@@ -4,7 +4,7 @@ TOCTitle: Set up the Profile page in the Vendor portal
 ms:assetid: a4a5862f-4811-4927-961b-5765d96d216d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242678(v=AX.60)
 ms:contentKeyID: 36058859
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

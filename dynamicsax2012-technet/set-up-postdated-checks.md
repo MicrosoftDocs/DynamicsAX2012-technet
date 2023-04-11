@@ -4,7 +4,7 @@ TOCTitle: Set up postdated checks
 ms:assetid: 755e7cdc-9c15-403a-b565-af8552de0778
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209238(v=AX.60)
 ms:contentKeyID: 36058169
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

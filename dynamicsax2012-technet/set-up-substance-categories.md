@@ -4,7 +4,7 @@ TOCTitle: Set up substance categories
 ms:assetid: 3c09debe-47fd-4406-a996-6c23049ce061
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242218(v=AX.60)
 ms:contentKeyID: 36056659
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

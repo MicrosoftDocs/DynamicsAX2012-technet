@@ -4,7 +4,7 @@ TOCTitle: 'Setup overview: basic budgeting and budget control'
 ms:assetid: 0c8ccfa4-c583-40b4-ac5f-c11c0112cd4a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242128(v=AX.60)
 ms:contentKeyID: 36055999
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

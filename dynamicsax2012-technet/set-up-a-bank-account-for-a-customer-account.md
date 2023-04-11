@@ -4,7 +4,7 @@ TOCTitle: Set up a bank account for a customer account
 ms:assetid: 95cdec0a-db76-4df3-ba4a-6c806e8de73a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232215(v=AX.60)
 ms:contentKeyID: 36058623
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

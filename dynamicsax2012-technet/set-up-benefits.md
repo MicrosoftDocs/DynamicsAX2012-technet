@@ -4,7 +4,7 @@ TOCTitle: Set up benefits
 ms:assetid: ec44f6f5-97f5-4b2f-be82-c6d079d4b238
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227496(v=AX.60)
 ms:contentKeyID: 36059893
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

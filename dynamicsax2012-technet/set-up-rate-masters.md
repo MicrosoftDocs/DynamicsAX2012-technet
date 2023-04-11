@@ -4,7 +4,7 @@ TOCTitle: Set up rate masters
 ms:assetid: b4285c73-d2db-444c-8fb1-f44678a46052
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553193(v=AX.60)
 ms:contentKeyID: 62200141
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

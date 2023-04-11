@@ -4,7 +4,7 @@ TOCTitle: Set up dispatch teams
 ms:assetid: 33123bdf-22f1-4805-ac25-a46a87462163
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231039(v=AX.60)
 ms:contentKeyID: 62629945
-author: Khairunj
+author: tonyafehr
 ms.date: 07/29/2014
 mtps_version: v=AX.60
 audience: Application User

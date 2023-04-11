@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining inventory batches
 ms:assetid: 016316c6-501e-4a49-bc38-d9e452eb3b3e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242094(v=AX.60)
 ms:contentKeyID: 36055921
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

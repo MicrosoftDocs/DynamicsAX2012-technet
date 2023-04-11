@@ -4,7 +4,7 @@ TOCTitle: TraceEvent Method (TraceEventCache, String, TraceEventType, Int32, Str
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTraceListener.TraceEvent(System.Diagnostics.TraceEventCache,System.String,System.Diagnostics.TraceEventType,System.Int32,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.sharepointtracelistener.traceevent(v=AX.60)
 ms:contentKeyID: 62206594
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

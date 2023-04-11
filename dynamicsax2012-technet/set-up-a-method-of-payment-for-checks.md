@@ -4,7 +4,7 @@ TOCTitle: Set up a method of payment for checks
 ms:assetid: 193c74e0-ea2e-434a-b1bc-0be2efbce875
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569914(v=AX.60)
 ms:contentKeyID: 36056110
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set a goal
 ms:assetid: 97072f31-9f61-4ce2-a509-129f77f69125
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232239(v=AX.60)
 ms:contentKeyID: 43894510
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

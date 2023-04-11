@@ -4,7 +4,7 @@ TOCTitle: Set up sales tax overrides
 ms:assetid: b6e85310-e435-4b81-af08-4cd2bf1feab6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597219(v=AX.60)
 ms:contentKeyID: 39519291
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: State quarterly wage and tax preparation report (PayrollStateWageTaxPr
 ms:assetid: 8f597826-49c4-4930-b6ff-d61f263a44de
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479040(v=AX.60)
 ms:contentKeyID: 59632408
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

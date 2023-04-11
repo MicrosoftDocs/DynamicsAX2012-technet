@@ -4,7 +4,7 @@ TOCTitle: Set up reason codes for financial modules
 ms:assetid: 8ab7ba27-88fe-4e4b-84b6-e111afec6fb5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242861(v=AX.60)
 ms:contentKeyID: 36058468
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

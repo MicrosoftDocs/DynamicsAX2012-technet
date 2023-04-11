@@ -4,7 +4,7 @@ TOCTitle: Set up exceptions for profile calendars
 ms:assetid: d01e937c-b068-4de4-9844-5ed9e12c0dc6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550998(v=AX.60)
 ms:contentKeyID: 43976727
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

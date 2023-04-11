@@ -4,7 +4,7 @@ TOCTitle: Setting up absence information
 ms:assetid: 54d674e9-1eed-4f81-8b9e-0275dceb59e0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh524752(v=AX.60)
 ms:contentKeyID: 37072053
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Specify absence information for a worker
 ms:assetid: 716fe8d7-f7a2-4add-a80a-27b6ae14e4c0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450756(v=AX.60)
 ms:contentKeyID: 36966728
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

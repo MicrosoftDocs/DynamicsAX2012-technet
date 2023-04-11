@@ -4,7 +4,7 @@ TOCTitle: Set up permissions for ordering products on behalf of someone else
 ms:assetid: 0f0a0036-7331-470c-a8b8-c92e97c709f0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242135(v=AX.60)
 ms:contentKeyID: 36056015
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

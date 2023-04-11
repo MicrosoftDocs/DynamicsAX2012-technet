@@ -4,7 +4,7 @@ TOCTitle: Set up fallback warehouses for sites
 ms:assetid: 92c33447-6d4b-4d49-8cbe-5871d82393e1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232185(v=AX.60)
 ms:contentKeyID: 44081012
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

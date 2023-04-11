@@ -4,7 +4,7 @@ TOCTitle: Set up Budgeting workflows
 ms:assetid: 062e69fc-cd63-4c59-a249-b41bef7f6d26
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242112(v=AX.60)
 ms:contentKeyID: 36055960
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up parameters to calculate invoice issue due dates
 ms:assetid: cae7bc57-e3e9-41a4-bb45-699d64f3603d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn751509(v=AX.60)
 ms:contentKeyID: 62378988
-author: Khairunj
+author: tonyafehr
 ms.date: 05/26/2014
 mtps_version: v=AX.60
 f1_keywords:

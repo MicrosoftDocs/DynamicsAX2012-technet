@@ -4,7 +4,7 @@ TOCTitle: Set up Real-time Service profiles (Retail essentials)
 ms:assetid: 7daad3c2-0d6c-418a-a9d8-f811def67a56
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736906(v=AX.60)
 ms:contentKeyID: 62200383
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining inventory dimensions
 ms:assetid: 7112e960-b5c4-437d-b3d2-39fa51ea327a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231835(v=AX.60)
 ms:contentKeyID: 39519174
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

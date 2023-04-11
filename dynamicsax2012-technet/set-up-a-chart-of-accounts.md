@@ -4,7 +4,7 @@ TOCTitle: Set up a chart of accounts
 ms:assetid: f397b95f-e662-4204-be6a-8f40792620ec
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227530(v=AX.60)
 ms:contentKeyID: 36059980
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

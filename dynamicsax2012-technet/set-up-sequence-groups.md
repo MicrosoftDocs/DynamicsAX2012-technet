@@ -4,7 +4,7 @@ TOCTitle: Set up sequence groups
 ms:assetid: 42e3a7a6-93e5-4cc2-ae9a-ba6339d8b432
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838731(v=AX.60)
 ms:contentKeyID: 50120614
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

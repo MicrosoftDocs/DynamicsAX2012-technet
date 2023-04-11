@@ -4,7 +4,7 @@ TOCTitle: Setting up financial data export
 ms:assetid: 39242572-99fc-4e82-ac62-ad229debb829
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231134(v=AX.60)
 ms:contentKeyID: 36056630
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

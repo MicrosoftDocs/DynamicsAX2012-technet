@@ -4,7 +4,7 @@ TOCTitle: Items Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.ShoppingCart.Items
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.shoppingcart.items(v=AX.60)
 ms:contentKeyID: 65318745
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

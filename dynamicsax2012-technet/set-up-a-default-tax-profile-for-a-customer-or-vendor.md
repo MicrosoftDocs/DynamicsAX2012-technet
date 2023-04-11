@@ -4,7 +4,7 @@ TOCTitle: Set up a default tax profile for a customer or vendor
 ms:assetid: 7e459c17-ceaa-4cfd-9bd1-73e9abff65e9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571535(v=AX.60)
 ms:contentKeyID: 37822148
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

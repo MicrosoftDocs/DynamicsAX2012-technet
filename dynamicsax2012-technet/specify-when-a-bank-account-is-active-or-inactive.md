@@ -4,7 +4,7 @@ TOCTitle: Specify when a bank account is active or inactive
 ms:assetid: 13009da8-c44c-4c9c-9e5f-cada126b1ea7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242142(v=AX.60)
 ms:contentKeyID: 36056043
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

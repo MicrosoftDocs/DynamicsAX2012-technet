@@ -4,7 +4,7 @@ TOCTitle: Set up a sales tax settlement period
 ms:assetid: 535eec81-d317-4903-ab65-6ec7b28fcb5e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548925(v=AX.60)
 ms:contentKeyID: 36057296
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Services Overview
 ms:assetid: 29a419a4-e921-4379-b199-84238856839e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ916617(v=AX.60)
 ms:contentKeyID: 50934007
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

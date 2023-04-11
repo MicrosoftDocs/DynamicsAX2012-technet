@@ -4,7 +4,7 @@ TOCTitle: Set up units and unit conversions (Retail essentials)
 ms:assetid: ee3b5eba-7b77-4d45-9523-731e21b696ac
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736971(v=AX.60)
 ms:contentKeyID: 62200448
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

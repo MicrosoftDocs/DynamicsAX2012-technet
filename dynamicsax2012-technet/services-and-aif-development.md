@@ -4,7 +4,7 @@ TOCTitle: Services and AIF development
 ms:assetid: 43cbe721-b4b7-4f5c-baa2-39efe13f2208
 ms:mtpsurl: https://technet.microsoft.com/library/Hh397321(v=AX.60)
 ms:contentKeyID: 36929812
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Set up number sequences
 ms:assetid: 0c81818d-6d5b-4bba-8d66-28442f9fd023
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242127(v=AX.60)
 ms:contentKeyID: 36055998
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

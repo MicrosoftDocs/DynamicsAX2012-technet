@@ -4,7 +4,7 @@ TOCTitle: Set up a payment calendar and payment calendar rules
 ms:assetid: 0bdd2f18-f71b-41d7-bfac-c2b854cdb709
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677322(v=AX.60)
 ms:contentKeyID: 49384095
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up Human resources workflows
 ms:assetid: 177a7979-752a-4ff6-b0ef-9a1ea5324e1d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876703(v=AX.60)
 ms:contentKeyID: 63385346
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 audience: Application User

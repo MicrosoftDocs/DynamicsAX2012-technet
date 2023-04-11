@@ -4,7 +4,7 @@ TOCTitle: Set up aging period definitions
 ms:assetid: 990bf1fb-d845-45c6-b9bf-377fab250ca6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209419(v=AX.60)
 ms:contentKeyID: 36058685
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

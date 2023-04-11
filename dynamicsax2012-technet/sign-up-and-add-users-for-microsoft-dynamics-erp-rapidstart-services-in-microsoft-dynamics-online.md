@@ -4,7 +4,7 @@ TOCTitle: Sign up and add users for Microsoft Dynamics ERP RapidStart Services i
 ms:assetid: 35388bdf-754a-4649-90c9-70f602bdfa6e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn193990(v=AX.60)
 ms:contentKeyID: 52348244
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

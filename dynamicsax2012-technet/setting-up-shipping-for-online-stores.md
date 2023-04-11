@@ -4,7 +4,7 @@ TOCTitle: Setting up shipping for online stores
 ms:assetid: 9a75c0c1-a6f1-4d59-b555-1ed5e12bbb2f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728700(v=AX.60)
 ms:contentKeyID: 49556605
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

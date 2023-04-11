@@ -4,7 +4,7 @@ TOCTitle: Set up interest rates for an interest code
 ms:assetid: cbdda5aa-6baf-43fe-b08d-9030a2c42dd1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213664(v=AX.60)
 ms:contentKeyID: 36059345
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

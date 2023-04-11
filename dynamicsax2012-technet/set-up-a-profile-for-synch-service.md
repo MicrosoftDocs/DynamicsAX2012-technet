@@ -4,7 +4,7 @@ TOCTitle: Set up a profile for Synch Service
 ms:assetid: 2ac188f0-d94c-4852-aea3-27e89eddce63
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677387(v=AX.60)
 ms:contentKeyID: 49384167
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

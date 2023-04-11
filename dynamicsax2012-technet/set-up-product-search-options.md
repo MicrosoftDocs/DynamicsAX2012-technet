@@ -4,7 +4,7 @@ TOCTitle: Set up product search options
 ms:assetid: c61118c1-e2c0-4dbd-a3d3-f2da7e031364
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497825(v=AX.60)
 ms:contentKeyID: 62200155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

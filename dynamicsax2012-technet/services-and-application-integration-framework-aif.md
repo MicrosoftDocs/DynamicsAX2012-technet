@@ -4,7 +4,7 @@ TOCTitle: Services and Application Integration Framework (AIF)
 ms:assetid: 5e350529-8fca-4faa-b820-4db3348233b0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731810(v=AX.60)
 ms:contentKeyID: 35132656
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

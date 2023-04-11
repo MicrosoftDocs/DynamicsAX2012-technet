@@ -4,7 +4,7 @@ TOCTitle: Set up sizes, colors, and styles
 ms:assetid: 7e5c247a-2891-471e-8763-871db7eadebb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597145(v=AX.60)
 ms:contentKeyID: 39519201
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

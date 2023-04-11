@@ -4,7 +4,7 @@ TOCTitle: SetCartIdInPersistenceStorage Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceUtilityBase.SetCartIdInPersistenceStorage(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.SessionType,Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.CartType,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.serviceutilitybase.setcartidinpersistencestorage(v=AX.60)
 ms:contentKeyID: 65318166
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up a retail hierarchy (Retail essentials)
 ms:assetid: 3960030d-6a17-463f-bd67-2ba139e79fce
 ms:mtpsurl: https://technet.microsoft.com/library/Dn859559(v=AX.60)
 ms:contentKeyID: 63820133
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

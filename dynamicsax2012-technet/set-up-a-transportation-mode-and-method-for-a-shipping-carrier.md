@@ -4,7 +4,7 @@ TOCTitle: Set up a transportation mode and method for a shipping carrier
 ms:assetid: 3da6501e-c40f-4253-951a-932e6f3526de
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553160(v=AX.60)
 ms:contentKeyID: 62200057
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

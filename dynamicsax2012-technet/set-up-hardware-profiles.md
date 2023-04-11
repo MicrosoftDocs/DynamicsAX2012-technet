@@ -4,7 +4,7 @@ TOCTitle: Set up hardware profiles
 ms:assetid: b635525a-0fde-477f-a122-a6a149038f67
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597217(v=AX.60)
 ms:contentKeyID: 39519289
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

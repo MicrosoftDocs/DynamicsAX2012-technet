@@ -4,7 +4,7 @@ TOCTitle: Set up master plans to include requisitions
 ms:assetid: 749bfc46-86d6-488d-a46d-fc2743933314
 ms:mtpsurl: https://technet.microsoft.com/library/JJ683228(v=AX.60)
 ms:contentKeyID: 49684851
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

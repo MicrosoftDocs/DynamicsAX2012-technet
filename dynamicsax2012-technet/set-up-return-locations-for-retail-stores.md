@@ -4,7 +4,7 @@ TOCTitle: Set up return locations for retail stores
 ms:assetid: 7d718787-8ed7-4d22-9af1-68511a1b413b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720765(v=AX.60)
 ms:contentKeyID: 62231563
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up a procurement catalog policy rule
 ms:assetid: d00cc5a8-1aad-4e06-95e4-71f1be38b548
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242915(v=AX.60)
 ms:contentKeyID: 36059483
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

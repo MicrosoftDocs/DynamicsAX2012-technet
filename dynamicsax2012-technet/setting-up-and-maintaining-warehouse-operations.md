@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining warehouse operations
 ms:assetid: 913230d0-4b10-404c-a137-12aed904945f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242906(v=AX.60)
 ms:contentKeyID: 36058560
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

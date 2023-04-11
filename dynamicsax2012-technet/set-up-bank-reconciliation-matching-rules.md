@@ -4,7 +4,7 @@ TOCTitle: Set up bank reconciliation matching rules
 ms:assetid: ebaf0bb3-0e99-4138-846a-872469aa093a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ729761(v=AX.60)
 ms:contentKeyID: 49564927
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

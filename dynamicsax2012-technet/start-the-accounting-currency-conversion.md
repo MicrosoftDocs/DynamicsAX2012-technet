@@ -4,7 +4,7 @@ TOCTitle: Start the accounting currency conversion
 ms:assetid: f1900cba-da47-462d-aba1-61ac8cec215f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551602(v=AX.60)
 ms:contentKeyID: 36059950
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

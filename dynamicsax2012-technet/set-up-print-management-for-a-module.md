@@ -4,7 +4,7 @@ TOCTitle: Set up print management for a module
 ms:assetid: 4522e64a-8235-4a6b-bb1b-30d9ed6e035b
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309660(v=AX.60)
 ms:contentKeyID: 36056890
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

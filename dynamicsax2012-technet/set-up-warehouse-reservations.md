@@ -4,7 +4,7 @@ TOCTitle: Set up warehouse reservations
 ms:assetid: 474b8331-348a-4d9c-8a40-123adbd9a1b8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496994(v=AX.60)
 ms:contentKeyID: 36056908
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

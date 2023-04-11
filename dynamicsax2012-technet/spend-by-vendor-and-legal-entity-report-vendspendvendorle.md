@@ -4,7 +4,7 @@ TOCTitle: Spend by vendor and legal entity report (VendSpendVendorLE)
 ms:assetid: f8b40d08-0be7-4bfd-afd4-1a9be7acf0d2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433526(v=AX.60)
 ms:contentKeyID: 36941312
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

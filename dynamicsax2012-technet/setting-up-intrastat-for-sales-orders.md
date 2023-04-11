@@ -4,7 +4,7 @@ TOCTitle: Setting up Intrastat for sales orders
 ms:assetid: b67e6faf-d6c4-4245-84c6-470ec2d53f16
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550487(v=AX.60)
 ms:contentKeyID: 36059094
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

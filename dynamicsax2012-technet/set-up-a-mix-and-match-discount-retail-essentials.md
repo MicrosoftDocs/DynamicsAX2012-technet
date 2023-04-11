@@ -4,7 +4,7 @@ TOCTitle: Set up a mix-and-match discount (Retail essentials)
 ms:assetid: 87ada9dc-3411-4566-aea3-e78a27471cbd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736912(v=AX.60)
 ms:contentKeyID: 62200389
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

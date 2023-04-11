@@ -4,7 +4,7 @@ TOCTitle: Set up return reason codes
 ms:assetid: 890e1fd1-6442-4a80-aedf-1f6e6608b619
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242855(v=AX.60)
 ms:contentKeyID: 36058458
-author: Khairunj
+author: tonyafehr
 ms.date: 09/12/2014
 mtps_version: v=AX.60
 f1_keywords:

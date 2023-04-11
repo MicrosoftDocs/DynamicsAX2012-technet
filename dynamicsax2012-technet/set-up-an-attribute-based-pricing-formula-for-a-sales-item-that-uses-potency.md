@@ -4,7 +4,7 @@ TOCTitle: Set up an attribute-based pricing formula for a sales item that uses p
 ms:assetid: ee19405e-c09e-4e24-9f90-3a33f941f20d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527700(v=AX.60)
 ms:contentKeyID: 59626233
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

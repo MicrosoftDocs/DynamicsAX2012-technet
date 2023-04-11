@@ -4,7 +4,7 @@ TOCTitle: Set up depreciation profiles
 ms:assetid: e6c35e67-b127-4f23-a3d7-89dc8e9114a4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573188(v=AX.60)
 ms:contentKeyID: 36059808
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

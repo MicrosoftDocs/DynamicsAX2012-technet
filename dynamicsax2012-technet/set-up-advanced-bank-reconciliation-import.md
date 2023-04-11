@@ -4,7 +4,7 @@ TOCTitle: Set up advanced bank reconciliation import
 ms:assetid: 1950939d-c357-45c0-8b31-b02f6f4310bd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ729751(v=AX.60)
 ms:contentKeyID: 49564917
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

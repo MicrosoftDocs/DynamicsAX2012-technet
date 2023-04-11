@@ -4,7 +4,7 @@ TOCTitle: Set up threshold discounts (Retail essentials)
 ms:assetid: 42deb655-9070-43ad-a259-38e8890f61f9
 ms:mtpsurl: https://technet.microsoft.com/library/Dn859562(v=AX.60)
 ms:contentKeyID: 63820136
-author: Khairunj
+author: tonyafehr
 ms.date: 01/14/2015
 mtps_version: v=AX.60
 ---

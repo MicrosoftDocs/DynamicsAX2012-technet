@@ -4,7 +4,7 @@ TOCTitle: Write Method (String)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTraceListener.Write(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.sharepointtracelistener.write(v=AX.60)
 ms:contentKeyID: 62207600
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

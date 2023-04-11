@@ -4,7 +4,7 @@ TOCTitle: Services and AIF security and protection
 ms:assetid: 7c260e28-29d4-40e4-840d-883be22fc02b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433509(v=AX.60)
 ms:contentKeyID: 36941287
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

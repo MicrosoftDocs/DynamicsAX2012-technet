@@ -4,7 +4,7 @@ TOCTitle: ShoppingCartColumn Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ShoppingCartColumn.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.shoppingcartcolumn.shoppingcartcolumn(v=AX.60)
 ms:contentKeyID: 62207336
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

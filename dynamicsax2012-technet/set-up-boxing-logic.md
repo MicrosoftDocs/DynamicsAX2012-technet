@@ -4,7 +4,7 @@ TOCTitle: Set up boxing logic
 ms:assetid: 93bd146a-50ba-423c-adae-d39436197216
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715973(v=AX.60)
 ms:contentKeyID: 62200120
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

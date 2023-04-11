@@ -4,7 +4,7 @@ TOCTitle: Set up financial journal approvals
 ms:assetid: 02c774ac-db76-4709-98a4-c1a14db1948a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230652(v=AX.60)
 ms:contentKeyID: 36055934
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

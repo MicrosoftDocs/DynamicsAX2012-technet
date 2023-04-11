@@ -4,7 +4,7 @@ TOCTitle: Set up loyalty payment methods
 ms:assetid: 27508649-aeeb-4256-bd49-0abec320918f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580590(v=AX.60)
 ms:contentKeyID: 39519073
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

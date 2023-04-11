@@ -4,7 +4,7 @@ TOCTitle: Set up positive pay
 ms:assetid: c01ab305-6666-4857-8ee0-622a6c538d5d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn269119(v=AX.60)
 ms:contentKeyID: 54920071
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

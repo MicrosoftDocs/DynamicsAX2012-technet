@@ -4,7 +4,7 @@ TOCTitle: Set up replenishment rules (Retail essentials)
 ms:assetid: 4836c22e-741c-4284-badd-1e41f53bc498
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716085(v=AX.60)
 ms:contentKeyID: 62200348
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

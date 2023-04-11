@@ -4,7 +4,7 @@ TOCTitle: Set up rules for fraud alerts
 ms:assetid: f5fda8c6-8c6a-4da6-9b8f-1b7df9b4e625
 ms:mtpsurl: https://technet.microsoft.com/library/Dn631663(v=AX.60)
 ms:contentKeyID: 62381662
-author: Khairunj
+author: tonyafehr
 ms.date: 05/28/2014
 mtps_version: v=AX.60
 audience: Application User

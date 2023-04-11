@@ -4,7 +4,7 @@ TOCTitle: Setup parameters reference
 ms:assetid: 474f9d72-e1e5-433a-840e-d9eb00753e94
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548130(v=AX.60)
 ms:contentKeyID: 35132720
-author: Khairunj
+author: tonyafehr
 ms.date: 04/14/2015
 mtps_version: v=AX.60
 ---

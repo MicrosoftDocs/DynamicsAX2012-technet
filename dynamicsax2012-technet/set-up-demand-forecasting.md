@@ -4,7 +4,7 @@ TOCTitle: Set up demand forecasting
 ms:assetid: 7d928df8-d612-4d63-9949-0abf7956109a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497793(v=AX.60)
 ms:contentKeyID: 62200105
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

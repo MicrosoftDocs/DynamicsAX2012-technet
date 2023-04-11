@@ -4,7 +4,7 @@ TOCTitle: Set up a retail vendor hierarchy
 ms:assetid: 742c505e-6f8e-419e-8f63-dbe822bb05a3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597128(v=AX.60)
 ms:contentKeyID: 39519182
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

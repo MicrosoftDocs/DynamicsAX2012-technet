@@ -4,7 +4,7 @@ TOCTitle: Spend by procurement category and vendor diversity classification repo
 ms:assetid: b48f29eb-a89f-4462-a2d6-f80ae3b6a05b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500173(v=AX.60)
 ms:contentKeyID: 37820229
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

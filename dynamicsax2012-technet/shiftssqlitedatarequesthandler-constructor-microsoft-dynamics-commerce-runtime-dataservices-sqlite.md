@@ -4,7 +4,7 @@ TOCTitle: ShiftsSqliteDataRequestHandler Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.ShiftsSqliteDataRequestHandler.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.shiftssqlitedatarequesthandler.shiftssqlitedatarequesthandler(v=AX.60)
 ms:contentKeyID: 65315827
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

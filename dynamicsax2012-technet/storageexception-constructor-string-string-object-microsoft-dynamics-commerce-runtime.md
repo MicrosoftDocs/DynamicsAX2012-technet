@@ -4,7 +4,7 @@ TOCTitle: StorageException Constructor (String, String, Object )
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.StorageException.#ctor(System.String,System.String,System.Object[])
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.storageexception.storageexception(v=AX.60)
 ms:contentKeyID: 49856760
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

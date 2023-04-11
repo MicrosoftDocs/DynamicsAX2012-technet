@@ -4,7 +4,7 @@ TOCTitle: Stop a postdated check payment
 ms:assetid: 056ee5b4-22d2-490f-bfcf-4c90e549a97c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242108(v=AX.60)
 ms:contentKeyID: 36055953
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

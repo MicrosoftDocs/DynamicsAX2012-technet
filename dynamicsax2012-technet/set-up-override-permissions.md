@@ -4,7 +4,7 @@ TOCTitle: Set up override permissions
 ms:assetid: 263c7700-0b0f-4aa0-ba1b-fb3ed17e61f3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497732(v=AX.60)
 ms:contentKeyID: 62221421
-author: Khairunj
+author: tonyafehr
 ms.date: 07/24/2015
 mtps_version: v=AX.60
 f1_keywords:

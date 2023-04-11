@@ -4,7 +4,7 @@ TOCTitle: Set up items and services for not stocked trade
 ms:assetid: 64549ce7-0333-4090-a1e6-fa17755e0fbe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh803002(v=AX.60)
 ms:contentKeyID: 44080986
-author: Khairunj
+author: tonyafehr
 ms.date: 04/24/2017
 mtps_version: v=AX.60
 audience: Application User

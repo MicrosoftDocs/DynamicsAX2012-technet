@@ -4,7 +4,7 @@ TOCTitle: Set up position budgeting
 ms:assetid: a73e1b33-7076-47a6-b311-dcc7313a68fa
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527699(v=AX.60)
 ms:contentKeyID: 59626232
-author: Khairunj
+author: tonyafehr
 ms.date: 03/06/2015
 mtps_version: v=AX.60
 f1_keywords:

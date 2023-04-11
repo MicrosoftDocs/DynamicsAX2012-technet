@@ -4,7 +4,7 @@ TOCTitle: Set up connection profiles (Retail essentials)
 ms:assetid: 4078f3ac-9573-4032-b27f-c0f479eece89
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716077(v=AX.60)
 ms:contentKeyID: 62200340
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

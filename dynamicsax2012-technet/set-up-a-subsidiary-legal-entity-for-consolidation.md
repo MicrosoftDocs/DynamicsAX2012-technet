@@ -4,7 +4,7 @@ TOCTitle: Set up a subsidiary legal entity for consolidation
 ms:assetid: eb52ea60-8e12-4fbf-a875-b68702fe2103
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551502(v=AX.60)
 ms:contentKeyID: 42518598
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

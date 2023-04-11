@@ -4,7 +4,7 @@ TOCTitle: Setting up audit policies
 ms:assetid: e3edfb05-2b0a-40e9-805f-52ecffc8e663
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227430(v=AX.60)
 ms:contentKeyID: 36059728
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

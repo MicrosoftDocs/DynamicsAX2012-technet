@@ -4,7 +4,7 @@ TOCTitle: Setting up general Human resources information
 ms:assetid: 7c5d50d5-1d41-4f0b-a0ac-64b377971def
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213131(v=AX.60)
 ms:contentKeyID: 36058263
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

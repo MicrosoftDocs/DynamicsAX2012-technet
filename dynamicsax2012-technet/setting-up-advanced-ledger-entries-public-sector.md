@@ -4,7 +4,7 @@ TOCTitle: Setting up advanced ledger entries (Public sector)
 ms:assetid: a60f1b18-64cd-4a95-9b2b-6ee3390a7232
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208566(v=AX.60)
 ms:contentKeyID: 36056340
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

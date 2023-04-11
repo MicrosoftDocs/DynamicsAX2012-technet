@@ -4,7 +4,7 @@ TOCTitle: Set up value models
 ms:assetid: 436a5ae0-c108-4f9b-b5df-c144608bbc1e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496964(v=AX.60)
 ms:contentKeyID: 36676384
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

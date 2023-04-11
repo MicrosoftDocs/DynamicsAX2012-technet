@@ -4,7 +4,7 @@ TOCTitle: ShiftAccountLine Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ShiftAccountLine.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.shiftaccountline.shiftaccountline(v=AX.60)
 ms:contentKeyID: 62206525
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

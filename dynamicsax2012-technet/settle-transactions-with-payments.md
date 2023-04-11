@@ -4,7 +4,7 @@ TOCTitle: Settle transactions with payments
 ms:assetid: b01e2c2a-c970-4491-9d8e-8e5adfa73d34
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498639(v=AX.60)
 ms:contentKeyID: 36058959
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

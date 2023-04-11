@@ -4,7 +4,7 @@ TOCTitle: Set up a packed item to bulk item conversion factor
 ms:assetid: 5e3ebd06-4922-4090-ae4e-a53589b8d09d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352207(v=AX.60)
 ms:contentKeyID: 36687841
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

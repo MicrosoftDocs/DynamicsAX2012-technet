@@ -4,7 +4,7 @@ TOCTitle: GetCheckoutCartIdFromPersistenceStorage Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.ServiceUtilityBase.GetCheckoutCartIdFromPersistenceStorage(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.SessionType)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.serviceutilitybase.getcheckoutcartidfrompersistencestorage(v=AX.60)
 ms:contentKeyID: 65318108
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

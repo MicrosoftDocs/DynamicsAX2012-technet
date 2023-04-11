@@ -4,7 +4,7 @@ TOCTitle: Set up receipt formats
 ms:assetid: 28b7d91d-efe5-4c3a-83ec-56ba365117c3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580594(v=AX.60)
 ms:contentKeyID: 39519078
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

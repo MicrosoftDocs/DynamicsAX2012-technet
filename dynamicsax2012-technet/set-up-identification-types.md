@@ -4,7 +4,7 @@ TOCTitle: Set up identification types
 ms:assetid: 4816e4a7-1e92-4194-b4b5-72d1150ba43f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242397(v=AX.60)
 ms:contentKeyID: 36056921
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

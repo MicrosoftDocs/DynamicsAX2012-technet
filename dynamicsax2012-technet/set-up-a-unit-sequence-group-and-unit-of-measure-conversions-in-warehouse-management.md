@@ -4,7 +4,7 @@ TOCTitle: Set up a unit sequence group and unit of measure conversions in Wareho
 ms:assetid: ae12b249-8eb6-48bd-acd6-193d8cd43f5d
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553191(v=AX.60)
 ms:contentKeyID: 62200137
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

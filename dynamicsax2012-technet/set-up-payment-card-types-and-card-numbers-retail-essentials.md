@@ -4,7 +4,7 @@ TOCTitle: Set up payment card types and card numbers (Retail essentials)
 ms:assetid: 368d3684-0659-40ec-b556-2c5eb3fb6c64
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716072(v=AX.60)
 ms:contentKeyID: 62200338
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 ---

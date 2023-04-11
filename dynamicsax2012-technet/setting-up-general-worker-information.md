@@ -4,7 +4,7 @@ TOCTitle: Setting up general worker information
 ms:assetid: 6a9f326e-2ae5-4e6e-9aa8-bc2160b73409
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231778(v=AX.60)
 ms:contentKeyID: 36676390
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up buttons
 ms:assetid: 10010c45-370c-4ed4-99b0-365265018aae
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580570(v=AX.60)
 ms:contentKeyID: 39519048
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining shipments
 ms:assetid: e5fb5643-0e18-4b48-8b10-1609604d0abd
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243227(v=AX.60)
 ms:contentKeyID: 36059796
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

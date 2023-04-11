@@ -4,7 +4,7 @@ TOCTitle: Set up Enterprise Portal profiles and users
 ms:assetid: 0d8bb623-1d1f-4de1-9ca2-065d4a95a4f4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580566(v=AX.60)
 ms:contentKeyID: 39519044
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

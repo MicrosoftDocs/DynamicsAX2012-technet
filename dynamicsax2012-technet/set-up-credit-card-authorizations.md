@@ -4,7 +4,7 @@ TOCTitle: Set up credit card authorizations
 ms:assetid: fc467642-c6b1-47eb-8c4f-3db106e58046
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243306(v=AX.60)
 ms:contentKeyID: 36060090
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

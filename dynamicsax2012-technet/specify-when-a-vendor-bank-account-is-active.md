@@ -4,7 +4,7 @@ TOCTitle: Specify when a vendor bank account is active
 ms:assetid: a4c10c96-7345-402c-869c-f12bcd7b5d33
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213411(v=AX.60)
 ms:contentKeyID: 36058862
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

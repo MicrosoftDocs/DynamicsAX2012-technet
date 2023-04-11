@@ -4,7 +4,7 @@ TOCTitle: Set up mobile device user accounts for workers
 ms:assetid: 9e3d85c0-cda2-4b65-a360-132e88312c9e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553186(v=AX.60)
 ms:contentKeyID: 62200123
-author: Khairunj
+author: tonyafehr
 ms.date: 01/08/2016
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Setting up Retail POS
 ms:assetid: cc3960c3-c226-40ce-a484-0119bcb2cfd4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597244(v=AX.60)
 ms:contentKeyID: 39519322
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

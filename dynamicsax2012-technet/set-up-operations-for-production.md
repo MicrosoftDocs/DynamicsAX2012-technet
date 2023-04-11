@@ -4,7 +4,7 @@ TOCTitle: Set up operations for production
 ms:assetid: cca9d996-f6b0-443b-8d1a-def42ef66723
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572676(v=AX.60)
 ms:contentKeyID: 37832534
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

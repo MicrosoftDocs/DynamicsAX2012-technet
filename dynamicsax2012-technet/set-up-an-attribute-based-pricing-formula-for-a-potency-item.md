@@ -4,7 +4,7 @@ TOCTitle: Set up an attribute-based pricing formula for a potency item
 ms:assetid: b409f4ff-b29e-45a3-be5f-0b7345e8a63f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ838747(v=AX.60)
 ms:contentKeyID: 50120630
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

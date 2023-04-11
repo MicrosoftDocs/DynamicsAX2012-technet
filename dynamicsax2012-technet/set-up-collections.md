@@ -4,7 +4,7 @@ TOCTitle: Set up collections
 ms:assetid: c3c9dcda-9cca-4a80-bab2-032615dbc36e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242837(v=AX.60)
 ms:contentKeyID: 36059289
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up automatic sales tax group assignments
 ms:assetid: c42be51c-6781-4145-8417-b10f1c19b879
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497824(v=AX.60)
 ms:contentKeyID: 62200153
-author: Khairunj
+author: tonyafehr
 ms.date: 06/10/2014
 mtps_version: v=AX.60
 f1_keywords:

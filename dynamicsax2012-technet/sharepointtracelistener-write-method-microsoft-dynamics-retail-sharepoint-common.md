@@ -4,7 +4,7 @@ TOCTitle: Write Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.SharePoint.Common.SharePointTraceListener.Write
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.sharepointtracelistener.write(v=AX.60)
 ms:contentKeyID: 62204423
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Set up and configure refiners
 ms:assetid: f1a86608-4949-4a3b-8e0a-e373030f8f43
 ms:mtpsurl: https://technet.microsoft.com/library/Dn458951(v=AX.60)
 ms:contentKeyID: 59326703
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

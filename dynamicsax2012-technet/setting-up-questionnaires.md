@@ -4,7 +4,7 @@ TOCTitle: Setting up questionnaires
 ms:assetid: 7bbd14a2-9aa1-4ef6-b83e-748179f3b45f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597137(v=AX.60)
 ms:contentKeyID: 39519191
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

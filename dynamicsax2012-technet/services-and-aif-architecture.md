@@ -4,7 +4,7 @@ TOCTitle: Services and AIF architecture
 ms:assetid: 6ae086a5-f525-451b-8cd8-5322aebfdc23
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309705(v=AX.60)
 ms:contentKeyID: 35132672
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

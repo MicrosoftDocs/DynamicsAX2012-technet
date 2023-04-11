@@ -4,7 +4,7 @@ TOCTitle: Set up and maintain your product catalogs
 ms:assetid: 1cf67f85-f80f-4041-85c1-b1330a44fb04
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271468(v=AX.60)
 ms:contentKeyID: 36384100
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

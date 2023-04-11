@@ -4,7 +4,7 @@ TOCTitle: ShoppingCartCollectionResponse Class
 ms:assetid: T:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.ShoppingCartCollectionResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.shoppingcartcollectionresponse(v=AX.60)
 ms:contentKeyID: 62205677
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

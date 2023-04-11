@@ -4,7 +4,7 @@ TOCTitle: ShoppingCartColumn Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.ShoppingCartColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.shoppingcartcolumn_methods(v=AX.60)
 ms:contentKeyID: 62206485
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

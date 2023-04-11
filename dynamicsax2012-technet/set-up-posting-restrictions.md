@@ -4,7 +4,7 @@ TOCTitle: Set up posting restrictions
 ms:assetid: e81ad5df-2a29-4278-988d-b07dfa24312e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243236(v=AX.60)
 ms:contentKeyID: 36059826
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

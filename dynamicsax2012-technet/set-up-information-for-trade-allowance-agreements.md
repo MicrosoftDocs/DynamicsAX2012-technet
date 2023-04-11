@@ -4,7 +4,7 @@ TOCTitle: Set up information for trade allowance agreements
 ms:assetid: dcaf3d9a-1dc1-4f60-9645-99414f898b75
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497837(v=AX.60)
 ms:contentKeyID: 62395573
-author: Khairunj
+author: tonyafehr
 ms.date: 05/30/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Description Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.StorefrontListItem.Description
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.storefrontlistitem.description(v=AX.60)
 ms:contentKeyID: 65316022
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

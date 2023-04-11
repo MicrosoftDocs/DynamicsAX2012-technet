@@ -4,7 +4,7 @@ TOCTitle: Set up keyboard mapping and mapping groups (Retail essentials)
 ms:assetid: 1282a565-7b4b-4059-b15b-f3925ac3512f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716046(v=AX.60)
 ms:contentKeyID: 62200310
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

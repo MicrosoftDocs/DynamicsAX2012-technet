@@ -4,7 +4,7 @@ TOCTitle: Set up price groups (Retail essentials)
 ms:assetid: 160ce9d4-b625-427f-94ea-c04a363f3af2
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716050(v=AX.60)
 ms:contentKeyID: 62200314
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining Cash and bank management
 ms:assetid: e9724105-3832-47bc-8f39-829316b86c6f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243241(v=AX.60)
 ms:contentKeyID: 36059844
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up a sales tax authority as a vendor
 ms:assetid: f061cfdc-8a10-4e72-b1f4-cba75f1b8a39
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551581(v=AX.60)
 ms:contentKeyID: 36059923
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set category-based prices
 ms:assetid: 1ceb6ed5-251e-4f8b-9eed-ff4bf2e070bd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497726(v=AX.60)
 ms:contentKeyID: 62200040
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

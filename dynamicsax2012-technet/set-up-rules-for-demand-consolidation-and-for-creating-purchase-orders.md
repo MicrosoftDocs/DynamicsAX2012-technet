@@ -4,7 +4,7 @@ TOCTitle: Set up rules for demand consolidation and for creating purchase orders
 ms:assetid: 94707a11-df77-4de6-898c-529634109b1c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209386(v=AX.60)
 ms:contentKeyID: 36058599
-author: Khairunj
+author: tonyafehr
 ms.date: 04/27/2016
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up and assign functionality profiles
 ms:assetid: f49978f8-42da-4298-aeba-3ee8cb522840
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597281(v=AX.60)
 ms:contentKeyID: 39519365
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

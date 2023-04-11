@@ -4,7 +4,7 @@ TOCTitle: Set up asset depreciation books
 ms:assetid: ac87124b-d1ea-4a05-81e3-5c88735e4bfb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498561(v=AX.60)
 ms:contentKeyID: 36058917
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

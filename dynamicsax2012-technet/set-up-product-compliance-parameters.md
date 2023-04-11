@@ -4,7 +4,7 @@ TOCTitle: Set up product compliance parameters
 ms:assetid: 76b5f756-d691-4fc0-9695-23c0953ecbeb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352212(v=AX.60)
 ms:contentKeyID: 36687847
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

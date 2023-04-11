@@ -4,7 +4,7 @@ TOCTitle: Set up policies for category hierarchies
 ms:assetid: 2afa5f99-c3fe-435a-a9fe-99f78f1f2612
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208504(v=AX.60)
 ms:contentKeyID: 36056242
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

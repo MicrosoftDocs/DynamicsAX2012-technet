@@ -4,7 +4,7 @@ TOCTitle: Set up a retail store (Retail essentials)
 ms:assetid: afcfe929-f933-41a9-b79f-5bffb5adaaec
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736935(v=AX.60)
 ms:contentKeyID: 62200412
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 f1_keywords:

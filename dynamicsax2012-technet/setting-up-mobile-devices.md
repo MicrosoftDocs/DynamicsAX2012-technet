@@ -4,7 +4,7 @@ TOCTitle: Setting up mobile devices
 ms:assetid: 39c9afe8-4198-4564-9e84-d8a37b01917e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553159(v=AX.60)
 ms:contentKeyID: 62200055
-author: Khairunj
+author: tonyafehr
 ms.date: 04/23/2014
 mtps_version: v=AX.60
 audience: Application User

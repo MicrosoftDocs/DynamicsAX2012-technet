@@ -4,7 +4,7 @@ TOCTitle: 'Setting up payroll: Basic topics'
 ms:assetid: c6e4e88a-6f34-4853-aecc-b2d3b4ed6dee
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677361(v=AX.60)
 ms:contentKeyID: 49384136
-author: Khairunj
+author: tonyafehr
 ms.date: 12/12/2014
 mtps_version: v=AX.60
 f1_keywords:

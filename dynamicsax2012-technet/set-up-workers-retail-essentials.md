@@ -4,7 +4,7 @@ TOCTitle: Set up workers (Retail essentials)
 ms:assetid: 791a7d96-8406-4214-a1d5-5e0bcf478da4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736902(v=AX.60)
 ms:contentKeyID: 62200379
-author: Khairunj
+author: tonyafehr
 ms.date: 11/13/2014
 mtps_version: v=AX.60
 f1_keywords:

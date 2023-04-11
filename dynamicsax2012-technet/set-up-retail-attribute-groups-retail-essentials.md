@@ -4,7 +4,7 @@ TOCTitle: Set up retail attribute groups (Retail essentials)
 ms:assetid: 05921c5f-60e0-479a-8298-805302a4010a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876581(v=AX.60)
 ms:contentKeyID: 63378998
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

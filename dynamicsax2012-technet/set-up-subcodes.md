@@ -4,7 +4,7 @@ TOCTitle: Set up subcodes
 ms:assetid: 75cac481-bf0f-4032-a6e2-1492b46f90ba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597130(v=AX.60)
 ms:contentKeyID: 39519184
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Set up main account categories
 ms:assetid: cbcc15d1-bf00-4322-b94c-85abef2ae4c9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213663(v=AX.60)
 ms:contentKeyID: 36059344
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

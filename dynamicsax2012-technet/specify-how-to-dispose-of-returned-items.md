@@ -4,7 +4,7 @@ TOCTitle: Specify how to dispose of returned items
 ms:assetid: 9c494e29-24b2-46b5-a50b-6487c8887f6e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213368(v=AX.60)
 ms:contentKeyID: 36058728
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

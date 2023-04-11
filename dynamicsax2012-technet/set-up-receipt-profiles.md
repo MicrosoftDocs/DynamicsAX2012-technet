@@ -4,7 +4,7 @@ TOCTitle: Set up receipt profiles
 ms:assetid: a34cedab-c208-4081-974d-f001b36dddf5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597197(v=AX.60)
 ms:contentKeyID: 39519266
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Setting up and maintaining bills of materials
 ms:assetid: 4aef04f7-1977-4cf7-a4aa-c3c11529159a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231411(v=AX.60)
 ms:contentKeyID: 36056976
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

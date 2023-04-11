@@ -4,7 +4,7 @@ TOCTitle: Set up billing rules for project contracts
 ms:assetid: ea36ddc5-14e7-4e3a-8055-47fb04aa1394
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497845(v=AX.60)
 ms:contentKeyID: 62200179
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Size of company accounts report (SysCompanySize)
 ms:assetid: 5669426d-8ef7-4083-adeb-161e8e026dc8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412246(v=AX.60)
 ms:contentKeyID: 36916356
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
