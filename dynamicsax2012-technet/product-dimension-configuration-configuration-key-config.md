@@ -4,7 +4,7 @@ TOCTitle: Product dimension - configuration configuration key (Config)
 ms:assetid: d3af0fe8-2b94-4989-9214-5f9078e41303
 ms:mtpsurl: https://technet.microsoft.com/library/Aa619481(v=AX.60)
 ms:contentKeyID: 36993556
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

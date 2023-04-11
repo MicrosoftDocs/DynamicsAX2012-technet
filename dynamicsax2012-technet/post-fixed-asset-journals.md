@@ -4,7 +4,7 @@ TOCTitle: Post fixed asset journals
 ms:assetid: 900944e4-0335-4af6-97aa-a01b392002bc
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498367(v=AX.60)
 ms:contentKeyID: 36058526
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

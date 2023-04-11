@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up VAT types
 ms:assetid: 47a494be-383b-492c-9603-eca4b1a130bc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678188(v=AX.60)
 ms:contentKeyID: 49386911
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

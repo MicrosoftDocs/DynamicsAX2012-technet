@@ -4,7 +4,7 @@ TOCTitle: Created(TEntity) Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.PurchaseOrdersController.Created``1
 ms:mtpsurl: https://technet.microsoft.com/library/Dn738148(v=AX.60)
 ms:contentKeyID: 62203352
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

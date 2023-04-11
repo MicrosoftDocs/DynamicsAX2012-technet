@@ -4,7 +4,7 @@ TOCTitle: Product Building WebApp configuration key (PBA_ProductBuildingWebApp)
 ms:assetid: 3f51b1f5-7740-457a-bae2-c555ab42fb56
 ms:mtpsurl: https://technet.microsoft.com/library/Aa554157(v=AX.60)
 ms:contentKeyID: 36931828
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

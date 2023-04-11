@@ -4,7 +4,7 @@ TOCTitle: Production control
 ms:assetid: 30324175-7d56-4845-b422-1b34a60eda7b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208549(v=AX.60)
 ms:contentKeyID: 36056308
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

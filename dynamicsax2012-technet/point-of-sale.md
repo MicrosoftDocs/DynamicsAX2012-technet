@@ -4,7 +4,7 @@ TOCTitle: Point of Sale
 ms:assetid: 2051b6fa-b8a1-4254-a115-a3480ad31143
 ms:mtpsurl: https://technet.microsoft.com/library/JJ937969(v=AX.60)
 ms:contentKeyID: 50950757
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

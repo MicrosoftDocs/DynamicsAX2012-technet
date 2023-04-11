@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up interest codes
 ms:assetid: 30d7959e-3a20-4ae0-91ce-32b686eccf35
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678171(v=AX.60)
 ms:contentKeyID: 49386894
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

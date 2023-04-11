@@ -4,7 +4,7 @@ TOCTitle: OnDeserializing Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariantInformation.OnDeserializing(System.Runtime.Serialization.StreamingContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productvariantinformation.ondeserializing(v=AX.60)
 ms:contentKeyID: 65322335
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

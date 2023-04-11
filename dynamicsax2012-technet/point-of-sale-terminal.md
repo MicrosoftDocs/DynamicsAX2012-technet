@@ -4,7 +4,7 @@ TOCTitle: " point of sale terminal"
 ms:assetid: DynamicsAXGlossary.1637849
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1637849(v=AX.60)
 ms:contentKeyID: 45765394
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: " POS"
 ms:assetid: DynamicsAXGlossary.93119
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.93119(v=AX.60)
 ms:contentKeyID: 45765423
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

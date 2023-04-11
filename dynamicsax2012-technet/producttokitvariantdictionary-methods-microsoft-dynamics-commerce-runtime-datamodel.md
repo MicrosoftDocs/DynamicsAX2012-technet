@@ -4,7 +4,7 @@ TOCTitle: ProductToKitVariantDictionary Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductToKitVariantDictionary
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.producttokitvariantdictionary_methods(v=AX.60)
 ms:contentKeyID: 62206706
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

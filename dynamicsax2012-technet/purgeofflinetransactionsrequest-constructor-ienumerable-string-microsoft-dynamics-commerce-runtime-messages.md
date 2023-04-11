@@ -4,7 +4,7 @@ TOCTitle: PurgeOfflineTransactionsRequest Constructor (IEnumerable(String))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.PurgeOfflineTransactionsRequest.#ctor(System.Collections.Generic.IEnumerable{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.purgeofflinetransactionsrequest.purgeofflinetransactionsrequest(v=AX.60)
 ms:contentKeyID: 65319953
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

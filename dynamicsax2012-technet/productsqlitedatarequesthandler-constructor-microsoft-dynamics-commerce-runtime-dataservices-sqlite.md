@@ -4,7 +4,7 @@ TOCTitle: ProductSqliteDataRequestHandler Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.ProductSqliteDataRequestHandler.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.productsqlitedatarequesthandler.productsqlitedatarequesthandler(v=AX.60)
 ms:contentKeyID: 65319159
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

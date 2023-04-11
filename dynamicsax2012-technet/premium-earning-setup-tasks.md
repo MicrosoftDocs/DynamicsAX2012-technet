@@ -4,7 +4,7 @@ TOCTitle: Premium earning setup tasks
 ms:assetid: caae8bcc-6b43-44c3-8e1c-f730c7a497aa
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876709(v=AX.60)
 ms:contentKeyID: 63385355
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Printable guides
 ms:assetid: ec9767bf-b129-4608-81fc-21d4e4403239
 ms:mtpsurl: https://technet.microsoft.com/library/Gg732268(v=AX.60)
 ms:contentKeyID: 35133210
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: ProductDimensionValueSet Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductDimensionValueSet.#ctor(System.String,System.Collections.Generic.ICollection{System.Int64})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensionvalueset.productdimensionvalueset(v=AX.60)
 ms:contentKeyID: 62212200
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

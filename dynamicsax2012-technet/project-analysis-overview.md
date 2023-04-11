@@ -4,7 +4,7 @@ TOCTitle: Project analysis overview
 ms:assetid: 5555990c-bdb9-4f5a-a8cf-8b98adec4e01
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450755(v=AX.60)
 ms:contentKeyID: 36966724
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Printing documents
 ms:assetid: 880656a2-d4af-4716-81c8-d1bfd95157fd
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242845(v=AX.60)
 ms:contentKeyID: 36058437
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

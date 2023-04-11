@@ -4,7 +4,7 @@ TOCTitle: GetProduct Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductL2CacheDataStoreAccessor.GetProduct(System.Int64,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.getproduct(v=AX.60)
 ms:contentKeyID: 65322741
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

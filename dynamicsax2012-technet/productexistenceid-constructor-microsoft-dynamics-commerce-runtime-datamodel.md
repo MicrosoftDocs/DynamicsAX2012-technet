@@ -4,7 +4,7 @@ TOCTitle: ProductExistenceId Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductExistenceId.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productexistenceid.productexistenceid(v=AX.60)
 ms:contentKeyID: 62209138
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

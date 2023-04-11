@@ -4,7 +4,7 @@ TOCTitle: Productivity tools for end users
 ms:assetid: 29cfab0b-fcae-4a31-ba7d-f6140dc85f9c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208494(v=AX.60)
 ms:contentKeyID: 36056223
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: PutProduct Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductL2CacheDataStoreAccessor.PutProduct(Microsoft.Dynamics.Commerce.Runtime.DataModel.Product,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.putproduct(v=AX.60)
 ms:contentKeyID: 65320677
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Print copies of payments as non-negotiable checks
 ms:assetid: ccbbe602-5859-421d-98b4-0552cd6ec26d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242904(v=AX.60)
 ms:contentKeyID: 36059454
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

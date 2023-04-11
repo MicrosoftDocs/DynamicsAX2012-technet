@@ -4,7 +4,7 @@ TOCTitle: DiscountCalculationMode Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext.DiscountCalculationMode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontext.discountcalculationmode(v=AX.60)
 ms:contentKeyID: 62205371
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

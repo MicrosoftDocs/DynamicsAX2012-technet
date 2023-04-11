@@ -4,7 +4,7 @@ TOCTitle: (POL) Calculate interest
 ms:assetid: b2587084-6881-4738-aa37-d005c0f717a9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711239(v=AX.60)
 ms:contentKeyID: 49387057
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

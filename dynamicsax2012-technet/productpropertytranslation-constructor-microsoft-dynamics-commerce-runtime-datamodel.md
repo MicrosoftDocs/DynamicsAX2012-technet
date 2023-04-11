@@ -4,7 +4,7 @@ TOCTitle: ProductPropertyTranslation Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPropertyTranslation.#ctor(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPropertyDictionary)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertytranslation.productpropertytranslation(v=AX.60)
 ms:contentKeyID: 62211526
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

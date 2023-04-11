@@ -4,7 +4,7 @@ TOCTitle: Place your order
 ms:assetid: a5609c19-bef1-47e3-8b74-6e46b2fd183e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271616(v=AX.60)
 ms:contentKeyID: 36384248
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

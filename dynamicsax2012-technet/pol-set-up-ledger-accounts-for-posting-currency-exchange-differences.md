@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up ledger accounts for posting currency exchange differences
 ms:assetid: 6d4680f8-3e8e-446f-bb55-047876e7334f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678233(v=AX.60)
 ms:contentKeyID: 49386955
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Process time and attendance registrations
 ms:assetid: e5b58709-1d7a-4bae-9a87-5836707a8b6e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573180(v=AX.60)
 ms:contentKeyID: 39519351
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

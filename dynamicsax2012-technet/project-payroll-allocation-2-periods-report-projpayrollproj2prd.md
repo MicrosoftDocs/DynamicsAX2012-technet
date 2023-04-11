@@ -4,7 +4,7 @@ TOCTitle: Project payroll allocation (2 periods) report (ProjPayrollProj2Prd)
 ms:assetid: d2bf1f00-81e9-46fa-9614-c0ef54985529
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220757(v=AX.60)
 ms:contentKeyID: 37832034
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

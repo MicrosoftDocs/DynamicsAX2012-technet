@@ -4,7 +4,7 @@ TOCTitle: Print product labels (Retail essentials)
 ms:assetid: 4c1fec63-c68f-4e6a-881e-92bb074d065b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716088(v=AX.60)
 ms:contentKeyID: 62200350
-author: Khairunj
+author: tonyafehr
 ms.date: 01/07/2015
 mtps_version: v=AX.60
 ---

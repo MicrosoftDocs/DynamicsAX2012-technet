@@ -4,7 +4,7 @@ TOCTitle: (POL) General ledger
 ms:assetid: 89bdc0b9-1f1d-423c-a3f8-cc1b44492912
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678278(v=AX.60)
 ms:contentKeyID: 49387000
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

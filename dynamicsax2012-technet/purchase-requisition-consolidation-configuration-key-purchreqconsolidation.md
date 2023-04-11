@@ -4,7 +4,7 @@ TOCTitle: Purchase requisition consolidation configuration key (PurchReqConsolid
 ms:assetid: 47bff6f1-527e-41a6-8b45-ebb2f03bb463
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433452(v=AX.60)
 ms:contentKeyID: 36941204
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

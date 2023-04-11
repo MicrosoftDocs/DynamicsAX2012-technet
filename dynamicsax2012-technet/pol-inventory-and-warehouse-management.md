@@ -4,7 +4,7 @@ TOCTitle: (POL) Inventory and warehouse management
 ms:assetid: 780ad59a-b5ac-4544-b00d-00b881a857ad
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678245(v=AX.60)
 ms:contentKeyID: 49386967
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

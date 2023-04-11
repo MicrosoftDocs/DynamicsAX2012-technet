@@ -4,7 +4,7 @@ TOCTitle: Posted dispute transactions report (TrvPostedDisputeTransactionsReport
 ms:assetid: 02c09629-9fb9-4a65-acfe-63344f1d41ea
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412238(v=AX.60)
 ms:contentKeyID: 36916347
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

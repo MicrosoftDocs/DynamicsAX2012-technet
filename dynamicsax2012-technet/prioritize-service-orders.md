@@ -4,7 +4,7 @@ TOCTitle: Prioritize service orders
 ms:assetid: 4f268c1d-a664-4fcd-bfe3-abed114b1e3f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212753(v=AX.60)
 ms:contentKeyID: 36057210
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

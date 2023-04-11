@@ -4,7 +4,7 @@ TOCTitle: Process a customer request
 ms:assetid: 7ed75e06-a39e-477f-8f05-bcbe54a8afc5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn237263(v=AX.60)
 ms:contentKeyID: 54273730
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

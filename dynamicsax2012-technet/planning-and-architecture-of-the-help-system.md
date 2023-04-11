@@ -4,7 +4,7 @@ TOCTitle: Planning and architecture
 ms:assetid: a65698f3-46e3-4da5-b7d8-ad497a0562ea
 ms:mtpsurl: https://technet.microsoft.com/library/Gg866980(v=AX.60)
 ms:contentKeyID: 35256674
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

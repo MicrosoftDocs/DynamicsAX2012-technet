@@ -4,7 +4,7 @@ TOCTitle: GetActiveProductPrice Method (ProjectionDomain, IEnumerable(Int64), Da
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager.GetActiveProductPrice(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProjectionDomain,System.Collections.Generic.IEnumerable{System.Int64},System.DateTime,System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.AffiliationLoyaltyTier})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager.getactiveproductprice(v=AX.60)
 ms:contentKeyID: 65322401
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

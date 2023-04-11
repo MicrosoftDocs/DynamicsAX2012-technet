@@ -4,7 +4,7 @@ TOCTitle: 'Preprocessing upgrade checklist: Tasks'
 ms:assetid: 77604f75-2c05-47c7-87de-97d57ccd6ff8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn198669(v=AX.60)
 ms:contentKeyID: 53874070
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

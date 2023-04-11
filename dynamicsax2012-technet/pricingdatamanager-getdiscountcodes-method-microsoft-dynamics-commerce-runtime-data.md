@@ -4,7 +4,7 @@ TOCTitle: GetDiscountCodes Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.PricingDataManager.GetDiscountCodes(System.String,System.String,System.String,System.DateTime,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.pricingdatamanager.getdiscountcodes(v=AX.60)
 ms:contentKeyID: 65315601
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

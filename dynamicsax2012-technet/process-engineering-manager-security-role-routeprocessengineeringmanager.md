@@ -4,7 +4,7 @@ TOCTitle: Process engineering manager security role (RouteProcessEngineeringMana
 ms:assetid: 8c4c4045-2623-42d0-9137-d85db035ec5f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527108(v=AX.60)
 ms:contentKeyID: 37823160
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

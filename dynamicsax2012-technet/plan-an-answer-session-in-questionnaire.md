@@ -4,7 +4,7 @@ TOCTitle: Plan an answer session in questionnaire
 ms:assetid: e2576e4c-02a8-47b2-afe7-ad09b848f21a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551373(v=AX.60)
 ms:contentKeyID: 41702394
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

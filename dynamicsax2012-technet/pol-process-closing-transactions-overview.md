@@ -4,7 +4,7 @@ TOCTitle: (POL) Process closing transactions overview
 ms:assetid: bc41ef6b-be86-46c4-b8b0-e13fcc50edd0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711250(v=AX.60)
 ms:contentKeyID: 49387068
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

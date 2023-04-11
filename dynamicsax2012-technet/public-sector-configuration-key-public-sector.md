@@ -4,7 +4,7 @@ TOCTitle: Public sector configuration key (Public sector)
 ms:assetid: 4d0db8f6-1cf6-48b2-a20d-d56b48379442
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450729(v=AX.60)
 ms:contentKeyID: 36966665
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

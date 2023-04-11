@@ -4,7 +4,7 @@ TOCTitle: ProductVariantInformation Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariantInformation.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productvariantinformation.productvariantinformation(v=AX.60)
 ms:contentKeyID: 62210560
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

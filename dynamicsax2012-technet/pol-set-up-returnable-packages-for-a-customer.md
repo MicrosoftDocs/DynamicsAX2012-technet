@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up returnable packages for a customer
 ms:assetid: 314228b6-e0fa-4535-a38d-033e6af06113
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911040(v=AX.60)
 ms:contentKeyID: 52075331
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: PublishingConfiguration Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.PublishingConfiguration.#ctor(System.Int32,System.Int32,System.Boolean,System.Int32,System.Boolean,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.publishingconfiguration.publishingconfiguration(v=AX.60)
 ms:contentKeyID: 65316877
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

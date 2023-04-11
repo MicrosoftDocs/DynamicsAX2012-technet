@@ -4,7 +4,7 @@ TOCTitle: Planning for reporting
 ms:assetid: 05dd329c-ba8a-41e6-a2d5-1d534c34b10a
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309577(v=AX.60)
 ms:contentKeyID: 35132809
-author: Khairunj
+author: tonyafehr
 ms.date: 03/11/2015
 mtps_version: v=AX.60
 ---

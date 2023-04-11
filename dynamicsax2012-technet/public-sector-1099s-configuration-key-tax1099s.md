@@ -4,7 +4,7 @@ TOCTitle: Public sector 1099S configuration key (Tax1099S)
 ms:assetid: 256f91ee-26da-460e-82fc-3cc396c11f92
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450726(v=AX.60)
 ms:contentKeyID: 36966662
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

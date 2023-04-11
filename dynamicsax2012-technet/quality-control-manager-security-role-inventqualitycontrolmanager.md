@@ -4,7 +4,7 @@ TOCTitle: Quality control manager security role (InventQualityControlManager)
 ms:assetid: 30e76aac-2441-497a-a479-7c92330c6c67
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527077(v=AX.60)
 ms:contentKeyID: 37823129
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

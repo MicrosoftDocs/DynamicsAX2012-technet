@@ -4,7 +4,7 @@ TOCTitle: Purchase requisition configuration key (PurchReq)
 ms:assetid: 78088848-75e8-4934-9f9c-16e014665d73
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433459(v=AX.60)
 ms:contentKeyID: 36941213
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

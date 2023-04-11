@@ -4,7 +4,7 @@ TOCTitle: Prepay for product or service overview
 ms:assetid: 794f8d31-ce11-4b99-8e84-8fb63d6c1bf7
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213015(v=AX.60)
 ms:contentKeyID: 36058235
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

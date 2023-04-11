@@ -4,7 +4,7 @@ TOCTitle: (POL) Fixed assets
 ms:assetid: be2ae7d7-528b-43bc-a89a-3be0f34b7fe9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711265(v=AX.60)
 ms:contentKeyID: 49387083
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

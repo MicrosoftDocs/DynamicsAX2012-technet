@@ -4,7 +4,7 @@ TOCTitle: Print or email a report
 ms:assetid: 614c67f4-a516-474d-adb8-2c50fd239547
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231521(v=AX.60)
 ms:contentKeyID: 35132858
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

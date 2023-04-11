@@ -4,7 +4,7 @@ TOCTitle: ProductCatalogId Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey.ProductCatalogId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.productcatalogid(v=AX.60)
 ms:contentKeyID: 65318737
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

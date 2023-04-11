@@ -4,7 +4,7 @@ TOCTitle: SetProperty Method (String, String, ProductProperty)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Product.SetProperty(System.String,System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductProperty)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.product.setproperty(v=AX.60)
 ms:contentKeyID: 62207629
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

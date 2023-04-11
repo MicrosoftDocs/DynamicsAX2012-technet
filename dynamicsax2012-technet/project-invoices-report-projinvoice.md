@@ -4,7 +4,7 @@ TOCTitle: Project invoices report (ProjInvoice)
 ms:assetid: 7706550a-9e2b-4778-a646-fd22e389ff9b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527784(v=AX.60)
 ms:contentKeyID: 37832009
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

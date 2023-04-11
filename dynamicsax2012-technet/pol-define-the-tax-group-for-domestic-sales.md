@@ -4,7 +4,7 @@ TOCTitle: (POL) Define the tax group for domestic sales
 ms:assetid: 3034b38a-efbe-461d-b260-6e6bb122f489
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678170(v=AX.60)
 ms:contentKeyID: 49386893
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

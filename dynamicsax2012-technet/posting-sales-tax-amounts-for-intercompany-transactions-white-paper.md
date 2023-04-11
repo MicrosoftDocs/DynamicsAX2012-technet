@@ -4,7 +4,7 @@ TOCTitle: Posting sales tax amounts for intercompany transactions (White paper)
 ms:assetid: bf278bcd-5468-4ec8-91b4-0744f19fadae
 ms:mtpsurl: https://technet.microsoft.com/library/Dn170480(v=AX.60)
 ms:contentKeyID: 53892442
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

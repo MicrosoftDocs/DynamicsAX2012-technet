@@ -4,7 +4,7 @@ TOCTitle: Prerequisites for product configuration models
 ms:assetid: d7278ab6-ba18-4988-945a-662f02a770ab
 ms:mtpsurl: https://technet.microsoft.com/library/Hh278336(v=AX.60)
 ms:contentKeyID: 36207233
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

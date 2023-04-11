@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up credit note parameters
 ms:assetid: 7c818026-0a6b-44ea-8ea6-b55d5abd54e4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678253(v=AX.60)
 ms:contentKeyID: 49386975
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: ProductSearchServiceResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ProductSearchServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.productsearchserviceresponse_properties(v=AX.60)
 ms:contentKeyID: 65319766
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

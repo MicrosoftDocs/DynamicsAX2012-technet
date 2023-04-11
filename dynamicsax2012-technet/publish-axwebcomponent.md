@@ -4,7 +4,7 @@ TOCTitle: Publish-AXWebComponent
 ms:assetid: A5B30D76-12A4-4843-A1BA-0AAB831931D4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720274(v=AX.60)
 ms:contentKeyID: 49720064
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

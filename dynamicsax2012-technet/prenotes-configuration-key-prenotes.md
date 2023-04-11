@@ -4,7 +4,7 @@ TOCTitle: Prenotes configuration key (Prenotes)
 ms:assetid: b55de83c-9152-404f-bb45-4796a7b56f18
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433469(v=AX.60)
 ms:contentKeyID: 36941226
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

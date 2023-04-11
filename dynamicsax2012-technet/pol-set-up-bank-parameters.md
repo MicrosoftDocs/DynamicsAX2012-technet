@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up bank parameters
 ms:assetid: fd4779fa-5942-405a-bed5-bd3a76f3fb46
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711337(v=AX.60)
 ms:contentKeyID: 49387154
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

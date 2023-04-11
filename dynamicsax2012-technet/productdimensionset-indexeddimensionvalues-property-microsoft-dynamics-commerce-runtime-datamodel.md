@@ -4,7 +4,7 @@ TOCTitle: IndexedDimensionValues Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductDimensionSet.IndexedDimensionValues
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productdimensionset.indexeddimensionvalues(v=AX.60)
 ms:contentKeyID: 62206704
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

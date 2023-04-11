@@ -4,7 +4,7 @@ TOCTitle: Post multiple journals
 ms:assetid: 3d2d2afc-88a7-4b11-9c25-05772d8aa37a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570269(v=AX.60)
 ms:contentKeyID: 36931869
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

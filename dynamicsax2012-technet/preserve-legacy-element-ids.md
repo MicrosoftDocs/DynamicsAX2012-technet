@@ -4,7 +4,7 @@ TOCTitle: Preserve legacy element IDs
 ms:assetid: 74c2ed30-1b6c-48b1-bed3-4d849abf2243
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733496(v=AX.60)
 ms:contentKeyID: 49685457
-author: Khairunj
+author: tonyafehr
 ms.date: 06/17/2014
 mtps_version: v=AX.60
 ---

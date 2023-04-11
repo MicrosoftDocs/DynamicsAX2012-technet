@@ -4,7 +4,7 @@ TOCTitle: Post fixed asset budgets
 ms:assetid: 5b106fcc-0872-4a80-b57b-cdf544e11d0f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549083(v=AX.60)
 ms:contentKeyID: 36057357
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

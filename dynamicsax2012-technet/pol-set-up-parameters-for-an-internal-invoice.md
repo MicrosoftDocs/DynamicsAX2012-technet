@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up parameters for an internal invoice
 ms:assetid: 7572e085-64bd-4812-9c5e-dcfdee054273
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678242(v=AX.60)
 ms:contentKeyID: 49386964
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

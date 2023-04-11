@@ -4,7 +4,7 @@ TOCTitle: Post completed store inventory documents
 ms:assetid: f853e617-9de3-4aeb-9b1a-a06024755ad3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597296(v=AX.60)
 ms:contentKeyID: 39519381
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Project manager - Public Sector security role (ProjProjectManager_PSN)
 ms:assetid: c9265faa-6b6d-4902-9c69-db5b89197144
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527715(v=AX.60)
 ms:contentKeyID: 37831920
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

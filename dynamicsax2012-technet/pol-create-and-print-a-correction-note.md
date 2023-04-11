@@ -4,7 +4,7 @@ TOCTitle: (POL) Create and print a correction note
 ms:assetid: dba55c58-af0b-45fe-a585-f55f140e6475
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711301(v=AX.60)
 ms:contentKeyID: 49387119
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

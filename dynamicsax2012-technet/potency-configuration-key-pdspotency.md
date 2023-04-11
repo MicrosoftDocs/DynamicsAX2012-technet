@@ -4,7 +4,7 @@ TOCTitle: Potency configuration key (PDSPotency)
 ms:assetid: 26373556-1cb0-4b47-9712-d042d80b4f29
 ms:mtpsurl: https://technet.microsoft.com/library/Dn782845(v=AX.60)
 ms:contentKeyID: 62817387
-author: Khairunj
+author: tonyafehr
 ms.date: 08/27/2014
 mtps_version: v=AX.60
 ---

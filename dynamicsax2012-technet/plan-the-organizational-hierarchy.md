@@ -4,7 +4,7 @@ TOCTitle: Plan the organizational hierarchy
 ms:assetid: cc19ddcb-68ca-43cf-ab64-1ab556e283d5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242899(v=AX.60)
 ms:contentKeyID: 36059446
-author: Khairunj
+author: tonyafehr
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 audience: Application User

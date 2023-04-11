@@ -4,7 +4,7 @@ TOCTitle: Product change cases configuration key (EngChgCase)
 ms:assetid: d762bb49-d560-400a-ad18-7f3bf4aa3928
 ms:mtpsurl: https://technet.microsoft.com/library/Dn831879(v=AX.60)
 ms:contentKeyID: 63145460
-author: Khairunj
+author: tonyafehr
 ms.date: 10/01/2014
 mtps_version: v=AX.60
 ---

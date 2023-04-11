@@ -4,7 +4,7 @@ TOCTitle: Prioritize automatic settlements
 ms:assetid: c1238d5f-4bef-4ff7-ab1c-5174fe0f6c6b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242829(v=AX.60)
 ms:contentKeyID: 36059268
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

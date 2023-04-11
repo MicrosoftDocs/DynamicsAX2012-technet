@@ -4,7 +4,7 @@ TOCTitle: Project profit and loss (actual vs. budget) report (ProjProfitLossProj
 ms:assetid: 52beb654-8519-47e9-afb4-76d7cd676193
 ms:mtpsurl: https://technet.microsoft.com/library/Bb147549(v=AX.60)
 ms:contentKeyID: 36966702
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

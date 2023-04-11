@@ -4,7 +4,7 @@ TOCTitle: (POL) Create an interest note in foreign currency
 ms:assetid: 1f00ce43-f283-4880-bb68-628058840c88
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678147(v=AX.60)
 ms:contentKeyID: 49386870
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

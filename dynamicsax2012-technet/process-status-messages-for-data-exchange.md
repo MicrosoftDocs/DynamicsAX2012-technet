@@ -4,7 +4,7 @@ TOCTitle: Process status messages for data exchange
 ms:assetid: dbe1747e-d266-40d0-8193-0c54693e75fd
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497850(v=AX.60)
 ms:contentKeyID: 62200216
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

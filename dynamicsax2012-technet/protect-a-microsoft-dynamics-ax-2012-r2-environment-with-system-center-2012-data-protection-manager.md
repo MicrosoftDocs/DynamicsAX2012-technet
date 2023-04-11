@@ -4,7 +4,7 @@ TOCTitle: Protect an AX 2012 R2 environment with DPM
 ms:assetid: b5b01674-f894-4dd6-9694-ab5bc1a8351a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527686(v=AX.60)
 ms:contentKeyID: 59626219
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

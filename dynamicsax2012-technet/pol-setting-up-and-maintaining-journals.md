@@ -4,7 +4,7 @@ TOCTitle: (POL) Setting up and maintaining journals
 ms:assetid: 2dc107b2-267f-4039-b9ac-5ce1c7301ef5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678167(v=AX.60)
 ms:contentKeyID: 49386890
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

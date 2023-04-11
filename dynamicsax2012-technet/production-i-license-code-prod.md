@@ -4,7 +4,7 @@ TOCTitle: Production I license code (Prod)
 ms:assetid: 3879076b-3a5a-4ba6-8601-05446b8e9e4a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496409(v=AX.60)
 ms:contentKeyID: 37071984
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

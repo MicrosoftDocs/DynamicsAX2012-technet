@@ -4,7 +4,7 @@ TOCTitle: Process distribution configuration key (PDS)
 ms:assetid: 6083f2b6-5df1-4e7e-804f-2e3c83f9648c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496421(v=AX.60)
 ms:contentKeyID: 37071998
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

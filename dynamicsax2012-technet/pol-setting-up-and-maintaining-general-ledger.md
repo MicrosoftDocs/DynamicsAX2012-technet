@@ -4,7 +4,7 @@ TOCTitle: (POL) Setting up and maintaining General ledger
 ms:assetid: 2d1a0d00-ba6d-48d6-bbe0-069c9d1cf877
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678164(v=AX.60)
 ms:contentKeyID: 49386887
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Preliminary setup
 ms:assetid: 6b755f60-d0ed-4f59-988d-2782ecc28096
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571182(v=AX.60)
 ms:contentKeyID: 36676392
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

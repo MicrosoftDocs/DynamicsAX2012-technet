@@ -4,7 +4,7 @@ TOCTitle: Project/category validation report (ProjValProjCategory)
 ms:assetid: 5f3a43db-ab9f-4e7b-93d7-a89e03188fa9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa584405(v=AX.60)
 ms:contentKeyID: 37832005
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

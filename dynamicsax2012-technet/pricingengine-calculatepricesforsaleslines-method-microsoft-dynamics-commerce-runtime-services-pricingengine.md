@@ -4,7 +4,7 @@ TOCTitle: CalculatePricesForSalesLines Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PricingEngine.CalculatePricesForSalesLines(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesLine},Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext,Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricingengine.calculatepricesforsaleslines(v=AX.60)
 ms:contentKeyID: 62210218
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

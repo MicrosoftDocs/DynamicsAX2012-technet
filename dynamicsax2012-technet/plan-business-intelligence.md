@@ -4,7 +4,7 @@ TOCTitle: Plan business intelligence
 ms:assetid: 51b01e4e-c9bd-4cb4-8411-578935885234
 ms:mtpsurl: https://technet.microsoft.com/library/Hh913510(v=AX.60)
 ms:contentKeyID: 45849951
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

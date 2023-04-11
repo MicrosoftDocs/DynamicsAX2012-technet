@@ -4,7 +4,7 @@ TOCTitle: Project WIP (2 periods) report (ProjWIPProj2Prd)
 ms:assetid: 826c63c3-62e5-46d2-a5c5-b053ef6a5856
 ms:mtpsurl: https://technet.microsoft.com/library/Aa615908(v=AX.60)
 ms:contentKeyID: 36966704
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

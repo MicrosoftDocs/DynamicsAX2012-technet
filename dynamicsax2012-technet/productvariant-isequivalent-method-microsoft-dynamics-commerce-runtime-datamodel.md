@@ -4,7 +4,7 @@ TOCTitle: IsEquivalent Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant.IsEquivalent(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariant)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productvariant.isequivalent(v=AX.60)
 ms:contentKeyID: 62210416
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

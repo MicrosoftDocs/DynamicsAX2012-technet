@@ -4,7 +4,7 @@ TOCTitle: Item Property (Int32)
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductPropertySchema.Item(System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productpropertyschema.item(v=AX.60)
 ms:contentKeyID: 65323163
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

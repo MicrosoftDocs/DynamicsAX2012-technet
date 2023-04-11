@@ -4,7 +4,7 @@ TOCTitle: PipelineRequestHandler Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.PipelineRequestHandler.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.pipelinerequesthandler.pipelinerequesthandler(v=AX.60)
 ms:contentKeyID: 65315822
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

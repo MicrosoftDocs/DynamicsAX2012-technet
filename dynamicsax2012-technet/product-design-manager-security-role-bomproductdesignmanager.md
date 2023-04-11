@@ -4,7 +4,7 @@ TOCTitle: Product design manager security role (BOMProductDesignManager)
 ms:assetid: 8e93bff5-5232-4d7b-a551-dccd01a49cc4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527109(v=AX.60)
 ms:contentKeyID: 37823161
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

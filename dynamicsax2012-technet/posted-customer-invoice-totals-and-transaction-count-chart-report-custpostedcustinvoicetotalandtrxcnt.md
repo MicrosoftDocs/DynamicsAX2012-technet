@@ -4,7 +4,7 @@ TOCTitle: Posted customer invoice totals and transaction count chart report (Cus
 ms:assetid: 8aa7cf19-a516-4df3-b57e-c50630eba433
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538455(v=AX.60)
 ms:contentKeyID: 39508880
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

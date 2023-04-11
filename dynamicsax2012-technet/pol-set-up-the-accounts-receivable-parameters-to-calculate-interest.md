@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up the accounts receivable parameters to calculate interest
 ms:assetid: 9a412380-af50-4b06-9a74-5cf1fdb2109e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678309(v=AX.60)
 ms:contentKeyID: 49387031
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

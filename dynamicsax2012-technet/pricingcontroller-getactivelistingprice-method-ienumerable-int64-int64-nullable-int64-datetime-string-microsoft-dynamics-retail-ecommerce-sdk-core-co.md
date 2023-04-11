@@ -4,7 +4,7 @@ TOCTitle: GetActiveListingPrice Method (IEnumerable(Int64), Int64, Nullable(Int6
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.PricingController.GetActiveListingPrice(System.Collections.Generic.IEnumerable{System.Int64},System.Int64,System.Nullable{System.Int64},System.DateTime,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.pricingcontroller.getactivelistingprice(v=AX.60)
 ms:contentKeyID: 65317584
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

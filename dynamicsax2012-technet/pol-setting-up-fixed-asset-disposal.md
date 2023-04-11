@@ -4,7 +4,7 @@ TOCTitle: (POL) Setting up fixed asset disposal
 ms:assetid: ac02a300-5f49-4357-b96d-e558f7160478
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730412(v=AX.60)
 ms:contentKeyID: 49636331
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: ProductProperty Properties
 ms:assetid: Properties.T:ProductProperty
 ms:mtpsurl: https://technet.microsoft.com/library/productproperty_properties(v=AX.60)
 ms:contentKeyID: 65317123
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (POL) Calculate depreciation
 ms:assetid: 96d8ce8c-9d33-42ca-b19a-7e523e55577f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ730409(v=AX.60)
 ms:contentKeyID: 49636328
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

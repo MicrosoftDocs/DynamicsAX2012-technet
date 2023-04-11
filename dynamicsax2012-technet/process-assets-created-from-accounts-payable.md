@@ -4,7 +4,7 @@ TOCTitle: Process assets created from Accounts payable
 ms:assetid: 6ffa9ac0-448b-4de3-ab66-576daca765b9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231824(v=AX.60)
 ms:contentKeyID: 36058052
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

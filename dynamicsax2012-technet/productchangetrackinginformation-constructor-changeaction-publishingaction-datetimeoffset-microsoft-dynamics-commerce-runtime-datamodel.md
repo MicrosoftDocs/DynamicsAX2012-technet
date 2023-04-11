@@ -4,7 +4,7 @@ TOCTitle: ProductChangeTrackingInformation Constructor (ChangeAction, Publishing
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingInformation.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.ChangeAction,Microsoft.Dynamics.Commerce.Runtime.DataModel.PublishingAction,System.DateTimeOffset)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productchangetrackinginformation.productchangetrackinginformation(v=AX.60)
 ms:contentKeyID: 65323104
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

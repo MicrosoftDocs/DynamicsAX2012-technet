@@ -4,7 +4,7 @@ TOCTitle: (POL) Post and print a returned package report
 ms:assetid: 8bc3cd83-8cd7-4dd5-b4b1-7716e7d71a06
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923252(v=AX.60)
 ms:contentKeyID: 52075334
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

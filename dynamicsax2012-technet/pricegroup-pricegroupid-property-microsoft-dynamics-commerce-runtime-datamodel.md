@@ -4,7 +4,7 @@ TOCTitle: PriceGroupId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceGroup.PriceGroupId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.pricegroup.pricegroupid(v=AX.60)
 ms:contentKeyID: 49826699
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

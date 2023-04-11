@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up a bank account for electronic vendor payments
 ms:assetid: daf4a257-5045-4501-9578-cf5ef1f41092
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711283(v=AX.60)
 ms:contentKeyID: 49387101
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

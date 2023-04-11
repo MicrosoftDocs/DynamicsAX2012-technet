@@ -4,7 +4,7 @@ TOCTitle: Prepare a legal entity for use in the consolidation process
 ms:assetid: 5ef6fbfa-9e22-4aa2-b4c3-b0e279d1035f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549110(v=AX.60)
 ms:contentKeyID: 39519155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

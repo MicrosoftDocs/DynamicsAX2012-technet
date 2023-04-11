@@ -4,7 +4,7 @@ TOCTitle: Project transactions report (ProjListTransProject)
 ms:assetid: 29ce6d26-00ef-4372-830f-a0b4d293d252
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500650(v=AX.60)
 ms:contentKeyID: 37831985
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

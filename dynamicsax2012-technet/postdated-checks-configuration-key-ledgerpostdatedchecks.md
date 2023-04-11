@@ -4,7 +4,7 @@ TOCTitle: Postdated checks configuration key (LedgerPostDatedChecks)
 ms:assetid: 6f9911fe-c143-47c4-9dea-e3a12036d2dd
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467553(v=AX.60)
 ms:contentKeyID: 36991700
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

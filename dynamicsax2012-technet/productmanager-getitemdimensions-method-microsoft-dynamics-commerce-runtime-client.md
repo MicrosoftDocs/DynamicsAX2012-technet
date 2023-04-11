@@ -4,7 +4,7 @@ TOCTitle: GetItemDimensions Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager.GetItemDimensions(System.Collections.Generic.IEnumerable{System.String},Microsoft.Dynamics.Commerce.Runtime.ColumnSet)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager.getitemdimensions(v=AX.60)
 ms:contentKeyID: 62208330
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

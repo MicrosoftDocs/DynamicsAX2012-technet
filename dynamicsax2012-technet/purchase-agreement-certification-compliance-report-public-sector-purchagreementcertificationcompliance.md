@@ -4,7 +4,7 @@ TOCTitle: Purchase agreement certification compliance report (Public sector) (Pu
 ms:assetid: 4af3dba2-8292-47e4-9537-76963b288a56
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334479(v=AX.60)
 ms:contentKeyID: 36676464
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

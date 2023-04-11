@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up customer posting profiles
 ms:assetid: 4b7469f5-0e3c-44e4-9b40-671f33f62ce2
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678195(v=AX.60)
 ms:contentKeyID: 49386918
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

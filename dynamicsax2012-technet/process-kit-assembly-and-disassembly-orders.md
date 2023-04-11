@@ -4,7 +4,7 @@ TOCTitle: Process kit assembly and disassembly orders
 ms:assetid: ea2dadfb-0916-46b8-899b-ea0924661703
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497844(v=AX.60)
 ms:contentKeyID: 62344149
-author: Khairunj
+author: tonyafehr
 ms.date: 05/16/2014
 mtps_version: v=AX.60
 f1_keywords:

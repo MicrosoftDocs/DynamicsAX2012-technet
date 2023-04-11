@@ -4,7 +4,7 @@ TOCTitle: GetRetailCategoryMembersForItems Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.PricingDatabaseAccessor.GetRetailCategoryMembersForItems(System.Collections.Generic.ISet{System.Int64})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.pricingdatabaseaccessor.getretailcategorymembersforitems(v=AX.60)
 ms:contentKeyID: 62202671
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

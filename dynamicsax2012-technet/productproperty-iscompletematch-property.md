@@ -4,7 +4,7 @@ TOCTitle: IsCompleteMatch Property
 ms:assetid: P:ProductProperty.IsCompleteMatch
 ms:mtpsurl: https://technet.microsoft.com/library/productproperty.iscompletematch(v=AX.60)
 ms:contentKeyID: 65316610
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

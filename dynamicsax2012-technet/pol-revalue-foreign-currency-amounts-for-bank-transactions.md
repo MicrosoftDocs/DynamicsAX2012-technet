@@ -4,7 +4,7 @@ TOCTitle: (POL) Revalue foreign currency amounts for bank transactions
 ms:assetid: e4ee8a37-2cfd-4de2-8d09-53d83b3a0c59
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711314(v=AX.60)
 ms:contentKeyID: 49387132
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

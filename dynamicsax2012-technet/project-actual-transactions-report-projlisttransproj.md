@@ -4,7 +4,7 @@ TOCTitle: Project actual transactions report (ProjListTransProj)
 ms:assetid: bf5a7f91-07aa-4e45-8968-47239271026a
 ms:mtpsurl: https://technet.microsoft.com/library/Bb315009(v=AX.60)
 ms:contentKeyID: 37820230
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

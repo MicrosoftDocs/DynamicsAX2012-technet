@@ -4,7 +4,7 @@ TOCTitle: (POL) Calculate tax interest and free-hand interest
 ms:assetid: c5e049e4-7af9-43d0-8cfb-af554b2be156
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711271(v=AX.60)
 ms:contentKeyID: 49387089
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

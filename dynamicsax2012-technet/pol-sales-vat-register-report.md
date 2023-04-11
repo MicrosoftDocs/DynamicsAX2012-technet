@@ -4,7 +4,7 @@ TOCTitle: (POL) Sales VAT register (report)
 ms:assetid: b148a132-a14b-425e-8c02-e8d171a6d371
 ms:mtpsurl: https://technet.microsoft.com/library/JJ863718(v=AX.60)
 ms:contentKeyID: 50396401
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

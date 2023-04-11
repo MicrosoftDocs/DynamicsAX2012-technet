@@ -4,7 +4,7 @@ TOCTitle: Posting example 1 - fixed-price project
 ms:assetid: 8a2e7b0e-4409-4cfe-bc92-d8987751249f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498239(v=AX.60)
 ms:contentKeyID: 36058464
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

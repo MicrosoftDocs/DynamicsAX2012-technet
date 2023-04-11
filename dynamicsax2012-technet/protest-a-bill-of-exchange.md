@@ -4,7 +4,7 @@ TOCTitle: Protest a bill of exchange
 ms:assetid: b983dd16-a00d-427a-a40f-0c1c4045b8f6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498849(v=AX.60)
 ms:contentKeyID: 37822157
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

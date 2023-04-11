@@ -4,7 +4,7 @@ TOCTitle: IncludeProductsFromDescendantCategories Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria.IncludeProductsFromDescendantCategories
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productsearchcriteria.includeproductsfromdescendantcategories(v=AX.60)
 ms:contentKeyID: 65317300
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

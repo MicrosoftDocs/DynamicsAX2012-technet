@@ -4,7 +4,7 @@ TOCTitle: Publish-AXAssembly
 ms:assetid: 546EF3DD-F572-4B86-ABA2-C92DB04957F5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720258(v=AX.60)
 ms:contentKeyID: 49720047
-author: Khairunj
+author: tonyafehr
 ms.date: 12/18/2012
 mtps_version: v=AX.60
 ---

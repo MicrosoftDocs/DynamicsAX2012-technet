@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up customer posting profiles for deposits
 ms:assetid: 48ad9fff-cb9e-42e3-9476-3007d2d76c10
 ms:mtpsurl: https://technet.microsoft.com/library/JJ911063(v=AX.60)
 ms:contentKeyID: 52075332
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

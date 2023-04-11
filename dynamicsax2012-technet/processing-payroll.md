@@ -4,7 +4,7 @@ TOCTitle: Processing payroll
 ms:assetid: d372d8bf-a2ec-41d1-9ed6-3731b84dea9a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677364(v=AX.60)
 ms:contentKeyID: 49384139
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

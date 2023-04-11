@@ -4,7 +4,7 @@ TOCTitle: Post invoices in an invoice journal
 ms:assetid: a2c339a3-0ce4-483a-b21b-8ec10067f7f9
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571835(v=AX.60)
 ms:contentKeyID: 36058802
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Process manufacturing production license code (ProcessIndustriesManufa
 ms:assetid: f2e365f9-ed62-4f3f-acc9-1cc708864503
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496443(v=AX.60)
 ms:contentKeyID: 37072026
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

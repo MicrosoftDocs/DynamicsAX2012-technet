@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up a number sequence for sales packing slips by warehouse
 ms:assetid: 4a2000a1-c13c-4d80-956b-2257074aacb9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678192(v=AX.60)
 ms:contentKeyID: 49386915
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Quality Management configuration key (InventQualityManagement)
 ms:assetid: bd0afaf1-21c0-4423-ab98-23107f83df9b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441668(v=AX.60)
 ms:contentKeyID: 36993552
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

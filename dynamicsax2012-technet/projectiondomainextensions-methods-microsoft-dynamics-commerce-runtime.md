@@ -4,7 +4,7 @@ TOCTitle: ProjectionDomainExtensions Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.ProjectionDomainExtensions
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.projectiondomainextensions_methods(v=AX.60)
 ms:contentKeyID: 65320473
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

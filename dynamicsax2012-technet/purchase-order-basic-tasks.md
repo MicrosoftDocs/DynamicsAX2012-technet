@@ -4,7 +4,7 @@ TOCTitle: Purchase order basic tasks
 ms:assetid: 9473fa90-d8c1-4587-9660-97ddfff7441e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209387(v=AX.60)
 ms:contentKeyID: 36058600
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

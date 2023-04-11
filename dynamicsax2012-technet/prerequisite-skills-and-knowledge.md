@@ -4,7 +4,7 @@ TOCTitle: Prerequisite skills and knowledge
 ms:assetid: c83bd14c-79d9-4b8e-9338-acf45932076c
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362074(v=AX.60)
 ms:contentKeyID: 35132871
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

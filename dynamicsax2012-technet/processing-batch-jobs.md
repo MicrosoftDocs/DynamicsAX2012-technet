@@ -4,7 +4,7 @@ TOCTitle: Processing batch jobs
 ms:assetid: 5af7da4f-2f57-4a0f-a71b-9f2ff066e907
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549082(v=AX.60)
 ms:contentKeyID: 36057354
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

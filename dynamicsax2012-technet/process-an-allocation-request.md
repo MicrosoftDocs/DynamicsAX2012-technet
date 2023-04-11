@@ -4,7 +4,7 @@ TOCTitle: Process an allocation request
 ms:assetid: db873fae-db65-4c42-b6f4-4b2c7c0723bc
 ms:mtpsurl: https://technet.microsoft.com/library/Ff395362(v=AX.60)
 ms:contentKeyID: 36059667
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

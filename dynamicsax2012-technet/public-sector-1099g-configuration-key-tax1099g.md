@@ -4,7 +4,7 @@ TOCTitle: Public sector 1099G configuration key (Tax1099G)
 ms:assetid: bcc71f70-f79f-413a-9725-eb64d6ae87d9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450737(v=AX.60)
 ms:contentKeyID: 36966673
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

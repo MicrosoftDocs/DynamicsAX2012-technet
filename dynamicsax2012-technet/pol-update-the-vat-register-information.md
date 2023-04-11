@@ -4,7 +4,7 @@ TOCTitle: (POL) Update the VAT register information
 ms:assetid: d97d9c3c-fe6b-422b-96d4-8cfe1db0957b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711299(v=AX.60)
 ms:contentKeyID: 49387118
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Publish Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingEntry.Publish(System.Configuration.Configuration)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingentry.publish(v=AX.60)
 ms:contentKeyID: 65318134
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

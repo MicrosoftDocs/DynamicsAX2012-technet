@@ -4,7 +4,7 @@ TOCTitle: (POL) Reverse a customer transaction
 ms:assetid: 801cf1a2-7284-4f77-bbb6-347ce0877085
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678265(v=AX.60)
 ms:contentKeyID: 49386987
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

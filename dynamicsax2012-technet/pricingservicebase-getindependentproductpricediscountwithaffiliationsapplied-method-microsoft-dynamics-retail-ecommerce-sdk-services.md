@@ -4,7 +4,7 @@ TOCTitle: GetIndependentProductPriceDiscountWithAffiliationsApplied Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Services.PricingServiceBase.GetIndependentProductPriceDiscountWithAffiliationsApplied(System.Collections.Generic.IEnumerable{System.Int64},System.Collections.Generic.IEnumerable{System.Int64})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.services.pricingservicebase.getindependentproductpricediscountwithaffiliationsapplied(v=AX.60)
 ms:contentKeyID: 65318013
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

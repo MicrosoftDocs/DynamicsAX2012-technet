@@ -4,7 +4,7 @@ TOCTitle: Planning considerations for the Help system
 ms:assetid: 73dea160-55e3-4444-8087-d2afdbbb1798
 ms:mtpsurl: https://technet.microsoft.com/library/Gg866978(v=AX.60)
 ms:contentKeyID: 35256672
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

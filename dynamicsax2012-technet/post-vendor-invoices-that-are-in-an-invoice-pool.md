@@ -4,7 +4,7 @@ TOCTitle: Post vendor invoices that are in an invoice pool
 ms:assetid: 95e2a149-79c0-495c-89ca-9c9a6de9f181
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498424(v=AX.60)
 ms:contentKeyID: 36058625
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

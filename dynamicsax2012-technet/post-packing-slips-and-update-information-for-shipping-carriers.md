@@ -4,7 +4,7 @@ TOCTitle: Post packing slips and update information for shipping carriers
 ms:assetid: b0556c9a-0fa5-4896-8bcb-51cae2804ad5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232390(v=AX.60)
 ms:contentKeyID: 36058961
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Print inventory transfer report (InventJournalTransTransfer)
 ms:assetid: 69eac42d-5913-4d47-8f80-f2163f4f3e5e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242742(v=AX.60)
 ms:contentKeyID: 36059043
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

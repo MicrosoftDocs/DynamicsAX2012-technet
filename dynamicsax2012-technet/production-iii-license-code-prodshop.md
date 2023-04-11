@@ -4,7 +4,7 @@ TOCTitle: Production III license code (ProdShop)
 ms:assetid: 4829f177-694f-48f4-9123-c54302e0d3f9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496410(v=AX.60)
 ms:contentKeyID: 37071987
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

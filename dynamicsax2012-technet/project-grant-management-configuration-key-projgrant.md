@@ -4,7 +4,7 @@ TOCTitle: Project grant management configuration key (ProjGrant)
 ms:assetid: 6bf5f036-335e-4d12-8aec-748a913e5378
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580489(v=AX.60)
 ms:contentKeyID: 39518959
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

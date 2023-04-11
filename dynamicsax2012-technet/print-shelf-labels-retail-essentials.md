@@ -4,7 +4,7 @@ TOCTitle: Print shelf labels (Retail essentials)
 ms:assetid: a7ab2dcb-fd55-44a4-9ccf-1400dce81d7c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736927(v=AX.60)
 ms:contentKeyID: 62200404
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

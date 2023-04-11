@@ -4,7 +4,7 @@ TOCTitle: GetHashCode Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey.GetHashCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.gethashcode(v=AX.60)
 ms:contentKeyID: 65316961
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

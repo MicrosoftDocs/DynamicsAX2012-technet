@@ -4,7 +4,7 @@ TOCTitle: Product information management
 ms:assetid: 405f75a5-2f08-4da7-9eb4-ce7ba0cf993d
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242257(v=AX.60)
 ms:contentKeyID: 36056717
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Prepare to maintain standard costs for manufactured items
 ms:assetid: 157e0b55-5075-4f1c-85a1-e99e4473b1e8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230951(v=AX.60)
 ms:contentKeyID: 36056062
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

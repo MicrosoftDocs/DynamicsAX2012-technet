@@ -4,7 +4,7 @@ TOCTitle: (POL) Create an export file for a vendor
 ms:assetid: 8ab04081-3dde-4545-9064-14074fbd0e0b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678280(v=AX.60)
 ms:contentKeyID: 49387002
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Plan hardware and software infrastructure
 ms:assetid: d8904c23-7d93-41d0-bac5-13181dbdad37
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362090(v=AX.60)
 ms:contentKeyID: 39555309
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

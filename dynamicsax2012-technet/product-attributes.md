@@ -4,7 +4,7 @@ TOCTitle: Product attributes
 ms:assetid: cfdd3fe7-e9d1-4124-8f5d-31421517bec3
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876583(v=AX.60)
 ms:contentKeyID: 63379000
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

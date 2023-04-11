@@ -4,7 +4,7 @@ TOCTitle: Propose fixed asset acquisitions
 ms:assetid: 0fba6545-ca29-4666-a26c-eb97706806b6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn479032(v=AX.60)
 ms:contentKeyID: 59632400
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

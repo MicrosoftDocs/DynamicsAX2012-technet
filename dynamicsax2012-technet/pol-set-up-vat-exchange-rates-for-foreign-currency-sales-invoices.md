@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up VAT exchange rates for foreign currency sales invoices
 ms:assetid: a80c82d9-e2a3-4694-8537-4a7ec8cb699b
 ms:mtpsurl: https://technet.microsoft.com/library/Dn511005(v=AX.60)
 ms:contentKeyID: 59953760
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

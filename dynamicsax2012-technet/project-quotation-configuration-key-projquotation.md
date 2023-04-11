@@ -4,7 +4,7 @@ TOCTitle: Project quotation configuration key (ProjQuotation)
 ms:assetid: 2cd928cb-5c55-4922-84cc-c7fe1515ae77
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500883(v=AX.60)
 ms:contentKeyID: 42517314
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

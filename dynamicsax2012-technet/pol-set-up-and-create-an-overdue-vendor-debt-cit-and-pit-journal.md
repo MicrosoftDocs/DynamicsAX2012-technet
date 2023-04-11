@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up and create an overdue vendor debt CIT and PIT journal
 ms:assetid: 0e09506c-f82d-4423-9734-67301b60a15a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn532269(v=AX.60)
 ms:contentKeyID: 59930769
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
