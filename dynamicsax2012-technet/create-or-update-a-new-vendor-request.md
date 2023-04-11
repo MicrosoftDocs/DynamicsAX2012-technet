@@ -4,7 +4,7 @@ TOCTitle: Create or update a new vendor request
 ms:assetid: 035cdd9b-f46b-4a8f-abe2-b6a21628a9d5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271441(v=AX.60)
 ms:contentKeyID: 36384074
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

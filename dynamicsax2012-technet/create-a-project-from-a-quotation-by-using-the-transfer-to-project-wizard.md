@@ -4,7 +4,7 @@ TOCTitle: Create a project from a quotation by using the Transfer to Project wiz
 ms:assetid: f5a1c888-20b9-4b86-91e6-eb9354445542
 ms:mtpsurl: https://technet.microsoft.com/library/Dn283930(v=AX.60)
 ms:contentKeyID: 54923125
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

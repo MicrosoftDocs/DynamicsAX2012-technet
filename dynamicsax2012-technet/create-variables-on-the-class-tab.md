@@ -4,7 +4,7 @@ TOCTitle: Create variables on the Class tab
 ms:assetid: 4af3acaf-5aa4-4fad-859a-201dcdd0b370
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497013(v=AX.60)
 ms:contentKeyID: 36056978
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

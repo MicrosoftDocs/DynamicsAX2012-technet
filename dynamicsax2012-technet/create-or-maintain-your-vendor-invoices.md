@@ -4,7 +4,7 @@ TOCTitle: Create or maintain your vendor invoices
 ms:assetid: 2a707e71-ff74-4cf8-a297-4e029ca1b2ef
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271482(v=AX.60)
 ms:contentKeyID: 36384114
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

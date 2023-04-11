@@ -4,7 +4,7 @@ TOCTitle: Create or update a prospect record
 ms:assetid: 0e5d0be1-4049-42a1-9426-6ad09bf25fd1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242132(v=AX.60)
 ms:contentKeyID: 36056009
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

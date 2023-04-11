@@ -4,7 +4,7 @@ TOCTitle: Create alert rules
 ms:assetid: 4b00add8-f1d3-43e7-929d-ff7e523eec8c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497014(v=AX.60)
 ms:contentKeyID: 46687541
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

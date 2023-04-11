@@ -4,7 +4,7 @@ TOCTitle: Create allocation rule source and destination information
 ms:assetid: 0c51afe5-e81b-4038-8d42-d258bbd95655
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230897(v=AX.60)
 ms:contentKeyID: 36676366
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

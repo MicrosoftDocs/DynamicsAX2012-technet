@@ -4,7 +4,7 @@ TOCTitle: Create an expression constraint for a product component
 ms:assetid: db0d0243-b5a7-41fc-9e9c-0690d713b29b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597257(v=AX.60)
 ms:contentKeyID: 39519336
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

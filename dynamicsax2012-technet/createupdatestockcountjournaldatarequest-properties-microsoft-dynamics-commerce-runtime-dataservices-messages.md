@@ -4,7 +4,7 @@ TOCTitle: CreateUpdateStockCountJournalDataRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.CreateUpdateStockCountJournalDataRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.createupdatestockcountjournaldatarequest_properties(v=AX.60)
 ms:contentKeyID: 65322248
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

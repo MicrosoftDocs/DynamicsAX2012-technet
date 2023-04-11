@@ -4,7 +4,7 @@ TOCTitle: Create Microsoft Word documents from Microsoft Dynamics AX
 ms:assetid: 2fce99a8-6470-4568-bc92-60f0e650085c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781080(v=AX.60)
 ms:contentKeyID: 43894486
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

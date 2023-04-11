@@ -4,7 +4,7 @@ TOCTitle: Customer invoice report (SalesInvoice)
 ms:assetid: 347311cf-2989-42c2-a6ec-c29130df2345
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242607(v=AX.60)
 ms:contentKeyID: 36057965
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create reason codes
 ms:assetid: 44b208ef-8622-4294-b1b1-20491cd0e9fb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496976(v=AX.60)
 ms:contentKeyID: 37008245
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

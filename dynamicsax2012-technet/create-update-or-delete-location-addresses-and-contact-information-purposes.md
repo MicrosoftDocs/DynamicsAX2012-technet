@@ -4,7 +4,7 @@ TOCTitle: Create, update, or delete location addresses and contact information p
 ms:assetid: a097d59d-71c4-4a29-9b8f-cf6c6c1fb464
 ms:mtpsurl: https://technet.microsoft.com/library/Hh370699(v=AX.60)
 ms:contentKeyID: 36811423
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

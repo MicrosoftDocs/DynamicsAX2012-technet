@@ -4,7 +4,7 @@ TOCTitle: Create and save a query
 ms:assetid: b5e99969-7b9e-42b9-88ad-a70dbfeedb23
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550480(v=AX.60)
 ms:contentKeyID: 36059084
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create a vendor account
 ms:assetid: 6ceffee5-1344-4a3e-9d6e-5b31f9cd11f8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571206(v=AX.60)
 ms:contentKeyID: 36058014
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

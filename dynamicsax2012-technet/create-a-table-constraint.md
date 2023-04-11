@@ -4,7 +4,7 @@ TOCTitle: Create a table constraint
 ms:assetid: f6409362-123c-4921-9dbf-44ea523405e9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597282(v=AX.60)
 ms:contentKeyID: 39519366
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

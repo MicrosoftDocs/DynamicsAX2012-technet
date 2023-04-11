@@ -4,7 +4,7 @@ TOCTitle: Create variable groups
 ms:assetid: 916e402f-e121-487b-87d8-4739df5d5c36
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498373(v=AX.60)
 ms:contentKeyID: 36058563
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

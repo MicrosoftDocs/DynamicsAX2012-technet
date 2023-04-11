@@ -4,7 +4,7 @@ TOCTitle: Create service tasks
 ms:assetid: 44130086-f4cf-4d56-b237-596497721f36
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496970(v=AX.60)
 ms:contentKeyID: 36056883
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

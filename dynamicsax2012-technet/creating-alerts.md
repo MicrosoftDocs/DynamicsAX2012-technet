@@ -4,7 +4,7 @@ TOCTitle: Creating alerts
 ms:assetid: 5184c320-59b8-46b8-afea-f1773dcc22b1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548914(v=AX.60)
 ms:contentKeyID: 46687542
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

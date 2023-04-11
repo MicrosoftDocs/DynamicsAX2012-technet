@@ -4,7 +4,7 @@ TOCTitle: Credit limits for customers
 ms:assetid: 51bf672e-e965-4dad-b5cf-46395d685aa9
 ms:mtpsurl: https://technet.microsoft.com/library/JJ155667(v=AX.60)
 ms:contentKeyID: 47574347
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create purchase delivery schedules
 ms:assetid: 971baf1c-400b-4cfc-b35e-bd00f52f91ba
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209412(v=AX.60)
 ms:contentKeyID: 36058668
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

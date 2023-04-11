@@ -4,7 +4,7 @@ TOCTitle: Create a reference to an existing document
 ms:assetid: 837ea7d5-2509-463a-8549-153c71636e0b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571562(v=AX.60)
 ms:contentKeyID: 43976718
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create and reverse a preliminary budget (Public sector)
 ms:assetid: 0c0100f9-67c2-4f13-9b6e-7ff3c131f80e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208505(v=AX.60)
 ms:contentKeyID: 36056244
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Creating and applying approval procedures
 ms:assetid: 2b930f2d-dbaa-4b81-b93c-9d073dc21736
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496863(v=AX.60)
 ms:contentKeyID: 36811402
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

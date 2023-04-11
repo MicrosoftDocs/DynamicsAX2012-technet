@@ -4,7 +4,7 @@ TOCTitle: Customer payment settlement scenarios
 ms:assetid: c86e1f08-cf2d-45f6-86d3-61cc023b910a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh545531(v=AX.60)
 ms:contentKeyID: 37832531
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

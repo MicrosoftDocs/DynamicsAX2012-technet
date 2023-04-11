@@ -4,7 +4,7 @@ TOCTitle: Create service object groups
 ms:assetid: ff5fdf02-aff0-467f-95e0-743d931baa73
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573455(v=AX.60)
 ms:contentKeyID: 62626034
-author: Khairunj
+author: tonyafehr
 ms.date: 07/28/2014
 mtps_version: v=AX.60
 audience: Application User

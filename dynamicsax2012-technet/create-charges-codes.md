@@ -4,7 +4,7 @@ TOCTitle: Create charges codes
 ms:assetid: a68a5c6b-5aeb-4544-9eef-01e6c5af6d3b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550275(v=AX.60)
 ms:contentKeyID: 44081022
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 audience: Application User

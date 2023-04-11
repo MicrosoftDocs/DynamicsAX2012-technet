@@ -4,7 +4,7 @@ TOCTitle: Create a project contract to invoice for services plus management fees
 ms:assetid: 17ca1dee-54e5-4f11-b864-26c978027029
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242152(v=AX.60)
 ms:contentKeyID: 36056089
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

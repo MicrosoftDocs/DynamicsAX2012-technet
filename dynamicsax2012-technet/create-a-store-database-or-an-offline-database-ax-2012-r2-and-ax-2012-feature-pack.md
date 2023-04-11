@@ -4,7 +4,7 @@ TOCTitle: Create a store database or an offline database (AX 2012 R2 and AX 2012
 ms:assetid: 99ba8d75-d3ef-457d-a714-95dd894fccc5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ679929(v=AX.60)
 ms:contentKeyID: 49557912
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

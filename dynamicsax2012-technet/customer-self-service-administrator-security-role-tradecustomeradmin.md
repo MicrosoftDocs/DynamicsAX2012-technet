@@ -4,7 +4,7 @@ TOCTitle: Customer self-service administrator security role (TradeCustomerAdmin)
 ms:assetid: daaba5a0-cb34-47c1-a4f9-5271628f4d70
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527141(v=AX.60)
 ms:contentKeyID: 37823192
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

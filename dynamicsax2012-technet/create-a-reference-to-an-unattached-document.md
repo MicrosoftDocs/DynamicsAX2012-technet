@@ -4,7 +4,7 @@ TOCTitle: Create a reference to an unattached document
 ms:assetid: ae13a411-29a9-43dd-9bf8-a85412ba567e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242704(v=AX.60)
 ms:contentKeyID: 36058937
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

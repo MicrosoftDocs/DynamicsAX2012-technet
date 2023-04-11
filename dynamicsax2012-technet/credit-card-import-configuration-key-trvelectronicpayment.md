@@ -4,7 +4,7 @@ TOCTitle: Credit card import configuration key (TrvElectronicPayment)
 ms:assetid: d8c52807-7d31-4456-aa12-f9688fdda452
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416695(v=AX.60)
 ms:contentKeyID: 36931856
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

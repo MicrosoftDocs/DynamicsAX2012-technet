@@ -4,7 +4,7 @@ TOCTitle: Create, copy, or delete an opportunity
 ms:assetid: e24c4bd8-d050-4aca-b2d4-cc0fc430b683
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243212(v=AX.60)
 ms:contentKeyID: 36059718
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create inventory documents for retail stores (Retail essentials)
 ms:assetid: fa864c46-18e2-40e7-8e33-c879c8ab1dc4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn736982(v=AX.60)
 ms:contentKeyID: 62200459
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

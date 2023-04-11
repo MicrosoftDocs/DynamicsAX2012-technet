@@ -4,7 +4,7 @@ TOCTitle: Create or delete contacts
 ms:assetid: ca17fc0f-8c69-4579-9993-c0a86f5379f6
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213655(v=AX.60)
 ms:contentKeyID: 36811429
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

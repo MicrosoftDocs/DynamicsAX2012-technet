@@ -4,7 +4,7 @@ TOCTitle: Customer self-service configuration key (CSS)
 ms:assetid: be04a513-a147-44ef-ab47-1edb2517a99b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa589961(v=AX.60)
 ms:contentKeyID: 37831976
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

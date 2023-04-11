@@ -4,7 +4,7 @@ TOCTitle: Credit invoiced amounts in projects
 ms:assetid: f29058cb-e32e-467d-bc01-a67a61d297ba
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551626(v=AX.60)
 ms:contentKeyID: 36811439
-author: Khairunj
+author: tonyafehr
 ms.date: 09/30/2014
 mtps_version: v=AX.60
 f1_keywords:

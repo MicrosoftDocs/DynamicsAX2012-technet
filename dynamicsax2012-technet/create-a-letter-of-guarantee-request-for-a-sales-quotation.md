@@ -4,7 +4,7 @@ TOCTitle: Create a letter of guarantee request for a sales quotation
 ms:assetid: 218e1615-c3c7-4b7d-bd55-8547868c1221
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208472(v=AX.60)
 ms:contentKeyID: 36056166
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

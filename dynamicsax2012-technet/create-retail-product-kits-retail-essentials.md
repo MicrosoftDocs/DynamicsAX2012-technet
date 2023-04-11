@@ -4,7 +4,7 @@ TOCTitle: Create retail product kits (Retail essentials)
 ms:assetid: 1def1161-4812-4416-bbf6-d0f50dbca7d5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn859557(v=AX.60)
 ms:contentKeyID: 63820132
-author: Khairunj
+author: tonyafehr
 ms.date: 12/17/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Create absence journals
 ms:assetid: dcfad5d3-3006-49f1-9ed6-91b62bd73e02
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551264(v=AX.60)
 ms:contentKeyID: 36966742
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

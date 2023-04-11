@@ -4,7 +4,7 @@ TOCTitle: Create a public Enterprise Portal site
 ms:assetid: 5fe392a4-5683-469e-bcfe-ecfaa6e24883
 ms:mtpsurl: https://technet.microsoft.com/library/Hh285823(v=AX.60)
 ms:contentKeyID: 36607347
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

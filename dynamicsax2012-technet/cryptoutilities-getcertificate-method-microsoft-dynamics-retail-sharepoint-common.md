@@ -4,7 +4,7 @@ TOCTitle: GetCertificate Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Common.CryptoUtilities.GetCertificate(System.Security.Cryptography.X509Certificates.StoreName,System.Security.Cryptography.X509Certificates.StoreLocation,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.common.cryptoutilities.getcertificate(v=AX.60)
 ms:contentKeyID: 62204303
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

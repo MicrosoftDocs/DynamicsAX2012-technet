@@ -4,7 +4,7 @@ TOCTitle: CreateOrderFromCartResponse Constructor
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Messages.CreateOrderFromCartResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.createorderfromcartresponse.createorderfromcartresponse(v=AX.60)
 ms:contentKeyID: 62208874
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

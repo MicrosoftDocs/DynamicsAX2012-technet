@@ -4,7 +4,7 @@ TOCTitle: Create language texts
 ms:assetid: eaca641b-5860-4e1e-9549-a9e5fa8dc35c
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551497(v=AX.60)
 ms:contentKeyID: 36059858
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

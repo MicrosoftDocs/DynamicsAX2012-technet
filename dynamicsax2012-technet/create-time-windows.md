@@ -4,7 +4,7 @@ TOCTitle: Create time windows
 ms:assetid: 2ee5710e-34ea-441f-a265-20fcd58b09e7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548447(v=AX.60)
 ms:contentKeyID: 36056283
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

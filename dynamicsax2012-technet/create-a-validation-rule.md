@@ -4,7 +4,7 @@ TOCTitle: Create a validation rule
 ms:assetid: de428052-47e4-4119-98ae-7c9e2a95eb42
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551275(v=AX.60)
 ms:contentKeyID: 36059687
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

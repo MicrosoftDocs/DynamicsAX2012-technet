@@ -4,7 +4,7 @@ TOCTitle: Create an Advanced condition
 ms:assetid: b1c48dfe-4c70-467c-8680-8aff8ef9b0e5
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498651(v=AX.60)
 ms:contentKeyID: 36059055
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

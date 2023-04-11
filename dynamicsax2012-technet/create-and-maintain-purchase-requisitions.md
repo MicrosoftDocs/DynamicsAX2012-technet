@@ -4,7 +4,7 @@ TOCTitle: Create and maintain purchase requisitions
 ms:assetid: f570cb1a-077f-4932-b423-2b76a6927a7a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh299224(v=AX.60)
 ms:contentKeyID: 36384330
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

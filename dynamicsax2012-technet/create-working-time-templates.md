@@ -4,7 +4,7 @@ TOCTitle: Create working time templates
 ms:assetid: 343fde14-ef0c-4391-8aeb-2849a8cb60d6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570113(v=AX.60)
 ms:contentKeyID: 43976710
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

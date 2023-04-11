@@ -4,7 +4,7 @@ TOCTitle: Customer relationship management cube (smmCube)
 ms:assetid: c6373462-f3a4-4c66-b15f-51f3e7069639
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781075(v=AX.60)
 ms:contentKeyID: 43894474
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

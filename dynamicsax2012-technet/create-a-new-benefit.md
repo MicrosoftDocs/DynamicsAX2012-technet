@@ -4,7 +4,7 @@ TOCTitle: Create a new benefit
 ms:assetid: a4d1d319-f2e3-4b36-bd86-c8ca9e63514d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ680905(v=AX.60)
 ms:contentKeyID: 49624326
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

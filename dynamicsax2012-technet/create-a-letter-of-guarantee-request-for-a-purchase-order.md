@@ -4,7 +4,7 @@ TOCTitle: Create a letter of guarantee request for a purchase order
 ms:assetid: ef3bfdbe-a3a9-472b-90c0-41f5211304d1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227505(v=AX.60)
 ms:contentKeyID: 36059918
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

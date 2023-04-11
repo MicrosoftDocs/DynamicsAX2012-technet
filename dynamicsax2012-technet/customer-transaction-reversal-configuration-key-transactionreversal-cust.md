@@ -4,7 +4,7 @@ TOCTitle: Customer transaction reversal configuration key (TransactionReversal_C
 ms:assetid: 98297a90-d1fb-4004-9d7c-4631fa4424ed
 ms:mtpsurl: https://technet.microsoft.com/library/Hh467558(v=AX.60)
 ms:contentKeyID: 36991704
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Create service subscriptions from a subscription group
 ms:assetid: f06dc589-6b37-4e2c-84e0-d2102b618b01
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551583(v=AX.60)
 ms:contentKeyID: 36059924
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

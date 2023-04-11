@@ -4,7 +4,7 @@ TOCTitle: Create and post invoice proposals
 ms:assetid: 29738be9-5198-4dbd-bcb7-cd32c26c707b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496846(v=AX.60)
 ms:contentKeyID: 36811401
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

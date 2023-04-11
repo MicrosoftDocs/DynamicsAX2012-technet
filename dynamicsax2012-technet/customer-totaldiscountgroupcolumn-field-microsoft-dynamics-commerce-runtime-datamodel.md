@@ -4,7 +4,7 @@ TOCTitle: TotalDiscountGroupColumn Field
 ms:assetid: F:Microsoft.Dynamics.Commerce.Runtime.DataModel.Customer.TotalDiscountGroupColumn
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.customer.totaldiscountgroupcolumn(v=AX.60)
 ms:contentKeyID: 62207822
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create items
 ms:assetid: d587d4aa-9a8f-4f27-a4b5-a71185552f2a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499374(v=AX.60)
 ms:contentKeyID: 44431620
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

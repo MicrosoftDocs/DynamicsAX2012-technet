@@ -4,7 +4,7 @@ TOCTitle: FillHierarchy Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SP.CommonFeatures.CustomClaimsProvider.FillHierarchy(System.Uri,System.String[],System.String,System.Int32,Microsoft.SharePoint.WebControls.SPProviderHierarchyTree)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sp.commonfeatures.customclaimsprovider.fillhierarchy(v=AX.60)
 ms:contentKeyID: 62205063
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

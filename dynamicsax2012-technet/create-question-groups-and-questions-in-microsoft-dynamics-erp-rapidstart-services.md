@@ -4,7 +4,7 @@ TOCTitle: Create question groups and questions in Microsoft Dynamics ERP RapidSt
 ms:assetid: 28f81185-0971-4f4d-9988-ba752479d754
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413230(v=AX.60)
 ms:contentKeyID: 36918921
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

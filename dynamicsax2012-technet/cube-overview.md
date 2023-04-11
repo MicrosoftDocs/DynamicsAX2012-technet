@@ -4,7 +4,7 @@ TOCTitle: Cube overview
 ms:assetid: 2cbca5c2-50bf-4aaa-b3ea-5b901ea0f6d6
 ms:mtpsurl: https://technet.microsoft.com/library/Dd252604(v=AX.60)
 ms:contentKeyID: 28119326
-author: Khairunj
+author: tonyafehr
 ms.date: 12/19/2013
 mtps_version: v=AX.60
 ---

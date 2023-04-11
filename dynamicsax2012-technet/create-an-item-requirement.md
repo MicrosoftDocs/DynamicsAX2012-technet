@@ -4,7 +4,7 @@ TOCTitle: Create an item requirement
 ms:assetid: 629262ef-dff7-4290-9c5d-9d788146056a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500664(v=AX.60)
 ms:contentKeyID: 37822144
-author: Khairunj
+author: tonyafehr
 ms.date: 06/07/2014
 mtps_version: v=AX.60
 f1_keywords:

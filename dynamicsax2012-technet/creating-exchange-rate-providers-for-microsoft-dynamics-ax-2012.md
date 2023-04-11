@@ -4,7 +4,7 @@ TOCTitle: Creating Exchange Rate Providers for Microsoft Dynamics AX 2012
 ms:assetid: 82282ef4-8d7f-456b-8b58-7ab154af2d6e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn336936(v=AX.60)
 ms:contentKeyID: 55107156
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

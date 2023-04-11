@@ -4,7 +4,7 @@ TOCTitle: Create an intercompany project invoice
 ms:assetid: 73987788-75b0-4484-8da4-1fed94fb73de
 ms:mtpsurl: https://technet.microsoft.com/library/Dn528662(v=AX.60)
 ms:contentKeyID: 59636747
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

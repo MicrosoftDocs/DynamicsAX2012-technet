@@ -4,7 +4,7 @@ TOCTitle: Create and print a credit note for customer invoices
 ms:assetid: 110d56b9-c3b7-45e5-af5f-4132259b3511
 ms:mtpsurl: https://technet.microsoft.com/library/Dn818480(v=AX.60)
 ms:contentKeyID: 63172365
-author: Khairunj
+author: tonyafehr
 ms.date: 10/15/2014
 mtps_version: v=AX.60
 audience: Application User

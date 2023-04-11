@@ -4,7 +4,7 @@ TOCTitle: CreateShiftDataServiceRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.CreateShiftDataServiceRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.createshiftdataservicerequest_methods(v=AX.60)
 ms:contentKeyID: 65321619
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

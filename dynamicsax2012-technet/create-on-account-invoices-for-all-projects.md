@@ -4,7 +4,7 @@ TOCTitle: Create on-account invoices for all projects
 ms:assetid: 31e430d6-56da-4322-a42e-e397aa4643de
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570055(v=AX.60)
 ms:contentKeyID: 36056347
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

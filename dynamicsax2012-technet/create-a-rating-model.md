@@ -4,7 +4,7 @@ TOCTitle: Create a rating model
 ms:assetid: 81eca856-f7ac-4406-9635-3a3d64cceb9f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213153(v=AX.60)
 ms:contentKeyID: 50619131
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

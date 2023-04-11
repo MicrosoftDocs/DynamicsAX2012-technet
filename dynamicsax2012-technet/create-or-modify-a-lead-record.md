@@ -4,7 +4,7 @@ TOCTitle: Create or modify a lead record
 ms:assetid: 19c5ad85-a343-4a39-a6f2-627efc688a36
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271464(v=AX.60)
 ms:contentKeyID: 36384096
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

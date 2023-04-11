@@ -4,7 +4,7 @@ TOCTitle: Create a project contract to invoice for progress billings
 ms:assetid: ba3bc52c-c93b-432f-b871-73d10df89674
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242766(v=AX.60)
 ms:contentKeyID: 36059124
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

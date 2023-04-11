@@ -4,7 +4,7 @@ TOCTitle: Customer turnover report (smmCustRevenue)
 ms:assetid: 219dbca6-8abe-40c2-93e2-a9b3c068d81b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573293(v=AX.60)
 ms:contentKeyID: 39092155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

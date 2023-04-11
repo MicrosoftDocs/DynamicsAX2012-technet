@@ -4,7 +4,7 @@ TOCTitle: Create, process, and release a wave manually
 ms:assetid: 78826625-73dd-4ca9-b93d-b9924fecea43
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553173(v=AX.60)
 ms:contentKeyID: 62200099
-author: Khairunj
+author: tonyafehr
 ms.date: 04/29/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create an allocation journal
 ms:assetid: db977a53-bc71-49ba-8c01-e513373dd814
 ms:mtpsurl: https://technet.microsoft.com/library/Ff395363(v=AX.60)
 ms:contentKeyID: 36059668
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

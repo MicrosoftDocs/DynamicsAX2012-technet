@@ -4,7 +4,7 @@ TOCTitle: Create an item rebate group
 ms:assetid: 38706bdd-ad0d-4cc7-855e-24589e7154f6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242205(v=AX.60)
 ms:contentKeyID: 36056621
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

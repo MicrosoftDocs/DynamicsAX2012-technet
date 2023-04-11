@@ -4,7 +4,7 @@ TOCTitle: Create or modify an opportunity record
 ms:assetid: 5601980a-4536-45ae-a9a9-b2d00860c2c1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271537(v=AX.60)
 ms:contentKeyID: 36384169
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

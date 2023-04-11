@@ -4,7 +4,7 @@ TOCTitle: Create or modify an inbound load
 ms:assetid: 95d43aca-d158-4ec9-8d86-1f0906ed5a06
 ms:mtpsurl: https://technet.microsoft.com/library/Dn553181(v=AX.60)
 ms:contentKeyID: 62524891
-author: Khairunj
+author: tonyafehr
 ms.date: 06/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Create a quantity and margin template
 ms:assetid: 2019258b-5f9b-45be-979e-00d75de80c80
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208469(v=AX.60)
 ms:contentKeyID: 36056158
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create and print labels overview (Retail essentials)
 ms:assetid: 211c46a0-8572-46c5-8cb0-d9f29ecc406e
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716058(v=AX.60)
 ms:contentKeyID: 62200330
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

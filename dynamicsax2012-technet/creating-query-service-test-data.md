@@ -4,7 +4,7 @@ TOCTitle: Creating Query Service Test Data
 ms:assetid: 3b7a97d5-3d04-4220-89bb-de138239e85c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg861773(v=AX.60)
 ms:contentKeyID: 35242898
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

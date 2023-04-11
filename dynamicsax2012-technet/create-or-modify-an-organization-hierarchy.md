@@ -4,7 +4,7 @@ TOCTitle: Create or modify an organization hierarchy
 ms:assetid: e791dec5-9dc6-46cb-acdf-f15805179d1e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227463(v=AX.60)
 ms:contentKeyID: 36059818
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create a restricted products regional list for a state or province
 ms:assetid: 01ef0129-f743-426c-b982-e5f8caff9e29
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352175(v=AX.60)
 ms:contentKeyID: 36687806
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 audience: Application User

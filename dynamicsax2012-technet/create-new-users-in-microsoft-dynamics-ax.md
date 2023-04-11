@@ -4,7 +4,7 @@ TOCTitle: Create new users in Microsoft Dynamics AX
 ms:assetid: 4b742341-9d6e-4629-bbe5-620086b7fee8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548139(v=AX.60)
 ms:contentKeyID: 35132626
-author: Khairunj
+author: tonyafehr
 ms.date: 06/27/2014
 mtps_version: v=AX.60
 ---

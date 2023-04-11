@@ -4,7 +4,7 @@ TOCTitle: IsShared Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.CreateShiftRequest.IsShared
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.createshiftrequest.isshared(v=AX.60)
 ms:contentKeyID: 65321877
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

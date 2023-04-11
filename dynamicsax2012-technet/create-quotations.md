@@ -4,7 +4,7 @@ TOCTitle: Create quotations
 ms:assetid: fa2a4c88-ab4c-40f7-8688-c5b10b7e3f19
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499833(v=AX.60)
 ms:contentKeyID: 36060065
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

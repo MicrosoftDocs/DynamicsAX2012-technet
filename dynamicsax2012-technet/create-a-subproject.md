@@ -4,7 +4,7 @@ TOCTitle: Create a subproject
 ms:assetid: f037b165-6e7d-4958-a007-2250679f372a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551579(v=AX.60)
 ms:contentKeyID: 36059922
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

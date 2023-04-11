@@ -4,7 +4,7 @@ TOCTitle: Create a product model
 ms:assetid: fd88012a-4cf3-4d43-a420-7d8475750fd2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573438(v=AX.60)
 ms:contentKeyID: 36060110
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

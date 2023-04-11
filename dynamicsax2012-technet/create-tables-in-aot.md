@@ -4,7 +4,7 @@ TOCTitle: Create tables by using the Application Object Tree (AOT)
 ms:assetid: 
 ms:mtpsurl: 
 ms:contentKeyID: 
-author: Khairunj
+author: tonyafehr
 ms.date: 08/28/2020
 mtps_version: v=AX.60
 ---

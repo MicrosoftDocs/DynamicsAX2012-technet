@@ -4,7 +4,7 @@ TOCTitle: Create budget plan templates manually
 ms:assetid: 897f68e4-799b-4e6c-a267-0415ce5c182f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677347(v=AX.60)
 ms:contentKeyID: 49384121
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create variables on the Table tab
 ms:assetid: 5a3122e0-a189-459e-9305-29d2c095f8bf
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549080(v=AX.60)
 ms:contentKeyID: 36057352
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: Create calculation variables
 ms:assetid: f703954c-47fd-4e6e-9511-6c1f6d02d866
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499783(v=AX.60)
 ms:contentKeyID: 36060023
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
