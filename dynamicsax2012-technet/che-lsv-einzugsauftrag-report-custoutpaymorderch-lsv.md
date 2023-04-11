@@ -4,7 +4,7 @@ TOCTitle: (CHE) LSV+ Einzugsauftrag report (CustOutPaymOrderCH_LSV)
 ms:assetid: c7c3bae3-1ed4-4edc-8c58-fd802b0a06a6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404048(v=AX.60)
 ms:contentKeyID: 36956713
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

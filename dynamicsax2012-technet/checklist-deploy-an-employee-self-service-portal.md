@@ -4,7 +4,7 @@ TOCTitle: 'Checklist: Deploy an employee self-service portal'
 ms:assetid: 6b80e8cf-e827-4b8e-92e6-5a0c33b52d1b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731825(v=AX.60)
 ms:contentKeyID: 35132674
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

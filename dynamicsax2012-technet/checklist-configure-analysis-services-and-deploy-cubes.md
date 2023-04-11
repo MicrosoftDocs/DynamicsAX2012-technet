@@ -4,7 +4,7 @@ TOCTitle: 'Checklist: Configure Analysis Services and deploy cubes'
 ms:assetid: adec63f7-107a-478d-96a6-3beeab12af58
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731892(v=AX.60)
 ms:contentKeyID: 35132808
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: CommercePrincipal Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CheckAccessServiceRequest.CommercePrincipal
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.checkaccessservicerequest.commerceprincipal(v=AX.60)
 ms:contentKeyID: 62209535
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

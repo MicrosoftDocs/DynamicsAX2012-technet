@@ -4,7 +4,7 @@ TOCTitle: Check intercompany order price discrepancies
 ms:assetid: e0f902f9-be18-49c5-ae92-ca796d5ca0ef
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551337(v=AX.60)
 ms:contentKeyID: 36059707
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: (CHE) Company identification numbers for tax exemption
 ms:assetid: 6fba88d7-660e-4ef6-b6c9-fa18c23ac0ef
 ms:mtpsurl: https://technet.microsoft.com/library/Dn715965(v=AX.60)
 ms:contentKeyID: 62200090
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Check out products and create a purchase requisition
 ms:assetid: b8fc0992-bb8d-4c5f-8c22-914ae7b6922b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271635(v=AX.60)
 ms:contentKeyID: 36384267
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 f1_keywords:

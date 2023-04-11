@@ -4,7 +4,7 @@ TOCTitle: CheckAccessServiceRequest Constructor (CommercePrincipal, RetailOperat
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.CheckAccessServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.Data.CommercePrincipal,Microsoft.Dynamics.Commerce.Runtime.DataModel.RetailOperation)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.checkaccessservicerequest.checkaccessservicerequest(v=AX.60)
 ms:contentKeyID: 65318099
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

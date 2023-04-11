@@ -4,7 +4,7 @@ TOCTitle: UpdateValidateCreditCardTenderLines Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.CheckoutController.UpdateValidateCreditCardTenderLines(System.Decimal,System.String,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CartTenderLine})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.checkoutcontroller.updatevalidatecreditcardtenderlines(v=AX.60)
 ms:contentKeyID: 65318397
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

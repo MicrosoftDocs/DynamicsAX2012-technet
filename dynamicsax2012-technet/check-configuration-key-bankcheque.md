@@ -4,7 +4,7 @@ TOCTitle: Check configuration key (BankCheque)
 ms:assetid: 86c81d67-4b02-43ea-8a58-0ee4b32df87f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416681(v=AX.60)
 ms:contentKeyID: 36931842
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

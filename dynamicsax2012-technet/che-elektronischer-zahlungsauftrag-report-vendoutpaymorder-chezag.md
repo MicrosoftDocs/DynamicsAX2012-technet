@@ -4,7 +4,7 @@ TOCTitle: (CHE) Elektronischer Zahlungsauftrag report (VendOutPaymOrder_CHEZAG)
 ms:assetid: b6c027cf-6d0b-4fac-88ac-def33b06c8a5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404047(v=AX.60)
 ms:contentKeyID: 36956708
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

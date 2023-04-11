@@ -4,7 +4,7 @@ TOCTitle: (CHE) Payment advice report (CustOutPaymAdviceCH_LSV)
 ms:assetid: 0d258003-4edb-4fd5-bf8a-e7826bfdacda
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404032(v=AX.60)
 ms:contentKeyID: 36956683
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

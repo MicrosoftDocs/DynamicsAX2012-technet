@@ -4,7 +4,7 @@ TOCTitle: CheckoutController Class
 ms:assetid: T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Controllers.CheckoutController
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.controllers.checkoutcontroller(v=AX.60)
 ms:contentKeyID: 65316010
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

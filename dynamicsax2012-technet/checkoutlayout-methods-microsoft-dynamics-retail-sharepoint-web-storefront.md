@@ -4,7 +4,7 @@ TOCTitle: CheckoutLayout Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.CheckoutLayout
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.checkoutlayout_methods(v=AX.60)
 ms:contentKeyID: 62207137
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

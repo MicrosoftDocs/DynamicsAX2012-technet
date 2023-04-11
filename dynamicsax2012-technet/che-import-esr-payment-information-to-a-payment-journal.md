@@ -4,7 +4,7 @@ TOCTitle: (CHE) Import ESR payment information to a payment journal
 ms:assetid: fc7774eb-65e4-491d-aa88-3bc6597d4963
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243307(v=AX.60)
 ms:contentKeyID: 36060093
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
