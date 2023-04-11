@@ -4,7 +4,7 @@ TOCTitle: " private cloud"
 ms:assetid: DynamicsAXGlossary.1785146
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1785146(v=AX.60)
 ms:contentKeyID: 62830082
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

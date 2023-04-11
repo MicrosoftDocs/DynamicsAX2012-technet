@@ -4,7 +4,7 @@ TOCTitle: Product Builder configuration key (PBA_ProductBuilder)
 ms:assetid: d9de95a5-3029-4866-92b9-cfe631aa047e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa619805(v=AX.60)
 ms:contentKeyID: 36931859
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

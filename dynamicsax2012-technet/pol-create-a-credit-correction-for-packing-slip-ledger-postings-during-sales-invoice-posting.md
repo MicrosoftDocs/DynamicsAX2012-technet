@@ -4,7 +4,7 @@ TOCTitle: (POL) Create a credit correction for packing slip ledger postings duri
 ms:assetid: 3f2ac0a7-75c5-4c78-860f-c542dea3001e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678180(v=AX.60)
 ms:contentKeyID: 49386904
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

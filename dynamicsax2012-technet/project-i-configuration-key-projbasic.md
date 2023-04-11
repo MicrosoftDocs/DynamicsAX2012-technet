@@ -4,7 +4,7 @@ TOCTitle: Project I configuration key (ProjBasic)
 ms:assetid: cf7c4a1d-7418-496d-8284-7128fe528914
 ms:mtpsurl: https://technet.microsoft.com/library/Aa557432(v=AX.60)
 ms:contentKeyID: 39518966
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

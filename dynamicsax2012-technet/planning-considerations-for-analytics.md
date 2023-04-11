@@ -4,7 +4,7 @@ TOCTitle: Planning considerations for analytics
 ms:assetid: 0cfb03b6-336a-4665-be39-b205fd34b5c8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731898(v=AX.60)
 ms:contentKeyID: 35132815
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

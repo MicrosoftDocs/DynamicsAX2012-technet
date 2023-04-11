@@ -4,7 +4,7 @@ TOCTitle: Print inventory journal report (InventJournalTrans)
 ms:assetid: 29da10f3-d0de-4ae9-aa00-5f7367231c96
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209118(v=AX.60)
 ms:contentKeyID: 36057556
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

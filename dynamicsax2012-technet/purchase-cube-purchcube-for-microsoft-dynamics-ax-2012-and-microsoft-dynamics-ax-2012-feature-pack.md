@@ -4,7 +4,7 @@ TOCTitle: Purchase cube (PurchCube)
 ms:assetid: 1faa890e-979e-461b-88b0-aae2145bc76b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781066(v=AX.60)
 ms:contentKeyID: 43894465
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Project consumption (actual vs. budget) report (ProjConsumProj2Column)
 ms:assetid: 002f7efc-e571-4e69-8137-2038ced0e818
 ms:mtpsurl: https://technet.microsoft.com/library/Bb147516(v=AX.60)
 ms:contentKeyID: 37831977
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

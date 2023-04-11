@@ -4,7 +4,7 @@ TOCTitle: Project II license code (Project2)
 ms:assetid: dd122c2c-9715-46fa-b2b4-ac665723ae4e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580492(v=AX.60)
 ms:contentKeyID: 39518968
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

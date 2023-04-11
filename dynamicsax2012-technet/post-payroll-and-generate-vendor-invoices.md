@@ -4,7 +4,7 @@ TOCTitle: Post payroll and generate vendor invoices
 ms:assetid: c3c9d2e3-c947-497a-a6a2-317bb27e779a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677360(v=AX.60)
 ms:contentKeyID: 49384135
-author: Khairunj
+author: tonyafehr
 ms.date: 11/14/2014
 mtps_version: v=AX.60
 f1_keywords:

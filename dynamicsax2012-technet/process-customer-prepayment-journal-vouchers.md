@@ -4,7 +4,7 @@ TOCTitle: Process customer prepayments
 ms:assetid: fec772c8-7812-458d-93ef-07cc89638d4f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243315(v=AX.60)
 ms:contentKeyID: 36060128
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

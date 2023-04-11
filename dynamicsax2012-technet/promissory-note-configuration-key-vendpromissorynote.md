@@ -4,7 +4,7 @@ TOCTitle: Promissory note configuration key (VendPromissoryNote)
 ms:assetid: a9f3d930-837f-422a-a3e8-207420c69f7c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh450734(v=AX.60)
 ms:contentKeyID: 36966670
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

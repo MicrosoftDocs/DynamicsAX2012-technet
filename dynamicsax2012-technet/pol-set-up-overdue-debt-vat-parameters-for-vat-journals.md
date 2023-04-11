@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up overdue debt VAT parameters for VAT journals
 ms:assetid: c22b9e36-df1f-4096-b523-9ae750cb6f9f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716014(v=AX.60)
 ms:contentKeyID: 62200257
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

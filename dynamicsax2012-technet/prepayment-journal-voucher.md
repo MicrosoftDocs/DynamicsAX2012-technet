@@ -4,7 +4,7 @@ TOCTitle: " prepayment journal voucher"
 ms:assetid: DynamicsAXGlossary.1496382
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1496382(v=AX.60)
 ms:contentKeyID: 36057260
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Preparing to maintain standard costs in a manufacturing environment wi
 ms:assetid: 068a31e5-c4ff-43d5-b458-905cfcfc9a91
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230674(v=AX.60)
 ms:contentKeyID: 36055962
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

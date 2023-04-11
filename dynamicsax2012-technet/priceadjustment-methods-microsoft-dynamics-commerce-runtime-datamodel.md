@@ -4,7 +4,7 @@ TOCTitle: PriceAdjustment Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceAdjustment
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.priceadjustment_methods(v=AX.60)
 ms:contentKeyID: 49825741
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

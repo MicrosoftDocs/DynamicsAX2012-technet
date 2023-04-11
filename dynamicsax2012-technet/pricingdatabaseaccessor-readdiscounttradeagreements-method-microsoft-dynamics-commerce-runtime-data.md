@@ -4,7 +4,7 @@ TOCTitle: ReadDiscountTradeAgreements Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.PricingDatabaseAccessor.ReadDiscountTradeAgreements(System.Collections.Generic.ISet{System.String},System.String,System.DateTimeOffset,System.DateTimeOffset,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.pricingdatabaseaccessor.readdiscounttradeagreements(v=AX.60)
 ms:contentKeyID: 62209181
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

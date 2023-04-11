@@ -4,7 +4,7 @@ TOCTitle: CalculateCategorySignature Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.ProductListing.CalculateCategorySignature(System.Collections.Generic.IDictionary{System.Int64,Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.ProductCategory})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.productlisting.calculatecategorysignature(v=AX.60)
 ms:contentKeyID: 65316423
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

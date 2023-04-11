@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up a number sequence code for the interest note and voucher
 ms:assetid: 4cc41d32-66d7-4493-b13d-5887f9e71c07
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678194(v=AX.60)
 ms:contentKeyID: 49386917
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

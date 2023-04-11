@@ -4,7 +4,7 @@ TOCTitle: Product dimension - color configuration key (EcoResProductColor)
 ms:assetid: 52b9b9cd-c036-43aa-a440-510ed84c8983
 ms:mtpsurl: https://technet.microsoft.com/library/Aa582706(v=AX.60)
 ms:contentKeyID: 36993545
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Place an Accounts receivable transaction on hold
 ms:assetid: 6d432440-ea98-432f-b30c-85385eb33244
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231801(v=AX.60)
 ms:contentKeyID: 36058025
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

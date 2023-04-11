@@ -4,7 +4,7 @@ TOCTitle: Purchase and sales agreement configuration key (TradeBlanketOrder)
 ms:assetid: 5d232494-f2d0-4bf9-abce-65f53d1f0e18
 ms:mtpsurl: https://technet.microsoft.com/library/Aa584152(v=AX.60)
 ms:contentKeyID: 36997753
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

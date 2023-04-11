@@ -4,7 +4,7 @@ TOCTitle: Project consumption (2 periods) report (ProjConsumProj2Prd)
 ms:assetid: a6acaf41-0b0c-4acc-a86d-18f415e58420
 ms:mtpsurl: https://technet.microsoft.com/library/Bb220738(v=AX.60)
 ms:contentKeyID: 37832027
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

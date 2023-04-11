@@ -4,7 +4,7 @@ TOCTitle: ProductListingKey Constructor (ProductListing)
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey.#ctor(Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.ProductListing)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.productlistingkey(v=AX.60)
 ms:contentKeyID: 65316235
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: Project attached to service agreement
 ms:assetid: 64472394-93dc-4d69-9a00-b2b6e7e2093a
 ms:mtpsurl: https://technet.microsoft.com/library/Aa585193(v=AX.60)
 ms:contentKeyID: 42517324
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

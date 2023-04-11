@@ -4,7 +4,7 @@ TOCTitle: Process batch jobs and tasks
 ms:assetid: 5002a400-7a5c-4193-a4dd-f894d5eb9d92
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731793(v=AX.60)
 ms:contentKeyID: 35132634
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

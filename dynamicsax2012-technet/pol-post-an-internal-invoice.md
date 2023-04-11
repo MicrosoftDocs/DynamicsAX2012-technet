@@ -4,7 +4,7 @@ TOCTitle: (POL) Post an internal invoice
 ms:assetid: bacc41f3-9019-446b-af6a-0c80873cd021
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711259(v=AX.60)
 ms:contentKeyID: 49387077
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

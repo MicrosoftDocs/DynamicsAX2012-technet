@@ -4,7 +4,7 @@ TOCTitle: Production supervisor security role (ProdProductionSupervisor)
 ms:assetid: c1a0a090-1c54-4cd1-b377-f1dab88c918f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527133(v=AX.60)
 ms:contentKeyID: 37823184
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Product configuration configuration key (PC)
 ms:assetid: 47d50ba9-d44b-4cb2-b3c5-71ecb797eaa9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433453(v=AX.60)
 ms:contentKeyID: 36941206
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

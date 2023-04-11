@@ -4,7 +4,7 @@ TOCTitle: (POL) Manage purchase requisitions and orders
 ms:assetid: c44bd920-2d79-4a39-9bf3-66d3c80acb7d
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711258(v=AX.60)
 ms:contentKeyID: 49387076
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

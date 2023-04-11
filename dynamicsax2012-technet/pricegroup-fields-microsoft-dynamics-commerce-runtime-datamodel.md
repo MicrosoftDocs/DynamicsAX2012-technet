@@ -4,7 +4,7 @@ TOCTitle: PriceGroup Fields
 ms:assetid: Fields.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceGroup
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.pricegroup_fields(v=AX.60)
 ms:contentKeyID: 62208814
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

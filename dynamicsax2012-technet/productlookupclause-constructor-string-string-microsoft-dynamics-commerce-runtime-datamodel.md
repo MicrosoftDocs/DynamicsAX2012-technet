@@ -4,7 +4,7 @@ TOCTitle: ProductLookupClause Constructor (String, String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductLookupClause.#ctor(System.String,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productlookupclause.productlookupclause(v=AX.60)
 ms:contentKeyID: 62214685
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

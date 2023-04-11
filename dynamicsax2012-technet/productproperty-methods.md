@@ -4,7 +4,7 @@ TOCTitle: ProductProperty Methods
 ms:assetid: Methods.T:ProductProperty
 ms:mtpsurl: https://technet.microsoft.com/library/productproperty_methods(v=AX.60)
 ms:contentKeyID: 65316006
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

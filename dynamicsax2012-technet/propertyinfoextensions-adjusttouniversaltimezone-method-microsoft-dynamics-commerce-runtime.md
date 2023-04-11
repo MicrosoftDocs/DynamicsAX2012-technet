@@ -4,7 +4,7 @@ TOCTitle: AdjustToUniversalTimeZone Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.PropertyInfoExtensions.AdjustToUniversalTimeZone(System.Reflection.PropertyInfo,System.Object,Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.propertyinfoextensions.adjusttouniversaltimezone(v=AX.60)
 ms:contentKeyID: 65321773
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

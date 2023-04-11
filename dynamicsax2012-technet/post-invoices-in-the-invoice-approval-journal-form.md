@@ -4,7 +4,7 @@ TOCTitle: Post invoices in the Invoice approval journal form
 ms:assetid: f79de90e-a2f4-4bf0-be6d-e6733dcd6574
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499801(v=AX.60)
 ms:contentKeyID: 36060037
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

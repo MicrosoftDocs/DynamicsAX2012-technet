@@ -4,7 +4,7 @@ TOCTitle: (POL) Maintain currency exchange differences
 ms:assetid: 63680152-f029-4f60-8030-9bc5ee88e5fa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678220(v=AX.60)
 ms:contentKeyID: 49386943
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

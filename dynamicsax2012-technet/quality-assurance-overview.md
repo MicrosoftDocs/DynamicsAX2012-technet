@@ -4,7 +4,7 @@ TOCTitle: Quality assurance overview
 ms:assetid: 6515deed-98da-4d18-a5a7-16aa02fa5b0f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231545(v=AX.60)
 ms:contentKeyID: 36057735
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

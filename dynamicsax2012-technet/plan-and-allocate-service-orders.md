@@ -4,7 +4,7 @@ TOCTitle: Plan and allocate service orders
 ms:assetid: 2948460b-050a-4d8f-8e60-382cbc6ba46d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231005(v=AX.60)
 ms:contentKeyID: 36056219
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

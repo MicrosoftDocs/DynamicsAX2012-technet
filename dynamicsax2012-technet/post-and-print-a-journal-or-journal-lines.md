@@ -4,7 +4,7 @@ TOCTitle: Post and print a journal or journal lines
 ms:assetid: 26c310cc-4dff-472a-81e7-b9f90ffe80b0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496825(v=AX.60)
 ms:contentKeyID: 36056203
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

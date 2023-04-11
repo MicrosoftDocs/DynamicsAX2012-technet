@@ -4,7 +4,7 @@ TOCTitle: Print periodic customer account statements
 ms:assetid: 896a59aa-e767-4bdb-ad0a-5a4c0433e076
 ms:mtpsurl: https://technet.microsoft.com/library/Gg242856(v=AX.60)
 ms:contentKeyID: 36966733
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

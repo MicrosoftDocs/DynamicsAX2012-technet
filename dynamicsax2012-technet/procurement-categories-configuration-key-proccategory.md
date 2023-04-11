@@ -4,7 +4,7 @@ TOCTitle: Procurement categories configuration key (ProcCategory)
 ms:assetid: 8cd7b6fd-b1fb-4e59-ab20-10adda5dc3b2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433463(v=AX.60)
 ms:contentKeyID: 36941218
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

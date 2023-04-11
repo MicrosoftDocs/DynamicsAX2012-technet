@@ -4,7 +4,7 @@ TOCTitle: Print the status of a sales agreement
 ms:assetid: 6e4d5403-b2eb-4373-9a25-b4bd95c64e40
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571216(v=AX.60)
 ms:contentKeyID: 39519168
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

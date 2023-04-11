@@ -4,7 +4,7 @@ TOCTitle: Prerequisites for questionnaire
 ms:assetid: 8b160326-6a6b-4516-8cd0-400ceef19d3b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597161(v=AX.60)
 ms:contentKeyID: 39519218
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

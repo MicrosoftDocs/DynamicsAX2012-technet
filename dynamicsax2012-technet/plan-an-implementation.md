@@ -4,7 +4,7 @@ TOCTitle: Plan an implementation
 ms:assetid: 5ee18027-5b36-4b23-bd09-e9546141fc92
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731813(v=AX.60)
 ms:contentKeyID: 35132660
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

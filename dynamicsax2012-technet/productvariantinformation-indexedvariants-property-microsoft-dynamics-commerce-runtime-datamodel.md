@@ -4,7 +4,7 @@ TOCTitle: IndexedVariants Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductVariantInformation.IndexedVariants
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productvariantinformation.indexedvariants(v=AX.60)
 ms:contentKeyID: 62204741
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

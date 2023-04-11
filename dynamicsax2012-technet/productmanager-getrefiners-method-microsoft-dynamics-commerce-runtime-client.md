@@ -4,7 +4,7 @@ TOCTitle: GetRefiners Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager.GetRefiners(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager.getrefiners(v=AX.60)
 ms:contentKeyID: 65323130
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

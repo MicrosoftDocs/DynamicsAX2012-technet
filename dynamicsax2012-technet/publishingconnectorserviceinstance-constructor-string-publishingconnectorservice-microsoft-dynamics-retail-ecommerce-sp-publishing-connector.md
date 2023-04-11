@@ -4,7 +4,7 @@ TOCTitle: PublishingConnectorServiceInstance Constructor (String, , PublishingCo
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingConnectorServiceInstance.#ctor(System.String,Microsoft.SharePoint.Administration.SPServer,Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingConnectorService)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingconnectorserviceinstance.publishingconnectorserviceinstance(v=AX.60)
 ms:contentKeyID: 65316875
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

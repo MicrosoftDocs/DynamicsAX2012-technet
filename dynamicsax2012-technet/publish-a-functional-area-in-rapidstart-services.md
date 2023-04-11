@@ -4,7 +4,7 @@ TOCTitle: Publish a functional area in RapidStart Services
 ms:assetid: 4facdf8a-e935-4391-b36d-d8ecea5ea2ac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413233(v=AX.60)
 ms:contentKeyID: 36918924
-author: Khairunj
+author: tonyafehr
 ms.date: 09/18/2015
 mtps_version: v=AX.60
 f1_keywords:

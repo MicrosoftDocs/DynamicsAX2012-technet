@@ -4,7 +4,7 @@ TOCTitle: ProductList Constructor (String, Int32, Int32)
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.ProductList.#ctor(System.String,System.Int32,System.Int32)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.productlist.productlist(v=AX.60)
 ms:contentKeyID: 65315568
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

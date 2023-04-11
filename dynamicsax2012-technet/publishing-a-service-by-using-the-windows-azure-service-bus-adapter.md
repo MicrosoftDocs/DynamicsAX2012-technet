@@ -4,7 +4,7 @@ TOCTitle: Publishing a service by using the Windows Azure Service Bus adapter
 ms:assetid: 16b6d55c-3d9f-4aaf-b319-982cc75e10f8
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720288(v=AX.60)
 ms:contentKeyID: 62221429
-author: Khairunj
+author: tonyafehr
 ms.date: 04/25/2014
 mtps_version: v=AX.60
 ---

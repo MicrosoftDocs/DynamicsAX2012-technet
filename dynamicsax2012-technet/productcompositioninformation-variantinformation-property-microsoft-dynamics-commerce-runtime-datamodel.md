@@ -4,7 +4,7 @@ TOCTitle: VariantInformation Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCompositionInformation.VariantInformation
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productcompositioninformation.variantinformation(v=AX.60)
 ms:contentKeyID: 62209559
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

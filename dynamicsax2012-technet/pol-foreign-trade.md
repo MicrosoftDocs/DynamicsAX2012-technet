@@ -4,7 +4,7 @@ TOCTitle: (POL) Foreign trade
 ms:assetid: 83299395-c8e2-473d-afe9-634f96e55cec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678269(v=AX.60)
 ms:contentKeyID: 49386991
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

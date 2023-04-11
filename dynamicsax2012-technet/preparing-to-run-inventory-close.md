@@ -4,7 +4,7 @@ TOCTitle: Preparing to run inventory close
 ms:assetid: e0268068-6780-4060-93f9-791a83ae92ea
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243205(v=AX.60)
 ms:contentKeyID: 36059703
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

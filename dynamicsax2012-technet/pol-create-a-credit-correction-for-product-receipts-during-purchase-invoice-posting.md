@@ -4,7 +4,7 @@ TOCTitle: (POL) Create a credit correction for product receipts during purchase 
 ms:assetid: 96c763b7-d0cf-4abf-a337-13c4f239b110
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678303(v=AX.60)
 ms:contentKeyID: 49387025
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

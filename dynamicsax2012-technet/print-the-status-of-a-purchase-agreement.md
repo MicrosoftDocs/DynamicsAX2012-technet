@@ -4,7 +4,7 @@ TOCTitle: Print the status of a purchase agreement
 ms:assetid: 004d969b-455e-4de1-bd4a-5bc582356ec2
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569679(v=AX.60)
 ms:contentKeyID: 36055914
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

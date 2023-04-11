@@ -4,7 +4,7 @@ TOCTitle: (POL) Configuring product-wide features for Poland
 ms:assetid: 1450173e-2a22-479e-8ec5-8e0abbd4f74a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678133(v=AX.60)
 ms:contentKeyID: 49386857
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

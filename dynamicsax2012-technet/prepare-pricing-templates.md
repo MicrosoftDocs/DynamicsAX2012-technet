@@ -4,7 +4,7 @@ TOCTitle: Prepare pricing templates
 ms:assetid: 05ddf6ed-d9ca-44f8-92ea-46aae1cee6f4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh556856(v=AX.60)
 ms:contentKeyID: 39509586
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Prevent collection letters for invoices that are sent to a collection 
 ms:assetid: 1f00234d-bc33-469a-a744-f4c4eb089d00
 ms:mtpsurl: https://technet.microsoft.com/library/Hh292595(v=AX.60)
 ms:contentKeyID: 36655925
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

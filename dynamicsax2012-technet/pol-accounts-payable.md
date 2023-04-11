@@ -4,7 +4,7 @@ TOCTitle: (POL) Accounts payable
 ms:assetid: c5389f91-3db0-435c-bb25-807c1809dc26
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711269(v=AX.60)
 ms:contentKeyID: 49387087
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

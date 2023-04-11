@@ -4,7 +4,7 @@ TOCTitle: Pre-encumbrance process configuration key (LedgerPreEncumbrance)
 ms:assetid: ea7ed578-c432-4e21-80c9-cdda69a81026
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500163(v=AX.60)
 ms:contentKeyID: 37820194
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

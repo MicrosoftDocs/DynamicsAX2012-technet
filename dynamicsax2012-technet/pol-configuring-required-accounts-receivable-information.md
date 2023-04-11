@@ -4,7 +4,7 @@ TOCTitle: (POL) Configuring required Accounts receivable information
 ms:assetid: 9f67455f-cc0e-4ce4-abe4-5404ed4e53a8
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678315(v=AX.60)
 ms:contentKeyID: 49387037
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

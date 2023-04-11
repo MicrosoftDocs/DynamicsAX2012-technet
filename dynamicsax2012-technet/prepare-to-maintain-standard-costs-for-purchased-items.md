@@ -4,7 +4,7 @@ TOCTitle: Prepare to maintain standard costs for purchased items
 ms:assetid: 2070913a-605d-4e69-a53d-614780fccb61
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230981(v=AX.60)
 ms:contentKeyID: 36056160
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

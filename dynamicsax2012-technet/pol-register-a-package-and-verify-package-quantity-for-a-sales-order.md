@@ -4,7 +4,7 @@ TOCTitle: (POL) Register a package and verify package quantity for a sales order
 ms:assetid: a3394526-79c3-4788-9ad6-f7623b52dfcd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ923255(v=AX.60)
 ms:contentKeyID: 52075337
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

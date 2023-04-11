@@ -4,7 +4,7 @@ TOCTitle: GetAllPriceGroupsForDiscount Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContextHelper.GetAllPriceGroupsForDiscount(Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getallpricegroupsfordiscount(v=AX.60)
 ms:contentKeyID: 62204961
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

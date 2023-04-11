@@ -4,7 +4,7 @@ TOCTitle: Printer Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.Printer
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.printer_properties(v=AX.60)
 ms:contentKeyID: 62208639
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

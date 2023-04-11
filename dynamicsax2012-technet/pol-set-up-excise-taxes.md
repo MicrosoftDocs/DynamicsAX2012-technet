@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up excise taxes
 ms:assetid: 2af7d491-dd89-4fbe-a9c0-fcc671576388
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678163(v=AX.60)
 ms:contentKeyID: 49386886
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

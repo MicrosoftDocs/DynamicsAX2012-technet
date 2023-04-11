@@ -4,7 +4,7 @@ TOCTitle: Print vendor checks
 ms:assetid: 4330dd4f-a15a-42cd-95ef-e1399143d5e9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231372(v=AX.60)
 ms:contentKeyID: 36966720
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

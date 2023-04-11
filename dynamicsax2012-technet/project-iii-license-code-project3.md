@@ -4,7 +4,7 @@ TOCTitle: Project III license code (Project3)
 ms:assetid: fdfb8552-ff61-45b2-96f9-c7b8b1c1fbfa
 ms:mtpsurl: https://technet.microsoft.com/library/Hh500164(v=AX.60)
 ms:contentKeyID: 37820195
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

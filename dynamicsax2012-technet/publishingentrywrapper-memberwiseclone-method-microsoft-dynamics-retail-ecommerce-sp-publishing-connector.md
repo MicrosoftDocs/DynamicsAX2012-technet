@@ -4,7 +4,7 @@ TOCTitle: MemberwiseClone Method
 ms:assetid: Overload:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.PublishingEntryWrapper.MemberwiseClone
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.publishingentrywrapper.memberwiseclone(v=AX.60)
 ms:contentKeyID: 65316311
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

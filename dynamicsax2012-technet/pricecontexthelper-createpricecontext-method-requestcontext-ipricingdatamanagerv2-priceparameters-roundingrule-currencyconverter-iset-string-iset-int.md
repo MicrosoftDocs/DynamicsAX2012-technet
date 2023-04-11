@@ -4,7 +4,7 @@ TOCTitle: CreatePriceContext Method (RequestContext, IPricingDataManagerV2, Pric
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContextHelper.CreatePriceContext(Microsoft.Dynamics.Commerce.Runtime.RequestContext,Microsoft.Dynamics.Commerce.Runtime.Data.IPricingDataManagerV2,Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceParameters,Microsoft.Dynamics.Commerce.Runtime.DataModel.RoundingRule,Microsoft.Dynamics.Commerce.Runtime.Data.CurrencyConverter,System.Collections.Generic.ISet{System.String},System.Collections.Generic.ISet{System.Int64},System.DateTimeOffset,Microsoft.Dynamics.Commerce.Runtime.DataModel.PricingCalculationMode,Microsoft.Dynamics.Commerce.Runtime.DataModel.DiscountCalculationMode)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.createpricecontext(v=AX.60)
 ms:contentKeyID: 65317363
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

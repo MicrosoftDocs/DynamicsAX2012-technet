@@ -4,7 +4,7 @@ TOCTitle: PriceChangedNotification Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceChangedNotification.#ctor(System.String,System.Decimal,System.Decimal,System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.pricechangednotification.pricechangednotification(v=AX.60)
 ms:contentKeyID: 65319298
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

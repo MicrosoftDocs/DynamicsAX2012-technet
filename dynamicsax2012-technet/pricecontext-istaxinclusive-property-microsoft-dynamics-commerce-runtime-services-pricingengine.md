@@ -4,7 +4,7 @@ TOCTitle: IsTaxInclusive Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContext.IsTaxInclusive
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontext.istaxinclusive(v=AX.60)
 ms:contentKeyID: 62214967
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

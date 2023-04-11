@@ -4,7 +4,7 @@ TOCTitle: Publish-AXReport
 ms:assetid: 63E9E14A-CC51-4286-B105-B18CEF38CAA0
 ms:mtpsurl: https://technet.microsoft.com/library/JJ720262(v=AX.60)
 ms:contentKeyID: 49720051
-author: Khairunj
+author: tonyafehr
 ms.date: 11/05/2013
 mtps_version: v=AX.60
 ---

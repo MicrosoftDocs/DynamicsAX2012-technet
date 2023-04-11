@@ -4,7 +4,7 @@ TOCTitle: ProductCategory Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.CatalogManagement.ProductCategory
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.catalogmanagement.productcategory_methods(v=AX.60)
 ms:contentKeyID: 65317599
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

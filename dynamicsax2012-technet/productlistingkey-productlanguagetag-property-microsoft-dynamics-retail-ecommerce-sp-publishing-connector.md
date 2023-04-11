@@ -4,7 +4,7 @@ TOCTitle: ProductLanguageTag Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey.ProductLanguageTag
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey.productlanguagetag(v=AX.60)
 ms:contentKeyID: 65316300
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

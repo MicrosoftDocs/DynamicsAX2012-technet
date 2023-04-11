@@ -4,7 +4,7 @@ TOCTitle: Procurement II configuration key (ProcAdvanced)
 ms:assetid: 0f9a6f82-8224-4b82-8394-b5c7e64b679f
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433445(v=AX.60)
 ms:contentKeyID: 36941194
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

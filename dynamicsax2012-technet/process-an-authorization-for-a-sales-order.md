@@ -4,7 +4,7 @@ TOCTitle: Process an authorization for a sales order
 ms:assetid: 793bbf11-d089-4280-afdf-6640e3cbdd87
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213014(v=AX.60)
 ms:contentKeyID: 36655935
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

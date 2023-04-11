@@ -4,7 +4,7 @@ TOCTitle: ProductCatalogAssociation Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCatalogAssociation
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productcatalogassociation_properties(v=AX.60)
 ms:contentKeyID: 62210441
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

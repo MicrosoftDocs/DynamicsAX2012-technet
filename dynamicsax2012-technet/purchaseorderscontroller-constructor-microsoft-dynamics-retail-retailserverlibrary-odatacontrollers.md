@@ -4,7 +4,7 @@ TOCTitle: PurchaseOrdersController Constructor
 ms:assetid: M:Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers.PurchaseOrdersController.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.retailserverlibrary.odatacontrollers.purchaseorderscontroller.purchaseorderscontroller(v=AX.60)
 ms:contentKeyID: 62202510
-author: Khairunj
+author: tonyafehr
 ms.date: 04/21/2014
 mtps_version: v=AX.60
 f1_keywords:

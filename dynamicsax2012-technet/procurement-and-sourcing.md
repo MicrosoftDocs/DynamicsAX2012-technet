@@ -4,7 +4,7 @@ TOCTitle: Procurement and sourcing
 ms:assetid: 4eee201e-a5d3-4264-be15-c4134829ffec
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208778(v=AX.60)
 ms:contentKeyID: 36057064
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

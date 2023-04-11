@@ -4,7 +4,7 @@ TOCTitle: Project accounting cube (ProjCube)
 ms:assetid: 2fb11049-e523-4b38-862e-29ecb5621867
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781067(v=AX.60)
 ms:contentKeyID: 43894466
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

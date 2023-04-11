@@ -4,7 +4,7 @@ TOCTitle: Procurement I license code (ProcEssentials)
 ms:assetid: d1965d6b-84ca-4730-a7cb-6d331a9e47ce
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433471(v=AX.60)
 ms:contentKeyID: 36941228
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: (POL) Post VAT transactions
 ms:assetid: c9fb7fd6-c7b8-43ec-a81f-0df9829fdadf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711267(v=AX.60)
 ms:contentKeyID: 49387085
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: ProductReview Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Controls.ProductReview
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.controls.productreview_events(v=AX.60)
 ms:contentKeyID: 62205986
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

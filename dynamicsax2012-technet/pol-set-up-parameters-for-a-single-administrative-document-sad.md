@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up parameters for a Single Administrative Document (SAD)
 ms:assetid: 69116d7a-b62c-48c7-ac5e-5431207d07fa
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731081(v=AX.60)
 ms:contentKeyID: 49675321
-author: Khairunj
+author: tonyafehr
 ms.date: 05/01/2014
 mtps_version: v=AX.60
 audience: Application User

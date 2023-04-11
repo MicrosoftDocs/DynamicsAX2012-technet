@@ -4,7 +4,7 @@ TOCTitle: (POL) Working with General ledger
 ms:assetid: d1bb23be-7725-489a-b4b7-ffe76596eae6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711289(v=AX.60)
 ms:contentKeyID: 49387107
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

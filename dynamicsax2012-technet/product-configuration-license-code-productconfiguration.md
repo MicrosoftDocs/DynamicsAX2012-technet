@@ -4,7 +4,7 @@ TOCTitle: Product configuration license code (ProductConfiguration)
 ms:assetid: 522a3494-ac71-42c4-8393-f5ae8ad324c1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433455(v=AX.60)
 ms:contentKeyID: 36941208
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

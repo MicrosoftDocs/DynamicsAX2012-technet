@@ -4,7 +4,7 @@ TOCTitle: Project I license code (Project1)
 ms:assetid: 7feb96ac-269a-44dc-8b09-6af49b1f8a37
 ms:mtpsurl: https://technet.microsoft.com/library/Hh580490(v=AX.60)
 ms:contentKeyID: 39518961
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

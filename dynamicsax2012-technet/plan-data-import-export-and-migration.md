@@ -4,7 +4,7 @@ TOCTitle: Plan data import, export, and migration
 ms:assetid: a05289fb-0f8f-4563-be3c-7c840bfea7e1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548629(v=AX.60)
 ms:contentKeyID: 35132789
-author: Khairunj
+author: tonyafehr
 ms.date: 08/20/2014
 mtps_version: v=AX.60
 ---

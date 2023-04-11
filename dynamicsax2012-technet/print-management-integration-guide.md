@@ -4,7 +4,7 @@ TOCTitle: Print Management Integration Guide
 ms:assetid: 94dbc3c3-09b5-41d8-bb91-42789081f56c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ872759(v=AX.60)
 ms:contentKeyID: 50587626
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

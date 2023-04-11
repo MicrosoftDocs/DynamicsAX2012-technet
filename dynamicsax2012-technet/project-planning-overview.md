@@ -4,7 +4,7 @@ TOCTitle: Project planning overview
 ms:assetid: dbd9083f-a001-4224-a4e1-082dce969497
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227407(v=AX.60)
 ms:contentKeyID: 36059671
-author: Khairunj
+author: tonyafehr
 ms.date: 10/06/2014
 mtps_version: v=AX.60
 f1_keywords:

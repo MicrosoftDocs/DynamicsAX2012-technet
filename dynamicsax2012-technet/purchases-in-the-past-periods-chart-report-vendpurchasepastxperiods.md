@@ -4,7 +4,7 @@ TOCTitle: Purchases in the past periods chart report (VendPurchasePastXPeriods)
 ms:assetid: fe54ba8d-1ce1-425f-ab67-687518cf6b60
 ms:mtpsurl: https://technet.microsoft.com/library/Hh538469(v=AX.60)
 ms:contentKeyID: 39508900
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

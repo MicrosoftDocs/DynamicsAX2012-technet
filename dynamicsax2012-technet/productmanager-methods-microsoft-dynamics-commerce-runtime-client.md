@@ -4,7 +4,7 @@ TOCTitle: ProductManager Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager_methods(v=AX.60)
 ms:contentKeyID: 49855962
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

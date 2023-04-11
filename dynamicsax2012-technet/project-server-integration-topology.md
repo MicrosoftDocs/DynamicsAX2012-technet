@@ -4,7 +4,7 @@ TOCTitle: Project Server integration topology
 ms:assetid: 72d1679e-9173-4fe5-9b9e-6812570d6f88
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309715(v=AX.60)
 ms:contentKeyID: 39508878
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

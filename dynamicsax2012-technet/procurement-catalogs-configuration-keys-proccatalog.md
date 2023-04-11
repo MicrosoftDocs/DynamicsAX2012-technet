@@ -4,7 +4,7 @@ TOCTitle: Procurement catalogs configuration keys (ProcCatalog)
 ms:assetid: 8876977b-d9c4-4ab4-8ab7-61a7a501b200
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433461(v=AX.60)
 ms:contentKeyID: 36941215
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

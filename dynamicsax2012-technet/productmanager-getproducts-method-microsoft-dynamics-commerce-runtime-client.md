@@ -4,7 +4,7 @@ TOCTitle: GetProducts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Client.ProductManager.GetProducts(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.client.productmanager.getproducts(v=AX.60)
 ms:contentKeyID: 65321563
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

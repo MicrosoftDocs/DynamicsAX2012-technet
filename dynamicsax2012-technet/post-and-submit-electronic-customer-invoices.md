@@ -4,7 +4,7 @@ TOCTitle: Post and submit electronic customer invoices
 ms:assetid: 41cda84d-5f1f-48e2-a93e-050fd11eeef9
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231363(v=AX.60)
 ms:contentKeyID: 36056732
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

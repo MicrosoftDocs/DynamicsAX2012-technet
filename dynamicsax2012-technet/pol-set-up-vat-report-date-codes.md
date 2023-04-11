@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up VAT report date codes
 ms:assetid: 1d6386e8-8643-481f-ad56-baabd102a220
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678146(v=AX.60)
 ms:contentKeyID: 49386869
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

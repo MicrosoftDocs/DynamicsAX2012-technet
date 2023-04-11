@@ -4,7 +4,7 @@ TOCTitle: (POL) Invoice customers
 ms:assetid: 84d26c8e-cf56-40f7-9425-84c6e54401c6
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678273(v=AX.60)
 ms:contentKeyID: 49386995
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

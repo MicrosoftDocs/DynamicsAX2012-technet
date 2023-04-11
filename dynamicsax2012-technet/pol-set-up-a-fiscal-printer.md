@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up a fiscal printer
 ms:assetid: fdf5e248-ddab-4632-868e-ea97fa667372
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711338(v=AX.60)
 ms:contentKeyID: 49387155
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

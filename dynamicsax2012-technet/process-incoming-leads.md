@@ -4,7 +4,7 @@ TOCTitle: Process incoming leads
 ms:assetid: 031cbaac-a6ac-4fcf-a552-04e442a78489
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230653(v=AX.60)
 ms:contentKeyID: 36055937
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

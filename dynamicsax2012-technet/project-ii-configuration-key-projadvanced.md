@@ -4,7 +4,7 @@ TOCTitle: Project II configuration key (ProjAdvanced)
 ms:assetid: 7f8952ff-c539-4830-b8af-7ca48f2706cb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa615589(v=AX.60)
 ms:contentKeyID: 39518960
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

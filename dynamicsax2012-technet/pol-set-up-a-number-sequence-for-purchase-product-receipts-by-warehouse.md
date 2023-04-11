@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up a number sequence for purchase product receipts by wareho
 ms:assetid: e866955a-5e01-4631-b0f2-1ee88954ea0c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711321(v=AX.60)
 ms:contentKeyID: 49387140
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

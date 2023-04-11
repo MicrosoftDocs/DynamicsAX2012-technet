@@ -4,7 +4,7 @@ TOCTitle: Post completed store inventory documents (Retail essentials)
 ms:assetid: 2b586be1-23a4-4fc6-ba1c-a28938d24658
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716064(v=AX.60)
 ms:contentKeyID: 62200329
-author: Khairunj
+author: tonyafehr
 ms.date: 08/15/2014
 mtps_version: v=AX.60
 ---

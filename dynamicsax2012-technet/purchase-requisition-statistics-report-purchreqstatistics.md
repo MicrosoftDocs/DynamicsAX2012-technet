@@ -4,7 +4,7 @@ TOCTitle: Purchase requisition statistics report (PurchReqStatistics)
 ms:assetid: 9d9518c5-e754-447e-8709-21fc4df4f891
 ms:mtpsurl: https://technet.microsoft.com/library/Hh335162(v=AX.60)
 ms:contentKeyID: 36687374
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

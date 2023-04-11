@@ -4,7 +4,7 @@ TOCTitle: Procurement and sourcing reports
 ms:assetid: 92d1f6af-67fb-4153-b7af-296b73242939
 ms:mtpsurl: https://technet.microsoft.com/library/Hh334496(v=AX.60)
 ms:contentKeyID: 36676484
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

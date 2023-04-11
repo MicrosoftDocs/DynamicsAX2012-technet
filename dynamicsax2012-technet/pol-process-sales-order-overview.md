@@ -4,7 +4,7 @@ TOCTitle: (POL) Process sales order overview
 ms:assetid: 4f50c7ef-7e6a-421a-96c3-42fe3b5e3a70
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678198(v=AX.60)
 ms:contentKeyID: 49386921
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

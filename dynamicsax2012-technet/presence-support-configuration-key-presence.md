@@ -4,7 +4,7 @@ TOCTitle: Presence support configuration key (Presence)
 ms:assetid: a90c4974-0df3-455b-bb75-a5978e402783
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433468(v=AX.60)
 ms:contentKeyID: 36941224
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

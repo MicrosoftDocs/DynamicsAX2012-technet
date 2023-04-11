@@ -4,7 +4,7 @@ TOCTitle: GetCatalogIds Method (SalesTransaction)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.PricingEngine.PriceContextHelper.GetCatalogIds(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesTransaction)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.pricingengine.pricecontexthelper.getcatalogids(v=AX.60)
 ms:contentKeyID: 62211783
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

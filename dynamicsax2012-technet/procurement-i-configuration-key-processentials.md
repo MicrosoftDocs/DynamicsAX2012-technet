@@ -4,7 +4,7 @@ TOCTitle: Procurement I configuration key (ProcEssentials)
 ms:assetid: 5a9900ff-fa6e-4d4b-b203-b8947bc5f93b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433456(v=AX.60)
 ms:contentKeyID: 36941209
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

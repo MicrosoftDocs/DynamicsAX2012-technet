@@ -4,7 +4,7 @@ TOCTitle: Print management
 ms:assetid: 171cc27d-d606-4fc9-b346-e20bf049f885
 ms:mtpsurl: https://technet.microsoft.com/library/Dd309604(v=AX.60)
 ms:contentKeyID: 36056078
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

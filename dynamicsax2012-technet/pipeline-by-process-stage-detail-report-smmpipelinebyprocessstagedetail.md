@@ -4,7 +4,7 @@ TOCTitle: Pipeline by process stage detail report (smmPipelineByProcessStageDeta
 ms:assetid: c4f3c4eb-57d2-4ddb-a4f9-0b0bfff60a4b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh412254(v=AX.60)
 ms:contentKeyID: 36916365
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

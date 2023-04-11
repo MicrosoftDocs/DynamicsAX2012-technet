@@ -4,7 +4,7 @@ TOCTitle: Procurement II license code (ProcAdvanced)
 ms:assetid: a7927650-6619-498c-ab2e-fcd4e54eacd1
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433466(v=AX.60)
 ms:contentKeyID: 36941222
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: InventoryDimensionId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.PriceAdjustment.InventoryDimensionId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.priceadjustment.inventorydimensionid(v=AX.60)
 ms:contentKeyID: 62208270
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

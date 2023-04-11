@@ -4,7 +4,7 @@ TOCTitle: DataType Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductRefiner.DataType
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productrefiner.datatype(v=AX.60)
 ms:contentKeyID: 65319624
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

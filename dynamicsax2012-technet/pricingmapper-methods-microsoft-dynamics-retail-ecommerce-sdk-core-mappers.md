@@ -4,7 +4,7 @@ TOCTitle: PricingMapper Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Mappers.PricingMapper
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.mappers.pricingmapper_methods(v=AX.60)
 ms:contentKeyID: 65318338
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

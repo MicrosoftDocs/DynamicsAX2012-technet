@@ -4,7 +4,7 @@ TOCTitle: Project supervisor security role (ProjProjectSupervisor)
 ms:assetid: 5dfc2c06-5efa-40bf-90c0-9bf98668b7df
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527094(v=AX.60)
 ms:contentKeyID: 37823146
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

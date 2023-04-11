@@ -4,7 +4,7 @@ TOCTitle: PutProductCatalogs Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductL2CacheDataStoreAccessor.PutProductCatalogs(Microsoft.Dynamics.Commerce.Runtime.DataModel.CatalogSearchCriteria,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCatalog})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productl2cachedatastoreaccessor.putproductcatalogs(v=AX.60)
 ms:contentKeyID: 65319683
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

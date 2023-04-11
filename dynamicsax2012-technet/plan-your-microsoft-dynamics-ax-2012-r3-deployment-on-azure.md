@@ -4,7 +4,7 @@ TOCTitle: Plan your deployment
 ms:assetid: 692a374d-d621-43d3-8a02-9b98a5359b46
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741579(v=AX.60)
 ms:contentKeyID: 62226737
-author: Khairunj
+author: tonyafehr
 ms.date: 09/20/2017
 mtps_version: v=AX.60
 ---

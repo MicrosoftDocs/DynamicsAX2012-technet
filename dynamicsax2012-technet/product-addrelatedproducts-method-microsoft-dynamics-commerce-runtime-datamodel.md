@@ -4,7 +4,7 @@ TOCTitle: AddRelatedProducts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Product.AddRelatedProducts(System.Collections.Generic.IList{Microsoft.Dynamics.Commerce.Runtime.DataModel.RelatedProduct},System.Collections.Generic.IList{Microsoft.Dynamics.Commerce.Runtime.DataModel.RelatedProduct})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.product.addrelatedproducts(v=AX.60)
 ms:contentKeyID: 65321373
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

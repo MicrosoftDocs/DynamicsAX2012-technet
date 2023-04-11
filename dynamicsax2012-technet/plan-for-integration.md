@@ -4,7 +4,7 @@ TOCTitle: Plan for integration
 ms:assetid: bf482893-ceeb-4430-b8ca-769645153ae3
 ms:mtpsurl: https://technet.microsoft.com/library/Dd362063(v=AX.60)
 ms:contentKeyID: 35132845
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

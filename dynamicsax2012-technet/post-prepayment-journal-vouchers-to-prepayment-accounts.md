@@ -4,7 +4,7 @@ TOCTitle: Post prepayment journal vouchers to prepayment accounts
 ms:assetid: 90ea06d1-5fd5-4912-9a6d-5d8a483945df
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498371(v=AX.60)
 ms:contentKeyID: 36993124
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

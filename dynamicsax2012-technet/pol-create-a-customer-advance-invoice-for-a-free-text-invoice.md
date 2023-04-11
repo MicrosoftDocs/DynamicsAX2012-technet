@@ -4,7 +4,7 @@ TOCTitle: (POL) Create a customer advance invoice for a free text invoice
 ms:assetid: 6b9150cd-0fae-43dc-a67e-8f85cabf7cb3
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678232(v=AX.60)
 ms:contentKeyID: 49386954
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

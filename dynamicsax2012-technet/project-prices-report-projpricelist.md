@@ -4,7 +4,7 @@ TOCTitle: Project prices report (ProjPriceList)
 ms:assetid: 882240d3-7198-42cc-ac79-cd01a3b4f6ca
 ms:mtpsurl: https://technet.microsoft.com/library/Aa598065(v=AX.60)
 ms:contentKeyID: 37832018
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

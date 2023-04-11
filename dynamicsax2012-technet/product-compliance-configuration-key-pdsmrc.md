@@ -4,7 +4,7 @@ TOCTitle: Product compliance configuration key (PdsMRC)
 ms:assetid: f2e6a4e2-f1ad-448e-be03-bdc7d6fa51be
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496445(v=AX.60)
 ms:contentKeyID: 37072027
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

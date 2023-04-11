@@ -4,7 +4,7 @@ TOCTitle: RetrieveIdsOfChangedProducts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductDatabaseAccessor.RetrieveIdsOfChangedProducts(Microsoft.Dynamics.Commerce.Runtime.DataModel.ChangedProductsSearchCriteria,System.Int64@,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingAnchorSet@,Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductChangeTrackingAnchorSet@)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productdatabaseaccessor.retrieveidsofchangedproducts(v=AX.60)
 ms:contentKeyID: 62202999
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

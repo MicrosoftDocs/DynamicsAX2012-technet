@@ -4,7 +4,7 @@ TOCTitle: (POL) Post and print a sales order or a free text invoice
 ms:assetid: c73f0a4d-e0e8-46ca-82c3-c66501ebc67a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711263(v=AX.60)
 ms:contentKeyID: 49387081
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: PriceCheckRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.PriceCheckRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.pricecheckrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62203544
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

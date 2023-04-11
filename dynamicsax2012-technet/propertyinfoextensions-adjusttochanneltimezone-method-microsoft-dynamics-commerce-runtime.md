@@ -4,7 +4,7 @@ TOCTitle: AdjustToChannelTimeZone Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.PropertyInfoExtensions.AdjustToChannelTimeZone(System.Reflection.PropertyInfo,System.Object,System.Collections.Generic.List{Microsoft.Dynamics.Commerce.Runtime.DataModel.TimeZoneInterval},Microsoft.Dynamics.Commerce.Runtime.DataModel.TypeCache)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.propertyinfoextensions.adjusttochanneltimezone(v=AX.60)
 ms:contentKeyID: 65320581
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

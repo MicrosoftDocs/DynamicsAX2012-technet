@@ -4,7 +4,7 @@ TOCTitle: Project payroll allocation (actual vs. budget) report (ProjPayrollProj
 ms:assetid: 4e655d01-cadf-462f-8300-223e199337c1
 ms:mtpsurl: https://technet.microsoft.com/library/Bb147547(v=AX.60)
 ms:contentKeyID: 37832000
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

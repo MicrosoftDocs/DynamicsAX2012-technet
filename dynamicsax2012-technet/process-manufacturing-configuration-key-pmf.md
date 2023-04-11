@@ -4,7 +4,7 @@ TOCTitle: Process manufacturing configuration key (PMF)
 ms:assetid: e816b73c-8901-4d50-96b5-c09bb9b40bad
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496441(v=AX.60)
 ms:contentKeyID: 37072023
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

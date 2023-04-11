@@ -4,7 +4,7 @@ TOCTitle: Price/discount configuration key (PriceDisc)
 ms:assetid: 1597090e-6025-46a2-83c9-c00ed8dfa79d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572359(v=AX.60)
 ms:contentKeyID: 36997739
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

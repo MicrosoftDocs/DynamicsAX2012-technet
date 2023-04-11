@@ -4,7 +4,7 @@ TOCTitle: RetrieveProductParts Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Data.ProductDatabaseAccessor.RetrieveProductParts(Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria,System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.data.productdatabaseaccessor.retrieveproductparts(v=AX.60)
 ms:contentKeyID: 65318572
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

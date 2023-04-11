@@ -4,7 +4,7 @@ TOCTitle: Purchase order report (PurchPurchaseOrder)
 ms:assetid: d5eab687-e69a-4041-960c-537371e8d238
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209645(v=AX.60)
 ms:contentKeyID: 36060555
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

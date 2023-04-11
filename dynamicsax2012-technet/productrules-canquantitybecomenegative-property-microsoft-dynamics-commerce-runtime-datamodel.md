@@ -4,7 +4,7 @@ TOCTitle: CanQuantityBecomeNegative Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductRules.CanQuantityBecomeNegative
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productrules.canquantitybecomenegative(v=AX.60)
 ms:contentKeyID: 62210671
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

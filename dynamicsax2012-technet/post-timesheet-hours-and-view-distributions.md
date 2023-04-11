@@ -4,7 +4,7 @@ TOCTitle: Post timesheet hours and view distributions
 ms:assetid: 5bd42802-2ff2-4b8b-b162-74ecafceaa97
 ms:mtpsurl: https://technet.microsoft.com/library/Hh597105(v=AX.60)
 ms:contentKeyID: 39519153
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

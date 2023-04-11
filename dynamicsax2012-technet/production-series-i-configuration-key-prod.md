@@ -4,7 +4,7 @@ TOCTitle: Production Series I configuration key (Prod)
 ms:assetid: 08257715-c93d-445f-aa1b-6a51e0d62281
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550133(v=AX.60)
 ms:contentKeyID: 37071979
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

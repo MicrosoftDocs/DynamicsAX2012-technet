@@ -4,7 +4,7 @@ TOCTitle: ProductSearchCriteria Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductSearchCriteria
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productsearchcriteria_properties(v=AX.60)
 ms:contentKeyID: 62210327
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

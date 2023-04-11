@@ -4,7 +4,7 @@ TOCTitle: Post indirect activities costs
 ms:assetid: 8a8efdeb-0938-4534-aa0e-06d69f332db6
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498243(v=AX.60)
 ms:contentKeyID: 43976720
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

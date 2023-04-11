@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up an export file format for the vendor
 ms:assetid: 7f155ba8-7fb0-41e2-8222-9204561d1ecf
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678263(v=AX.60)
 ms:contentKeyID: 49386985
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

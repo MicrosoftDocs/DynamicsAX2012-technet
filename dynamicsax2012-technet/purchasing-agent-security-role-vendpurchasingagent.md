@@ -4,7 +4,7 @@ TOCTitle: Purchasing agent security role (VendPurchasingAgent)
 ms:assetid: 517ab538-045f-44ed-bec2-8e96ec5f25db
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527091(v=AX.60)
 ms:contentKeyID: 37823143
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: PropertyColumnPair Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.PropertyColumnPair.#ctor(System.Reflection.PropertyInfo,Microsoft.Dynamics.Commerce.Runtime.ComponentModel.DataAnnotations.ColumnAttribute)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.propertycolumnpair.propertycolumnpair(v=AX.60)
 ms:contentKeyID: 65318015
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

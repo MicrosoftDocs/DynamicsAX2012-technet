@@ -4,7 +4,7 @@ TOCTitle: (POL) Create a NIP record to define VAT register data
 ms:assetid: 77cd2350-264e-4684-bdd4-57d66e7c26e7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678244(v=AX.60)
 ms:contentKeyID: 49386965
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

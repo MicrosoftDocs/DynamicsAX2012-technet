@@ -4,7 +4,7 @@ TOCTitle: Print or email a report on a recurring basis
 ms:assetid: e2d50663-83bf-4d3c-9f96-db3fdf60e2c0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724132(v=AX.60)
 ms:contentKeyID: 35133491
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

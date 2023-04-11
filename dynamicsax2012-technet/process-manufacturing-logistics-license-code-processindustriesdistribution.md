@@ -4,7 +4,7 @@ TOCTitle: Process manufacturing logistics license code (ProcessIndustriesDistrib
 ms:assetid: beef7547-d144-44b1-b305-be4ff1a3bdd0
 ms:mtpsurl: https://technet.microsoft.com/library/Hh496431(v=AX.60)
 ms:contentKeyID: 37072011
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

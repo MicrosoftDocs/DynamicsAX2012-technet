@@ -4,7 +4,7 @@ TOCTitle: Product builder license code (PBAProductBuilder)
 ms:assetid: 3d7f5461-2b82-4609-8f18-c95cb952fb5e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416670(v=AX.60)
 ms:contentKeyID: 36931826
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

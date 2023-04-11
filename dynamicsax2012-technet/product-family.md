@@ -4,7 +4,7 @@ TOCTitle: " product family"
 ms:assetid: DynamicsAXGlossary.1370630
 ms:mtpsurl: https://technet.microsoft.com/library/dynamicsaxglossary.1370630(v=AX.60)
 ms:contentKeyID: 36056998
-author: Khairunj
+author: tonyafehr
 ms.date: 08/25/2014
 mtps_version: v=AX.60
 f1_keywords:

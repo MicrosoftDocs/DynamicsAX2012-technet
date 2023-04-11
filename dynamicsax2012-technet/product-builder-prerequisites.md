@@ -4,7 +4,7 @@ TOCTitle: Product builder prerequisites
 ms:assetid: 3ce05411-6915-4db2-9593-61e54bf12360
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570266(v=AX.60)
 ms:contentKeyID: 36056668
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

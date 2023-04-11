@@ -4,7 +4,7 @@ TOCTitle: Purchasing manager security role (TradePurchasingManager)
 ms:assetid: 39b5742f-e483-4091-bfe9-505802669119
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527081(v=AX.60)
 ms:contentKeyID: 37823133
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

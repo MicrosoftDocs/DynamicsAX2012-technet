@@ -4,7 +4,7 @@ TOCTitle: Plan the base topology of Microsoft Dynamics AX
 ms:assetid: a1ae0849-4b85-4a65-9b93-04d14a71f016
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741432(v=AX.60)
 ms:contentKeyID: 62219709
-author: Khairunj
+author: tonyafehr
 ms.date: 04/22/2014
 mtps_version: v=AX.60
 ---

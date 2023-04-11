@@ -4,7 +4,7 @@ TOCTitle: Process elimination transactions using the Consolidation, Online form
 ms:assetid: 69a51a3c-0a21-4a0a-b750-42672ebfea67
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231580(v=AX.60)
 ms:contentKeyID: 36057972
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

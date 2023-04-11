@@ -4,7 +4,7 @@ TOCTitle: Product dimension - size configuration key (EcoResProductSize)
 ms:assetid: d2382637-6026-4e50-aead-467338a07c20
 ms:mtpsurl: https://technet.microsoft.com/library/Aa599456(v=AX.60)
 ms:contentKeyID: 36993555
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

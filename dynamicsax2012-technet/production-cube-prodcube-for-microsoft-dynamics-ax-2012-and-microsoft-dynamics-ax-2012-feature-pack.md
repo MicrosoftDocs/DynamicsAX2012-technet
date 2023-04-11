@@ -4,7 +4,7 @@ TOCTitle: Production cube (ProdCube)
 ms:assetid: dfc15733-9d29-4250-9b13-36cccb718f9e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh781076(v=AX.60)
 ms:contentKeyID: 43894475
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

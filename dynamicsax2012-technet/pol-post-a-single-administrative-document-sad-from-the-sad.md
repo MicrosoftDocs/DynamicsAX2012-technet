@@ -4,7 +4,7 @@ TOCTitle: (POL) Post a Single Administrative Document (SAD) from the SAD
 ms:assetid: eab6ef13-d39d-4e0f-a27b-c10b79733236
 ms:mtpsurl: https://technet.microsoft.com/library/JJ731084(v=AX.60)
 ms:contentKeyID: 49675324
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

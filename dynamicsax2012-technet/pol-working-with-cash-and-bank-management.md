@@ -4,7 +4,7 @@ TOCTitle: (POL) Working with Cash and bank management
 ms:assetid: 09d66e02-09be-4c09-a63f-87fea02fa092
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678125(v=AX.60)
 ms:contentKeyID: 49386848
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

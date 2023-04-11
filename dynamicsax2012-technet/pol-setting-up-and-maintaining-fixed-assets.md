@@ -4,7 +4,7 @@ TOCTitle: (POL) Setting up and maintaining Fixed assets
 ms:assetid: 4658768a-c37e-410f-944b-79f34cfdef6a
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678187(v=AX.60)
 ms:contentKeyID: 49386910
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

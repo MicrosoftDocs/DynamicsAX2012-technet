@@ -4,7 +4,7 @@ TOCTitle: Production Series III configuration key (ProdShop)
 ms:assetid: c8081b18-4fe7-47d7-8f93-b0df06d8aef0
 ms:mtpsurl: https://technet.microsoft.com/library/Aa618866(v=AX.60)
 ms:contentKeyID: 37072013
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

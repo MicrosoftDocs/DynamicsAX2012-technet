@@ -4,7 +4,7 @@ TOCTitle: Plan for performance optimization and testing
 ms:assetid: 23349355-77a5-4790-80e6-ccaf54cf3bf4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ149696(v=AX.60)
 ms:contentKeyID: 47541245
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

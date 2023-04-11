@@ -4,7 +4,7 @@ TOCTitle: Product Builder/Dynamics AX 2009 Shared Tables configuration key (PBA_
 ms:assetid: 8b72ae01-f1ef-453e-87e3-b563c4e3734a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433462(v=AX.60)
 ms:contentKeyID: 36941217
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

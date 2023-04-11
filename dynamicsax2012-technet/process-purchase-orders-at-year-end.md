@@ -4,7 +4,7 @@ TOCTitle: Process purchase orders at year end
 ms:assetid: 8010f4a6-dcc1-40cb-b225-4bded6971d48
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209300(v=AX.60)
 ms:contentKeyID: 36058338
-author: Khairunj
+author: tonyafehr
 ms.date: 03/25/2015
 mtps_version: v=AX.60
 f1_keywords:

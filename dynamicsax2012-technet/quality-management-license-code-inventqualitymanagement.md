@@ -4,7 +4,7 @@ TOCTitle: Quality management license code (InventQualityManagement)
 ms:assetid: 34e2d55a-029c-483b-9ba3-0b7df6ddd835
 ms:mtpsurl: https://technet.microsoft.com/library/Hh441662(v=AX.60)
 ms:contentKeyID: 36993544
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

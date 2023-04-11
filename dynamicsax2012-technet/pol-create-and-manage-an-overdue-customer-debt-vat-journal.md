@@ -4,7 +4,7 @@ TOCTitle: (POL) Create and manage an overdue customer debt VAT journal
 ms:assetid: a647a9b5-ec5d-46a7-9e54-28311173f115
 ms:mtpsurl: https://technet.microsoft.com/library/Dn753712(v=AX.60)
 ms:contentKeyID: 62485056
-author: Khairunj
+author: tonyafehr
 ms.date: 06/14/2014
 mtps_version: v=AX.60
 f1_keywords:

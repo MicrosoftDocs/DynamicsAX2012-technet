@@ -4,7 +4,7 @@ TOCTitle: ProductCategoryAssociation Constructor (Int64, Int64)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.ProductCategoryAssociation.#ctor(System.Int64,System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.productcategoryassociation.productcategoryassociation(v=AX.60)
 ms:contentKeyID: 62210740
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

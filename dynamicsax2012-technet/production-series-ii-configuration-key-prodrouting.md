@@ -4,7 +4,7 @@ TOCTitle: Production Series II configuration key (ProdRouting)
 ms:assetid: 2939fc60-7c27-4475-b2e5-619d8c09b6ee
 ms:mtpsurl: https://technet.microsoft.com/library/Aa500578(v=AX.60)
 ms:contentKeyID: 37071982
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

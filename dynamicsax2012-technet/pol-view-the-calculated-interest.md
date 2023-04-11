@@ -4,7 +4,7 @@ TOCTitle: (POL) View the calculated interest
 ms:assetid: bc880d12-dc52-4eb8-865d-e4643d532dda
 ms:mtpsurl: https://technet.microsoft.com/library/JJ711252(v=AX.60)
 ms:contentKeyID: 49387070
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

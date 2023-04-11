@@ -4,7 +4,7 @@ TOCTitle: Production planner security role (ReqProductionPlanner)
 ms:assetid: 92417a0c-f66d-4375-950e-f30863da0921
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527112(v=AX.60)
 ms:contentKeyID: 37823163
-author: Khairunj
+author: tonyafehr
 ms.date: 05/06/2014
 mtps_version: v=AX.60
 ---

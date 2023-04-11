@@ -4,7 +4,7 @@ TOCTitle: ProductListingKey Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Ecommerce.SP.Publishing.Connector.ProductListingKey
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sp.publishing.connector.productlistingkey_methods(v=AX.60)
 ms:contentKeyID: 65315854
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

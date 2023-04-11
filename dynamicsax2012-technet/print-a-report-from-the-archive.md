@@ -4,7 +4,7 @@ TOCTitle: Print a report from the archive
 ms:assetid: 8840afb3-5396-489e-b44b-c61f6c58a88b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724066(v=AX.60)
 ms:contentKeyID: 35133424
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

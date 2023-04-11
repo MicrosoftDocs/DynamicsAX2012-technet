@@ -4,7 +4,7 @@ TOCTitle: Plan for batch processing
 ms:assetid: aa348a55-2b42-4412-b736-4d01e19a79cb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh918187(v=AX.60)
 ms:contentKeyID: 45964482
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

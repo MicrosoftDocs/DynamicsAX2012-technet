@@ -4,7 +4,7 @@ TOCTitle: GetProperty Method (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataModel.Product.GetProperty(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.product.getproperty(v=AX.60)
 ms:contentKeyID: 62211395
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

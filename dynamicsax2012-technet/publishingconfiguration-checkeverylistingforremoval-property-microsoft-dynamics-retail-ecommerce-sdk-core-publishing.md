@@ -4,7 +4,7 @@ TOCTitle: CheckEveryListingForRemoval Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Publishing.PublishingConfiguration.CheckEveryListingForRemoval
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.publishing.publishingconfiguration.checkeverylistingforremoval(v=AX.60)
 ms:contentKeyID: 65317899
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (POL) Set up service tariff numbers
 ms:assetid: 7425c5bb-6850-4de6-9e8f-6893175277fb
 ms:mtpsurl: https://technet.microsoft.com/library/JJ678239(v=AX.60)
 ms:contentKeyID: 49386961
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
