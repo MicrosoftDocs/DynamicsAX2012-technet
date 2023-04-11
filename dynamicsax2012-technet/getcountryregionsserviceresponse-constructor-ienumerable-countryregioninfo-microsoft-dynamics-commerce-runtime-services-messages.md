@@ -4,7 +4,7 @@ TOCTitle: GetCountryRegionsServiceResponse Constructor (IEnumerable(CountryRegio
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCountryRegionsServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.CountryRegionInfo})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcountryregionsserviceresponse.getcountryregionsserviceresponse(v=AX.60)
 ms:contentKeyID: 62214180
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

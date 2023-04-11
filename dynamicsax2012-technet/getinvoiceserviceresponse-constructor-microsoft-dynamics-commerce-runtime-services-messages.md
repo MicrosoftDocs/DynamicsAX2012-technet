@@ -4,7 +4,7 @@ TOCTitle: GetInvoiceServiceResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetInvoiceServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesInvoice},Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrder)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getinvoiceserviceresponse.getinvoiceserviceresponse(v=AX.60)
 ms:contentKeyID: 62209732
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

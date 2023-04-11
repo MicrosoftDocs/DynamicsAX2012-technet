@@ -4,7 +4,7 @@ TOCTitle: GetCustomersResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCustomersResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcustomersresponse(v=AX.60)
 ms:contentKeyID: 49837956
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

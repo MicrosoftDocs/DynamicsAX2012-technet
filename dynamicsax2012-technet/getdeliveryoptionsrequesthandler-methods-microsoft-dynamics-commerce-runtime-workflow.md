@@ -4,7 +4,7 @@ TOCTitle: GetDeliveryOptionsRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetDeliveryOptionsRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getdeliveryoptionsrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 49853028
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

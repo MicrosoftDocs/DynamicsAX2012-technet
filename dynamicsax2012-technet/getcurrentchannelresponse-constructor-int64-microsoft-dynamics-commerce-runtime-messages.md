@@ -4,7 +4,7 @@ TOCTitle: GetCurrentChannelResponse Constructor (Int64)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCurrentChannelResponse.#ctor(System.Int64)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcurrentchannelresponse.getcurrentchannelresponse(v=AX.60)
 ms:contentKeyID: 49821265
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

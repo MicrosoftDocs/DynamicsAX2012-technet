@@ -4,7 +4,7 @@ TOCTitle: FavoriteFilter Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCommerceListRequest.FavoriteFilter
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcommercelistrequest.favoritefilter(v=AX.60)
 ms:contentKeyID: 62208979
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetEmailReceiptServiceRequest Constructor (SalesOrder, IEnumerable(Rec
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetEmailReceiptServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.SalesOrder,System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ReceiptType},System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.TenderLine},System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getemailreceiptservicerequest.getemailreceiptservicerequest(v=AX.60)
 ms:contentKeyID: 65316219
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: GetProductDeliveryOptionsResponse Constructor (IEnumerable(DeliveryOpt
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetProductDeliveryOptionsResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DeliveryOption})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getproductdeliveryoptionsresponse.getproductdeliveryoptionsresponse(v=AX.60)
 ms:contentKeyID: 49827258
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

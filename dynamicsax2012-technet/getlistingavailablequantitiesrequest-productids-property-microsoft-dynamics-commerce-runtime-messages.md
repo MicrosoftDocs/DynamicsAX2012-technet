@@ -4,7 +4,7 @@ TOCTitle: ProductIds Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetListingAvailableQuantitiesRequest.ProductIds
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getlistingavailablequantitiesrequest.productids(v=AX.60)
 ms:contentKeyID: 62207784
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

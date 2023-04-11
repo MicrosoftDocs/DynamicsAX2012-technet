@@ -4,7 +4,7 @@ TOCTitle: GetDeliveryPreferencesRequestHandler Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetDeliveryPreferencesRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getdeliverypreferencesrequesthandler_properties(v=AX.60)
 ms:contentKeyID: 65321199
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

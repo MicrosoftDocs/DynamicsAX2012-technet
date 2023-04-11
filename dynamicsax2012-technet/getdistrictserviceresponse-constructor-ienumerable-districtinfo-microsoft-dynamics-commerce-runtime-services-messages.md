@@ -4,7 +4,7 @@ TOCTitle: GetDistrictServiceResponse Constructor (IEnumerable(DistrictInfo))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetDistrictServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.DistrictInfo})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getdistrictserviceresponse.getdistrictserviceresponse(v=AX.60)
 ms:contentKeyID: 62214281
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

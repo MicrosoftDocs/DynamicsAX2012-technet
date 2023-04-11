@@ -4,7 +4,7 @@ TOCTitle: GetItemAvailableQuantitiesRequestHandler Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetItemAvailableQuantitiesRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getitemavailablequantitiesrequesthandler(v=AX.60)
 ms:contentKeyID: 49855973
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

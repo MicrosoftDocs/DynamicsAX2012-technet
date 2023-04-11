@@ -4,7 +4,7 @@ TOCTitle: GetOrdersRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOrdersRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getordersrequest_properties(v=AX.60)
 ms:contentKeyID: 49831094
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

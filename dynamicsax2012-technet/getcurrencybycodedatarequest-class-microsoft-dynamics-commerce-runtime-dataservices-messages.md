@@ -4,7 +4,7 @@ TOCTitle: GetCurrencyByCodeDataRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCurrencyByCodeDataRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getcurrencybycodedatarequest(v=AX.60)
 ms:contentKeyID: 65321131
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

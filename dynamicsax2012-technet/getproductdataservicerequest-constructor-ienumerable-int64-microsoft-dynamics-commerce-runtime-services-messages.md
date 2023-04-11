@@ -4,7 +4,7 @@ TOCTitle: GetProductDataServiceRequest Constructor (IEnumerable(Int64))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetProductDataServiceRequest.#ctor(System.Collections.Generic.IEnumerable{System.Int64})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getproductdataservicerequest.getproductdataservicerequest(v=AX.60)
 ms:contentKeyID: 65318080
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

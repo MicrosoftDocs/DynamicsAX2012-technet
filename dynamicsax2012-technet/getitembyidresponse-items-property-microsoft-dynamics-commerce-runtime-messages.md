@@ -4,7 +4,7 @@ TOCTitle: Items Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetItemByIdResponse.Items
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getitembyidresponse.items(v=AX.60)
 ms:contentKeyID: 49837026
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

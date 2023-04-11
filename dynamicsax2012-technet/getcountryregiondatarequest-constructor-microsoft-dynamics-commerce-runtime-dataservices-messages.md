@@ -4,7 +4,7 @@ TOCTitle: GetCountryRegionDataRequest Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetCountryRegionDataRequest.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getcountryregiondatarequest.getcountryregiondatarequest(v=AX.60)
 ms:contentKeyID: 65322290
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

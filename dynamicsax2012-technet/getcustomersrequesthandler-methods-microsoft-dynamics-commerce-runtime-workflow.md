@@ -4,7 +4,7 @@ TOCTitle: GetCustomersRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCustomersRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getcustomersrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 49824323
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: GetCustomerLoyaltyCardsRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCustomerLoyaltyCardsRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcustomerloyaltycardsrequest_methods(v=AX.60)
 ms:contentKeyID: 62215161
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

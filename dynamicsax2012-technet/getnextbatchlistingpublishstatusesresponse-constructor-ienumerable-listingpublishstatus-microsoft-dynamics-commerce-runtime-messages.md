@@ -4,7 +4,7 @@ TOCTitle: GetNextBatchListingPublishStatusesResponse Constructor (IEnumerable(Li
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetNextBatchListingPublishStatusesResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ListingPublishStatus})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getnextbatchlistingpublishstatusesresponse.getnextbatchlistingpublishstatusesresponse(v=AX.60)
 ms:contentKeyID: 62205132
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

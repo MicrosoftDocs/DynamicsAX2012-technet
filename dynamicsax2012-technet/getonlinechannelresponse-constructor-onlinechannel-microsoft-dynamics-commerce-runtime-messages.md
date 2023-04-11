@@ -4,7 +4,7 @@ TOCTitle: GetOnlineChannelResponse Constructor (OnlineChannel)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOnlineChannelResponse.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.OnlineChannel)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getonlinechannelresponse.getonlinechannelresponse(v=AX.60)
 ms:contentKeyID: 49820800
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

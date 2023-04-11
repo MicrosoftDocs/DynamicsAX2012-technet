@@ -4,7 +4,7 @@ TOCTitle: GetIndependentProductPriceDiscountRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetIndependentProductPriceDiscountRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getindependentproductpricediscountrequest(v=AX.60)
 ms:contentKeyID: 65317083
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

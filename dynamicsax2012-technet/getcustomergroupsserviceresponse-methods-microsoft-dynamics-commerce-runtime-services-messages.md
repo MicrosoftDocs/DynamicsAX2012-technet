@@ -4,7 +4,7 @@ TOCTitle: GetCustomerGroupsServiceResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCustomerGroupsServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcustomergroupsserviceresponse_methods(v=AX.60)
 ms:contentKeyID: 62211954
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: ItemAvailableQuantities Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetItemAvailableQuantitiesResponse.ItemAvailableQuantities
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getitemavailablequantitiesresponse.itemavailablequantities(v=AX.60)
 ms:contentKeyID: 49843500
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

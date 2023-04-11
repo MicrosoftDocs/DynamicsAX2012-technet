@@ -4,7 +4,7 @@ TOCTitle: GetGiftCardRequest Constructor (String)
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetGiftCardRequest.#ctor(System.String)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getgiftcardrequest.getgiftcardrequest(v=AX.60)
 ms:contentKeyID: 62208577
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

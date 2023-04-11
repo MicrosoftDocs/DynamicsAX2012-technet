@@ -4,7 +4,7 @@ TOCTitle: ExcludeBlocked Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetLoyaltyCardRewardPointsStatusTransactionServiceRequest.ExcludeBlocked
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getloyaltycardrewardpointsstatustransactionservicerequest.excludeblocked(v=AX.60)
 ms:contentKeyID: 65320905
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetCustomerLoyaltyCardsResponse Constructor (IEnumerable(LoyaltyCard))
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCustomerLoyaltyCardsResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.LoyaltyCard})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcustomerloyaltycardsresponse.getcustomerloyaltycardsresponse(v=AX.60)
 ms:contentKeyID: 62209096
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

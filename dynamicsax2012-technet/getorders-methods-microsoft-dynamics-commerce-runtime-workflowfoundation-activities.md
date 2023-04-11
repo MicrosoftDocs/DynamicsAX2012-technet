@@ -4,7 +4,7 @@ TOCTitle: GetOrders Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.GetOrders
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.getorders_methods(v=AX.60)
 ms:contentKeyID: 65321914
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

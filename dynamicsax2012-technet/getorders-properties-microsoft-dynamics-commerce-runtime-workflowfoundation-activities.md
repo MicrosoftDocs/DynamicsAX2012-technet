@@ -4,7 +4,7 @@ TOCTitle: GetOrders Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.WorkflowFoundation.Activities.GetOrders
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflowfoundation.activities.getorders_properties(v=AX.60)
 ms:contentKeyID: 65318035
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

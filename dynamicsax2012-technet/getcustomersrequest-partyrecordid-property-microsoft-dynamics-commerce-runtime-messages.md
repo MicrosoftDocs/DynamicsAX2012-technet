@@ -4,7 +4,7 @@ TOCTitle: PartyRecordId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetCustomersRequest.PartyRecordId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getcustomersrequest.partyrecordid(v=AX.60)
 ms:contentKeyID: 62208252
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

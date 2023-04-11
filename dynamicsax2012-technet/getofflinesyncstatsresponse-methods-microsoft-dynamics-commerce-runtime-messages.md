@@ -4,7 +4,7 @@ TOCTitle: GetOfflineSyncStatsResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOfflineSyncStatsResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getofflinesyncstatsresponse_methods(v=AX.60)
 ms:contentKeyID: 65321528
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

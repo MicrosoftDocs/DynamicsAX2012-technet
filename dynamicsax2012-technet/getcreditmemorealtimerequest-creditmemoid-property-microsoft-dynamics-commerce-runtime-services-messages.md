@@ -4,7 +4,7 @@ TOCTitle: CreditMemoId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetCreditMemoRealtimeRequest.CreditMemoId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getcreditmemorealtimerequest.creditmemoid(v=AX.60)
 ms:contentKeyID: 65318551
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

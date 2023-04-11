@@ -4,7 +4,7 @@ TOCTitle: GetOnlineChannelRequest Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOnlineChannelRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getonlinechannelrequest(v=AX.60)
 ms:contentKeyID: 49850239
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

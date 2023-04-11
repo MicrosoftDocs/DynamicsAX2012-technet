@@ -4,7 +4,7 @@ TOCTitle: GetOfflineTransactionIdsRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetOfflineTransactionIdsRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getofflinetransactionidsrequest_methods(v=AX.60)
 ms:contentKeyID: 65320190
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: GetCurrenciesRequestHandler Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetCurrenciesRequestHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getcurrenciesrequesthandler_methods(v=AX.60)
 ms:contentKeyID: 62205122
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

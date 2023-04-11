@@ -4,7 +4,7 @@ TOCTitle: GetPricesServiceResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetPricesServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getpricesserviceresponse(v=AX.60)
 ms:contentKeyID: 62207291
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

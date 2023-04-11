@@ -4,7 +4,7 @@ TOCTitle: GetOrderDeliveryOptionsServiceResponse Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetOrderDeliveryOptionsServiceResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getorderdeliveryoptionsserviceresponse_properties(v=AX.60)
 ms:contentKeyID: 49849415
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

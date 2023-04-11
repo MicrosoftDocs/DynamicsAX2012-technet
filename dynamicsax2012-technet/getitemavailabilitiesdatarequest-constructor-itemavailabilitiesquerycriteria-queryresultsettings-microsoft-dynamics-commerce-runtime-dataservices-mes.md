@@ -4,7 +4,7 @@ TOCTitle: GetItemAvailabilitiesDataRequest Constructor (ItemAvailabilitiesQueryC
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetItemAvailabilitiesDataRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.ItemAvailabilitiesQueryCriteria,Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getitemavailabilitiesdatarequest.getitemavailabilitiesdatarequest(v=AX.60)
 ms:contentKeyID: 65321239
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

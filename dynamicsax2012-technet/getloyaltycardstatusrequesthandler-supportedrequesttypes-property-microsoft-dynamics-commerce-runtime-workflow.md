@@ -4,7 +4,7 @@ TOCTitle: SupportedRequestTypes Property
 ms:assetid: Overload:Microsoft.Dynamics.Commerce.Runtime.Workflow.GetLoyaltyCardStatusRequestHandler.SupportedRequestTypes
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.workflow.getloyaltycardstatusrequesthandler.supportedrequesttypes(v=AX.60)
 ms:contentKeyID: 65320450
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

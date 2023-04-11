@@ -4,7 +4,7 @@ TOCTitle: OrderId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetPickingListDataRequest.OrderId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getpickinglistdatarequest.orderid(v=AX.60)
 ms:contentKeyID: 65317902
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

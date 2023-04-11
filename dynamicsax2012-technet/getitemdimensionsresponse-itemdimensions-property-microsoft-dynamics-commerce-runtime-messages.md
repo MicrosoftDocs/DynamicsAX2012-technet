@@ -4,7 +4,7 @@ TOCTitle: ItemDimensions Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetItemDimensionsResponse.ItemDimensions
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getitemdimensionsresponse.itemdimensions(v=AX.60)
 ms:contentKeyID: 62209361
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

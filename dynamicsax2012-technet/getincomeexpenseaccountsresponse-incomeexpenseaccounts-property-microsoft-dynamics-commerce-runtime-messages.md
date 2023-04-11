@@ -4,7 +4,7 @@ TOCTitle: IncomeExpenseAccounts Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Messages.GetIncomeExpenseAccountsResponse.IncomeExpenseAccounts
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getincomeexpenseaccountsresponse.incomeexpenseaccounts(v=AX.60)
 ms:contentKeyID: 62202608
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:
