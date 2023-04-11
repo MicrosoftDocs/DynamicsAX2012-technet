@@ -4,7 +4,7 @@ TOCTitle: About signing limit setup
 ms:assetid: 4bb412bd-a922-4ac6-bb08-cdbca8044182
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208731(v=AX.60)
 ms:contentKeyID: 36057002
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 06/13/2014
 mtps_version: v=AX.60

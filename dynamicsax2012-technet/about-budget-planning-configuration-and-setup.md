@@ -4,7 +4,7 @@ TOCTitle: About budget planning configuration and setup
 ms:assetid: 55f65750-dffd-4217-bba2-ab452aa2ed7f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ677339(v=AX.60)
 ms:contentKeyID: 49384113
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 11/14/2014
 mtps_version: v=AX.60

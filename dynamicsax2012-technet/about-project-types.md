@@ -4,7 +4,7 @@ TOCTitle: About project types
 ms:assetid: 13db418e-07e2-4f00-8f30-fa2a1f4611bd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496605(v=AX.60)
 ms:contentKeyID: 36811396
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 06/09/2014
 mtps_version: v=AX.60

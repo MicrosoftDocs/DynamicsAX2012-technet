@@ -4,7 +4,7 @@ TOCTitle: About simulating cost changes by using a costing version for planned c
 ms:assetid: 16ba839b-a321-4bbf-b494-925ee78a4c57
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230960(v=AX.60)
 ms:contentKeyID: 36056076
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

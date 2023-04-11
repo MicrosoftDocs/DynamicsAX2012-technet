@@ -4,7 +4,7 @@ TOCTitle: Shipment reservation
 ms:assetid: bde61f31-99d8-4e86-964f-f0f9b156a645
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213622(v=AX.60)
 ms:contentKeyID: 39519297
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

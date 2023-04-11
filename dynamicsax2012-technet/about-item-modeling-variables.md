@@ -4,7 +4,7 @@ TOCTitle: About item modeling variables
 ms:assetid: cbee9006-6df6-4340-a73f-712be78bcb37
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572673(v=AX.60)
 ms:contentKeyID: 36059445
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

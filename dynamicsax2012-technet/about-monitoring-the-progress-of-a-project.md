@@ -4,7 +4,7 @@ TOCTitle: About monitoring the progress of a project
 ms:assetid: 0de1451a-2414-4bad-b029-fadc28000dea
 ms:mtpsurl: https://technet.microsoft.com/library/Hh694706(v=AX.60)
 ms:contentKeyID: 42117748
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 06/09/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About basic budgeting
 ms:assetid: 57dea2ae-d1f4-42d2-8276-2ab28dee4781
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549062(v=AX.60)
 ms:contentKeyID: 36057336
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

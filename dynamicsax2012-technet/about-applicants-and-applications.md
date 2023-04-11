@@ -4,7 +4,7 @@ TOCTitle: About applicants and applications
 ms:assetid: f4f660cd-2f47-40d1-aef2-bf8a2340582a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh351825(v=AX.60)
 ms:contentKeyID: 36676420
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

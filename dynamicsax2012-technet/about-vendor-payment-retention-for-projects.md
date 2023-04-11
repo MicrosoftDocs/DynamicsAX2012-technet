@@ -4,7 +4,7 @@ TOCTitle: About vendor payment retention for projects
 ms:assetid: 75a23667-5997-4c42-90d9-315ec29e6943
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209239(v=AX.60)
 ms:contentKeyID: 36058172
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

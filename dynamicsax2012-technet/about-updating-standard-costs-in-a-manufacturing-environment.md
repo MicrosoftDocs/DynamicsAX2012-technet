@@ -4,7 +4,7 @@ TOCTitle: About updating standard costs in a manufacturing environment
 ms:assetid: 12e6158c-95f5-4381-84d3-7dc5127b7a0f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230934(v=AX.60)
 ms:contentKeyID: 36687814
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Add and maintain contacts and users
 ms:assetid: b66f6767-b819-4a61-aa1f-44c0e4bd03ad
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271631(v=AX.60)
 ms:contentKeyID: 36384263
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

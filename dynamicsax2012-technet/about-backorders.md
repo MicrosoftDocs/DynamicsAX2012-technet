@@ -4,7 +4,7 @@ TOCTitle: About backorders
 ms:assetid: 4cd568f0-9095-4b05-be70-92fd37376102
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497022(v=AX.60)
 ms:contentKeyID: 42518540
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

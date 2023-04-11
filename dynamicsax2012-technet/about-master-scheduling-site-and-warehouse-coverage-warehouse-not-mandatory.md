@@ -4,7 +4,7 @@ TOCTitle: About master scheduling - site and warehouse coverage, warehouse not m
 ms:assetid: dc988e0d-97fe-4233-963b-da68458d78fb
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243193(v=AX.60)
 ms:contentKeyID: 37072067
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About repair management
 ms:assetid: cb02f4ea-3ffb-49ca-a4cc-bf105b45ed27
 ms:mtpsurl: https://technet.microsoft.com/library/Aa572667(v=AX.60)
 ms:contentKeyID: 36059339
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

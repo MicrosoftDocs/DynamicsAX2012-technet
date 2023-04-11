@@ -4,7 +4,7 @@ TOCTitle: About running average cost price
 ms:assetid: e39f603a-494e-4f98-bee7-58c14066d2fa
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243219(v=AX.60)
 ms:contentKeyID: 36059724
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

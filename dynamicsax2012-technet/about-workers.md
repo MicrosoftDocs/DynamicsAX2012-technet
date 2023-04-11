@@ -4,7 +4,7 @@ TOCTitle: About workers
 ms:assetid: bd5eb624-4b1f-4c7c-863d-e5a54b037517
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242776(v=AX.60)
 ms:contentKeyID: 36059154
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

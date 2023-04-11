@@ -4,7 +4,7 @@ TOCTitle: About batch orders
 ms:assetid: 54f9f5e5-fe5e-47d4-bb72-e2c2ad6557fa
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352205(v=AX.60)
 ms:contentKeyID: 36687839
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Add sub-templates to a parent template in RapidStart Services
 ms:assetid: b64f5d25-8e7e-4476-b102-832abbd10218
 ms:mtpsurl: https://technet.microsoft.com/library/Hh413248(v=AX.60)
 ms:contentKeyID: 36918939
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 09/18/2015
 mtps_version: v=AX.60

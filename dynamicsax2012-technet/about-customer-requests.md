@@ -4,7 +4,7 @@ TOCTitle: About customer requests
 ms:assetid: fb780691-69e5-486f-a28e-ff239f34e2e6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn237264(v=AX.60)
 ms:contentKeyID: 54273731
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

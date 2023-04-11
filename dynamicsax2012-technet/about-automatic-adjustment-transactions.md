@@ -4,7 +4,7 @@ TOCTitle: About automatic adjustment transactions
 ms:assetid: 6442910b-8caf-4698-a3fa-2a2bc77f4045
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242422(v=AX.60)
 ms:contentKeyID: 36057711
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

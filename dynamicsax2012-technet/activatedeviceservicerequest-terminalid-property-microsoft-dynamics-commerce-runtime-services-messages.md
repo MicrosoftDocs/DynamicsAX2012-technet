@@ -4,7 +4,7 @@ TOCTitle: TerminalId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.ActivateDeviceServiceRequest.TerminalId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.activatedeviceservicerequest.terminalid(v=AX.60)
 ms:contentKeyID: 62208854
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

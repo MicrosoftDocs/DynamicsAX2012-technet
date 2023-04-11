@@ -4,7 +4,7 @@ TOCTitle: About WIP invoice on-account accounts
 ms:assetid: 79df0853-2ff2-476a-815c-49a7e3ed4aa1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550063(v=AX.60)
 ms:contentKeyID: 42517328
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

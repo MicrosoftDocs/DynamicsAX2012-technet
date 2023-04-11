@@ -4,7 +4,7 @@ TOCTitle: About validation rules
 ms:assetid: 21d970b3-45a7-4344-a645-8b3f86cab08b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496792(v=AX.60)
 ms:contentKeyID: 36056169
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

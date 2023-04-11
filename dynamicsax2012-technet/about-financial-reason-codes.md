@@ -4,7 +4,7 @@ TOCTitle: About financial reason codes
 ms:assetid: 750939e7-3e09-4f55-8d61-31605e5cad28
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212968(v=AX.60)
 ms:contentKeyID: 36058161
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

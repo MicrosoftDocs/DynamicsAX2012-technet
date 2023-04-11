@@ -4,7 +4,7 @@ TOCTitle: About absence administration
 ms:assetid: 7cb4bc85-f228-4644-857f-2e1fe2440e2b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571521(v=AX.60)
 ms:contentKeyID: 36966731
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

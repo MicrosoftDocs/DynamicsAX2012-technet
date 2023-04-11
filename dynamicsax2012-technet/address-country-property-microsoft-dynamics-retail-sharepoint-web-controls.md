@@ -4,7 +4,7 @@ TOCTitle: Country Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.Address.Country
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.address.country(v=AX.60)
 ms:contentKeyID: 62202936
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

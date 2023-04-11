@@ -4,7 +4,7 @@ TOCTitle: About variable groups of array type
 ms:assetid: 6e4e69c0-a1c0-4951-a734-a8ff0b41379d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571217(v=AX.60)
 ms:contentKeyID: 36058036
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: Accounts payable manager security role (VendInvoiceAccountsPayableMana
 ms:assetid: 18703c11-7732-4535-9cd2-de63924aca18
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527072(v=AX.60)
 ms:contentKeyID: 37823124
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/06/2014
 mtps_version: v=AX.60

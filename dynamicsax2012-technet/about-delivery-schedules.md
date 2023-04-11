@@ -4,7 +4,7 @@ TOCTitle: About delivery schedules
 ms:assetid: 707ed6e5-2f41-47ae-bf57-95d241cfc2e5
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242647(v=AX.60)
 ms:contentKeyID: 36058056
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

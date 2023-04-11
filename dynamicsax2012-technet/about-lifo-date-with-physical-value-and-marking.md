@@ -4,7 +4,7 @@ TOCTitle: About LIFO Date with physical value and marking
 ms:assetid: a8790364-b8c1-4764-bab7-1d5e0d71b4bf
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243064(v=AX.60)
 ms:contentKeyID: 36058886
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

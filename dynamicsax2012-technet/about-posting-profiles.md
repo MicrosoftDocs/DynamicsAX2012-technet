@@ -4,7 +4,7 @@ TOCTitle: About posting profiles
 ms:assetid: 24805e1d-06d2-4b6c-82de-73bc7695e0eb
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208481(v=AX.60)
 ms:contentKeyID: 36056188
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

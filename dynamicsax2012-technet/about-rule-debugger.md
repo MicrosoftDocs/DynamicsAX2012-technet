@@ -4,7 +4,7 @@ TOCTitle: About Rule debugger
 ms:assetid: 94dff1b5-51f3-4a54-ad4b-e7e5e340966e
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232204(v=AX.60)
 ms:contentKeyID: 36058605
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

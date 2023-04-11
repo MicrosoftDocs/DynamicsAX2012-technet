@@ -4,7 +4,7 @@ TOCTitle: About costing versions containing item sales prices related to BOM cal
 ms:assetid: e0b1ebf4-fd31-4263-aa7c-9224519e3eb5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243207(v=AX.60)
 ms:contentKeyID: 36688019
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

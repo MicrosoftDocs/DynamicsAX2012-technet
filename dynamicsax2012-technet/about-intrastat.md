@@ -4,7 +4,7 @@ TOCTitle: About Intrastat
 ms:assetid: 2d52e8cf-dcda-4f91-b410-ba3aa1b12045
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548435(v=AX.60)
 ms:contentKeyID: 36655927
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

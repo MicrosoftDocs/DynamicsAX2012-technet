@@ -4,7 +4,7 @@ TOCTitle: About updating standard costs for a new manufactured item
 ms:assetid: 60902a19-39a3-4568-973e-1aeaf2f80939
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231515(v=AX.60)
 ms:contentKeyID: 36057629
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

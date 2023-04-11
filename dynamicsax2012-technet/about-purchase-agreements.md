@@ -4,7 +4,7 @@ TOCTitle: About purchase agreements
 ms:assetid: 647d630a-06bb-4116-b86f-a79b992e5df8
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571142(v=AX.60)
 ms:contentKeyID: 44080987
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

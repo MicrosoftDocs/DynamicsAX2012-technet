@@ -4,7 +4,7 @@ TOCTitle: Page_Load Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.WebParts.Address.Page_Load(System.Object,System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.webparts.address.page_load(v=AX.60)
 ms:contentKeyID: 62207558
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

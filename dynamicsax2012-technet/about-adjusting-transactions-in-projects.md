@@ -4,7 +4,7 @@ TOCTitle: About adjusting transactions in projects
 ms:assetid: f7da01a6-cb5c-406b-baa3-c807a446f2fe
 ms:mtpsurl: https://technet.microsoft.com/library/Hh227554(v=AX.60)
 ms:contentKeyID: 36060042
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

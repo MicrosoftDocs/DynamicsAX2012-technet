@@ -4,7 +4,7 @@ TOCTitle: About planned purchase order lead times
 ms:assetid: 4ff7ba91-925c-4f4b-87d7-826046a051b7
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497131(v=AX.60)
 ms:contentKeyID: 36931871
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

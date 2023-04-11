@@ -4,7 +4,7 @@ TOCTitle: AddressFriendlyName Property
 ms:assetid: P:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.Address.AddressFriendlyName
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.models.address.addressfriendlyname(v=AX.60)
 ms:contentKeyID: 65315876
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/18/2015
 mtps_version: v=AX.60

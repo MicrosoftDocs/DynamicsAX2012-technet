@@ -4,7 +4,7 @@ TOCTitle: About setting up loyalty programs in AX 2012 R3
 ms:assetid: 41bb0f47-fe72-4e1d-9600-2f4a80d7796a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn720457(v=AX.60)
 ms:contentKeyID: 62224165
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/20/2015
 mtps_version: v=AX.60

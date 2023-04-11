@@ -4,7 +4,7 @@ TOCTitle: Accounting manager long-term solvency report (AccountingManagerLongTer
 ms:assetid: 9c870b6a-57a0-4a8e-a28c-9ac1c8f9f2a9
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692471(v=AX.60)
 ms:contentKeyID: 41702368
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

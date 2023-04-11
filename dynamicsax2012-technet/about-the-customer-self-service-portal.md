@@ -4,7 +4,7 @@ TOCTitle: About the Customer self-service portal
 ms:assetid: ec70236a-aff5-441b-931e-78377936abde
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271690(v=AX.60)
 ms:contentKeyID: 36384323
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

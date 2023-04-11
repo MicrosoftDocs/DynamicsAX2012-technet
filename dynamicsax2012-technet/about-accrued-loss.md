@@ -4,7 +4,7 @@ TOCTitle: About accrued loss
 ms:assetid: 49039c88-b84e-4fe9-9966-2665a6929285
 ms:mtpsurl: https://technet.microsoft.com/library/Aa497004(v=AX.60)
 ms:contentKeyID: 36056936
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

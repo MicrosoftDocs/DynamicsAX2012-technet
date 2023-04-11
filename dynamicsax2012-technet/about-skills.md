@@ -4,7 +4,7 @@ TOCTitle: About skills
 ms:assetid: 95741825-3544-4bf1-b593-774cb80b2c6e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498423(v=AX.60)
 ms:contentKeyID: 51020479
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

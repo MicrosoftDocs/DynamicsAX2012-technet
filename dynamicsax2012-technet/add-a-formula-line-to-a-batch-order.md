@@ -4,7 +4,7 @@ TOCTitle: Add a formula line to a batch order
 ms:assetid: c96d53f8-eb8d-4749-bf64-48569bf28b23
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352357(v=AX.60)
 ms:contentKeyID: 36687988
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About common issues related to standard cost conversion checks
 ms:assetid: 9d130481-023d-4b9b-8c7a-eb8b29719380
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213370(v=AX.60)
 ms:contentKeyID: 36058741
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

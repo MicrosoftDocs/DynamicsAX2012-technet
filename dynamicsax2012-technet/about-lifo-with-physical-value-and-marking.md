@@ -4,7 +4,7 @@ TOCTitle: About LIFO with physical value and marking
 ms:assetid: 83869272-ea6e-4afa-b486-b7de6e882c72
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213162(v=AX.60)
 ms:contentKeyID: 36058377
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

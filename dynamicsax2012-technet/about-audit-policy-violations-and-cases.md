@@ -4,7 +4,7 @@ TOCTitle: About audit policy violations and cases
 ms:assetid: c8745a77-0733-4a13-952a-d4a95ddcd9a2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242849(v=AX.60)
 ms:contentKeyID: 36059319
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

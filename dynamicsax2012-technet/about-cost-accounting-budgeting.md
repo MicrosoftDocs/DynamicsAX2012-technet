@@ -4,7 +4,7 @@ TOCTitle: About budgeting
 ms:assetid: e0c70f9e-854b-47a0-a3b1-aaa782c3c1b4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa551328(v=AX.60)
 ms:contentKeyID: 36059706
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

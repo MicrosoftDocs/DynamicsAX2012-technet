@@ -4,7 +4,7 @@ TOCTitle: About FIFO with physical value and marking
 ms:assetid: 6a395fb1-8d66-4132-a6e2-62b74d8863b1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231585(v=AX.60)
 ms:contentKeyID: 36057978
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

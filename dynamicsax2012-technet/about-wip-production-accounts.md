@@ -4,7 +4,7 @@ TOCTitle: About WIP production accounts
 ms:assetid: 6f933708-e8d2-4f47-999e-e519dc620807
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571295(v=AX.60)
 ms:contentKeyID: 36058048
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

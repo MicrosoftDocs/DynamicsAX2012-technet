@@ -4,7 +4,7 @@ TOCTitle: Accessibility for people with disabilities
 ms:assetid: 17be98ae-5070-4b18-9a34-6a46d0bab1b1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550769(v=AX.60)
 ms:contentKeyID: 36056088
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

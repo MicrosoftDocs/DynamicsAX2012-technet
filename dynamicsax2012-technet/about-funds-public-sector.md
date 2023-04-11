@@ -4,7 +4,7 @@ TOCTitle: About funds (Public sector)
 ms:assetid: e05aadc3-9f25-4620-88a0-d63bdde8058e
 ms:mtpsurl: https://technet.microsoft.com/library/Hh208594(v=AX.60)
 ms:contentKeyID: 36056381
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

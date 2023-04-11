@@ -4,7 +4,7 @@ TOCTitle: About inventory close and the general ledger
 ms:assetid: 0a72628b-5a53-4a10-b96a-629c4e8b6a4c
 ms:mtpsurl: https://technet.microsoft.com/library/Gg230701(v=AX.60)
 ms:contentKeyID: 36055985
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

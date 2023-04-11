@@ -4,7 +4,7 @@ TOCTitle: About vendor request configuration
 ms:assetid: 6114cc41-3f11-4297-85fe-4a148c0ec3e6
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209168(v=AX.60)
 ms:contentKeyID: 36057640
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

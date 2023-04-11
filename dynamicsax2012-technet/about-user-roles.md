@@ -4,7 +4,7 @@ TOCTitle: About user roles
 ms:assetid: 91526671-8419-4c3e-9b7e-39168a62a912
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271595(v=AX.60)
 ms:contentKeyID: 36384226
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

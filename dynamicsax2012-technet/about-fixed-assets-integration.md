@@ -4,7 +4,7 @@ TOCTitle: About fixed assets integration
 ms:assetid: 7b41e403-ced1-4504-af92-f2bdd20cd17b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550078(v=AX.60)
 ms:contentKeyID: 44080996
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

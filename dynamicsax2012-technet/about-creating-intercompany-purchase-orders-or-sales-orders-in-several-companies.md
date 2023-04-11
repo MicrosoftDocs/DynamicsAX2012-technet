@@ -4,7 +4,7 @@ TOCTitle: About creating intercompany purchase orders or sales orders in several
 ms:assetid: 221768ad-3fc7-4fe3-8fa9-991ac67f60cd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496795(v=AX.60)
 ms:contentKeyID: 36056171
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

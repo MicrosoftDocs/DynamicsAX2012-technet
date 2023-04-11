@@ -4,7 +4,7 @@ TOCTitle: About designing questionnaires
 ms:assetid: 017ffdd4-2435-4d24-8afa-450e02c48ed3
 ms:mtpsurl: https://technet.microsoft.com/library/Hh692454(v=AX.60)
 ms:contentKeyID: 41702349
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

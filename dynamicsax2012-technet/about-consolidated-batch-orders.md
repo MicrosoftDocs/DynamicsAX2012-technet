@@ -4,7 +4,7 @@ TOCTitle: About consolidated batch orders
 ms:assetid: 03ec075c-f667-4dbb-b0f0-5fae83e59c71
 ms:mtpsurl: https://technet.microsoft.com/library/Hh352178(v=AX.60)
 ms:contentKeyID: 36687809
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

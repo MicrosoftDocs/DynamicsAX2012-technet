@@ -4,7 +4,7 @@ TOCTitle: About the dispatch board
 ms:assetid: c17962a4-7ea1-4c2e-82db-69e84b8a534a
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213633(v=AX.60)
 ms:contentKeyID: 36059274
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 07/28/2014
 mtps_version: v=AX.60

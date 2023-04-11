@@ -4,7 +4,7 @@ TOCTitle: About options for entering fixed asset transactions
 ms:assetid: 3999e0cd-28b9-4577-bc2d-6d141ea43603
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570145(v=AX.60)
 ms:contentKeyID: 39519103
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

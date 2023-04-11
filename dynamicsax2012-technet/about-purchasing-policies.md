@@ -4,7 +4,7 @@ TOCTitle: About purchasing policies
 ms:assetid: a1a6647e-dabd-4c96-a0e2-2dd5a4e0b54c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh209455(v=AX.60)
 ms:contentKeyID: 36058791
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

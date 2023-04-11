@@ -4,7 +4,7 @@ TOCTitle: About assets acquired through procurement
 ms:assetid: 6de2c783-2e12-4146-b837-b2ea25cd1c07
 ms:mtpsurl: https://technet.microsoft.com/library/Gg231804(v=AX.60)
 ms:contentKeyID: 36058033
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

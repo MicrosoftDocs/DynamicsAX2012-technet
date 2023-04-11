@@ -4,7 +4,7 @@ TOCTitle: Accounts receivable clerk security role (CustInvoiceAccountsReceivable
 ms:assetid: b8f78e08-ed4a-4b7d-8be3-035bccf10d4c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh527130(v=AX.60)
 ms:contentKeyID: 37823181
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/06/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About cross-company payment settlements
 ms:assetid: f2c362bd-76bf-489e-9a43-df585d51d740
 ms:mtpsurl: https://technet.microsoft.com/library/Gg243279(v=AX.60)
 ms:contentKeyID: 36059972
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About batch merges in inventory
 ms:assetid: 04d2b20c-22ff-4e06-a757-cef42ffb65a5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn505751(v=AX.60)
 ms:contentKeyID: 59604025
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

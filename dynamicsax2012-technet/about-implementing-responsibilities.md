@@ -4,7 +4,7 @@ TOCTitle: About implementing responsibilities
 ms:assetid: 9d654e66-b903-48a4-8fd7-a96e9f03a48f
 ms:mtpsurl: https://technet.microsoft.com/library/Gg213374(v=AX.60)
 ms:contentKeyID: 36058746
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

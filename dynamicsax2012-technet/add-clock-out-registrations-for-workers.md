@@ -4,7 +4,7 @@ TOCTitle: Add clock-out registrations for workers
 ms:assetid: 168c76cf-94b2-4c7d-bfcf-ee43044e435e
 ms:mtpsurl: https://technet.microsoft.com/library/Aa569892(v=AX.60)
 ms:contentKeyID: 39519055
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

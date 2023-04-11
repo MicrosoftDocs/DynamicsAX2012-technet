@@ -4,7 +4,7 @@ TOCTitle: About configuration rules
 ms:assetid: 22a7bd30-7fc4-46d3-9e6d-47b2e403d966
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496798(v=AX.60)
 ms:contentKeyID: 36676374
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

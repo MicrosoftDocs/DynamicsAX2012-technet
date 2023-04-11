@@ -4,7 +4,7 @@ TOCTitle: About warehouses
 ms:assetid: b5b6ac8d-761c-4d49-bd5e-41683256e14f
 ms:mtpsurl: https://technet.microsoft.com/library/Aa550469(v=AX.60)
 ms:contentKeyID: 36059082
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

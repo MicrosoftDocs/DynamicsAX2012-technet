@@ -4,7 +4,7 @@ TOCTitle: About product variants
 ms:assetid: fef0de51-1a49-480b-8767-2f6bc352dadb
 ms:mtpsurl: https://technet.microsoft.com/library/Aa573452(v=AX.60)
 ms:contentKeyID: 39519394
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

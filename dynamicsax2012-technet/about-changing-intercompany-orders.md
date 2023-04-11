@@ -4,7 +4,7 @@ TOCTitle: About changing intercompany orders
 ms:assetid: 6587db24-8a8c-455e-bb53-74198326f812
 ms:mtpsurl: https://technet.microsoft.com/library/Aa571147(v=AX.60)
 ms:contentKeyID: 36057746
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/02/2014
 mtps_version: v=AX.60

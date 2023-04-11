@@ -4,7 +4,7 @@ TOCTitle: About sales order posting types
 ms:assetid: ad7875e1-45b2-4c48-9850-35490c808485
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498586(v=AX.60)
 ms:contentKeyID: 44081023
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

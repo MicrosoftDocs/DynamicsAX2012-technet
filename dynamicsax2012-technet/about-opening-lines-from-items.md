@@ -4,7 +4,7 @@ TOCTitle: About opening lines from items
 ms:assetid: 102cefa3-404a-47d7-8df3-41ddbfe76bb4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa496556(v=AX.60)
 ms:contentKeyID: 36056025
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

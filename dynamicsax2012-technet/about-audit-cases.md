@@ -4,7 +4,7 @@ TOCTitle: About audit cases
 ms:assetid: 9fd6aac1-f9d9-4025-a4d2-6c273d5684a7
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271615(v=AX.60)
 ms:contentKeyID: 36384247
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60

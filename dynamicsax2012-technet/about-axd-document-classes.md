@@ -4,7 +4,7 @@ TOCTitle: About Axd<Document> Classes
 ms:assetid: bd346bfa-a56f-4aec-9146-993deed238e4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa862063(v=AX.60)
 ms:contentKeyID: 35250018
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 11/07/2012
 mtps_version: v=AX.60

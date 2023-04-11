@@ -4,7 +4,7 @@ TOCTitle: Add and update product attributes for retail channels (Retail essentia
 ms:assetid: 7fed2812-d8ff-40e0-8a1c-eb19b277cf31
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876696(v=AX.60)
 ms:contentKeyID: 63384782
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 12/17/2014
 mtps_version: v=AX.60

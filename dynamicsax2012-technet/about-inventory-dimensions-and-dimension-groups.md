@@ -4,7 +4,7 @@ TOCTitle: About inventory dimensions and dimension groups
 ms:assetid: 553fd9b1-a2b9-42e2-a0ea-7168bf29838b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa549043(v=AX.60)
 ms:contentKeyID: 39519140
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

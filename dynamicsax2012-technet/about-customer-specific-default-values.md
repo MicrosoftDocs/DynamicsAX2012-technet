@@ -4,7 +4,7 @@ TOCTitle: About customer specific default values
 ms:assetid: 8acc9620-efb1-4083-b42d-10260e019f78
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498246(v=AX.60)
 ms:contentKeyID: 36058470
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 04/18/2014
 mtps_version: v=AX.60

@@ -4,7 +4,7 @@ TOCTitle: About evidence
 ms:assetid: 3029e174-33c8-416d-8d58-93e1d44ecf24
 ms:mtpsurl: https://technet.microsoft.com/library/Hh271490(v=AX.60)
 ms:contentKeyID: 36384122
-author: Khairunj
+author: tfehr
 ms.author: daxcpft
 ms.date: 05/01/2014
 mtps_version: v=AX.60
