@@ -4,7 +4,7 @@ TOCTitle: HardwareStationDataHandler Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Sdk.HardwareStation.HardwareStationDataHandler
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.sdk.hardwarestation.hardwarestationdatahandler(v=AX.60)
 ms:contentKeyID: 65315617
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

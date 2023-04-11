@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add a Financial Dimension to a Cube'
 ms:assetid: 507d6dab-53bb-4116-971b-f834bb3192c8
 ms:mtpsurl: https://technet.microsoft.com/library/Hh128830(v=AX.60)
 ms:contentKeyID: 35588429
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

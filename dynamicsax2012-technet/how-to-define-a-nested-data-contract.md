@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define a Nested Data Contract'
 ms:assetid: 433423d6-5cde-40c1-8892-cc4bf9aafa9d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731913(v=AX.60)
 ms:contentKeyID: 35132839
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

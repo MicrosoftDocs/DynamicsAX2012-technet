@@ -4,7 +4,7 @@ TOCTitle: Grant users access to cubes
 ms:assetid: dd6bba5a-22d8-4bf0-9355-bee63b45818b
 ms:mtpsurl: https://technet.microsoft.com/library/Aa570082(v=AX.60)
 ms:contentKeyID: 35133093
-author: Khairunj
+author: tonyafehr
 ms.date: 06/03/2014
 mtps_version: v=AX.60
 ---

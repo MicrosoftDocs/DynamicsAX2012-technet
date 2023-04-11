@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define a Report Filter'
 ms:assetid: e591253b-3f0c-4391-b4fc-e434eb302be6
 ms:mtpsurl: https://technet.microsoft.com/library/Cc640621(v=AX.60)
 ms:contentKeyID: 28119605
-author: Khairunj
+author: tonyafehr
 ms.date: 10/12/2013
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add or Delete Fields in a Data Region'
 ms:assetid: 5b2479fd-23ca-40e4-9c7a-56bc6c345f00
 ms:mtpsurl: https://technet.microsoft.com/library/Cc598701(v=AX.60)
 ms:contentKeyID: 28119362
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

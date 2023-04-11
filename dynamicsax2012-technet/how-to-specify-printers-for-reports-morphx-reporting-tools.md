@@ -4,7 +4,7 @@ TOCTitle: 'How to: Specify Printers for Reports'
 ms:assetid: 54ca6a41-ba68-4425-8b7c-248e2fae0d6d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa606033(v=AX.60)
 ms:contentKeyID: 35290298
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

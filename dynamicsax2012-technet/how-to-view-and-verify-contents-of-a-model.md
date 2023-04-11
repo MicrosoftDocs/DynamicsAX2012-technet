@@ -4,7 +4,7 @@ TOCTitle: 'How to: View and Verify Contents of a Model'
 ms:assetid: 947da5f7-a41b-4cae-9730-f48c27981477
 ms:mtpsurl: https://technet.microsoft.com/library/Hh433532(v=AX.60)
 ms:contentKeyID: 36941321
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

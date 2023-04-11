@@ -4,7 +4,7 @@ TOCTitle: 'How to: Upgrade cubes'
 ms:assetid: 4cd62ae4-dc8c-4de0-8a1f-4ee49e6e6a8b
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731924(v=AX.60)
 ms:contentKeyID: 35132852
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

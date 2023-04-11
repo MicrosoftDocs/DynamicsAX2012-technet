@@ -4,7 +4,7 @@ TOCTitle: 'How to: Print a Report'
 ms:assetid: 3ac14ad7-6427-4553-af97-13f961689fad
 ms:mtpsurl: https://technet.microsoft.com/library/Ee873254(v=AX.60)
 ms:contentKeyID: 28119346
-author: Khairunj
+author: tonyafehr
 ms.date: 10/24/2013
 mtps_version: v=AX.60
 ---

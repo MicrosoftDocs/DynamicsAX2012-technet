@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add a Service Operation to a Service'
 ms:assetid: 5ab48644-23d8-467c-b59b-56c66d0c73d1
 ms:mtpsurl: https://technet.microsoft.com/library/Aa607052(v=AX.60)
 ms:contentKeyID: 35244359
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

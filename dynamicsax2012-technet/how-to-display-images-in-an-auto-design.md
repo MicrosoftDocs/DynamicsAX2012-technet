@@ -4,7 +4,7 @@ TOCTitle: 'How to: Display Images in an Auto Design'
 ms:assetid: f9ffab6a-21b3-4ada-a87d-5cddca48b103
 ms:mtpsurl: https://technet.microsoft.com/library/Cc654537(v=AX.60)
 ms:contentKeyID: 28119621
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: UpdateUserCustomerMap Method
 ms:assetid: M:Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Storefront.IAuthorizationManager.UpdateUserCustomerMap(Microsoft.Dynamics.Retail.Ecommerce.Sdk.Core.Models.UserCustomerMap)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.ecommerce.sdk.core.storefront.iauthorizationmanager.updateusercustomermap(v=AX.60)
 ms:contentKeyID: 65317993
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: GetStoreLocationsRequest Constructor (QueryResultSettings, ICollection
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetStoreLocationsRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.QueryResultSettings,System.Collections.Generic.ICollection{System.String})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getstorelocationsrequest.getstorelocationsrequest(v=AX.60)
 ms:contentKeyID: 65319819
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

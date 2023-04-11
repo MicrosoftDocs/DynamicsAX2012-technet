@@ -4,7 +4,7 @@ TOCTitle: UnitOfMeasure Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRoundQuantityServiceRequest.UnitOfMeasure
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getroundquantityservicerequest.unitofmeasure(v=AX.60)
 ms:contentKeyID: 62203988
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

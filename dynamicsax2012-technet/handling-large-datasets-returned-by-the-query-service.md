@@ -4,7 +4,7 @@ TOCTitle: Handling Large Datasets Returned by the Query Service
 ms:assetid: 6ad0a766-bf37-43e0-a093-0a781c9b8012
 ms:mtpsurl: https://technet.microsoft.com/library/Gg840967(v=AX.60)
 ms:contentKeyID: 35244792
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

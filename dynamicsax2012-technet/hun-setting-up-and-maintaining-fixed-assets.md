@@ -4,7 +4,7 @@ TOCTitle: (HUN) Setting up and maintaining Fixed assets
 ms:assetid: 0ed6a5a7-6db1-4a8e-9b3e-c542a56c4177
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664226(v=AX.60)
 ms:contentKeyID: 49385315
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

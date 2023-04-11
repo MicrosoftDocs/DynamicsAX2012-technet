@@ -4,7 +4,7 @@ TOCTitle: Handle customer inquiries overview
 ms:assetid: 7330c148-90eb-41f9-82b7-db662487cd2d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg212961(v=AX.60)
 ms:contentKeyID: 36058137
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

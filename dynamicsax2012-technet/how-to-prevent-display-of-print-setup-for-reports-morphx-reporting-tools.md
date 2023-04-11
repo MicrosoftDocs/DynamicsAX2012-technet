@@ -4,7 +4,7 @@ TOCTitle: 'How to: Prevent Display of Print Setup for Reports'
 ms:assetid: 3d3b4807-dbde-496a-b8df-f63278aa06cb
 ms:mtpsurl: https://technet.microsoft.com/library/Bb314611(v=AX.60)
 ms:contentKeyID: 35290296
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: IApplicationFrameworkV1 Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Retail.Pos.Contracts.UI.IApplicationFrameworkV1
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.pos.contracts.ui.iapplicationframeworkv1_methods(v=AX.60)
 ms:contentKeyID: 47129203
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

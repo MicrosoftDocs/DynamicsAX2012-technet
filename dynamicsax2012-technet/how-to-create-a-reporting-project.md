@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Reporting Project'
 ms:assetid: c8de8a82-023a-4f8f-805b-aa9e7dbb209d
 ms:mtpsurl: https://technet.microsoft.com/library/Cc575711(v=AX.60)
 ms:contentKeyID: 28119584
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

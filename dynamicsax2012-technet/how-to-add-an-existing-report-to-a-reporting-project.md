@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add an Existing Report to a Reporting Project'
 ms:assetid: b11e0118-6d16-4046-927f-ee1093e660b5
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724096(v=AX.60)
 ms:contentKeyID: 35133454
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Project from a Model'
 ms:assetid: 19631332-38a5-4787-9696-f7eb6839fc4c
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404122(v=AX.60)
 ms:contentKeyID: 36956790
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

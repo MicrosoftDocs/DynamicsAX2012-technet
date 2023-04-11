@@ -4,7 +4,7 @@ TOCTitle: GetSupportedReportsDataRequest Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.DataServices.Messages.GetSupportedReportsDataRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.messages.getsupportedreportsdatarequest_methods(v=AX.60)
 ms:contentKeyID: 65320759
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

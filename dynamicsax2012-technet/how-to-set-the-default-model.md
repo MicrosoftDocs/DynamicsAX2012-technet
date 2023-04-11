@@ -4,7 +4,7 @@ TOCTitle: 'How to: Set the Default Model'
 ms:assetid: a1ce2d61-82f3-413b-9bb6-f8bed7e98fd2
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404129(v=AX.60)
 ms:contentKeyID: 36956797
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: HtmlLabel Events
 ms:assetid: Events.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlLabel
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmllabel_events(v=AX.60)
 ms:contentKeyID: 62207393
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

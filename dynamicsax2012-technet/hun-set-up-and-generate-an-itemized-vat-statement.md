@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up and generate an itemized VAT statement
 ms:assetid: 736eca2a-c207-4e0c-84a6-de4b51cb439c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268481(v=AX.60)
 ms:contentKeyID: 54917020
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

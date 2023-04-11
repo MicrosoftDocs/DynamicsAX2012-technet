@@ -4,7 +4,7 @@ TOCTitle: Guidance for Choosing the Data Source Type
 ms:assetid: 93a04e51-820b-414b-9f8a-cbeff12c1f6c
 ms:mtpsurl: https://technet.microsoft.com/library/Ee909902(v=AX.60)
 ms:contentKeyID: 28119399
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

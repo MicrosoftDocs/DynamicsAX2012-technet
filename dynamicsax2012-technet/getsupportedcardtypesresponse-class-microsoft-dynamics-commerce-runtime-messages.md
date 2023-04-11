@@ -4,7 +4,7 @@ TOCTitle: GetSupportedCardTypesResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetSupportedCardTypesResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getsupportedcardtypesresponse(v=AX.60)
 ms:contentKeyID: 49840959
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

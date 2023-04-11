@@ -4,7 +4,7 @@ TOCTitle: GetRoundedValueServiceRequest Constructor (Decimal, String, Int32, Boo
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetRoundedValueServiceRequest.#ctor(System.Decimal,System.String,System.Int32,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getroundedvalueservicerequest.getroundedvalueservicerequest(v=AX.60)
 ms:contentKeyID: 65320299
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

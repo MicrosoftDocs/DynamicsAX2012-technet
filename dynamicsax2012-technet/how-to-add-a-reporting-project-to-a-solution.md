@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add a Reporting Project to a Solution'
 ms:assetid: 9e6bba7a-666b-4e2f-a691-f5800169528d
 ms:mtpsurl: https://technet.microsoft.com/library/Cc615530(v=AX.60)
 ms:contentKeyID: 28119555
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

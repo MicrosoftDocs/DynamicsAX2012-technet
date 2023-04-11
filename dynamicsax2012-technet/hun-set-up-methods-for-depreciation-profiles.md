@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up methods for depreciation profiles
 ms:assetid: d7a3d0a5-3a54-4bdb-a558-085dc13b639e
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728743(v=AX.60)
 ms:contentKeyID: 49556653
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

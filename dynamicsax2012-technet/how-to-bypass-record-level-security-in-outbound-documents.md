@@ -4,7 +4,7 @@ TOCTitle: 'How to: Bypass Record Level Security in Outbound Documents'
 ms:assetid: 4265fdc5-5c9d-4afb-8df4-13261e37ddcd
 ms:mtpsurl: https://technet.microsoft.com/library/Aa627307(v=AX.60)
 ms:contentKeyID: 35242952
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

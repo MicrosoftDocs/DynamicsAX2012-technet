@@ -4,7 +4,7 @@ TOCTitle: SalesId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetShipmentsServiceRequest.SalesId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getshipmentsservicerequest.salesid(v=AX.60)
 ms:contentKeyID: 49828437
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: Human resource I configuration key (HRMAdministration)
 ms:assetid: 18b8e533-3d2c-45fb-b7f5-879bcc7c0e70
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416653(v=AX.60)
 ms:contentKeyID: 36931817
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

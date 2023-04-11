@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up a posting profile for fixed asset items
 ms:assetid: 5b489565-2b2d-41b7-bcbf-fbbce940e289
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664287(v=AX.60)
 ms:contentKeyID: 49385376
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

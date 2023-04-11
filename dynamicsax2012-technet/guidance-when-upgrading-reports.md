@@ -4,7 +4,7 @@ TOCTitle: Guidance when Upgrading Reports
 ms:assetid: bf2a41b1-8a3a-41d8-a0c4-8af1e1956ae1
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724106(v=AX.60)
 ms:contentKeyID: 35133466
-author: Khairunj
+author: tonyafehr
 ms.date: 03/12/2014
 mtps_version: v=AX.60
 ---

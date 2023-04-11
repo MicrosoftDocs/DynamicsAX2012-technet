@@ -4,7 +4,7 @@ TOCTitle: Hours configuration key (ProjBasicHour)
 ms:assetid: 1aa5b247-7ca2-4188-8ddd-12bc21ecaf8d
 ms:mtpsurl: https://technet.microsoft.com/library/Aa499126(v=AX.60)
 ms:contentKeyID: 39518950
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 f1_keywords:

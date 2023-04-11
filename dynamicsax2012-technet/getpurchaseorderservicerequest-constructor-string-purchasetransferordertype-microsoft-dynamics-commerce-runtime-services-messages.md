@@ -4,7 +4,7 @@ TOCTitle: GetPurchaseOrderServiceRequest Constructor (String, PurchaseTransferOr
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetPurchaseOrderServiceRequest.#ctor(System.String,Microsoft.Dynamics.Commerce.Runtime.DataModel.PurchaseTransferOrderType)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getpurchaseorderservicerequest.getpurchaseorderservicerequest(v=AX.60)
 ms:contentKeyID: 65321286
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create and post a sales order invoice with a specific VAT regist
 ms:assetid: f558e197-5836-4c0b-ad88-f431941311ec
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664416(v=AX.60)
 ms:contentKeyID: 49385504
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

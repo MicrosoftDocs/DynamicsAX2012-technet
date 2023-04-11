@@ -4,7 +4,7 @@ TOCTitle: 'How to: Deploy Reports to a Report Server'
 ms:assetid: fa38937f-7a60-4e6a-a401-c802dd50711a
 ms:mtpsurl: https://technet.microsoft.com/library/Cc654602(v=AX.60)
 ms:contentKeyID: 28119622
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

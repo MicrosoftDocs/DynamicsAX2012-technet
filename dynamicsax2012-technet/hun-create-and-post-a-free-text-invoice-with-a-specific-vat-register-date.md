@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create and post a free text invoice with a specific VAT register
 ms:assetid: 3e2a886b-d272-4770-a876-30a4953b5ec1
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664266(v=AX.60)
 ms:contentKeyID: 49385355
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

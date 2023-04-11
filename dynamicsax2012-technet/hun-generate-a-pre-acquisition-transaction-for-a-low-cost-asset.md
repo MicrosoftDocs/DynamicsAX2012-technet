@@ -4,7 +4,7 @@ TOCTitle: (HUN) Generate a pre-acquisition transaction for a low-cost asset
 ms:assetid: d4018c1d-7f22-4aef-ae71-d6b9d764c046
 ms:mtpsurl: https://technet.microsoft.com/library/JJ733164(v=AX.60)
 ms:contentKeyID: 49685132
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

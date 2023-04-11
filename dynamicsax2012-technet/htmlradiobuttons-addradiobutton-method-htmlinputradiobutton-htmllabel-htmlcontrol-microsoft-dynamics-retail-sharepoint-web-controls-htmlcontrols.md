@@ -4,7 +4,7 @@ TOCTitle: AddRadioButton Method (HtmlInputRadioButton, HtmlLabel, HtmlControl)
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlRadioButtons.AddRadioButton(System.Web.UI.HtmlControls.HtmlInputRadioButton,Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlLabel,System.Web.UI.HtmlControls.HtmlControl)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlradiobuttons.addradiobutton(v=AX.60)
 ms:contentKeyID: 62206114
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

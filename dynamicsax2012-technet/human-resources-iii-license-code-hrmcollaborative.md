@@ -4,7 +4,7 @@ TOCTitle: Human resources III license code (HRMCollaborative)
 ms:assetid: 8bb19fff-7078-4988-b5dc-642379943774
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416682(v=AX.60)
 ms:contentKeyID: 36931843
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

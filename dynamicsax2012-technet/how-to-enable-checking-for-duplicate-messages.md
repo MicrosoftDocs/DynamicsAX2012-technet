@@ -4,7 +4,7 @@ TOCTitle: 'How to: Enable Checking for Duplicate Messages'
 ms:assetid: b6fd698e-44c9-4508-afed-1df866ba5401
 ms:mtpsurl: https://technet.microsoft.com/library/Cc617915(v=AX.60)
 ms:contentKeyID: 35249836
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

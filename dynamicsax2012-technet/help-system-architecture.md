@@ -4,7 +4,7 @@ TOCTitle: Help system architecture
 ms:assetid: 929971c1-2b66-42df-a047-3baa684c8bdc
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731869(v=AX.60)
 ms:contentKeyID: 35132763
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

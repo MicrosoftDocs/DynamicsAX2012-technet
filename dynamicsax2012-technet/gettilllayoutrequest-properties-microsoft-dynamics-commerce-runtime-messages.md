@@ -4,7 +4,7 @@ TOCTitle: GetTillLayoutRequest Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetTillLayoutRequest
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.gettilllayoutrequest_properties(v=AX.60)
 ms:contentKeyID: 62208661
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

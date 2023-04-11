@@ -4,7 +4,7 @@ TOCTitle: GetStoreOperationResponse Methods
 ms:assetid: Methods.T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetStoreOperationResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getstoreoperationresponse_methods(v=AX.60)
 ms:contentKeyID: 62211666
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

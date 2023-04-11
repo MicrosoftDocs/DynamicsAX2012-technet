@@ -4,7 +4,7 @@ TOCTitle: 'How to: Define a Sorted Data Region'
 ms:assetid: 5922c178-4c94-4dda-a3a1-f4a7e41e177e
 ms:mtpsurl: https://technet.microsoft.com/library/Cc554426(v=AX.60)
 ms:contentKeyID: 28119361
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 f1_keywords:

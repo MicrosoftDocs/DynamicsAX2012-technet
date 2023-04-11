@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create a sales order that includes the VAT exchange rate
 ms:assetid: b6daee02-d1fa-441d-94dc-96613b0e549c
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664358(v=AX.60)
 ms:contentKeyID: 49385446
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

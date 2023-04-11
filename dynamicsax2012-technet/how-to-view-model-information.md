@@ -4,7 +4,7 @@ TOCTitle: 'How to: View Model Information'
 ms:assetid: 8ebec422-d91b-4999-a461-32ee9cbe14ac
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404127(v=AX.60)
 ms:contentKeyID: 36956795
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

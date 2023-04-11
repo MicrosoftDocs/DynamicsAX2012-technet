@@ -4,7 +4,7 @@ TOCTitle: 'How to: Display Aggregate Values in a Data Region'
 ms:assetid: 6600de34-dbda-4381-8413-02d55aedd6d7
 ms:mtpsurl: https://technet.microsoft.com/library/Cc592216(v=AX.60)
 ms:contentKeyID: 28119370
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

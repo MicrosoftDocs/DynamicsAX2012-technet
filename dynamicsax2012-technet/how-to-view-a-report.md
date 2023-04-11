@@ -4,7 +4,7 @@ TOCTitle: 'How to: View a Report'
 ms:assetid: c86c58a9-d93b-4ee6-a6ec-13fe1864ad97
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724116(v=AX.60)
 ms:contentKeyID: 35133476
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

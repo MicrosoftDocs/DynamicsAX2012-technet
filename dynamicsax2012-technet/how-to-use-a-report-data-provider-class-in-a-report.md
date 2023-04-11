@@ -4,7 +4,7 @@ TOCTitle: 'How to: Use a Report Data Provider Class in a Report'
 ms:assetid: 46bf4823-0c76-4327-a1e1-29500258d632
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731917(v=AX.60)
 ms:contentKeyID: 35132844
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

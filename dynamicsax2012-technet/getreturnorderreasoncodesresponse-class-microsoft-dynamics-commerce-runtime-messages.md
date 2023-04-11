@@ -4,7 +4,7 @@ TOCTitle: GetReturnOrderReasonCodesResponse Class
 ms:assetid: T:Microsoft.Dynamics.Commerce.Runtime.Messages.GetReturnOrderReasonCodesResponse
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getreturnorderreasoncodesresponse(v=AX.60)
 ms:contentKeyID: 65321854
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

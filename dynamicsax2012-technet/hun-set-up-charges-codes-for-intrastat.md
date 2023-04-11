@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up charges codes for Intrastat
 ms:assetid: 75dba2ef-7230-44ca-ac76-8d59161be684
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664304(v=AX.60)
 ms:contentKeyID: 49385393
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

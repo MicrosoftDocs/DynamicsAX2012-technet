@@ -4,7 +4,7 @@ TOCTitle: (HUN) Vendor advance invoices journal report (VendAdvanceInvoiceJour)
 ms:assetid: 23713103-fbf2-463c-8ad9-87bb4b83f4e7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn169543(v=AX.60)
 ms:contentKeyID: 53874756
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

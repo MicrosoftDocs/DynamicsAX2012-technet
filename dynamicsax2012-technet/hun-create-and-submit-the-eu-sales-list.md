@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create and submit the EU sales list
 ms:assetid: b2583bc2-55fe-4b2b-a3bc-da9ef3fb34dd
 ms:mtpsurl: https://technet.microsoft.com/library/JJ728744(v=AX.60)
 ms:contentKeyID: 49556654
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

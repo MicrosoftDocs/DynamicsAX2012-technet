@@ -4,7 +4,7 @@ TOCTitle: Handle payment issues
 ms:assetid: 49610949-1930-4d35-ad0b-b51d56ef10a4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn497745(v=AX.60)
 ms:contentKeyID: 62200062
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

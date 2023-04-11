@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up an export format for vendor payments
 ms:assetid: 7ad35fe1-fab4-4c08-aba0-8982b94a50c4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664315(v=AX.60)
 ms:contentKeyID: 49385404
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

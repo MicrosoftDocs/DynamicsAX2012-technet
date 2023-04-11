@@ -4,7 +4,7 @@ TOCTitle: 'How to: Generate a Document Schema'
 ms:assetid: 8eb8ac27-5bc1-475f-a186-adf9c467b55e
 ms:mtpsurl: https://technet.microsoft.com/library/Bb496531(v=AX.60)
 ms:contentKeyID: 35246490
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

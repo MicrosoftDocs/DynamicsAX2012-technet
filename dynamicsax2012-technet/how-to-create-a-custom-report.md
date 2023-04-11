@@ -4,7 +4,7 @@ TOCTitle: How to create a custom report
 ms:assetid: b8bca7ab-1b62-4cba-aeed-ecc28b5fc1b8
 ms:mtpsurl: https://technet.microsoft.com/library/Gg232440(v=AX.60)
 ms:contentKeyID: 35133456
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

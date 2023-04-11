@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up a value model for low-cost assets
 ms:assetid: 8b3aa92e-8854-409f-8381-ae87d23e33f5
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664326(v=AX.60)
 ms:contentKeyID: 49385415
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

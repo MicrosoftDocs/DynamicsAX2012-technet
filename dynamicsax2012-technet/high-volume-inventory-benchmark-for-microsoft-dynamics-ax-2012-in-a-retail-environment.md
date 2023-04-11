@@ -4,7 +4,7 @@ TOCTitle: High Volume Inventory Benchmark for Microsoft Dynamics AX 2012 in a Re
 ms:assetid: add314e8-9c89-42f6-81b9-7dee0ad4aa63
 ms:mtpsurl: https://technet.microsoft.com/library/Hh881832(v=AX.60)
 ms:contentKeyID: 45769254
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

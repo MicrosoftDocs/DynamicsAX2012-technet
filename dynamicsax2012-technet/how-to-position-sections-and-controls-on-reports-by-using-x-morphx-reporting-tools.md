@@ -4,7 +4,7 @@ TOCTitle: 'How to: Position Sections and Controls on Reports by Using X++'
 ms:assetid: cde72335-bf04-4030-9bf0-add613dd686d
 ms:mtpsurl: https://technet.microsoft.com/library/Bb278223(v=AX.60)
 ms:contentKeyID: 35290372
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

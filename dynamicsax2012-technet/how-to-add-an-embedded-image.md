@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add an Embedded Image'
 ms:assetid: 2eca893f-1178-42f6-b1c2-7e0b543c5d21
 ms:mtpsurl: https://technet.microsoft.com/library/Cc586367(v=AX.60)
 ms:contentKeyID: 28119331
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

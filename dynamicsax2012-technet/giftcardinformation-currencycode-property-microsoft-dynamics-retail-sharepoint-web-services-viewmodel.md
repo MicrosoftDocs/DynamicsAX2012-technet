@@ -4,7 +4,7 @@ TOCTitle: CurrencyCode Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.GiftCardInformation.CurrencyCode
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.giftcardinformation.currencycode(v=AX.60)
 ms:contentKeyID: 62204090
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

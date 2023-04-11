@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a New Model'
 ms:assetid: 31951cd5-1638-47a2-bde8-c0f8624e045b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404123(v=AX.60)
 ms:contentKeyID: 36956791
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

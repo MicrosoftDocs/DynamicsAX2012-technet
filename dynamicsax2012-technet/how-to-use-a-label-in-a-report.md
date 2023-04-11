@@ -4,7 +4,7 @@ TOCTitle: 'How to: Use a Label in a Report'
 ms:assetid: 99dcfb10-30a5-4314-b133-970f1db626b3
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724077(v=AX.60)
 ms:contentKeyID: 35133434
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 dev_langs:

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add Validation to a Data Contract Class'
 ms:assetid: 754849b3-e4fb-4934-b549-67eb77e79469
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731942(v=AX.60)
 ms:contentKeyID: 35132876
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: Getting started with customizing the Retail online sample store
 ms:assetid: 78860e27-5f80-4b97-a529-460403e021d6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn741227(v=AX.60)
 ms:contentKeyID: 62219119
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

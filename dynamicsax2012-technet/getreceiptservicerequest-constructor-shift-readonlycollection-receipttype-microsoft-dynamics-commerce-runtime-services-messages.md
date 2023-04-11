@@ -4,7 +4,7 @@ TOCTitle: GetReceiptServiceRequest Constructor (Shift, ReadOnlyCollection(Receip
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetReceiptServiceRequest.#ctor(Microsoft.Dynamics.Commerce.Runtime.DataModel.Shift,System.Collections.ObjectModel.ReadOnlyCollection{Microsoft.Dynamics.Commerce.Runtime.DataModel.ReceiptType})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getreceiptservicerequest.getreceiptservicerequest(v=AX.60)
 ms:contentKeyID: 65317379
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

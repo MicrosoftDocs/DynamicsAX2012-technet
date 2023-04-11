@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Role Center'
 ms:assetid: 9d7a664e-ad1c-48c5-bc2c-c430599f142f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ945384(v=AX.60)
 ms:contentKeyID: 51442776
-author: Khairunj
+author: tonyafehr
 ms.date: 02/13/2013
 mtps_version: v=AX.60
 ---

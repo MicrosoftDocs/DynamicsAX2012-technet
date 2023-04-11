@@ -4,7 +4,7 @@ TOCTitle: (HUN) Fixed assets
 ms:assetid: 7c6b4467-aecb-44a2-a29c-da5f3f18008f
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664316(v=AX.60)
 ms:contentKeyID: 49385405
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

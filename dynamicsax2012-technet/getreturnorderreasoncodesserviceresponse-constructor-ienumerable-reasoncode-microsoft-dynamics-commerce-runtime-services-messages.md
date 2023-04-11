@@ -4,7 +4,7 @@ TOCTitle: GetReturnOrderReasonCodesServiceResponse Constructor (IEnumerable(Reas
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetReturnOrderReasonCodesServiceResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.ReasonCode})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getreturnorderreasoncodesserviceresponse.getreturnorderreasoncodesserviceresponse(v=AX.60)
 ms:contentKeyID: 65319984
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

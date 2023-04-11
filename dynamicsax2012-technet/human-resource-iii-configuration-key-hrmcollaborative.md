@@ -4,7 +4,7 @@ TOCTitle: Human resource III configuration key (HRMCollaborative)
 ms:assetid: d8f3b712-0b57-4bf3-b857-3a29e874dab4
 ms:mtpsurl: https://technet.microsoft.com/library/Hh416696(v=AX.60)
 ms:contentKeyID: 36931857
-author: Khairunj
+author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
 ---

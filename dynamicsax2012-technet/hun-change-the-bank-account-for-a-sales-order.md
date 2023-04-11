@@ -4,7 +4,7 @@ TOCTitle: (HUN) Change the bank account for a sales order
 ms:assetid: 5ca9c7e1-b41b-42aa-b726-81a991ccb01b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664288(v=AX.60)
 ms:contentKeyID: 49385377
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Service by Using the AIF Document Service Wizard'
 ms:assetid: 6b4c1fe4-a608-4a39-b415-c6b3b1ea4525
 ms:mtpsurl: https://technet.microsoft.com/library/Aa609947(v=AX.60)
 ms:contentKeyID: 35244794
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

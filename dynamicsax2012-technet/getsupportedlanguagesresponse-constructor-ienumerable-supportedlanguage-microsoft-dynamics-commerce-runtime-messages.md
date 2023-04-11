@@ -4,7 +4,7 @@ TOCTitle: GetSupportedLanguagesResponse Constructor (IEnumerable(SupportedLangua
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetSupportedLanguagesResponse.#ctor(System.Collections.Generic.IEnumerable{Microsoft.Dynamics.Commerce.Runtime.DataModel.SupportedLanguage})
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getsupportedlanguagesresponse.getsupportedlanguagesresponse(v=AX.60)
 ms:contentKeyID: 62213192
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

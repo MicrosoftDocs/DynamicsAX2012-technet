@@ -4,7 +4,7 @@ TOCTitle: 'How to: Specify Dimensions and Attributes for a Cube'
 ms:assetid: 95790e4f-71c4-4a10-b0b6-aaec644c385b
 ms:mtpsurl: https://technet.microsoft.com/library/Cc595579(v=AX.60)
 ms:contentKeyID: 28119400
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

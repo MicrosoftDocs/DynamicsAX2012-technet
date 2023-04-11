@@ -4,7 +4,7 @@ TOCTitle: SignatureCaptureDeviceDescription Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfile.SignatureCaptureDeviceDescription
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.signaturecapturedevicedescription(v=AX.60)
 ms:contentKeyID: 62212961
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

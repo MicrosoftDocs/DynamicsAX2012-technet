@@ -4,7 +4,7 @@ TOCTitle: HtmlUnorderedList Properties
 ms:assetid: Properties.T:Microsoft.Dynamics.Retail.SharePoint.Web.Controls.HtmlControls.HtmlUnorderedList
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.controls.htmlcontrols.htmlunorderedlist_properties(v=AX.60)
 ms:contentKeyID: 62206774
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

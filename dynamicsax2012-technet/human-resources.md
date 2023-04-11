@@ -4,7 +4,7 @@ TOCTitle: Human resources
 ms:assetid: 04f7dd62-a26e-437e-8d99-a85b3dbeec1b
 ms:mtpsurl: https://technet.microsoft.com/library/Hh242105(v=AX.60)
 ms:contentKeyID: 36055948
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:

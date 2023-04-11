@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up system accounts for closing and opening general ledger ac
 ms:assetid: bf0411c4-77dd-4dae-91ce-967c607d79cc
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664366(v=AX.60)
 ms:contentKeyID: 49385455
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

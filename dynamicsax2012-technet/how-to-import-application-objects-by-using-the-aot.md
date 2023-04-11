@@ -4,7 +4,7 @@ TOCTitle: 'How to: Import Application Objects by Using the AOT'
 ms:assetid: aca27fe1-7e3a-43b7-b0a3-7db2c9bf71d4
 ms:mtpsurl: https://technet.microsoft.com/library/Aa854197(v=AX.60)
 ms:contentKeyID: 35249712
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

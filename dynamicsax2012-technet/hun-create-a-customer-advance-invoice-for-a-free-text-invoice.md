@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create a customer advance invoice for a free text invoice
 ms:assetid: a63df3e8-98dd-4f60-bd36-d459cf563410
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664343(v=AX.60)
 ms:contentKeyID: 49385431
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

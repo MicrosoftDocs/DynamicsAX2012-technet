@@ -4,7 +4,7 @@ TOCTitle: GetSupportedLanguagesResponse Constructor
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetSupportedLanguagesResponse.#ctor
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getsupportedlanguagesresponse.getsupportedlanguagesresponse(v=AX.60)
 ms:contentKeyID: 62206737
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

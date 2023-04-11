@@ -4,7 +4,7 @@ TOCTitle: GetTaxCodeIntervals Method
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.DataServices.Sqlite.GetTaxCodeIntervalsProcedure.GetTaxCodeIntervals(System.String,System.String,System.DateTimeOffset)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.dataservices.sqlite.gettaxcodeintervalsprocedure.gettaxcodeintervals(v=AX.60)
 ms:contentKeyID: 65316510
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

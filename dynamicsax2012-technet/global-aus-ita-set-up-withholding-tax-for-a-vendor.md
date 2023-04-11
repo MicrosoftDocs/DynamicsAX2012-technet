@@ -4,7 +4,7 @@ TOCTitle: (Global, AUS, ITA) Set up withholding tax for a vendor
 ms:assetid: 3094a0d7-7176-4ae4-9b65-19eda5ff97bc
 ms:mtpsurl: https://technet.microsoft.com/library/Aa548468(v=AX.60)
 ms:contentKeyID: 36056315
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

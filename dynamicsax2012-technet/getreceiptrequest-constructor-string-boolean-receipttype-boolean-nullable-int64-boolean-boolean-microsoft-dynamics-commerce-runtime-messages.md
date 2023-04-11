@@ -4,7 +4,7 @@ TOCTitle: GetReceiptRequest Constructor (String, Boolean, ReceiptType, Boolean, 
 ms:assetid: M:Microsoft.Dynamics.Commerce.Runtime.Messages.GetReceiptRequest.#ctor(System.String,System.Boolean,Microsoft.Dynamics.Commerce.Runtime.DataModel.ReceiptType,System.Boolean,System.Nullable{System.Int64},System.Boolean,System.Boolean)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.messages.getreceiptrequest.getreceiptrequest(v=AX.60)
 ms:contentKeyID: 65317302
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 dev_langs:

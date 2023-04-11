@@ -4,7 +4,7 @@ TOCTitle: 'How to: Configure the Debugger to Debug a Report Data Provider Class'
 ms:assetid: a23beaa6-82b8-43e3-be02-958141b5c4f0
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724081(v=AX.60)
 ms:contentKeyID: 35133438
-author: Khairunj
+author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
 ---

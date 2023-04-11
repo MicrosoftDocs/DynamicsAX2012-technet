@@ -4,7 +4,7 @@ TOCTitle: 'How to: Group and Order Report Parameters by Using a Data Contract Cl
 ms:assetid: a2582be0-f129-41e4-9151-f0f4d9f7b185
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724085(v=AX.60)
 ms:contentKeyID: 35133443
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

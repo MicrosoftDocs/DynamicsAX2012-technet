@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up import methods for account statements
 ms:assetid: 7965cf85-3294-427b-a575-31940782d98b
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664306(v=AX.60)
 ms:contentKeyID: 49385395
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

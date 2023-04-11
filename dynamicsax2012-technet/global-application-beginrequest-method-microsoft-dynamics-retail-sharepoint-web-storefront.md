@@ -4,7 +4,7 @@ TOCTitle: Application_BeginRequest Method
 ms:assetid: M:Microsoft.Dynamics.Retail.SharePoint.Web.Storefront.Global.Application_BeginRequest(System.Object,System.EventArgs)
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.storefront.global.application_beginrequest(v=AX.60)
 ms:contentKeyID: 62206963
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

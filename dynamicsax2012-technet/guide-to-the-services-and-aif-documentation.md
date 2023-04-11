@@ -4,7 +4,7 @@ TOCTitle: Guide to the Services and AIF Documentation
 ms:assetid: 4e917ee3-5ab4-4852-8a53-fb24bd3316a4
 ms:mtpsurl: https://technet.microsoft.com/library/JJ710373(v=AX.60)
 ms:contentKeyID: 49384265
-author: Khairunj
+author: tonyafehr
 ms.date: 01/09/2013
 mtps_version: v=AX.60
 ---

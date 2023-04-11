@@ -4,7 +4,7 @@ TOCTitle: 'How to: Use Display Methods in a Report'
 ms:assetid: af93356c-b70f-440b-9bbb-cf6b5ace4e69
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724095(v=AX.60)
 ms:contentKeyID: 35133453
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

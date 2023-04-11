@@ -4,7 +4,7 @@ TOCTitle: 'How to: Group and Order Report Parameters by Using Visual Studio'
 ms:assetid: 590da96d-44e3-4a8f-835b-123e55701b03
 ms:mtpsurl: https://technet.microsoft.com/library/Gg731925(v=AX.60)
 ms:contentKeyID: 35132854
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

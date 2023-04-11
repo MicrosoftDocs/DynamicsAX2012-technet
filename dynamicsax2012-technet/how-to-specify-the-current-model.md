@@ -4,7 +4,7 @@ TOCTitle: 'How to: Specify the Current Model'
 ms:assetid: 5cf5b194-1806-450d-bd20-a116764a289a
 ms:mtpsurl: https://technet.microsoft.com/library/Hh404124(v=AX.60)
 ms:contentKeyID: 36956792
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 ---

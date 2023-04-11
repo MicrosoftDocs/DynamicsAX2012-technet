@@ -4,7 +4,7 @@ TOCTitle: Getting started with alerts
 ms:assetid: 8dc7d5b3-503a-4475-8b6d-1d3e7232eb28
 ms:mtpsurl: https://technet.microsoft.com/library/Aa498348(v=AX.60)
 ms:contentKeyID: 46687556
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

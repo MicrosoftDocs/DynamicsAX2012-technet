@@ -4,7 +4,7 @@ TOCTitle: VariantId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetStoreAvailabilityServiceRequest.VariantId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getstoreavailabilityservicerequest.variantid(v=AX.60)
 ms:contentKeyID: 65320523
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

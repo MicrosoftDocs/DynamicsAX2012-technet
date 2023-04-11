@@ -4,7 +4,7 @@ TOCTitle: 'How to: Create a Date Dimension for a Cube'
 ms:assetid: 81508890-2f55-40d4-9894-53118a598f1d
 ms:mtpsurl: https://technet.microsoft.com/library/Gg724055(v=AX.60)
 ms:contentKeyID: 35133412
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---

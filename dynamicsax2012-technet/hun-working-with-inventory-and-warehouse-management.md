@@ -4,7 +4,7 @@ TOCTitle: (HUN) Working with Inventory and warehouse management
 ms:assetid: 9e9ee82e-4990-4ca7-9553-d77ac7a4a0c7
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664339(v=AX.60)
 ms:contentKeyID: 49385427
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

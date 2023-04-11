@@ -4,7 +4,7 @@ TOCTitle: 'How to: Add a Report Drill Through Action on a Report'
 ms:assetid: ec81f32a-df05-4e3c-bac8-5b3a2bcd8c09
 ms:mtpsurl: https://technet.microsoft.com/library/Cc653599(v=AX.60)
 ms:contentKeyID: 28119611
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

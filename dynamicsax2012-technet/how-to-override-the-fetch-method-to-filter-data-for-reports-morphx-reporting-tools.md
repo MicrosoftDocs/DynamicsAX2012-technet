@@ -4,7 +4,7 @@ TOCTitle: 'How to: Override the fetch Method to Filter Data for Reports'
 ms:assetid: cc342c22-4a3c-423c-bd55-c18263e122c9
 ms:mtpsurl: https://technet.microsoft.com/library/Bb395110(v=AX.60)
 ms:contentKeyID: 35290365
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: LineDisplayClosedLine2 Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.DataModel.HardwareProfile.LineDisplayClosedLine2
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.datamodel.hardwareprofile.linedisplayclosedline2(v=AX.60)
 ms:contentKeyID: 62207906
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

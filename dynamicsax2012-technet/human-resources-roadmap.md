@@ -4,7 +4,7 @@ TOCTitle: Human resources roadmap
 ms:assetid: ce45957d-546b-463b-b4f9-a8f0f5b7c454
 ms:mtpsurl: https://technet.microsoft.com/library/Dn783393(v=AX.60)
 ms:contentKeyID: 62838587
-author: Khairunj
+author: tonyafehr
 ms.date: 09/10/2014
 mtps_version: v=AX.60
 audience: Application User

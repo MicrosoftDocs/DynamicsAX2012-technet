@@ -4,7 +4,7 @@ TOCTitle: (HUN) Create a free text invoice that includes the VAT exchange rate
 ms:assetid: d0415283-110a-41d3-a3a7-d4123dd74d60
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664377(v=AX.60)
 ms:contentKeyID: 49385465
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

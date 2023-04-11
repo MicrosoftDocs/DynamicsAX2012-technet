@@ -4,7 +4,7 @@ TOCTitle: ReportId Property
 ms:assetid: P:Microsoft.Dynamics.Commerce.Runtime.Services.Messages.GetReportDataServiceRequest.ReportId
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.commerce.runtime.services.messages.getreportdataservicerequest.reportid(v=AX.60)
 ms:contentKeyID: 65321325
-author: Khairunj
+author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
 f1_keywords:

@@ -4,7 +4,7 @@ TOCTitle: (HUN) Set up a number sequence for the EU trade list
 ms:assetid: cfb59541-3775-42b6-ab52-7d710dbae657
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664378(v=AX.60)
 ms:contentKeyID: 49385467
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User

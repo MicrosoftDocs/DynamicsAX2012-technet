@@ -4,7 +4,7 @@ TOCTitle: Human resources cube (HumanResourceCube)
 ms:assetid: 8c46617d-cb6a-4700-ac0b-1e9c170cdad6
 ms:mtpsurl: https://technet.microsoft.com/library/Dn530765(v=AX.60)
 ms:contentKeyID: 59683044
-author: Khairunj
+author: tonyafehr
 ms.date: 07/30/2014
 mtps_version: v=AX.60
 ---

@@ -4,7 +4,7 @@ TOCTitle: 'How to: Use an Enum as a Report Parameter'
 ms:assetid: 8dce6344-12ac-4c81-91b7-69fd1e7beb65
 ms:mtpsurl: https://technet.microsoft.com/library/Ee873271(v=AX.60)
 ms:contentKeyID: 28119397
-author: Khairunj
+author: tonyafehr
 ms.date: 11/07/2012
 mtps_version: v=AX.60
 ---

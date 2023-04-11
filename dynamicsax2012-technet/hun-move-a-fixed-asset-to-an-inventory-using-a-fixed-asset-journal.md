@@ -4,7 +4,7 @@ TOCTitle: (HUN) Move a fixed asset to an inventory using a fixed asset journal
 ms:assetid: 46a2441b-cbea-418c-82d9-d44df3120908
 ms:mtpsurl: https://technet.microsoft.com/library/JJ664270(v=AX.60)
 ms:contentKeyID: 49385359
-author: Khairunj
+author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
