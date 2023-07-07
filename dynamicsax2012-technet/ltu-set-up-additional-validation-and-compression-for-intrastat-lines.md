@@ -19,7 +19,7 @@ ms.search.region: Lithuania
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Under Lithuanian tax law, companies must declare Intrastat transactions with other members of the European Union to the tax authorities. The Intrastat report must include the details concerning the Intrastat agent and the statistical value for the Intrastat transaction. When reporting triangular transactions between an EU and a non-EU country in which the consignment is loaded in another EU country, you must specify the loading country, the region, and the state in the report.
+Under Lithuanian tax law, companies must declare Intrastat transactions with other members of the European Union to the tax authorities. The Intrastat report must include the details concerning the Intrastat agent and the statistical value for the Intrastat transaction. When reporting triangular transactions between an EU and a non-EU country/region in which the consignment is loaded in another EU country/region, you must specify the loading country, the region, and the state in the report.
 
 You can export Intrastat reports in XML format. You can also validate and compress Intrastat order lines by loading countries, regions, states, and other specific items into the Intrastat table.
 

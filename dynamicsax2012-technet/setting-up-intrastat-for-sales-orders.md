@@ -25,7 +25,7 @@ ms.search.region: Global
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-This section contains information about Intrastat (trade between European Union (EU) countries) for sales orders in Accounts receivable.
+This section contains information about Intrastat (trade between European Union (EU) countries/regions) for sales orders in Accounts receivable.
 
 <table>
 <colgroup>
@@ -41,7 +41,7 @@ This section contains information about Intrastat (trade between European Union 
 <tbody>
 <tr class="odd">
 <td><p><a href="about-intrastat.md">About Intrastat</a></p></td>
-<td><p>Conceptual information about Intrastat trade between EU countries.</p></td>
+<td><p>Conceptual information about Intrastat trade between EU countries/regions.</p></td>
 </tr>
 <tr class="even">
 <td><p><a href="set-up-intrastat-from-a-free-text-invoice.md">Set up Intrastat from a free text invoice</a></p></td>

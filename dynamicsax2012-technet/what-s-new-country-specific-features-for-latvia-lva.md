@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Latvia (LVA)"
-TOCTitle: Country-specific features for Latvia
+title: "What's new: Country/region-specific features for Latvia (LVA)"
+TOCTitle: Country/region-specific features for Latvia
 ms:assetid: b5becb1a-d442-4242-b0db-08e050ba3414
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527214(v=AX.60)
 ms:contentKeyID: 59623343
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Latvia (LVA) 
+# What's new: Country/region-specific features for Latvia (LVA) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Latvia. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Latvia. For more information, see the tables that apply to your version of the product.
 
 For more information about specific features for Latvia, see [TechNet Library for Application Users - Latvia](https://go.microsoft.com/fwlink/?linkid=299915).
 

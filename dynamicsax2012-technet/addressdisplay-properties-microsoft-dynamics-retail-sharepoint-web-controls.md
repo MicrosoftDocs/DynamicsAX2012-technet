@@ -121,7 +121,7 @@ The [AddressDisplay](addressdisplay-class-microsoft-dynamics-retail-sharepoint-w
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="addressdisplay-country-property-microsoft-dynamics-retail-sharepoint-web-controls.md">Country</a></td>
-<td>Gets or sets the Country.</td>
+<td>Gets or sets the Country/Region.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

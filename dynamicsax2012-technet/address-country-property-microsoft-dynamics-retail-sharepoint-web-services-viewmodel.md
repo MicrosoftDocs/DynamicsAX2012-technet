@@ -1,6 +1,6 @@
 ---
 title: Address.Country Property  (Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel)
-TOCTitle: Country Property
+TOCTitle: Country/Region Property
 ms:assetid: P:Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel.Address.Country
 ms:mtpsurl: https://technet.microsoft.com/library/microsoft.dynamics.retail.sharepoint.web.services.viewmodel.address.country(v=AX.60)
 ms:contentKeyID: 62207195
@@ -16,12 +16,12 @@ dev_langs:
 - VB
 ---
 
-# Country Property
+# Country/Region Property
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
 
-Gets or sets the Country.
+Gets or sets the Country/region.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Services.ViewModel](microsoft-dynamics-retail-sharepoint-web-services-viewmodel-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Services (in Microsoft.Dynamics.Retail.SP.Web.Services.dll)

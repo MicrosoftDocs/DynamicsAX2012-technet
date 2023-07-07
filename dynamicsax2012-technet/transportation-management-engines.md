@@ -227,7 +227,7 @@ The transportation management engine requires identification of the origin addre
 </tr>
 <tr class="odd">
 <td><p>5</p></td>
-<td><p>Destination country</p></td>
+<td><p>Destination country/region</p></td>
 <td><p>Assignment</p></td>
 <td><p>String</p></td>
 <td><p><strong>Country/region</strong></p></td>

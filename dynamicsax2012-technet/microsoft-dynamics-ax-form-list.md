@@ -6560,9 +6560,9 @@ This topic provides a list of the Help topics for the forms in Microsoft Dynamic
 
 [(RUS) AR amortization (form)](https://technet.microsoft.com/library/jj841091\(v=ax.60\))
 
-[Restricted products - Country/State by item (form)](https://technet.microsoft.com/library/hh352367\(v=ax.60\))
+[Restricted products - Country/Region/State by item (form)](https://technet.microsoft.com/library/hh352367\(v=ax.60\))
 
-[Restricted products - Item by country or state (form)](https://technet.microsoft.com/library/hh328720\(v=ax.60\))
+[Restricted products - Item by country/region or state (form)](https://technet.microsoft.com/library/hh328720\(v=ax.60\))
 
 [Restricted products regional lists (form)](https://technet.microsoft.com/library/hh352232\(v=ax.60\))
 

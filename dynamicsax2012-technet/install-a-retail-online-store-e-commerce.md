@@ -326,7 +326,7 @@ This section describes how to configure settings in the oob-settings.xml file.
     </tr>
     <tr class="even">
     <td><p><strong>StoreFront_CountryName</strong></p></td>
-    <td><p>Enter the name of the country. Customers of your site do not see this code. This value is not published.</p></td>
+    <td><p>Enter the name of the country/region. Customers of your site do not see this code. This value is not published.</p></td>
     <td><p>United States</p></td>
     </tr>
     <tr class="odd">
