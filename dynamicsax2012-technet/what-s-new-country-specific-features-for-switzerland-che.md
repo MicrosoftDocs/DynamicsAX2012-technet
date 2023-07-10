@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Switzerland (CHE)"
-TOCTitle: Country-specific features for Switzerland
+title: "What's new: Country/region-specific features for Switzerland (CHE)"
+TOCTitle: Country/region-specific features for Switzerland
 ms:assetid: 09de2070-edb3-449f-80cc-db7d9a7bff51
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507143(v=AX.60)
 ms:contentKeyID: 59623228
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Switzerland (CHE) 
+# What's new: Country/region-specific features for Switzerland (CHE) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Switzerland.
+In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Switzerland.
 
 ## What’s new in cumulative update 7 for Microsoft Dynamics AX 2012 R2
 

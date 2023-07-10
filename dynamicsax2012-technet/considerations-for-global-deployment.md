@@ -21,13 +21,13 @@ This topic provides an overview of considerations for global deployment of Micro
 
 ## Considerations for Microsoft Dynamics AX 2012
 
-Earlier versions of Microsoft Dynamics AX included country-specific or region-specific functionality in the GLS layer. Microsoft Dynamics AX 2012 contains this type of functionality only in the SYS layer.
+Earlier versions of Microsoft Dynamics AX included country/region-specific or region-specific functionality in the GLS layer. Microsoft Dynamics AX 2012 contains this type of functionality only in the SYS layer.
 
-## Country-specific or region-specific functionality included in the SYS layer
+## Country/region-specific or region-specific functionality included in the SYS layer
 
-For Microsoft Dynamics AX 2012, the SYS layer includes country-specific or region-specific functionality for Australia/New Zealand, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Iceland, Italy, Malaysia, Mexico, the Netherlands, Norway, Saudi Arabia, Singapore, South Africa, Spain, Sweden, Switzerland, Thailand, the United Kingdom/Ireland, and the United States.
+For Microsoft Dynamics AX 2012, the SYS layer includes country/region-specific or region-specific functionality for Australia/New Zealand, Austria, Belgium, Canada, Denmark, Finland, France, Germany, Iceland, Italy, Malaysia, Mexico, the Netherlands, Norway, Saudi Arabia, Singapore, South Africa, Spain, Sweden, Switzerland, Thailand, the United Kingdom/Ireland, and the United States.
 
-For Microsoft Dynamics AX 2012 R2, the SYS layer also includes country-specific or region-specific functionality for the countries/regions that were in the GLS layer in earlier versions of Microsoft Dynamics AX.
+For Microsoft Dynamics AX 2012 R2, the SYS layer also includes country/region-specific or region-specific functionality for the countries/regions that were in the GLS layer in earlier versions of Microsoft Dynamics AX.
 
 ## Released languages
 

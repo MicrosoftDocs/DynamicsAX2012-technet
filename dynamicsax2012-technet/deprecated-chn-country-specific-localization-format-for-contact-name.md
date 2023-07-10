@@ -1,6 +1,6 @@
 ---
-title: 'Deprecated: (CHN) Country-specific localization format for Contact name'
-TOCTitle: (CHN) Country-specific localization format for Contact name
+title: 'Deprecated: (CHN) Country/region-specific localization format for Contact name'
+TOCTitle: (CHN) Country/region-specific localization format for Contact name
 ms:assetid: 66e5b8e1-5297-43a2-95a0-d93cb3589d22
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527136(v=AX.60)
 ms:contentKeyID: 59623265
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# Deprecated: (CHN) Country-specific localization format for Contact name 
+# Deprecated: (CHN) Country/region-specific localization format for Contact name 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -35,7 +35,7 @@ For Chinese installations, the Microsoft Dynamics AX 2009 SP1 GLS Consolidation 
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>The functionality is provided in AX 2012. Therefore, country-specific modifications are no longer required.</p></td>
+<td><p>The functionality is provided in AX 2012. Therefore, country/region-specific modifications are no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

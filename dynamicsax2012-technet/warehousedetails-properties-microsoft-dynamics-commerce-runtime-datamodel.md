@@ -250,12 +250,12 @@ The [WarehouseDetails](warehousedetails-class-microsoft-dynamics-commerce-runtim
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="address-threeletterisoregionname-property-microsoft-dynamics-commerce-runtime-datamodel.md">ThreeLetterISORegionName</a></td>
-<td>Gets or sets the Country 3-digit ISO Code. (Inherited from <a href="address-class-microsoft-dynamics-commerce-runtime-datamodel.md">Address</a>.)</td>
+<td>Gets or sets the Country/region 3-digit ISO Code. (Inherited from <a href="address-class-microsoft-dynamics-commerce-runtime-datamodel.md">Address</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="address-twoletterisoregionname-property-microsoft-dynamics-commerce-runtime-datamodel.md">TwoLetterISORegionName</a></td>
-<td>Gets or sets the Country 2-digit ISO Code. (Inherited from <a href="address-class-microsoft-dynamics-commerce-runtime-datamodel.md">Address</a>.)</td>
+<td>Gets or sets the Country/region 2-digit ISO Code. (Inherited from <a href="address-class-microsoft-dynamics-commerce-runtime-datamodel.md">Address</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

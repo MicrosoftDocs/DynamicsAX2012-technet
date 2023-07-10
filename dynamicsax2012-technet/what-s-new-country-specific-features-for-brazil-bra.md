@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Brazil (BRA)"
-TOCTitle: Country-specific features for Brazil
+title: "What's new: Country/region-specific features for Brazil (BRA)"
+TOCTitle: Country/region-specific features for Brazil
 ms:assetid: a7489a4d-65f6-4600-9e82-b4a6daf0657f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn486931(v=AX.60)
 ms:contentKeyID: 59631346
@@ -9,7 +9,7 @@ ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Brazil (BRA) 
+# What's new: Country/region-specific features for Brazil (BRA) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Brazil. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Brazilian installations, such as features that support fiscal establishments, fiscal documents, and specific requirements for regulatory reporting. The second section describes additional changes to country-specific functionality for Brazil. For more information about specific features for Brazil, see [TechNet Library for Application Users - Brazil](https://go.microsoft.com/fwlink/?linkid=299904).
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Brazil. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Brazilian installations, such as features that support fiscal establishments, fiscal documents, and specific requirements for regulatory reporting. The second section describes additional changes to country/region-specific functionality for Brazil. For more information about specific features for Brazil, see [TechNet Library for Application Users - Brazil](https://go.microsoft.com/fwlink/?linkid=299904).
 
 ## Key features for Brazil
 
@@ -115,7 +115,7 @@ Features for Brazil have changed considerably since AX 2009. Microsoft Dynamics 
 
 ## Additional features
 
-For more information about additional country-specific features that we added for Brazil, see the tables that apply to your version of the product.
+For more information about additional country/region-specific features that we added for Brazil, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 

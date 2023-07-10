@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In the Microsoft Dynamics AX 2009 SP1 GLSCON release, the Accounting period table provides an **Accounting period name** field. This field is a country-specific feature that is provided for Chinese installations, and the field values are not required to be unique in a fiscal year. In Microsoft Dynamics AX 2012, the **Accounting period name** field is included in the Accounting table. Therefore, the country-specific modification is not required.
+In the Microsoft Dynamics AX 2009 SP1 GLSCON release, the Accounting period table provides an **Accounting period name** field. This field is a country/region-specific feature that is provided for Chinese installations, and the field values are not required to be unique in a fiscal year. In Microsoft Dynamics AX 2012, the **Accounting period name** field is included in the Accounting table. Therefore, the country/region-specific modification is not required.
 
 ## Overview
 
@@ -35,7 +35,7 @@ In the Microsoft Dynamics AX 2009 SP1 GLSCON release, the Accounting period tabl
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Microsoft Dynamics AX 2012 provides support for the <strong>Accounting period name</strong> field in the Accounting table. Therefore, the country-specific modification is no longer required.</p></td>
+<td><p>Microsoft Dynamics AX 2012 provides support for the <strong>Accounting period name</strong> field in the Accounting table. Therefore, the country/region-specific modification is no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

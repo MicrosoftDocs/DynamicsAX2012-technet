@@ -20,7 +20,7 @@ dev_langs:
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
 
-Represents name of configuration app settings key which stores Country Name.
+Represents name of configuration app settings key which stores Country/Region Name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Common](microsoft-dynamics-retail-sharepoint-common-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Common (in Microsoft.Dynamics.Retail.SP.Web.Common.dll)
