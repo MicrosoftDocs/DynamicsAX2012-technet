@@ -35,7 +35,7 @@ For Latvian installations, Microsoft Dynamics AX 2009 SP1 includes country-speci
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>In AX 2009 SP1, modifications to the standard functionality for tax exempt numbers helped customers follow best practices for entering and tracking tax exempt numbers. The AX 2012 functionality addresses all country-specific requirements for Latvian installations. Therefore, country-specific modifications are no longer required.</p></td>
+<td><p>In AX 2009 SP1, modifications to the standard functionality for tax exempt numbers helped customers follow best practices for entering and tracking tax exempt numbers. The AX 2012 functionality addresses all country/region-specific requirements for Latvian installations. Therefore, country/region-specific modifications are no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

@@ -57,11 +57,11 @@ Use this procedure to transfer customer transactions and vendor transactions to 
 
 4.  In the **EU sales list** form, on the **Correction** tab, in the **Delivery code** field, select one of the following delivery codes:
     
-      - **E - Normal delivery** – To report transactions for the delivery of items between EU member countries.
+      - **E - Normal delivery** – To report transactions for the delivery of items between EU member countries/regions.
     
-      - **M - Delivery of goods from a tax-exempt importation** – To report transactions for the delivery of tax-exempt imported items to EU member countries.
+      - **M - Delivery of goods from a tax-exempt importation** – To report transactions for the delivery of tax-exempt imported items to EU member countries/regions.
     
-      - **H - Delivery of goods from a tax-exempt importation by an official tax representative** – To report transactions that were verified by an official tax representative for the delivery of tax-exempt imported items to EU member countries.
+      - **H - Delivery of goods from a tax-exempt importation by an official tax representative** – To report transactions that were verified by an official tax representative for the delivery of tax-exempt imported items to EU member countries/regions.
 
 5.  Click **Validate** to validate the transactions.
 

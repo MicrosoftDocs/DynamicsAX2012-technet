@@ -43,7 +43,7 @@ Important information, such as terms of payment and terms of delivery, can be pr
 
 ## Example
 
-Your company is located in an English-speaking country, and you want to create German text for "reason for delivery" on the packing slip.
+Your company is located in an English-speaking country/region, and you want to create German text for "reason for delivery" on the packing slip.
 
 1.  Click **Sales and marketing** \> **Setup** \> **Distribution** \> **Reasons for delivery**.
 

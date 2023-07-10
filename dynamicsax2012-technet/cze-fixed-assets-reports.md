@@ -19,7 +19,7 @@ ms.search.region: Czech Republic
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-This section provides a list of country-specific reports for the Czech Republic that are generated for fixed assets.
+This section provides a list of country/region-specific reports for the Czech Republic that are generated for fixed assets.
 
 
 > [!NOTE]

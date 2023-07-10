@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Microsoft Dynamics AX 2009 includes the Holiday calendar, which is a country-specific feature for Brazilian installations. The Holiday calendar is used to identify a company’s non-working days or holidays when invoice due dates are calculated. For late payments, the Holiday calendar is also used to calculate the interest and fines that are applied at the time of payment. Because Microsoft Dynamics AX 2012 R2 includes Payment calendar functionality, country-specific modifications are not required.
+Microsoft Dynamics AX 2009 includes the Holiday calendar, which is a country/region-specific feature for Brazilian installations. The Holiday calendar is used to identify a company’s non-working days or holidays when invoice due dates are calculated. For late payments, the Holiday calendar is also used to calculate the interest and fines that are applied at the time of payment. Because Microsoft Dynamics AX 2012 R2 includes Payment calendar functionality, country/region-specific modifications are not required.
 
 ## Overview
 
