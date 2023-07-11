@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Indian installations, Microsoft Dynamics AX 2009 includes a country-specific setup in the general ledger parameters. This feature lets users configure the system behavior when the Direct Tax (Tax Deducted at Source \[TDS\]/Tax Collected at Source \[TCS\]) threshold is exceeded for the first time. The system can have no response, issue a warning, or issue an error that prevents further progress.
+For Indian installations, Microsoft Dynamics AX 2009 includes a country/region-specific setup in the general ledger parameters. This feature lets users configure the system behavior when the Direct Tax (Tax Deducted at Source \[TDS\]/Tax Collected at Source \[TCS\]) threshold is exceeded for the first time. The system can have no response, issue a warning, or issue an error that prevents further progress.
 
 ## Overview
 
@@ -35,7 +35,7 @@ For Indian installations, Microsoft Dynamics AX 2009 includes a country-specific
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Support for this country-specific functionality is no longer available because of foundation changes that were required for Microsoft Dynamics AX 2012 R2.</p></td>
+<td><p>Support for this country/region-specific functionality is no longer available because of foundation changes that were required for Microsoft Dynamics AX 2012 R2.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

@@ -24,7 +24,7 @@ Use this information to add items to a restricted products regional list. You ca
 
 
 > [!NOTE]
-> <P>If a country has more than one list, make sure that you are adding the items to the correct list.</P>
+> <P>If a country/region has more than one list, make sure that you are adding the items to the correct list.</P>
 
 
 

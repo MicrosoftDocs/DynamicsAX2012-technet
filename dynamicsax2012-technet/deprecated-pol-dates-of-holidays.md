@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Polish installations, Microsoft Dynamics AX 2009 provides country-specific functionality that tracks free days in the **Calendar of the free days** form. When interest is calculated, dates that are set up in the **Calendar of free days** form are not considered.
+For Polish installations, Microsoft Dynamics AX 2009 provides country/region-specific functionality that tracks free days in the **Calendar of the free days** form. When interest is calculated, dates that are set up in the **Calendar of free days** form are not considered.
 
 ## Overview
 
@@ -35,7 +35,7 @@ For Polish installations, Microsoft Dynamics AX 2009 provides country-specific f
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Framework changes in Microsoft Dynamics AX 2012 R2 provide additional functionality that lets users define calendars that have additional due date controls. Therefore, country-specific modifications are no longer required.</p></td>
+<td><p>Framework changes in Microsoft Dynamics AX 2012 R2 provide additional functionality that lets users define calendars that have additional due date controls. Therefore, country/region-specific modifications are no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

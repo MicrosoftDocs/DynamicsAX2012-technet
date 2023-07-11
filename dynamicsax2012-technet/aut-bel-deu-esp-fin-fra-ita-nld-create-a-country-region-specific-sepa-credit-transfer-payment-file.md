@@ -114,7 +114,7 @@ Use the following procedure to create and send a vendor payment as a SEPA credit
 
 13. Select the **Control report** check box to print a control report for the electronic payment file.
 
-14. Click **OK** to generate the electronic payment file in the format of the selected country.
+14. Click **OK** to generate the electronic payment file in the format of the selected country/region.
 
 ## Technical information for system administrators
 

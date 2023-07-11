@@ -29,7 +29,7 @@ Use this procedure to remove items from a restricted products regional list. You
     
 
     > [!NOTE]
-    > <P>If a country has more than one list, verify that you are removing the items from the correct list.</P>
+    > <P>If a country/region has more than one list, verify that you are removing the items from the correct list.</P>
 
 
 

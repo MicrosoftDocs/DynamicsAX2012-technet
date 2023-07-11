@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2009, the Exchange rates import feature, a country-specific feature for Russia, is used to import currency exchange rates from the Central Bank of the Russian Federation.
+In Microsoft Dynamics AX 2009, the Exchange rates import feature, a country/region-specific feature for Russia, is used to import currency exchange rates from the Central Bank of the Russian Federation.
 
 ## Overview
 
@@ -35,7 +35,7 @@ In Microsoft Dynamics AX 2009, the Exchange rates import feature, a country-spec
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>In Microsoft Dynamics AX 2012 R2, the new exchange rate import functionality provides a consistent approach to importing currency exchange rates. Therefore, country-specific modifications are not required.</p></td>
+<td><p>In Microsoft Dynamics AX 2012 R2, the new exchange rate import functionality provides a consistent approach to importing currency exchange rates. Therefore, country/region-specific modifications are not required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

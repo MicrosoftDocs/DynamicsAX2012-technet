@@ -51,7 +51,7 @@ The [Address](address-class-microsoft-dynamics-retail-sharepoint-web-services-vi
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="address-country-property-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md">Country</a></td>
-<td>Gets or sets the Country.</td>
+<td>Gets or sets the Country/region.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

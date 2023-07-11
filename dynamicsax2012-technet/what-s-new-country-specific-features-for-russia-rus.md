@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Russia (RUS)"
-TOCTitle: Country-specific features for Russia
+title: "What's new: Country/region-specific features for Russia (RUS)"
+TOCTitle: Country/region-specific features for Russia
 ms:assetid: 8c154677-693f-4c6c-b737-91d7ef371da5
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527162(v=AX.60)
 ms:contentKeyID: 59623292
@@ -9,7 +9,7 @@ ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Russia (RUS) 
+# What's new: Country/region-specific features for Russia (RUS) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,11 +17,11 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Russia. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Russian installations. These features include changes to General ledger, Inventory management, sales and purchase agreements, customer and vendor invoicing, factures, and reporting. The second section describes additional changes to country-specific functionality for Russia. For more information about specific features for Russia, see [TechNet Library for Application Users - Russia](https://go.microsoft.com/fwlink/?linkid=299918).
+In Microsoft Dynamics AX 2012, we changed and added country/region-specific functionality for Russia. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Russian installations. These features include changes to General ledger, Inventory management, sales and purchase agreements, customer and vendor invoicing, factures, and reporting. The second section describes additional changes to country/region-specific functionality for Russia. For more information about specific features for Russia, see [TechNet Library for Application Users - Russia](https://go.microsoft.com/fwlink/?linkid=299918).
 
 ## Key features for Russia in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3
 
-For installations in Russia, AX 2012 R2 and AX 2012 R3 provides country-specific features that support General ledger updates, fixed asset and depreciation transactions, inventory management, customer and vendor invoicing, factures, and specific requirements for tax and regulatory reporting.
+For installations in Russia, AX 2012 R2 and AX 2012 R3 provides country/region-specific features that support General ledger updates, fixed asset and depreciation transactions, inventory management, customer and vendor invoicing, factures, and specific requirements for tax and regulatory reporting.
 
 ## Overview
 
@@ -312,7 +312,7 @@ These features have changed considerably since AX 2009. AX 2012 R2 and AX 2012 R
 
 ## Additional features
 
-For more information about additional country-specific features that we added for Russia, see the tables that apply to your version of the product.
+For more information about additional country/region-specific features that we added for Russia, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 
@@ -765,7 +765,7 @@ For more information about additional country-specific features that we added fo
 </tr>
 <tr class="even">
 <td><p>Global address book (GAB) for Russia</p></td>
-<td><p>New address components, such as the street number and building number, have been added to the GAB to support the address format for Russia. You can create or modify addresses in the Russian address format. Additionally, when you create a new address record for a legal entity that is outside Russia, the address reference fields that are available automatically change, based on the address format requirements of the country where the legal entity is based.</p></td>
+<td><p>New address components, such as the street number and building number, have been added to the GAB to support the address format for Russia. You can create or modify addresses in the Russian address format. Additionally, when you create a new address record for a legal entity that is outside Russia, the address reference fields that are available automatically change, based on the address format requirements of the country/region where the legal entity is based.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Recover a depreciation bonus for the premature sale of a fixed asset.</p></td>
@@ -1101,7 +1101,7 @@ For more information about additional country-specific features that we added fo
 </ol>
 <p>You can perform the following tasks for prepayments:</p>
 <ol>
-<li><p>Create and post prepayments (include sales tax on prepayment) using special setup for Russia and Eastern Europe countries.</p></li>
+<li><p>Create and post prepayments (include sales tax on prepayment) using special setup for Russia and Eastern Europe countries/regions.</p></li>
 </ol>
 <p>You can peform the following tasks for gift cards:</p>
 <ol>

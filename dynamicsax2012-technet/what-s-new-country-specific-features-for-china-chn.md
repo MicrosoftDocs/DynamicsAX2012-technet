@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for China (CHN)"
-TOCTitle: Country-specific features for China
+title: "What's new: Country/region-specific features for China (CHN)"
+TOCTitle: Country/region-specific features for China
 ms:assetid: 3bf77a0d-698d-4bcc-af87-335fce37d147
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507105(v=AX.60)
 ms:contentKeyID: 59623195
@@ -9,7 +9,7 @@ ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for China (CHN) 
+# What's new: Country/region-specific features for China (CHN) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for China. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Chinese installations, such as features that affect General ledger, tax integration with the Chinese Golden Tax System (GTS), Inventory and product management, and reporting. The second section describes additional changes to country-specific functionality for China. For more information about specific features for China, see [TechNet Library for Application Users - China](https://go.microsoft.com/fwlink/?linkid=299906).
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for China. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Chinese installations, such as features that affect General ledger, tax integration with the Chinese Golden Tax System (GTS), Inventory and product management, and reporting. The second section describes additional changes to country/region-specific functionality for China. For more information about specific features for China, see [TechNet Library for Application Users - China](https://go.microsoft.com/fwlink/?linkid=299906).
 
 ## Key features for China
 
@@ -219,7 +219,7 @@ These features have changed considerably since AX 2009. Microsoft Dynamics AX 20
 
 ## Additional features
 
-To learn more about additional country-specific features that we added for China, see the tables that apply to your version of the product.
+To learn more about additional country/region-specific features that we added for China, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 
@@ -248,7 +248,7 @@ To learn more about additional country-specific features that we added for China
 <tr class="odd">
 <td><p>Import ZIP Codes or postal codes for China.</p></td>
 <td><p>You can import the Chinese ZIP Codes or postal codes that are published by China Post. You can select to import only the new records, or you can overwrite the available records and add new records.</p>
-<p>The name and address format is also updated. The updated address format is country, state, city, district, and street name.</p>
+<p>The name and address format is also updated. The updated address format is country/region, state, city, district, and street name.</p>
 <p>For more information, see <a href="chn-import-zip-postal-codes.md">(CHN) Import ZIP/postal codes</a>.</p></td>
 </tr>
 <tr class="even">

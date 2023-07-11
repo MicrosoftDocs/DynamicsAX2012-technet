@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Latvian installations, Microsoft Dynamics AX 2009 and earlier versions support country-specific changes that are related to preprinted sales invoice forms. Usage of the country-specific forms for preprinted sales invoices was discontinued in 2008, but one modification that is related to document numbering was retained. Both Latvian and Lithuanian legislation provides specific rules that indicate how sales invoices must be numbered. Therefore, supporting functionality for these two countries was consolidated, and the obsolete parts of Latvian state invoice numbering were removed in Microsoft Dynamics AX 2012.
+For Latvian installations, Microsoft Dynamics AX 2009 and earlier versions support country-specific changes that are related to preprinted sales invoice forms. Usage of the country-specific forms for preprinted sales invoices was discontinued in 2008, but one modification that is related to document numbering was retained. Both Latvian and Lithuanian legislation provides specific rules that indicate how sales invoices must be numbered. Therefore, supporting functionality for these two countries/regions was consolidated, and the obsolete parts of Latvian state invoice numbering were removed in Microsoft Dynamics AX 2012.
 
 ## Overview
 

@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for the Czech Republic (CZE)"
-TOCTitle: Country-specific features for the Czech Republic
+title: "What's new: Country/region-specific features for the Czech Republic (CZE)"
+TOCTitle: Country/region-specific features for the Czech Republic
 ms:assetid: 393c1121-39d4-4690-ae8e-ceff75b5af77
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507099(v=AX.60)
 ms:contentKeyID: 59623189
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for the Czech Republic (CZE) 
+# What's new: Country/region-specific features for the Czech Republic (CZE) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for the Czech Republic. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for the Czech Republic. For more information, see the tables that apply to your version of the product.
 
 For more information about specific features for the Czech Republic, see [TechNet Library for Application Users – Czech Republic](https://go.microsoft.com/fwlink/?linkid=299908).
 

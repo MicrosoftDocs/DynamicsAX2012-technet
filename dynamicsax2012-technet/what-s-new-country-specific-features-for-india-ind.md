@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for India (IND)"
-TOCTitle: Country-specific features for India
+title: "What's new: Country/region-specific features for India (IND)"
+TOCTitle: Country/region-specific features for India
 ms:assetid: 257c80ed-5b1c-4f45-8c5b-c85aea27ff9c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507150(v=AX.60)
 ms:contentKeyID: 59623233
@@ -9,7 +9,7 @@ ms.date: 06/09/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for India (IND) 
+# What's new: Country/region-specific features for India (IND) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for India. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Indian installations, such as features that affect export/import (EXIM) incentive schemes, taxation, invoicing, general ledger, and fixed assets. The second section describes additional changes to country-specific functionality for India. For more information about specific features for India, see [TechNet Library for Application Users - India](https://go.microsoft.com/fwlink/?linkid=299913).
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for India. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Indian installations, such as features that affect export/import (EXIM) incentive schemes, taxation, invoicing, general ledger, and fixed assets. The second section describes additional changes to country/region-specific functionality for India. For more information about specific features for India, see [TechNet Library for Application Users - India](https://go.microsoft.com/fwlink/?linkid=299913).
 
 ## Key features for India
 
@@ -316,7 +316,7 @@ These features have changed considerably since AX 2009. AX 2012 R2 includes chan
 
 ## Additional features
 
-For more information about additional country-specific features that we added for India, see the tables that apply to your version of the product.
+For more information about additional country/region-specific features that we added for India, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 

@@ -328,7 +328,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <tbody>
 <tr class="odd">
 <td><p>Belgium</p></td>
-<td><p>You can generate European Union (EU) sales list reports, value-added tax (VAT) declaration reports, and annual list reports in the updated XML format. You can also replace EU sales list reports, VAT declaration reports, and annual list reports that were already submitted to the Belgian tax authorities. For more information, see <a href="what-s-new-country-specific-features-for-belgium-bel.md">What's new: Country-specific features for Belgium (BEL)</a>.</p></td>
+<td><p>You can generate European Union (EU) sales list reports, value-added tax (VAT) declaration reports, and annual list reports in the updated XML format. You can also replace EU sales list reports, VAT declaration reports, and annual list reports that were already submitted to the Belgian tax authorities. For more information, see <a href="what-s-new-country-specific-features-for-belgium-bel.md">What's new: Country/region-specific features for Belgium (BEL)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Brazil</p></td>
@@ -358,7 +358,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>By using Retail, you can modify product attributes by using a mass update tool. You can also manage products by using the retail category hierarchy feature and by using the released product model that is supported in AX 2012 R2. The Brazil-specific product attribute fields have been added to these features, so that users in Brazil can take advantage of these tools to easily manage their retail products.</p></li>
 <li><p>You can transfer warehouse items between warehouses that are located in different fiscal establishments, or transfer items to third-party warehouses, by using transfer fiscal documents.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country-specific features for Brazil (BRA)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country/region-specific features for Brazil (BRA)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>China</p></td>
@@ -371,7 +371,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>Inventory reports provide details about inventory transactions and balances.</p></li>
 <li><p>You can define parameters and XML files for the GB/T 24589-2010 report.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country-specific features for China (CHN)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country/region-specific features for China (CHN)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Czech Republic</p></td>
@@ -381,7 +381,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>A new option in the <strong>Depreciation proposal</strong> form enables half-yearly depreciation.</p></li>
 <li><p>Additional information about the VAT register date can now be included on tax transactions when you generate the <strong>Sales tax reconciliation</strong> report.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-the-czech-republic-cze.md">What's new: Country-specific features for the Czech Republic (CZE)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-the-czech-republic-cze.md">What's new: Country/region-specific features for the Czech Republic (CZE)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Eastern Europe</p></td>
@@ -404,7 +404,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 </tr>
 <tr class="even">
 <td><p>Hungary</p></td>
-<td><p>To support a Hungarian legislative requirement about exchange rate calculation, an average rate method for calculating exchange rate adjustments has been added. For more information, see <a href="what-s-new-country-specific-features-for-hungary-hun.md">What's new: Country-specific features for Hungary (HUN)</a>.</p></td>
+<td><p>To support a Hungarian legislative requirement about exchange rate calculation, an average rate method for calculating exchange rate adjustments has been added. For more information, see <a href="what-s-new-country-specific-features-for-hungary-hun.md">What's new: Country/region-specific features for Hungary (HUN)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>India</p></td>
@@ -460,7 +460,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>The Upgrade toolkit has been updated.</p></li>
 <li><p>BOE and invoice registration can now be canceled if the invoice registration has not been updated, and if the related product receipts or invoices have not been posted.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country-specific features for India (IND)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country/region-specific features for India (IND)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Japan</p></td>
@@ -483,11 +483,11 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>You can export financial statements, such as balance sheets, profit and loss statements, and cash flow statements, to Excel.</p></li>
 <li><p>The <strong>Target of consolidation</strong> check box is available in the <strong>Sales order</strong>, <strong>Purchase order</strong>, and <strong>Vendor invoice</strong> forms. When this check box is selected, a transaction is invoiced by using invoice consolidation.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country-specific features for Japan (JPN)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country/region-specific features for Japan (JPN)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Latvia</p></td>
-<td><p>AX 2012 R2 keeps track of all changes to the <strong>Responsible</strong>, <strong>Department</strong>, and <strong>Location</strong> fields for every fixed asset as each change is saved. For more information, see <a href="what-s-new-country-specific-features-for-latvia-lva.md">What's new: Country-specific features for Latvia (LVA)</a>.</p></td>
+<td><p>AX 2012 R2 keeps track of all changes to the <strong>Responsible</strong>, <strong>Department</strong>, and <strong>Location</strong> fields for every fixed asset as each change is saved. For more information, see <a href="what-s-new-country-specific-features-for-latvia-lva.md">What's new: Country/region-specific features for Latvia (LVA)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Lithuania</p></td>
@@ -496,7 +496,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>You can enter packing slip details for the transfer of fixed assets to a different location.</p></li>
 <li><p>There are several changes to invoice numbering and packing slip registration.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-lithuania-ltu.md">What's new: Country-specific features for Lithuania (LTU)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-lithuania-ltu.md">What's new: Country/region-specific features for Lithuania (LTU)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Norway</p></td>
@@ -504,11 +504,11 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>You can make online payments by using Nordea Corporate Netbank.</p></li>
 <li><p>Collection letters can be sent in Elektronisk Handelsformat (EHF) format, which is the standard format for Norway's public sector.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-norway-nor.md">What's new: Country-specific features for Norway (NOR)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-norway-nor.md">What's new: Country/region-specific features for Norway (NOR)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Poland</p></td>
-<td><p>AX 2012 R2 supports tracking Numeru Identyfikacji Podatkowej (NIP) tax identification information. For more information, see <a href="what-s-new-country-specific-features-for-poland-pol.md">What's new: Country-specific features for Poland (POL)</a>.</p></td>
+<td><p>AX 2012 R2 supports tracking Numeru Identyfikacji Podatkowej (NIP) tax identification information. For more information, see <a href="what-s-new-country-specific-features-for-poland-pol.md">What's new: Country/region-specific features for Poland (POL)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Russia</p></td>
@@ -605,7 +605,7 @@ In AX 2012 R2, we added and changed several country/region-specific features.
 <li><p>You can select an inventory profile that is applied by default to sales orders that are created from transactions in Retail POS.</p></li>
 <li><p>You can set the Retail parameters so that the facture is automatically updated when the sales invoice is posted at the same time as the retail statement.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country-specific features for Russia (RUS)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country/region-specific features for Russia (RUS)</a>.</p></td>
 </tr>
 </tbody>
 </table>
