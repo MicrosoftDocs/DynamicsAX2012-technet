@@ -84,6 +84,9 @@ This topic describes how to set up mix-and-match discounts. A mix-and-match disc
 
 12. Click **Mix and match line groups**, and then select among the predefined line groups. Then, in the **Number of products needed** field, type the quantity of the product that the customer must purchase to qualify for the discount.
 
+    > [!NOTE]
+    > <P>For performance consideration, we recommend to not set too large number of required items, and make the sum of the required items in a discount does not exceed 20.</P>
+
 13. In the **Line color** field, select a color.
     
 
