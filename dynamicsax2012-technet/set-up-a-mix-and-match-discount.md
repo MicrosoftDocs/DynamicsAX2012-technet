@@ -84,7 +84,10 @@ This topic describes how to set up mix-and-match discounts. A mix-and-match disc
 
 12. Click **Mix and match line groups**, and then select among the predefined line groups. Then, in the **Number of products needed** field, type the quantity of the product that the customer must purchase to qualify for the discount.
 
-13. In the **Line color** field, select a color.
+    > [!NOTE]
+    > <P>For performance consideration, we recommend to not set too large number of required items, and make the sum of the required items in a discount does not exceed 20.</P>
+
+14. In the **Line color** field, select a color.
     
 
     > [!TIP]
@@ -92,17 +95,17 @@ This topic describes how to set up mix-and-match discounts. A mix-and-match disc
 
 
 
-14. For each line that is added to the mix-and-match discount, select a **Line group**.
+15. For each line that is added to the mix-and-match discount, select a **Line group**.
 
-15. Click **Image** to add an image to the mix-and-match discount line.
+16. Click **Image** to add an image to the mix-and-match discount line.
 
-16. Depending on your version of the program, do one of the following:
+17. Depending on your version of the program, do one of the following:
     
       - In AX 2012 R2 and AX 2012 R3, on the **Lines** FastTab, click **Add all variants** to automatically add a line for each variant that is available for the selected product.
     
       - In earlier versions of AX 2012, on the **Lines** FastTab, click **Explode product** to automatically add a line for each variant that is available for the selected product.
 
-17. On the **Line details** FastTab, in the **Description** field, type a description of the line that is selected on the **Lines** FastTab.
+18. On the **Line details** FastTab, in the **Description** field, type a description of the line that is selected on the **Lines** FastTab.
 
 ## See also
 
