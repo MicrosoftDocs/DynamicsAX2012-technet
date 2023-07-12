@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country/region-specific features for Japan (JPN)"
-TOCTitle: Country/region-specific features for Japan
+title: "What's new: Country-specific features for Japan (JPN)"
+TOCTitle: Country-specific features for Japan
 ms:assetid: 796b30fa-7878-4365-b12f-2156067a1f6a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527147(v=AX.60)
 ms:contentKeyID: 59623276
@@ -9,7 +9,7 @@ ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country/region-specific features for Japan (JPN) 
+# What's new: Country-specific features for Japan (JPN) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012, we changed and added country/region-specific functionality for Japan. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Japanese installations, such as features that affect consolidated invoices, cash flow statements, bills of exchange, financial dimensions, and the global address book (GAB). The second section describes additional changes to country/region-specific functionality for Japan. For more information about specific features for Japan, see [TechNet Library for Application Users - Japan](https://go.microsoft.com/fwlink/?linkid=299914).
+In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Japan. This topic is divided into two sections. The first section outlines the key features that have a broad impact on Japanese installations, such as features that affect consolidated invoices, cash flow statements, bills of exchange, financial dimensions, and the global address book (GAB). The second section describes additional changes to country-specific functionality for Japan. For more information about specific features for Japan, see [TechNet Library for Application Users - Japan](https://go.microsoft.com/fwlink/?linkid=299914).
 
 ## Key features for Japan in Microsoft Dynamics AX 2012 R2 and Microsoft Dynamics AX 2012 R3
 
@@ -284,7 +284,7 @@ These features have changed considerably since AX 2009. AX 2012 R2 and AX 2012 R
 
 ## Additional features
 
-For more information about additional country/region-specific features that we added for Japan, see the tables that apply to your version of the product.
+For more information about additional country-specific features that we added for Japan, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 

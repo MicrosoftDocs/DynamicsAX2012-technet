@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country/region-specific features for Malaysia (MYS)"
-TOCTitle: Country/region-specific features for Malaysia
+title: "What's new: Country-specific features for Malaysia (MYS)"
+TOCTitle: Country-specific features for Malaysia
 ms:assetid: d6e046cf-e785-43fd-a57e-a3ae1a566579
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876695(v=AX.60)
 ms:contentKeyID: 63384771
@@ -9,13 +9,13 @@ ms.date: 11/20/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country/region-specific features for Malaysia (MYS) 
+# What's new: Country-specific features for Malaysia (MYS) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
 
 
-In Microsoft Dynamics AX 2012 R3, we changed and added country/region-specific functionality for Malaysia. For more information, see the table that follows.
+In Microsoft Dynamics AX 2012 R3, we changed and added country-specific functionality for Malaysia. For more information, see the table that follows.
 
 ## What’s new in cumulative update 8 for Microsoft Dynamics AX 2012 R3
 
