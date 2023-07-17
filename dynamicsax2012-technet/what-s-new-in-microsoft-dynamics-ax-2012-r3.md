@@ -309,7 +309,7 @@ Other features were added or changed in AX 2012 R3.
 </table>
 
 
-## Country-specific new features
+## Country/region-specific new features
 
 In AX 2012 R3, we added and changed several country/region-specific features.
 
@@ -331,7 +331,7 @@ In AX 2012 R3, we added and changed several country/region-specific features.
 <li><p>Generate electronic payment files for Single Euro Payments Area (SEPA) credit transfers in the PAIN.001.001.03 XML file format.</p></li>
 <li><p>Generate electronic payment files for SEPA direct debits in the PAIN.008.001.02 XML file format.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-austria-aut.md">What's new: Country-specific features for Austria (AUT)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-austria-aut.md">What's new: Country/region-specific features for Austria (AUT)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Brazil</p></td>
@@ -343,12 +343,12 @@ In AX 2012 R3, we added and changed several country/region-specific features.
 <li><p>Generate and import the text file for SPED EFD Contributions.</p></li>
 <li><p>Post negative debit amounts as credits, and negative credit amounts as debits.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country-specific features for Brazil (BRA)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country/region-specific features for Brazil (BRA)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>France</p></td>
 <td><p>Use a predefined query and predefined methods to export financial data.</p>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-france-fra.md">What's new: Country-specific features for France (FRA)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-france-fra.md">What's new: Country/region-specific features for France (FRA)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Germany</p></td>
@@ -356,7 +356,7 @@ In AX 2012 R3, we added and changed several country/region-specific features.
 <li><p>Generate electronic payment files for Single Euro Payments Area (SEPA) credit transfers in the PAIN.001.003.03 XML file format.</p></li>
 <li><p>Generate electronic payment files for SEPA direct debits in the PAIN.008.003.02 XML file format.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-germany-deu.md">What's new: Country-specific features for Germany (DEU)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-germany-deu.md">What's new: Country/region-specific features for Germany (DEU)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Japan</p></td>
@@ -365,12 +365,12 @@ In AX 2012 R3, we added and changed several country/region-specific features.
 <li><p>Generate fixed asset reports for deferred, low-value, and lump-sum fixed assets.</p></li>
 <li><p>Categorize and depreciate deferred, low-value, or lump-sum fixed assets.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country-specific features for Japan (JPN)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country/region-specific features for Japan (JPN)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Mexico</p></td>
 <td><p>Post negative debit amounts as credits, and negative credit amounts as debits.</p>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-mexico-mex.md">What's new: Country-specific features for Mexico (MEX)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-mexico-mex.md">What's new: Country/region-specific features for Mexico (MEX)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Russia</p></td>
@@ -381,7 +381,7 @@ In AX 2012 R3, we added and changed several country/region-specific features.
 <li><p>Redeem loyalty points as discounts for sales transactions, and refund loyalty points for return transactions at the point of sale.</p></li>
 <li><p>Enhancements are added to payroll processes and payroll journals.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country-specific features for Russia (RUS)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country/region-specific features for Russia (RUS)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>United Kingdom</p></td>

@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Brazilian installations, Microsoft Dynamics AX 2009 provides a country-specific parameter that enables Brazilian features.
+For Brazilian installations, Microsoft Dynamics AX 2009 provides a country/region-specific parameter that enables Brazilian features.
 
 ## Overview
 

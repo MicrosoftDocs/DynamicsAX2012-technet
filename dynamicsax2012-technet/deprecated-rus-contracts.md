@@ -43,7 +43,7 @@ Russian installations of Microsoft Dynamics AX 2009 let users perform the follow
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>The new Financial dimension framework and Purchase and sales agreement framework that are implemented in Microsoft Dynamics AX 2012 provide similar capabilities. Therefore, the country-specific contract features are obsolete.</p></td>
+<td><p>The new Financial dimension framework and Purchase and sales agreement framework that are implemented in Microsoft Dynamics AX 2012 provide similar capabilities. Therefore, the country/region-specific contract features are obsolete.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
@@ -51,7 +51,7 @@ Russian installations of Microsoft Dynamics AX 2009 let users perform the follow
 <ul>
 <li><p>Financial dimension framework – For more information, see the white paper <a href="https://go.microsoft.com/fwlink/?linkid=213133">Implementing the Account and Financial Dimension Framework</a>.</p></li>
 <li><p>Purchase and sales agreements framework – For more information, see the white paper <a href="https://download.microsoft.com/download/4/e/3/4e36b655-568e-4d4a-b161-152b28baaf30/implementing_the_agreement_framework_ax2012.pdf">Implementing the Agreement Framework</a>.</p></li>
-<li><p>Dimension control for settlements (Russian country-specific feature) – For more information, see <a href="rus-set-up-a-dimension-set-for-dimensions-control-for-settlements.md">(RUS) Set up a dimension set for dimensions control for settlements</a>.</p></li>
+<li><p>Dimension control for settlements (Russian country/region-specific feature) – For more information, see <a href="rus-set-up-a-dimension-set-for-dimensions-control-for-settlements.md">(RUS) Set up a dimension set for dimensions control for settlements</a>.</p></li>
 </ul>
 <p></p></td>
 </tr>

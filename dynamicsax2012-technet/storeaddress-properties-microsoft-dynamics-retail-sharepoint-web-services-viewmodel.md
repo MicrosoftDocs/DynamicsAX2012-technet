@@ -50,7 +50,7 @@ The [StoreAddress](storeaddress-class-microsoft-dynamics-retail-sharepoint-web-s
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="address-country-property-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md">Country</a></td>
-<td>Gets or sets the Country. (Inherited from <a href="address-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md">Address</a>.)</td>
+<td>Gets or sets the Country/Region. (Inherited from <a href="address-class-microsoft-dynamics-retail-sharepoint-web-services-viewmodel.md">Address</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

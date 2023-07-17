@@ -20,7 +20,7 @@ dev_langs:
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
 
-The target country name.
+The target country/region name.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.SharePoint.Web.Storefront](microsoft-dynamics-retail-sharepoint-web-storefront-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.SP.Web.Storefront (in Microsoft.Dynamics.Retail.SP.Web.Storefront.dll)

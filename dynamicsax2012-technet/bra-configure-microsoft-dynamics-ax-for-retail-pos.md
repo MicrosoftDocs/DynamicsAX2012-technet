@@ -83,7 +83,7 @@ To perform this task, follow these steps:
 
 2.  Select or create a functionality profile. For more information, see “Set up functionality profiles” in [Set up and assign functionality profiles](set-up-and-assign-functionality-profiles.md).
 
-3.  On the **General** FastTab, in the **ISO** field, select the ISO code for the country in which the store is located.
+3.  On the **General** FastTab, in the **ISO** field, select the ISO code for the country/region in which the store is located.
 
 4.  On the **Functions** FastTab, select the **Print X/Z report on POS** check box.
 

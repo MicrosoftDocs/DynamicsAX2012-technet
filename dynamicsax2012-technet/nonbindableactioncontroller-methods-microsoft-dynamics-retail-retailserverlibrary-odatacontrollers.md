@@ -160,17 +160,17 @@ The [NonBindableActionController](nonbindableactioncontroller-class-microsoft-dy
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="nonbindableactioncontroller-getcities-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md">GetCities</a></td>
-<td>Get all the cities filtered by Country, State Province and County.</td>
+<td>Get all the cities filtered by Country/region, State Province and County.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="nonbindableactioncontroller-getcounties-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md">GetCounties</a></td>
-<td>Get all the counties filtered by country and state province.</td>
+<td>Get all the counties filtered by country/region and state province.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="nonbindableactioncontroller-getcountryregions-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md">GetCountryRegions</a></td>
-<td>Get all the countrie/regions.</td>
+<td>Get all the countries/regions.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
@@ -240,7 +240,7 @@ The [NonBindableActionController](nonbindableactioncontroller-class-microsoft-dy
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="nonbindableactioncontroller-getdistricts-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md">GetDistricts</a></td>
-<td>Get all the district info filtered by country, state province, county, city.</td>
+<td>Get all the district info filtered by country/region, state province, county, city.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
@@ -350,7 +350,7 @@ The [NonBindableActionController](nonbindableactioncontroller-class-microsoft-dy
 <tr class="odd">
 <td><img src="images/Dn987397.pubmethod(en-us,AX.60).gif" title="Public method" alt="Public method" /></td>
 <td><a href="nonbindableactioncontroller-getzipcodes-method-microsoft-dynamics-retail-retailserverlibrary-odatacontrollers.md">GetZipCodes</a></td>
-<td>Get all the zipcodes filtered by country, state province, county, city and district.</td>
+<td>Get all the zipcodes filtered by country/region, state province, county, city and district.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn987397.protmethod(en-us,AX.60).gif" title="Protected method" alt="Protected method" /></td>

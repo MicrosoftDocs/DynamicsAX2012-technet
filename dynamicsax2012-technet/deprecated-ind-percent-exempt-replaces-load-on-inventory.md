@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Indian installations, Microsoft Dynamics AX 2009 provides a country-specific feature that supports Indian requirements for load on inventory. Load on inventory enables a tax amount percentage that cannot be claimed as an input tax credit to be loaded into inventory, so that the correct value of the inventory can be reached.
+For Indian installations, Microsoft Dynamics AX 2009 provides a country/region-specific feature that supports Indian requirements for load on inventory. Load on inventory enables a tax amount percentage that cannot be claimed as an input tax credit to be loaded into inventory, so that the correct value of the inventory can be reached.
 
 ## Overview
 
@@ -35,7 +35,7 @@ For Indian installations, Microsoft Dynamics AX 2009 provides a country-specific
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Foundation changes that were made in Microsoft Dynamics AX 2012 R2 support the load on inventory functionality. Therefore, country-specific modifications are no longer required.</p></td>
+<td><p>Foundation changes that were made in Microsoft Dynamics AX 2012 R2 support the load on inventory functionality. Therefore, country/region-specific modifications are no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

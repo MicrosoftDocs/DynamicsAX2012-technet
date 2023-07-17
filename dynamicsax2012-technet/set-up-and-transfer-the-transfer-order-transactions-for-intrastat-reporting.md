@@ -162,7 +162,7 @@ To set up the foreign trade parameter for transfer orders, follow these steps:
 
 Use the **Transfer orders** form to create a transfer order by specifying the details for Intrastat, and then use the **Shipment** form to ship this transfer order.
 
-The Intrastat generation process operates based on the countries that are specified on the **From warehouse** and **To warehouse** fields in the **Transfer orders** form. The process also considers the scrapped quantity for arrivals.
+The Intrastat generation process operates based on the countries/regions that are specified on the **From warehouse** and **To warehouse** fields in the **Transfer orders** form. The process also considers the scrapped quantity for arrivals.
 
 To create and ship a transfer order for an EU legal entity, follow these steps:
 

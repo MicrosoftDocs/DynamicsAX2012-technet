@@ -41,7 +41,7 @@ If an invoice’s total amount exceeds the limit that you specify in the **Itemi
 
 ## Which exchange rate can I use to calculate current amounts while posting transactions to the general ledger?
 
-An exchange rate must be specified for your currency to ensure that transaction amounts post to the general leger correctly. You can specify the exchange rate that is used by your company’s credit institution, or the exchange rate that is provided by your country’s national bank.
+An exchange rate must be specified for your currency to ensure that transaction amounts post to the general leger correctly. You can specify the exchange rate that is used by your company’s credit institution, or the exchange rate that is provided by your country/region’s national bank.
 
 ## Don't see your question here?
 

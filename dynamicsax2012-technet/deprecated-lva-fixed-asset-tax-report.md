@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2009, you can create a depreciation profile by using the tax depreciation method. You can also define the value models for fixed assets, assign categories to fixed assets based on value models, and calculate tax depreciation for an individual asset or a category of fixed assets. Additionally, you can generate reports, such as the **Fixed asset tax** report, to view the calculated tax depreciation. In accordance with Latvian legal requirements, the income tax for business organizations is adjusted by using the asset depreciation and calculated by using the tax depreciation method. The tax depreciation method is an extension of the reducing balance method, which is used in Latvia to determine the income tax for business organizations. In Microsoft Dynamics AX 2012 R2, the country-specific **Fixed asset tax** report for Latvia is no longer available.
+In Microsoft Dynamics AX 2009, you can create a depreciation profile by using the tax depreciation method. You can also define the value models for fixed assets, assign categories to fixed assets based on value models, and calculate tax depreciation for an individual asset or a category of fixed assets. Additionally, you can generate reports, such as the **Fixed asset tax** report, to view the calculated tax depreciation. In accordance with Latvian legal requirements, the income tax for business organizations is adjusted by using the asset depreciation and calculated by using the tax depreciation method. The tax depreciation method is an extension of the reducing balance method, which is used in Latvia to determine the income tax for business organizations. In Microsoft Dynamics AX 2012 R2, the country/region-specific **Fixed asset tax** report for Latvia is no longer available.
 
 ## Overview
 
@@ -35,7 +35,7 @@ In Microsoft Dynamics AX 2009, you can create a depreciation profile by using th
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>The <strong>Fixed asset tax</strong> report is no longer legally required. Therefore, a country-specific report is not required.</p></td>
+<td><p>The <strong>Fixed asset tax</strong> report is no longer legally required. Therefore, a country/region-specific report is not required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

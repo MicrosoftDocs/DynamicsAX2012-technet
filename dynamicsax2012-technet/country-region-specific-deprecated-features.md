@@ -59,7 +59,7 @@ The topics in this section describe country/region-specific features that have b
 
 [Deprecated: (CHN) Bank reconciliation](deprecated-chn-bank-reconciliation.md)
 
-[Deprecated: (CHN) Country-specific localization format for Contact name](deprecated-chn-country-specific-localization-format-for-contact-name.md)
+[Deprecated: (CHN) Country/region-specific localization format for Contact name](deprecated-chn-country-specific-localization-format-for-contact-name.md)
 
 [Deprecated: (CHN) GB/T19581 export accounting data standard](deprecated-chn-gb-t19581-export-accounting-data-standard.md)
 

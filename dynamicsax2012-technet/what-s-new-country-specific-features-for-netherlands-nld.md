@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Netherlands (NLD)"
-TOCTitle: Country-specific features for Netherlands
+title: "What's new: Country/region-specific features for Netherlands (NLD)"
+TOCTitle: Country/region-specific features for Netherlands
 ms:assetid: 11d3c884-783c-449e-878a-f15297629107
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507144(v=AX.60)
 ms:contentKeyID: 59623229
@@ -9,7 +9,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Netherlands (NLD) 
+# What's new: Country/region-specific features for Netherlands (NLD) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Netherlands. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Netherlands. For more information, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 

@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Poland (POL)"
-TOCTitle: Country-specific features for Poland
+title: "What's new: Country/region-specific features for Poland (POL)"
+TOCTitle: Country/region-specific features for Poland
 ms:assetid: 84445b2a-8bef-4c0e-9093-fd6913da4c4f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527167(v=AX.60)
 ms:contentKeyID: 59623296
@@ -9,7 +9,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Poland (POL) 
+# What's new: Country/region-specific features for Poland (POL) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Poland. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Poland. For more information, see the tables that apply to your version of the product.
 
 For more information about specific features for Poland, see [TechNet Library for Application Users - Poland](https://go.microsoft.com/fwlink/?linkid=299917).
 

@@ -108,7 +108,7 @@ Changes that affect developers were introduced in Microsoft Dynamics AX 2012 R3 
 </table>
 
 
-## Country-specific features
+## Country/region-specific features
 
 In Microsoft Dynamics AX 2012 R3 Cumulative Update 9, we updated several country/region-specific features.
 

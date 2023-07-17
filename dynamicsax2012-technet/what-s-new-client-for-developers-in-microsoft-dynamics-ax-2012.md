@@ -201,7 +201,7 @@ To customize the client in AX 2012, you can use the changes and new features in 
 <td><p>The feature was not available.</p></td>
 <td><p>The form shows unique controls and navigation elements to users in a specified country or region. Users from other countries or regions cannot access these controls and navigation elements.</p></td>
 <td><p>You can target controls and navigation elements to users in specific countries or regions. The targeted controls and navigation elements are automatically disabled or hidden when the form is viewed by users from other countries or regions.</p></td>
-<td><p><a href="https://technet.microsoft.com/library/hh404126(v=ax.60)">Applying Country Specific Functionality</a></p></td>
+<td><p><a href="https://technet.microsoft.com/library/hh404126(v=ax.60)">Applying Country/region Specific Functionality</a></p></td>
 </tr>
 <tr class="odd">
 <td><p>Set the <strong>Style</strong> property of a control.</p></td>

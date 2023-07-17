@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Hungarian installations, Microsoft Dynamics AX 2009 provides country-specific functionality that lets users import bank account statements in MT940 format.
+For Hungarian installations, Microsoft Dynamics AX 2009 provides country/region-specific functionality that lets users import bank account statements in MT940 format.
 
 ## Overview
 
@@ -35,7 +35,7 @@ For Hungarian installations, Microsoft Dynamics AX 2009 provides country-specifi
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Microsoft Dynamics AX 2012 provides consolidated bank reconciliation functionality that also supports MT940 statements. Therefore, country-specific changes for Hungary are no longer required.</p></td>
+<td><p>Microsoft Dynamics AX 2012 provides consolidated bank reconciliation functionality that also supports MT940 statements. Therefore, country/region-specific changes for Hungary are no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

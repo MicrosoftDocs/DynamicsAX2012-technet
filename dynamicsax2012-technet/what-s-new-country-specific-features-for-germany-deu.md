@@ -96,7 +96,7 @@ In Microsoft Dynamics AX 2012, we changed and added country/region-specific func
 </tr>
 <tr class="odd">
 <td><p>Generate and maintain EU entry certificates for items or services.</p></td>
-<td><p>You can set up and generate an EU certificate together with a customer invoice or a packing slip when you deliver items or services to EU countries. You can then upload a signed EU certificate that you have received from a customer or a third party, and attach the certificate to the customer invoice that is associated with it. You can update and maintain the status of the EU certificates to determine whether a certificate has been issued or received.</p>
+<td><p>You can set up and generate an EU certificate together with a customer invoice or a packing slip when you deliver items or services to EU countries/regions. You can then upload a signed EU certificate that you have received from a customer or a third party, and attach the certificate to the customer invoice that is associated with it. You can update and maintain the status of the EU certificates to determine whether a certificate has been issued or received.</p>
 <p>You can generate the <strong>Control</strong> report to verify the status of EU entry certificates. You can correct an incorrect status for an EU entry certificate. If an EU entry certificate is associated with an incorrect invoice, you can remove the incorrect reference, and then attach the EU entry certificate to the correct invoice.</p></td>
 </tr>
 </tbody>

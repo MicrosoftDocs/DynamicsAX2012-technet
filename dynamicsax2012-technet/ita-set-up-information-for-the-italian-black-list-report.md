@@ -35,7 +35,7 @@ You must complete the following setup procedures before you generate the “Ital
 
 ## Set up a country or region as "black listed"
 
-Use the **Foreign trade parameters** form to identify a country as “black listed” and the **Address setup** form to specify the county code for a “black listed” country.
+Use the **Foreign trade parameters** form to identify a country/region as “black listed” and the **Address setup** form to specify the county code for a “black listed” country/region.
 
 1.  Click **Organization administration** \> **Setup** \> **Foreign trade** \> **Foreign trade parameters**.
 

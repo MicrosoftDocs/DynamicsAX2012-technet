@@ -43,7 +43,7 @@ You can post sales order invoices that are based on packing slips that include d
     
 
     > [!NOTE]
-    > <P>Sales order lines that are based on categories contain the customs cargo declaration (GTD) number and the country of origin. These details are transferred to the facture journal when you update a facture for a sales order.</P>
+    > <P>Sales order lines that are based on categories contain the customs cargo declaration (GTD) number and the country/region of origin. These details are transferred to the facture journal when you update a facture for a sales order.</P>
 
 
 

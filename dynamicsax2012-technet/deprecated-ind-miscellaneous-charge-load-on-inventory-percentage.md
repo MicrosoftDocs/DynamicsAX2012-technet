@@ -35,7 +35,7 @@ Microsoft Dynamics AX 2009 lets users post a specified percentage (partial amoun
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>In AX 2009, the <strong>Load on inventory %</strong> field is a country-specific feature for India. This field lets users to split the miscellaneous charges that are added to an invoice between inventory and the vendor or customer. Foundational changes that were made for Microsoft Dynamics AX 2012 made this country-specific option redundant.</p></td>
+<td><p>In AX 2009, the <strong>Load on inventory %</strong> field is a country/region-specific feature for India. This field lets users to split the miscellaneous charges that are added to an invoice between inventory and the vendor or customer. Foundational changes that were made for Microsoft Dynamics AX 2012 made this country/region-specific option redundant.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

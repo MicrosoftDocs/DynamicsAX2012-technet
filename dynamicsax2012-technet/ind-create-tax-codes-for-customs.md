@@ -27,7 +27,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 You can create tax codes for customs duties and define the percentage of customs duties.
 
-You can also enter the preferential value for the customs tax code because the preferential rate is used for goods imported from specific countries, based on agreements with such countries. Customs duty is calculated based on the preferential rate defined in the **Preferential value** field instead of the value defined in the **Value** field if the vendor or customer is set as preferential.
+You can also enter the preferential value for the customs tax code because the preferential rate is used for goods imported from specific countries/regions, based on agreements with such countries/regions. Customs duty is calculated based on the preferential rate defined in the **Preferential value** field instead of the value defined in the **Value** field if the vendor or customer is set as preferential.
 
 
 > [!NOTE]

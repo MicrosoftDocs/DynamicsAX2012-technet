@@ -20,7 +20,7 @@ dev_langs:
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
 
-Get all the counties filtered by country and state province.
+Get all the counties filtered by country/region and state province.
 
 **Namespace:**  [Microsoft.Dynamics.Retail.RetailServerLibrary.ODataControllers](microsoft-dynamics-retail-retailserverlibrary-odatacontrollers-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Retail.RetailServerLibrary (in Microsoft.Dynamics.Retail.RetailServerLibrary.dll)

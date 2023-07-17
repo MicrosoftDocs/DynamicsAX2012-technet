@@ -169,7 +169,7 @@ dev_langs:
 <tr class="even">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>
 <td><a href="getaddressrequesthandler-class-microsoft-dynamics-commerce-runtime-workflow.md">GetAddressRequestHandler</a></td>
-<td>Gets the global address values that consists of countries, counties, state provinces, cities.</td>
+<td>Gets the global address values that consists of countries/regions, counties, state provinces, cities.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn988315.pubclass(en-us,AX.60).gif" title="Public class" alt="Public class" /></td>

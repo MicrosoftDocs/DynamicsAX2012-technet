@@ -44,7 +44,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we changed and added c
 <p>You can generate the sales tax payment report in a foreign currency in the following scenarios:</p>
 <ul>
 <li><p>The currency of a legal entity differs from the currency of the country where the legal entity is based. In this case, you can generate the sales tax payment report in the currency of the country where the legal entity is based.</p></li>
-<li><p>The currency of the legal entity is the same as the currency of the country where the legal entity is based, but the legal entity must generate sales tax payment reports in the currency of another country. In this case, you can generate the sales tax payment report in the currency of that other country. For example, a legal entity that is a global firm has subsidiaries in other countries and uses a primary currency for all the subsidiaries. This legal entity can generate the sales tax payment report in the currency of the country where a subsidiary is based instead of the primary currency of the legal entity.</p></li>
+<li><p>The currency of the legal entity is the same as the currency of the country where the legal entity is based, but the legal entity must generate sales tax payment reports in the currency of another country. In this case, you can generate the sales tax payment report in the currency of that other country. For example, a legal entity that is a global firm has subsidiaries in other countries/regions and uses a primary currency for all the subsidiaries. This legal entity can generate the sales tax payment report in the currency of the country where a subsidiary is based instead of the primary currency of the legal entity.</p></li>
 </ul>
 <p>For more information, see the following topics:</p>
 <ul>
