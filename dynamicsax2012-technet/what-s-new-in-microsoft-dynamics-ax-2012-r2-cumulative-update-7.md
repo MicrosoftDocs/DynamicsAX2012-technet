@@ -241,7 +241,7 @@ Other features were added or changed in cumulative update 7 for Microsoft Dynami
 </table>
 
 
-## Country-specific new features
+## Country/region-specific new features
 
 In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a number of country/region-specific features.
 
@@ -259,7 +259,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <tbody>
 <tr class="odd">
 <td><p>Belgium</p></td>
-<td><p>Generate electronic payment files for Single Euro Payments Area (SEPA) direct debits. For more information, see <a href="what-s-new-country-specific-features-for-belgium-bel.md">What's new: Country-specific features for Belgium (BEL)</a>.</p></td>
+<td><p>Generate electronic payment files for Single Euro Payments Area (SEPA) direct debits. For more information, see <a href="what-s-new-country-specific-features-for-belgium-bel.md">What's new: Country/region-specific features for Belgium (BEL)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Brazil</p></td>
@@ -269,20 +269,20 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Approximate taxes for items and services</p></li>
 <li><p>Import and verify NF-e XML documents and DANFE from emails</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country-specific features for Brazil (BRA)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country/region-specific features for Brazil (BRA)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>China</p></td>
-<td><p>Maintain the transfer history for fixed assets. For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country-specific features for China (CHN)</a>.</p></td>
+<td><p>Maintain the transfer history for fixed assets. For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country/region-specific features for China (CHN)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Czech Republic</p></td>
-<td><p>Create tax corrective documents for sales returns, sales discounts, and VAT corrections. For more information, see <a href="what-s-new-country-specific-features-for-the-czech-republic-cze.md">What's new: Country-specific features for the Czech Republic (CZE)</a>.</p></td>
+<td><p>Create tax corrective documents for sales returns, sales discounts, and VAT corrections. For more information, see <a href="what-s-new-country-specific-features-for-the-czech-republic-cze.md">What's new: Country/region-specific features for the Czech Republic (CZE)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Denmark</p></td>
 <td><p>Upload and maintain European Union (EU) entry certificates for items or services.</p>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-denmark-dnk.md">What's new: Country-specific features for Denmark (DNK)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-denmark-dnk.md">What's new: Country/region-specific features for Denmark (DNK)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Finland</p></td>
@@ -290,7 +290,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Generate electronic payment files for Single Euro Payments Area (SEPA) credit transfers.</p></li>
 <li><p>Generate the Finnish sales tax payment report in a foreign currency.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-finland-fin.md">What's new: Country-specific features for Finland (FIN)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-finland-fin.md">What's new: Country/region-specific features for Finland (FIN)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>France</p></td>
@@ -299,7 +299,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Generate electronic payment files for SEPA credit transfers.</p></li>
 <li><p>Generate general ledger reports based on the posting layer of the transactions.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-france-fra.md">What's new: Country-specific features for France (FRA)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-france-fra.md">What's new: Country/region-specific features for France (FRA)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Germany</p></td>
@@ -308,7 +308,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Generate electronic payment files for SEPA credit transfers.</p></li>
 <li><p>Generate and maintain EU entry certificates for items or services.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-germany-deu.md">What's new: Country-specific features for Germany (DEU)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-germany-deu.md">What's new: Country/region-specific features for Germany (DEU)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>India</p></td>
@@ -316,7 +316,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Tax thresholds and tax concession certificates for India</p></li>
 <li><p>Use the sales tax hierarchy to process sales tax settlements, sales tax payments, and sales tax returns.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country-specific features for India (IND)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country/region-specific features for India (IND)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Italy</p></td>
@@ -325,7 +325,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Generate electronic payment files for SEPA credit transfers.</p></li>
 <li><p>Generate a Spesometro declaration for domestic value-added tax (VAT) transactions.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-italy-ita.md">What's new: Country-specific features for Italy (ITA)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-italy-ita.md">What's new: Country/region-specific features for Italy (ITA)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Japan</p></td>
@@ -335,19 +335,19 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Fixed asset reports for Japan</p></li>
 <li><p>Reduction entry subsidy for Japan</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country-specific features for Japan (JPN)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country/region-specific features for Japan (JPN)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Latvia</p></td>
-<td><p>Generate the value-added tax (VAT) declaration as an XML file. For more information, see <a href="what-s-new-country-specific-features-for-latvia-lva.md">What's new: Country-specific features for Latvia (LVA)</a>.</p></td>
+<td><p>Generate the value-added tax (VAT) declaration as an XML file. For more information, see <a href="what-s-new-country-specific-features-for-latvia-lva.md">What's new: Country/region-specific features for Latvia (LVA)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Netherlands</p></td>
-<td><p>Generate electronic payment files for SEPA direct debits. For more information, see <a href="what-s-new-country-specific-features-for-netherlands-nld.md">What's new: Country-specific features for Netherlands (NLD)</a>.</p></td>
+<td><p>Generate electronic payment files for SEPA direct debits. For more information, see <a href="what-s-new-country-specific-features-for-netherlands-nld.md">What's new: Country/region-specific features for Netherlands (NLD)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Norway</p></td>
-<td><p>Attach files and links to EHF electronic invoices. For more information, see <a href="what-s-new-country-specific-features-for-norway-nor.md">What's new: Country-specific features for Norway (NOR)</a>.</p></td>
+<td><p>Attach files and links to EHF electronic invoices. For more information, see <a href="what-s-new-country-specific-features-for-norway-nor.md">What's new: Country/region-specific features for Norway (NOR)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Poland</p></td>
@@ -356,7 +356,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>VAT corrections for overdue payments</p></li>
 <li><p>Use exchange rates from the European Central Bank to recalculate VAT for sales invoices that use foreign currency.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-poland-pol.md">What's new: Country-specific features for Poland (POL)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-poland-pol.md">What's new: Country/region-specific features for Poland (POL)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Russia</p></td>
@@ -366,7 +366,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Regulate the return of retail sales items at the POS.</p></li>
 <li><p>Create, print, and revise factures for invoices and credit notes.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country-specific features for Russia (RUS)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country/region-specific features for Russia (RUS)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Spain</p></td>
@@ -375,7 +375,7 @@ In cumulative update 7 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Generate electronic payment files for SEPA credit transfers.</p></li>
 <li><p>Generate a payment due date compliance report that includes both vendor payments and promissory note transactions.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-spain-esp.md">What's new: Country-specific features for Spain (ESP)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-spain-esp.md">What's new: Country/region-specific features for Spain (ESP)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Switzerland</p></td>

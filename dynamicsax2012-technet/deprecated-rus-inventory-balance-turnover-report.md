@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2009, the country-specific **Inventory balance turnover** report for Russian installations lets users analyze inventory turnover per warehouse and item.
+In Microsoft Dynamics AX 2009, the country/region-specific **Inventory balance turnover** report for Russian installations lets users analyze inventory turnover per warehouse and item.
 
 ## Overview
 
@@ -35,7 +35,7 @@ In Microsoft Dynamics AX 2009, the country-specific **Inventory balance turnover
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>The <strong>Inventory balance turnover</strong> inquiry was introduced in Microsoft Dynamics AX 2009 RU3. This inquiry was developed even more in Microsoft Dynamics AX 2009 RU5 and was ported to Microsoft Dynamics AX 2012. Because the <strong>Inventory balance turnover</strong> inquiry provides more options and better performance than the country-specific <strong>Inventory balance turnover</strong> report, the report became unused and is no longer required.</p></td>
+<td><p>The <strong>Inventory balance turnover</strong> inquiry was introduced in Microsoft Dynamics AX 2009 RU3. This inquiry was developed even more in Microsoft Dynamics AX 2009 RU5 and was ported to Microsoft Dynamics AX 2012. Because the <strong>Inventory balance turnover</strong> inquiry provides more options and better performance than the country/region-specific <strong>Inventory balance turnover</strong> report, the report became unused and is no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

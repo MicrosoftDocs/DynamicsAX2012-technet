@@ -44,7 +44,7 @@ You must set up the export file format and the report layout before you can gene
 
 4.  In the **Report layout** field, select **Display amounts by rows** to display the amounts for each customer or vendor by row in the EU sales list report.
 
-5.  In the **XSLT ID** field, select the XML style sheet identification code that is used to generate the EU sales list. The XSLT ID parameter contains metadata for a country-specific file format.
+5.  In the **XSLT ID** field, select the XML style sheet identification code that is used to generate the EU sales list. The XSLT ID parameter contains metadata for a country/region-specific file format.
 
 ## Export the DES report as an XML file
 

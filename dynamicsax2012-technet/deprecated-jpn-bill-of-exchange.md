@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Microsoft Dynamics AX 2009 provides management of the life cycle for bills of exchange (BOEs). For example, you can draw BOEs, remit (deposit) them for collection or discount, protest them, and redraw them to settlement. For Japanese installations, there is country-specific functionality for BOE endorsement. This functionality guarantees that the endorsement for the draft that a vendor receives from a customer for payment before BOE maturity applies to both promissory notes and BOEs in accounts receivable.
+Microsoft Dynamics AX 2009 provides management of the life cycle for bills of exchange (BOEs). For example, you can draw BOEs, remit (deposit) them for collection or discount, protest them, and redraw them to settlement. For Japanese installations, there is country/region-specific functionality for BOE endorsement. This functionality guarantees that the endorsement for the draft that a vendor receives from a customer for payment before BOE maturity applies to both promissory notes and BOEs in accounts receivable.
 
 ## Overview
 
@@ -35,11 +35,11 @@ Microsoft Dynamics AX 2009 provides management of the life cycle for bills of ex
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Foundational changes in Microsoft Dynamics AX 2012 required that the country-specific BOE functionality for Japan be refactored.</p></td>
+<td><p>Foundational changes in Microsoft Dynamics AX 2012 required that the country/region-specific BOE functionality for Japan be refactored.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>
-<td><p>Yes. The country-specific BOE functionality that is available for Japanese installations in AX 2009 was removed. New country-specific BOE functionality for Japanese installations is available in AX 2012.</p>
+<td><p>Yes. The country/region-specific BOE functionality that is available for Japanese installations in AX 2009 was removed. New country/region-specific BOE functionality for Japanese installations is available in AX 2012.</p>
 <p>For more information, see <a href="jpn-set-up-for-bills-of-exchange.md">(JPN) Set up for bills of exchange</a>.</p></td>
 </tr>
 <tr class="odd">
