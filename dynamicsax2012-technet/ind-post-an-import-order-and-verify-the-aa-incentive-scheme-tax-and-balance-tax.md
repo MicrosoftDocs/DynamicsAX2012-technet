@@ -41,7 +41,7 @@ Use this procedure to verify the details about the amount of incentive scheme ta
     
     For more information about the fields in this form, see [(IND) Temporary sales tax transactions (modified form)](https://technet.microsoft.com/library/jj664487\(v=ax.60\)).
 
-8.  In the **Bill of entry** form, on the **Setup** tab, in the **Bill of entry date** field, select the date when the goods entered the country. Click **OK** to post the bill of entry and to close the **Bill of entry** form.
+8.  In the **Bill of entry** form, on the **Setup** tab, in the **Bill of entry date** field, select the date when the goods entered the country/region. Click **OK** to post the bill of entry and to close the **Bill of entry** form.
 
 9.  In the **Purchase order** form, on the **Action Pane**, click the **Invoice** tab. Then, in the **Generate** group, click **Invoice**.
 

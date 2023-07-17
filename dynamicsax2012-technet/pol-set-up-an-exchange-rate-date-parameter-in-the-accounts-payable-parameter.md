@@ -39,7 +39,7 @@ You can use the **Accounts payable parameters** form to define the date paramete
     
       - **Document date** - Calculate the exchange rate based on the document date.
     
-      - **Document date (for EU trade only)** - Calculate the exchange rate based on the document date when trading with European Union countries.
+      - **Document date (for EU trade only)** - Calculate the exchange rate based on the document date when trading with European Union countries/regions.
         
 
         > [!NOTE]

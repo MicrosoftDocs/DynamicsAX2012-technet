@@ -62,7 +62,7 @@ The default location and direction are updated in the **Location** and **Directi
    
 	 2
   </p> </td>
-    <td> <p> <strong>Other state</strong> – The customer or vendor is located in the same country as the fiscal establishment, but in a different state.
+    <td> <p> <strong>Other state</strong> – The customer or vendor is located in the same country/region as the fiscal establishment, but in a different state.
   </p> </td>
   </tr>
   <tr>
@@ -70,7 +70,7 @@ The default location and direction are updated in the **Location** and **Directi
    
 	 3
   </p> </td>
-    <td> <p> <strong>Outside country</strong> – The customer or vendor is located in a different country than the fiscal establishment.
+    <td> <p> <strong>Outside country/region</strong> – The customer or vendor is located in a different country/region than the fiscal establishment.
   </p> </td>
   </tr>
   <tr>

@@ -29,7 +29,7 @@ This section describes the supported scenarios for Microsoft Dynamics AX upgrade
 
 [Scenario: Upgrade a Retail system](scenario-upgrade-a-retail-system.md)
 
-[Scenario: Upgrade a country-specific or region-specific system](scenario-upgrade-a-country-specific-or-region-specific-system.md)
+[Scenario: Upgrade a country/region-specific or region-specific system](scenario-upgrade-a-country-specific-or-region-specific-system.md)
 
 [Technical diagrams for upgrade scenarios](technical-diagrams-for-upgrade-scenarios.md)
 

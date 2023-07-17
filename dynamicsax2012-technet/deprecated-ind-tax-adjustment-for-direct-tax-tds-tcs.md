@@ -35,7 +35,7 @@ In Microsoft Dynamics AX 2009, the tax adjustment functionality lets users selec
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Microsoft Dynamics AX 2012 supports subledger journal and source documents, and therefore streamlines the process for posting financial entries to <strong>General ledger</strong>. The existing functionality for withholding tax adjustments is a country-specific feature for India. This functionality was deprecated and was replaced by a more flexible journal-based adjustment of withholding tax through the <strong>Create withholding tax journal</strong> in <strong>General ledger</strong>.</p></td>
+<td><p>Microsoft Dynamics AX 2012 supports subledger journal and source documents, and therefore streamlines the process for posting financial entries to <strong>General ledger</strong>. The existing functionality for withholding tax adjustments is a country/region-specific feature for India. This functionality was deprecated and was replaced by a more flexible journal-based adjustment of withholding tax through the <strong>Create withholding tax journal</strong> in <strong>General ledger</strong>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

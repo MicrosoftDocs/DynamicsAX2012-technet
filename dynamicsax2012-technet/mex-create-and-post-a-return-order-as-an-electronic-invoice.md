@@ -51,7 +51,7 @@ When you create the return order for an imported item, you must specify the pert
 
 12. Click the **Product** tab, and then in the **Custom number** field, enter the number of the customs document that was generated when the item was imported.
 
-13. In the **Custom date** field, select the date when the item was imported, and then in the **Custom name** field, enter the name of the customs authority in the country that the item was imported from.
+13. In the **Custom date** field, select the date when the item was imported, and then in the **Custom name** field, enter the name of the customs authority in the country/region that the item was imported from.
 
 14. Click the **Invoice** tab, and then click **Invoice**.
 

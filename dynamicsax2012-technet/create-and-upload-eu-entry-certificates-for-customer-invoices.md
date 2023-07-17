@@ -30,7 +30,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 This topic describes how to create and upload a European Union (EU) entry certificate. You can complete the following tasks for an EU entry certificate:
 
-  - Create and issue an EU entry certificate along with a packing slip or customer invoice for the delivery of items or services to EU countries.
+  - Create and issue an EU entry certificate along with a packing slip or customer invoice for the delivery of items or services to EU countries/regions.
 
   - Receive the EU entry certificate that is signed by an EU customer.
 
