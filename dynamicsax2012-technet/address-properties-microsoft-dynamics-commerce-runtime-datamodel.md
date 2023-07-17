@@ -246,12 +246,12 @@ The [Address](address-class-microsoft-dynamics-commerce-runtime-datamodel.md) ty
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="address-threeletterisoregionname-property-microsoft-dynamics-commerce-runtime-datamodel.md">ThreeLetterISORegionName</a></td>
-<td>Gets or sets the Country 3-digit ISO Code.</td>
+<td>Gets or sets the Country/region 3-digit ISO Code.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="address-twoletterisoregionname-property-microsoft-dynamics-commerce-runtime-datamodel.md">TwoLetterISORegionName</a></td>
-<td>Gets or sets the Country 2-digit ISO Code.</td>
+<td>Gets or sets the Country/region 2-digit ISO Code.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

@@ -49,7 +49,7 @@ Microsoft Dynamics AX 2009 provides several Russian balance turnover statements.
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>Microsoft Dynamics AX 2012 provides enhanced functionality for Russian turnover balance statements. This enhanced country-specific functionality lets users generate balance turnover reports that have extended options and enhanced performance. Legacy balance turnover reports and inquiries are no longer required and are deprecated.</p></td>
+<td><p>Microsoft Dynamics AX 2012 provides enhanced functionality for Russian turnover balance statements. This enhanced country/region-specific functionality lets users generate balance turnover reports that have extended options and enhanced performance. Legacy balance turnover reports and inquiries are no longer required and are deprecated.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

@@ -19,7 +19,7 @@ ms.search.region: Belgium
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Single Euro Payment Area (SEPA) is an initiative that provides a common electronic banking process for transferring payments within the SEPA region, which is comprised of 32 countries. In Belgium, SEPA credit transfers have been extended and standardized to also support non-SEPA credit transfers called Generic ISO20022 credit transfers. This format is applied to payments if they are made in a currency other than euros and to payments that are made to companies outside the SEPA region. The generated payment files can be uploaded by using Client Isabel Synchronizer (CIS).
+Single Euro Payment Area (SEPA) is an initiative that provides a common electronic banking process for transferring payments within the SEPA region, which is comprised of 32 countries/regions. In Belgium, SEPA credit transfers have been extended and standardized to also support non-SEPA credit transfers called Generic ISO20022 credit transfers. This format is applied to payments if they are made in a currency other than euros and to payments that are made to companies outside the SEPA region. The generated payment files can be uploaded by using Client Isabel Synchronizer (CIS).
 
 ## Set up a method of payment for Generic ISO20022 credit transfers
 

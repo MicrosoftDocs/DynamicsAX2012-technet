@@ -110,7 +110,7 @@ The following table outlines features added in cumulative update 6 for Microsoft
 </table>
 
 
-## Country-specific new features
+## Country/region-specific new features
 
 In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a number of country/region-specific features.
 
@@ -136,7 +136,7 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Fiscal books information in Microsoft Dynamics AX 2009 can be integrated with Microsoft Dynamics AX 2012.</p></li>
 <li><p>Fiscal books ease-of-use and retail compliance enhancements</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country-specific features for Brazil (BRA)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country/region-specific features for Brazil (BRA)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>China</p></td>
@@ -145,11 +145,11 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Chinese tax integration for VAT customer invoices</p></li>
 <li><p>Calculate payment fees by using a bank payment rule.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country-specific features for China (CHN)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country/region-specific features for China (CHN)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Denmark</p></td>
-<td><p>Specify external codes for units for Offentlig Information Online Universal Business Language (OIOUBL) electronic invoices. For more information, see <a href="what-s-new-country-specific-features-for-denmark-dnk.md">What's new: Country-specific features for Denmark (DNK)</a>.</p></td>
+<td><p>Specify external codes for units for Offentlig Information Online Universal Business Language (OIOUBL) electronic invoices. For more information, see <a href="what-s-new-country-specific-features-for-denmark-dnk.md">What's new: Country/region-specific features for Denmark (DNK)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Europe</p></td>
@@ -157,7 +157,7 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a
 </tr>
 <tr class="odd">
 <td><p>France</p></td>
-<td><p>Apply a penalty when a customer payment is past due. For more information, see <a href="what-s-new-country-specific-features-for-france-fra.md">What's new: Country-specific features for France (FRA)</a>.</p></td>
+<td><p>Apply a penalty when a customer payment is past due. For more information, see <a href="what-s-new-country-specific-features-for-france-fra.md">What's new: Country/region-specific features for France (FRA)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Germany</p></td>
@@ -165,11 +165,11 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>A legal entity can manually update the default electronic tax server IP addresses to be used for submitting VAT reports.</p></li>
 <li><p>Generate the European Union (EU) sales list for Germany.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-germany-deu.md">What's new: Country-specific features for Germany (DEU)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-germany-deu.md">What's new: Country/region-specific features for Germany (DEU)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Hungary</p></td>
-<td><p>Itemized value-added tax (VAT) statements for VAT reporting. For more information, see <a href="what-s-new-country-specific-features-for-hungary-hun.md">What's new: Country-specific features for Hungary (HUN)</a>.</p></td>
+<td><p>Itemized value-added tax (VAT) statements for VAT reporting. For more information, see <a href="what-s-new-country-specific-features-for-hungary-hun.md">What's new: Country/region-specific features for Hungary (HUN)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>India</p></td>
@@ -179,7 +179,7 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Calculate withholding tax that excludes taxes and charges.</p></li>
 <li><p>Specify the large taxpayer unit (LTU) code for a legal entity.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country-specific features for India (IND)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country/region-specific features for India (IND)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Japan</p></td>
@@ -189,19 +189,19 @@ In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we added and changed a
 <li><p>Allocate the cost of fixed asset depreciation to multiple organization units, and track the history of location transfers.</p></li>
 <li><p>Calculate depreciation for fixed assets.</p></li>
 </ul>
-<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country-specific features for Japan (JPN)</a>.</p></td>
+<p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country/region-specific features for Japan (JPN)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Mexico</p></td>
-<td><p>Filter vendor invoices for the Declaración Informativa de Operaciones con Terceros (DIOT). For more information, see <a href="what-s-new-country-specific-features-for-mexico-mex.md">What's new: Country-specific features for Mexico (MEX)</a>.</p></td>
+<td><p>Filter vendor invoices for the Declaración Informativa de Operaciones con Terceros (DIOT). For more information, see <a href="what-s-new-country-specific-features-for-mexico-mex.md">What's new: Country/region-specific features for Mexico (MEX)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Norway</p></td>
-<td><p>Specify external codes for units for EHF electronic documents. For more information, see <a href="what-s-new-country-specific-features-for-norway-nor.md">What's new: Country-specific features for Norway (NOR)</a>.</p></td>
+<td><p>Specify external codes for units for EHF electronic documents. For more information, see <a href="what-s-new-country-specific-features-for-norway-nor.md">What's new: Country/region-specific features for Norway (NOR)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Russia</p></td>
-<td><p>Restore a fixed asset depreciation bonus. For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country-specific features for Russia (RUS)</a>.</p></td>
+<td><p>Restore a fixed asset depreciation bonus. For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country/region-specific features for Russia (RUS)</a>.</p></td>
 </tr>
 </tbody>
 </table>

@@ -29,7 +29,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
     
       - **Document date** – Calculate the exchange rate based on the document date.
     
-      - **Document date (for EU trade only)** – Calculate the exchange rate based on the document date for trade with European Union countries.
+      - **Document date (for EU trade only)** – Calculate the exchange rate based on the document date for trade with European Union countries/regions.
     
 
     > [!NOTE]

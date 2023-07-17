@@ -1,6 +1,6 @@
 ---
-title: (EEUR) Retail customer invoices and return sales orders in Eastern European countries
-TOCTitle: (EEUR) Retail customer invoices and return sales orders in Eastern European countries
+title: (EEUR) Retail customer invoices and return sales orders in Eastern European countries/regions
+TOCTitle: (EEUR) Retail customer invoices and return sales orders in Eastern European countries/regions
 ms:assetid: 4585c22a-a557-45d0-9312-81f4df2c76e4
 ms:mtpsurl: https://technet.microsoft.com/library/Dn268480(v=AX.60)
 ms:contentKeyID: 54917019
@@ -17,7 +17,7 @@ audience: Application User
 ms.search.region: Czech Republic, Estonia, Hungary, Latvia, Lithuania, Poland, Russia
 ---
 
-# (EEUR) Retail customer invoices and return sales orders in Eastern European countries 
+# (EEUR) Retail customer invoices and return sales orders in Eastern European countries/regions 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
