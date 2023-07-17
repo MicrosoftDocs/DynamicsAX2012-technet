@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Austria (AUT)"
-TOCTitle: Country-specific features for Austria
+title: "What's new: Country/region-specific features for Austria (AUT)"
+TOCTitle: Country/region-specific features for Austria
 ms:assetid: 3f51f69b-ab74-48db-ad5d-48a2df006388
 ms:mtpsurl: https://technet.microsoft.com/library/Dn716028(v=AX.60)
 ms:contentKeyID: 62200284
@@ -9,7 +9,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Austria (AUT) 
+# What's new: Country/region-specific features for Austria (AUT) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
-In Microsoft Dynamics AX 2012 R3, we changed and added country-specific functionality for Austria. For more information, see the table that follows.
+In Microsoft Dynamics AX 2012 R3, we changed and added country/region-specific functionality for Austria. For more information, see the table that follows.
 
 ## What’s new in AX 2012 R3
 

@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Denmark (DNK)"
-TOCTitle: Country-specific features for Denmark
+title: "What's new: Country/region-specific features for Denmark (DNK)"
+TOCTitle: Country/region-specific features for Denmark
 ms:assetid: 3d80395a-d70a-4a45-abd6-a9b4b76059b7
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507102(v=AX.60)
 ms:contentKeyID: 59623192
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Denmark (DNK) 
+# What's new: Country/region-specific features for Denmark (DNK) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Denmark. For more information, see the tables that apply to your version of the product.
+In cumulative update 6 for Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Denmark. For more information, see the tables that apply to your version of the product.
 
 ## What’s new in cumulative update 6 for Microsoft Dynamics AX 2012 R2
 

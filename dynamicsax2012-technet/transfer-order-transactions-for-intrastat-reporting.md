@@ -61,11 +61,11 @@ You can specify the Intrastat information for a transfer order on the **Foreign 
 
 ## On what basis does the Intrastat generation process operate?
 
-The Intrastat generation process operates based on the countries that are specified on the **From warehouse** and **To warehouse** fields in the **Transfer orders** form. The process also considers the scrapped quantity for arrivals.
+The Intrastat generation process operates based on the countries/regions that are specified on the **From warehouse** and **To warehouse** fields in the **Transfer orders** form. The process also considers the scrapped quantity for arrivals.
 
-## Which countries does this update apply to?
+## Which countries/regions does this update apply to?
 
-This update applies to the following European countries:
+This update applies to the following European countries/regions:
 
   - Austria
 

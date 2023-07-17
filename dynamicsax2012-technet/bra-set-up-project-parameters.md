@@ -42,7 +42,7 @@ You can set up the default unit to use in fiscal document lines that are created
 
 7.  In the **Same state** field, select the default CFOP code to generate and print service project fiscal documents for project transactions for customers and vendors that are located in the same state as the fiscal establishment of the legal entity.
 
-8.  In the **Other state** field, select the default CFOP code to generate and print service project fiscal documents for project transactions for customers or vendors that are located in the same country as the fiscal establishment of the legal entity, but in another state.
+8.  In the **Other state** field, select the default CFOP code to generate and print service project fiscal documents for project transactions for customers or vendors that are located in the same country/region as the fiscal establishment of the legal entity, but in another state.
 
 9.  In the **Outside country/region** field, select the default CFOP code to generate and print project fiscal documents for project transactions for customers and vendors that are located in a different country from the fiscal establishment of the legal entity.
 

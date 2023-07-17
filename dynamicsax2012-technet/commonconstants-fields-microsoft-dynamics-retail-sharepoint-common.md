@@ -250,12 +250,12 @@ The [CommonConstants](commonconstants-class-microsoft-dynamics-retail-sharepoint
 <tr class="odd">
 <td><img src="images/Dn967240.pubfield(en-us,AX.60).gif" title="Public field" alt="Public field" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
 <td><a href="commonconstants-targetcountrycodepropertyname-field-microsoft-dynamics-retail-sharepoint-common.md">TargetCountryCodePropertyName</a></td>
-<td>Represents name of configuration app settings key which stores Country Name.</td>
+<td>Represents name of configuration app settings key which stores Country/region Name.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn967240.pubfield(en-us,AX.60).gif" title="Public field" alt="Public field" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>
 <td><a href="commonconstants-targetcountrynamepropertyname-field-microsoft-dynamics-retail-sharepoint-common.md">TargetCountryNamePropertyName</a></td>
-<td>Represents name of configuration app settings key which stores Country ID.</td>
+<td>Represents name of configuration app settings key which stores Country/region ID.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn967240.pubfield(en-us,AX.60).gif" title="Public field" alt="Public field" /> <img src="images/Dn987454.static(en-us,AX.60).gif" title="Static member" alt="Static member" /></td>

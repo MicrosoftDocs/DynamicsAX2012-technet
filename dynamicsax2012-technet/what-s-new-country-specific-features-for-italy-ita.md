@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Italy (ITA)"
-TOCTitle: Country-specific features for Italy
+title: "What's new: Country/region-specific features for Italy (ITA)"
+TOCTitle: Country/region-specific features for Italy
 ms:assetid: 9d4e046e-1fb9-4997-b9cd-8206981a7531
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527202(v=AX.60)
 ms:contentKeyID: 59623331
@@ -9,7 +9,7 @@ ms.date: 06/08/2015
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Italy (ITA) 
+# What's new: Country/region-specific features for Italy (ITA) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012 R2, we changed and added country-specific functionality for Italy. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012 R2, we changed and added country/region-specific functionality for Italy. For more information, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 

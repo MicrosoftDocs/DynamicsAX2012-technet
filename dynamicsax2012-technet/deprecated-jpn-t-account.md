@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Japanese installations, Microsoft Dynamics AX 2009 includes a country-specific feature that is named T-account. The T-account feature lets Japanese users enter journal lines in a T-account format.
+For Japanese installations, Microsoft Dynamics AX 2009 includes a country/region-specific feature that is named T-account. The T-account feature lets Japanese users enter journal lines in a T-account format.
 
 ## Overview
 
@@ -35,7 +35,7 @@ For Japanese installations, Microsoft Dynamics AX 2009 includes a country-specif
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>In AX 2009, the T-account information that is stored is manually entered by the user in a temporary table. When the user completes the final posting, the information is transferred to a journal. Because of foundational changes in Microsoft Dynamics AX 2012 R2, this country-specific modification is no longer required.</p></td>
+<td><p>In AX 2009, the T-account information that is stored is manually entered by the user in a temporary table. When the user completes the final posting, the information is transferred to a journal. Because of foundational changes in Microsoft Dynamics AX 2012 R2, this country/region-specific modification is no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

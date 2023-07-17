@@ -55,7 +55,7 @@ The [OrgUnitLocation](orgunitlocation-class-microsoft-dynamics-commerce-runtime-
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="orgunitlocation-country-property-microsoft-dynamics-commerce-runtime-datamodel.md">Country</a></td>
-<td>Gets or sets the location country.</td>
+<td>Gets or sets the location country/region.</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

@@ -23,7 +23,7 @@ Use this information to remove items from a material reporting list for a countr
 
 
 > [!NOTE]
-> <P>If a country has more than one list, verify that you remove the items from the correct list.</P>
+> <P>If a country/region has more than one list, verify that you remove the items from the correct list.</P>
 
 
 

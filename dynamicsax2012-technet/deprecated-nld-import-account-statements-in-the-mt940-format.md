@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Dutch installations, Microsoft Dynamics AX 2009, Microsoft Dynamics AX 2012, and Microsoft Dynamics AX 2012 R2 provide a country-specific feature to generate the **Import account statement (transactions)** and **Import account statement (totals)** reports in the MT940 format. The **Import account statement (transactions)** or **Import account statement (totals)** form is used to import transactions or totals from an account statement in an available format, such as the MT940 format.
+For Dutch installations, Microsoft Dynamics AX 2009, Microsoft Dynamics AX 2012, and Microsoft Dynamics AX 2012 R2 provide a country/region-specific feature to generate the **Import account statement (transactions)** and **Import account statement (totals)** reports in the MT940 format. The **Import account statement (transactions)** or **Import account statement (totals)** form is used to import transactions or totals from an account statement in an available format, such as the MT940 format.
 
 In AX 2012 R2, you can use the bank statement and reconciliation feature to import account statements in the MT940 format.
 

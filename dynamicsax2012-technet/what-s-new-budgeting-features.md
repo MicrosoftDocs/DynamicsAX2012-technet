@@ -1169,7 +1169,7 @@ This feature was not available in AX 2009. AX 2012 R2 includes the following maj
 <td><p>Set up automatic translations for budget planning process names and descriptions.</p></td>
 <td><p>Not available</p></td>
 <td><p>Translate the names and descriptions that are used in budget planning processes.</p></td>
-<td><p>In multi-country organizations, the usability of budget planning processes is improved.</p></td>
+<td><p>In multi-country/region organizations, the usability of budget planning processes is improved.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Select the justification template and the attachments folder for each budget planning process.</p></td>
