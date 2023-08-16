@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-There are several versions of the EEO preparation report that you can use when you prepare the reports required by the U.S. Equal Employment Opportunity Commission. The EEOC enforces the federal laws that prohibit discrimination against a job applicant or an employee because of the person's race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability, or genetic information.
+There are several versions of the EEO preparation report that you can use when you prepare the reports required by the U.S. Equal Employment Opportunity Commission. The EEOC enforces the federal laws that prohibit discrimination against a job applicant or an employee because of the person's race, color, religion, sex (including pregnancy), national/regional origin, age (40 or older), disability, or genetic information.
 
 
 > [!NOTE]
