@@ -275,7 +275,7 @@ public enum class CountryRegionISOCode
 <tr class="odd">
 <td></td>
 <td>TR</td>
-<td>ISO code of Turkey.</td>
+<td>ISO code of Türkiye.</td>
 </tr>
 <tr class="even">
 <td></td>
