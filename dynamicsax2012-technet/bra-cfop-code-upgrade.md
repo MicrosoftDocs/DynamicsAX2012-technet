@@ -49,7 +49,7 @@ In releases prior to Microsoft Dynamics AX 2012 R2, you could create multiple re
    
 	 2
   </p> </td>
-    <td> <p> <strong xmlns="http://www.w3.org/1999/xhtml">Other state</strong> – The customer or vendor is located in the same country as the fiscal establishment but in another state.
+    <td> <p> <strong xmlns="http://www.w3.org/1999/xhtml">Other state</strong> – The customer or vendor is located in the same country/region as the fiscal establishment but in another state.
   </p> </td>
   </tr>
   <tr>
@@ -57,7 +57,7 @@ In releases prior to Microsoft Dynamics AX 2012 R2, you could create multiple re
    
 	 3
   </p> </td>
-    <td> <p> <strong xmlns="http://www.w3.org/1999/xhtml">Outside country</strong> – The customer or vendor is located in a different country from the fiscal establishment.
+    <td> <p> <strong xmlns="http://www.w3.org/1999/xhtml">Outside country</strong> – The customer or vendor is located in a different country/region from the fiscal establishment.
   </p> </td>
   </tr>
   <tr>

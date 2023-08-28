@@ -19,7 +19,7 @@ ms.search.region: Italy
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Legal entities must report all taxable sales and purchase transactions with other companies in countries that offer privileged tax structures. These countries are referred to as “black listed” countries by the Italian government. These countries present a high risk from a tax standpoint. Legal entities in Italy must report these transactions on a monthly or quarterly basis to the government.
+Legal entities must report all taxable sales and purchase transactions with other companies in countries/regions that offer privileged tax structures. These countries/regions are referred to as “black listed” countries/regions by the Italian government. These countries/regions present a high risk from a tax standpoint. Legal entities in Italy must report these transactions on a monthly or quarterly basis to the government.
 
 You must complete the following setup procedures before you generate the “Italian black list” report and export it as an ASCII file:
 
@@ -35,7 +35,7 @@ You must complete the following setup procedures before you generate the “Ital
 
 ## Set up a country or region as "black listed"
 
-Use the **Foreign trade parameters** form to identify a country as “black listed” and the **Address setup** form to specify the county code for a “black listed” country.
+Use the **Foreign trade parameters** form to identify a country/region as “black listed” and the **Address setup** form to specify the county code for a “black listed” country/region.
 
 1.  Click **Organization administration** \> **Setup** \> **Foreign trade** \> **Foreign trade parameters**.
 
@@ -73,7 +73,7 @@ Use the **Legal entities** form to specify the legal nature of a legal entity. T
 
 ## Set up the country/region of residence for a foreign customer
 
-Use the **Customers** form to set up the country/region of residence for a customer in a foreign country/region. Only the invoice transactions with legal entities in countries that have privileged tax structures (“black listed” countries) are included in the “Italian black list” report.
+Use the **Customers** form to set up the country/region of residence for a customer in a foreign country/region. Only the invoice transactions with legal entities in countries/regions that have privileged tax structures (“black listed” countries/regions) are included in the “Italian black list” report.
 
 1.  Click **Accounts receivable** \> **Common** \> **Customers** \> **All customers**.
 

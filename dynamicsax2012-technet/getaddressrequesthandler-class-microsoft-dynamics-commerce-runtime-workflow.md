@@ -20,7 +20,7 @@ dev_langs:
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
 
-Gets the global address values that consists of countries, counties, state provinces, cities.
+Gets the global address values that consists of countries/regions, counties, state provinces, cities.
 
 **Namespace:**  [Microsoft.Dynamics.Commerce.Runtime.Workflow](microsoft-dynamics-commerce-runtime-workflow-namespace.md)  
 **Assembly:**  Microsoft.Dynamics.Commerce.Runtime.Workflow (in Microsoft.Dynamics.Commerce.Runtime.Workflow.dll)

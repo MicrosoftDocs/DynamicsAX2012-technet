@@ -55,7 +55,7 @@ The [TokenizedPaymentCard](tokenizedpaymentcard-class-microsoft-dynamics-commerc
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="paymentcardbase-country-property-microsoft-dynamics-commerce-runtime-datamodel.md">Country</a></td>
-<td>Gets or sets the value for Country. (Inherited from <a href="paymentcardbase-class-microsoft-dynamics-commerce-runtime-datamodel.md">PaymentCardBase</a>.)</td>
+<td>Gets or sets the value for Country/region. (Inherited from <a href="paymentcardbase-class-microsoft-dynamics-commerce-runtime-datamodel.md">PaymentCardBase</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

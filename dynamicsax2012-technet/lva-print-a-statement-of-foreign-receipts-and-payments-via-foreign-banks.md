@@ -53,7 +53,7 @@ If a company that operates in Latvia receives payments from a foreign bank and d
 
 5.  Click **Cash and bank management** \> **Inquiries** \> **Bank transactions**.
 
-6.  Select the correspondent country and add or modify the amount criterion for bank transaction specified by Latvian Central Bank.
+6.  Select the correspondent country/region and add or modify the amount criterion for bank transaction specified by Latvian Central Bank.
 
 7.  Click **OK** to open the **Bank transactions** form to view the details on notification to the central bank, and modify them if needed.
 

@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specific modifications that support the transfer of inventory goods between companies of the same group. These modifications require parameterization of an **In-transit warehouse at operation** type.
+For Brazilian installations, Microsoft Dynamics AX 2009 provides country/region-specific modifications that support the transfer of inventory goods between companies of the same group. These modifications require parameterization of an **In-transit warehouse at operation** type.
 
 ## Overview
 

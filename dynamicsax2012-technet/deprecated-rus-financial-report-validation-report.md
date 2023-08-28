@@ -35,7 +35,7 @@ In Microsoft Dynamics AX 2009, the **Financial report validation** report displa
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>The report is being deprecated, because it has limited customer usage. Additionally, the <strong>Report validation results</strong> form lets users view the validation results together with the required details, and also lets users perform any required actions. Therefore, country-specific modifications are not required.</p></td>
+<td><p>The report is being deprecated, because it has limited customer usage. Additionally, the <strong>Report validation results</strong> form lets users view the validation results together with the required details, and also lets users perform any required actions. Therefore, country/region-specific modifications are not required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

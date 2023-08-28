@@ -37,9 +37,9 @@ You can set up a foreign currency for a sales tax code, and then generate the sa
 
 You can generate the Finnish sales tax report in a foreign currency in the following scenarios:
 
-  - When the currency of the legal entity is different from the currency of the country where the legal entity is based, you can generate the sales tax report in the currency of the country where the legal entity is based.
+  - When the currency of the legal entity is different from the currency of the country/region where the legal entity is based, you can generate the sales tax report in the currency of the country/region where the legal entity is based.
 
-  - When the currency of the legal entity is the same as that of the country where the legal entity is based, but the legal entity must generate sales tax reports in the currency of another country, you can generate the sales tax report in the currency of that country. For example, a legal entity that is a global firm that has subsidiaries in other countries, and which uses a primary currency for all of the subsidiaries, can generate the sales tax report in the currency of the country where a subsidiary is based instead of the primary currency of the legal entity.
+  - When the currency of the legal entity is the same as that of the country/region where the legal entity is based, but the legal entity must generate sales tax reports in the currency of another country/region, you can generate the sales tax report in the currency of that country/region. For example, a legal entity that is a global firm that has subsidiaries in other countries/regions, and which uses a primary currency for all of the subsidiaries, can generate the sales tax report in the currency of the country/region where a subsidiary is based instead of the primary currency of the legal entity.
 
 
 > [!NOTE]

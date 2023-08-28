@@ -19,7 +19,7 @@ ms.search.region: Czech Republic
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-This section provides a list of country-specific reports for Czech Republic that are generated for General ledger.
+This section provides a list of country/region-specific reports for Czech Republic that are generated for General ledger.
 
 
 > [!NOTE]

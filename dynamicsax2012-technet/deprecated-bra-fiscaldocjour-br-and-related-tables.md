@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-Microsoft Dynamics AX 2009 provides country-specific functionality that is related to fiscal documents. Information about fiscal documents is maintained in one set of tables and is also kept in the original transaction tables.
+Microsoft Dynamics AX 2009 provides country/region-specific functionality that is related to fiscal documents. Information about fiscal documents is maintained in one set of tables and is also kept in the original transaction tables.
 
 ## Overview
 

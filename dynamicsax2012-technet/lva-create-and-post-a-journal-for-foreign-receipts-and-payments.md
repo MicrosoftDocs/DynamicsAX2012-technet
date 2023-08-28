@@ -61,7 +61,7 @@ Use this procedure to record the foreign receipts and payments in journal entrie
 
 7.  Enter any additional information in the journal, and then click **Post** \> **Post** to post the journal.
 
-When the journal is posted, the correspondent country is determined by how the bank account for the customer or vendor and your company bank account are configured.
+When the journal is posted, the correspondent country/region is determined by how the bank account for the customer or vendor and your company bank account are configured.
 
   - If the customer or vendor record includes a payment bank account, the posting process uses the country/region code of the bank address.
 

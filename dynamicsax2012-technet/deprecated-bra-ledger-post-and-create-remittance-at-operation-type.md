@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specific modifications that support the option to create general ledger transactions when sales and purchase invoices are posted. Additionally a fiscal document can be marked as **Create remittance** in the setup of the operation type.
+For Brazilian installations, Microsoft Dynamics AX 2009 provides country/region-specific modifications that support the option to create general ledger transactions when sales and purchase invoices are posted. Additionally a fiscal document can be marked as **Create remittance** in the setup of the operation type.
 
 ## Overview
 
@@ -35,7 +35,7 @@ For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specifi
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>All invoices that are posted from sales orders and purchase orders generate general ledger transactions, based on the operation and taxes that are specified on the invoice. The option to not post in the ledger was removed. Additionally, the option to mark an operation type as <strong>Create remittance</strong> was removed, because this option had no other use that was supported by Brazilian country-specific functionality.</p></td>
+<td><p>All invoices that are posted from sales orders and purchase orders generate general ledger transactions, based on the operation and taxes that are specified on the invoice. The option to not post in the ledger was removed. Additionally, the option to mark an operation type as <strong>Create remittance</strong> was removed, because this option had no other use that was supported by Brazilian country/region-specific functionality.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

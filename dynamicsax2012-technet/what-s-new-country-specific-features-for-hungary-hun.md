@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Hungary (HUN)"
-TOCTitle: Country-specific features for Hungary
+title: "What's new: Country/region-specific features for Hungary (HUN)"
+TOCTitle: Country/region-specific features for Hungary
 ms:assetid: 3f7618cb-c5fc-48c0-8ccb-5cee86c4063c
 ms:mtpsurl: https://technet.microsoft.com/library/Dn507108(v=AX.60)
 ms:contentKeyID: 59623198
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Hungary (HUN) 
+# What's new: Country/region-specific features for Hungary (HUN) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Hungary. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012, we changed and added country/region-specific functionality for Hungary. For more information, see the tables that apply to your version of the product.
 
 For more information about specific features for Hungary, see [TechNet Library for Application Users - Hungary](https://go.microsoft.com/fwlink/?linkid=299912).
 

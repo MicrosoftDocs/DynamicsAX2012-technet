@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Japanese installations, Microsoft Dynamics AX 2009 provides a country-specific feature for Japanese payment calendars. The Japanese holiday calendar and payment terms feature lets users define national holidays and bank holidays. If a calculated due date occurs on a national or bank holiday, the actual payment date is moved before or after the date of the holiday. Additionally, the terms of payment, or cutoff date, let users set specific cutoff dates for due date calculation.
+For Japanese installations, Microsoft Dynamics AX 2009 provides a country/region-specific feature for Japanese payment calendars. The Japanese holiday calendar and payment terms feature lets users define national/regional holidays and bank holidays. If a calculated due date occurs on a national/regional or bank holiday, the actual payment date is moved before or after the date of the holiday. Additionally, the terms of payment, or cutoff date, let users set specific cutoff dates for due date calculation.
 
 ## Overview
 

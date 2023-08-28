@@ -351,7 +351,7 @@ To set up parameters for tax calculations, follow these steps:
     </tr>
     <tr class="even">
     <td><p><strong>Number of days for resident</strong></p></td>
-    <td><p>Select a rate that is used to determine the number of days that an employee must stay in the country to qualify as a resident.</p></td>
+    <td><p>Select a rate that is used to determine the number of days that an employee must stay in the country/region to qualify as a resident.</p></td>
     </tr>
     <tr class="odd">
     <td><p><strong>Period for defining status</strong></p></td>
@@ -382,7 +382,7 @@ To set up parameters for tax calculations, follow these steps:
     </tr>
     <tr class="odd">
     <td><p><strong>Staying days in fiscal year</strong></p></td>
-    <td><p>Select the rate that is used to calculate the number of days that an employee must stay in the country, starting on the first of January to qualify for a tax refund for the current fiscal year.</p></td>
+    <td><p>Select the rate that is used to calculate the number of days that an employee must stay in the country/region, starting on the first of January to qualify for a tax refund for the current fiscal year.</p></td>
     </tr>
     <tr class="even">
     <td><p><strong>Separate divisions handling</strong></p></td>

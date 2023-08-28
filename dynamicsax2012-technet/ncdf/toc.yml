@@ -34,57 +34,57 @@
         items:
         - name: Country/Region Context
           href: ..\what-s-new-country-region-context.md
-        - name: Country-specific features for Austria
+        - name: Country/Region-specific features for Austria
           href: ..\what-s-new-country-specific-features-for-austria-aut.md
-        - name: Country-specific features for Belgium
+        - name: Country/Region-specific features for Belgium
           href: ..\what-s-new-country-specific-features-for-belgium-bel.md
-        - name: Country-specific features for Brazil
+        - name: Country/Region-specific features for Brazil
           href: ..\what-s-new-country-specific-features-for-brazil-bra.md
-        - name: Country-specific features for China
+        - name: Country/Region-specific features for China
           href: ..\what-s-new-country-specific-features-for-china-chn.md
-        - name: Country-specific features for the Czech Republic
+        - name: Country/Region-specific features for the Czech Republic
           href: ..\what-s-new-country-specific-features-for-the-czech-republic-cze.md
-        - name: Country-specific features for Denmark
+        - name: Country/Region-specific features for Denmark
           href: ..\what-s-new-country-specific-features-for-denmark-dnk.md
         - name: Region-specific features for Eastern Europe
           href: ..\what-s-new-region-specific-features-for-eastern-europe-eeur.md
         - name: Region-specific features for Europe
           href: ..\what-s-new-region-specific-features-for-europe.md
-        - name: Country-specific features for Finland
+        - name: Country/Region-specific features for Finland
           href: ..\what-s-new-country-specific-features-for-finland-fin.md
-        - name: Country-specific features for France
+        - name: Country/Region-specific features for France
           href: ..\what-s-new-country-specific-features-for-france-fra.md
-        - name: Country-specific features for Germany
+        - name: Country/Region-specific features for Germany
           href: ..\what-s-new-country-specific-features-for-germany-deu.md
-        - name: Country-specific features for Hungary
+        - name: Country/Region-specific features for Hungary
           href: ..\what-s-new-country-specific-features-for-hungary-hun.md
-        - name: Country-specific features for India
+        - name: Country/Region-specific features for India
           href: ..\what-s-new-country-specific-features-for-india-ind.md
-        - name: Country-specific features for Italy
+        - name: Country/Region-specific features for Italy
           href: ..\what-s-new-country-specific-features-for-italy-ita.md
-        - name: Country-specific features for Japan
+        - name: Country/Region-specific features for Japan
           href: ..\what-s-new-country-specific-features-for-japan-jpn.md
-        - name: Country-specific features for Latvia
+        - name: Country/Region-specific features for Latvia
           href: ..\what-s-new-country-specific-features-for-latvia-lva.md
-        - name: Country-specific features for Lithuania
+        - name: Country/Region-specific features for Lithuania
           href: ..\what-s-new-country-specific-features-for-lithuania-ltu.md
-        - name: Country-specific features for Mexico
+        - name: Country/Region-specific features for Mexico
           href: ..\what-s-new-country-specific-features-for-mexico-mex.md
-        - name: Country-specific features for Netherlands
+        - name: Country/Region-specific features for Netherlands
           href: ..\what-s-new-country-specific-features-for-netherlands-nld.md
-        - name: Country-specific features for Norway
+        - name: Country/Region-specific features for Norway
           href: ..\what-s-new-country-specific-features-for-norway-nor.md
-        - name: Country-specific features for Poland
+        - name: Country/Region-specific features for Poland
           href: ..\what-s-new-country-specific-features-for-poland-pol.md
-        - name: Country-specific features for Russia
+        - name: Country/Region-specific features for Russia
           href: ..\what-s-new-country-specific-features-for-russia-rus.md
-        - name: Country-specific features for Spain
+        - name: Country/Region-specific features for Spain
           href: ..\what-s-new-country-specific-features-for-spain-esp.md
-        - name: Country-specific features for Switzerland
+        - name: Country/Region-specific features for Switzerland
           href: ..\what-s-new-country-specific-features-for-switzerland-che.md
-        - name: Country-specific features for Sweden
+        - name: Country/Region-specific features for Sweden
           href: ..\what-s-new-country-specific-features-for-sweden-swe.md
-        - name: Country-specific features for Malaysia
+        - name: Country/Region-specific features for Malaysia
           href: ..\what-s-new-country-specific-features-for-malaysia-mys.md
       - name: Address book
         href: ..\what-s-new-address-book.md
@@ -300,7 +300,7 @@
           href: ..\deprecated-chn-accounting-period-name.md
         - name: (CHN) Bank reconciliation
           href: ..\deprecated-chn-bank-reconciliation.md
-        - name: (CHN) Country-specific localization format for Contact name
+        - name: (CHN) Country/Region-specific localization format for Contact name
           href: ..\deprecated-chn-country-specific-localization-format-for-contact-name.md
         - name: (CHN) GB/T19581 export accounting data standard
           href: ..\deprecated-chn-gb-t19581-export-accounting-data-standard.md

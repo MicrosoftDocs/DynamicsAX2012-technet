@@ -21,7 +21,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3_
 
 ## Limitations of POS customization for Brazil
 
-The binary files of the Microsoft Dynamics AX 2012 R2 POS solution, such as the EXE or DLL file, cannot be changed after its last certification and official registration. Therefore, it is not possible to customize all of the available triggers and services in Brazil as for other countries. The files that cannot be modified are listed in the MD5FileList.txt file.
+The binary files of the Microsoft Dynamics AX 2012 R2 POS solution, such as the EXE or DLL file, cannot be changed after its last certification and official registration. Therefore, it is not possible to customize all of the available triggers and services in Brazil as for other countries/regions. The files that cannot be modified are listed in the MD5FileList.txt file.
 
 ## Reserved blank operations
 

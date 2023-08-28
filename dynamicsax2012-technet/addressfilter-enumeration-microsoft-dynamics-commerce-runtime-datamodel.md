@@ -70,7 +70,7 @@ public enum class AddressFilter
 <tr class="even">
 <td></td>
 <td>Countries</td>
-<td>Specifies the Country as filter.</td>
+<td>Specifies the Country/region as filter.</td>
 </tr>
 <tr class="odd">
 <td></td>

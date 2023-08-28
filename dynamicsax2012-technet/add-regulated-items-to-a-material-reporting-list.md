@@ -24,7 +24,7 @@ Use this information to add items to a material reporting list for a country and
 
 
 > [!NOTE]
-> <P>If a country has more than one list, make sure that you add the items to the correct list.</P>
+> <P>If a country/region has more than one list, make sure that you add the items to the correct list.</P>
 
 
 

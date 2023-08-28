@@ -206,7 +206,7 @@ This topic describes new and changed Retail features since the release of Micros
 </tr>
 <tr class="even">
 <td><p>Support for multiple stores in different languages</p></td>
-<td><p>Developers and IT professionals can create multiple Retail online stores that support different currencies and translations, such as translated terms and product listings. These stores can be located in the same SharePoint farm. Therefore, businesses and organizations can sell products in native languages, report financials for different countries, and maximize hardware purchases. Online stores in different languages can connect to the same or different channel databases, and to the same or different product catalog sites.</p></td>
+<td><p>Developers and IT professionals can create multiple Retail online stores that support different currencies and translations, such as translated terms and product listings. These stores can be located in the same SharePoint farm. Therefore, businesses and organizations can sell products in native languages, report financials for different countries/regions, and maximize hardware purchases. Online stores in different languages can connect to the same or different channel databases, and to the same or different product catalog sites.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Additional controls for Retail online stores that are published to Microsoft SharePoint</p></td>

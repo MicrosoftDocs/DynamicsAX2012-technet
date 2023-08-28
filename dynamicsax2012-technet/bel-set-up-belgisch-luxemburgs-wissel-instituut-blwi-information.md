@@ -73,7 +73,7 @@ You must set up default currencies, countries/regions, country/region groups, an
 
 3.  In the **Group ID** and **Description** fields, enter a group ID and description.
 
-4.  Select the **BLWI reporting** check box to print trade totals for this country on the BWLI report.
+4.  Select the **BLWI reporting** check box to print trade totals for this country/region on the BWLI report.
 
 5.  Click the **BLWI country/region** tab and select a country/region code to assign to the country/region group.
 

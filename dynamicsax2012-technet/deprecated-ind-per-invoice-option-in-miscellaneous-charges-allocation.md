@@ -35,7 +35,7 @@ In Microsoft Dynamics AX 2009, the **Purchase order** and **Purchase invoice** h
 <tbody>
 <tr class="odd">
 <td><p>Reason for deprecation</p></td>
-<td><p>In AX 2009 for Indian installations, the <strong>Purchase order</strong> and <strong>Purchase order invoice</strong> headers in the <strong>Allocate miscellaneous charges</strong> form included a <strong>Per invoice</strong> option for the <strong>Misc. charges allocation</strong> field. This option guaranteed that the same miscellaneous charge code and value were preserved on each purchase order/invoice header if a partial invoice was created for the purchase order. This option was deprecated, because Microsoft Dynamics AX 2012 provides parallel workaround functionality that lets users add miscellaneous charges for partial invoices at the header level. Therefore country-specific modifications are no longer required.</p></td>
+<td><p>In AX 2009 for Indian installations, the <strong>Purchase order</strong> and <strong>Purchase order invoice</strong> headers in the <strong>Allocate miscellaneous charges</strong> form included a <strong>Per invoice</strong> option for the <strong>Misc. charges allocation</strong> field. This option guaranteed that the same miscellaneous charge code and value were preserved on each purchase order/invoice header if a partial invoice was created for the purchase order. This option was deprecated, because Microsoft Dynamics AX 2012 provides parallel workaround functionality that lets users add miscellaneous charges for partial invoices at the header level. Therefore country/region-specific modifications are no longer required.</p></td>
 </tr>
 <tr class="even">
 <td><p>Replaced by another feature</p></td>

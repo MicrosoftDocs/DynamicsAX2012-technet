@@ -19,7 +19,7 @@ ms.search.region: Finland
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2, Microsoft Dynamics AX 2012 Feature Pack, Microsoft Dynamics AX 2012_
 
-Single European Payment Area (SEPA) is an initiative in the European Union (EU) member states to provide a common electronic banking process for transferring payments within the SEPA region, which is comprised of 32 countries. The SEPA credit transfer is one of the SEPA instruments that allow you to send payments electronically to the creditor’s bank account. In Finland, SEPA credit transfers have been extended and standardized to also support non-SEPA credit transfers called Generic ISO20022 credit transfers. This format is used for payments made in a currency other than euros and for payments that are sent outside the SEPA region.
+Single European Payment Area (SEPA) is an initiative in the European Union (EU) member states to provide a common electronic banking process for transferring payments within the SEPA region, which is comprised of 32 countries/regions. The SEPA credit transfer is one of the SEPA instruments that allow you to send payments electronically to the creditor’s bank account. In Finland, SEPA credit transfers have been extended and standardized to also support non-SEPA credit transfers called Generic ISO20022 credit transfers. This format is used for payments made in a currency other than euros and for payments that are sent outside the SEPA region.
 
 ## Set up a new method of payment for Generic ISO20022-based credit transfers
 

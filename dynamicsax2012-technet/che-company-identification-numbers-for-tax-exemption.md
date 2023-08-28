@@ -22,13 +22,13 @@ ms.search.region: Switzerland
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Switzerland, a legal entity must use the company identification number (UID) instead of the six digit value-added tax (VAT) number, which is the Mehrwertsteuer (MWST) number. You can use the UID to print invoices and for tax reporting purposes. To validate the UID format for a legal entity, in Microsoft Dynamics AX, you must first set up the UID format as a tax registration type, and then assign UID as the legislative type to manage tax registration numbers for legal entities in each country. You can then specify the UID when you create addresses for customer or vendor legal entities, and specify the tax registration information.
+In Switzerland, a legal entity must use the company identification number (UID) instead of the six digit value-added tax (VAT) number, which is the Mehrwertsteuer (MWST) number. You can use the UID to print invoices and for tax reporting purposes. To validate the UID format for a legal entity, in Microsoft Dynamics AX, you must first set up the UID format as a tax registration type, and then assign UID as the legislative type to manage tax registration numbers for legal entities in each country/region. You can then specify the UID when you create addresses for customer or vendor legal entities, and specify the tax registration information.
 
 ## Where can I specify the UID format in Microsoft Dynamics AX and what is the alphanumeric format that I must use for the UID?
 
 You can use the **Format** field in the **Tax registration types** form to specify the format for the UID for your legal entity. For more information, see [Set up a tax registration type](set-up-a-tax-registration-type.md).
 
-You can specify the alphanumeric format for the UID by using the country identification code, a hyphen, and a nine digit number that is grouped into three sets of three digits that are separated by periods. The last number represents the check digit of the UID. The UID number can also be followed by a code that indicates the business type. An example of an UID format is CHE-123.456.789 HR, where HR is the business type that is assigned to the legal entity.
+You can specify the alphanumeric format for the UID by using the country/region identification code, a hyphen, and a nine digit number that is grouped into three sets of three digits that are separated by periods. The last number represents the check digit of the UID. The UID number can also be followed by a code that indicates the business type. An example of an UID format is CHE-123.456.789 HR, where HR is the business type that is assigned to the legal entity.
 
 ## How can I set UID as the legislative type for my legal entity?
 

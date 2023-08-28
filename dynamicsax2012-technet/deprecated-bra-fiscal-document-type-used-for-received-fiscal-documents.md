@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2009 for Brazilian installations, a fiscal document type is required to receive a fiscal document. Foundation changes in Microsoft Dynamics AX 2012 changed the functionality for the receipt of fiscal documents. Therefore, the country-specific feature is not required.
+In Microsoft Dynamics AX 2009 for Brazilian installations, a fiscal document type is required to receive a fiscal document. Foundation changes in Microsoft Dynamics AX 2012 changed the functionality for the receipt of fiscal documents. Therefore, the country/region-specific feature is not required.
 
 ## Overview
 

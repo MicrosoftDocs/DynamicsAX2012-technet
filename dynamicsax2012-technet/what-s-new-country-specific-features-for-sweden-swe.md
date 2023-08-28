@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Sweden (SWE)"
-TOCTitle: Country-specific features for Sweden
+title: "What's new: Country/region-specific features for Sweden (SWE)"
+TOCTitle: Country/region-specific features for Sweden
 ms:assetid: bf27ff0a-558f-4365-bf56-a5199c5b7736
 ms:mtpsurl: https://technet.microsoft.com/library/Dn876694(v=AX.60)
 ms:contentKeyID: 63384770
@@ -9,13 +9,13 @@ ms.date: 11/14/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Sweden (SWE) 
+# What's new: Country/region-specific features for Sweden (SWE) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
 
 
-In Microsoft Dynamics AX 2012 R3, we changed and added country-specific functionality for Sweden. For more information, see the table that follows.
+In Microsoft Dynamics AX 2012 R3, we changed and added country/region-specific functionality for Sweden. For more information, see the table that follows.
 
 ## What’s new in cumulative update 8 for Microsoft Dynamics AX 2012 R3
 

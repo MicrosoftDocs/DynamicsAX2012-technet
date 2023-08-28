@@ -70,7 +70,7 @@ The [ICustomerV1](icustomerv1-interface-microsoft-dynamics-retail-pos-contracts-
 <tr class="odd">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>
 <td><a href="icustomerv1-country-property-microsoft-dynamics-retail-pos-contracts-dataentity.md">Country</a></td>
-<td>The country name.</td>
+<td>The country/region name.</td>
 </tr>
 <tr class="even">
 <td><img src="images/Dn998427.pubproperty(en-us,AX.60).gif" title="Public property" alt="Public property" /></td>

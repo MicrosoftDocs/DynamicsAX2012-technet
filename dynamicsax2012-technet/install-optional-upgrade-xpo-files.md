@@ -111,7 +111,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>Country-specific Brazil)</p></td>
+<td><p>Country/region-specific Brazil)</p></td>
 <td><p>AX 4.0 SP2 + Brazil FP + 362 DIS + latest DIP</p></td>
 <td><p><strong>Provided in AX 2012 R2 and AX 2012 R3:</strong></p>
 <p>UpgradeAX4_GBR.xpo</p></td>
@@ -125,7 +125,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>Country-specific (China)</p></td>
+<td><p>Country/region-specific (China)</p></td>
 <td><p>AXC 4.0 SP2 + CN GLS</p></td>
 <td><p><strong>Provided in AX 2012 R2 and AX 2012 R3:</strong></p>
 <p>UpgradeAX4_GCN.xpo</p></td>
@@ -136,14 +136,14 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>Country-specific (India)</p></td>
+<td><p>Country/region-specific (India)</p></td>
 <td><p>AX 4.0 SP2 + IN GLS</p></td>
 <td><p><strong>Provided in AX 2012 R2 and AX 2012 R3:</strong></p>
 <p>UpgradeAX4_GIN.xpo</p></td>
 <td><p>Additional or modified upgrade preprocessing scripts that support functionality that is specific to India.</p></td>
 </tr>
 <tr class="odd">
-<td><p>Country-specific (Russia and Eastern Europe)</p></td>
+<td><p>Country/region-specific (Russia and Eastern Europe)</p></td>
 <td><p>AX 4.0 SP2 FP1 EE + REGFs</p></td>
 <td><p><strong>Provided in AX 2012 R2 and AX 2012 R3:</strong></p>
 <p>UpgradeAX4_GLS_EE.xpo</p>
@@ -157,7 +157,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>Country-specific (Japan)</p></td>
+<td><p>Country/region-specific (Japan)</p></td>
 <td><p>AX 4.0 SP2 + JP GLS</p></td>
 <td><p><strong>Provided in AX 2012 R2 and AX 2012 R3:</strong></p>
 <p>UpgradeAX4_GJP.xpo</p>
@@ -174,7 +174,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 </ul></td>
 </tr>
 <tr class="odd">
-<td><p>Country-specific (China, Japan, Brazil, and India)</p></td>
+<td><p>Country/region-specific (China, Japan, Brazil, and India)</p></td>
 <td><ul>
 <li><p>China: AX 2009 SP1 + GLS_Cons + RUx</p>
 <p>–or–</p>
@@ -200,7 +200,7 @@ All these files are located in the DatabaseUpgrade\\XPO folder on the installati
 </ul></td>
 </tr>
 <tr class="even">
-<td><p>Country-specific (Russia)</p></td>
+<td><p>Country/region-specific (Russia)</p></td>
 <td><p>AX 4.0 SP2 FP1 EE + RUHRP</p></td>
 <td><p><strong>Provided in AX 2012 R2 only:</strong></p>
 <p>SharedProject_AX40PreUpgrade_CISPayroll.xpo</p>

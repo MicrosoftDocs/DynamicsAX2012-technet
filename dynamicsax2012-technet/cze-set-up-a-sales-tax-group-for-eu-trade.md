@@ -23,7 +23,7 @@ _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
 2.  Press CTRL+N to create a new sales tax group on the **Overview** tab. Enter the required details.
 
-3.  Click the **General** tab, and then select the **EU trade** check box to use the sales tax group for transactions with European Union countries.
+3.  Click the **General** tab, and then select the **EU trade** check box to use the sales tax group for transactions with European Union countries/regions.
 
 4.  Press CTRL+S or close the form.
 

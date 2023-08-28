@@ -60,7 +60,7 @@ You can also create and post a sales order for an imported item or a leasing ser
 
 9.  In the **Custom date** field, select the date when the item was imported.
 
-10. In the **Custom name** field, enter the name of the customs authority in the country that the item was imported from. If you enter values in the **Custom number**, **Custom date**, and **Custom name** fields, you cannot enter a value in the **Property number** field.
+10. In the **Custom name** field, enter the name of the customs authority in the country/region that the item was imported from. If you enter values in the **Custom number**, **Custom date**, and **Custom name** fields, you cannot enter a value in the **Property number** field.
 
 11. In the **Property number** field, enter the registration number provided by the Mexican government for the leased property. If you enter a value in the **Property number** field, you cannot enter values in the **Custom number**, **Custom date**, and **Custom name** fields.
 

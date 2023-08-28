@@ -44,7 +44,7 @@ For more information about specific features for Eastern Europe, see [TechNet Li
 </ul>
 <p>You can perform the following tasks for prepayments:</p>
 <ul>
-<li><p>Create and post prepayments (include sales tax on prepayment) using special setup for Russia and Eastern Europe countries.</p></li>
+<li><p>Create and post prepayments (include sales tax on prepayment) using special setup for Russia and Eastern Europe countries/regions.</p></li>
 </ul>
 <p>You can peform the following tasks for gift cards:</p>
 <ul>

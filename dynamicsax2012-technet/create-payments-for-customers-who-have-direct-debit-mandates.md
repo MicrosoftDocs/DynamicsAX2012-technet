@@ -134,7 +134,7 @@ To create a payment proposal, follow these steps:
 
 15. Select the **Control report** check box to print a control report for the electronic payment file.
 
-16. Click **OK** to generate the electronic payment file in the format of the selected country.
+16. Click **OK** to generate the electronic payment file in the format of the selected country/region.
     
     Payments are generated, and the payment status in the **Journal voucher** form changes to **Sent**.
 

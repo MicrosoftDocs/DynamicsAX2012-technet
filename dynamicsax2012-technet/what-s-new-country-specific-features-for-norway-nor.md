@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for Norway (NOR)"
-TOCTitle: Country-specific features for Norway
+title: "What's new: Country/region-specific features for Norway (NOR)"
+TOCTitle: Country/region-specific features for Norway
 ms:assetid: 6dd6738b-935d-4505-b84d-8bc8d347813f
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527127(v=AX.60)
 ms:contentKeyID: 59623256
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for Norway (NOR) 
+# What's new: Country/region-specific features for Norway (NOR) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for Norway. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012, we changed and added country/region-specific functionality for Norway. For more information, see the tables that apply to your version of the product.
 
 ## What’s new in AX 2012 R2
 

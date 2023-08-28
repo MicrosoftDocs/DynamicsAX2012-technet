@@ -1,6 +1,6 @@
 ---
-title: "What's new: Country-specific features for France (FRA)"
-TOCTitle: Country-specific features for France
+title: "What's new: Country/region-specific features for France (FRA)"
+TOCTitle: Country/region-specific features for France
 ms:assetid: f7d70f5b-2c50-4964-9c68-e836b2c55d8a
 ms:mtpsurl: https://technet.microsoft.com/library/Dn527268(v=AX.60)
 ms:contentKeyID: 59623396
@@ -9,7 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 ---
 
-# What's new: Country-specific features for France (FRA) 
+# What's new: Country/region-specific features for France (FRA) 
 
 
 [!INCLUDE[archive-banner](includes/archive-banner.md)]
@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-In Microsoft Dynamics AX 2012, we changed and added country-specific functionality for France. For more information, see the tables that apply to your version of the product.
+In Microsoft Dynamics AX 2012, we changed and added country/region-specific functionality for France. For more information, see the tables that apply to your version of the product.
 
 ## What’s new in cumulative update 6 for Microsoft Dynamics AX 2012 R2
 
@@ -62,12 +62,12 @@ In Microsoft Dynamics AX 2012, we changed and added country-specific functionali
 <tbody>
 <tr class="odd">
 <td><p>Generate electronic payment files for Single Euro Payments Area (SEPA) direct debits.</p></td>
-<td><p>You can generate electronic payment files for SEPA direct debits in the updated ISO 20022 XML format and the pain.008.001.02 version. You can generate the payment files for a selected SEPA country format.</p>
+<td><p>You can generate electronic payment files for SEPA direct debits in the updated ISO 20022 XML format and the pain.008.001.02 version. You can generate the payment files for a selected SEPA country/region format.</p>
 <p>For more information, see <a href="create-payments-for-customers-who-have-direct-debit-mandates.md">Create payments for customers who have direct debit mandates</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Generate electronic payment files for SEPA credit transfers.</p></td>
-<td><p>You can generate electronic payment files in the SEPA credit transfer format, which supports the pain.001.001.03 version. You can generate the payment files for a selected SEPA country format.</p>
+<td><p>You can generate electronic payment files in the SEPA credit transfer format, which supports the pain.001.001.03 version. You can generate the payment files for a selected SEPA country/region format.</p>
 <p>For more information, see <a href="aut-bel-deu-esp-fin-fra-ita-nld-create-a-country-region-specific-sepa-credit-transfer-payment-file.md">(AUT, BEL, DEU, ESP, FIN, FRA, ITA, NLD) Create a country/region-specific SEPA credit transfer payment file</a>.</p></td>
 </tr>
 <tr class="odd">

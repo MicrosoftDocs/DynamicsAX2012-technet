@@ -51,7 +51,7 @@ Use this procedure to post the import order for a Duty Free Import Authorization
 
 
 
-9.  Click the **Setup** tab, and then, in the **Bill of entry date** field, select the date that the goods entered the country.
+9.  Click the **Setup** tab, and then, in the **Bill of entry date** field, select the date that the goods entered the country/region.
 
 10. Click **OK** to post the bill of entry and close the **Bill of entry** form.
 

@@ -46,7 +46,7 @@ In Microsoft Dynamics AX 2009, some sales tax payment features are shared by Tha
 </div>
 <p>For more information, see the white paper that describes the changes that are included in the Thai hotfix:</p>
 <ul>
-<li><p><a href="https://mbs.microsoft.com/partnersource/deployment/documentation/whitepapers/ax2012_thailand_wp">Country-specific updates for Thailand (in English)</a></p></li>
+<li><p><a href="https://mbs.microsoft.com/partnersource/deployment/documentation/whitepapers/ax2012_thailand_wp">Country/region-specific updates for Thailand (in English)</a></p></li>
 <li><p><a href="https://mbs.microsoft.com/downloads/public/ax2012docs/country_specific_updates_for_thailand_ax2012_translation.pdf">Country-specific updates for Thailand (in Thai)</a></p></li>
 </ul></td>
 </tr>

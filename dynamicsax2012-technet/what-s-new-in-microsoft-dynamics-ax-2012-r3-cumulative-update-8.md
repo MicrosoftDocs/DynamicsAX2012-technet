@@ -64,7 +64,7 @@ The following table outlines the features that were added in Microsoft Dynamics 
 <td><p>Procurement and sourcing</p></td>
 <td><p>You can create a contact record from the record of an unsolicited vendor.</p>
 <p>As part of the process for creating new users, Vendor portal administrators can add a vendor who will sign into the portal by using an email address from various providers, such as Yahoo.com or Live.com. Microsoft Dynamics AX authenticates the user via email.</p>
-<p>Vendor portal signup improvements include being able to specify a default country for vendors, require specific fields in the signup forms, and specify levels of product categories for vendors.</p>
+<p>Vendor portal signup improvements include being able to specify a default country/region for vendors, require specific fields in the signup forms, and specify levels of product categories for vendors.</p>
 <p>For more information, see <a href="what-s-new-procurement-and-sourcing-features.md">What's new: Procurement and sourcing features</a>.</p></td>
 </tr>
 <tr class="even">
@@ -177,7 +177,7 @@ Changes that affect developers were introduced in Microsoft Dynamics AX 2012 R3 
 </table>
 
 
-## Country-specific new features
+## Country/region-specific new features
 
 In Microsoft Dynamics AX 2012 R3 Cumulative Update 8, we added and changed several country/region-specific features.
 
@@ -195,31 +195,31 @@ In Microsoft Dynamics AX 2012 R3 Cumulative Update 8, we added and changed sever
 <tbody>
 <tr class="odd">
 <td><p>Brazil</p></td>
-<td><p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country-specific features for Brazil (BRA)</a>.</p></td>
+<td><p>For more information, see <a href="what-s-new-country-specific-features-for-brazil-bra.md">What's new: Country/region-specific features for Brazil (BRA)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>China</p></td>
-<td><p>For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country-specific features for China (CHN)</a>.</p></td>
+<td><p>For more information, see <a href="what-s-new-country-specific-features-for-china-chn.md">What's new: Country/region-specific features for China (CHN)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>India</p></td>
-<td><p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country-specific features for India (IND)</a>.</p></td>
+<td><p>For more information, see <a href="what-s-new-country-specific-features-for-india-ind.md">What's new: Country/region-specific features for India (IND)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Japan</p></td>
-<td><p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country-specific features for Japan (JPN)</a>.</p></td>
+<td><p>For more information, see <a href="what-s-new-country-specific-features-for-japan-jpn.md">What's new: Country/region-specific features for Japan (JPN)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Malaysia</p></td>
-<td><p>For more information, see <a href="what-s-new-country-specific-features-for-malaysia-mys.md">What's new: Country-specific features for Malaysia (MYS)</a>.</p></td>
+<td><p>For more information, see <a href="what-s-new-country-specific-features-for-malaysia-mys.md">What's new: Country/region-specific features for Malaysia (MYS)</a>.</p></td>
 </tr>
 <tr class="even">
 <td><p>Russia</p></td>
-<td><p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country-specific features for Russia (RUS)</a>.</p></td>
+<td><p>For more information, see <a href="what-s-new-country-specific-features-for-russia-rus.md">What's new: Country/region-specific features for Russia (RUS)</a>.</p></td>
 </tr>
 <tr class="odd">
 <td><p>Sweden</p></td>
-<td><p>For more information, see <a href="what-s-new-country-specific-features-for-sweden-swe.md">What's new: Country-specific features for Sweden (SWE)</a>.</p></td>
+<td><p>For more information, see <a href="what-s-new-country-specific-features-for-sweden-swe.md">What's new: Country/region-specific features for Sweden (SWE)</a>.</p></td>
 </tr>
 </tbody>
 </table>

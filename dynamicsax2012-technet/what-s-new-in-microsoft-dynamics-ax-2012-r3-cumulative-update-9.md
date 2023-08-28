@@ -108,7 +108,7 @@ Changes that affect developers were introduced in Microsoft Dynamics AX 2012 R3 
 </table>
 
 
-## Country-specific features
+## Country/region-specific features
 
 In Microsoft Dynamics AX 2012 R3 Cumulative Update 9, we updated several country/region-specific features.
 
@@ -219,7 +219,7 @@ In Microsoft Dynamics AX 2012 R3 Cumulative Update 9, we updated several country
 </tr>
 <tr class="odd">
 <td><p>Italy</p></td>
-<td><p>The frequency of Black list submissions has changed from monthly or quarterly to annually, however, this change applies only for amounts greater than €10,000 (instead of €500).</p>
+<td><p>The frequency of block list submissions has changed from monthly or quarterly to annually, however, this change applies only for amounts greater than €10,000 (instead of €500).</p>
 <p></p>
 <p>The Italian report, <strong>Inventory movements in a period</strong>, contains transaction sequences that are divided by item and with on-hand quantities.</p>
 <p></p>

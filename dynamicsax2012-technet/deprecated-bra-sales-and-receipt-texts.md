@@ -17,7 +17,7 @@ mtps_version: v=AX.60
 
 _**Applies To:** Microsoft Dynamics AX 2012 R3, Microsoft Dynamics AX 2012 R2_
 
-For Brazilian installations, Microsoft Dynamics AX 2009 provides country-specific modifications that support text that is linked to sales orders and purchase orders. This text information is meant to be printed as additional information for fiscal documents and, in some cases, to be booked as fiscal information in SPED files. This text information is stored and maintained in independent tables and forms for sales and purchasing modules.
+For Brazilian installations, Microsoft Dynamics AX 2009 provides country/region-specific modifications that support text that is linked to sales orders and purchase orders. This text information is meant to be printed as additional information for fiscal documents and, in some cases, to be booked as fiscal information in SPED files. This text information is stored and maintained in independent tables and forms for sales and purchasing modules.
 
 ## Overview
 

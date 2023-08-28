@@ -23,7 +23,7 @@ The topics in this section provide information about setting up and maintaining 
 
 [(EEUR) Cash management for retail points of sale](eeur-cash-management-for-retail-points-of-sale.md)
 
-[(EEUR) Retail customer invoices and return sales orders in Eastern European countries](eeur-retail-customer-invoices-and-return-sales-orders-in-eastern-european-countries.md)
+[(EEUR) Retail customer invoices and return sales orders in Eastern European countries/regions](eeur-retail-customer-invoices-and-return-sales-orders-in-eastern-european-countries.md)
 
   
 
