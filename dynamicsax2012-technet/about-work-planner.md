@@ -30,7 +30,7 @@ The profile calendar contains profile entries that differ from the standard work
 
   - A group of workers switch to the evening shift for a predefined period.
 
-  - A worker works on a Sunday or a national holiday. Therefore, a special profile or a Sunday profile may be used.
+  - A worker works on a Sunday or a national/regional holiday. Therefore, a special profile or a Sunday profile may be used.
 
 For more information about work time profiles, see [About profiles for time and attendance registrations](about-profiles-for-time-and-attendance-registrations.md).
 
