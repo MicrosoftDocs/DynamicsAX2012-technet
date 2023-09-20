@@ -13,6 +13,7 @@ f1_keywords:
 - delegates
 audience: Application User
 ms.search.region: Global
+description: Learn how to authorize timesheet delegates in Microsoft Dynamics AX 2012. Set up delegates for yourself or multiple workers efficiently.
 ---
 
 # Authorize timesheet delegates 
