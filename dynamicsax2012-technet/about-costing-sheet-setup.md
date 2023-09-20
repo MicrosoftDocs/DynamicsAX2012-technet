@@ -16,6 +16,7 @@ f1_keywords:
 - costing sheets
 audience: Application User
 ms.search.region: Global
+description: Learn how to set up a costing sheet in Microsoft Dynamics AX 2012. Understand the format, indirect cost calculations, and cost group features.
 ---
 
 # About costing sheet setup 
