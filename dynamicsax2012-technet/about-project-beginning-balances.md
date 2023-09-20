@@ -10,6 +10,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn how to transfer projects to Microsoft Dynamics AX using beginning balance transactions without affecting the general ledger.
 ---
 
 # About project beginning balances 
