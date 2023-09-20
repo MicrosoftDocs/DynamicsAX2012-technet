@@ -10,6 +10,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Understand the process of purchase requisitions in Microsoft Dynamics AX 2012. Learn about statuses, workflow, and review steps for efficient requisition management.
 ---
 
 # About statuses for purchase requisitions 

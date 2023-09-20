@@ -10,6 +10,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Explore Microsoft Dynamics AX 2012's BOM line types and their uses in production order estimation. Learn about Item, Phantom, Pegged supply, and Vendor types.
 ---
 
 # About line types 

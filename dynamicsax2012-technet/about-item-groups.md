@@ -10,6 +10,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn how to manage inventory effectively with Microsoft Dynamics AX 2012. Set up item groups, track sales, purchases, and more. Upgrade your inventory management.
 ---
 
 # About item groups 
