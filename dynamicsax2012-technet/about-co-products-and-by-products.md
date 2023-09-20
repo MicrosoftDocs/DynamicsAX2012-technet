@@ -18,6 +18,7 @@ f1_keywords:
 - co-product
 audience: Application User
 ms.search.region: Global
+description: Explore Microsoft Dynamics AX 2012's approach to co-products and by-products in manufacturing. Learn about cost allocation and burden management.
 ---
 
 # About co-products and by-products 
