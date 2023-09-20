@@ -7,6 +7,7 @@ ms:contentKeyID: 35132844
 author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
+description: Learn how to use a Report Data Provider Class in a report with Microsoft Dynamics AX 2012. Step-by-step guide for accessing and processing data.
 ---
 
 # How to: Use a Report Data Provider Class in a Report 

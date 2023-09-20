@@ -9,6 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Explore the comprehensive guide to Microsoft Dynamics AX 2012, an ERP solution for midsize and larger organizations. Learn common tasks and features.
 ---
 
 # Introduction to Microsoft Dynamics AX 2012 
