@@ -14,6 +14,7 @@ f1_keywords:
 - reservation hierarchy
 audience: Application User
 ms.search.region: Global
+description: Learn how to set up reservation hierarchies in Microsoft Dynamics AX 2012 R3 with this comprehensive guide. Improve your warehouse management today.
 ---
 
 # Set up reservation hierarchies 
