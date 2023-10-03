@@ -16,6 +16,7 @@ f1_keywords:
 - production order
 audience: Application User
 ms.search.region: Global
+description: Learn how to reverse production order status in Microsoft Dynamics AX 2012. Understand the impact on operations, inventory, and scheduling.
 ---
 
 # About reversing production order status 
