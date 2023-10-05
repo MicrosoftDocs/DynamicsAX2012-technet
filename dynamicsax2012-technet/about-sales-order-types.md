@@ -21,6 +21,7 @@ f1_keywords:
 - sales order types
 audience: Application User
 ms.search.region: Global
+description: Learn about different sales order types in Microsoft Dynamics AX 2012. Understand their uses, from draft to return orders. Updated info not available.
 ---
 
 # About sales order types 

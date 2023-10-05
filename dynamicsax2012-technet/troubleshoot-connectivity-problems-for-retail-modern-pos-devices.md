@@ -7,6 +7,7 @@ ms:contentKeyID: 63385373
 author: tonyafehr
 ms.date: 05/18/2015
 mtps_version: v=AX.60
+description: Troubleshoot and fix errors when activating a Retail Modern POS device with Microsoft Dynamics 365. Learn to resolve connectivity issues effectively.
 ---
 
 # Troubleshoot connectivity problems for Retail Modern POS devices 

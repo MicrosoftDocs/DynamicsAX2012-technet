@@ -18,6 +18,7 @@ f1_keywords:
 - planned order lead times
 audience: Application User
 ms.search.region: Global
+description: Learn about setting up purchase lead times in Microsoft Dynamics AX 2012. Discover how to override lead times based on vendor trade agreements.
 ---
 
 # About planned purchase order lead times 
