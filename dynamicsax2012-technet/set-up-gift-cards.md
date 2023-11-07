@@ -9,6 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn how to set up retail gift cards in Microsoft Dynamics AX 2012. Detailed guide on issuing, redeeming, and managing gift cards across your organization.
 ---
 
 # Set up gift cards 

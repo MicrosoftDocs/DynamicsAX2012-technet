@@ -14,6 +14,7 @@ f1_keywords:
 - MsDynAx060.Forms.CompanyNAFCode
 audience: Application User
 ms.search.region: France
+description: Learn how to use NAF codes and siret numbers in Microsoft Dynamics AX 2012 for identifying businesses and verifying registrations.
 ---
 
 # (FRA) NAF codes and siret numbers 

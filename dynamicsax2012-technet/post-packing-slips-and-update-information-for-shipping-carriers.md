@@ -9,6 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn how to post packing slips and update shipping carrier info for sales orders with Microsoft Dynamics AX 2012. Step-by-step guide included.
 ---
 
 # Post packing slips and update information for shipping carriers 

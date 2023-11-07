@@ -7,6 +7,7 @@ ms:contentKeyID: 39555417
 author: tonyafehr
 ms.date: 05/02/2014
 mtps_version: v=AX.60
+description: Learn how to manage record-level security in Microsoft Dynamics AX 2012. Understand role-based restrictions, data security policies, and setup process.
 ---
 
 # Manage record level security 
