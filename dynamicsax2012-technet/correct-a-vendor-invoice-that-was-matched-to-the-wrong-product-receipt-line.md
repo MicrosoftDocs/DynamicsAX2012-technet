@@ -9,6 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn how to correct a vendor invoice matched to the wrong product receipt line in Microsoft Dynamics AX 2012. Step-by-step guide included.
 ---
 
 # Correct a vendor invoice that was matched to the wrong product receipt line 

@@ -9,6 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: "Explore Microsoft Dynamics AX 2012's three picking methods: consolidated picking, order picking, and inventory transaction picking. Learn how to optimize your warehouse management."
 ---
 
 # Picking methods 

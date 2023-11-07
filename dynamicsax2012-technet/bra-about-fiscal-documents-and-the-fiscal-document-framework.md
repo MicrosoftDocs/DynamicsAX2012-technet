@@ -12,6 +12,7 @@ f1_keywords:
 - BR - 00010
 audience: Application User
 ms.search.region: Brazil
+description: Learn about fiscal documents and the fiscal document framework in Microsoft Dynamics AX 2012. Understand their legal use, generation formats, and reporting requirements.
 ---
 
 # (BRA) About fiscal documents and the fiscal document framework 

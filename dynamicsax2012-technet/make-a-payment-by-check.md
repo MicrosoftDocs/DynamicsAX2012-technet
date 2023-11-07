@@ -9,6 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn how to set up and make a payment by check with Microsoft Dynamics AX 2012. Step-by-step guide for bank account setup, check layout, and payment process.
 ---
 
 # Make a payment by check 
