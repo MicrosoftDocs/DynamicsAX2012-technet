@@ -13,6 +13,7 @@ f1_keywords:
 - procurement category
 audience: Application User
 ms.search.region: Global
+description: Explore Microsoft Dynamics AX 2012's category hierarchies for efficient product classification, reporting, and analysis. Learn the benefits of procurement hierarchies.
 ---
 
 # About category hierarchies 
