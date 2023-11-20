@@ -13,6 +13,7 @@ f1_keywords:
 - EPSalesTotalsAll
 audience: Application User
 ms.search.region: Global
+description: Learn how to view and understand sales orders and totals in Microsoft Dynamics AX 2012. Track order progress, view totals, and manage shipments.
 ---
 
 # View sales orders and totals 

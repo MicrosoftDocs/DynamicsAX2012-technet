@@ -7,6 +7,7 @@ ms:contentKeyID: 35133452
 author: tonyafehr
 ms.date: 04/17/2013
 mtps_version: v=AX.60
+description: Solve Microsoft Dynamics AX 2012 report deployment issues with this comprehensive guide. Learn to troubleshoot common problems and errors effectively.
 ---
 
 # Troubleshoot Report Deployment Issues 

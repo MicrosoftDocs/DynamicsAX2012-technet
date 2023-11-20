@@ -13,6 +13,7 @@ f1_keywords:
 - set up prices for items
 audience: Application User
 ms.search.region: Global
+description: Learn how to define sales prices for products using trade agreements on Microsoft Dynamics AX 2012. Discover price adjustments, discounts, and more.
 ---
 
 # Define sales prices for products 
