@@ -9,6 +9,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 f1_keywords:
 - SSRS_Reports.Reports.CustAgingReport
+description: Learn how to generate and filter the Customer Aging Report in Microsoft Dynamics AX 2012. Understand balances due from customers by date or aging period.
 ---
 
 # Customer aging report (CustAgingReport) 
