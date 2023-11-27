@@ -7,6 +7,7 @@ ms:contentKeyID: 35949272
 author: tonyafehr
 ms.date: 04/18/2014
 mtps_version: v=AX.60
+description: Learn how to manage load balancing in Microsoft Dynamics AX for less downtime, easier maintenance, and greater scalability. Visit now.
 ---
 
 # Manage load balancing 

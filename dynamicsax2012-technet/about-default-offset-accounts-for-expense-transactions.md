@@ -10,6 +10,7 @@ ms.date: 04/18/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn about setting up default offset accounts for expense transactions in Microsoft Dynamics AX 2012. Understand how it aids in efficient expense management.
 ---
 
 # About default offset accounts for expense transactions 

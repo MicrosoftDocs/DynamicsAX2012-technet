@@ -12,6 +12,7 @@ f1_keywords:
 - EPCustPackingSlipJournalList
 audience: Application User
 ms.search.region: Global
+description: Learn how to view and manage sales packing slips in Microsoft Dynamics AX 2012. Access detailed information and copies of packing slips for customers.
 ---
 
 # View sales packing slips 

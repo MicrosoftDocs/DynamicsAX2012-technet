@@ -9,6 +9,7 @@ ms.date: 09/06/2018
 mtps_version: v=AX.60
 f1_keywords:
 - MsDynAx060.Forms.DMFDefinitionGroup
+description: Learn how to migrate data using the Data Import/Export Framework for Microsoft Dynamics AX 2012. Detailed guide includes defining source data formats, identifying entities, and more.
 ---
 
 # Migrate data by using the Data Import/Export Framework (DIXF)

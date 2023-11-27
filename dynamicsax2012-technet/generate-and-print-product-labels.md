@@ -11,6 +11,7 @@ f1_keywords:
 - Forms.RetailPrintLabels
 audience: Application User
 ms.search.region: Global
+description: Learn how to generate and print product labels with Microsoft Dynamics AX 2012. Detailed guide for creating labels manually or in bulk, and setting up reports.
 ---
 
 # Generate and print product labels 

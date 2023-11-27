@@ -10,6 +10,7 @@ ms.date: 06/13/2014
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn about setting up signing limits in Microsoft Dynamics AX 2012. Understand expenditure management, spending limits, approval limits, and more.
 ---
 
 # About signing limit setup 

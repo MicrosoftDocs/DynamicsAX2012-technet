@@ -9,6 +9,7 @@ ms.date: 04/20/2015
 mtps_version: v=AX.60
 audience: Application User
 ms.search.region: Global
+description: Learn how to complete, approve, or reject a purchase requisition in Microsoft Dynamics AX 2012. Step-by-step guide for efficient workflow management.
 ---
 
 # Complete, approve, or reject a purchase requisition 

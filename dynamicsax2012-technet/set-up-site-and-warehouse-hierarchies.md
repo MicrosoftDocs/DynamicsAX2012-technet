@@ -16,6 +16,7 @@ f1_keywords:
 - site infrastructure
 audience: Application User
 ms.search.region: Global
+description: Learn how to set up site and warehouse hierarchies in Microsoft Dynamics AX 2012. Step-by-step guide to assign warehouses to sites and manage hierarchies.
 ---
 
 # Set up site and warehouse hierarchies 
