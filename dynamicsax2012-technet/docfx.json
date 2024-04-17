@@ -51,7 +51,8 @@
                                          "ms.date":  "06/21/2018",
                                          "ms.topic":  "conceptual",
                                          "feedback_system": "none",
-                                         "uhfHeaderId": "MSDocsHeader-Dynamics365"
+                                         "uhfHeaderId": "MSDocsHeader-Dynamics365",
+                                         "NOINDEXKS": true
                                      },
                   "fileMetadata":  {
                             "searchScope": {
