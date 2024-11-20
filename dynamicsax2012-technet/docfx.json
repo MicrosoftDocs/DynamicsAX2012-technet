@@ -1,70 +1,64 @@
 {
-    "build":  {
-                  "content":  [
-                                  {
-                                      "files":  [
-                                                    "**/*.md",
-                                                    "**/*.yml",
-                                                    "toc.yml"
-                                                ],
-                                      "exclude":  [
-                                                      "**/obj/**",
-                                                      "**/includes/**",
-                                                      "_themes/**",
-                                                      "_themes.pdf/**",
-                                                      "README.md",
-                                                      "LICENSE",
-                                                      "LICENSE-CODE",
-                                                      "ThirdPartyNotices",
-                                                      "**/toc.md"
-                                                  ]
-                                  }
-                              ],
-                  "resource":  [
-                                   {
-                                       "files":  [
-                                                     "**/*.png",
-                                                     "**/*.jpg",
-                                                     "**/*.gif",
-                                                     "**/*.bmp",
-                                                     "**/*.jpeg"
-                                                 ],
-                                       "exclude":  [
-                                                       "**/obj/**",
-                                                       "**/includes/**",
-                                                       "_themes/**",
-                                                       "_themes.pdf/**"
-                                                   ]
-                                   }
-                               ],
-                  "overwrite":  [
-
-                                ],
-                  "externalReference":  [
-
-                                        ],
-                  "globalMetadata":  {
-                           "ms.service": "dynamics-ax-2012",
-                                         "breadcrumb_path":  "/dynamicsax-2012/appuser-itpro/breadcrumb/toc.json",
-                                         "ROBOTS":  "INDEX,FOLLOW",
-                                         "is_archived":  false,
-                                         "ms.date":  "06/21/2018",
-                                         "ms.topic":  "conceptual",
-                                         "feedback_system": "none",
-                                         "uhfHeaderId": "MSDocsHeader-Dynamics365"
-                                     },
-                  "fileMetadata":  {
-                            "searchScope": {
-        "**.*": [
-          "Dynamics AX2012"
-        ]
-                            }
-
-                                   },
-                  "template":  [
-
-                               ],
-                  "dest":  "dynamicsax2012-technet",
-                  "markdownEngineName":  "markdig"
-              }
+    "build": {
+        "content": [
+            {
+                "files": [
+                    "**/*.md",
+                    "**/*.yml",
+                    "toc.yml"
+                ],
+                "exclude": [
+                    "**/obj/**",
+                    "**/includes/**",
+                    "_themes/**",
+                    "_themes.pdf/**",
+                    "README.md",
+                    "LICENSE",
+                    "LICENSE-CODE",
+                    "ThirdPartyNotices",
+                    "**/toc.md"
+                ]
+            }
+        ],
+        "resource": [
+            {
+                "files": [
+                    "**/*.png",
+                    "**/*.jpg",
+                    "**/*.gif",
+                    "**/*.bmp",
+                    "**/*.jpeg"
+                ],
+                "exclude": [
+                    "**/obj/**",
+                    "**/includes/**",
+                    "_themes/**",
+                    "_themes.pdf/**"
+                ]
+            }
+        ],
+        "overwrite": [],
+        "externalReference": [],
+        "globalMetadata": {
+            "ms.service": "dynamics-ax-2012",
+            "breadcrumb_path": "/dynamicsax-2012/appuser-itpro/breadcrumb/toc.json",
+            "ROBOTS": "NOINDEX,NOFOLLOW",
+            "is_archived": false,
+            "learn_archive": "manual",
+            "ms.date": "06/21/2018",
+            "ms.topic": "conceptual",
+            "feedback_system": "none",
+            "uhfHeaderId": "MSDocsHeader-Dynamics365"
+        },
+        "fileMetadata": {
+            "searchScope": {
+                "**.*": [
+                    "Dynamics AX2012"
+                ]
+            }
+        },
+        "template": [],
+        "dest": "dynamicsax2012-technet",
+        "markdownEngineName": "markdig"
+    }
 }

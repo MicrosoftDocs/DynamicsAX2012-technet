@@ -1,3 +1,15 @@
-- name: Microsoft Dynamics AX 2012
-  tocHref: /dynamicsax-2012/
-  topicHref: /dynamicsax-2012/index
+- name: Learn
+  tocHref: /
+  topicHref: /
+  items:
+  - name: Previous Versions
+    tocHref: /previous-versions/
+    topicHref: /previous-versions/
+    items:
+    - name: Dynamics 365
+      tocHref: /dynamics365/
+      topicHref: /dynamics365/index
+      items:
+      - name: Microsoft Dynamics AX 2012
+        tocHref: /previous-versions/dynamicsax-2012/appuser-itpro/
+        topicHref: /previous-versions/dynamicsax-2012/appuser-itpro/microsoft-dynamics-ax-2012-technical-library
