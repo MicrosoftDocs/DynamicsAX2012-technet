@@ -42,6 +42,7 @@
         "globalMetadata": {
             "ms.service": "dynamics-ax-2012",
             "breadcrumb_path": "/previous-versions/dynamicsax-2012/appuser-itpro/breadcrumb/toc.json",
+            "extendBreadcrumb": false,
             "ROBOTS": "NOINDEX,NOFOLLOW",
             "is_archived": true,
             "learn_archive": "manual",
