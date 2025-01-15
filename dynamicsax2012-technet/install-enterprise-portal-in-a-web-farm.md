@@ -299,7 +299,7 @@ If Enterprise Portal pages display authentication and access errors after you in
 
 2.  Locate the machineKey section, and copy the validationKey and decryptionKey values to a separate text file. The following is an example of a machineKey section:
     
-        <machineKey validationKey="4785A9C8F5FA32B47E5245AC48671291F1CE55735A475EB7" decryptionKey="D961976E181646326D64E01AB2052F5D076F0ABDE2C702FB" validation="SHA1" />
+        `<machineKey validationKey="[your key here]" decryptionKey="[your key here]" validation="SHA1" />`
 
 3.  Edit the web.config files on the other servers in the Web farm. Replace the existing machineKey values with the values that you copied from the administration server for the Web farm.
 
